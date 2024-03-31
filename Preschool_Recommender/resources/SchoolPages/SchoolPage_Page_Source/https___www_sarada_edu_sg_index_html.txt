@@ -446,8 +446,8 @@ picrun_ini()
                       <tbody><tr>
                         <td>
                           <!--js开始 -->
-                          <div id="js" class="js"><img alt="" src="images/2-1.jpg">
-                            <img style="DISPLAY: none" alt="" src="images/2-2.jpg">
+                          <div id="js" class="js"><img alt="" src="images/2-1.jpg" style="display: none;">
+                            <img style="" alt="" src="images/2-2.jpg">
                             <img style="DISPLAY: none" alt="" src="images/2-3.jpg">
                             <img style="DISPLAY: none" alt="" src="images/2-4.jpg">
                             <img style="DISPLAY: none" alt="" src="images/2-5.jpg">
@@ -478,8 +478,8 @@ picrun_ini()
                             
                             <div id="jsNav" class="jsNav">
                               <a id="prev" class="prevBtn" href="javascript:void(0)"></a>
-                              <a class="trigger imgSelected" href="javascript:void(0)"></a>
                               <a class="trigger" href="javascript:void(0)"></a>
+                              <a class="trigger imgSelected" href="javascript:void(0)"></a>
                               <a class="trigger" href="javascript:void(0)"></a>
                               <a class="trigger" href="javascript:void(0)"></a>
                               <a class="trigger" href="javascript:void(0)"></a>
