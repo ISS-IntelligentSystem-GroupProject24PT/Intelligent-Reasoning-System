@@ -1,0 +1,1482 @@
+<html lang="en-US"><head><meta http-equiv="origin-trial" content="Az520Inasey3TAyqLyojQa8MnmCALSEU29yQFW8dePZ7xQTvSt73pHazLFTK5f7SyLUJSo2uKLesEtEa9aUYcgMAAACPeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZyIsImV4cGlyeSI6MTcyNTQwNzk5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+	<title>Celebration – 7OAKS Preschool</title>
+<meta name="robots" content="max-image-preview:large">
+<link href="https://fonts.gstatic.com" crossorigin="" rel="preconnect">
+<link rel="alternate" type="application/rss+xml" title="7OAKS Preschool » Feed" href="https://7oaks.sg/feed/">
+<link rel="alternate" type="application/rss+xml" title="7OAKS Preschool » Comments Feed" href="https://7oaks.sg/comments/feed/">
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id="classic-theme-styles-inline-css">
+/**
+ * These rules are needed for backwards compatibility.
+ * They should match the button element rules in the base theme.json file.
+ */
+.wp-block-button__link {
+	color: #ffffff;
+	background-color: #32373c;
+	border-radius: 9999px; /* 100% causes an oval, but any explicit but really high value retains the pill shape. */
+
+	/* This needs a low specificity so it won't override the rules from the button element if defined in theme.json. */
+	box-shadow: none;
+	text-decoration: none;
+
+	/* The extra 2px are added to size solids the same as the outline versions.*/
+	padding: calc(0.667em + 2px) calc(1.333em + 2px);
+
+	font-size: 1.125em;
+}
+
+.wp-block-file__button {
+	background: #32373c;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+</style>
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://7oaks.sg/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8" media="all">
+<style id="contact-form-7-inline-css">
+.wpcf7 .wpcf7-recaptcha iframe {margin-bottom: 0;}.wpcf7 .wpcf7-recaptcha[data-align="center"] > div {margin: 0 auto;}.wpcf7 .wpcf7-recaptcha[data-align="right"] > div {margin: 0 0 0 auto;}
+</style>
+<link rel="stylesheet" id="wpcf7-redirect-script-frontend-css" href="https://7oaks.sg/wp-content/plugins/wpcf7-redirect/build/css/wpcf7-redirect-frontend.min.css?ver=1.1" media="all">
+<link rel="stylesheet" id="oaksWP-core-css" href="https://7oaks.sg/wp-content/themes/oaksWP/css/core.min.css?ver=1.0.0.1695709760" media="all">
+<link rel="stylesheet" id="oaksWP-swiper-css" href="https://7oaks.sg/wp-content/themes/oaksWP/css/swiper-bundle.min.css?ver=1.0.0.1695709760" media="all">
+<link rel="stylesheet" id="oaksWP-aos-css" href="https://7oaks.sg/wp-content/themes/oaksWP/css/aos.css?ver=1.0.0.1695709760" media="all">
+<link rel="stylesheet" id="oaksWP-awesome-css" href="https://7oaks.sg/wp-content/themes/oaksWP/css/awesome.min.css?ver=1.0.0.1695709760" media="all">
+<link rel="stylesheet" id="oaksWP-styles1-css" href="https://7oaks.sg/wp-content/themes/oaksWP/scss/styles.css?ver=1.0.0.1695709760" media="all">
+<link rel="stylesheet" id="cf7cf-style-css" href="https://7oaks.sg/wp-content/plugins/cf7-conditional-fields/style.css?ver=2.3.10" media="all">
+<script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/moV1mTgQ6S91nuTnmll4Y9yf/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-wEVSdqKc5hf9vkWC9kAmVRAEa11o8QNGecO6p5G2xGj+RmQhgDqFDCRdpfSr1VUf"></script><script src="https://connect.facebook.net/signals/config/327648215867357?v=2.9.151&amp;r=stable&amp;domain=7oaks.sg&amp;hme=8ce74e881727851b4427183947937854816d72704925561b9de6420cd43214ee&amp;ex_m=66%2C111%2C98%2C102%2C57%2C3%2C92%2C65%2C15%2C90%2C83%2C48%2C50%2C157%2C160%2C171%2C167%2C168%2C170%2C28%2C93%2C49%2C72%2C169%2C152%2C155%2C164%2C165%2C172%2C120%2C14%2C47%2C176%2C175%2C122%2C17%2C32%2C36%2C1%2C40%2C61%2C62%2C63%2C67%2C87%2C16%2C13%2C89%2C86%2C85%2C99%2C101%2C35%2C100%2C29%2C25%2C153%2C156%2C129%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C53%2C58%2C60%2C70%2C94%2C26%2C71%2C8%2C7%2C75%2C45%2C20%2C96%2C95%2C9%2C19%2C18%2C77%2C82%2C44%2C43%2C81%2C37%2C39%2C80%2C52%2C78%2C31%2C41%2C34%2C69%2C0%2C88%2C4%2C84%2C76%2C79%2C2%2C33%2C59%2C38%2C97%2C42%2C74%2C64%2C103%2C56%2C55%2C30%2C91%2C54%2C51%2C46%2C73%2C68%2C23%2C104" async=""></script><script type="text/javascript" async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-11149405525&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-2ZNVC39VZE&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TN7DNJ2"></script><script src="https://7oaks.sg/wp-includes/js/jquery/jquery.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://7oaks.sg/wp-includes/js/jquery/jquery-migrate.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://7oaks.sg/wp-json/"><link rel="alternate" type="application/json" href="https://7oaks.sg/wp-json/wp/v2/pages/54"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://7oaks.sg/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.4.3">
+<link rel="canonical" href="https://7oaks.sg/40anniversary-celebrations/">
+<link rel="shortlink" href="https://7oaks.sg/?p=54">
+<link rel="alternate" type="application/json+oembed" href="https://7oaks.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2F7oaks.sg%2F40anniversary-celebrations%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://7oaks.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2F7oaks.sg%2F40anniversary-celebrations%2F&amp;format=xml">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="7OAKS Preschool - celebrates 40 years!">
+<link rel="icon" href="https://7oaks.sg/wp-content/uploads/2023/08/cropped-logo-01-e1691550079386-1-32x32.png" sizes="32x32">
+<link rel="icon" href="https://7oaks.sg/wp-content/uploads/2023/08/cropped-logo-01-e1691550079386-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://7oaks.sg/wp-content/uploads/2023/08/cropped-logo-01-e1691550079386-1-180x180.png">
+<meta name="msapplication-TileImage" content="https://7oaks.sg/wp-content/uploads/2023/08/cropped-logo-01-e1691550079386-1-270x270.png">
+		<style id="wp-custom-css">
+			.col-2dot5,
+.col-sm-2dot5,
+.col-md-2dot5,
+.col-lg-2dot5,
+.col-xl-2dot5 {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.col-2dot5{
+  flex: 0 0 20%;
+  max-width: 20%;
+}
+@media (max-width: 575.98px) {
+  .col-sm-2dot5 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+@media (max-width: 767.98px) {
+  .col-md-2dot5 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+@media (max-width: 991.98px) {
+  .col-lg-2dot5 {
+    flex: 0 0 20%;
+    max-width: 20%;
+  }
+}
+@media (max-width: 1199.98px) {
+  .col-xl-2dot4 {
+    flex: 0 0 20%;
+    max-width: 20%;
+  }
+}
+
+.footer .logo img{
+	margin: auto;
+}
+.new-section .wrap .accordions .tabs-wrapper{
+	padding: 2rem;
+	border-radius: 1rem;
+	height: 100%;
+	margin-bottom: 2rem;
+	border: 1px dashed #FFFFFF;
+	background-color: #FFFFFF;
+}
+.new-section .wrap .accordions .tabs-wrapper .title{
+	font-weight: 600;
+}
+.new-section .wrap .accordions .tabs-wrapper .content{
+	padding-top: 3rem;
+}
+.new-section .wrap .accordions .tabs-wrapper .content img{
+	width: 100%;
+	height: auto;
+}
+.new-section .tabs-stage .image {
+    position: relative;
+    padding-top: 60%;
+}
+.new-section .tabs-stage .image img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+	  border-radius: 20px;
+
+}
+.new-section .tabs-stage .title{
+	color: #FFFFFF;
+	font-style: italic;
+}
+.celebration:first-child .content .description{
+	text-align: justify;	
+}
+.celebration .content .description h3{
+	font-weight: normal;
+}
+.celebration .content .description img{
+	width: 100%;
+	height: auto;
+}
+.festival-details + .celebration{
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.new-section + .celebration .box-content .content{
+	background-color: #FEBD31;
+	padding: 2rem 5rem 6rem;
+  border-radius: 30px;
+}
+.festival-details{
+	padding-bottom: 5rem;
+}
+.new-section .wrap .accordions .accordion-item .accordion-heading{
+	padding: 1.5rem 2.5rem;
+	border-radius: 2rem;
+	background-color: #FFFFFF;
+}
+.festival-details .details{
+	height: 74rem;
+}
+.festival-details .details .list-box{
+	height: 65rem;
+}
+.festival-details .image{
+	height: 74rem;
+}
+.festival-details .details .box .info-list li .icon{
+	flex-shrink: 0;
+}
+.festival-details .details .box .info-list li .icon{
+	margin-top: 0.75rem;
+}
+.festival-details .details .box .info-list li{
+	align-items: flex-start;
+}
+.new-section .wrap{
+	background-color: #11655D;
+	border-radius: 5.2rem;
+	padding: 9rem 0 7.5rem 0;
+}
+.celebration .content .description img{
+	margin: 0 auto;
+	border-radius: 20px;
+}
+.contact-form .images .image:nth-child(3){
+	  width: 15.2rem;
+    height: 15.2rem;
+}
+.contact-form .images .image:nth-child(4) {
+	width: 15.2rem;
+  height: 15.2rem;
+}
+.contact-form .btn.btn-red{
+	border: 0;
+}
+.paragraph .content{
+	border-left: 2px dashed #707070;
+}
+.photo-gallery .slider .swiper-slide .bottom-content .text-25{
+	text-align: center;
+} 
+.photo-gallery .slider .swiper-slide .top-content .image img{
+	border-radius: 20px;
+	object-fit: cover;
+}
+.our-stories .boxes .image img{
+	border-radius: 20px;
+}
+.evolution .box-content .slider .swiper-container .image img{
+	border-radius: 20px;
+}
+.evolutions .box-content .slider .swiper-container .image img{
+	border-radius: 20px;
+}
+.moving-forward .swiper-container .swiper-slide .item .images img{
+	border-radius: 20px;
+}
+.evolution-detail .slider .item-1 .image img{
+	border-radius: 20px;
+}
+.evolution-detail .item-1 .image{
+	border-radius: 20px;
+}
+.new-section .swiper-pagination .swiper-pagination-bullet {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-right: 1rem;
+    opacity: 1;
+    background-color: #FFFFFF;
+}
+.new-section .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
+    background-color: #11655D;
+}
+.new-section .slider .swiper-pagination {
+    left: 0;
+    right: 0;
+    bottom: 5rem;
+}
+.testimonials .slider .swiper-container .swiper-slide{
+	border-radius: 20px;
+}
+.faq-section .wrap{
+	background-color: #11655D;
+}
+.evolution.home .box-content{
+	padding-bottom: 10rem;
+}
+.contact-form .box-contact .about-us-radio{
+	display: flex;
+	flex-direction: column;
+}
+.contact-form .box-contact .wpcf7-acceptance .inline-block{
+	display: inline-block;
+	text-decoration: underline;
+}
+.contact-form .images .image:nth-child(4){
+	bottom: inherit;
+	top: 57rem;
+}
+.contact-form .images .image:nth-child(3){
+	bottom: inherit;
+	top: 45rem;
+}
+.contact-form{
+	padding: 0;
+}
+.contact-form .box-content{
+	padding: 12rem 3rem 6rem 3rem;
+	border-right: 2px dashed #707070;
+  border-left: 2px dashed #707070;
+}
+.thank-you .image-icon{
+	width: 40rem;
+	margin: 0 auto;
+}
+.thank-you .image-icon img{
+	width: 100%;
+	height: auto;
+}
+.faq-section .wrap .accordions .accordion-content ul{
+	padding-left: 2rem;
+}
+.faq-section .wrap .accordions .accordion-content a{
+	display: inline-block;
+	text-decoration: underline;
+}
+.kindergarten-slider{
+	position: relative;
+} 
+.kindergarten-slider .swiper-button-prev{
+	left: 1rem;
+	top: 50%;
+	transform: translatey(-50%);
+	filter: brightness(0) invert(1);
+}
+.kindergarten-slider .swiper-button-next{
+	right: 1rem;
+	top: 50%;
+	transform: translatey(-50%);
+	filter: brightness(0) invert(1);
+}
+.evolution-detail img{
+	border-radius: 20px;
+}
+.evolutions .box-content .slider .swiper-pagination .swiper-pagination-bullet{
+	opacity: 0.5;
+}
+.evolutions .box-content .slider .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active{
+	  opacity: 1;
+}
+.section-count-item{
+	padding: 10rem 0;
+}
+.section-count-item .statistics .item .box-icon{
+	width: 10rem;
+	margin: 0 auto;
+}
+.section-count-item .statistics .item .icon{
+	position: relative;
+	padding-top: 100%;
+}
+.section-count-item .statistics .item .icon img{
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+}
+.evolution-detail .description ul{
+	padding-bottom: 2rem;
+}
+.evolution-detail .description table{
+	border: 0;
+}
+.evolution-detail .description table tr{
+	border: 0;
+}
+.evolution-detail .description table tr td{
+	border: 0;
+}
+.evolution-detail .description table tr td:first-child{
+	border-right: 1px solid #000000;
+}
+@media only screen and (max-width: 991px) {
+.new-section .wrap .accordions .tabs-wrapper{
+		height: auto;
+	}
+	.contact-form .images .image{
+		position: inherit;
+	}
+	.contact-form .images .image:nth-child(2){
+		top: 6rem;
+	}
+	.contact-form .images .image:nth-child(3){
+		 bottom: inherit;
+    top: 0;
+    right: 0;
+    margin-left: auto;
+	}
+	.section-count-item .statistics .item{
+		margin: 1rem 0;
+	}
+}
+
+
+
+
+
+
+
+
+
+		</style>
+			<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-TN7DNJ2');</script>
+	<!-- End Google Tag Manager -->
+<meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11149405525/?random=1711866868915&amp;cv=11&amp;fst=1711866868915&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0v9112834201z8895166284za200&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2F7oaks.sg%2F40anniversary-celebrations%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Celebration%20%E2%80%93%207OAKS%20Preschool&amp;npa=0&amp;pscdl=noapi&amp;auid=461870669.1711866869&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B123.0.6312.86%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.86&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;fdr=QA&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+
+<body class="page-template-default page page-id-54 wp-custom-logo wp-embed-responsive" itemscope="" itemtype="http://schema.org/WebSite" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN7DNJ2"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	
+		<div class="site" id="page">
+		<header class="header fixed">
+			<div class="header-top">
+				<div class="container">
+					<div class="wrapper">
+						<a href="https://7oaks.sg/" class="logo" rel="home"><img width="2000" height="706" src="https://7oaks.sg/wp-content/uploads/2023/08/cropped-logo_trans_bg-1.png" class="img-fluid" alt="7OAKS Preschool" decoding="async" fetchpriority="high" srcset="https://7oaks.sg/wp-content/uploads/2023/08/cropped-logo_trans_bg-1.png 2000w, https://7oaks.sg/wp-content/uploads/2023/08/cropped-logo_trans_bg-1-300x106.png 300w, https://7oaks.sg/wp-content/uploads/2023/08/cropped-logo_trans_bg-1-1024x361.png 1024w, https://7oaks.sg/wp-content/uploads/2023/08/cropped-logo_trans_bg-1-768x271.png 768w, https://7oaks.sg/wp-content/uploads/2023/08/cropped-logo_trans_bg-1-1536x542.png 1536w" sizes="(max-width: 2000px) 100vw, 2000px"></a>								
+							<div class="toggle-btn"><svg class="svg-trigger" viewBox="0 0 100 100">
+								<path d="m 30,33 h 40 c 3.722839,0 7.5,3.126468 7.5,8.578427 0,5.451959 -2.727029,8.421573 -7.5,8.421573 h -20">
+								</path>
+								<path d="m 30,50 h 40"></path>
+								<path d="m 70,67 h -40 c 0,0 -7.5,-0.802118 -7.5,-8.365747 0,-7.563629 7.5,-8.634253 7.5,-8.634253 h 20">
+								</path>
+							</svg>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="mobile-nav-inner"><nav class="menu">
+			<ul class="menu-list">
+									<li class="menu-item ">
+
+						<a class="menu-link " href="https://7oaks.sg/">Home													</a>
+					</li>
+									<li class="menu-item ">
+
+						<a class="menu-link " href="https://7oaks.sg/ps/about-us">About Us													</a>
+					</li>
+									<li class="menu-item ">
+
+						<a class="menu-link " href="https://7oaks.sg/ps/infant-care">Infant Care													</a>
+					</li>
+									<li class="menu-item ">
+
+						<a class="menu-link " href="https://7oaks.sg/ps/childcare">Childcare													</a>
+					</li>
+									<li class="menu-item ">
+
+						<a class="menu-link " href="https://7oaks.sg/ps/contact-us/">Contact Us													</a>
+					</li>
+									<li class="menu-item ">
+
+						<a class="menu-link " href="https://7oaks.sg/ps/programme-enquiries/">Programme Enquiries													</a>
+					</li>
+									<li class="menu-item ">
+
+						<a class="menu-link " href="https://7oaks.sg/40anniversary-celebrations">40th Anniversary Celebrations													</a>
+					</li>
+							</ul>
+		</nav></div>
+			<div class="overlay"></div>
+		</header><div style="height: 121px;"></div>
+
+		<div id="content"><section class="celebration">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                                    <div class="heading-90 red font-londrina text-center">
+                        Anniversary Celebrations                    </div>
+                            </div>
+        </div>
+        <div class="box-content">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="content">
+                        
+                                                    <div class="heading-40 green font-londrina text-center mt-40">
+                                Join us in celebrating our 40th Anniversary!                            </div>
+                                                    <div class="mt-50 description text-center">
+                                <h3>Here is a sneak peek at the lineups:<p><br></p></h3><ul>
+	<li><strong></strong><strong>40 Reflections for 40 Years,</strong> a special edition social media campaign featuring stories from our young alumni, customers, employees and leaders. Follow us on social media!</li>
+	<br>
+	<li><strong>Children-Led Projects, </strong>our K2 students create Reggio projects for the Learning Festival. See their amazing work!</li>
+	<br>
+	<li><span></span><strong>The Learning Festival</strong><strong>, </strong>a fun and educational event for young children aged 2 to 6 years old, parents, early childhood educators and students, and jobseekers too! Explore five different learning zones, where you can complete hands-on activities, collect stamps, and win prizes. Parents and children can team up to learn and have fun together!</li>
+</ul>                            </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section><section class="festival-details">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-6 p-0">
+                                    <div class="image">
+                        <img width="2560" height="1707" src="https://7oaks.sg/wp-content/uploads/2023/09/DSC_8178-scaled.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/09/DSC_8178-scaled.jpg 2560w, https://7oaks.sg/wp-content/uploads/2023/09/DSC_8178-300x200.jpg 300w, https://7oaks.sg/wp-content/uploads/2023/09/DSC_8178-1024x683.jpg 1024w, https://7oaks.sg/wp-content/uploads/2023/09/DSC_8178-768x512.jpg 768w, https://7oaks.sg/wp-content/uploads/2023/09/DSC_8178-1536x1024.jpg 1536w, https://7oaks.sg/wp-content/uploads/2023/09/DSC_8178-2048x1365.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px">                        <div class="pinned">
+                            <img src="https://7oaks.sg/wp-content/themes/oaksWP/images/celebration/pinned.png" alt="pined">
+                        </div>
+                    </div>
+                            </div>
+            <div class="col-lg-6 p-0">
+                <div class="details">
+                    <div class="scroll text-17 green medium">
+                        SCROLL
+                    </div>
+                    <div class="list-box">
+                                                        <div class="box detail">
+                                                                            <div class="heading-30 green font-londrina">
+                                            Learning Festival Details                                        </div>
+                                                                                                                <div class="mt-20 description">
+                                            <p>Come join the fun at our Preschool Learning Festival!</p>                                        </div>
+                                                                        <ul class="info-list mt-30">
+                                                                                        <li>
+                                                    <div class="icon">
+                                                        <img width="75" height="71" src="https://7oaks.sg/wp-content/uploads/2023/08/venue.png" class="attachment-original size-original" alt="" decoding="async">                                                    </div>
+                                                    <div class="content">
+                                                        <strong>Where:</strong> Lifelong Learning Institute, 11 Eunos Rd 8, Singapore 408601, Exhibition Hall 1 &amp; 2, Level 1
+
+&nbsp;                                                    </div>
+                                                </li>
+                                                                                        <li>
+                                                    <div class="icon">
+                                                        <img width="75" height="71" src="https://7oaks.sg/wp-content/uploads/2023/08/date.png" class="attachment-original size-original" alt="" decoding="async">                                                    </div>
+                                                    <div class="content">
+                                                        <strong>When:</strong> Saturday, 7 October 2023, 10 am - 4 pm                                                    </div>
+                                                </li>
+                                                                                        <li>
+                                                    <div class="icon">
+                                                        <img width="75" height="71" src="https://7oaks.sg/wp-content/uploads/2023/08/unnamed-file-1.png" class="attachment-original size-original" alt="" decoding="async">                                                    </div>
+                                                    <div class="content">
+                                                        <b>Who’s it for: </b>Young children (2 – 6 years old), parents, early childhood educators and students, and jobseekers
+
+&nbsp;                                                    </div>
+                                                </li>
+                                                                                        <li>
+                                                    <div class="icon">
+                                                        <img width="75" height="71" src="https://7oaks.sg/wp-content/uploads/2023/08/price.png" class="attachment-original size-original" alt="" decoding="async">                                                    </div>
+                                                    <div class="content">
+                                                        <strong>How much:</strong> <strong>FREE</strong> Admission to the event, booth activities and workshop, too!                                                    </div>
+                                                </li>
+                                                                                        <li>
+                                                    <div class="icon">
+                                                        <img width="75" height="71" src="https://7oaks.sg/wp-content/uploads/2023/08/fee.png" class="attachment-original size-original" alt="" decoding="async">                                                    </div>
+                                                    <div class="content">
+                                                        <strong>Buy Coupon:</strong> Each coupon entitles to 1 x Goodie Bag, 1 x Booth Passport, 1 x Snack, and 1 x Drink. No purchase limit.                                                    </div>
+                                                </li>
+                                                                            </ul>
+                                                                            <div class="btn-group mt-30">
+                                            <a class="btn btn-red" href="#contact-us">Buy Coupon Today</a>
+                                        </div>
+                                                                    </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section><section class="section-count-item">
+    <div class="container">
+        <div class="box-content">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="content">
+                                                    <div class="heading-40 green font-londrina text-center">
+                                At A Glance                            </div>
+                                            </div>
+                </div>
+            </div>
+						<div class="statistics mt-50">
+				<div class="row">
+											<div class="col-2dot5 col-md-2dot5">
+							<div class="item text-center">
+																	<div class="box-icon">
+										<div class="icon">
+											<img width="844" height="842" src="https://7oaks.sg/wp-content/uploads/2023/09/Interactive-Zones-1.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/09/Interactive-Zones-1.png 844w, https://7oaks.sg/wp-content/uploads/2023/09/Interactive-Zones-1-300x300.png 300w, https://7oaks.sg/wp-content/uploads/2023/09/Interactive-Zones-1-150x150.png 150w, https://7oaks.sg/wp-content/uploads/2023/09/Interactive-Zones-1-768x766.png 768w" sizes="(max-width: 844px) 100vw, 844px">										</div>
+									</div>
+																									<div class="number mt-10">
+										<div class="counter-1 heading-40 font-londrina" data-count="5">5</div>
+									</div>
+																									<div class="desc mt-10">Activity Zones</div>
+															</div>
+						</div>
+											<div class="col-2dot5 col-md-2dot5">
+							<div class="item text-center">
+																	<div class="box-icon">
+										<div class="icon">
+											<img width="842" height="842" src="https://7oaks.sg/wp-content/uploads/2023/09/Booth-Activities.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/09/Booth-Activities.png 842w, https://7oaks.sg/wp-content/uploads/2023/09/Booth-Activities-300x300.png 300w, https://7oaks.sg/wp-content/uploads/2023/09/Booth-Activities-150x150.png 150w, https://7oaks.sg/wp-content/uploads/2023/09/Booth-Activities-768x768.png 768w" sizes="(max-width: 842px) 100vw, 842px">										</div>
+									</div>
+																									<div class="number mt-10">
+										<div class="counter-1 heading-40 font-londrina" data-count="15">15</div>
+									</div>
+																									<div class="desc mt-10">Booth Activities</div>
+															</div>
+						</div>
+											<div class="col-2dot5 col-md-2dot5">
+							<div class="item text-center">
+																	<div class="box-icon">
+										<div class="icon">
+											<img width="842" height="842" src="https://7oaks.sg/wp-content/uploads/2023/09/Workshops-for-Parents-and-Children.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/09/Workshops-for-Parents-and-Children.png 842w, https://7oaks.sg/wp-content/uploads/2023/09/Workshops-for-Parents-and-Children-300x300.png 300w, https://7oaks.sg/wp-content/uploads/2023/09/Workshops-for-Parents-and-Children-150x150.png 150w, https://7oaks.sg/wp-content/uploads/2023/09/Workshops-for-Parents-and-Children-768x768.png 768w" sizes="(max-width: 842px) 100vw, 842px">										</div>
+									</div>
+																									<div class="number mt-10">
+										<div class="counter-1 heading-40 font-londrina" data-count="2">2</div>
+									</div>
+																									<div class="desc mt-10">Workshops for Parents and Children</div>
+															</div>
+						</div>
+											<div class="col-2dot5 col-md-2dot5">
+							<div class="item text-center">
+																	<div class="box-icon">
+										<div class="icon">
+											<img width="844" height="842" src="https://7oaks.sg/wp-content/uploads/2023/09/Workshops-for-Early-Childhood-Educators.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/09/Workshops-for-Early-Childhood-Educators.png 844w, https://7oaks.sg/wp-content/uploads/2023/09/Workshops-for-Early-Childhood-Educators-300x300.png 300w, https://7oaks.sg/wp-content/uploads/2023/09/Workshops-for-Early-Childhood-Educators-150x150.png 150w, https://7oaks.sg/wp-content/uploads/2023/09/Workshops-for-Early-Childhood-Educators-768x766.png 768w" sizes="(max-width: 844px) 100vw, 844px">										</div>
+									</div>
+																									<div class="number mt-10">
+										<div class="counter-1 heading-40 font-londrina" data-count="2">2</div>
+									</div>
+																									<div class="desc mt-10">Workshops for Early Childhood Educators</div>
+															</div>
+						</div>
+											<div class="col-2dot5 col-md-2dot5">
+							<div class="item text-center">
+																	<div class="box-icon">
+										<div class="icon">
+											<img width="842" height="842" src="https://7oaks.sg/wp-content/uploads/2023/09/Stage-Performances.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/09/Stage-Performances.png 842w, https://7oaks.sg/wp-content/uploads/2023/09/Stage-Performances-300x300.png 300w, https://7oaks.sg/wp-content/uploads/2023/09/Stage-Performances-150x150.png 150w, https://7oaks.sg/wp-content/uploads/2023/09/Stage-Performances-768x768.png 768w" sizes="(max-width: 842px) 100vw, 842px">										</div>
+									</div>
+																									<div class="number mt-10">
+										<div class="counter-1 heading-40 font-londrina" data-count="1">1</div>
+									</div>
+																									<div class="desc mt-10">Stage Performances</div>
+															</div>
+						</div>
+									</div>
+			</div>
+							<div class="row justify-content-center">
+				<div class="col-lg-8">
+					<div class="content">
+						<div class="description text-center mt-50"><p "="">‎‎ ‎ <span class="redactor-invisible-space">‎ <span class="redactor-invisible-space">‎ <span class="redactor-invisible-space">‎ <span class="redactor-invisible-space">‎ <span class="redactor-invisible-space">‎</span></span></span></span></span></p></div>
+					</div>
+				</div>
+			</div>
+		        </div>
+    </div>
+</section><section class="new-section">
+    <div class="wrap">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="accordions">
+                                                        <div class="accordion-item">
+
+                                                                            <div class="heading-40 green font-londrina accordion-heading">
+                                            Activity Zone:  Project Forti’tude (Projects Showcase)                                            <div class="arrow"></div>
+                                        </div>
+                                                                        <div class="accordion-content">
+
+                                                                                        <div class="wrapper mt-30">
+                                                    <div class="row justify-content-center">
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-wrapper">
+                                                                <div class="title">
+                                                                    Reggio Projects Showcase                                                                </div>
+                                                                <div class="content"><p>Our K2 students are hard at work on their Reggio projects for the upcoming Learning Festival. Come see their amazing creations and learn about their learning journey!</p></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-stage slider">
+                                                                <div class="swiper-container tri-instance-0 swiper-container-initialized swiper-container-horizontal">
+                                                                    <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="2560" height="1920" src="https://7oaks.sg/wp-content/uploads/2023/08/2-BBC_3D-Model-Light-Up-Jewel-Dome-scaled.jpg" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/08/2-BBC_3D-Model-Light-Up-Jewel-Dome-scaled.jpg 2560w, https://7oaks.sg/wp-content/uploads/2023/08/2-BBC_3D-Model-Light-Up-Jewel-Dome-300x225.jpg 300w, https://7oaks.sg/wp-content/uploads/2023/08/2-BBC_3D-Model-Light-Up-Jewel-Dome-1024x768.jpg 1024w, https://7oaks.sg/wp-content/uploads/2023/08/2-BBC_3D-Model-Light-Up-Jewel-Dome-768x576.jpg 768w, https://7oaks.sg/wp-content/uploads/2023/08/2-BBC_3D-Model-Light-Up-Jewel-Dome-1536x1152.jpg 1536w, https://7oaks.sg/wp-content/uploads/2023/08/2-BBC_3D-Model-Light-Up-Jewel-Dome-2048x1536.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px">																					</div>
+																																											<div class="title mt-10 text-center">
+																							Can you guess what is the 3D model in the photo?																						</div>	
+																					                                                                                                                                                            </div>
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="1441" height="1501" src="https://7oaks.sg/wp-content/uploads/2023/08/2-BRC_4-cutting-balloon-mache-into-2-to-represent-the-Esplanade-scaled-e1693304672292.jpg" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/08/2-BRC_4-cutting-balloon-mache-into-2-to-represent-the-Esplanade-scaled-e1693304672292.jpg 1441w, https://7oaks.sg/wp-content/uploads/2023/08/2-BRC_4-cutting-balloon-mache-into-2-to-represent-the-Esplanade-scaled-e1693304672292-288x300.jpg 288w, https://7oaks.sg/wp-content/uploads/2023/08/2-BRC_4-cutting-balloon-mache-into-2-to-represent-the-Esplanade-scaled-e1693304672292-983x1024.jpg 983w, https://7oaks.sg/wp-content/uploads/2023/08/2-BRC_4-cutting-balloon-mache-into-2-to-represent-the-Esplanade-scaled-e1693304672292-768x800.jpg 768w" sizes="(max-width: 1441px) 100vw, 1441px">																					</div>
+																																											<div class="title mt-10 text-center">
+																							Guess this kids' project's 3D model. Clue: It's like a halved king of fruits.																						</div>	
+																					                                                                                                                                                            </div>
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="1600" height="1200" src="https://7oaks.sg/wp-content/uploads/2023/08/1-JRC1_Drying-out-Merlion-Paper-Machie.jpeg" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/08/1-JRC1_Drying-out-Merlion-Paper-Machie.jpeg 1600w, https://7oaks.sg/wp-content/uploads/2023/08/1-JRC1_Drying-out-Merlion-Paper-Machie-300x225.jpeg 300w, https://7oaks.sg/wp-content/uploads/2023/08/1-JRC1_Drying-out-Merlion-Paper-Machie-1024x768.jpeg 1024w, https://7oaks.sg/wp-content/uploads/2023/08/1-JRC1_Drying-out-Merlion-Paper-Machie-768x576.jpeg 768w, https://7oaks.sg/wp-content/uploads/2023/08/1-JRC1_Drying-out-Merlion-Paper-Machie-1536x1152.jpeg 1536w" sizes="(max-width: 1600px) 100vw, 1600px">																					</div>
+																																											<div class="title mt-10 text-center">
+																							 A widely known Singaporean icon seen globally. Any guesses about this 3D model?																						</div>	
+																					                                                                                                                                                            </div>
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="2560" height="2115" src="https://7oaks.sg/wp-content/uploads/2023/08/3-Sculpting-using-the-cardboard-mixture-scaled.jpg" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/08/3-Sculpting-using-the-cardboard-mixture-scaled.jpg 2560w, https://7oaks.sg/wp-content/uploads/2023/08/3-Sculpting-using-the-cardboard-mixture-300x248.jpg 300w, https://7oaks.sg/wp-content/uploads/2023/08/3-Sculpting-using-the-cardboard-mixture-1024x846.jpg 1024w, https://7oaks.sg/wp-content/uploads/2023/08/3-Sculpting-using-the-cardboard-mixture-768x634.jpg 768w, https://7oaks.sg/wp-content/uploads/2023/08/3-Sculpting-using-the-cardboard-mixture-1536x1269.jpg 1536w, https://7oaks.sg/wp-content/uploads/2023/08/3-Sculpting-using-the-cardboard-mixture-2048x1692.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px">																					</div>
+																																											<div class="title mt-10 text-center">
+																							Kids adore this symbol of strength and bravery. Can you guess the sculpture?																						</div>	
+																					                                                                                                                                                            </div>
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="2048" height="1364" src="https://7oaks.sg/wp-content/uploads/2023/08/3-PRC1_Filming.jpeg" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/08/3-PRC1_Filming.jpeg 2048w, https://7oaks.sg/wp-content/uploads/2023/08/3-PRC1_Filming-300x200.jpeg 300w, https://7oaks.sg/wp-content/uploads/2023/08/3-PRC1_Filming-1024x682.jpeg 1024w, https://7oaks.sg/wp-content/uploads/2023/08/3-PRC1_Filming-768x512.jpeg 768w, https://7oaks.sg/wp-content/uploads/2023/08/3-PRC1_Filming-1536x1023.jpeg 1536w" sizes="(max-width: 2048px) 100vw, 2048px">																					</div>
+																																											<div class="title mt-10 text-center">
+																							 Can you guess what the children did with clay and loose parts?																						</div>	
+																					                                                                                                                                                            </div>
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="1920" height="2560" src="https://7oaks.sg/wp-content/uploads/2023/08/5-PRC2_20230814_122432-scaled.jpg" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/08/5-PRC2_20230814_122432-scaled.jpg 1920w, https://7oaks.sg/wp-content/uploads/2023/08/5-PRC2_20230814_122432-225x300.jpg 225w, https://7oaks.sg/wp-content/uploads/2023/08/5-PRC2_20230814_122432-768x1024.jpg 768w, https://7oaks.sg/wp-content/uploads/2023/08/5-PRC2_20230814_122432-1152x1536.jpg 1152w, https://7oaks.sg/wp-content/uploads/2023/08/5-PRC2_20230814_122432-1536x2048.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px">																					</div>
+																																											<div class="title mt-10 text-center">
+																							Guess this landmark in Singapore's skyline since the Gardens opened in June 2012.																						</div>	
+																					                                                                                                                                                            </div>
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="2560" height="1920" src="https://7oaks.sg/wp-content/uploads/2023/08/5-SBV_20230728_101818-scaled.jpg" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/08/5-SBV_20230728_101818-scaled.jpg 2560w, https://7oaks.sg/wp-content/uploads/2023/08/5-SBV_20230728_101818-300x225.jpg 300w, https://7oaks.sg/wp-content/uploads/2023/08/5-SBV_20230728_101818-1024x768.jpg 1024w, https://7oaks.sg/wp-content/uploads/2023/08/5-SBV_20230728_101818-768x576.jpg 768w, https://7oaks.sg/wp-content/uploads/2023/08/5-SBV_20230728_101818-1536x1152.jpg 1536w, https://7oaks.sg/wp-content/uploads/2023/08/5-SBV_20230728_101818-2048x1536.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px">																					</div>
+																																											<div class="title mt-10 text-center">
+																							This is one of the world's most recognisable skyscrapers. Make a guess?																						</div>	
+																					                                                                                                                                                            </div>
+                                                                                                                                            </div>
+                                                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                                                <div class="swiper-pagination swiper-pagination-0 swiper-pagination-clickable swiper-pagination-bullets"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                        
+                                    </div>
+                                </div>
+
+                                                        <div class="accordion-item">
+
+                                                                            <div class="heading-40 green font-londrina accordion-heading">
+                                            Activity Zone: Project Forti’tude (Reggio Booth Activities)                                            <div class="arrow"></div>
+                                        </div>
+                                                                        <div class="accordion-content">
+
+                                                                                        <div class="wrapper mt-30">
+                                                    <div class="row justify-content-center">
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-wrapper">
+                                                                <div class="title">
+                                                                    ​Invitation to Photograph                                                                </div>
+                                                                <div class="content"><p>Bring your young children to explore the world of photography in a fun and interactive way! They'll learn about different materials and camera optics, and how to use them to create their own unique photos. They'll also have the chance to experiment with different techniques and subjects, and learn about the history of photography. This is a great way for kids to develop their creativity and imagination, and learn about the world around them.<br></p></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-stage slider">
+                                                                <div class="swiper-container tri-instance-1 swiper-container-initialized swiper-container-horizontal">
+                                                                    <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="2048" height="1756" src="https://7oaks.sg/wp-content/uploads/2023/08/Invitation-to-photography-image.jpeg" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/08/Invitation-to-photography-image.jpeg 2048w, https://7oaks.sg/wp-content/uploads/2023/08/Invitation-to-photography-image-300x257.jpeg 300w, https://7oaks.sg/wp-content/uploads/2023/08/Invitation-to-photography-image-1024x878.jpeg 1024w, https://7oaks.sg/wp-content/uploads/2023/08/Invitation-to-photography-image-768x659.jpeg 768w, https://7oaks.sg/wp-content/uploads/2023/08/Invitation-to-photography-image-1536x1317.jpeg 1536w" sizes="(max-width: 2048px) 100vw, 2048px">																					</div>
+																					                                                                                                                                                            </div>
+                                                                                                                                            </div>
+                                                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                                                <div class="swiper-pagination swiper-pagination-1 swiper-pagination-clickable swiper-pagination-bullets"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                        <div class="wrapper mt-30">
+                                                    <div class="row justify-content-center">
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-wrapper">
+                                                                <div class="title">
+                                                                    ​In a Blink of Light                                                                </div>
+                                                                <div class="content"><p>Simple explorations of light can lead to more complex ones. Children can begin to realise that light can change and create shadows by using loose parts materials. This provides them with interesting and inspiring opportunities to explore light.<br></p></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-stage slider">
+                                                                <div class="swiper-container tri-instance-2 swiper-container-initialized swiper-container-horizontal">
+                                                                    <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="2560" height="1920" src="https://7oaks.sg/wp-content/uploads/2023/08/In-a-Blink-of-Light-image-scaled.jpg" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/08/In-a-Blink-of-Light-image-scaled.jpg 2560w, https://7oaks.sg/wp-content/uploads/2023/08/In-a-Blink-of-Light-image-300x225.jpg 300w, https://7oaks.sg/wp-content/uploads/2023/08/In-a-Blink-of-Light-image-1024x768.jpg 1024w, https://7oaks.sg/wp-content/uploads/2023/08/In-a-Blink-of-Light-image-768x576.jpg 768w, https://7oaks.sg/wp-content/uploads/2023/08/In-a-Blink-of-Light-image-1536x1152.jpg 1536w, https://7oaks.sg/wp-content/uploads/2023/08/In-a-Blink-of-Light-image-2048x1536.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px">																					</div>
+																					                                                                                                                                                            </div>
+                                                                                                                                            </div>
+                                                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                                                <div class="swiper-pagination swiper-pagination-2 swiper-pagination-clickable swiper-pagination-bullets"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                        <div class="wrapper mt-30">
+                                                    <div class="row justify-content-center">
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-wrapper">
+                                                                <div class="title">
+                                                                    Secrets of Paper                                                                </div>
+                                                                <div class="content"><p>In this activity, your child will learn about the many different properties of paper. Through hands-on activities, your child will learn about how paper is made, how it can be manipulated, and how it can be used to create art and design.<br></p><p>Secrets of Paper is a great way for your child to learn about science, art, and design. It is also a fun and engaging way for them to develop their creativity and problem-solving skills.</p></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-stage slider">
+                                                                <div class="swiper-container tri-instance-3 swiper-container-initialized swiper-container-horizontal">
+                                                                    <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="800" height="560" src="https://7oaks.sg/wp-content/uploads/2023/08/Secrets-of-Paper-image.jpg" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/08/Secrets-of-Paper-image.jpg 800w, https://7oaks.sg/wp-content/uploads/2023/08/Secrets-of-Paper-image-300x210.jpg 300w, https://7oaks.sg/wp-content/uploads/2023/08/Secrets-of-Paper-image-768x538.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">																					</div>
+																					                                                                                                                                                            </div>
+                                                                                                                                            </div>
+                                                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                                                <div class="swiper-pagination swiper-pagination-3 swiper-pagination-clickable swiper-pagination-bullets"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                        <div class="wrapper mt-30">
+                                                    <div class="row justify-content-center">
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-wrapper">
+                                                                <div class="title">
+                                                                    EdilGarden                                                                </div>
+                                                                <div class="content"><p>For a sensorial and educational experience, visit the EdilGarden! Your child can use their five senses to explore flowers, fruit, leaves, seeds, and dirt. They'll learn about the different sizes, textures, and shapes of plants, and they'll also learn about responsibility as they help to grow the plants. Plus, they'll get to taste the fruits of their labour (literally!) as they enjoy the fresh, healthy food that they've grown. It's a win-win for everyone!</p></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-stage slider">
+                                                                <div class="swiper-container tri-instance-4 swiper-container-initialized swiper-container-horizontal">
+                                                                    <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="800" height="600" src="https://7oaks.sg/wp-content/uploads/2023/08/EdilGarden-image.jpg" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/08/EdilGarden-image.jpg 800w, https://7oaks.sg/wp-content/uploads/2023/08/EdilGarden-image-300x225.jpg 300w, https://7oaks.sg/wp-content/uploads/2023/08/EdilGarden-image-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">																					</div>
+																					                                                                                                                                                            </div>
+                                                                                                                                            </div>
+                                                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                                                <div class="swiper-pagination swiper-pagination-4 swiper-pagination-clickable swiper-pagination-bullets"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                        
+                                    </div>
+                                </div>
+
+                                                        <div class="accordion-item">
+
+                                                                            <div class="heading-40 green font-londrina accordion-heading">
+                                            Activity Zone: Plug I.T.                                             <div class="arrow"></div>
+                                        </div>
+                                                                        <div class="accordion-content">
+
+                                                                                        <div class="wrapper mt-30">
+                                                    <div class="row justify-content-center">
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-wrapper">
+                                                                <div class="title">
+                                                                    ​Tinker Space                                                                </div>
+                                                                <div class="content"><p>Beebots and Dash are programmable robots that help kids learn 21st century skills like problem-solving, creativity, and critical thinking. Find out how you can help your child learn and engage in critical thinking in a fun and engaging way<br></p></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-stage slider">
+                                                                <div class="swiper-container tri-instance-5 swiper-container-initialized swiper-container-horizontal">
+                                                                    <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="1024" height="558" src="https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1294397758-1024x1024-2-1.png" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1294397758-1024x1024-2-1.png 1024w, https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1294397758-1024x1024-2-1-300x163.png 300w, https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1294397758-1024x1024-2-1-768x419.png 768w" sizes="(max-width: 1024px) 100vw, 1024px">																					</div>
+																					                                                                                                                                                            </div>
+                                                                                                                                            </div>
+                                                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                                                <div class="swiper-pagination swiper-pagination-5 swiper-pagination-clickable swiper-pagination-bullets"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                        <div class="wrapper mt-30">
+                                                    <div class="row justify-content-center">
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-wrapper">
+                                                                <div class="title">
+                                                                    ​Number Nexus                                                                </div>
+                                                                <div class="content"><p>How can we make maths more engaging and fun for children? Visit this booth to find out how your children can learn maths skills and concepts through games and hands-on activities</p></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-stage slider">
+                                                                <div class="swiper-container tri-instance-6 swiper-container-initialized swiper-container-horizontal">
+                                                                    <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="1000" height="545" src="https://7oaks.sg/wp-content/uploads/2023/09/iStock-1294397758-1.png" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/09/iStock-1294397758-1.png 1000w, https://7oaks.sg/wp-content/uploads/2023/09/iStock-1294397758-1-300x164.png 300w, https://7oaks.sg/wp-content/uploads/2023/09/iStock-1294397758-1-768x419.png 768w" sizes="(max-width: 1000px) 100vw, 1000px">																					</div>
+																					                                                                                                                                                            </div>
+                                                                                                                                            </div>
+                                                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                                                <div class="swiper-pagination swiper-pagination-6 swiper-pagination-clickable swiper-pagination-bullets"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                        
+                                    </div>
+                                </div>
+
+                                                        <div class="accordion-item">
+
+                                                                            <div class="heading-40 green font-londrina accordion-heading">
+                                            ​Activity Zone: In Nature’s Lap                                            <div class="arrow"></div>
+                                        </div>
+                                                                        <div class="accordion-content">
+
+                                                                                        <div class="wrapper mt-30">
+                                                    <div class="row justify-content-center">
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-wrapper">
+                                                                <div class="title">
+                                                                    In Nature’s Lap                                                                </div>
+                                                                <div class="content"><p>If you wish to introduce plants, waste minimisation and dengue prevention to your child, visit this booth! Your child can plant seeds in recycled bottles and take home their own plant pot. This is a fun and educational way to teach them about upcycling and the importance of plants<br></p></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-stage slider">
+                                                                <div class="swiper-container tri-instance-7 swiper-container-initialized swiper-container-horizontal">
+                                                                    <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="1024" height="558" src="https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1294397758-1024x1024-2-2.png" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1294397758-1024x1024-2-2.png 1024w, https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1294397758-1024x1024-2-2-300x163.png 300w, https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1294397758-1024x1024-2-2-768x419.png 768w" sizes="(max-width: 1024px) 100vw, 1024px">																					</div>
+																					                                                                                                                                                            </div>
+                                                                                                                                            </div>
+                                                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                                                <div class="swiper-pagination swiper-pagination-7 swiper-pagination-clickable swiper-pagination-bullets"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                        
+                                    </div>
+                                </div>
+
+                                                        <div class="accordion-item">
+
+                                                                            <div class="heading-40 green font-londrina accordion-heading">
+                                            Activity Zone: ARTis✓                                            <div class="arrow"></div>
+                                        </div>
+                                                                        <div class="accordion-content">
+
+                                                                                        <div class="wrapper mt-30">
+                                                    <div class="row justify-content-center">
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-wrapper">
+                                                                <div class="title">
+                                                                    Music in Me                                                                </div>
+                                                                <div class="content"><p>Does your preschooler love music? It's no surprise! Music is a fun and engaging way for young children to learn and grow. Visit this booth to learn how music can help your child develop their cognitive, emotional, social, and creative skills. We'll also have some fun activities for your child to enjoy.<span></span><br></p></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-stage slider">
+                                                                <div class="swiper-container tri-instance-8 swiper-container-initialized swiper-container-horizontal">
+                                                                    <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="649" height="630" src="https://7oaks.sg/wp-content/uploads/2023/09/CleanShot-2023-08-29-at-17.01.49-1.png" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/09/CleanShot-2023-08-29-at-17.01.49-1.png 649w, https://7oaks.sg/wp-content/uploads/2023/09/CleanShot-2023-08-29-at-17.01.49-1-300x291.png 300w" sizes="(max-width: 649px) 100vw, 649px">																					</div>
+																					                                                                                                                                                            </div>
+                                                                                                                                            </div>
+                                                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                                                <div class="swiper-pagination swiper-pagination-8 swiper-pagination-clickable swiper-pagination-bullets"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                        <div class="wrapper mt-30">
+                                                    <div class="row justify-content-center">
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-wrapper">
+                                                                <div class="title">
+                                                                    Creative Arts                                                                </div>
+                                                                <div class="content"><p>Your preschooler will love expressing their feelings through art in our Creative Arts booth! Our experienced teachers will guide them as they create masterpieces using a variety of materials. They'll take home their finished pieces too!<span></span><br></p></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-stage slider">
+                                                                <div class="swiper-container tri-instance-9 swiper-container-initialized swiper-container-horizontal">
+                                                                    <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="461" height="403" src="https://7oaks.sg/wp-content/uploads/2023/09/CleanShot-2023-08-29-at-17.02.08.png" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/09/CleanShot-2023-08-29-at-17.02.08.png 461w, https://7oaks.sg/wp-content/uploads/2023/09/CleanShot-2023-08-29-at-17.02.08-300x262.png 300w" sizes="(max-width: 461px) 100vw, 461px">																					</div>
+																					                                                                                                                                                            </div>
+                                                                                                                                            </div>
+                                                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                                                <div class="swiper-pagination swiper-pagination-9 swiper-pagination-clickable swiper-pagination-bullets"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                        <div class="wrapper mt-30">
+                                                    <div class="row justify-content-center">
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-wrapper">
+                                                                <div class="title">
+                                                                    Speech &amp; Drama                                                                </div>
+                                                                <div class="content"><p>Check out the Speech &amp; Drama booth! Your child can engage in speech and drama activities using the costumes, props, and puppets provided. A video of our children engaged in Speech &amp; Drama activities will be playing on loop to inspire them. Let them be imaginative and expand their communication skills.</p></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-stage slider">
+                                                                <div class="swiper-container tri-instance-10 swiper-container-initialized swiper-container-horizontal">
+                                                                    <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="1024" height="558" src="https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1294397758-1024x1024-2-3.png" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1294397758-1024x1024-2-3.png 1024w, https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1294397758-1024x1024-2-3-300x163.png 300w, https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1294397758-1024x1024-2-3-768x419.png 768w" sizes="(max-width: 1024px) 100vw, 1024px">																					</div>
+																					                                                                                                                                                            </div>
+                                                                                                                                            </div>
+                                                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                                                <div class="swiper-pagination swiper-pagination-10 swiper-pagination-clickable swiper-pagination-bullets"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                        
+                                    </div>
+                                </div>
+
+                                                        <div class="accordion-item">
+
+                                                                            <div class="heading-40 green font-londrina accordion-heading">
+                                            Workshop: Respectful Relationships                                            <div class="arrow"></div>
+                                        </div>
+                                                                        <div class="accordion-content">
+
+                                                                                        <div class="wrapper mt-30">
+                                                    <div class="row justify-content-center">
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-wrapper">
+                                                                <div class="title">
+                                                                    Workshop: Respectful Relationships                                                                </div>
+                                                                <div class="content"><p>Making friends is easy for many children. However, even young children may find it challenging to form friendships due to the complex social rules and expectations.</p><p>This workshop on respectful relationships in the early years has been designed to help children develop respectful, inclusive relationships, build friendships, and value others.</p></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-stage slider">
+                                                                <div class="swiper-container tri-instance-11 swiper-container-initialized swiper-container-horizontal">
+                                                                    <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="1024" height="558" src="https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1294397758-1024x1024-2.png" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1294397758-1024x1024-2.png 1024w, https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1294397758-1024x1024-2-300x163.png 300w, https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1294397758-1024x1024-2-768x419.png 768w" sizes="(max-width: 1024px) 100vw, 1024px">																					</div>
+																					                                                                                                                                                            </div>
+                                                                                                                                            </div>
+                                                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                                                <div class="swiper-pagination swiper-pagination-11 swiper-pagination-clickable swiper-pagination-bullets"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                        
+                                    </div>
+                                </div>
+
+                                                        <div class="accordion-item">
+
+                                                                            <div class="heading-40 green font-londrina accordion-heading">
+                                            Workshop: DARE to Save a Heart                                            <div class="arrow"></div>
+                                        </div>
+                                                                        <div class="accordion-content">
+
+                                                                                        <div class="wrapper mt-30">
+                                                    <div class="row justify-content-center">
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-wrapper">
+                                                                <div class="title">
+                                                                    Workshop: DARE to Save a Heart                                                                </div>
+                                                                <div class="content"><p>Cardiac arrest victims often collapse in the presence of someone they know but most do not receive adequate help until the ambulance arrives.</p><p>By then, it may be too late.<br><br>Learn life-saving skills with us in the<strong> D</strong>ispatcher-<strong>A</strong>ssisted first <strong>RE</strong>sponder (<strong>DARE</strong>) programme. Register today!<br></p></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-stage slider">
+                                                                <div class="swiper-container tri-instance-12 swiper-container-initialized swiper-container-horizontal">
+                                                                    <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="800" height="800" src="https://7oaks.sg/wp-content/uploads/2023/09/daretosave.png" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/09/daretosave.png 800w, https://7oaks.sg/wp-content/uploads/2023/09/daretosave-300x300.png 300w, https://7oaks.sg/wp-content/uploads/2023/09/daretosave-150x150.png 150w, https://7oaks.sg/wp-content/uploads/2023/09/daretosave-768x768.png 768w" sizes="(max-width: 800px) 100vw, 800px">																					</div>
+																					                                                                                                                                                            </div>
+                                                                                                                                            </div>
+                                                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                                                <div class="swiper-pagination swiper-pagination-12 swiper-pagination-clickable swiper-pagination-bullets"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                        
+                                    </div>
+                                </div>
+
+                                                        <div class="accordion-item">
+
+                                                                            <div class="heading-40 green font-londrina accordion-heading">
+                                            Workshop: Groove to Move                                            <div class="arrow"></div>
+                                        </div>
+                                                                        <div class="accordion-content">
+
+                                                                                        <div class="wrapper mt-30">
+                                                    <div class="row justify-content-center">
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-wrapper">
+                                                                <div class="title">
+                                                                    Workshop: Groove to Move                                                                </div>
+                                                                <div class="content"><p>This workshop is for early childhood professionals and will focus on developing educators' skills in planning and implementing effective motor skills development into daily activities and lessons in preschool. Through group discussions, brainstorming sessions, and resources and examples, participants will share strategies and ideas for creating engaging and exciting learning opportunities for the children in their care.</p></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-stage slider">
+                                                                <div class="swiper-container tri-instance-13 swiper-container-initialized swiper-container-horizontal">
+                                                                    <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="1024" height="1024" src="https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1280316654-1024x1024-1.png" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1280316654-1024x1024-1.png 1024w, https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1280316654-1024x1024-1-300x300.png 300w, https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1280316654-1024x1024-1-150x150.png 150w, https://7oaks.sg/wp-content/uploads/2023/09/istockphoto-1280316654-1024x1024-1-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px">																					</div>
+																					                                                                                                                                                            </div>
+                                                                                                                                            </div>
+                                                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                                                <div class="swiper-pagination swiper-pagination-13 swiper-pagination-clickable swiper-pagination-bullets"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                        
+                                    </div>
+                                </div>
+
+                                                        <div class="accordion-item">
+
+                                                                            <div class="heading-40 green font-londrina accordion-heading">
+                                            Merchandise Booth                                            <div class="arrow"></div>
+                                        </div>
+                                                                        <div class="accordion-content">
+
+                                                                                        <div class="wrapper mt-30">
+                                                    <div class="row justify-content-center">
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-wrapper">
+                                                                <div class="title">
+                                                                    Children's Books &amp; Educational Resources                                                                </div>
+                                                                <div class="content"><p>Come visit our merchandise booth at the Learning Festival, where you can explore a fantastic selection of books and educational materials. Marshall Cavendish will be featuring the captivating "What Ants Do" series by Minister Sun Xueling, while Big Tree will have an array of educational resources for you to discover. Don't miss out on the opportunity to explore these offerings at our booth during the Learning Festival!</p></div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="tabs-stage slider">
+                                                                <div class="swiper-container tri-instance-14 swiper-container-initialized swiper-container-horizontal">
+                                                                    <div class="swiper-wrapper" style="transition-duration: 0ms;">
+                                                                                                                                                    <div class="swiper-slide">
+                                                                                                                                                                    <div class="image">
+                                                                                        <img width="487" height="410" src="https://7oaks.sg/wp-content/uploads/2023/09/CleanShot-2023-08-29-at-16.51.39.png" class="attachment-original size-original" alt="" decoding="async" srcset="https://7oaks.sg/wp-content/uploads/2023/09/CleanShot-2023-08-29-at-16.51.39.png 487w, https://7oaks.sg/wp-content/uploads/2023/09/CleanShot-2023-08-29-at-16.51.39-300x253.png 300w" sizes="(max-width: 487px) 100vw, 487px">																					</div>
+																					                                                                                                                                                            </div>
+                                                                                                                                            </div>
+                                                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                                                <div class="swiper-pagination swiper-pagination-14 swiper-pagination-clickable swiper-pagination-bullets"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                        
+                                    </div>
+                                </div>
+
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section><section class="contact-form" id="contact-us">
+    <div class="container">
+        <div class="box-content">
+			<div class="row justify-content-between">
+				<div class="col-lg-7">
+											<div class="heading-40 green font-londrina">
+							Workshops Registration &amp; Coupons Sale						</div>
+										<div class="box-contact mt-60">
+						
+<div class="wpcf7 js" id="wpcf7-f522-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/40anniversary-celebrations/#wpcf7-f522-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="522">
+<input type="hidden" name="_wpcf7_version" value="5.8">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f522-o1">
+<input type="hidden" name="_wpcf7_container_post" value="0">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+<input type="hidden" name="_wpcf7cf_hidden_group_fields" value="[&quot;oneto3yearsold&quot;,&quot;oneto3yearsold&quot;,&quot;oneto3yearsold&quot;,&quot;oneto3yearsold&quot;,&quot;oneto3yearsold&quot;,&quot;oneto3yearsold&quot;,&quot;fourto7yearsold&quot;,&quot;fourto7yearsold&quot;,&quot;fourto7yearsold&quot;,&quot;fourto7yearsold&quot;,&quot;fourto7yearsold&quot;,&quot;fourto7yearsold&quot;,&quot;sevento12yearsold&quot;,&quot;sevento12yearsold&quot;,&quot;sevento12yearsold&quot;,&quot;sevento12yearsold&quot;,&quot;sevento12yearsold&quot;,&quot;sevento12yearsold&quot;,&quot;aboveyearsold&quot;,&quot;aboveyearsold&quot;,&quot;aboveyearsold&quot;,&quot;aboveyearsold&quot;,&quot;aboveyearsold&quot;,&quot;aboveyearsold&quot;]">
+<input type="hidden" name="_wpcf7cf_hidden_groups" value="[&quot;group-118&quot;]">
+<input type="hidden" name="_wpcf7cf_visible_groups" value="[]">
+<input type="hidden" name="_wpcf7cf_repeaters" value="[]">
+<input type="hidden" name="_wpcf7cf_steps" value="{}">
+<input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:522,&quot;conditions&quot;:[{&quot;then_field&quot;:&quot;group-118&quot;,&quot;and_rules&quot;:[{&quot;if_field&quot;:&quot;checkbox-213&quot;,&quot;operator&quot;:&quot;equals&quot;,&quot;if_value&quot;:&quot;Respectful Relationships (for Parent &amp; Child): 11am - 12pm&quot;}]},{&quot;then_field&quot;:&quot;group-118&quot;,&quot;and_rules&quot;:[{&quot;if_field&quot;:&quot;checkbox-213&quot;,&quot;operator&quot;:&quot;equals&quot;,&quot;if_value&quot;:&quot;DARE to Save a Heart (for Parent &amp; Child): 2.15pm - 3.15pm&quot;}]}],&quot;settings&quot;:{&quot;animation&quot;:&quot;yes&quot;,&quot;animation_intime&quot;:200,&quot;animation_outtime&quot;:200,&quot;conditions_ui&quot;:&quot;normal&quot;,&quot;notice_dismissed&quot;:false}}">
+<input type="hidden" name="_wpcf7_recaptcha_response" value="">
+</div>
+<div class="form-group">
+	<p><label><br>
+Select the workshop(s) that you are registering. You may register for up to 2 workshops. Please note that:<br>
+‎<br>
+‎‎‎‎‎• Each Parent &amp; Child workshop is limited to 1 adult and 2 children.<br>
+• Educators workshops are for individual registration only.<br>
+</label><br>
+<span class="wpcf7-form-control-wrap" data-name="checkbox-213"><span class="wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required form-controls"><span class="wpcf7-list-item first"><label><input type="checkbox" name="checkbox-213[]" value="Respectful Relationships (for Parent &amp; Child): 11am - 12pm"><span class="wpcf7-list-item-label">Respectful Relationships (for Parent &amp; Child): 11am - 12pm</span></label></span><span class="wpcf7-list-item"><label><input type="checkbox" name="checkbox-213[]" value="DARE to Save a Heart (for Parent &amp; Child): 2.15pm - 3.15pm"><span class="wpcf7-list-item-label">DARE to Save a Heart (for Parent &amp; Child): 2.15pm - 3.15pm</span></label></span><span class="wpcf7-list-item"><label><input type="checkbox" name="checkbox-213[]" value="Groove to Move (for Educators): 11.30am - 12.30pm"><span class="wpcf7-list-item-label">Groove to Move (for Educators): 11.30am - 12.30pm</span></label></span><span class="wpcf7-list-item last"><label><input type="checkbox" name="checkbox-213[]" value="Respectful Relationships (for Educators): 2.30pm - 3.30pm"><span class="wpcf7-list-item-label">Respectful Relationships (for Educators): 2.30pm - 3.30pm</span></label></span></span></span>
+	</p>
+</div>
+<div class="form-row">
+	<div class="form-group">
+		<p><label>Full Name (as per NRIC)</label><br>
+<span class="wpcf7-form-control-wrap" data-name="full-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" value="" type="text" name="full-name"></span>
+		</p>
+	</div>
+	<div class="form-group">
+		<p><label>Email</label><br>
+<span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" value="" type="email" name="your-email"></span>
+		</p>
+	</div>
+</div>
+<div class="form-group">
+	<p><label>Postal Code</label><br>
+<span class="wpcf7-form-control-wrap" data-name="post-code"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="eg.123456" value="" type="text" name="post-code"></span>
+	</p>
+</div>
+<div data-id="group-118" data-orig_data_id="group-118" data-clear_on_hide="" data-class="wpcf7cf_group" style="height: auto;" class="wpcf7cf-hidden">
+	<div class="form-group">
+		<p><label>Select the number of children attending from each age group</label><br>
+<span class="label-small">0 to 3 years old :</span><span class="wpcf7-form-control-wrap" data-name="oneto3yearsold"><span class="wpcf7-form-control wpcf7-radio"><span class="wpcf7-list-item first"><label><input type="radio" name="oneto3yearsold" value="1"><span class="wpcf7-list-item-label">1</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="oneto3yearsold" value="2"><span class="wpcf7-list-item-label">2</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="oneto3yearsold" value="3"><span class="wpcf7-list-item-label">3</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="oneto3yearsold" value="4"><span class="wpcf7-list-item-label">4</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="oneto3yearsold" value="5"><span class="wpcf7-list-item-label">5</span></label></span><span class="wpcf7-list-item last"><label><input type="radio" name="oneto3yearsold" value="NA"><span class="wpcf7-list-item-label">NA</span></label></span></span></span><br>
+<span class="label-small">4 to 7 years old :</span><span class="wpcf7-form-control-wrap" data-name="fourto7yearsold"><span class="wpcf7-form-control wpcf7-radio"><span class="wpcf7-list-item first"><label><input type="radio" name="fourto7yearsold" value="1"><span class="wpcf7-list-item-label">1</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="fourto7yearsold" value="2"><span class="wpcf7-list-item-label">2</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="fourto7yearsold" value="3"><span class="wpcf7-list-item-label">3</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="fourto7yearsold" value="4"><span class="wpcf7-list-item-label">4</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="fourto7yearsold" value="5"><span class="wpcf7-list-item-label">5</span></label></span><span class="wpcf7-list-item last"><label><input type="radio" name="fourto7yearsold" value="NA"><span class="wpcf7-list-item-label">NA</span></label></span></span></span>
+		</p>
+	</div>
+	<div class="form-group">
+		<p><label>Select the number of people attending</label><br>
+<span class="label-small">7 to 12 years old :</span><span class="wpcf7-form-control-wrap" data-name="sevento12yearsold"><span class="wpcf7-form-control wpcf7-radio"><span class="wpcf7-list-item first"><label><input type="radio" name="sevento12yearsold" value="1"><span class="wpcf7-list-item-label">1</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="sevento12yearsold" value="2"><span class="wpcf7-list-item-label">2</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="sevento12yearsold" value="3"><span class="wpcf7-list-item-label">3</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="sevento12yearsold" value="4"><span class="wpcf7-list-item-label">4</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="sevento12yearsold" value="5"><span class="wpcf7-list-item-label">5</span></label></span><span class="wpcf7-list-item last"><label><input type="radio" name="sevento12yearsold" value="NA"><span class="wpcf7-list-item-label">NA</span></label></span></span></span><br>
+<span class="label-small">13 years old and above :</span><span class="wpcf7-form-control-wrap" data-name="aboveyearsold"><span class="wpcf7-form-control wpcf7-radio"><span class="wpcf7-list-item first"><label><input type="radio" name="aboveyearsold" value="1"><span class="wpcf7-list-item-label">1</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="aboveyearsold" value="2"><span class="wpcf7-list-item-label">2</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="aboveyearsold" value="3"><span class="wpcf7-list-item-label">3</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="aboveyearsold" value="4"><span class="wpcf7-list-item-label">4</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="aboveyearsold" value="5"><span class="wpcf7-list-item-label">5</span></label></span><span class="wpcf7-list-item last"><label><input type="radio" name="aboveyearsold" value="NA"><span class="wpcf7-list-item-label">NA</span></label></span></span></span>
+		</p>
+	</div>
+</div>
+<div class="form-group">
+	<p><label>How did you find out about 7oaks Preschool Learning Festival(Cultivating Wonders) 2023?</label><br>
+<span class="wpcf7-form-control-wrap" data-name="about-us"><span class="wpcf7-form-control wpcf7-radio about-us-radio"><span class="wpcf7-list-item first"><label><input type="radio" name="about-us" value="7oaks Preschool Website"><span class="wpcf7-list-item-label">7oaks Preschool Website</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="about-us" value="7oaks Preschool Social Accounts (Instagram &amp; Facebook)"><span class="wpcf7-list-item-label">7oaks Preschool Social Accounts (Instagram &amp; Facebook)</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="about-us" value="Google Search"><span class="wpcf7-list-item-label">Google Search</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="about-us" value="Berita Harian Digital Advertorial"><span class="wpcf7-list-item-label">Berita Harian Digital Advertorial</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="about-us" value="Display Advertising"><span class="wpcf7-list-item-label">Display Advertising</span></label></span><span class="wpcf7-list-item last"><label><input type="radio" name="about-us" value="Word of Mouth"><span class="wpcf7-list-item-label">Word of Mouth</span></label></span></span></span>
+	</p>
+</div>
+<div class="form-group">
+	<p><label><strong>Purchase of Coupons (Optional)</strong></label>
+	</p>
+	<div class="form-content">
+		<p>Coupons are $8 until 6 October 2023. Coupon price will increase to $10 on 7 October 2023.
+		</p>
+		<p><br>
+Use <strong>PayNow</strong> to <strong>UEN: 202145114W</strong> or <strong>scan</strong> the <strong>QR code</strong> below to make payment for coupon(s) purchased
+		</p>
+		<p><img width="250px" src="https://7oaks.sg/wp-content/uploads/2023/09/Outlook-crbbzoeu.png" alt="qr">
+		</p>
+		<p class="mt-10">Please make payment before filling in this section. Indicate in Reference: <strong>LF_Last 4 digits NRIC</strong>
+		</p>
+	</div>
+</div>
+<div class="form-group">
+	<p><label>Number of coupons purchased. Indicate Nil if not purchasing</label><br>
+<span class="wpcf7-form-control-wrap" data-name="coupons-purchased"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Nil" value="" type="text" name="coupons-purchased"></span>
+	</p>
+</div>
+<div class="form-group">
+	<p><label>Paynow transaction reference. Indicate Nil if not purchasing</label><br>
+<span class="wpcf7-form-control-wrap" data-name="transaction"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Nil" value="" type="text" name="transaction"></span>
+	</p>
+</div>
+<div class="form-group">
+	<p><span class="wpcf7-form-control-wrap" data-name="acceptance-privacy"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><label><input type="checkbox" name="acceptance-privacy" value="1" class="acceptance-privacy" aria-invalid="false"><span class="wpcf7-list-item-label">I acknowledge that I have read and understood <a class="inline-block" href="https://7oaks.sg/privacy-notice/">the Data Privacy Notice</a> , and consent to the collection, use and disclosure of my personal data by Oaks Plus Limited for the purposes set out in the Notice.</span></label></span></span></span>
+	</p>
+</div>
+<div class="form-group">
+<span class="wpcf7-form-control-wrap recaptcha" data-name="recaptcha"><span data-sitekey="6Ldh2lQoAAAAAFyOXA0UVITEV-66vR0o1EXHNpxl" class="wpcf7-form-control wpcf7-recaptcha g-recaptcha"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-ch8hwbk8kzg4" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Ldh2lQoAAAAAFyOXA0UVITEV-66vR0o1EXHNpxl&amp;co=aHR0cHM6Ly83b2Frcy5zZzo0NDM.&amp;hl=en&amp;v=moV1mTgQ6S91nuTnmll4Y9yf&amp;size=normal&amp;cb=ziexibz50b6"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></span>
+<noscript>
+	<div class="grecaptcha-noscript">
+		<iframe src="https://www.google.com/recaptcha/api/fallback?k=6Ldh2lQoAAAAAFyOXA0UVITEV-66vR0o1EXHNpxl" frameborder="0" scrolling="no" width="310" height="430">
+		</iframe>
+		<textarea name="g-recaptcha-response" rows="3" cols="40" placeholder="reCaptcha Response Here">
+		</textarea>
+	</div>
+</noscript>
+</span>
+</div>
+<div class="btn-group mt-35">
+	<p><input class="wpcf7-form-control wpcf7-submit has-spinner btn btn-red" type="submit" value="Submit" disabled=""><span class="wpcf7-spinner"></span>
+	</p>
+</div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+					</div>
+				</div>
+				<div class="col-lg-4">
+					<div class="images">
+														<div class="image">
+									<img src="https://7oaks.sg/wp-content/uploads/2023/08/DSC_3896-1.jpg" alt="">
+								</div>
+														<div class="image">
+									<img src="https://7oaks.sg/wp-content/uploads/2023/08/DSC_7075-1-e1693384291214.jpg" alt="">
+								</div>
+														<div class="image">
+									<img src="https://7oaks.sg/wp-content/uploads/2023/08/DSC_5794-1.jpg" alt="">
+								</div>
+														<div class="image">
+									<img src="https://7oaks.sg/wp-content/uploads/2023/08/DSC_4065-1.jpg" alt="">
+								</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+</section><section class="faq-section">
+    <div class="wrap">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                                            <div class="heading-40 white font-londrina text-center">
+                            Frequently Asked Questions                        </div>
+                                    </div>
+            </div>
+            <div class="accordions mt-60">
+                                        <div class="accordion-item">
+                            <div class="accordion-heading">
+                                <span>1. What is the maximum number of event coupons that can be purchased per person?</span>
+                                <div class="arrow"></div>
+                            </div>
+                            <div class="accordion-content">
+                                <p>There is no purchase limit.</p>                            </div>
+                        </div>
+                                        <div class="accordion-item">
+                            <div class="accordion-heading">
+                                <span>2. How many goodie bags can be redeemed for one event coupon?</span>
+                                <div class="arrow"></div>
+                            </div>
+                            <div class="accordion-content">
+                                <p>Each coupon can redeem only one goodie bag.</p>                            </div>
+                        </div>
+                                        <div class="accordion-item">
+                            <div class="accordion-heading">
+                                <span>3. What items are included in the goodie bag?</span>
+                                <div class="arrow"></div>
+                            </div>
+                            <div class="accordion-content">
+                                <p>Each goodie bag contains:</p><ul><li>A children’s storybook by Ms. Sun Xueling, Singapore’s Minister of State for Home Affairs and Social and Family Development.</li><li>Popcorn or cotton candy</li><li>A packet drink</li><li>A booth stamp passport</li></ul>                            </div>
+                        </div>
+                                        <div class="accordion-item">
+                            <div class="accordion-heading">
+                                <span>4. What is the total value of the items in the goodie bag?</span>
+                                <div class="arrow"></div>
+                            </div>
+                            <div class="accordion-content">
+                                <p>Each goodie bag is worth more than $10.</p>                            </div>
+                        </div>
+                                        <div class="accordion-item">
+                            <div class="accordion-heading">
+                                <span>5. Are event visitors allowed to eat and drink the snacks and drinks at the event hall?</span>
+                                <div class="arrow"></div>
+                            </div>
+                            <div class="accordion-content">
+                                <p>Strictly no eating and drinking are allowed inside the Exhibition Hall 1 &amp; 2.</p>                            </div>
+                        </div>
+                                        <div class="accordion-item">
+                            <div class="accordion-heading">
+                                <span>6. Is registration required to attend the workshop? If yes, how can interested participants register for the workshop?</span>
+                                <div class="arrow"></div>
+                            </div>
+                            <div class="accordion-content">
+                                <p>Yes, registration is required to attend any of the event workshops. To register, <a href="https://7oaks.sg/ps/contact-us/">click here</a>.</p>                            </div>
+                        </div>
+                                        <div class="accordion-item">
+                            <div class="accordion-heading">
+                                <span>7. What is the maximum number of participants per workshop?</span>
+                                <div class="arrow"></div>
+                            </div>
+                            <div class="accordion-content">
+                                <p>The maximum number of participants per workshop is as follows:</p><p>Workshops for Parent &amp; Child</p><ul><li>Respectful Relationships <strong>KidPower</strong> Workshop (Max. 100 pax)</li><li>DARE to Save a Heart by UPEC (Max. 100 pax)</li></ul><p>Workshops for Educators</p><p><span class="redactor-invisible-space">
+</span></p><ul><li>Groove to Move (Max. 30 pax)</li><li>Respectful Relationships <strong>KidPower</strong> (Max. 40 pax)</li></ul>                            </div>
+                        </div>
+                                        <div class="accordion-item">
+                            <div class="accordion-heading">
+                                <span>8. Is there a minimum number of participants required to commence the workshop?</span>
+                                <div class="arrow"></div>
+                            </div>
+                            <div class="accordion-content">
+                                <p>No, there is no minimum number of participants required to commence the workshop.</p>                            </div>
+                        </div>
+                                        <div class="accordion-item">
+                            <div class="accordion-heading">
+                                <span>9. How can the workshop participants cancel their workshop registration?</span>
+                                <div class="arrow"></div>
+                            </div>
+                            <div class="accordion-content">
+                                <p>Participants can cancel their workshop booking through email to hello@7oaks.sg. Please enter "Request to Cancel Worksop Booking" on the email subject.</p>                            </div>
+                        </div>
+                                        <div class="accordion-item">
+                            <div class="accordion-heading">
+                                <span>10. How can interested participants contact the Learning Festival team for event-related inquiries?</span>
+                                <div class="arrow"></div>
+                            </div>
+                            <div class="accordion-content">
+                                <p>Please submit any event-related questions via the online form <u><a href="https://7oaks.sg/ps/contact-us/">here.</a></u>  </p>                            </div>
+                        </div>
+                            </div>
+                    </div>
+    </div>
+</section>	
+	</div>
+	<footer class="footer">
+		<div class="container">
+			<div class="row justify-content-between">
+				<div class="offset-xl-1 col-lg-3 col-md-4 col-7">
+											<a href="https://7oaks.sg/" class="logo">
+							<img width="200" height="94" src="https://7oaks.sg/wp-content/uploads/2023/08/7oaks-Preschool_Full-Colour-Logo.png" class="attachment-200x200x0 size-200x200x0" alt="" decoding="async" loading="lazy" srcset="https://7oaks.sg/wp-content/uploads/2023/08/7oaks-Preschool_Full-Colour-Logo.png 3393w, https://7oaks.sg/wp-content/uploads/2023/08/7oaks-Preschool_Full-Colour-Logo-300x142.png 300w, https://7oaks.sg/wp-content/uploads/2023/08/7oaks-Preschool_Full-Colour-Logo-1024x483.png 1024w, https://7oaks.sg/wp-content/uploads/2023/08/7oaks-Preschool_Full-Colour-Logo-768x363.png 768w, https://7oaks.sg/wp-content/uploads/2023/08/7oaks-Preschool_Full-Colour-Logo-1536x725.png 1536w, https://7oaks.sg/wp-content/uploads/2023/08/7oaks-Preschool_Full-Colour-Logo-2048x967.png 2048w" sizes="(max-width: 200px) 100vw, 200px">						</a>
+																<div class="mt-30 gray text-20 text-center">
+							<p>Part of the PPIS Family</p>						</div>
+									</div>
+								<div class="col-lg-2">
+					<div class="item">
+													<a href="https://7oaks.sg/ps/about-us">About Us</a>
+													<a href="https://7oaks.sg/ps/infant-care">Infant Care</a>
+													<a href="https://7oaks.sg/ps/childcare">Childcare</a>
+													<a href="#" class="mt-50 fw-600">NEW Centres</a>
+													<a href="https://centres.7oaks.sg/tampines/">Tampines</a>
+													<a href="https://centres.7oaks.sg/kallang">Kallang</a>
+											</div>
+				</div>
+												<div class="col-lg-2">
+					<div class="item">
+												<a href="https://7oaks.sg/ps/contact-us/">Contact Us</a>
+												<a href="https://7oaks.sg/ps/programme-enquiries/">Programme Enquiries</a>
+												<a href="https://7oaks.sg/ps/careers/">Careers</a>
+												<a href="https://7oaks.sg/ps/privacy-notice/">Privacy Policy</a>
+											</div>
+				</div>
+								<div class="offset-xl-1 col-lg-3 col-md-6">
+					<div class="text-20 green">
+						Follow Us!
+					</div>
+											<ul class="social-list mt-10">
+															<li>
+									<a href="https://www.instagram.com/7oaks.sg/" target="_blank">
+										<img width="200" height="200" src="https://7oaks.sg/wp-content/uploads/2023/08/instagram-300x300.png" class="attachment-200x200x0 size-200x200x0" alt="" decoding="async" loading="lazy" srcset="https://7oaks.sg/wp-content/uploads/2023/08/instagram-300x300.png 300w, https://7oaks.sg/wp-content/uploads/2023/08/instagram-150x150.png 150w, https://7oaks.sg/wp-content/uploads/2023/08/instagram.png 457w" sizes="(max-width: 200px) 100vw, 200px">									</a>
+								</li>
+															<li>
+									<a href="https://www.facebook.com/7oaks.sg" target="_blank">
+										<img width="200" height="200" src="https://7oaks.sg/wp-content/uploads/2023/08/facebook-300x300.png" class="attachment-200x200x0 size-200x200x0" alt="" decoding="async" loading="lazy" srcset="https://7oaks.sg/wp-content/uploads/2023/08/facebook-300x300.png 300w, https://7oaks.sg/wp-content/uploads/2023/08/facebook-150x150.png 150w, https://7oaks.sg/wp-content/uploads/2023/08/facebook.png 456w" sizes="(max-width: 200px) 100vw, 200px">									</a>
+								</li>
+													</ul>
+																<div class="copyright mt-15 w-25 gray text-20">
+							<p>Copyright 7oaks 2023</p>						</div>
+									</div>
+			</div>
+		</div>
+	</footer>
+	<script src="https://7oaks.sg/wp-content/themes/oaksWP/js/jquery.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<style id="core-block-supports-inline-css">
+/**
+ * Core styles: block-supports
+ */
+
+</style>
+<script src="https://7oaks.sg/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8" id="swv-js"></script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = {"api":{"root":"https:\/\/7oaks.sg\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+</script>
+<script src="https://7oaks.sg/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8" id="contact-form-7-js"></script>
+<script id="wpcf7-redirect-script-js-extra">
+var wpcf7r = {"ajax_url":"https:\/\/7oaks.sg\/wp-admin\/admin-ajax.php"};
+</script>
+<script src="https://7oaks.sg/wp-content/plugins/wpcf7-redirect/build/js/wpcf7r-fe.js?ver=1.1" id="wpcf7-redirect-script-js"></script>
+<script src="https://7oaks.sg/wp-content/themes/oaksWP/js/jquery.min.js?ver=1.0.0.1694594609" id="oaksWP-jquery-js"></script>
+<script src="https://7oaks.sg/wp-content/themes/oaksWP/js/swiper-bundle.min.js?ver=1.0.0.1694594609" id="oaksWP-swiper-js"></script>
+<script src="https://7oaks.sg/wp-content/themes/oaksWP/js/core.min.js?ver=1.0.0.1694594609" id="oaksWP-corejs-js"></script>
+<script src="https://7oaks.sg/wp-content/themes/oaksWP/js/aos.js?ver=1.0.0.1694594609" id="oaksWP-aosjs-js"></script>
+<script src="https://7oaks.sg/wp-content/themes/oaksWP/js/main.js?ver=1.0.0.1694594609" id="oaksWP-mainjs-js"></script>
+<script id="wpcf7cf-scripts-js-extra">
+var wpcf7cf_global_settings = {"ajaxurl":"https:\/\/7oaks.sg\/wp-admin\/admin-ajax.php"};
+</script>
+<script src="https://7oaks.sg/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=2.3.10" id="wpcf7cf-scripts-js"></script>
+<script src="https://7oaks.sg/wp-content/plugins/wpcf7-recaptcha/assets/js/wpcf7-recaptcha-controls.js?ver=1.2" id="wpcf7-recaptcha-controls-js"></script>
+<script id="google-recaptcha-js-extra">
+var wpcf7iqfix = {"recaptcha_empty":"Please verify that you are not a robot.","response_err":"wpcf7-recaptcha: Could not verify reCaptcha response."};
+</script>
+<script src="https://www.google.com/recaptcha/api.js?hl=en_US&amp;onload=recaptchaCallback&amp;render=explicit&amp;ver=2.0" id="google-recaptcha-js"></script>
+
+<!-- AccelerateWP Debug: Page is excluded. -->
+	
+
+	</div><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="recaptcha challenge expires in two minutes" name="c-ch8hwbk8kzg4" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=moV1mTgQ6S91nuTnmll4Y9yf&amp;k=6Ldh2lQoAAAAAFyOXA0UVITEV-66vR0o1EXHNpxl" style="width: 100%; height: 100%;"></iframe></div></div></body></html>

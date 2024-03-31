@@ -148,7 +148,7 @@ while True:
                         print(f"An error occurred for save_google_reviews: {e}")
                     try:
                         df_review_comments = pd.read_csv(output_file_reviews_text_search, sep=',')
-                        df_review_comments = pd.concat(objs=[df_review_comments, google_reviews], ignore_index=True)
+                        df_review_comments = pd.concat(objs=[df_review_comments, google_reviews], ignore_index=True).drop_duplicates()
                         save_to_csv(dataframe=df_review_comments, output_file_=output_file_reviews_text_search)
                     except Exception as e:
                         print(f"An error occurred for google_reviews: {e}")
@@ -159,7 +159,7 @@ while True:
                         print(f"An error occurred for google_overview or google_star: {e}")
                     try:
                         df_review = convert_list_to_string(df_review)
-                        df_review = pd.concat(objs=[new_row, df_review], ignore_index=True)
+                        df_review = pd.concat(objs=[df_review, new_row], ignore_index=True).drop_duplicates()
                         save_to_csv(dataframe=df_review, output_file_=output_file_reviews_search)
                     except Exception as e:
                         print(f"An error occurred for save_to_csv_extracted_review_results: {e}")

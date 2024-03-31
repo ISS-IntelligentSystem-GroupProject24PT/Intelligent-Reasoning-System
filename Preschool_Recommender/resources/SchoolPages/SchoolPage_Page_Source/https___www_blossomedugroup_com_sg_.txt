@@ -378,7 +378,7 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
                     <div class="banner">
                         <div class="homeBannerSlider no-arrow slick-initialized slick-slider slick-dotted"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="display: inline-block;"><i class="fas fa-arrow-left-long"></i></button>
                         	        
-							<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1558px;"><div class="banner-slide slick-slide" data-slick-index="0" aria-hidden="true" style="width: 779px; position: relative; left: 0px; top: 0px; z-index: 998; opacity: 0; transition: opacity 1000ms ease 0s;" tabindex="-1" role="tabpanel" id="slick-slide00" aria-describedby="slick-slide-control00">
+							<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1558px;"><div class="banner-slide slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 779px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;" tabindex="0" role="tabpanel" id="slick-slide00" aria-describedby="slick-slide-control00">
                                 <div class="home-banner-img-holder">
                                     <div class="home-banner-img img-holder img-cover">
                                         <figure><img src="https://www.blossomedugroup.com.sg/wp-content/uploads/2022/10/banner-home.jpg" alt="Blossom Edugroup Pte. Ltd."></figure>
@@ -392,13 +392,13 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
 <span>Quality Childcare &amp; Preschool Education</span></h2>
 <p>Blossom provides child care, pre-school education and enrichment programmes for children between 18 months and 6 years old. These are incorporated and delivered through our proprietary programme…</p>
                                                                                                 <div class="custom-button-holder">
-                                                    <a href="https://www.blossomedugroup.com.sg/our-programme/" class="custom-button" tabindex="-1">Learn More</a>
+                                                    <a href="https://www.blossomedugroup.com.sg/our-programme/" class="custom-button" tabindex="0">Learn More</a>
                                                 </div>
                                                                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div><div class="banner-slide slick-slide slick-current slick-active" data-slick-index="1" aria-hidden="false" style="width: 779px; position: relative; left: -779px; top: 0px; z-index: 999; opacity: 1;" tabindex="0" role="tabpanel" id="slick-slide01" aria-describedby="slick-slide-control01">
+                            </div><div class="banner-slide slick-slide" data-slick-index="1" aria-hidden="true" style="width: 779px; position: relative; left: -779px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" role="tabpanel" id="slick-slide01" aria-describedby="slick-slide-control01">
                                 <div class="home-banner-img-holder">
                                     <div class="home-banner-img img-holder img-cover">
                                         <figure><img src="https://www.blossomedugroup.com.sg/wp-content/uploads/2022/10/banner-home.jpg" alt="Blossom Edugroup Pte. Ltd."></figure>
@@ -411,7 +411,7 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
                                                 <h2>Blossom’s Proprietary <span>Curriculum Offers a Truly Unique Preschool Experience</span></h2>
 <p>Our curriculum is specially designed to cater to every child’s unique learning style and varying learning abilities…</p>
                                                                                                 <div class="custom-button-holder">
-                                                    <a href="https://www.blossomedugroup.com.sg/our-curriculum/" class="custom-button" tabindex="0">Learn More</a>
+                                                    <a href="https://www.blossomedugroup.com.sg/our-curriculum/" class="custom-button" tabindex="-1">Learn More</a>
                                                 </div>
                                                                                             </div>
                                         </div>
@@ -421,7 +421,7 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
             				
                                                     
                             
-                        <button class="slick-next slick-arrow" aria-label="Next" type="button" style="display: inline-block;"><i class="fas fa-arrow-right-long"></i></button><ul class="slick-dots" style="" role="tablist"><li class="" role="presentation"><button type="button" role="tab" id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 2" tabindex="-1">1</button></li><li role="presentation" class="slick-active"><button type="button" role="tab" id="slick-slide-control01" aria-controls="slick-slide01" aria-label="2 of 2" tabindex="0" aria-selected="true">2</button></li></ul></div>
+                        <button class="slick-next slick-arrow" aria-label="Next" type="button" style="display: inline-block;"><i class="fas fa-arrow-right-long"></i></button><ul class="slick-dots" style="" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 2" tabindex="0" aria-selected="true">1</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control01" aria-controls="slick-slide01" aria-label="2 of 2" tabindex="-1">2</button></li></ul></div>
                     </div>
                 </div>
                 <!-- Banner END -->
@@ -611,7 +611,7 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
 														
 							                            
                             
-                        <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 5243px; transform: translate3d(-2247px, 0px, 0px);"><div class="testimonial-slide slick-slide slick-cloned" style="width: 749px;" data-slick-index="-1" id="" aria-hidden="true" tabindex="-1">
+                        <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 5243px; transform: translate3d(-1498px, 0px, 0px); transition: transform 1000ms ease 0s;"><div class="testimonial-slide slick-slide slick-cloned" style="width: 749px;" data-slick-index="-1" id="" aria-hidden="true" tabindex="-1">
                                 <div class="testimonial-box">
                                     <p>“My daughter enrolled in Blossom Glittering Campus when she was 18 months old. At first, I was worried about letting my daughter attend a local preschool in a foreign country and therefore I visited many preschools before making a decision.”</p>
                                     <div class="testimonial-details">
@@ -623,7 +623,7 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
                                                                                     </div>
                                     </div>
                                 </div>
-                            </div><div class="testimonial-slide slick-slide" style="width: 749px;" data-slick-index="0" aria-hidden="true" tabindex="-1">
+                            </div><div class="testimonial-slide slick-slide" style="width: 749px;" data-slick-index="0" aria-hidden="true" tabindex="0">
                                 <div class="testimonial-box">
                                     <p>“Yi Xin was quite a character when she first joined, with all her crying and screaming. We’d like to thank all teachers and aunties who have helped in anyway or another, and especially for their patience with Yi Xin.”</p>
                                     <div class="testimonial-details">
@@ -635,7 +635,7 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
                                                                                     </div>
                                     </div>
                                 </div>
-                            </div><div class="testimonial-slide slick-slide" style="width: 749px;" data-slick-index="1" aria-hidden="true" tabindex="-1">
+                            </div><div class="testimonial-slide slick-slide slick-current slick-active" style="width: 749px;" data-slick-index="1" aria-hidden="false" tabindex="-1">
                                 <div class="testimonial-box">
                                     <p>“You know you have hit a winner when your 2-year-old child runs into school on their first day and doesn’t look back. Even more so when she screams for 30 minutes on returning home, demanding to be taken back to school because she loves it so much.”</p>
                                     <div class="testimonial-details">
@@ -647,7 +647,7 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
                                                                                     </div>
                                     </div>
                                 </div>
-                            </div><div class="testimonial-slide slick-slide slick-current slick-active" style="width: 749px;" data-slick-index="2" aria-hidden="false" tabindex="0">
+                            </div><div class="testimonial-slide slick-slide" style="width: 749px;" data-slick-index="2" aria-hidden="true" tabindex="-1">
                                 <div class="testimonial-box">
                                     <p>“My daughter enrolled in Blossom Glittering Campus when she was 18 months old. At first, I was worried about letting my daughter attend a local preschool in a foreign country and therefore I visited many preschools before making a decision.”</p>
                                     <div class="testimonial-details">
@@ -892,7 +892,7 @@ var wpcf7 = {"api":{"root":"https:\/\/www.blossomedugroup.com.sg\/wp-json\/","na
 <script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://www.blossomedugroup.com.sg/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/js/codedropz-uploader-min.js?ver=1.3.6.5" id="codedropz-uploader-js"></script>
 <script type="text/javascript" id="dnd-upload-cf7-js-extra">
 /* <![CDATA[ */
-var dnd_cf7_uploader = {"ajax_url":"https:\/\/www.blossomedugroup.com.sg\/wp-admin\/admin-ajax.php","ajax_nonce":"1860e30637","drag_n_drop_upload":{"tag":"h5","text":"Drag & Drop Files Here","or_separator":"or","browse":"Browse Files","server_max_error":"The uploaded file exceeds the maximum upload size of your server.","large_file":"Uploaded file is too large","inavalid_type":"Uploaded file is not allowed for file type","max_file_limit":"Note : Some of the files are not uploaded ( Only %count% files allowed )","required":"This field is required.","delete":{"text":"deleting","title":"Remove"}},"dnd_text_counter":"of","disable_btn":""};
+var dnd_cf7_uploader = {"ajax_url":"https:\/\/www.blossomedugroup.com.sg\/wp-admin\/admin-ajax.php","ajax_nonce":"d1b39ecf7f","drag_n_drop_upload":{"tag":"h5","text":"Drag & Drop Files Here","or_separator":"or","browse":"Browse Files","server_max_error":"The uploaded file exceeds the maximum upload size of your server.","large_file":"Uploaded file is too large","inavalid_type":"Uploaded file is not allowed for file type","max_file_limit":"Note : Some of the files are not uploaded ( Only %count% files allowed )","required":"This field is required.","delete":{"text":"deleting","title":"Remove"}},"dnd_text_counter":"of","disable_btn":""};
 /* ]]> */
 </script>
 <script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" src="https://www.blossomedugroup.com.sg/wp-content/cache/min/1/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/js/dnd-upload-cf7.js?ver=1710993128" id="dnd-upload-cf7-js"></script>

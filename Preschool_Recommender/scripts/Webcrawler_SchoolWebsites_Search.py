@@ -9,15 +9,16 @@ from datetime import datetime
 PAGE_WAIT_TIME = 2
 
 OUTPUT_FILE_REVIEWS_REFRESH = 'Google_Reviews_Output.csv'
-OUTPUT_HREF_SEARCH = 'Preschool_href.csv'
-TEMP_OUTPUT_HREF_SEARCH = 'Temp_Preschool_href_Search.csv'
+OUTPUT_HREF_SEARCH = 'SchoolPages_Preschool_href.csv'
+TEMP_OUTPUT_HREF_SEARCH = 'Temp_SchoolPages_Preschool_href.csv'
 
-PAGE_SOURCE_DIRECTORY_NAME = "SchoolPage_Page_Source"
-PAGE_LINKS_DIRECTORY_NAME = "SchoolPage_Website_Links"
-ARCHIVES_DIRECTORY_NAME = "SchoolPage_Search_Archives"
-REFRESH_MAIN_FILES_DIRECTORY_NAME = "..\\resources\\Compiled"
+PAGE_SOURCE_DIRECTORY_NAME = "..//resources//SchoolPages//SchoolPage_Page_Source"
+PAGE_LINKS_DIRECTORY_NAME = "..//resources//SchoolPages//SchoolPage_Website_Links"
+ARCHIVES_DIRECTORY_NAME = "..//resources//SchoolPages//SchoolPage_Search_Archives"
+REFRESH_MAIN_FILES_DIRECTORY_NAME = "..//resources//GoogleMaps//GoogleMaps_Compiled_Files"
+PROCESSED_INPUT_DIRECTORY_NAME = "..//resources//ProcessedSchoolPages//ProcessedGoogleMaps_Input_Files"
 
-OUTPUT_HREF_SEARCH_WITH_DATE = f"Preschool_List_Search_{datetime.now().date()}.csv"
+OUTPUT_HREF_SEARCH_WITH_DATE = f"SchoolPages_Preschool_List_Search_{datetime.now().date()}.csv"
 TEMP_OUTPUT_HREF_SEARCH_WITH_DATE = f"Google_Reviews_Output_Search_{datetime.now().date()}.csv"
 
 if not os.path.exists(PAGE_SOURCE_DIRECTORY_NAME):
@@ -34,7 +35,7 @@ temp_output_href_search = os.path.join(PAGE_LINKS_DIRECTORY_NAME, TEMP_OUTPUT_HR
 output_href_search_with_date = os.path.join(ARCHIVES_DIRECTORY_NAME, OUTPUT_HREF_SEARCH_WITH_DATE)
 temp_output_href_search_with_date = os.path.join(ARCHIVES_DIRECTORY_NAME, TEMP_OUTPUT_HREF_SEARCH_WITH_DATE)
 output_file_reviews_refresh = os.path.join(REFRESH_MAIN_FILES_DIRECTORY_NAME, OUTPUT_FILE_REVIEWS_REFRESH)
-
+output_href = os.path.join(PROCESSED_INPUT_DIRECTORY_NAME, OUTPUT_HREF_SEARCH)
 
 # Set the display options
 pd.set_option('display.max_rows', None)
@@ -71,7 +72,6 @@ df_school_websites = (pd.DataFrame({
                           .split('/')[0]
                           for preschool_website in df_file_reviews_refresh['Preschool_Website']]
     }).drop_duplicates())
-print(df_school_websites)
 
 
 # Remove search terms that are already extracted from href refresh
@@ -128,10 +128,9 @@ for preschool_name, school_website in zip(df_school_websites['Preschool_Name'],d
             save_to_csv(dataframe=df_href_results, output_file_=output_href_search)
             temp_href_file = pd.read_csv(temp_output_href_search).drop_duplicates(subset='href')
             page_source_files = get_page_source_files(PAGE_SOURCE_DIRECTORY_NAME)
-            print(temp_href_file)
-            print(page_source_files)
 
 save_to_csv(dataframe=df_href_results, output_file_=output_href_search_with_date)
+save_to_csv(dataframe=df_href_results, output_file_=output_href)
 
 df_href_results_temp = pd.read_csv(temp_output_href_search).drop_duplicates()
 save_to_csv(dataframe=df_href_results_temp, output_file_=temp_output_href_search_with_date)

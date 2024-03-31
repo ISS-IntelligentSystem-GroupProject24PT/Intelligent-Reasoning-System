@@ -409,7 +409,7 @@
 
             <div class="carousel-inner" role="listbox">
 
-                <div class="item">
+                <div class="item active">
                     <div class="col-xs-12 col-md-12">
                         <blockquote>
                             <p>You know a school is good when your child tells you that he does not want to go home and wakes up everyday willing to go back. The staff is fantastic, and their attention and dedication is to admire. I have seen how my son has progressed since the moment he joined. Today is a completely different boy!
@@ -423,7 +423,7 @@
                     </div>
                 </div>
 
-                <div class="item active">
+                <div class="item">
                     <div class="col-xs-12 col-md-12">
                         <blockquote>
                             <p>
@@ -439,7 +439,7 @@
                     </div>
                 </div>
 
-                <div class="item ">
+                <div class="item">
                     <div class="col-xs-12 col-md-12">
                         <blockquote>
                             <p>
@@ -463,9 +463,9 @@
             </div>
 
             <ol class="carousel-indicators">
-                <li data-target="#testimonials" data-slide-to="0" class=""></li>
-                <li data-target="#testimonials" data-slide-to="1" class="active"></li>
-                <li data-target="#testimonials" data-slide-to="2"></li>
+                <li data-target="#testimonials" data-slide-to="0" class="active"></li>
+                <li data-target="#testimonials" data-slide-to="1" class=""></li>
+                <li data-target="#testimonials" data-slide-to="2" class=""></li>
             </ol>
         </div>
     </div>
