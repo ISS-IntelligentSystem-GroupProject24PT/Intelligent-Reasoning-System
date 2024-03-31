@@ -1,0 +1,1043 @@
+<html lang="en" class="hydrated"><head> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>
+	MSF | National Family Violence Networking System Conference 2022
+</title> <link rel="icon" type="image/png" href="/ResourcePackages/Msf/assets/img/favIco.png"> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&amp;family=Open+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet">  <link href="/ResourcePackages/Msf/assets/css/sgds.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap-icons.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/all.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/sf-bootstrap-conflict.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/jquery-ui.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/swiper-bundle.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/search-result.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/main.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/custom-style.min.css" rel="stylesheet"> <meta property="og:title" content="MSF | National Family Violence Networking System Conference 2022"><meta property="og:url" content="https://www.msf.gov.sg/events/national-family-violence-networking-system-conference-2022"><meta property="og:type" content="website"><meta property="og:site_name" content="Ministry of Social and Family Development"><script async="" src="https://buttons-config.sharethis.com/js/648140a26773dd0012e17a9b.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=G-7WBNTH91BT"></script><script async="" src="https://assets.wogaa.sg/snowplow/3.13.1/sp.js"></script><script type="text/javascript">
+function lateLoadChatFile() {      
+  setTimeout(() => {        
+              const bodyTag = document.getElementsByTagName("body")[0];      
+             // Create link element to import chat.css file and append it on the body element        
+             let linkTag = document.createElement("link");
+  linkTag.href = "https://webchat.vica.gov.sg/static/css/chat.css";         linkTag.type = "text/css";
+  linkTag.rel = "stylesheet";       
+  linkTag.referrerPolicy = "origin";      
+  bodyTag.appendChild(linkTag);        
+  // Create script element to import chat.js file and append it on the body element       
+  let scriptTag = document.createElement("script");         scriptTag.src = "https://webchat.vica.gov.sg/static/js/chat.js";         scriptTag.type = "text/javascript";      
+  scriptTag.referrerPolicy = "origin";         
+  scriptTag.defer = true;         
+  bodyTag.appendChild(scriptTag);      
+}, 5000);  
+}
+</script><script type="text/javascript">
+(function() {
+  // add beta text 
+  let timerId = setInterval(function(){
+	if(!document.getElementsByClassName("sc-htpNat")[0]) return;
+	
+	clearInterval(timerId);
+	document.getElementsByClassName("sc-htpNat")[0].addEventListener("click", changeText);
+	document.getElementsByClassName("sc-EHOje")[0].addEventListener("click", changeText);
+  }, 5000);
+  function changeText() {
+	const ele = $("#webchat-container p:contains('Ask MSF')");
+	ele.html("");
+	ele.append("Ask MSF <span style='font-size: 14px !important;position: relative;top: -9px;left: 5px;font-weight: lighter;'>beta</span>");
+  }
+})();
+</script><link rel="canonical" href="https://www.msf.gov.sg/events/national-family-violence-networking-system-conference-2022"><script async="" src="https://assets.wogaa.sg/scripts/wogaa.js?url=https%3A%2F%2Fwww.msf.gov.sg%2Fevents%2Fnational-family-violence-networking-system-conference-2022"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="module" src="https://assets.wogaa.sg/sentiments/sentiments.esm.js" async=""></script><script nomodule="" src="https://assets.wogaa.sg/sentiments/sentiments.js" async=""></script><style type="text/css">#st-2 {
+  font-family: "Helvetica Neue", Verdana, Helvetica, Arial, sans-serif;;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  backface-visibility: hidden;
+  display: block;
+  position: fixed;
+  opacity: 1;
+  text-align: left;
+  top: 310px;
+  z-index: 94034;
+}
+#st-2.st-left {
+  left: 0px;
+}
+#st-2.st-hidden.st-left {
+  left: -48px;
+}
+#st-2.st-hidden {
+  width: 96px;
+}
+#st-2.st-preview {
+  display: none!important;
+  opacity: 0!important;
+}
+#st-2 > div {
+  clear: left;
+  float: left;
+}
+#st-2 .st-btn {
+  -moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  height: 48px;
+  line-height: 24px;
+  margin-bottom: 0;
+  opacity: 1;
+  overflow: hidden;
+  padding: 12px;
+  position: relative;
+  text-align: left;
+  top: 0;
+  vertical-align: top;
+  white-space: nowrap;
+  width: 48px;
+}
+#st-2 .st-btn.st-first {
+  border-top: none;
+  border-top-right-radius: 4px;
+}
+#st-2 .st-btn.st-last {
+  border-bottom: none;
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn > svg {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > img {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > span {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  color: #fff;
+  display: inline-block;
+  font-weight: 500;
+  left: -35px;
+  letter-spacing: 0.5px;
+  opacity: 0;
+  padding: 0 6px;
+  position: relative;
+  vertical-align: top;
+  filter: alpha(opacity=0);
+}
+#st-2 .st-btn.st-hide-label > span {
+  display: none !important;
+}
+#st-2 .st-total {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #fff;
+  color: #555;
+  display: inline-block;
+  font-weight: 500;
+  line-height: 18px;
+  margin-right: 0;
+  min-height: 34px;
+  max-width: 80px;
+  opacity: 1;
+  padding: 4px 0;
+  text-align: center;
+  width: 48px;
+}
+#st-2 .st-total.st-hidden {
+  display: none;
+}
+#st-2 .st-total > span {
+  display: block;
+  font-size: 18px;
+  line-height: 21px;
+  padding: 0;
+}
+#st-2 .st-total > span.st-shares {
+  font-size: 11px;
+  line-height: 11px;
+}
+#st-2 .st-toggle {
+  left: -48px;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #ccc;
+  border-bottom-right-radius: 4px;
+  color: white;
+  cursor: pointer;
+  font-size: 24px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: 48px;
+}
+#st-2.st-hidden .st-toggle {
+  border-top-right-radius: 4px;
+}
+#st-2.st-left .st-toggle .st-left {
+  display: inline-block;
+}
+#st-2.st-left.st-hidden .st-toggle .st-left {
+  display: none;
+}
+#st-2.st-left .st-toggle .st-right {
+  display: none;
+}
+#st-2.st-left.st-hidden .st-toggle .st-right {
+  display: inline-block;
+}#st-2:hover .st-toggle {
+  left: 0;
+}
+#st-2.st-hidden:hover .st-toggle {
+  left: 48px;
+}
+#st-2.st-toggleable:hover .st-btn.st-last {
+  border-bottom-right-radius: 0;
+}
+#st-2.st-toggleable:hover .st-btn.st-last:hover {
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn:hover {
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+}
+#st-2.st-has-labels .st-btn:hover {
+  width: 120px;
+}
+#st-2:not(.st-has-labels) .st-btn:hover {
+  width: 62px;
+}
+#st-2 .st-btn.st-hide-label:hover {
+  width: 62px;
+}
+#st-2 .st-btn:hover > svg {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > img {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > span {
+  opacity: 1;
+  display: inline-block;
+  left: 0;
+  filter: alpha(opacity=100);
+}
+@media (max-width: 1024px) {
+  #st-2 .st-btn:hover > svg {
+    margin-left: 0;
+  }
+  #st-2 .st-btn:hover > span {
+    display: none;
+  }
+}@media (max-width: 1024px) {
+  #st-2 {
+  bottom: 0;
+  display: none;
+  left: 0;
+  right: 0;
+  top: auto;
+  width: 100%;
+}
+#st-2.st-hidden {
+  bottom: -48px;
+  width: 100%;
+}
+#st-2.st-hidden.st-left {
+  left: 0;
+}
+#st-2.st-hidden.st-right {
+  right: 0;
+}
+#st-2 > div {
+  -moz-flex: 1;
+  -ms-flex: 1;
+  -webkit-flex: 1;
+  clear: none;
+  flex: 1;
+  float: none;
+}
+#st-2 .st-total {
+  background: #fff;
+  padding: 6px 8px;
+}
+#st-2 .st-btn {
+  -moz-border-radius: 0 !important;
+-webkit-border-radius: 0 !important;
+border-radius: 0 !important;
+  text-align: center;
+  width: auto;
+}
+#st-2 .st-btn > span {
+  display: none;
+}
+#st-2 .st-toggle {
+  display: none;
+}
+}#st-2 .st-btn[data-network='facebook'] {
+  background-color: #4267B2
+}
+#st-2 .st-btn[data-network='facebook'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='facebook'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='linkedin'] {
+  background-color: #0077b5
+}
+#st-2 .st-btn[data-network='linkedin'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='linkedin'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='gmail'] {
+  background-color: #D44638
+}
+#st-2 .st-btn[data-network='gmail'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='gmail'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='copy'] {
+  background-color: #14682B
+}
+#st-2 .st-btn[data-network='copy'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='copy'] > span {
+  color: #fff
+}#st-2 .st-btn[data-network='snapchat'] > span {
+  color: #333};
+}#st-2 .st-btn[data-network='copy']:hover {
+  width: max-content;
+}</style></head> <body onload="lateLoadChatFile();"> 
+
+<div id="webchat" app-id="msf-askmsf" app-name="Ask MSF" app-font-family="Arial" app-base-font-size="16" app-icon="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" app-welcome-message="Have a question? Type to get quick answers." app-color="#DE7C00" app-foreground-color1="#FFFFFF" app-bot-response-trigger-event="true" app-quick-launch-event="welcome" app-enable-auto-complete="false" app-auto-complete-background-color="#FFEDD7" app-auto-complete-foreground-color="#2E2E2E" app-auto-complete-hover-color="#FFCA88" app-auto-complete-divider-color="#DE7C00"></div>
+
+
+<div class="announcements-bar">
+    <div class="container-fluid">
+        <div class="row g-0 position-relative align-items-center">
+            <div class="col">
+                <div class="swiper announcementSwiper">
+                    <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <p>Have a question about MSF? Find quick answers with our chatbot Ask MSF.<!--EndFragment--></p>
+                            </div>
+                                                                                                                    </div>
+                </div>
+            </div>
+            <div class="col-auto align-self-start">
+                <div class="announcements-close">
+                    <button class="btn-close btn-ann-close btn-close-white" aria-label="Close"></button>
+                </div>
+            </div>
+        </div>
+        <div class="row g-0 position-relative">
+            <div class="col-12 col-md-auto buttons-align">
+                <div class="announcements-buttons">
+                    <div class="announcements-swiper-button swiper-button-prev">
+                        <em class="fa-solid fa-chevron-left"></em>
+                    </div>
+                    <div class="announcements-pagination"></div>
+                    <div class="announcements-swiper-button swiper-button-next">
+                        <em class="fa-solid fa-chevron-right"></em>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+ <sgds-masthead fluid="" class="sgds-masthead-class"></sgds-masthead> 
+<div class="layout-subsite">
+    <div id="Content_T7AD4A7CC001_Col00" class="sf_colsIn" data-sf-element="Navigation" data-placeholder-label="Navigation">
+
+<header>
+    <nav class="sgds navbar navbar-expand-xl main-navbar">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/" aria-label="home page">
+                <img src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69" title="MSF logo">
+            </a>
+
+            <button class="btn btn-nav-search px-24 ms-auto d-block d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#searchbarCollapse" aria-expanded="false" aria-controls="searchbarCollapse" aria-label="search icon">
+                <em class="fa-solid fa-search"></em>
+            </button>
+
+            <div class="collapse" id="searchbarCollapse">
+                <div class="container-fluid p-0 px-12">
+                    <div class="nav-searchbar">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Search our website" id="navSearchBarSearchInput" data-search="navSearchBarSearchInput">
+                            <button class="btn btn-search" type="button" id="navSearchBarBtnSearch" aria-label="search">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <span>Search</span>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Menu">
+                Menu
+            </button>
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <img class="offcanvas-header-logo" src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69">
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+
+                <div class="offcanvas-searchbar">
+                    <div class="sgds form-group">
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="defaultWith" aria-describedby="defaultWith" placeholder="Search our website">
+                            <button class="btn btn-offcanvas-search" type="button">
+                                <em class="fa-solid fa-search form-control-icon"></em>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav d-flex d-xl-none">
+                        <li class="nav-item">
+                            <a href="/" class="nav-link submenu-link" data-bs-dismiss="offcanvas" aria-current="page" aria-label="Home"><span>Home</span></a>
+                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#who-we-are-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#what-we-do-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#our-services-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#research-data-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#join-us-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+
+                    <div class="d-block d-xl-none">
+                                <div class="collapse collapse-horizontal submenu" id="who-we-are-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#who-we-are-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Who We Are</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/mission-values" class="nav-link sgds" aria-label="Mission &amp; Values"><span class="nav-link-text"><span>Mission &amp; Values</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/organisation-chart" class="nav-link sgds" aria-label="Organisation Chart"><span class="nav-link-text"><span>Organisation Chart</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/agencies-statutory-boards-councils" class="nav-link sgds" aria-label="Agencies, Statutory Boards &amp; Councils"><span class="nav-link-text"><span>Agencies, Statutory Boards &amp; Councils</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/senior-management-team" class="nav-link sgds" aria-label="Senior Management Team"><span class="nav-link-text"><span>Senior Management Team</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="what-we-do-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#what-we-do-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>What We Do</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/help-those-in-need" class="nav-link sgds" aria-label="Help Those in Need"><span class="nav-link-text"><span>Help Those in Need</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/support-families-and-parents" class="nav-link sgds" aria-label="Support Families &amp; Parents"><span class="nav-link-text"><span>Support Families &amp; Parents</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/strengthen-the-social-service-sector" class="nav-link sgds" aria-label="Strengthen the Social Service Sector"><span class="nav-link-text"><span>Strengthen the Social Service Sector</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="our-services-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#our-services-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Our Services</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/our-services/directories" class="nav-link sgds" aria-label="Directories"><span class="nav-link-text"><span>Directories</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/our-services/e-services" class="nav-link sgds" aria-label="E-Services"><span class="nav-link-text"><span>E-Services</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="research-data-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#research-data-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Research &amp; Data</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-reports-data" class="nav-link sgds" aria-label="Research Report &amp; Data"><span class="nav-link-text"><span>Research Report &amp; Data</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-grants" class="nav-link sgds" aria-label="Research Grants"><span class="nav-link-text"><span>Research Grants</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/Research-Conferences-Forums-Networks" class="nav-link sgds" aria-label="Research Conferences, Forums &amp; Networks"><span class="nav-link-text"><span>Research Conferences, Forums &amp; Networks</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="join-us-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#join-us-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Join Us</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/join-us/volunteer-with-msfcare-network" class="nav-link sgds" aria-label="Volunteer with MSFCare Network"><span class="nav-link-text"><span>Volunteer with MSFCare Network</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/jobs-careers" class="nav-link sgds" aria-label="Jobs &amp; Careers"><span class="nav-link-text"><span>Jobs &amp; Careers</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/scholarships-internships" class="nav-link sgds" aria-label="Scholarships &amp; Internships"><span class="nav-link-text"><span>Scholarships &amp; Internships</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                    </div>
+
+                    <ul class="navbar-nav justify-content-end flex-grow-1 d-none d-xl-flex">
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/mission-values" aria-label="Mission &amp; Values">
+                                                            Mission &amp; Values
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/organisation-chart" aria-label="Organisation Chart">
+                                                            Organisation Chart
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/agencies-statutory-boards-councils" aria-label="Agencies, Statutory Boards &amp; Councils">
+                                                            Agencies, Statutory Boards &amp; Councils
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/senior-management-team" aria-label="Senior Management Team">
+                                                            Senior Management Team
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/help-those-in-need" aria-label="Help Those in Need">
+                                                            Help Those in Need
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/support-families-and-parents" aria-label="Support Families &amp; Parents">
+                                                            Support Families &amp; Parents
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/strengthen-the-social-service-sector" aria-label="Strengthen the Social Service Sector">
+                                                            Strengthen the Social Service Sector
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/directories" aria-label="Directories">
+                                                            Directories
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/e-services" aria-label="E-Services">
+                                                            E-Services
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-reports-data" aria-label="Research Report &amp; Data">
+                                                            Research Report &amp; Data
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-grants" aria-label="Research Grants">
+                                                            Research Grants
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/Research-Conferences-Forums-Networks" aria-label="Research Conferences, Forums &amp; Networks">
+                                                            Research Conferences, Forums &amp; Networks
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/volunteer-with-msfcare-network" aria-label="Volunteer with MSFCare Network">
+                                                            Volunteer with MSFCare Network
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/jobs-careers" aria-label="Jobs &amp; Careers">
+                                                            Jobs &amp; Careers
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/scholarships-internships" aria-label="Scholarships &amp; Internships">
+                                                            Scholarships &amp; Internships
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header><div class="searchbar">
+    <div class="container-fluid">
+        <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search our website" id="searchbarWidgetSearchInput" data-search="searchbarWidgetSearchInput">
+            <button class="btn btn-search" type="button" id="searchbarWidgetBtnSearch" aria-label="Search">
+                <span>
+                    <em class="fa-solid fa-search fa-sm"></em>
+                    Search
+                </span>
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- prettier-ignore -->
+<div class="container-fluid">
+    <nav aria-label="breadcrumb" class="breadcrump-wrapper">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>
+                        <a href="/events" aria-label="Events">Events</a>
+                    </li>
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>National Family Violence Networking System Conference 2022
+
+                    </li>
+        </ol>
+        <div class="breadcrumb-mobile">
+            <a href="/" aria-label="Home">
+                <em class="fa-solid fa-chevron-left"></em>
+                <span>Home</span>
+            </a>
+        </div>
+    </nav>
+</div>
+
+
+
+
+<link href="/ResourcePackages/Msf/assets/css/language-bar.min.css" rel="stylesheet" type="text/css">
+
+
+    </div>
+    <div id="Content_T7AD4A7CC001_Col01" class="sf_colsIn" data-sf-element="Content" data-placeholder-label="Content"><div id="Content_C002_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<h1>National Family Violence Networking System Conference 2022
+</h1><p>Date/Time: 16 November 2022, 9am - 5pm</p><p>Venue: The Chevrons</p><hr><br><p><img width="100%" src="/images/default-source/msf-event/top---mail-banner.png?sfvrsn=eea28c5a_3"></p><p>This year marks the 26th anniversary of our establishment in family protection work. The theme for this year’s conference is “Breaking the Cycle of Violence | Restoring Safety: Insights into Working with Persons Causing Harm”. We are excited to present a series of keynote addresses and workshops by international and local speakers to help us better understand patterns of harmful behaviour, and better engage and work together with persons who cause harm.</p>
+<div class="accordion" id="accordionExample">
+    <div id="Content_C005_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content">
+
+    <div class="accordion-item" id="about">
+        <h2 class="accordion-header" id="heading_about">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_about" aria-expanded="true" aria-controls="collapse_about" aria-label="About">
+                About
+            </button>
+        </h2>
+        <div id="collapse_about" class="accordion-collapse collapse" aria-labelledby="heading_about" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p>Established in 1996, the National Family Violence Networking System (NFVNS) is an island-wide networking system that:</p><ul><li>Connects the police, courts, hospitals, social service agencies, and the Ministry of Social and Family Development into a tighter network of support</li><li>Provides multiple access points for families affected by violence to seek help.</li></ul><br><p>Since 2001, the Family Violence Dialogue Group (FVDG), a member of the NFVNS, has organised the NFVNS Conference to strengthen partnerships and share best practices in policy, practice and research on family violence.</p><br><h2>Event Details</h2><p>Date: 16 November 2022, Wednesday<br>Time: 9am to 5pm<br>Address: The Chevrons, Level 3 (48 Boon Lay Way, Singapore 609961)</p><p>Registration is by invitation only. Please register via the link in the invite sent to your email.</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="programme">
+        <h2 class="accordion-header" id="heading_programme">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_programme" aria-expanded="true" aria-controls="collapse_programme" aria-label="Programme">
+                Programme
+            </button>
+        </h2>
+        <div id="collapse_programme" class="accordion-collapse collapse" aria-labelledby="heading_programme" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <table class="datatable k-table" border="0" cellspacing="10" cellpadding="10"><tbody><tr><th><strong>Time (hrs)</strong> </th><th><strong>Programme</strong></th></tr><tr><td>0830 – 0900</td><td>Registration and Breakfast</td></tr><tr><td>0900 – 0915</td><td>Opening Performance</td></tr><tr><td>0915 – 0930</td><td>Opening Address by Host (Minister of State Ms Sun Xueling)<br></td></tr><tr><td>0930 – 0950</td><td>Family Violence Dialogue Group (FVDG) Appreciation Awards </td></tr><tr><td>0950 – 1000</td><td>Screening of Videos<br><ul><li><a href="https://www.youtube.com/watch?v=BHxJDgAsMzQ" target="_blank" rel="noopener noreferrer">Watch video on Break the Silence: Signal for Help 2022</a></li><li><a href="https://www.youtube.com/watch?v=-WxAZnYOuag" target="_blank" rel="noopener noreferrer">Watch video on Family Violence Working Group (FVWG)</a></li></ul></td></tr><tr><td>1000 – 1030</td><td><p>Morning Tea Break<br>(Collection of goody bag and visiting of booths)</p></td></tr><tr><td>1030 – 1130</td><td><p>Keynote Address 1<br><br>Intervening with Perpetrators as Parents: Strategies for Child and Adult Survivor Safety &amp; Well-Being<br><em>By Mr David Mandel (USA)</em>
+ 
+                                            </p></td></tr><tr><td>1130 – 1245</td><td><p><strong><span style="text-decoration:underline;">Concurrent Workshops 1</span></strong>
+ 
+                                            </p><ol><li>Engaging Men in Promoting Safety and Beyond for their Loved Ones
+                
+                                                    <p><em>By </em><em>Thye Hua Kwan Family Service Centre (THKFSC)</em></p></li><li>Unpacking Adult-Entrenched Dependency
+                
+                                                    <p><em>By </em><em>Care Corner Project StART (CCPS)</em>
+ </p></li><li>Narrative Therapy with Men who have Abused<br><em>By </em><em>Ang Mo Kio Family Service Centre (AMKFSC)</em></li></ol></td></tr><tr><td>1245 – 1400
+                                        </td><td><p>Networking Lunch<br><br><span>(Collection of goodie bag </span>and visiting of booths)
+                                                
+                                            </p></td></tr><tr><td>1400 – 1515</td><td><strong><span style="text-decoration:underline;"></span></strong>
+ 
+                                            <p><strong><span style="text-decoration:underline;">Concurrent Workshops 2</span></strong>
+ 
+                                            </p><ol><li>“PAVE’d My Path” – Taking Inspiration from Men who Abuse
+                
+                                                    <p><em>By </em><em>PAVE Integrated Services for Individual and Family Protection Specialist Centre (ISIFPSC)</em></p></li><li>Understanding Intrafamilial Sexual and Physical Violence and how Social Systems can Support Perpetrators and Victims in the Community
+                
+                                                    <p><em>By Singapore Prison Service (SPS</em>)</p></li><li>Beyond Safety – to Restoration<br><em>By Lutheran Community Care Services (LCCS) and Society Against Family Violence (SAFV)</em></li></ol></td></tr><tr><td>1515 – 1530</td><td>Afternoon Break </td></tr><tr><td>1530 – 1630</td><td><p>Keynote Address 2<br><br><span style="text-decoration:underline;">Coercive Control Perpetrators and the Harms They Cause in Families<br></span><em><span>By </span><span>Dr Emma Katz (UK)</span></em>
+ </p></td></tr><tr><td>1630 - 1700</td><td>Closing</td></tr></tbody></table>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="speakers">
+        <h2 class="accordion-header" id="heading_speakers">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_speakers" aria-expanded="true" aria-controls="collapse_speakers" aria-label="Speakers">
+                Speakers
+            </button>
+        </h2>
+        <div id="collapse_speakers" class="accordion-collapse collapse" aria-labelledby="heading_speakers" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <h3>Opening Address</h3><img src="https://www.msf.gov.sg/images/default-source/msf-event/mos.jpg?sfvrsn=d74995f5_3" alt="" width="175px"><p><strong>Ms Sun Xueling,</strong><br>Minister of State for Social and Family Development &amp; Home Affairs</p><p>Ms Sun Xueling was elected a Member of Parliament in September 2015. She currently holds the position of Minister of State in the Ministry of Home Affairs and the Ministry of Social and Family Development. Ms Sun serves as a Board Member of the Chinese
+    Development Assistance Council.</p><p>Ms Sun served in the Ministry of Education from 2020 - 2022 and had also served in the Ministries of Home Affairs and National Development from 2018 - 2020.</p><p>Before entering politics, Ms Sun spent more than a decade in the private sector in finance and investments. She received her Master of Science in International Political Economy from the London School of Economics and Political Science, and also holds
+    a Bachelor of Social Sciences in Economics from the National University of Singapore.</p><br><h3>Keynote Speakers</h3><img src="https://www.msf.gov.sg/images/default-source/msf-event/danielmandel.jpg?sfvrsn=f2fb8d89_3" alt="DanielMandel" width="175px"><p><strong><span style="text-decoration:underline;">Keynote Address 1</span><br>Mr David Mandel</strong><br>Executive Director<br>Safe &amp; Together Institute<br><a href="https://www.msf.gov.sg/docs/default-source/msf-event/david-mandel---keynote-address-1-(notes).pdf?sfvrsn=ff4e0e72_3">David Mandel - Keynote Address 1 (notes).pdf</a></p><p>With over 30 years’ experience in the domestic violence and child welfare fields, David and his Safe &amp; Together Institute focus on improving systems' responses to domestic violence when children are involved. David has developed the Safe &amp;
+    Together™ Model to improve case practice and cross system collaboration in domestic violence cases involving children. He has identified how a perpetrator pattern-based approach can improve our ability to help families and promote the development
+    of domestic violence-informed child welfare systems.</p><p>David and the Safe &amp; Together Institute have worked with governments and NGOs in Canada, the US, Australia, Asia and United Kingdom. Through their live training, organisational consulting, e-learning, and Trainer Certification and Partner Agency Program,
+    the Safe &amp; Together Institute provides organisations and systems with a wide range of tools to partner with adult and child survivors and intervene with perpetrators. Currently the Institute supports almost 300 Certified Trainers and 80 Partner
+    Agencies worldwide. David hopes that his work ends the use of “failure to protect” mentality in domestic violence cases and helps systems better work with complex cases involving mental health issues, substance misuse and domestic violence.
+    Recent work with the national Family Court of Australia has brought the same child centered domestic violence lens to custody and access matters. Using an intersectional analysis, the Model is designed to be flexible and relevant across diverse situations.</p><p>David has written or co-written numerous journal articles, book chapters and white papers including his most recent ones on how perpetrator intervention program completion certificates can be dangerous for survivors, and on worker safety in the context
+    of domestic violence. He is regularly part of research studies including Professor Cathy Humphreys’ recent series of Australian national research projects on intervening with perpetrators, and complex case practice.</p><p><span style="text-decoration:underline;"><strong>Synopsis of Keynote Address 1</strong></span><strong><br>Intervening with Perpetrators as Parents: Strategies for Child and Adult Survivor Safety &amp; Well-Being</strong></p><p>Attempts to address domestic violence have often ignored the role of the perpetrator as parent. This intervention gap has had significant consequences for adult and child survivors. In this session, David Mandel, the creator of the Safe &amp; Together™
+    Model, will outline a perpetrator pattern-based approach and how it helps improve outcomes for adult and child survivors. He will challenge the “myth of the child witness”, offer alternative methods for assessing harm to child functioning
+    and outline how to improve partnering with adult survivors.</p><br><img src="https://www.msf.gov.sg/images/default-source/msf-event/emmakatz.jpg?sfvrsn=aa08131d_3" alt="EmmaKatz" width="175px"><p><strong><span style="text-decoration:underline;">Keynote Address 2</span><br>Dr Emma Katz</strong><br>Senior Lecturer, Liverpool Hope University<br>Author of Coercive Control in Children’s and Mothers’ Lives<br><a href="https://www.msf.gov.sg/docs/default-source/msf-event/dr-emma-katz---keynote-address-2.pdf?sfvrsn=3bb30dbc_3">Dr Emma Katz - Keynote Address 2.pdf</a></p><p>Dr Emma Katz, Ph.D., is an internationally renowned expert in family violence and coercive control, whose work has influenced legislation in the UK and globally. Coercive control is a form of domestic abuse where perpetrators use a pattern of threats,
+    intimation and abuse to control and dominate their partner and children, depriving them of independence and isolating them from support. Because coercive control does not always involve physicalviolence, it has often been under-reported and under-recognised.</p><p>Emma’sresearch with mothers and children who have su rvived coercive control has transformed understandings of family violence. Children’s experiences of coercive control were largely invisible prior to Emma’s work, which found that
+    children were affected by many forms of abuse inherent to coercive control, including imprisonment, deprivation of resources, constrained behaviour and isolation from the outside world.</p><p>Emma’s book, <em>Coercive Control in Children’s and Mothers’ Lives</em> (2022, Oxford University Press) is described as a ‘pioneering work’ that ‘will change how we understand and response to children’s experience
+    of domestic abuse’ (Evan Stark, Professor Emeritus, Rutgers University).</p><p><span style="text-decoration:underline;"><strong>Synopsis of Keynote Address 2</strong></span><strong><br>Coercive control perpetrators and the harms they cause in families</strong></p><p>This presentation will examine coercive control, a severe form of abuse in relationships and families, where the person causing harm attacks the survivor’s freedom, autonomy, and sense of self. Coercive control involves situations where the person
+    causing harm subjects their partner or family member to persistent, wide-ranging controlling behaviour over a long period of time and makes it clear that standing up for themselves against this highly controlling behaviour will be punished. By relentlessly
+    punishing the survivor for non-compliance, the person causing harm intends to demoralise and terrorise the survivor into a state of permanent obedience and submissiveness. Much family violence is coercive-control-based, and coercive control can occur
+    with or without physical violence.</p><p>The presentation will also highlight the multiple ways that coercive control harms children. Drawing on key research, the presentation will explore how persons who cause harm in these contexts (usually the children's fathers or father figures) not only
+    directly harm and restrict children’s lives; they also disrupt children’s healthy development and ties to their communities. By turning our attention to how harmful these behaviours are and what the intentions and strategies of coercive
+    controllers are, we can begin to develop effective solutions to these hidden and destructive types of abuse.</p><br><h3>Speakers - Concurrent Workshops 1</h3><p><span style="text-decoration:underline;"><strong>Engaging Men in Promoting Safety and Beyond for their Loved Ones</strong></span><br><em>By Thye Hua Kwan Family Service Centre (THKFSC)<br><a href="https://www.msf.gov.sg/docs/default-source/msf-event/thk---fv-symposium-workshop.pdf?sfvrsn=e70e4b4a_3">THK - FV Symposium Workshop.pdf</a></em>
+</p><p><img src="https://www.msf.gov.sg/images/default-source/msf-event/thumbnail_christopherpang.jpg?sfvrsn=17f91799_3" alt="thumbnail_ChristopherPang" width="175px"></p><p style="text-decoration:underline;">Mr Christopher Pang</p><p>Christopher has a Master of Narrative Therapy and Community Work and is a certified practitioner of Choice Theory and Reality Therapy. For the past four years, he has been engaging with men who used violence in the family through individual and groupwork
+    sessions. He works alongside individuals in the Brotherhood who seek to cease their use of violence. Christopher also conducts neuroscience-informed groupwork for elders who are experiencing issues due to ageing or are living with past negative experiences.
+    Christopher works as a counsellor and social worker with THK Family Services.</p><p><img src="https://www.msf.gov.sg/images/default-source/msf-event/irislim.jpg?sfvrsn=8ef4eea3_3" alt="IrisLim" width="175px"></p><p style="text-decoration:underline;">Ms Iris Lim</p><p>Iris has a Master's degree in Counselling and a Bachelor's degree in Social Work. She is studying for a Master of Social Work at the University of Toronto with a focus on Trauma-Informed Practice. She has been with THK Family Services since 2013 and is
+    interested in implementing the Trauma-Informed lens in her work with individuals and families affected by trauma. She currently runs Brotherhood groupwork for men who caused hurt, which received the FVDG Appreciation Award in 2020.</p><p>Currently, Iris is the Senior Social Worker at THK Family Services. She manages the operation of the centre, supervises cases and groupwork within the THK Family Services, and provides counselling assistance to individuals, couples, families.</p><p style="text-decoration:underline;"><strong>Synopsis</strong></p><p>Engaging men who used violence at home against women and children have always invited many reactions among the helping professionals. While many agree that direct intervention on the men who caused hurt (MWCH) is one of the most effective ways to ensure
+    both the women and children’s safety, this unfortunately does not always happen.</p><p>This workshop attempts to understand and address some of the concerns that the helping professionals may have when engaging MWCH. We will hear directly about two men’s experiences, one engaged by the professionals while the other was not. By the
+    end of the workshop, participants will learn about tools to engage MWCH, to help to ensure women and children’s safety.</p><br><p><span style="text-decoration:underline;"><strong>Unpacking Adult-Entrenched Dependency</strong></span><br><em>By Care Corner Project StART (CCPS)<br><a href="https://www.msf.gov.sg/docs/default-source/msf-event/ccps---unpacking-aeda.pdf?sfvrsn=7de8018b_3">CCPS - Unpacking AEDA.pdf</a></em></p><p><img src="https://www.msf.gov.sg/images/default-source/msf-event/kristinelam.jpg?sfvrsn=e82fdb81_3" width="175px" alt="kristinelam"></p><p style="text-decoration:underline;">Ms Kristine Lam</p><p>Kristine graduated from the National University of Singapore with a Bachelor of Arts degree majoring in Social Work in 2012. She has been involved in the Family Protection Work for about a decade. In her work through CCPS, she participated in the NFVNS
+    committee, Family Violence Working Group (FVWG), development of the Sector Specific Screening Guide and the Child Abuse Reporting Guide and is currently chairing FVWG Clementi. In 2016, Kristine was awarded the FVDG Appreciation Award. In 2017, she
+    was awarded the Promising Social Worker Award by the President, Madam Halimah Yacob. Presently, she is a Principal Social Worker at Care Corner Singapore Ltd, overseeing a part of the service planning, development and implementation of the agency
+    and supervision of social work staff.</p><p><img src="https://www.msf.gov.sg/images/default-source/msf-event/jaeliew.jpg?sfvrsn=e23bce5a_3" width="175px" alt="JaeLiew"></p><p style="text-decoration:underline;">Ms Jae Liew</p><p>Jae Liew graduated from Monash University, Melbourne, with a Master of Social Work in 2020. She started her career in Australia in community mental health, working with people with high complex mental illnesses. Jae later moved to work in foster care
+    case management with families and children displaced from their homes. In 2020, upon returning to Singapore, Jae decided to pursue a career in family protection, working with families experiencing family violence. In her work at CCPS, she has supported
+    many families through direct case management, advocacy in multi-disciplinary team, worked with systems and hosted networking and public education events.</p><p><img src="https://www.msf.gov.sg/images/default-source/msf-event/thumbnail_wongsiongyee.jpg?sfvrsn=429d3e31_3" width="175px" alt="thumbnail_WongSiongYee"></p><p style="text-decoration:underline;">Ms Wong Siong Yee</p><p>Siong Yee graduated from the National University of Singapore in 2019 with a Bachelor of Arts degree majoring in Psychology, with a second major in Life Sciences. Having a keen interest in working directly with individuals and families, she decided to
+    pursue a career in social work and started out at CCPS. In her work, Siong Yee has supported many families experiencing family violence in direct case management and one of her core involvements include working with vulnerable older adults experiencing
+    abuse and neglect. She will be completing her Post-Graduate Diploma in Social Work at the National University of Singapore in 2023.</p><p style="text-decoration:underline;"><strong>Synopsis</strong></p><p>In 2017, CCPS observed a new trend where parents were reporting abuse by their adult children who were unable and/or unwilling to be launched into adulthood. A dedicated team was set up to understand the dynamics and nuances within these families that
+    differentiated them from other family violence dynamics. Using both international research findings and ground experience, the team created a differentiated approach in managing families that presented with Adult Entrenched Dependency (AED). CCPS
+    has also conducted a group work program in 2019 to support parents experiencing abuse from their adult children.</p><p>AED is a chronic and systemic family dynamics where the adult offspring is dependent on the parent to provide age-inappropriate services (Lebowitz, Dolberger, Nortov and Omer, 2012) [1]</p><p>AED is a concern in family violence practice as the dynamics can escalate to violence towards the parent when the parent does not accommodate the adult child’s dependency. To mitigate risk of violence, the parent may resort to accommodating the
+    adult child. Over time, it forms a vicious cycle where the adult child threatens to use or uses violence to get what they want, and the parent uses accommodating behaviour to reduce the chances of recurrence of violence. This sustains the AED dynamics.</p><p>Like all family violence dynamics, focusing on safety alone usually only manages the risk for a short period of time. Thus, a more robust and comprehensive practice modality that deals with what sustains the dynamic is needed to achieve longer term safety
+    for the families. This workshop will address how to assess an AED dynamic, some of the challenges in supporting families experiencing AED, and how to work with such families to achieve longer term safety.</p><p style="font-size:16px;">[1] Lebowitz, E. R., Dolberger, D, Nortov, E &amp; Omer, H. (2012). Parent training in non-violent resistance for adult entitled dependence. Family Process, 51(1):1–17.</p><br><p><span style="text-decoration:underline;"><strong>Narrative Therapy with Men who have Abused</strong></span><br><em>By Ang Mo Kio Family Service Centre (AMKFSC)<br><a href="https://www.msf.gov.sg/docs/default-source/msf-event/amkfsc---narrative-therapy-with-men-who-use-violence.pdf?sfvrsn=b3720e66_3">AMKFSC - Narrative Therapy with Men who use Violence.pdf</a></em></p><p><img src="https://www.msf.gov.sg/images/default-source/msf-event/fareez.jpg?sfvrsn=389a735b_3" width="175px" alt="fareez"></p><p>Fareez has been a social worker at AMKFSC Community Services Ltd for more than 15 years. He has a Master in Social Sciences (Social Work) from the National University of Singapore, and Master in Narrative Therapy and Community Work from the University
+    of Melbourne. As a member of the Narrative international teaching faculty of Dulwich Centre (Adelaide), Fareez has keen interests in incorporating collaborative practices with individuals, groups, and communities across various areas and issues. Fareez
+    has conducted Narrative workshops and trainings across various international contexts in Canada, Australia, Israel, Palestine, India and Nepal. Fareez was the recipient of the Promising Social Worker Award in 2011, and the Prime Minister Social Service
+    Award in 2012.</p><p style="text-decoration:underline;"><strong>Synopsis</strong></p><p>A Narrative Approach privileges the stories of persons and communities, via a respectful non-blaming approach, where people are centered as experts in their own lives. This stance can prove challenging when working with men who have abused, where practitioners
+    are required to take an ethical stance against violence. Influenced by feminist approaches, Narrative therapy acknowledges the discourses of stereotypical masculine and feminine roles as aspects that need to be reflected on during therapeutic work.</p><p>This workshop discusses strategies influenced by Narrative theory, where practitioners support men in uncovering the operations of power and control, where the man’s expertise is acknowledged. This can be attained through asking carefully structured
+    questions to facilitate self-reflection.</p><p>The following strategies would be discussed:
+</p><ul><li>Centering Men’s knowledge and skills, as well as their aspirations and hopes</li><li>Deconstruction of perceptions of masculinities</li><li>Tools to support conversations with Men who have abused</li></ul><p>&nbsp;</p><br><h3>Speakers - Concurrent Workshops 2</h3><p><span style="text-decoration:underline;"><strong>“PAVE’d My Path” – Taking Inspiration from Men who Abuse</strong></span><br><em>By PAVE Integrated Services for Individual and Family Protection Specialist Centre (ISIFPSC)<br><a href="https://www.msf.gov.sg/docs/default-source/msf-event/nfvns---pave---pave_d-my-path.pdf?sfvrsn=5759e547_3">NFVNS - PAVE - PAVe_d my path.pdf</a></em></p><p><img src="https://www.msf.gov.sg/images/default-source/msf-event/pangkeetai.jpg?sfvrsn=94208636_3" width="175px" alt="PangKeeTai"></p><p style="text-decoration:underline;">Ms Pang Kee Tai</p><p>Kee Tai is the Senior Deputy Director in PAVE and leads its training programme. A social worker by profession, she counts it her privilege to have worked alongside individuals, families and community partners in the management of interpersonal and family
+    violence since PAVE’s inception in 1999.</p><p>She has more than three decades of experience supporting multi-stressed families, providing individual counselling, facilitating men’s groups, providing training on the issue of family violence to various professionals such as the police, social
+    service practitioners, medical personnel, grassroots leaders and educators. She also co-authored PAVE’s publication “Engaging Men Who Abuse”.</p><p style="text-decoration:underline;"><strong>Synopsis</strong></p><p>“PAVE’d My Path” was the title of a reflection piece written by one man after he had gone through the men’s programme and worked alongside social workers in reintegrating with his family. This workshop draws inspiration from our
+    work with men who abuse and how it has morphed through the years.</p><p>The philosophy has remained the same: using power and coercive control and challenging abusive beliefs as our central focus in facilitating men’s change. This also includes the simultaneous engagement of the spouse, children and the family ecology.
+    However, added layers of evidence-based knowledge and practices have definitely strengthened our practice with men who abuse in a holistic manner. This workshop will explore what we have learnt from engaging men who abuse, and their family, and if
+    we are paving the right path with them.</p><p><span style="text-decoration:underline;"><strong>Understanding Intrafamilial Sexual and Physical Violence and how Social Systems can Support Perpetrators and Victims in the Community</strong></span><br><em>By PAVE Integrated Services for Individual and Family Protection Specialist Centre (ISIFPSC)<br><a href="https://www.msf.gov.sg/docs/default-source/msf-event/singapore-prison-service---intrafamilial-sexual-violence.pdf?sfvrsn=c521fc0d_3">Singapore Prison Service - Intrafamilial Sexual Violence.pdf</a></em></p><p><strong>Speakers</strong></p><p><img src="https://www.msf.gov.sg/images/default-source/msf-event/arvina.jpg?sfvrsn=b9e6f3fc_3" width="175px" alt="arvina"></p><p style="text-decoration:underline;">Ms Arvina Manon</p><p>Arvina holds a Master of Science in Clinical Forensic Psychology and is a Lead Psychologist with the SPS. Her clinical experience involves conducting risk assessments and providing group-based and individual interventions for offenders with violence,
+    sexual violence and mental health needs. In her current role as Assistant Director of the Sexual Violence Unit, she oversees the assessment and rehabilitation processes for offenders convicted of sexual offences. This includes conceptualising and
+    implementing frameworks and policies for managing these offenders and providing consultation to stakeholders on sexual offending. Fuelled by passion, Arvina enjoys enhancing current perspectives of the sexual offending population and developing strategies
+    to address systemic needs. She is especially inspired to support her clients in embarking on journeys of hope, resilience, and change. Prior to her current role, she spent six years developing and implementing multiple psychology-based correctional
+    programmes for the local offender population.</p><p><img src="https://www.msf.gov.sg/images/default-source/msf-event/sps-(charmaine).jpg?sfvrsn=8759064e_3" width="175px" alt="SPS (Charmaine)"></p><p style="text-decoration:underline;">Ms Ch’ng Wei Lin, Charmaine</p><p>Charmaine holds a Bachelor in Psychology (Honours) and is a psychologist working in the PSB. She conducts risk assessments and provides group and individual psychological intervention for violent and sexual offenders in the SPS. Her job scope also involves
+    managing assessment and intervention referrals, developing and evaluating rehabilitation programmes and activities, as well as reviewing policies of adult male sexual offenders. She is currently involved in conducting research relating to sexual offenders
+    who commit Outrage of Modesty and is also part of the National Committee on Prevention, Rehabilitation and Recidivism Project subgroup on Youth Sexual Offending in Singapore.</p><p><img src="https://www.msf.gov.sg/images/default-source/msf-event/rashida.jpg?sfvrsn=c5a58d15_3" width="175px" alt="rashida"></p><p style="text-decoration:underline;">Ms Rashida Mohamed Zain</p><p>Rashida is the Assistant Director and Lead Psychologist in the PSB. She holds a Master in Psychology (Clinical). Rashida oversees the General Violence Unit that is involved in the rehabilitation and policy matters of the general and family violence offender
+    population. Rashida’s passion is in restoring family relationships using evidence-based psychological approaches to transform dysfunctional into functional relationships. She is involved in the setting up of inmate-led fathers support group
+    in prisons and has been active in implementing initiatives to bring families closer despite the prison walls.</p><p><img src="https://www.msf.gov.sg/images/default-source/msf-event/jane.jpg?sfvrsn=c459f1d1_3" width="175px" alt="Jane"></p><p style="text-decoration:underline;">Ms Jane Quek</p><p>Jane holds a Master of Science in Psychology and is a senior psychologist with the General Violence Unit at PSB. She undertakes the operational work relating to risk assessment and rehabilitation of violent offenders within PSB and has conducted research
+    into family violence and fathering. Jane also has experience in providing psychological support to frontline Home Team operations, such as the Crisis Negotiation Unit (with Singapore Police Force). Formally trained on critical incident stress management
+    (certified by International Critical Incident Stress Foundations) and Psychological First Aid (endorsed by World Health Organisation) skills, she has also provided psychological support to numerous enforcement operations and national crises, including
+    the Kovan Double Murder and Air Asia air crash.</p><p style="text-decoration:underline;"><strong>Synopsis</strong></p><p>Family violence (FV), including physical and sexual acts of abuse, is a significant concern, occurring across all socioeconomic and demographic groups. These types of violence can have a serious impact on individuals, families and communities, and can
+    inflict physical injury and psychological harm. Some of these effects can be long-lasting and can affect future generations. Hence, collaborative efforts between professionals from the criminal justice system and community agencies is essential to
+    help families navigate the profound impact of FV. Areas of collaboration can include rehabilitation with the person causing harm, trauma-care for the survivor(s) and reparation of relationships (if there is safety).
+</p><p>This workshop by the SPS psychologists will focus on understanding intrafamilial sexual offending, examine how risk factors that contribute to intrafamilial sexual offending can be addressed, while strengthening factors that contribute to the desistance
+    of persons causing harm. We will also share our approach for working with offenders who commit physical family violence. Importantly, the aim is to create opportunities for collaboration between the criminal justice system and community agencies when
+    delving into treatment considerations and management strategies for working with persons causing harm (physical and sexual violence) and supporting families in the community.</p><br><p><span style="text-decoration:underline;"><strong>Beyond Safety – to Restoration</strong></span><br><em>By Lutheran Community Care Services (LCCS) and Society Against Family Violence (SAFV)<br><a href="https://www.msf.gov.sg/docs/default-source/msf-event/nfvns-lccs-safv---beyond-safety-_-to-restoration-(1).pdf?sfvrsn=b28be7b4_3">NFVNS LCCS &amp; SAFV - Beyond Safety _ to Restoration (1).pdf</a></em></p><p><img src="https://www.msf.gov.sg/images/default-source/msf-event/deborahwan.jpg?sfvrsn=f67ef8e_3" width="175px" alt="DeborahWan"></p><p style="text-decoration:underline;">Ms Deborah Wan</p><p>Deborah Wan is a Senior Counsellor at LCCS and a member of the SAFV. She had obtained a Master of Arts in Counseling Psychology from Boston College, USA and a Bachelor of Social Science (Hons) in Psychology from the National University of Singapore. Deborah
+    is also trained in restorative practices by the International Institute for Restorative Practices and Systemic Thinking and Approaches by Counselling and Care Centre. Being passionate about children and youth work, Deborah underwent training with
+    the Academy of Play and Child Psychotherapy, UK in therapeutic play and is working on integrating play, symbol work and sandtray therapy in her practice.</p><p>Following a sabbatical at the Summer Peacebuilding Institute at Eastern Mennonite University, USA, Deborah gained an interest in exploring and understanding nonviolent ways of communicating and addressing conflict. She is currently exploring trauma-informed
+    and creative dialogic processes to transform conflict, particularly addressing harm that has occurred in familial relationships.</p><p>Deborah is currently heading the Bridge to Hope project in LCCS, where practitioners work with individuals experiencing interpersonal violence to talk about the violence and to bring restoration and healing to individuals and families, including children,
+    affected by family violence through promoting conversations in safe spaces. Deborah is currently serving as Honorary Treasurer of SAFV and has been a team member of the SAFV Helplink service since 2020.</p><p><img src="https://www.msf.gov.sg/images/default-source/msf-event/kekseowling.jpg?sfvrsn=68350cfa_3" width="175px" alt="KekSeowLing"></p><p style="text-decoration:underline;">Ms Kek Seow Ling</p><p>Kek Seow Ling is a social work practitioner. She had obtained a Master’s in Social Science (Community Service Management) from the University of Wales, Swansea and a Bachelor in Social Science (Hons) in Social Work from the National University of
+    Singapore. Seow Ling is also trained in restorative practices by the International Institute for Restorative Practices (IIRP) and Asset-Based Community-Driven Development by Nurture Development, Ireland. In her many years of social work practice,
+    she is involved in case management, community work, social work supervision and management.</p><p>Seow Ling had presented on ‘Restorative Justice and Social Work in Singapore’ at the IIRP 23rd World Conference held in Bethlehem, Pennsylvania, USA in October 2017, the Asian Family Summit held in Hong Kong in August 2018 and the LCCS Restorative
+    Practice Conference held in Singapore in November 2018. This topic is based on her experience in translating restorative practice to the community setting.</p><p>Believing that restorative practice is a way of being, Seow Ling had helped to establish a set of restorative practice principles to guide practice and organisational culture in LCCS. She also designed a training curriculum for Family Group Decision Making
+    to promote a relational practice that respects family power and leadership. Together with her team, Seow Ling brought restorative practice into the domestic violence arena in Singapore. She desires to provide persons experiencing violence a different
+    experience – one of safety, care and empowerment, when addressing violence.</p><p>Seow Ling is currently a member of the IIRP Board of Trustees and the SAFV. She is currently pursuing a Master in Restorative Justice from the Vermont Law School, USA.</p><p style="text-decoration:underline;"><strong>Synopsis</strong></p><p>This workshop attempts to offer a restorative justice approach to journey with persons using and affected by family violence. Anchored in the concept of shame, restorative justice offers a relational lens to address the issue of family violence. Recognising
+    that relationships are complex, restorative justice offers a pathway to restoration of relationships through sharing, respecting power and promoting active responsibility of affected parties. It promotes voice, agency and belongingness through facilitated
+    conversations in safe spaces. A restorative justice approach can certainly bridge the gap in practice orientations in the current social service landscape.</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="awards">
+        <h2 class="accordion-header" id="heading_awards">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_awards" aria-expanded="true" aria-controls="collapse_awards" aria-label="Awards">
+                Awards
+            </button>
+        </h2>
+        <div id="collapse_awards" class="accordion-collapse collapse" aria-labelledby="heading_awards" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p>Introduced in 2008, the FVDG Appreciation Awards aims to:</p><p>1) Promote inter-agency recognition of individual and team contributions in the management of family violence cases; and</p><p>2) Motivate professionals to improve service delivery and to work towards a coordinated response in the management of family violence cases.</p><p><a href="https://www.msf.gov.sg/docs/default-source/msf-event/fvdg-appreciation-award-recipients-2022.pdf?sfvrsn=dd13e69_3" target="_blank">View List of Award Winners</a></p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="faqs">
+        <h2 class="accordion-header" id="heading_faqs">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_faqs" aria-expanded="true" aria-controls="collapse_faqs" aria-label="FAQs">
+                FAQs
+            </button>
+        </h2>
+        <div id="collapse_faqs" class="accordion-collapse collapse" aria-labelledby="heading_faqs" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <h3>Registration</h3>
+<p><strong>Question: How do I register?</strong><br>You may register online through the registration link that is found in the email invitation.</p>
+<p><strong>Question: Can someone register on my behalf?</strong><br>Yes. Please ensure that the email addresses and other details are correctly reflected in the registration form. Subsequent conference updates will be sent to each successful registrant
+    via the email address provided.</p>
+<p><strong>Question: Do I need to pay to attend the Conference?</strong><br>No. Attendance at the NFVNS Conference 2022 is complimentary, and by invitation only.</p>
+<p><strong>Question: When does registration close?</strong><br>Registration will close on 8 November (Tuesday) and successful registrants will receive a confirmation email by 9 November (Wednesday).</p><br>
+<h3>On the Day of the Conference</h3>
+<p><strong>Question: How do I get to the venue?</strong><br>Here are the train and bus services to the venue:</p>
+<p><span style="text-decoration:underline;">Nearest MRT Station</span><br>Jurong East (within walking distance, approx. 10 min)</p>
+<p><span style="text-decoration:underline;">Chartered Shuttle Bus</span><br>Available every 10 mins between 8am and 9am (Jurong East MRT)</p>
+<p><span style="text-decoration:underline;">Bus Stop Number</span><br>Outside THE CHEVRONS (28049)<br>Opposite THE CHEVRONS (28041)</p>
+<p><span style="text-decoration:underline;">Bus Services</span><br>SBS 99, 52, 105 and 502 (Express Service)<br>SMRT 188<br>From Jurong East Interchange: SBS 52, 105</p>
+<p><strong>Question: Would there be parking available?</strong><br>Yes, parking is available at The Chevrons.</p>
+<p><span style="text-decoration:underline;">Alternative Parking:</span><br>The Furniture Mall (Beside The Chevrons)<br>The Strategy and The Synergy (Opposite The Chevrons)</p><br>
+<h3>After the Conference</h3>
+<p><strong>Question: Will the conference presentations and materials be made available to participants after the event?</strong><br>The conference materials will be made available to conference invitees within two weeks of the conference.</p><br>
+<h3>Contact Us</h3>
+<p>If you have any questions relating to the conference and registration, please contact our appointed conference organiser at
+    <a href="mailto:" "=" ">NFVNS2022@sgrsvp.com</a>.</p>
+            </div>
+        </div>
+    </div>
+
+
+    </div>
+</div>
+</div>
+
+    </div>
+</div> <div class="sharethis-inline-share-buttons"></div> 
+
+
+<footer class="sgds footer">
+    <section class="footer-top">
+        <div class="container-fluid">
+            <div class="row footer-header">
+                <div class="footer-title">
+                    Ministry of Social and Family Development
+                </div>
+            </div>
+
+            <div class="row footer-contact-links">
+                <div class="col-sm-12">
+                    <div class="d-flex flex-column flex-lg-row gap-20 gap-lg-0 justify-content-lg-end">
+                        <div class="d-flex justify-content-lg-end">
+                            <ul class="d-flex flex-column flex-lg-row gap-lg-40 contact-links">
+                                        <li><a class="" href="/contact-us-feedback" aria-label="Contact Us / Feedback">Contact Us / Feedback</a></li>
+                                        <li><a class="not-first-page" href="/faqs" aria-label="FAQs">FAQs</a></li>
+                            </ul>
+                        </div>
+                        <div class="d-flex align-items-lg-center justify-content-lg-end">
+                            <ul class="d-flex social-links">
+                                <li>
+                                    <a href="https://www.facebook.com/MSFSingapore/" aria-label="facebook">
+                                        <em class="fa-brands fa-square-facebook"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/msfcares/" aria-label="instagram">
+                                        <em class="fa-brands fa-instagram"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://t.me/msfcares" aria-label="telegram">
+                                        <em class="fa-brands fa-telegram"></em>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="footer-bottom">
+        <div class="container-fluid">
+            <hr class="footer-divider">
+            <div class="row footer-mandatory-links">
+                <div class="col-12 col-lg-8 col-xl-9">
+                    <ul class="footer-nav-list">
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links " href="/report-vulnerability" rel="noopener" aria-label="Report Vulnerability
+
+">Report Vulnerability
+
+</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/privacy-statement" rel="noopener" aria-label="Privacy Statement">Privacy Statement</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/terms-of-use" rel="noopener" aria-label="Terms of Use&nbsp;">Terms of Use&nbsp;</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/sitemap" rel="noopener" aria-label="Sitemap">Sitemap</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/accessibility-statement" rel="noopener" aria-label="Accessibility Statement">Accessibility Statement</a>
+                                </li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg footer-copyrights">
+                    <div class="d-flex justify-content-lg-end text-lg-end">
+                        © 2024 Government of Singapore<br>
+                        Last updated 30 Mar 2023
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+
+
+ <div class="accessibility-sidebar"> <div class="btn-group-vertical btn-group-sm" role="group" aria-label="Accessibility Sidebar"> <button type="button" class="btn btn-accessibility btn-notice" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Show/Hide Notice" data-bs-original-title="Show/Hide Notice"> <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10 0C8.02219 0 6.08879 0.58649 4.4443 1.6853C2.79981 2.78412 1.51809 4.3459 0.761209 6.17317C0.00433284 8.00043 -0.193701 10.0111 0.192152 11.9509C0.578004 13.8907 1.53041 15.6725 2.92894 17.0711C4.32746 18.4696 6.10929 19.422 8.0491 19.8079C9.98891 20.1937 11.9996 19.9957 13.8268 19.2388C15.6541 18.4819 17.2159 17.2002 18.3147 15.5557C19.4135 13.9112 20 11.9778 20 10C20 8.68678 19.7413 7.38642 19.2388 6.17317C18.7363 4.95991 17.9997 3.85752 17.0711 2.92893C16.1425 2.00035 15.0401 1.26375 13.8268 0.761205C12.6136 0.258658 11.3132 0 10 0ZM10 18C8.41775 18 6.87104 17.5308 5.55544 16.6518C4.23985 15.7727 3.21447 14.5233 2.60897 13.0615C2.00347 11.5997 1.84504 9.99113 2.15372 8.43928C2.4624 6.88743 3.22433 5.46197 4.34315 4.34315C5.46197 3.22433 6.88743 2.4624 8.43928 2.15372C9.99113 1.84504 11.5997 2.00346 13.0615 2.60896C14.5233 3.21447 15.7727 4.23984 16.6518 5.55544C17.5308 6.87103 18 8.41775 18 10C18 12.1217 17.1572 14.1566 15.6569 15.6569C14.1566 17.1571 12.1217 18 10 18Z"></path> <path d="M10 7C10.5523 7 11 6.55228 11 6C11 5.44772 10.5523 5 10 5C9.44772 5 9 5.44772 9 6C9 6.55228 9.44772 7 10 7Z"></path> <path d="M10 8C9.73478 8 9.48043 8.10536 9.29289 8.29289C9.10536 8.48043 9 8.73478 9 9V14C9 14.2652 9.10536 14.5196 9.29289 14.7071C9.48043 14.8946 9.73478 15 10 15C10.2652 15 10.5196 14.8946 10.7071 14.7071C10.8946 14.5196 11 14.2652 11 14V9C11 8.73478 10.8946 8.48043 10.7071 8.29289C10.5196 8.10536 10.2652 8 10 8Z"></path> </svg> </button> <button type="button" class="btn btn-accessibility btn-font-bigger" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Increase Font Size" data-bs-original-title="Increase Font Size">
+                    A+
+                </button> <button type="button" class="btn btn-accessibility btn-font-smaller" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Decrease Font Size" data-bs-original-title="Decrease Font Size">
+                    A−
+                </button> <button type="button" class="btn btn-accessibility btn-contrast" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Toggle Colour Contrast" data-bs-original-title="Toggle Colour Contrast"> <em class="fa-solid fa-circle-half-stroke"></em> </button> </div> </div> <div class="back-to-top"> <button class="btn-back-top" aria-label="back to top"> <svg width="16" height="8" viewBox="0 0 16 8" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4826 7.76568C14.8297 8.07811 15.3925 8.07811 15.7396 7.76568C16.0868 7.45326 16.0868 6.94673 15.7396 6.63432L8.62853 0.23424C8.2814 -0.0780799 7.71859 -0.0780799 7.37146 0.23424L0.260266 6.63432C-0.0867557 6.94673 -0.0867557 7.45326 0.260266 7.76567C0.607466 8.07811 1.17031 8.07811 1.51751 7.76567L8 3L14.4826 7.76568Z"></path> </svg> <span>Top</span> </button> </div> <script src="/ResourcePackages/Msf/assets/js/jquery.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/jquery-ui.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/swiper-bundle.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/bootstrap.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/default-passive-events.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/search-result.js" type="text/javascript"></script> <script src="https://assets.wogaa.sg/scripts/wogaa.js"></script> <script type="text/javascript" src="/ResourcePackages/Msf/assets/js/sharethis.js#property=648140a26773dd0012e17a9b&amp;product=inline-share-buttons&amp;source=platform" async="async"></script> <script>
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window, document, 'script', 'dataLayer', 'G-7WBNTH91BT');
+            </script> <!-- Global site tag (gtag.js) - Google Analytics --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7WBNTH91BT"></script> <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-7WBNTH91BT');
+            </script> <script type="module" src="https://cdn.jsdelivr.net/npm/@govtechsg/sgds-web-component/Masthead/index.js"></script> <script src="/ResourcePackages/Msf/assets/js/main.min.js" type="text/javascript"></script>  
+<wog-sentiments class="needsclick hydrated"></wog-sentiments><div id="st-2" class=" st-sticky-share-buttons st-left st-toggleable st-has-labels "><div class="st-btn st-first" data-network="facebook" style="display: inline-block;">
+  <img alt="facebook sharing button" src="https://platform-cdn.sharethis.com/img/facebook.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="linkedin" style="display: inline-block;">
+  <img alt="linkedin sharing button" src="https://platform-cdn.sharethis.com/img/linkedin.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="gmail" style="display: inline-block;">
+  <img alt="gmail sharing button" src="https://platform-cdn.sharethis.com/img/gmail.svg">
+  <span class="st-label">Email</span>
+</div><div class="st-btn st-last" data-network="copy" style="display: inline-block;">
+  <img alt="copy sharing button" src="https://platform-cdn.sharethis.com/img/copy.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-toggle">
+  <div class="st-left">
+    <img alt="arrow_left sharing button" src="https://platform-cdn.sharethis.com/img/arrow_left.svg">
+  </div>
+  <div class="st-right">
+    <img alt="arrow_right sharing button" src="https://platform-cdn.sharethis.com/img/arrow_right.svg">
+  </div>
+</div></div></body></html>

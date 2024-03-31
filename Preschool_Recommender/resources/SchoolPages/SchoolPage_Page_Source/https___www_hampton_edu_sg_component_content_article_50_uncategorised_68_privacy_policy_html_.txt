@@ -1,0 +1,181 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" slick-uniqueid="3"><head>
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
+      <base href="https://www.hampton.edu.sg/component/content/article/50-uncategorised/68-privacy-policy.html">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="keywords" content="Hampton Pre-School">
+  <meta name="author" content="a-kham">
+  <meta name="description" content="Childcare and Infantcare managed by EtonHouse International. 2 locations: Bishan, Tiong Bahru ">
+  <meta name="generator" content="Joomla! - Open Source Content Management">
+  <title>Hampton</title>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+  </script>
+
+	<script type="text/javascript" src="/templates/etonhousesg/javascript/jquery-1.4.1.min.js"></script> 
+    <script type="text/javascript" src="/templates/etonhousesg/javascript/jquery-ui-1.7.2.min.js"></script> 
+    
+	<script type="text/javascript" src="/templates/etonhousesg/javascript/id.js"></script> 
+    <script type="text/javascript" src="/templates/etonhousesg/javascript/jqueryslidemenu.js"></script> 
+    <script type="text/javascript">
+		jQuery(window).load(function() {
+			jQuery.fn.equalCols = function(){
+				//Array Sorter
+				var sortNumber = function(a,b){return b - a;};
+				var heights = [];
+				//Push each height into an array
+				jQuery(this).each(function(){
+					heights.push(jQuery(this).height());
+				});
+				heights.sort(sortNumber);
+				var maxHeight = heights[0];
+				return this.each(function(){
+					//Set each column to the max height
+					jQuery(this).css({'height': maxHeight});
+				});
+			};
+			//Usage
+			//Select the columns that need to be equal e.g
+			jQuery('.equal').equalCols();	
+			jQuery('#homemodules .module').equalCols();					
+		});	
+	</script>
+    
+    <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
+    <link rel="stylesheet" href="/templates/etonhousesg/css/template.css" type="text/css" media="screen,projection,print">
+        <!--[if IE]>
+        <link href="/templates/etonhousesg/css/ieonly.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    
+	<script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(
+      ['_setAccount', 'UA-10786488-1'],
+      ['_trackPageview'],
+      ['b._setAccount', 'UA-8911758-1'],
+      ['b._trackPageview']
+    
+    );
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    <style>
+    .footerlinks
+    {
+    margin-top: 3px;
+    }
+    </style>
+</head>
+	
+<body>
+
+<div id="whole">
+	<div id="top"></div>
+	<div id="container">
+    	<div id="header">
+        
+			            <div id="logo">
+                
+
+<div class="custom">
+	<p><img src="/images/stories/main_top.png" alt="main top"></p></div>
+  
+            </div>
+			                    
+						
+						
+			            <div id="nav">
+                
+<ul class="menu">
+<li class="item-81 current"><a href="/">HOME</a></li><li class="item-55"><a href="/curriculum.html">CURRICULUM</a></li><li class="item-65 deeper parent"><a href="#">SCHOOLS</a><ul style="top: 30px; display: none; visibility: visible;"><li class="item-66"><a href="/schools/bishan.html">Bishan</a></li><li class="item-72 last"><a href="/schools/tanjong-pagar.html">Tanjong Pagar</a></li></ul></li><li class="item-150 deeper parent"><a href="/">CAREERS</a><ul style="top: 30px; display: none; visibility: visible;"><li class="item-151"><a href="/2023-12-28-09-11-02/bishan.html">Bishan</a></li><li class="item-152 last"><a href="/2023-12-28-09-11-02/tanjong-pagar.html">Tanjong Pagar</a></li></ul></li><li class="item-59 last"><a href="/contact-us.html">CONTACT US</a></li></ul>
+  
+            </div>
+			
+        </div><!-- !#header -->
+                
+        <div id="content">
+        
+                        
+                        
+            			            <div id="content-inner">
+                <div id="main" class="equal " style="height: 1026px;">
+                
+                                        
+<div class="breadcrumbs">
+<span>Home</span></div>
+  
+                                        
+                    <div id="main-inner">
+                        <div class="item-page">
+
+	<h2>
+			Privacy Policy		</h2>
+
+
+
+
+
+
+
+
+<p><strong>Accountability</strong><br>We will be responsible for all personal data collected. All personal data collected will be used and processed fairly and lawfully while in our possession or custody. We ensure all our customers that we would be accountable for our organisation's compliance to our Privacy Policy.</p>
+<p><strong>Specifying Purposes</strong><br>Personal data collected, will not be used for a new purpose unless we obtain consent from our customers. We are the sole owner of the personally identifiable information collected on this site. We collect personally identifiable information for the sole purpose of registering a user for our web site</p>
+<p><strong>Consent</strong><br>We do not collect sensitive information from our customers. We assure all customers that all personal information collected would be used or disclosed only for the purposes for which it was collected.</p>
+<p><strong>Limiting Collection</strong><br>Only the necessary personal data is collected from customers' for business purposes. Both the amount and the type of data collected shall be limited to that which is necessary to fulfill the purposes identified.</p>
+<p><strong>Limiting Use, Disclosure and Retention</strong><br>We will not disclose, share, transfer, sell or rent personally identifiable information to any 3rd party. We do not send unsolicited marketing email to our customers. Customers will occasionally receive email on special promotions we hold. Out of respect for the privacy of our users, users may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email.</p>
+<p>We do not keep personal data for longer than is necessary for those purposes for which they are collected.</p>
+<p>We have developed guidelines and implemented procedures to govern the destruction of personal data that are no longer required to fulfill the identified purposes.</p>
+<p>We do not use "cookies", "web-bugs" or any other tracking technologies to collect information from users of our web site.</p>
+<p>We would not display or make publicly available, whether through online directories, customer lists or otherwise, the personally identifiable information collected.</p>
+<p><strong>Accuracy</strong><br>We ensure our customers that all personal information collected is accurate and kept up to date. We do not maintain duplicate copies of personal information in different systems.</p>
+<p><strong>Safeguards</strong><br>We ensure our customers that appropriate security safeguards are in place to protect personal data against unauthorised access, misuse, disclosure, copying, use, alteration, accidental loss or theft, destruction or damage.</p>
+<p>Only authorised personals have access to our systems. Consultants, contractors or other temporary employees do not have access to the data.</p>
+<p><strong>Openness</strong><br>Our data protection policy (Privacy Policy) is displayed on the web site and the policy is set out in the same language medium as the web site. We encourage all our customers to read our Privacy Policy to understand the our objective of collection their personal data.</p>
+<p><strong>Links</strong><br>This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. This Privacy Policy applies solely to information collected by this website.</p>
+<p>We reserve the right, at any time, to modify, alter, or update the terms and conditions of this Website Privacy Policy without prior notice. Modifications shall become effective immediately upon being posted on our website and portals. Your continued use of the website and portals after modifications are posted constitutes an acknowledgement and acceptance of the Website Privacy Policy and its modifications.</p> 
+	
+</div>
+
+                    </div><!-- !#main-inner -->
+                    
+                </div><!-- !#main -->
+                
+                                    
+            </div><!-- !#content-inner -->
+                    </div><!-- !#content -->
+        
+        <div id="footer">
+        	<a id="goingup" href="#top">Back to top</a>
+
+			            
+
+<div class="custom">
+	<p>Copyright ©&nbsp;2013 Hampton Pre-School. All rights reserved |</p></div>
+
+
+<div class="custom">
+	<p><span style="color: #c6a151;"><a href="/component/content/article/50-uncategorised/68-privacy-policy.html"><span style="color: #c6a151;">Privacy Policy</span></a></span></p></div>
+  
+						
+			<div class="footerlinks">
+            &nbsp;&nbsp;<!--|  <a style="color: #C6A151;" href="/component/xmap/html/1.html?view=html">Sitemap</a> --><!--| <a  style="color: #C6A151;" href="http://www.etonhouse.com.sg/academic-eton/early-learning-importance.html">Worthwhile Guides</a>-->
+			</div>
+			
+			            
+			            
+		</div><!-- !#footer -->
+    
+    </div><!-- !#container -->
+</div><!-- !#whole -->
+		
+	
+
+</body></html>

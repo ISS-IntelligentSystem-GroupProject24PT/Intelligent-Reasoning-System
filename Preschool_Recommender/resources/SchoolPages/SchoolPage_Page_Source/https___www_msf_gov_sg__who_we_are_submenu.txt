@@ -42,7 +42,7 @@ function lateLoadChatFile() {
 	ele.append("Ask MSF <span style='font-size: 14px !important;position: relative;top: -9px;left: 5px;font-weight: lighter;'>beta</span>");
   }
 })();
-</script><link rel="canonical" href="http://www.msf.gov.sg"><meta name="description" content="Ministry of Social and Family Development. Nurturing and building lives together. Explore topics such as financial assistance and parenting resources"><meta name="keywords" content="Financial Assistance, LPA, Domestic Violence"><script async="" src="https://assets.wogaa.sg/scripts/wogaa.js?url=https%3A%2F%2Fwww.msf.gov.sg%2F"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="module" src="https://assets.wogaa.sg/sentiments/sentiments.esm.js" async=""></script><script nomodule="" src="https://assets.wogaa.sg/sentiments/sentiments.js" async=""></script><style type="text/css">#st-2 {
+</script><link rel="canonical" href="http://www.msf.gov.sg"><meta name="description" content="Ministry of Social and Family Development. Nurturing and building lives together. Explore topics such as financial assistance and parenting resources"><meta name="keywords" content="Financial Assistance, LPA, Domestic Violence"><script async="" src="https://assets.wogaa.sg/scripts/wogaa.js?url=https%3A%2F%2Fwww.msf.gov.sg%2F%23who-we-are-submenu"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style type="text/css">#st-2 {
   font-family: "Helvetica Neue", Verdana, Helvetica, Arial, sans-serif;;
   -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
   backface-visibility: hidden;
@@ -312,433 +312,9 @@ border-radius: 0 !important;
   color: #333};
 }#st-2 .st-btn[data-network='copy']:hover {
   width: max-content;
-}</style><style data-styled="" data-styled-version="4.4.1"></style><style type="text/css">.transform-component-module_wrapper__7HFJe {
-  position: relative;
-  width: -moz-fit-content;
-  width: fit-content;
-  height: -moz-fit-content;
-  height: fit-content;
-  overflow: hidden;
-  -webkit-touch-callout: none; /* iOS Safari */
-  -webkit-user-select: none; /* Safari */
-  -khtml-user-select: none; /* Konqueror HTML */
-  -moz-user-select: none; /* Firefox */
-  -ms-user-select: none; /* Internet Explorer/Edge */
-  user-select: none;
-  margin: 0;
-  padding: 0;
-}
-.transform-component-module_content__uCDPE {
-  display: flex;
-  flex-wrap: wrap;
-  width: -moz-fit-content;
-  width: fit-content;
-  height: -moz-fit-content;
-  height: fit-content;
-  margin: 0;
-  padding: 0;
-  transform-origin: 0% 0%;
-}
-.transform-component-module_content__uCDPE img {
-  pointer-events: none;
-}
-</style><style data-jss="" data-meta="MuiSvgIcon">
-.webchat-MuiSvgIcon-root {
-  fill: currentColor;
-  width: 1em;
-  height: 1em;
-  display: inline-block;
-  font-size: 1.5rem;
-  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
-  flex-shrink: 0;
-  user-select: none;
-}
-.webchat-MuiSvgIcon-colorPrimary {
-  color: #3f51b5;
-}
-.webchat-MuiSvgIcon-colorSecondary {
-  color: #f50057;
-}
-.webchat-MuiSvgIcon-colorAction {
-  color: rgba(0, 0, 0, 0.54);
-}
-.webchat-MuiSvgIcon-colorError {
-  color: #f44336;
-}
-.webchat-MuiSvgIcon-colorDisabled {
-  color: rgba(0, 0, 0, 0.26);
-}
-.webchat-MuiSvgIcon-fontSizeInherit {
-  font-size: inherit;
-}
-.webchat-MuiSvgIcon-fontSizeSmall {
-  font-size: 1.25rem;
-}
-.webchat-MuiSvgIcon-fontSizeLarge {
-  font-size: 2.1875rem;
-}
-</style><style data-jss="" data-meta="makeStyles">
-.webchat-jss1 {
-  padding-bottom: 16px;
-}
-.webchat-jss2 {
-  font-weight: bold;
-}
-.webchat-jss3 {
-  padding: 8px;
-  text-align: center;
-}
-.webchat-jss4 {
-  color: rgba(52, 52, 52, 0.8);
-}
-.webchat-jss5 {
-  color: #FFF;
-  padding: 8px 135px !important;
-  border-radius: 5px !important;
-  margin-bottom: 10px;
-}
-.webchat-jss6 {
-  color: #000000 !important;
-  border: 1px solid rgba(52, 52, 52, 0.8);
-  padding: 7px 135px !important;
-  margin-left: 0px !important;
-  border-radius: 5px !important;
-}
-.webchat-jss7 {
-  display: grid !important;
-}
-</style><style data-jss="" data-meta="makeStyles">
-</style><style data-jss="" data-meta="MuiDialog">
-@media print {
-  .webchat-MuiDialog-root {
-    position: absolute !important;
-  }
-}
-.webchat-MuiDialog-scrollPaper {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.webchat-MuiDialog-scrollBody {
-  overflow-x: hidden;
-  overflow-y: auto;
-  text-align: center;
-}
-.webchat-MuiDialog-scrollBody:after {
-  width: 0;
-  height: 100%;
-  content: "";
-  display: inline-block;
-  vertical-align: middle;
-}
-.webchat-MuiDialog-container {
-  height: 100%;
-  outline: 0;
-}
-@media print {
-  .webchat-MuiDialog-container {
-    height: auto;
-  }
-}
-.webchat-MuiDialog-paper {
-  margin: 32px;
-  position: relative;
-  overflow-y: auto;
-}
-@media print {
-  .webchat-MuiDialog-paper {
-    box-shadow: none;
-    overflow-y: visible;
-  }
-}
-.webchat-MuiDialog-paperScrollPaper {
-  display: flex;
-  max-height: calc(100% - 64px);
-  flex-direction: column;
-}
-.webchat-MuiDialog-paperScrollBody {
-  display: inline-block;
-  text-align: left;
-  vertical-align: middle;
-}
-.webchat-MuiDialog-paperWidthFalse {
-  max-width: calc(100% - 64px);
-}
-.webchat-MuiDialog-paperWidthXs {
-  max-width: 444px;
-}
-@media (max-width:507.95px) {
-  .webchat-MuiDialog-paperWidthXs.webchat-MuiDialog-paperScrollBody {
-    max-width: calc(100% - 64px);
-  }
-}
-.webchat-MuiDialog-paperWidthSm {
-  max-width: 600px;
-}
-@media (max-width:663.95px) {
-  .webchat-MuiDialog-paperWidthSm.webchat-MuiDialog-paperScrollBody {
-    max-width: calc(100% - 64px);
-  }
-}
-.webchat-MuiDialog-paperWidthMd {
-  max-width: 960px;
-}
-@media (max-width:1023.95px) {
-  .webchat-MuiDialog-paperWidthMd.webchat-MuiDialog-paperScrollBody {
-    max-width: calc(100% - 64px);
-  }
-}
-.webchat-MuiDialog-paperWidthLg {
-  max-width: 1280px;
-}
-@media (max-width:1343.95px) {
-  .webchat-MuiDialog-paperWidthLg.webchat-MuiDialog-paperScrollBody {
-    max-width: calc(100% - 64px);
-  }
-}
-.webchat-MuiDialog-paperWidthXl {
-  max-width: 1920px;
-}
-@media (max-width:1983.95px) {
-  .webchat-MuiDialog-paperWidthXl.webchat-MuiDialog-paperScrollBody {
-    max-width: calc(100% - 64px);
-  }
-}
-.webchat-MuiDialog-paperFullWidth {
-  width: calc(100% - 64px);
-}
-.webchat-MuiDialog-paperFullScreen {
-  width: 100%;
-  height: 100%;
-  margin: 0;
-  max-width: 100%;
-  max-height: none;
-  border-radius: 0;
-}
-.webchat-MuiDialog-paperFullScreen.webchat-MuiDialog-paperScrollBody {
-  margin: 0;
-  max-width: 100%;
-}
-</style><style data-jss="" data-meta="MuiDialog">
-@media print {
-  .webchat-MuiDialog-root {
-    position: absolute !important;
-  }
-}
-.webchat-MuiDialog-scrollPaper {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.webchat-MuiDialog-scrollBody {
-  overflow-x: hidden;
-  overflow-y: auto;
-  text-align: center;
-}
-.webchat-MuiDialog-scrollBody:after {
-  width: 0;
-  height: 100%;
-  content: "";
-  display: inline-block;
-  vertical-align: middle;
-}
-.webchat-MuiDialog-container {
-  height: 100%;
-  outline: 0;
-}
-@media print {
-  .webchat-MuiDialog-container {
-    height: auto;
-  }
-}
-.webchat-MuiDialog-paper {
-  margin: 32px;
-  position: relative;
-  overflow-y: auto;
-}
-@media print {
-  .webchat-MuiDialog-paper {
-    box-shadow: none;
-    overflow-y: visible;
-  }
-}
-.webchat-MuiDialog-paperScrollPaper {
-  display: flex;
-  max-height: calc(100% - 64px);
-  flex-direction: column;
-}
-.webchat-MuiDialog-paperScrollBody {
-  display: inline-block;
-  text-align: left;
-  vertical-align: middle;
-}
-.webchat-MuiDialog-paperWidthFalse {
-  max-width: calc(100% - 64px);
-}
-.webchat-MuiDialog-paperWidthXs {
-  max-width: 444px;
-}
-@media (max-width:507.95px) {
-  .webchat-MuiDialog-paperWidthXs.webchat-MuiDialog-paperScrollBody {
-    max-width: calc(100% - 64px);
-  }
-}
-.webchat-MuiDialog-paperWidthSm {
-  max-width: 600px;
-}
-@media (max-width:663.95px) {
-  .webchat-MuiDialog-paperWidthSm.webchat-MuiDialog-paperScrollBody {
-    max-width: calc(100% - 64px);
-  }
-}
-.webchat-MuiDialog-paperWidthMd {
-  max-width: 960px;
-}
-@media (max-width:1023.95px) {
-  .webchat-MuiDialog-paperWidthMd.webchat-MuiDialog-paperScrollBody {
-    max-width: calc(100% - 64px);
-  }
-}
-.webchat-MuiDialog-paperWidthLg {
-  max-width: 1280px;
-}
-@media (max-width:1343.95px) {
-  .webchat-MuiDialog-paperWidthLg.webchat-MuiDialog-paperScrollBody {
-    max-width: calc(100% - 64px);
-  }
-}
-.webchat-MuiDialog-paperWidthXl {
-  max-width: 1920px;
-}
-@media (max-width:1983.95px) {
-  .webchat-MuiDialog-paperWidthXl.webchat-MuiDialog-paperScrollBody {
-    max-width: calc(100% - 64px);
-  }
-}
-.webchat-MuiDialog-paperFullWidth {
-  width: calc(100% - 64px);
-}
-.webchat-MuiDialog-paperFullScreen {
-  width: 100%;
-  height: 100%;
-  margin: 0;
-  max-width: 100%;
-  max-height: none;
-  border-radius: 0;
-}
-.webchat-MuiDialog-paperFullScreen.webchat-MuiDialog-paperScrollBody {
-  margin: 0;
-  max-width: 100%;
-}
-</style><style data-jss="" data-meta="makeStyles">
-.webchat-jss26 {
-  position: fixed;
-}
-.webchat-jss27 {
-  padding: 8px 24px 24px 24px;
-  justify-content: center;
-}
-.webchat-jss28 {
-  color: #fff;
-  padding: 8px 16px;
-  font-weight: 500;
-  white-space: nowrap;
-  border-radius: 0;
-  background-color: rgb(0, 0, 0, 0.9);
-}
-.webchat-jss28:hover {
-  background-color: rgb(0, 0, 0, 0.9);
-}
-.webchat-jss29 {
-  position: absolute;
-  background: #C4C4C4;
-}
-</style><style data-jss="" data-meta="makeStyles">
-</style><style data-jss="" data-meta="makeStyles">
-.webchat-jss12 {
-  top: 70px !important;
-}
-.webchat-jss12 .webchat-MuiDialog-container {
-  align-items: flex-start;
-}
-.webchat-jss12 .webchat-MuiDialog-paper {
-  width: 100%;
-  margin: 0;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
-  border-radius: 0px 0px 27.9717px 27.9717px;
-}
-.webchat-jss12 .webchat-MuiBackdrop-root {
-  opacity: 0.9 !important;
-  position: absolute;
-  background: #C4C4C4;
-}
-.webchat-jss13 .webchat-MuiRating-iconEmpty {
-  all: revert;
-}
-.webchat-jss13 .webchat-MuiRating-iconFilled {
-  all: revert;
-}
-.webchat-jss13 .webchat-MuiRating-iconHover {
-  all: revert;
-}
-.webchat-jss13 .webchat-MuiRating-iconFocus {
-  all: revert;
-}
-.webchat-jss13 .webchat-MuiRating-label {
-  all: revert;
-}
-.webchat-jss13 .webchat-MuiRating-icon {
-  cursor: pointer;
-}
-.webchat-jss14 .webchat-MuiCheckbox-root {
-  padding: 0 9px;
-}
-</style><style data-jss="" data-meta="makeStyles">
-.webchat-jss15 {
-  top: 70px !important;
-}
-.webchat-jss15 .webchat-MuiDialog-container {
-  align-items: flex-start;
-}
-.webchat-jss15 .webchat-MuiDialog-paper {
-  width: 480px;
-  margin: 0;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
-  border-radius: 0px 0px 27.9717px 27.9717px;
-}
-.webchat-jss15 .webchat-MuiBackdrop-root {
-  opacity: 0.9 !important;
-  position: absolute;
-  background: #C4C4C4;
-}
-</style><style data-jss="" data-meta="makeStyles">
-.webchat-jss16 {
-  padding-bottom: 16px;
-}
-.webchat-jss17 {
-  padding-bottom: 8px;
-}
-.webchat-jss18 {
-  font-size: 40px;
-  font-weight: bold;
-}
-.webchat-jss19 {
-  font-weight: bold;
-}
-.webchat-jss20 {
-  padding: 8px;
-  text-align: center;
-}
-.webchat-jss21 {
-  color: rgba(0,0,0,.8);
-}
-.webchat-jss22 {
-  color: #FFF;
-}
-</style><style data-jss="" data-meta="makeStyles">
-</style></head> <body onload="lateLoadChatFile();"> 
+}</style><script type="module" src="https://assets.wogaa.sg/sentiments/sentiments.esm.js" async=""></script><script nomodule="" src="https://assets.wogaa.sg/sentiments/sentiments.js" async=""></script></head> <body onload="lateLoadChatFile();"> 
 
-<div id="webchat" app-id="msf-askmsf" app-name="Ask MSF" app-font-family="Arial" app-base-font-size="16" app-icon="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" app-welcome-message="Have a question? Type to get quick answers." app-color="#DE7C00" app-foreground-color1="#FFFFFF" app-bot-response-trigger-event="true" app-quick-launch-event="welcome" app-enable-auto-complete="false" app-auto-complete-background-color="#FFEDD7" app-auto-complete-foreground-color="#2E2E2E" app-auto-complete-hover-color="#FFCA88" app-auto-complete-divider-color="#DE7C00"><div id="webchat-container"><div class="sc-bdVaJa jQBDtH"><div class="sc-bxivhb dLToUC"><div class="sc-EHOje hclKXJ">Have a question? Type to get quick answers.</div><div class="sc-ifAKCX eKcIYA"><svg class="webchat-MuiSvgIcon-root webchat-MuiSvgIcon-fontSizeInherit" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg></div></div><div class="sc-bwzfXH cRwaRu"><img alt="Bot Launcher" src="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" class="sc-htpNat iUqtne"></div></div><div id="CONVERSATION_HISTORY" hidden="" class="sc-bZQynM jTHORo"><div class="sc-gzVnrw iYOdXe"><div class="sc-kGXeez bXodlH"><div class="sc-hMqMXs cUSjvS"><img alt="Bot Avatar" src="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" class="sc-kEYyzF kBcwrJ"></div><div class="sc-kpOJdX fsRsZT"><div><p class="sc-dxgOiQ huycWp">Ask MSF<sup class="sc-jKJlTe kHLZjH"></sup></p></div></div><div class="sc-eNQAEJ iszuFG"><svg class="webchat-MuiSvgIcon-root sc-kkGfuU cXWniZ webchat-MuiSvgIcon-fontSizeLarge" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 19h12v2H6z"></path></svg><svg class="webchat-MuiSvgIcon-root sc-hSdWYo geAxMI webchat-MuiSvgIcon-fontSizeLarge" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg></div></div><div class="sc-htoDjs fdzlVl"><div class="sc-hzNEM iJPJsy"><div class="sc-iBEsjs dsWovi"></div></div><div></div><div class="sc-gRnDUn krvyDw"><div class="sc-cmjSyW iMeDHB"><textarea rows="1" placeholder="Type your message here" maxlength="256" class="sc-sdtwF iouGVL"></textarea><div class="sc-iYUSvU cEBTCY"><svg class="webchat-MuiSvgIcon-root webchat-MuiSvgIcon-fontSizeSmall" focusable="false" viewBox="0 0 24 24" color="white" aria-hidden="true"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"></path></svg></div></div></div><div class="sc-cHSUfg gLFROa"><div class="sc-cTjmhe lgnDCZ"><div class="sc-chPdSV ibuApO"><div class="sc-gbOuXE iwUbZr"><svg class="webchat-MuiSvgIcon-root sc-fnwBNb gIIPPo" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z"></path></svg></div></div><div class="sc-kgoBCf jXqGai">Rate chat</div><div class="sc-bfYoXt nJJal"></div><div class="sc-chPdSV ibuApO"><div class="sc-gbOuXE iwUbZr"><svg class="webchat-MuiSvgIcon-root sc-iNhVCk oVQZA" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 16.5l4-4h-3v-9h-2v9H8l4 4zm9-13h-6v1.99h6v14.03H3V5.49h6V3.5H3c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2v-14c0-1.1-.9-2-2-2z"></path></svg></div></div><div class="sc-kgoBCf jXqGai">Download Transcript</div></div><div class="sc-cugefK iGCNkx">POWERED BY GOVTECH</div></div></div></div><div></div></div></div></div>
+<div id="webchat" app-id="msf-askmsf" app-name="Ask MSF" app-font-family="Arial" app-base-font-size="16" app-icon="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" app-welcome-message="Have a question? Type to get quick answers." app-color="#DE7C00" app-foreground-color1="#FFFFFF" app-bot-response-trigger-event="true" app-quick-launch-event="welcome" app-enable-auto-complete="false" app-auto-complete-background-color="#FFEDD7" app-auto-complete-foreground-color="#2E2E2E" app-auto-complete-hover-color="#FFCA88" app-auto-complete-divider-color="#DE7C00"></div>
 
 
 <div class="announcements-bar">
@@ -1251,15 +827,15 @@ border-radius: 0 !important;
         <div class="row">
             <div class="swiper quotes-swiper swiper-fade swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
                 <div class="quotes-swiper-buttons" style="top: calc(314.312px + 1.25rem); left: 50%;">
-                    <div class="swiper-button-prev quotes-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-013c94a273c295b8" aria-disabled="true">
+                    <div class="swiper-button-prev quotes-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-5ae44a9610dfeee3a" aria-disabled="true">
                         <em class="fa-solid fa-chevron-left"></em>
                     </div>
                     <div class="quotes-pagination swiper-pagination-fraction swiper-pagination-horizontal"><span class="swiper-pagination-current">1</span> / <span class="swiper-pagination-total">5</span></div>
-                    <div class="swiper-button-next quotes-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-013c94a273c295b8" aria-disabled="false">
+                    <div class="swiper-button-next quotes-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-5ae44a9610dfeee3a" aria-disabled="false">
                         <em class="fa-solid fa-chevron-right"></em>
                     </div>
                 </div>
-                <div class="swiper-wrapper" id="swiper-wrapper-013c94a273c295b8" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-5ae44a9610dfeee3a" aria-live="polite">
                         <div class="swiper-slide swiper-slide-visible swiper-slide-active" role="group" aria-label="1 / 5" style="width: 763px; opacity: 1; transform: translate3d(0px, 0px, 0px);">
                             <div class="col-12 col-lg-7 img-circle-container">
                                 <img src="/ResourcePackages/Msf/assets/img/quotes/quotes-bg.png" alt="quotes-bg-1" class="quotes-bg" width="730" height="522" title="quote background">
@@ -1383,7 +959,7 @@ KidSTART specialises in supporting families in early childhood development. The 
         <div class="container-fluid">
                 <h2 class="h1">Announcements</h2>
             <div class="row ratio-16x9">
-                <div class="swiper optional-video-swiper optional-video-swiper-3adf6d44-fbbe-450b-8c66-c741cb35a9b9 swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
+                <div class="swiper optional-video-swiper optional-video-swiper-2452979a-94a5-4098-8d20-c6da81833626 swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
                     <div class="optional-video-swiper-buttons">
                         <div class="swiper-button-prev optional-video-buttons">
                             <em class="fa-solid fa-chevron-left"></em>
@@ -1394,7 +970,7 @@ KidSTART specialises in supporting families in early childhood development. The 
                         <div class="optional-video-pagination swiper-pagination-fraction swiper-pagination-horizontal"><span class="swiper-pagination-current">1</span> / <span class="swiper-pagination-total">8</span></div>
                     </div>
 
-                    <div class="swiper-wrapper" id="swiper-wrapper-0386ba2524c2e2910" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                    <div class="swiper-wrapper" id="swiper-wrapper-6471a9821043de4f0" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
                             <div class="swiper-slide optional-video-slide swiper-slide-active" role="group" aria-label="1 / 8" style="width: 763px; margin-right: 10px;">
                                 <div class="col-12 col-lg-11 col-xl">
                                     <div class="card">
@@ -1831,7 +1407,7 @@ KidSTART specialises in supporting families in early childhood development. The 
                     </div>
 
                 <div class="swiper explore-msf-swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-free-mode swiper-backface-hidden">
-                    <div class="swiper-wrapper" id="swiper-wrapper-545d31032658e81084" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                    <div class="swiper-wrapper" id="swiper-wrapper-9fc2a943923898eb" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
                             <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 5" style="width: 512.667px; margin-right: 28px;">
                                 <div class="card">
                                         <div class="card-img-top">
@@ -2061,4 +1637,4 @@ KidSTART specialises in supporting families in early childhood development. The 
   <div class="st-right">
     <img alt="arrow_right sharing button" src="https://platform-cdn.sharethis.com/img/arrow_right.svg">
   </div>
-</div></div><wog-sentiments class="needsclick hydrated"></wog-sentiments><link href="https://webchat.vica.gov.sg/static/css/chat.css" type="text/css" rel="stylesheet" referrerpolicy="origin"><script src="https://webchat.vica.gov.sg/static/js/chat.js" type="text/javascript" referrerpolicy="origin" defer=""></script></body></html>
+</div></div><wog-sentiments class="needsclick hydrated"></wog-sentiments></body></html>

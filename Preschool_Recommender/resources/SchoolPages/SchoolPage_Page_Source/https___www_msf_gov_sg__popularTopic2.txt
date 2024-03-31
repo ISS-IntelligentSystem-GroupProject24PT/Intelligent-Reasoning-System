@@ -827,15 +827,15 @@ border-radius: 0 !important;
         <div class="row">
             <div class="swiper quotes-swiper swiper-fade swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
                 <div class="quotes-swiper-buttons" style="top: calc(314.312px + 1.25rem); left: 50%;">
-                    <div class="swiper-button-prev quotes-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-616f7842f2a87f21" aria-disabled="true">
+                    <div class="swiper-button-prev quotes-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-a55472aea906d71d" aria-disabled="true">
                         <em class="fa-solid fa-chevron-left"></em>
                     </div>
                     <div class="quotes-pagination swiper-pagination-fraction swiper-pagination-horizontal"><span class="swiper-pagination-current">1</span> / <span class="swiper-pagination-total">5</span></div>
-                    <div class="swiper-button-next quotes-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-616f7842f2a87f21" aria-disabled="false">
+                    <div class="swiper-button-next quotes-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-a55472aea906d71d" aria-disabled="false">
                         <em class="fa-solid fa-chevron-right"></em>
                     </div>
                 </div>
-                <div class="swiper-wrapper" id="swiper-wrapper-616f7842f2a87f21" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-a55472aea906d71d" aria-live="polite">
                         <div class="swiper-slide swiper-slide-visible swiper-slide-active" role="group" aria-label="1 / 5" style="width: 763px; opacity: 1; transform: translate3d(0px, 0px, 0px);">
                             <div class="col-12 col-lg-7 img-circle-container">
                                 <img src="/ResourcePackages/Msf/assets/img/quotes/quotes-bg.png" alt="quotes-bg-1" class="quotes-bg" width="730" height="522" title="quote background">
@@ -959,7 +959,7 @@ KidSTART specialises in supporting families in early childhood development. The 
         <div class="container-fluid">
                 <h2 class="h1">Announcements</h2>
             <div class="row ratio-16x9">
-                <div class="swiper optional-video-swiper optional-video-swiper-5963cfe4-3452-4417-8de6-ff74dbf81c65 swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
+                <div class="swiper optional-video-swiper optional-video-swiper-42ae1af0-2e37-4a08-8754-07246a057e55 swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
                     <div class="optional-video-swiper-buttons">
                         <div class="swiper-button-prev optional-video-buttons">
                             <em class="fa-solid fa-chevron-left"></em>
@@ -970,7 +970,7 @@ KidSTART specialises in supporting families in early childhood development. The 
                         <div class="optional-video-pagination swiper-pagination-fraction swiper-pagination-horizontal"><span class="swiper-pagination-current">1</span> / <span class="swiper-pagination-total">8</span></div>
                     </div>
 
-                    <div class="swiper-wrapper" id="swiper-wrapper-312d63d5c96edd2e" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                    <div class="swiper-wrapper" id="swiper-wrapper-c47327b326105e3f3" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
                             <div class="swiper-slide optional-video-slide swiper-slide-active" role="group" aria-label="1 / 8" style="width: 763px; margin-right: 10px;">
                                 <div class="col-12 col-lg-11 col-xl">
                                     <div class="card">
@@ -1407,7 +1407,7 @@ KidSTART specialises in supporting families in early childhood development. The 
                     </div>
 
                 <div class="swiper explore-msf-swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-free-mode swiper-backface-hidden">
-                    <div class="swiper-wrapper" id="swiper-wrapper-c2a1e5da7d2b0dad" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                    <div class="swiper-wrapper" id="swiper-wrapper-1da2e31e78923e26" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
                             <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 5" style="width: 512.667px; margin-right: 28px;">
                                 <div class="card">
                                         <div class="card-img-top">

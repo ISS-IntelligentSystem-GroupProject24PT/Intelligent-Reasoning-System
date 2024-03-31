@@ -1,0 +1,894 @@
+<html lang="en" class="hydrated"><head> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Parenting Programmes</title> <link rel="icon" type="image/png" href="/ResourcePackages/Msf/assets/img/favIco.png"> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&amp;family=Open+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet">  <link href="/ResourcePackages/Msf/assets/css/sgds.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap-icons.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/all.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/sf-bootstrap-conflict.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/jquery-ui.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/swiper-bundle.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/search-result.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/main.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/custom-style.min.css" rel="stylesheet"> <meta name="robots" content="noindex"><meta property="og:title" content="Article"><meta property="og:url" content="https://www.msf.gov.sg/what-we-do/support-families-and-parents/article"><meta property="og:type" content="website"><meta property="og:site_name" content="Ministry of Social and Family Development"><meta name="description" content="Resources, knowledge and skills for parents to build a strong, happy family."><script async="" src="https://buttons-config.sharethis.com/js/648140a26773dd0012e17a9b.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=G-7WBNTH91BT"></script><script async="" src="https://assets.wogaa.sg/snowplow/3.13.1/sp.js"></script><script type="text/javascript">
+function lateLoadChatFile() {      
+  setTimeout(() => {        
+              const bodyTag = document.getElementsByTagName("body")[0];      
+             // Create link element to import chat.css file and append it on the body element        
+             let linkTag = document.createElement("link");
+  linkTag.href = "https://webchat.vica.gov.sg/static/css/chat.css";         linkTag.type = "text/css";
+  linkTag.rel = "stylesheet";       
+  linkTag.referrerPolicy = "origin";      
+  bodyTag.appendChild(linkTag);        
+  // Create script element to import chat.js file and append it on the body element       
+  let scriptTag = document.createElement("script");         scriptTag.src = "https://webchat.vica.gov.sg/static/js/chat.js";         scriptTag.type = "text/javascript";      
+  scriptTag.referrerPolicy = "origin";         
+  scriptTag.defer = true;         
+  bodyTag.appendChild(scriptTag);      
+}, 5000);  
+}
+</script><script type="text/javascript">
+(function() {
+  // add beta text 
+  let timerId = setInterval(function(){
+	if(!document.getElementsByClassName("sc-htpNat")[0]) return;
+	
+	clearInterval(timerId);
+	document.getElementsByClassName("sc-htpNat")[0].addEventListener("click", changeText);
+	document.getElementsByClassName("sc-EHOje")[0].addEventListener("click", changeText);
+  }, 5000);
+  function changeText() {
+	const ele = $("#webchat-container p:contains('Ask MSF')");
+	ele.html("");
+	ele.append("Ask MSF <span style='font-size: 14px !important;position: relative;top: -9px;left: 5px;font-weight: lighter;'>beta</span>");
+  }
+})();
+</script><link rel="canonical" href="https://www.msf.gov.sg/what-we-do/support-families-and-parents/article"><script async="" src="https://assets.wogaa.sg/scripts/wogaa.js?url=https%3A%2F%2Fwww.msf.gov.sg%2Fwhat-we-do%2Fsupport-families-and-parents%2Farticle%2Fprogrammes%2FParenting"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="module" src="https://assets.wogaa.sg/sentiments/sentiments.esm.js" async=""></script><script nomodule="" src="https://assets.wogaa.sg/sentiments/sentiments.js" async=""></script><style type="text/css">#st-2 {
+  font-family: "Helvetica Neue", Verdana, Helvetica, Arial, sans-serif;;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  backface-visibility: hidden;
+  display: block;
+  position: fixed;
+  opacity: 1;
+  text-align: left;
+  top: 310px;
+  z-index: 94034;
+}
+#st-2.st-left {
+  left: 0px;
+}
+#st-2.st-hidden.st-left {
+  left: -48px;
+}
+#st-2.st-hidden {
+  width: 96px;
+}
+#st-2.st-preview {
+  display: none!important;
+  opacity: 0!important;
+}
+#st-2 > div {
+  clear: left;
+  float: left;
+}
+#st-2 .st-btn {
+  -moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  height: 48px;
+  line-height: 24px;
+  margin-bottom: 0;
+  opacity: 1;
+  overflow: hidden;
+  padding: 12px;
+  position: relative;
+  text-align: left;
+  top: 0;
+  vertical-align: top;
+  white-space: nowrap;
+  width: 48px;
+}
+#st-2 .st-btn.st-first {
+  border-top: none;
+  border-top-right-radius: 4px;
+}
+#st-2 .st-btn.st-last {
+  border-bottom: none;
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn > svg {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > img {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > span {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  color: #fff;
+  display: inline-block;
+  font-weight: 500;
+  left: -35px;
+  letter-spacing: 0.5px;
+  opacity: 0;
+  padding: 0 6px;
+  position: relative;
+  vertical-align: top;
+  filter: alpha(opacity=0);
+}
+#st-2 .st-btn.st-hide-label > span {
+  display: none !important;
+}
+#st-2 .st-total {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #fff;
+  color: #555;
+  display: inline-block;
+  font-weight: 500;
+  line-height: 18px;
+  margin-right: 0;
+  min-height: 34px;
+  max-width: 80px;
+  opacity: 1;
+  padding: 4px 0;
+  text-align: center;
+  width: 48px;
+}
+#st-2 .st-total.st-hidden {
+  display: none;
+}
+#st-2 .st-total > span {
+  display: block;
+  font-size: 18px;
+  line-height: 21px;
+  padding: 0;
+}
+#st-2 .st-total > span.st-shares {
+  font-size: 11px;
+  line-height: 11px;
+}
+#st-2 .st-toggle {
+  left: -48px;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #ccc;
+  border-bottom-right-radius: 4px;
+  color: white;
+  cursor: pointer;
+  font-size: 24px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: 48px;
+}
+#st-2.st-hidden .st-toggle {
+  border-top-right-radius: 4px;
+}
+#st-2.st-left .st-toggle .st-left {
+  display: inline-block;
+}
+#st-2.st-left.st-hidden .st-toggle .st-left {
+  display: none;
+}
+#st-2.st-left .st-toggle .st-right {
+  display: none;
+}
+#st-2.st-left.st-hidden .st-toggle .st-right {
+  display: inline-block;
+}#st-2:hover .st-toggle {
+  left: 0;
+}
+#st-2.st-hidden:hover .st-toggle {
+  left: 48px;
+}
+#st-2.st-toggleable:hover .st-btn.st-last {
+  border-bottom-right-radius: 0;
+}
+#st-2.st-toggleable:hover .st-btn.st-last:hover {
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn:hover {
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+}
+#st-2.st-has-labels .st-btn:hover {
+  width: 120px;
+}
+#st-2:not(.st-has-labels) .st-btn:hover {
+  width: 62px;
+}
+#st-2 .st-btn.st-hide-label:hover {
+  width: 62px;
+}
+#st-2 .st-btn:hover > svg {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > img {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > span {
+  opacity: 1;
+  display: inline-block;
+  left: 0;
+  filter: alpha(opacity=100);
+}
+@media (max-width: 1024px) {
+  #st-2 .st-btn:hover > svg {
+    margin-left: 0;
+  }
+  #st-2 .st-btn:hover > span {
+    display: none;
+  }
+}@media (max-width: 1024px) {
+  #st-2 {
+  bottom: 0;
+  display: none;
+  left: 0;
+  right: 0;
+  top: auto;
+  width: 100%;
+}
+#st-2.st-hidden {
+  bottom: -48px;
+  width: 100%;
+}
+#st-2.st-hidden.st-left {
+  left: 0;
+}
+#st-2.st-hidden.st-right {
+  right: 0;
+}
+#st-2 > div {
+  -moz-flex: 1;
+  -ms-flex: 1;
+  -webkit-flex: 1;
+  clear: none;
+  flex: 1;
+  float: none;
+}
+#st-2 .st-total {
+  background: #fff;
+  padding: 6px 8px;
+}
+#st-2 .st-btn {
+  -moz-border-radius: 0 !important;
+-webkit-border-radius: 0 !important;
+border-radius: 0 !important;
+  text-align: center;
+  width: auto;
+}
+#st-2 .st-btn > span {
+  display: none;
+}
+#st-2 .st-toggle {
+  display: none;
+}
+}#st-2 .st-btn[data-network='facebook'] {
+  background-color: #4267B2
+}
+#st-2 .st-btn[data-network='facebook'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='facebook'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='linkedin'] {
+  background-color: #0077b5
+}
+#st-2 .st-btn[data-network='linkedin'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='linkedin'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='gmail'] {
+  background-color: #D44638
+}
+#st-2 .st-btn[data-network='gmail'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='gmail'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='copy'] {
+  background-color: #14682B
+}
+#st-2 .st-btn[data-network='copy'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='copy'] > span {
+  color: #fff
+}#st-2 .st-btn[data-network='snapchat'] > span {
+  color: #333};
+}#st-2 .st-btn[data-network='copy']:hover {
+  width: max-content;
+}</style></head> <body onload="lateLoadChatFile();"> 
+
+<div id="webchat" app-id="msf-askmsf" app-name="Ask MSF" app-font-family="Arial" app-base-font-size="16" app-icon="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" app-welcome-message="Have a question? Type to get quick answers." app-color="#DE7C00" app-foreground-color1="#FFFFFF" app-bot-response-trigger-event="true" app-quick-launch-event="welcome" app-enable-auto-complete="false" app-auto-complete-background-color="#FFEDD7" app-auto-complete-foreground-color="#2E2E2E" app-auto-complete-hover-color="#FFCA88" app-auto-complete-divider-color="#DE7C00"></div>
+
+
+<div class="announcements-bar">
+    <div class="container-fluid">
+        <div class="row g-0 position-relative align-items-center">
+            <div class="col">
+                <div class="swiper announcementSwiper">
+                    <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <p>Have a question about MSF? Find quick answers with our chatbot Ask MSF.<!--EndFragment--></p>
+                            </div>
+                                                                                                                    </div>
+                </div>
+            </div>
+            <div class="col-auto align-self-start">
+                <div class="announcements-close">
+                    <button class="btn-close btn-ann-close btn-close-white" aria-label="Close"></button>
+                </div>
+            </div>
+        </div>
+        <div class="row g-0 position-relative">
+            <div class="col-12 col-md-auto buttons-align">
+                <div class="announcements-buttons">
+                    <div class="announcements-swiper-button swiper-button-prev">
+                        <em class="fa-solid fa-chevron-left"></em>
+                    </div>
+                    <div class="announcements-pagination"></div>
+                    <div class="announcements-swiper-button swiper-button-next">
+                        <em class="fa-solid fa-chevron-right"></em>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+ <sgds-masthead fluid="" class="sgds-masthead-class"></sgds-masthead> 
+<div class="layout-subsite">
+    <div id="Content_T7AD4A7CC001_Col00" class="sf_colsIn" data-sf-element="Navigation" data-placeholder-label="Navigation">
+
+<header>
+    <nav class="sgds navbar navbar-expand-xl main-navbar">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/" aria-label="home page">
+                <img src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69" title="MSF logo">
+            </a>
+
+            <button class="btn btn-nav-search px-24 ms-auto d-block d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#searchbarCollapse" aria-expanded="false" aria-controls="searchbarCollapse" aria-label="search icon">
+                <em class="fa-solid fa-search"></em>
+            </button>
+
+            <div class="collapse" id="searchbarCollapse">
+                <div class="container-fluid p-0 px-12">
+                    <div class="nav-searchbar">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Search our website" id="navSearchBarSearchInput" data-search="navSearchBarSearchInput">
+                            <button class="btn btn-search" type="button" id="navSearchBarBtnSearch" aria-label="search">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <span>Search</span>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Menu">
+                Menu
+            </button>
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <img class="offcanvas-header-logo" src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69">
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+
+                <div class="offcanvas-searchbar">
+                    <div class="sgds form-group">
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="defaultWith" aria-describedby="defaultWith" placeholder="Search our website">
+                            <button class="btn btn-offcanvas-search" type="button">
+                                <em class="fa-solid fa-search form-control-icon"></em>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav d-flex d-xl-none">
+                        <li class="nav-item">
+                            <a href="/" class="nav-link submenu-link" data-bs-dismiss="offcanvas" aria-current="page" aria-label="Home"><span>Home</span></a>
+                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#who-we-are-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#what-we-do-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#our-services-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#research-data-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#join-us-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+
+                    <div class="d-block d-xl-none">
+                                <div class="collapse collapse-horizontal submenu" id="who-we-are-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#who-we-are-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Who We Are</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/mission-values" class="nav-link sgds" aria-label="Mission &amp; Values"><span class="nav-link-text"><span>Mission &amp; Values</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/organisation-chart" class="nav-link sgds" aria-label="Organisation Chart"><span class="nav-link-text"><span>Organisation Chart</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/agencies-statutory-boards-councils" class="nav-link sgds" aria-label="Agencies, Statutory Boards &amp; Councils"><span class="nav-link-text"><span>Agencies, Statutory Boards &amp; Councils</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/senior-management-team" class="nav-link sgds" aria-label="Senior Management Team"><span class="nav-link-text"><span>Senior Management Team</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="what-we-do-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#what-we-do-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>What We Do</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/help-those-in-need" class="nav-link sgds" aria-label="Help Those in Need"><span class="nav-link-text"><span>Help Those in Need</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/support-families-and-parents" class="nav-link sgds" aria-label="Support Families &amp; Parents"><span class="nav-link-text"><span>Support Families &amp; Parents</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/strengthen-the-social-service-sector" class="nav-link sgds" aria-label="Strengthen the Social Service Sector"><span class="nav-link-text"><span>Strengthen the Social Service Sector</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="our-services-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#our-services-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Our Services</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/our-services/directories" class="nav-link sgds" aria-label="Directories"><span class="nav-link-text"><span>Directories</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/our-services/e-services" class="nav-link sgds" aria-label="E-Services"><span class="nav-link-text"><span>E-Services</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="research-data-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#research-data-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Research &amp; Data</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-reports-data" class="nav-link sgds" aria-label="Research Report &amp; Data"><span class="nav-link-text"><span>Research Report &amp; Data</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-grants" class="nav-link sgds" aria-label="Research Grants"><span class="nav-link-text"><span>Research Grants</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/Research-Conferences-Forums-Networks" class="nav-link sgds" aria-label="Research Conferences, Forums &amp; Networks"><span class="nav-link-text"><span>Research Conferences, Forums &amp; Networks</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="join-us-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#join-us-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Join Us</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/join-us/volunteer-with-msfcare-network" class="nav-link sgds" aria-label="Volunteer with MSFCare Network"><span class="nav-link-text"><span>Volunteer with MSFCare Network</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/jobs-careers" class="nav-link sgds" aria-label="Jobs &amp; Careers"><span class="nav-link-text"><span>Jobs &amp; Careers</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/scholarships-internships" class="nav-link sgds" aria-label="Scholarships &amp; Internships"><span class="nav-link-text"><span>Scholarships &amp; Internships</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                    </div>
+
+                    <ul class="navbar-nav justify-content-end flex-grow-1 d-none d-xl-flex">
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/mission-values" aria-label="Mission &amp; Values">
+                                                            Mission &amp; Values
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/organisation-chart" aria-label="Organisation Chart">
+                                                            Organisation Chart
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/agencies-statutory-boards-councils" aria-label="Agencies, Statutory Boards &amp; Councils">
+                                                            Agencies, Statutory Boards &amp; Councils
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/senior-management-team" aria-label="Senior Management Team">
+                                                            Senior Management Team
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/help-those-in-need" aria-label="Help Those in Need">
+                                                            Help Those in Need
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/support-families-and-parents" aria-label="Support Families &amp; Parents">
+                                                            Support Families &amp; Parents
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/strengthen-the-social-service-sector" aria-label="Strengthen the Social Service Sector">
+                                                            Strengthen the Social Service Sector
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/directories" aria-label="Directories">
+                                                            Directories
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/e-services" aria-label="E-Services">
+                                                            E-Services
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-reports-data" aria-label="Research Report &amp; Data">
+                                                            Research Report &amp; Data
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-grants" aria-label="Research Grants">
+                                                            Research Grants
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/Research-Conferences-Forums-Networks" aria-label="Research Conferences, Forums &amp; Networks">
+                                                            Research Conferences, Forums &amp; Networks
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/volunteer-with-msfcare-network" aria-label="Volunteer with MSFCare Network">
+                                                            Volunteer with MSFCare Network
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/jobs-careers" aria-label="Jobs &amp; Careers">
+                                                            Jobs &amp; Careers
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/scholarships-internships" aria-label="Scholarships &amp; Internships">
+                                                            Scholarships &amp; Internships
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+<!-- prettier-ignore -->
+<div class="container-fluid">
+    <nav aria-label="breadcrumb" class="breadcrump-wrapper">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>
+                        <a href="/what-we-do" aria-label="What We Do">What We Do</a>
+                    </li>
+                    <li class="breadcrumb-item">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>
+                        <a href="/what-we-do/support-families-and-parents" aria-label="Support Families &amp; Parents">Support Families &amp; Parents</a>
+                    </li>
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>Article
+                    </li>
+        </ol>
+        <div class="breadcrumb-mobile">
+            <a href="/" aria-label="Home">
+                <em class="fa-solid fa-chevron-left"></em>
+                <span>Home</span>
+            </a>
+        </div>
+    </nav>
+</div>
+
+
+
+
+<link href="/ResourcePackages/Msf/assets/css/language-bar.min.css" rel="stylesheet" type="text/css">
+
+
+    </div>
+    <div id="Content_T7AD4A7CC001_Col01" class="sf_colsIn" data-sf-element="Content" data-placeholder-label="Content"><div id="Content_C003_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<div class="container-fluid">
+    <h1>Parenting Programmes</h1>
+
+    <div class="article-details">
+        <div class="article-detail">
+            <div class="article-topic">
+                <p>
+                    Topic(s):
+
+                            <a href="/what-we-do/index/support-families-and-parents/children-and-families/programmes " aria-label="Children &amp; Families">Children &amp; Families</a>
+
+                </p>
+            </div>
+            <hr>
+            <div class="article-content">
+                <p>MSF has appointed ten Parenting Support Providers (PSPs) to deliver parenting support services on a regional basis. PSPs work closely with schools and community partners in their allocated regions to support parents through evidence-based parenting programmes
+    and referrals to services depending on parents’ needs.</p><p>The PSPs offer two evidence-based programmes – Positive Parenting Program (Triple P) and Signposts. To sign up, parents may contact the PSPs serving their child’s school or their region or approach the child’s school Teacher-In-Charge
+    of Parenting Programmes.</p><br><h2>Programme Overviews</h2><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_1"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_1" aria-expanded="true" aria-controls="collapse_1">About Positive Parenting Program (Triple P)
+            </button></h2><div id="collapse_1" class="accordion-collapse collapse" data-bs-parent="#accordionExample"><div class="accordion-body"><p>The Positive Parenting Programme (Triple P) is an evidence-based programme that equips parents with techniques to promote their children’s (aged up to 16 years) psychological, social and emotional competence. Triple P is built
+                        on a tiered system that provides different degrees of parental support.</p><p>MSF’s evaluation studies found that the evidence-based Positive Parenting Programme (also known as Triple P), has positive effects on parenting and child outcomes in Singapore.</p><p>About 85% of parents endorsed the programme as being relevant to their parenting needs. Parents with secondary school-going children showed a sustained 31% reduction in their emotional distress scores, and a 22% reduction in their
+                        child’s problematic behavioural scores. Parents with primary school-going children sustained a 15% improvement in their parenting satisfaction and efficacy scores, and an 18 % reduction in their child’s problematic
+                        behavioural scores.</p><br><div style="overflow-x: auto; word-wrap: break-word"><table class="datatable k-table"><tbody><tr><th style="vertical-align: top" data-role="resizable"><strong>Triple P Level 2 Seminar Series</strong></th><td>3 seminars of 2 hours each for parents / grandparents of primary and secondary school children for parents who are coping well with their children’s / grandchildren's needs.<br><br><p>Triple P Level 2 Seminar Series for parents / grandparents with children / grandchildren up to <span style="text-decoration: underline">12 years old</span><br>• Seminar 1 Positive parenting / grandparenting<br>• Seminar 2 Raising confident, competent children / grandchildren<br>• Seminar 3 Raising resilient children / grandchildren
+                                        </p><p>Triple P Level 2 Seminar Series for parents / grandparents with teenagers up to <span style="text-decoration: underline">16 years old</span><br>• Seminar 1 Raising responsible teenagers<br>• Seminar
+                                            2 Raising competent teenagers
+                                            <br>• Seminar 3 Getting teenagers connected</p></td></tr><tr><th style="vertical-align: top"><strong>Triple P Level 3</strong></th><td>4 one-to-one consultation sessions for parents who may require more help with children who display mild to moderate behavioural difficulties.<br></td></tr><tr><th style="vertical-align: top" data-role="resizable"><strong>Triple P Level 4</strong></th><td>5 group sessions, followed by 3 phone consultation sessions for parents of children with high or very high levels of behavioural difficulties who may require targeted, intensive and active parenting training.<br></td></tr><tr><th style="vertical-align: top"><strong>Triple P Online (TPOL)</strong></th><td>An online programme that allows parents to complete parenting modules independently, in their own time, from a computer, tablet or smartphone. Parents have online access to the programme for 12 months. Triple P Online
+                                        provides parents with a toolbox of strategies that help them to encourage positive behaviour and to prevent and manage misbehaviour.<br><br>Through this interactive course, parents can learn at their own time
+                                        and pacing, and pick up simple and practical strategies to confidently manage children’s behaviour. The course consists of videos, exercises, tips and activities, suitable for parents of children and teens.<br><br>TPOL for <strong>Toddlers to Tweens </strong>(0-12 years old) Consisting of 8 modules<br>TPOL for <strong>Pre-teens and Teens </strong>(10-16 years old) Consisting of 6 modules<br><br>Each module takes
+                                        around 30 minutes to complete. Parents can save their progress at any point of the module and can complete sessions at their own pace.<br></td></tr></tbody></table><br><p><a href="https://www.triplep-parenting.net/global/about-triple-p/frequently-asked-questions/" target="_blank">Click here for more information on Triple P</a></p></div></div></div></div><div class="accordion-item" id="item_2"><h2 class="accordion-header" id="heading_item_2"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_item_2" aria-expanded="true" aria-controls="collapse_item_2">About Signposts (for Primary Schools Only)
+            </button></h2><div id="collapse_item_2" class="accordion-collapse collapse" data-bs-parent="#accordionExample"><div class="accordion-body"><p>Signposts is an evidence-based programme that equips parents with skills to help them understand, prevent and manage their child’s difficult behaviour through the development of a personalised programme that suits the unique
+                        needs of their child. Parents are also taught to develop strategies to prevent and manage difficult behaviour.</p><p>It consists of 5 weekly <strong>group sessions</strong> x 2.5-hours/session.</p></div></div></div></div><div class="accordion-item" id="item_3"><h2 class="accordion-header" id="heading_item_3"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_item_3" aria-expanded="true" aria-controls="collapse_item_3">About Purposeful Play
+            </button></h2><div id="collapse_item_3" class="accordion-collapse collapse" data-bs-parent="#accordionExample"><div class="accordion-body"><p>Developed jointly by the Ministry of Social and Family Development and the Parenting Research Centre from Australia, the Purposeful Play programme seeks to help parents of children aged 0-6 years develop their child through play and daily
+                    interactive activities.</p><p>The Purposeful Play programme introduces you to 10 evidence-based strategies that equip you with the knowledge and skills to:</p><ul><li>Think about ways to create a warm and stimulating home environment for your child</li><li>Use everyday activities to develop language and problem-solving skills to enhance your child's school readiness, as well as to bond and strengthen your relationship with your child.</li></ul><div><p>You'll gain confidence in your skills to support your child's development and build supportive relationships with other parents.</p><p>Session 1: Warm and Gentle and Play</p><p>Session 2: Tuning In and Routines</p><p>Session 3: Following Your Child’s Lead and Shared Reading</p><p>Session 4: Listening and Talking More and Watching Screens Together</p><p>Session 5: Teachable Moments and Community Resources</p><p>It consists of&nbsp;<strong>5 in-person sessions x 1.5-hours/session with your child</strong>, conducted over 5 consecutive weeks.</p><p>For enquiries, contact us at&nbsp;<a href="mailto:parentingsupport@msf.gov.sg">parentingsupport@msf.gov.sg</a>.</p></div></div></div></div></div><br><h2>Programme Sign-Ups</h2><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_4"><h2 class="accordion-header" id="heading_item_4"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_item_4" aria-expanded="true" aria-controls="collapse_item_4">How do I Sign-Up for Triple P Level 2 Seminars?
+            </button></h2><div id="collapse_item_4" class="accordion-collapse collapse" data-bs-parent="#accordionExample"><div class="accordion-body"><p>Sign up for the <strong><span style="text-decoration: underline">free</span></strong> seminars by filling in your contact information at your preferred Parenting Support Provider (PSP) closest to your home or your child's school.</p><div style="overflow-x: auto; word-wrap: break-word"><table class="datatable k-table" style=""><tbody><tr style=""><th><strong>S/N</strong></th><th><strong>Regional Cluster</strong></th><th data-role="resizable"><strong>Parenting Support Provider (PSP)</strong></th><th><strong>Registration Link</strong></th></tr><tr style=""><td>1</td><td>Ang Mo Kio / Yishun</td><td style="">Allkin<br></td><td><a href="https://forms.office.com/pages/responsepage.aspx?id=lU1uZe7wdECGeoriDxGB1HxDVUC3M7lMo51GZrvcVnNUMzBCTUUxNTJQMTBTWFg5UE5GVVE0WFE1MyQlQCN0PWcu&amp;wdLOR=cC4D48606-3260-422F-B166-8F305BD62FED" target="_blank">Allkin Registration Link</a></td></tr><tr style=""><td>2</td><td>Bedok / Geylang Serai</td><td>Morning Star Community Services</td><td><a href="https://www.morningstar.org.sg/triple-p/" target="_blank">Morning Star Community Services Registration Link</a></td></tr><tr style=""><td>3</td><td>Boon Lay / Taman Jurong</td><td>THK Moral Charities</td><td><a href="https://forms.office.com/r/hHYx6ZfGe5" target="_blank">THK Moral Charities Registration Link</a></td></tr><tr style=""><td>4</td><td>Bukit Batok / Bukit Panjang / Choa Chu Kang</td><td style="">Fei Yue Community Services</td><td><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=enp5W2h6KEyJkTbCaPjr60xXTovmoVVHr8HSB-0UwTtUMk81RjhRSTZSOUhFWEZTVUswQ0pNMlhDQS4u" target="_blank">Fei Yue Community Services Registration Link</a></td></tr><tr style=""><td>5</td><td>Bukit Merah / Kreta Ayer</td><td>Montfort Care</td><td><a href="https://forms.office.com/r/bz5YP45a3Q" target="_blank">Montfort Care Registration Link</a></td></tr><tr style=""><td>6</td><td>Clementi / Jurong East / Queenstown</td><td>Lakeside Family Services</td><td><a href="https://forms.office.com/r/jRb4C7i9zc" target="_blank">Lakeside Family Services Registration Link</a></td></tr><tr style=""><td>7</td><td>Hougang / Sengkang / Serangoon</td><td>Methodist Welfare Services</td><td><a href="https://forms.office.com/pages/responsepage.aspx?id=QuR79Ie6rE2o6tyWYE-P9pFH-JYJhKdIvGZgsw-A4ZNUQ1BPQVZSVEgyTFdDVjkwV0JCTTZFSFdOTC4u" target="_blank">Methodist Welfare Services Registration Link</a></td></tr><tr style=""><td style="">8</td><td>Jalan Besar / Toa Payoh</td><td>TOUCH Community Services</td><td><a href="https://bit.ly/3PIntFm_Reg23">TOUCH Community Services Registration Link</a></td></tr><tr style=""><td>9</td><td>Pasir Ris / Punggol / Tampines</td><td>Care Corner Singapore</td><td><a href="https://forms.office.com/r/RbyZ9kAJiE" target="_blank">Care Corner Singapore Registration Link</a></td></tr><tr><td>10</td><td>Sembawang / Woodlands</td><td>Care Corner Singapore</td><td><a href="https://forms.office.com/r/RbyZ9kAJiE" target="_blank">Care Corner Singapore Registration Link</a></td></tr></tbody></table><p>&nbsp;</p></div></div></div></div><div class="accordion-item" id="item_5"><h2 class="accordion-header" id="heading_item_5"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_item_5" aria-expanded="true" aria-controls="collapse_item_5">How do I Sign-Up for a Triple P Online (TPOL) - Online Parenting Programme Account?
+            </button></h2><div id="collapse_item_5" class="accordion-collapse collapse" data-bs-parent="#accordionExample"><div class="accordion-body"><p>Sign up for a <strong><span style="text-decoration: underline">free</span></strong> TPOL account by filling in your contact information and your preferred TPOL programme (Toddlers to Tweens / Pre-teens and Teens) in the <a href="https://go.gov.sg/tpolregistration" target="_blank"><strong><span style="text-decoration: underline">REGISTRATION FORM</span></strong></a> here.</p><p>Once you have registered, your selected Parenting Support Provider (PSP) will contact you within three working days to assist you in creating your TPOL account.</p></div></div></div><div class="accordion-item" id="item_6"><h2 class="accordion-header" id="heading_item_6"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_item_6" aria-expanded="true" aria-controls="collapse_item_6">How do I sign-up for Triple P Level 3 / Level 4 and Signposts?
+            </button></h2><div id="collapse_item_6" class="accordion-collapse collapse" data-bs-parent="#accordionExample"><div class="accordion-body"><p><strong>How do I sign-up for Triple P Level 3 / Level 4 and Signposts?</strong></p><p>Interested parents may email the PSP in your region (details in the table below) and the agency will contact you for a discussion on the programmme that best meets your needs.</p></div></div></div><div class="accordion-item" id="item_7"><h2 class="accordion-header" id="heading_item_7"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_item_7" aria-expanded="true" aria-controls="collapse_item_7">How do I sign-up for Purposeful Play?<p>&nbsp;</p></button></h2><div id="collapse_item_7" class="accordion-collapse collapse" data-bs-parent="#accordionExample"><div class="accordion-body"><p><strong>How do I sign-up for Purposeful Play?</strong></p><p>If you are a parent of a child aged 0-6 years, you may register with your preferred service provider closest to your home (details in the table below).&nbsp;</p><div style="overflow-x: auto; word-wrap: break-word"><table class="datatable k-table" style=""><tbody><tr style=""><th><strong>S/N</strong></th><th><strong>Locations/Regions</strong></th><th data-role="resizable"><strong>Service Providers</strong></th><th><strong>Details</strong></th></tr><tr style=""><td>1 </td><td style="width: 214.703px">Ang Mo Kio, Yishun, Hougang, Sengkang, Serangoon</td><td style="width: 318.266px">Allkin Singapore <br><br>Email:&nbsp;<a href="mailto:famforlife@allkin.org.sg">famforlife@allkin.org.sg</a><br>Phone: 6351 0610<br>Operating Hours: Mon-Fri, 9am-6pm</td><td>For more details on upcoming runs and/or to register, click&nbsp;<a href="https://forms.office.com/r/YyW19A2Znh" target="_blank">here</a>. </td></tr><tr style=""><td>2 </td><td style="width: 214.703px">Bukit Batok, Bukit Panjang,<br>Choa Chu Kang</td><td style="width: 318.266px">Fei Yue Community Services<br><br>Email:&nbsp;<a href="mailto:parenting@fycs.org">parenting@fycs.org</a><br>Phone: 8869 4006<br>Operating Hours:<br>Mon-Fri, 9am-12.30pm, 1.30pm-6pm </td><td>For more details on upcoming runs and/or to register, click&nbsp;<a href="https://go.fycs.org/pp" target="_blank">here</a>. </td></tr><tr style=""><td>3 </td><td style="width: 214.703px">Sembawang, Woodlands,<br>Pasir Ris, Punggol, Tampines </td><td style="width: 318.266px">Care Corner Singapore Ltd<br><br>Email:&nbsp;<a href="mailto:parenting@carecorner.org.sg">parenting@carecorner.org.sg</a><br>Phone: 6235 4705<br>Operating Hours:<br>Mon-Fri, 9am-1pm; 2pm-6pm
+                                </td><td>For more details on upcoming runs and/or to register, click&nbsp;<a href="https://forms.office.com/pages/responsepage.aspx?id=Ycu9JkYoA0yJwHUJWG-CpeRDHSW61qpJiOGgHk9_DQ1URVUwT0xJUzFEOUFTM0czT0Y0WURTWFpSUi4u" target="_blank">here</a>.
+ </td></tr><tr style=""><td>4</td><td style="width: 214.703px">Clementi, Jurong East, Queenstown</td><td style="width: 318.266px"><p>Lakeside Family Services</p><p>Email: <a href="mailto:pss@lakeside.org.sg" target="_blank">pss@lakeside.org.sg</a><br>Phone: 6567 1908<br>Operating Hours: Mon-Fri, 9am-5.30pm</p></td><td>For more details on upcoming runs and/or to register, click <a href="https://forms.office.com/pages/responsepage.aspx?id=XwAOUG4p-UGAA3kxAE97yW9dkxtpfn9Evb0bJuZNlLNUOEtUR0xaVDFJVzYwWDRSVTBTNE1OVFZGNiQlQCN0PWcu" target="_blank">here</a>.</td></tr><tr style=""><td>5</td><td style="width: 214.703px">Bukit Merah, Kreta Ayer </td><td style="width: 318.266px">Montfort Care<br><br>Email:&nbsp;<a href="mailto:parenting@montfortcare.org.sg">parenting@montfortcare.org.sg</a><br>Phone: 6270 8327<br>Operating Hours: Mon-Fri, 9am-6pm </td><td>For more details on upcoming runs and/or to register, click&nbsp;<a href="https://forms.office.com/r/A0V9mjBS9T" target="_blank">here</a>. </td></tr><tr style=""><td>6</td><td style="width: 214.703px">Boon Lay, Taman Jurong </td><td style="width: 318.266px">THK Moral Charities<br><br>Email:&nbsp;<a href="mailto:psp_jurong@thkmc.org.sg">psp_jurong@thkmc.org.sg</a><br>Phone: 6747 7514<br>Operating Hours: Tue-Sat, 9am-6pm </td><td>For more details on upcoming runs and/or to register, click&nbsp;<a href="https://forms.office.com/r/2rZVZXLrSC" target="_blank">here</a>. </td></tr><tr style=""><td>7</td><td style="width: 214.703px">Jalan Besar, Toa Payoh </td><td style="width: 318.266px">TOUCH Community Services<br><br>Email:&nbsp;<a href="mailto:parenting@touch.org.sg">parenting@touch.org.sg</a><br>Phone: 6252 2861<br>Operating Hours: Mon-Fri, 9am-6pm </td><td>For more details on upcoming runs and/or to register, click&nbsp;<a href="https://bit.ly/RegPP_TOUCH23" target="_blank">here</a>. </td></tr><tr style=""><td>8</td><td style="width: 214.703px">Bedok, Geylang Serai </td><td style="width: 318.266px">Morning Star Community Services<br><br>Email:&nbsp;<a href="mailto:training@morningstar.org.sg">training@morningstar.org.sg</a><br>Phone: 8949 6525 / 8932 4808 /<br>9297 9739 / 8717 8685<br>Operating Hours: Mon-Fri, 9am-6pm </td><td>For more details on upcoming runs and/or to register, click&nbsp;<a href="https://tinyurl.com/MSCSPurposefulPlay" target="_blank">here</a>. </td></tr></tbody></table></div></div></div></div><h2>&nbsp;</h2><h2>List of Parenting Support Providers (PSPs)</h2><p>For a list of Parenting Support Providers (PSPs), you may refer to the table below</p><div style="overflow-x: auto; word-wrap: break-word"><table class="datatable k-table" style=""><tbody><tr style=""><th><strong>S/N</strong></th><th><strong>Regional Cluster </strong></th><th><p><strong>Social Service Agencies appointed as PSPs</strong></p></th><th><strong>Contact Details
+            </strong></th><th><strong>Operating Hours</strong></th></tr><tr style=""><td>1</td><td>Ang Mo Kio / Yishun</td><td>Allkin</td><td><a href="mailto:famforlife@allkin.org.sg">famforlife@allkin.org.sg</a>
+ <br>Phone: 6351 0610
+                    </td><td>Mon – Fri 9am – 6pm</td></tr><tr><td>2</td><td>Bedok / Geylang Serai</td><td>Morning Star Community Services</td><td><a href="mailto:training@morningstar.org.sg">training@morningstar.org.sg</a><br>Phone: 8949 6525 / 8932 4808 / 9297 9739 / 8717 8685
+                    </td><td>Mon – Fri 9am – 6pm</td></tr><tr style=""><td>3</td><td>Boon Lay / Taman Jurong</td><td style="">THK Moral Charities</td><td><a href="mailto:psp_jurong@thkmc.org.sg">psp_jurong@thkmc.org.sg</a><br>Phone: 6747 7514
+                    </td><td>Tues – Sat 9am – 6 pm<br>Weekday evenings by appointment only
+                    </td></tr><tr><td>4</td><td>Bukit Batok / Bukit Panjang / Choa Chu Kang</td><td>Fei Yue Community Services</td><td><a href="mailto:parenting@fycs.org">parenting@fycs.org</a><br>Phone: 8869 4006 </td><td>Mon – Fri 9am – 12.30pm, 1.30pm – 6pm</td></tr><tr><td>5</td><td>Bukit Merah / Kreta Ayer</td><td>Montfort Care</td><td><a href="mailto:parenting@montfortcare.org.sg">parenting@montfortcare.org.sg</a><br>Phone: 6270 8327</td><td>Mon – Fri 9am – 6pm<br>Sat By appointment only
+                    </td></tr><tr><td>6</td><td>Clementi / Jurong East / Queenstown</td><td>Lakeside Family Services</td><td><a href="mailto:pss@lakeside.org.sg">pss@lakeside.org.sg</a><br>Phone: 6567 1908
+                    </td><td>Mon – Fri 9am – 5.30pm</td></tr><tr><td>7</td><td>Hougang / Sengkang / Serangoon</td><td>Methodist Welfare Services</td><td><a href="mailto:mwsfsp@mws.sg">mwsfsp@mws.sg</a><br>Phone: 8812 9565 </td><td>Mon – Fri 8.30am – 5.30pm</td></tr><tr style=""><td>8</td><td>Jalan Besar / Toa Payoh</td><td>TOUCH Community Services</td><td><a href="mailto:parenting@touch.org.sg">parenting@touch.org.sg</a><br>Phone: 6709 8419 / 6709 8415</td><td>Mon – Fri 9am – 6pm</td></tr><tr><td>9</td><td>Pasir Ris / Punggol / Tampines</td><td>Care Corner Singapore</td><td><a href="mailto:mwsfsp@mws.sg"></a><a href="mailto:parenting@carecorner.org.sg">parenting@carecorner.org.sg</a><br>Phone: 6235 4705</td><td>Mon – Fri 9am – 1pm, 2pm – 6pm</td></tr><tr><td>10</td><td>Sembawang / Woodlands</td><td>Care Corner Singapore</td><td><a href="mailto:parenting@carecorner.org.sg">parenting@carecorner.org.sg</a><br>Phone: 6235 4705
+                    </td><td>Mon – Fri 9am – 1pm, 2pm – 6pm</td></tr></tbody></table><br><p>Outside operating hours Please contact the PSP in your region via email, and they will get back to you shortly. For enquiries, please contact <a href="mailto:parentingsupport@msf.gov.sg">parentingsupport@msf.gov.sg</a>.</p></div></div></div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    window.addEventListener('load', function () {
+        this.document.title = "Parenting Programmes";
+    })
+</script>
+
+</div>
+
+    </div>
+</div> <div class="sharethis-inline-share-buttons"></div> 
+
+
+<footer class="sgds footer">
+    <section class="footer-top">
+        <div class="container-fluid">
+            <div class="row footer-header">
+                <div class="footer-title">
+                    Ministry of Social and Family Development
+                </div>
+            </div>
+
+            <div class="row footer-contact-links">
+                <div class="col-sm-12">
+                    <div class="d-flex flex-column flex-lg-row gap-20 gap-lg-0 justify-content-lg-end">
+                        <div class="d-flex justify-content-lg-end">
+                            <ul class="d-flex flex-column flex-lg-row gap-lg-40 contact-links">
+                                        <li><a class="" href="/contact-us-feedback" aria-label="Contact Us / Feedback">Contact Us / Feedback</a></li>
+                                        <li><a class="not-first-page" href="/faqs" aria-label="FAQs">FAQs</a></li>
+                            </ul>
+                        </div>
+                        <div class="d-flex align-items-lg-center justify-content-lg-end">
+                            <ul class="d-flex social-links">
+                                <li>
+                                    <a href="https://www.facebook.com/MSFSingapore/" aria-label="facebook">
+                                        <em class="fa-brands fa-square-facebook"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/msfcares/" aria-label="instagram">
+                                        <em class="fa-brands fa-instagram"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://t.me/msfcares" aria-label="telegram">
+                                        <em class="fa-brands fa-telegram"></em>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="footer-bottom">
+        <div class="container-fluid">
+            <hr class="footer-divider">
+            <div class="row footer-mandatory-links">
+                <div class="col-12 col-lg-8 col-xl-9">
+                    <ul class="footer-nav-list">
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links " href="/report-vulnerability" rel="noopener" aria-label="Report Vulnerability
+
+">Report Vulnerability
+
+</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/privacy-statement" rel="noopener" aria-label="Privacy Statement">Privacy Statement</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/terms-of-use" rel="noopener" aria-label="Terms of Use&nbsp;">Terms of Use&nbsp;</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/sitemap" rel="noopener" aria-label="Sitemap">Sitemap</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/accessibility-statement" rel="noopener" aria-label="Accessibility Statement">Accessibility Statement</a>
+                                </li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg footer-copyrights">
+                    <div class="d-flex justify-content-lg-end text-lg-end">
+                        © 2024 Government of Singapore<br>
+                        Last updated 16 Mar 2023
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+
+
+ <div class="accessibility-sidebar"> <div class="btn-group-vertical btn-group-sm" role="group" aria-label="Accessibility Sidebar"> <button type="button" class="btn btn-accessibility btn-notice" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Show/Hide Notice" data-bs-original-title="Show/Hide Notice"> <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10 0C8.02219 0 6.08879 0.58649 4.4443 1.6853C2.79981 2.78412 1.51809 4.3459 0.761209 6.17317C0.00433284 8.00043 -0.193701 10.0111 0.192152 11.9509C0.578004 13.8907 1.53041 15.6725 2.92894 17.0711C4.32746 18.4696 6.10929 19.422 8.0491 19.8079C9.98891 20.1937 11.9996 19.9957 13.8268 19.2388C15.6541 18.4819 17.2159 17.2002 18.3147 15.5557C19.4135 13.9112 20 11.9778 20 10C20 8.68678 19.7413 7.38642 19.2388 6.17317C18.7363 4.95991 17.9997 3.85752 17.0711 2.92893C16.1425 2.00035 15.0401 1.26375 13.8268 0.761205C12.6136 0.258658 11.3132 0 10 0ZM10 18C8.41775 18 6.87104 17.5308 5.55544 16.6518C4.23985 15.7727 3.21447 14.5233 2.60897 13.0615C2.00347 11.5997 1.84504 9.99113 2.15372 8.43928C2.4624 6.88743 3.22433 5.46197 4.34315 4.34315C5.46197 3.22433 6.88743 2.4624 8.43928 2.15372C9.99113 1.84504 11.5997 2.00346 13.0615 2.60896C14.5233 3.21447 15.7727 4.23984 16.6518 5.55544C17.5308 6.87103 18 8.41775 18 10C18 12.1217 17.1572 14.1566 15.6569 15.6569C14.1566 17.1571 12.1217 18 10 18Z"></path> <path d="M10 7C10.5523 7 11 6.55228 11 6C11 5.44772 10.5523 5 10 5C9.44772 5 9 5.44772 9 6C9 6.55228 9.44772 7 10 7Z"></path> <path d="M10 8C9.73478 8 9.48043 8.10536 9.29289 8.29289C9.10536 8.48043 9 8.73478 9 9V14C9 14.2652 9.10536 14.5196 9.29289 14.7071C9.48043 14.8946 9.73478 15 10 15C10.2652 15 10.5196 14.8946 10.7071 14.7071C10.8946 14.5196 11 14.2652 11 14V9C11 8.73478 10.8946 8.48043 10.7071 8.29289C10.5196 8.10536 10.2652 8 10 8Z"></path> </svg> </button> <button type="button" class="btn btn-accessibility btn-font-bigger" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Increase Font Size" data-bs-original-title="Increase Font Size">
+                    A+
+                </button> <button type="button" class="btn btn-accessibility btn-font-smaller" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Decrease Font Size" data-bs-original-title="Decrease Font Size">
+                    A−
+                </button> <button type="button" class="btn btn-accessibility btn-contrast" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Toggle Colour Contrast" data-bs-original-title="Toggle Colour Contrast"> <em class="fa-solid fa-circle-half-stroke"></em> </button> </div> </div> <div class="back-to-top"> <button class="btn-back-top" aria-label="back to top"> <svg width="16" height="8" viewBox="0 0 16 8" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4826 7.76568C14.8297 8.07811 15.3925 8.07811 15.7396 7.76568C16.0868 7.45326 16.0868 6.94673 15.7396 6.63432L8.62853 0.23424C8.2814 -0.0780799 7.71859 -0.0780799 7.37146 0.23424L0.260266 6.63432C-0.0867557 6.94673 -0.0867557 7.45326 0.260266 7.76567C0.607466 8.07811 1.17031 8.07811 1.51751 7.76567L8 3L14.4826 7.76568Z"></path> </svg> <span>Top</span> </button> </div> <script src="/ResourcePackages/Msf/assets/js/jquery.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/jquery-ui.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/swiper-bundle.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/bootstrap.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/default-passive-events.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/search-result.js" type="text/javascript"></script> <script src="https://assets.wogaa.sg/scripts/wogaa.js"></script> <script type="text/javascript" src="/ResourcePackages/Msf/assets/js/sharethis.js#property=648140a26773dd0012e17a9b&amp;product=inline-share-buttons&amp;source=platform" async="async"></script> <script>
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window, document, 'script', 'dataLayer', 'G-7WBNTH91BT');
+            </script> <!-- Global site tag (gtag.js) - Google Analytics --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7WBNTH91BT"></script> <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-7WBNTH91BT');
+            </script> <script type="module" src="https://cdn.jsdelivr.net/npm/@govtechsg/sgds-web-component/Masthead/index.js"></script> <script src="/ResourcePackages/Msf/assets/js/main.min.js" type="text/javascript"></script>  
+<div id="st-2" class=" st-sticky-share-buttons st-left st-toggleable st-has-labels "><div class="st-btn st-first" data-network="facebook" style="display: inline-block;">
+  <img alt="facebook sharing button" src="https://platform-cdn.sharethis.com/img/facebook.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="linkedin" style="display: inline-block;">
+  <img alt="linkedin sharing button" src="https://platform-cdn.sharethis.com/img/linkedin.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="gmail" style="display: inline-block;">
+  <img alt="gmail sharing button" src="https://platform-cdn.sharethis.com/img/gmail.svg">
+  <span class="st-label">Email</span>
+</div><div class="st-btn st-last" data-network="copy" style="display: inline-block;">
+  <img alt="copy sharing button" src="https://platform-cdn.sharethis.com/img/copy.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-toggle">
+  <div class="st-left">
+    <img alt="arrow_left sharing button" src="https://platform-cdn.sharethis.com/img/arrow_left.svg">
+  </div>
+  <div class="st-right">
+    <img alt="arrow_right sharing button" src="https://platform-cdn.sharethis.com/img/arrow_right.svg">
+  </div>
+</div></div><wog-sentiments class="needsclick hydrated"></wog-sentiments></body></html>

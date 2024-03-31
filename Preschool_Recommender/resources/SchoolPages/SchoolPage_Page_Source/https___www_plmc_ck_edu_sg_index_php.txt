@@ -280,13 +280,13 @@
     -Open photoshop, check height of first image accordingly to the slideshow width size for best performance -->
 
 	<div id="slideshow">
-  		<div class="skdslider" style="height: 181px;"><ul id="slideshow-content" class="slides" style="position: absolute; left: -694px; width: 3470px;">
+  		<div class="skdslider" style="height: 181px;"><ul id="slideshow-content" class="slides" style="position: absolute; left: 0px; width: 3470px;">
 			<li style="float: left; display: block; position: relative; width: 694px; height: 181px;"><a href="admission.php"><img src="img/slides/S1.jpg" alt="Slide1"></a></li>
     		<li style="float: left; display: block; position: relative; width: 694px; height: 181px;"><a href="admission.php"><img src="img/slides/S2.jpg" alt="Slide2"></a></li>
     		<li style="float: left; display: block; position: relative; width: 694px; height: 181px;"><a href="aboutus-history.php"><img src="img/slides/S3.jpg" alt="Slide3"></a></li>
     		<li style="float: left; display: block; position: relative; width: 694px; height: 181px;"><a href="programme-learning.php"><img src="img/slides/S4.jpg" alt="Slide4"></a></li>
 			<li style="float: left; display: block; position: relative; width: 694px; height: 181px;"><a href="gallery.php"><img src="img/slides/S5.jpg" alt="Slide5"></a></li>
-  		</ul><ul class="slide-navs" style="margin-left: -40px;"><li class="slide-nav-0"><a></a></li><li class="slide-nav-1 current-slide"><a></a></li><li class="slide-nav-2"><a></a></li><li class="slide-nav-3"><a></a></li><li class="slide-nav-4"><a></a></li></ul><a class="prev"></a><a class="next"></a></div>
+  		</ul><ul class="slide-navs" style="margin-left: -40px;"><li class="current-slide slide-nav-0"><a></a></li><li class="slide-nav-1"><a></a></li><li class="slide-nav-2"><a></a></li><li class="slide-nav-3"><a></a></li><li class="slide-nav-4"><a></a></li></ul><a class="prev"></a><a class="next"></a></div>
 	</div>
     
     <!-- PHOTO FRAME (for Mobile Version) -->
@@ -352,7 +352,7 @@
   <div id="NewsTicker">
 
 	<ul id="vertical-ticker" style="overflow: hidden;">
-<li style="margin-top: -121.431px;"><span class="bodytexts">There are no updates at the moment.</span></li>
+<li><span class="bodytexts">There are no updates at the moment.</span></li>
   		 </ul>
 	   <!---------------------------------------newsticker controls---------------------------------------> 
 		<p align="center" style="color: #1E1E1E;">

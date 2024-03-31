@@ -1,0 +1,1387 @@
+<html lang="en" class="hydrated"><head> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Budget 2024</title> <link rel="icon" type="image/png" href="/ResourcePackages/Msf/assets/img/favIco.png"> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&amp;family=Open+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet">  <link href="/ResourcePackages/Msf/assets/css/sgds.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap-icons.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/all.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/sf-bootstrap-conflict.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/jquery-ui.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/swiper-bundle.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/search-result.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/main.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/custom-style.min.css" rel="stylesheet"> <meta property="og:title" content="MSF | Article"><meta property="og:url" content="https://www.msf.gov.sg/media-room/article"><meta property="og:type" content="website"><meta property="og:site_name" content="Ministry of Social and Family Development"><script async="" src="https://buttons-config.sharethis.com/js/648140a26773dd0012e17a9b.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=G-7WBNTH91BT"></script><script async="" src="https://assets.wogaa.sg/snowplow/3.13.1/sp.js"></script><script type="text/javascript">
+function lateLoadChatFile() {      
+  setTimeout(() => {        
+              const bodyTag = document.getElementsByTagName("body")[0];      
+             // Create link element to import chat.css file and append it on the body element        
+             let linkTag = document.createElement("link");
+  linkTag.href = "https://webchat.vica.gov.sg/static/css/chat.css";         linkTag.type = "text/css";
+  linkTag.rel = "stylesheet";       
+  linkTag.referrerPolicy = "origin";      
+  bodyTag.appendChild(linkTag);        
+  // Create script element to import chat.js file and append it on the body element       
+  let scriptTag = document.createElement("script");         scriptTag.src = "https://webchat.vica.gov.sg/static/js/chat.js";         scriptTag.type = "text/javascript";      
+  scriptTag.referrerPolicy = "origin";         
+  scriptTag.defer = true;         
+  bodyTag.appendChild(scriptTag);      
+}, 5000);  
+}
+</script><script type="text/javascript">
+(function() {
+  // add beta text 
+  let timerId = setInterval(function(){
+	if(!document.getElementsByClassName("sc-htpNat")[0]) return;
+	
+	clearInterval(timerId);
+	document.getElementsByClassName("sc-htpNat")[0].addEventListener("click", changeText);
+	document.getElementsByClassName("sc-EHOje")[0].addEventListener("click", changeText);
+  }, 5000);
+  function changeText() {
+	const ele = $("#webchat-container p:contains('Ask MSF')");
+	ele.html("");
+	ele.append("Ask MSF <span style='font-size: 14px !important;position: relative;top: -9px;left: 5px;font-weight: lighter;'>beta</span>");
+  }
+})();
+</script><link rel="canonical" href="https://www.msf.gov.sg/media-room/article"><script async="" src="https://assets.wogaa.sg/scripts/wogaa.js?url=https%3A%2F%2Fwww.msf.gov.sg%2Fmedia-room%2Farticle%2Fbudget-2024%23who-we-are-submenu"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style type="text/css">#st-2 {
+  font-family: "Helvetica Neue", Verdana, Helvetica, Arial, sans-serif;;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  backface-visibility: hidden;
+  display: block;
+  position: fixed;
+  opacity: 1;
+  text-align: left;
+  top: 310px;
+  z-index: 94034;
+}
+#st-2.st-left {
+  left: 0px;
+}
+#st-2.st-hidden.st-left {
+  left: -48px;
+}
+#st-2.st-hidden {
+  width: 96px;
+}
+#st-2.st-preview {
+  display: none!important;
+  opacity: 0!important;
+}
+#st-2 > div {
+  clear: left;
+  float: left;
+}
+#st-2 .st-btn {
+  -moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  height: 48px;
+  line-height: 24px;
+  margin-bottom: 0;
+  opacity: 1;
+  overflow: hidden;
+  padding: 12px;
+  position: relative;
+  text-align: left;
+  top: 0;
+  vertical-align: top;
+  white-space: nowrap;
+  width: 48px;
+}
+#st-2 .st-btn.st-first {
+  border-top: none;
+  border-top-right-radius: 4px;
+}
+#st-2 .st-btn.st-last {
+  border-bottom: none;
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn > svg {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > img {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > span {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  color: #fff;
+  display: inline-block;
+  font-weight: 500;
+  left: -35px;
+  letter-spacing: 0.5px;
+  opacity: 0;
+  padding: 0 6px;
+  position: relative;
+  vertical-align: top;
+  filter: alpha(opacity=0);
+}
+#st-2 .st-btn.st-hide-label > span {
+  display: none !important;
+}
+#st-2 .st-total {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #fff;
+  color: #555;
+  display: inline-block;
+  font-weight: 500;
+  line-height: 18px;
+  margin-right: 0;
+  min-height: 34px;
+  max-width: 80px;
+  opacity: 1;
+  padding: 4px 0;
+  text-align: center;
+  width: 48px;
+}
+#st-2 .st-total.st-hidden {
+  display: none;
+}
+#st-2 .st-total > span {
+  display: block;
+  font-size: 18px;
+  line-height: 21px;
+  padding: 0;
+}
+#st-2 .st-total > span.st-shares {
+  font-size: 11px;
+  line-height: 11px;
+}
+#st-2 .st-toggle {
+  left: -48px;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #ccc;
+  border-bottom-right-radius: 4px;
+  color: white;
+  cursor: pointer;
+  font-size: 24px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: 48px;
+}
+#st-2.st-hidden .st-toggle {
+  border-top-right-radius: 4px;
+}
+#st-2.st-left .st-toggle .st-left {
+  display: inline-block;
+}
+#st-2.st-left.st-hidden .st-toggle .st-left {
+  display: none;
+}
+#st-2.st-left .st-toggle .st-right {
+  display: none;
+}
+#st-2.st-left.st-hidden .st-toggle .st-right {
+  display: inline-block;
+}#st-2:hover .st-toggle {
+  left: 0;
+}
+#st-2.st-hidden:hover .st-toggle {
+  left: 48px;
+}
+#st-2.st-toggleable:hover .st-btn.st-last {
+  border-bottom-right-radius: 0;
+}
+#st-2.st-toggleable:hover .st-btn.st-last:hover {
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn:hover {
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+}
+#st-2.st-has-labels .st-btn:hover {
+  width: 120px;
+}
+#st-2:not(.st-has-labels) .st-btn:hover {
+  width: 62px;
+}
+#st-2 .st-btn.st-hide-label:hover {
+  width: 62px;
+}
+#st-2 .st-btn:hover > svg {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > img {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > span {
+  opacity: 1;
+  display: inline-block;
+  left: 0;
+  filter: alpha(opacity=100);
+}
+@media (max-width: 1024px) {
+  #st-2 .st-btn:hover > svg {
+    margin-left: 0;
+  }
+  #st-2 .st-btn:hover > span {
+    display: none;
+  }
+}@media (max-width: 1024px) {
+  #st-2 {
+  bottom: 0;
+  display: none;
+  left: 0;
+  right: 0;
+  top: auto;
+  width: 100%;
+}
+#st-2.st-hidden {
+  bottom: -48px;
+  width: 100%;
+}
+#st-2.st-hidden.st-left {
+  left: 0;
+}
+#st-2.st-hidden.st-right {
+  right: 0;
+}
+#st-2 > div {
+  -moz-flex: 1;
+  -ms-flex: 1;
+  -webkit-flex: 1;
+  clear: none;
+  flex: 1;
+  float: none;
+}
+#st-2 .st-total {
+  background: #fff;
+  padding: 6px 8px;
+}
+#st-2 .st-btn {
+  -moz-border-radius: 0 !important;
+-webkit-border-radius: 0 !important;
+border-radius: 0 !important;
+  text-align: center;
+  width: auto;
+}
+#st-2 .st-btn > span {
+  display: none;
+}
+#st-2 .st-toggle {
+  display: none;
+}
+}#st-2 .st-btn[data-network='facebook'] {
+  background-color: #4267B2
+}
+#st-2 .st-btn[data-network='facebook'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='facebook'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='linkedin'] {
+  background-color: #0077b5
+}
+#st-2 .st-btn[data-network='linkedin'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='linkedin'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='gmail'] {
+  background-color: #D44638
+}
+#st-2 .st-btn[data-network='gmail'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='gmail'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='copy'] {
+  background-color: #14682B
+}
+#st-2 .st-btn[data-network='copy'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='copy'] > span {
+  color: #fff
+}#st-2 .st-btn[data-network='snapchat'] > span {
+  color: #333};
+}#st-2 .st-btn[data-network='copy']:hover {
+  width: max-content;
+}</style><script type="module" src="https://assets.wogaa.sg/sentiments/sentiments.esm.js" async=""></script><script nomodule="" src="https://assets.wogaa.sg/sentiments/sentiments.js" async=""></script><style data-styled="" data-styled-version="4.4.1"></style><style type="text/css">.transform-component-module_wrapper__7HFJe {
+  position: relative;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  overflow: hidden;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none;
+  margin: 0;
+  padding: 0;
+}
+.transform-component-module_content__uCDPE {
+  display: flex;
+  flex-wrap: wrap;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  margin: 0;
+  padding: 0;
+  transform-origin: 0% 0%;
+}
+.transform-component-module_content__uCDPE img {
+  pointer-events: none;
+}
+</style><style data-jss="" data-meta="MuiSvgIcon">
+.webchat-MuiSvgIcon-root {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+.webchat-MuiSvgIcon-colorPrimary {
+  color: #3f51b5;
+}
+.webchat-MuiSvgIcon-colorSecondary {
+  color: #f50057;
+}
+.webchat-MuiSvgIcon-colorAction {
+  color: rgba(0, 0, 0, 0.54);
+}
+.webchat-MuiSvgIcon-colorError {
+  color: #f44336;
+}
+.webchat-MuiSvgIcon-colorDisabled {
+  color: rgba(0, 0, 0, 0.26);
+}
+.webchat-MuiSvgIcon-fontSizeInherit {
+  font-size: inherit;
+}
+.webchat-MuiSvgIcon-fontSizeSmall {
+  font-size: 1.25rem;
+}
+.webchat-MuiSvgIcon-fontSizeLarge {
+  font-size: 2.1875rem;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss1 {
+  padding-bottom: 16px;
+}
+.webchat-jss2 {
+  font-weight: bold;
+}
+.webchat-jss3 {
+  padding: 8px;
+  text-align: center;
+}
+.webchat-jss4 {
+  color: rgba(52, 52, 52, 0.8);
+}
+.webchat-jss5 {
+  color: #FFF;
+  padding: 8px 135px !important;
+  border-radius: 5px !important;
+  margin-bottom: 10px;
+}
+.webchat-jss6 {
+  color: #000000 !important;
+  border: 1px solid rgba(52, 52, 52, 0.8);
+  padding: 7px 135px !important;
+  margin-left: 0px !important;
+  border-radius: 5px !important;
+}
+.webchat-jss7 {
+  display: grid !important;
+}
+</style><style data-jss="" data-meta="makeStyles">
+</style><style data-jss="" data-meta="MuiDialog">
+@media print {
+  .webchat-MuiDialog-root {
+    position: absolute !important;
+  }
+}
+.webchat-MuiDialog-scrollPaper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.webchat-MuiDialog-scrollBody {
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: center;
+}
+.webchat-MuiDialog-scrollBody:after {
+  width: 0;
+  height: 100%;
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+}
+.webchat-MuiDialog-container {
+  height: 100%;
+  outline: 0;
+}
+@media print {
+  .webchat-MuiDialog-container {
+    height: auto;
+  }
+}
+.webchat-MuiDialog-paper {
+  margin: 32px;
+  position: relative;
+  overflow-y: auto;
+}
+@media print {
+  .webchat-MuiDialog-paper {
+    box-shadow: none;
+    overflow-y: visible;
+  }
+}
+.webchat-MuiDialog-paperScrollPaper {
+  display: flex;
+  max-height: calc(100% - 64px);
+  flex-direction: column;
+}
+.webchat-MuiDialog-paperScrollBody {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+.webchat-MuiDialog-paperWidthFalse {
+  max-width: calc(100% - 64px);
+}
+.webchat-MuiDialog-paperWidthXs {
+  max-width: 444px;
+}
+@media (max-width:507.95px) {
+  .webchat-MuiDialog-paperWidthXs.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthSm {
+  max-width: 600px;
+}
+@media (max-width:663.95px) {
+  .webchat-MuiDialog-paperWidthSm.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthMd {
+  max-width: 960px;
+}
+@media (max-width:1023.95px) {
+  .webchat-MuiDialog-paperWidthMd.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthLg {
+  max-width: 1280px;
+}
+@media (max-width:1343.95px) {
+  .webchat-MuiDialog-paperWidthLg.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthXl {
+  max-width: 1920px;
+}
+@media (max-width:1983.95px) {
+  .webchat-MuiDialog-paperWidthXl.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperFullWidth {
+  width: calc(100% - 64px);
+}
+.webchat-MuiDialog-paperFullScreen {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  max-width: 100%;
+  max-height: none;
+  border-radius: 0;
+}
+.webchat-MuiDialog-paperFullScreen.webchat-MuiDialog-paperScrollBody {
+  margin: 0;
+  max-width: 100%;
+}
+</style><style data-jss="" data-meta="MuiDialog">
+@media print {
+  .webchat-MuiDialog-root {
+    position: absolute !important;
+  }
+}
+.webchat-MuiDialog-scrollPaper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.webchat-MuiDialog-scrollBody {
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: center;
+}
+.webchat-MuiDialog-scrollBody:after {
+  width: 0;
+  height: 100%;
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+}
+.webchat-MuiDialog-container {
+  height: 100%;
+  outline: 0;
+}
+@media print {
+  .webchat-MuiDialog-container {
+    height: auto;
+  }
+}
+.webchat-MuiDialog-paper {
+  margin: 32px;
+  position: relative;
+  overflow-y: auto;
+}
+@media print {
+  .webchat-MuiDialog-paper {
+    box-shadow: none;
+    overflow-y: visible;
+  }
+}
+.webchat-MuiDialog-paperScrollPaper {
+  display: flex;
+  max-height: calc(100% - 64px);
+  flex-direction: column;
+}
+.webchat-MuiDialog-paperScrollBody {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+.webchat-MuiDialog-paperWidthFalse {
+  max-width: calc(100% - 64px);
+}
+.webchat-MuiDialog-paperWidthXs {
+  max-width: 444px;
+}
+@media (max-width:507.95px) {
+  .webchat-MuiDialog-paperWidthXs.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthSm {
+  max-width: 600px;
+}
+@media (max-width:663.95px) {
+  .webchat-MuiDialog-paperWidthSm.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthMd {
+  max-width: 960px;
+}
+@media (max-width:1023.95px) {
+  .webchat-MuiDialog-paperWidthMd.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthLg {
+  max-width: 1280px;
+}
+@media (max-width:1343.95px) {
+  .webchat-MuiDialog-paperWidthLg.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthXl {
+  max-width: 1920px;
+}
+@media (max-width:1983.95px) {
+  .webchat-MuiDialog-paperWidthXl.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperFullWidth {
+  width: calc(100% - 64px);
+}
+.webchat-MuiDialog-paperFullScreen {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  max-width: 100%;
+  max-height: none;
+  border-radius: 0;
+}
+.webchat-MuiDialog-paperFullScreen.webchat-MuiDialog-paperScrollBody {
+  margin: 0;
+  max-width: 100%;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss26 {
+  position: fixed;
+}
+.webchat-jss27 {
+  padding: 8px 24px 24px 24px;
+  justify-content: center;
+}
+.webchat-jss28 {
+  color: #fff;
+  padding: 8px 16px;
+  font-weight: 500;
+  white-space: nowrap;
+  border-radius: 0;
+  background-color: rgb(0, 0, 0, 0.9);
+}
+.webchat-jss28:hover {
+  background-color: rgb(0, 0, 0, 0.9);
+}
+.webchat-jss29 {
+  position: absolute;
+  background: #C4C4C4;
+}
+</style><style data-jss="" data-meta="makeStyles">
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss31 {
+  color: #525252;
+  cursor: pointer;
+  font-size: 24px;
+}
+.webchat-jss32 {
+  color: #71839B;
+  display: flex;
+  margin-left: 8px;
+  justify-content: center;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss33 {
+  cursor: pointer;
+  margin: 11px;
+  display: inherit;
+  font-size: 20px;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss34 {
+  top: 70px !important;
+}
+.webchat-jss34 .webchat-MuiDialog-container {
+  align-items: flex-start;
+}
+.webchat-jss34 .webchat-MuiDialog-paper {
+  width: 100%;
+  margin: 0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 0px 0px 27.9717px 27.9717px;
+}
+.webchat-jss34 .webchat-MuiBackdrop-root {
+  opacity: 0.9 !important;
+  position: absolute;
+  background: #C4C4C4;
+}
+.webchat-jss35 .webchat-MuiRating-iconEmpty {
+  all: revert;
+}
+.webchat-jss35 .webchat-MuiRating-iconFilled {
+  all: revert;
+}
+.webchat-jss35 .webchat-MuiRating-iconHover {
+  all: revert;
+}
+.webchat-jss35 .webchat-MuiRating-iconFocus {
+  all: revert;
+}
+.webchat-jss35 .webchat-MuiRating-label {
+  all: revert;
+}
+.webchat-jss35 .webchat-MuiRating-icon {
+  cursor: pointer;
+}
+.webchat-jss36 .webchat-MuiCheckbox-root {
+  padding: 0 9px;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss37 {
+  top: 70px !important;
+}
+.webchat-jss37 .webchat-MuiDialog-container {
+  align-items: flex-start;
+}
+.webchat-jss37 .webchat-MuiDialog-paper {
+  width: 480px;
+  margin: 0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 0px 0px 27.9717px 27.9717px;
+}
+.webchat-jss37 .webchat-MuiBackdrop-root {
+  opacity: 0.9 !important;
+  position: absolute;
+  background: #C4C4C4;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss16 {
+  padding-bottom: 16px;
+}
+.webchat-jss17 {
+  padding-bottom: 8px;
+}
+.webchat-jss18 {
+  font-size: 40px;
+  font-weight: bold;
+}
+.webchat-jss19 {
+  font-weight: bold;
+}
+.webchat-jss20 {
+  padding: 8px;
+  text-align: center;
+}
+.webchat-jss21 {
+  color: rgba(0,0,0,.8);
+}
+.webchat-jss22 {
+  color: #FFF;
+}
+</style><style data-jss="" data-meta="makeStyles">
+</style></head> <body onload="lateLoadChatFile();"> 
+
+<div id="webchat" app-id="msf-askmsf" app-name="Ask MSF" app-font-family="Arial" app-base-font-size="16" app-icon="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" app-welcome-message="Have a question? Type to get quick answers." app-color="#DE7C00" app-foreground-color1="#FFFFFF" app-bot-response-trigger-event="true" app-quick-launch-event="welcome" app-enable-auto-complete="false" app-auto-complete-background-color="#FFEDD7" app-auto-complete-foreground-color="#2E2E2E" app-auto-complete-hover-color="#FFCA88" app-auto-complete-divider-color="#DE7C00"><div id="webchat-container"><div hidden="" class="sc-bdVaJa jMXAih"><div class="sc-bxivhb dLToUC"><div class="sc-EHOje hclKXJ">Have a question? Type to get quick answers.</div><div class="sc-ifAKCX eKcIYA"><svg class="webchat-MuiSvgIcon-root webchat-MuiSvgIcon-fontSizeInherit" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg></div></div><div class="sc-bwzfXH cRwaRu"><img alt="Bot Launcher" src="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" class="sc-htpNat iUqtne"></div></div><div id="CONVERSATION_HISTORY" class="sc-bZQynM bUYapP"><div class="sc-gzVnrw iYOdXe"><div class="sc-kGXeez bXodlH"><div class="sc-hMqMXs cUSjvS"><img alt="Bot Avatar" src="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" class="sc-kEYyzF kBcwrJ"></div><div class="sc-kpOJdX fsRsZT"><div><p class="sc-dxgOiQ huycWp">Ask MSF<sup class="sc-jKJlTe kHLZjH"></sup></p></div></div><div class="sc-eNQAEJ iszuFG"><svg class="webchat-MuiSvgIcon-root sc-kkGfuU cXWniZ webchat-MuiSvgIcon-fontSizeLarge" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 19h12v2H6z"></path></svg><svg class="webchat-MuiSvgIcon-root sc-hSdWYo geAxMI webchat-MuiSvgIcon-fontSizeLarge" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg></div></div><div class="sc-htoDjs fdzlVl"><div class="sc-hzNEM iJPJsy"><div class="sc-iBEsjs dsWovi"><div direction="row" class="sc-kZmsYB jRrbZy"><div class="sc-etwtAo CZwOx"><div class="sc-jXQZqI fSjheH"><div class="sc-iGPElx cJvfOK"><span class="sc-jzgbtB ckVRHH"><div class="sc-gJWqzi lmuaok"><p>Hi there! I am MSF’s virtual assistant and I am here to assist you in finding the information you need relating to MSF. <br><br><!--StartFragment-->I am always learning and improving my responses based on your feedback. To get started, just let me know what you need help with.&nbsp;<!--EndFragment--></p><!--StartFragment--><span style="color: #000000; font-family: sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">You can just type your question in simple and short sentences e.g. “How to contact MSF?”</span><!--EndFragment--></div><div class="sc-caSCKo hHPqsw"><div class="sc-gisBJw gLsDm">Responses translated by Google may have inaccuracies.</div><div class="sc-kjoXOD dzjkCq"><div class="sc-cHGsZl kaAZoK"><div class="sc-TOsTZ ivLnfU"><div class="sc-kgAjT gGxlWQ"><svg width="16" height="16" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_721_1453)"><path d="M10.5 2H5.5L5 0.5H1.5C0.95 0.5 0.5 0.95 0.5 1.5V9C0.5 9.55 0.95 10 1.5 10H5.5L6 11.5H10.5C11.05 11.5 11.5 11.05 11.5 10.5V3C11.5 2.45 11.05 2 10.5 2ZM3.5 8C2.12 8 1 6.88 1 5.5C1 4.12 2.12 3 3.5 3C4.175 3 4.74 3.25 5.175 3.65L4.515 4.285C4.325 4.105 3.995 3.895 3.5 3.895C2.63 3.895 1.925 4.615 1.925 5.5C1.925 6.385 2.63 7.105 3.5 7.105C4.505 7.105 4.92 6.385 4.96 5.9H3.5V5.045H5.84C5.875 5.2 5.9 5.35 5.9 5.555C5.9 6.985 4.945 8 3.5 8ZM6.585 5.29H8.435C8.22 5.915 7.88 6.505 7.41 7.025C7.255 6.85 7.11 6.665 6.98 6.475L6.585 5.29ZM10.75 10.25C10.75 10.525 10.525 10.75 10.25 10.75H7L8 9.5L7.48 7.95L9.03 9.5L9.49 9.04L7.84 7.415L7.85 7.405C8.415 6.78 8.815 6.06 9.05 5.295H10V4.645H7.735V4H7.09V4.645H6.37L5.73 2.75H10.25C10.525 2.75 10.75 2.975 10.75 3.25V10.25Z" fill="#525252"></path></g><defs><clipPath id="clip0_721_1453"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg><div class="sc-cJSrbW fvKqhe">English</div></div><svg class="webchat-MuiSvgIcon-root webchat-jss31" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10l5 5 5-5z"></path></svg></div></div></div></div></span></div><div class="sc-iSDuPN jIWVmM"><div class="sc-fZwumE dSYoys"><div class="sc-fQejPQ gqIrt"><svg class="webchat-MuiSvgIcon-root webchat-jss33" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M1 21h4V9H1v12zm22-11c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2z"></path></svg></div><div class="sc-clNaTc fSuVUf"><svg class="webchat-MuiSvgIcon-root webchat-jss33" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 3H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 23l6.59-6.59c.36-.36.58-.86.58-1.41V5c0-1.1-.9-2-2-2zm4 0v12h4V3h-4z"></path></svg></div></div></div><span class="sc-kQsIoO dZnBAX">08:49PM</span></div></div></div></div></div><div></div><div class="sc-gRnDUn krvyDw"><div class="sc-cmjSyW iMeDHB"><textarea rows="1" placeholder="Type your message here" maxlength="256" class="sc-sdtwF iouGVL"></textarea><div class="sc-iYUSvU cEBTCY"><svg class="webchat-MuiSvgIcon-root webchat-MuiSvgIcon-fontSizeSmall" focusable="false" viewBox="0 0 24 24" color="white" aria-hidden="true"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"></path></svg></div></div></div><div class="sc-cHSUfg gLFROa"><div class="sc-cTjmhe lgnDCZ"><div class="sc-chPdSV ibuApO"><div class="sc-gbOuXE iwUbZr"><svg class="webchat-MuiSvgIcon-root sc-fnwBNb gIIPPo" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z"></path></svg></div></div><div class="sc-kgoBCf rrgSt">Rate chat</div><div class="sc-bfYoXt nJJal"></div><div class="sc-chPdSV ibuApO"><div class="sc-gbOuXE iwUbZr"><svg class="webchat-MuiSvgIcon-root sc-iNhVCk oVQZA" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 16.5l4-4h-3v-9h-2v9H8l4 4zm9-13h-6v1.99h6v14.03H3V5.49h6V3.5H3c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2v-14c0-1.1-.9-2-2-2z"></path></svg></div></div><div class="sc-kgoBCf fRMZfJ">Download Transcript</div></div><div class="sc-cugefK iGCNkx">POWERED BY GOVTECH</div></div></div></div><div></div></div></div></div>
+
+
+<div class="announcements-bar">
+    <div class="container-fluid">
+        <div class="row g-0 position-relative align-items-center">
+            <div class="col">
+                <div class="swiper announcementSwiper">
+                    <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <p>Have a question about MSF? Find quick answers with our chatbot Ask MSF.<!--EndFragment--></p>
+                            </div>
+                                                                                                                    </div>
+                </div>
+            </div>
+            <div class="col-auto align-self-start">
+                <div class="announcements-close">
+                    <button class="btn-close btn-ann-close btn-close-white" aria-label="Close"></button>
+                </div>
+            </div>
+        </div>
+        <div class="row g-0 position-relative">
+            <div class="col-12 col-md-auto buttons-align">
+                <div class="announcements-buttons">
+                    <div class="announcements-swiper-button swiper-button-prev">
+                        <em class="fa-solid fa-chevron-left"></em>
+                    </div>
+                    <div class="announcements-pagination"></div>
+                    <div class="announcements-swiper-button swiper-button-next">
+                        <em class="fa-solid fa-chevron-right"></em>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+ <sgds-masthead fluid="" class="sgds-masthead-class"></sgds-masthead> 
+<div class="layout-subsite">
+    <div id="Content_T7AD4A7CC001_Col00" class="sf_colsIn" data-sf-element="Navigation" data-placeholder-label="Navigation">
+
+<header>
+    <nav class="sgds navbar navbar-expand-xl main-navbar">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/" aria-label="home page">
+                <img src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69" title="MSF logo">
+            </a>
+
+            <button class="btn btn-nav-search px-24 ms-auto d-block d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#searchbarCollapse" aria-expanded="false" aria-controls="searchbarCollapse" aria-label="search icon">
+                <em class="fa-solid fa-search"></em>
+            </button>
+
+            <div class="collapse" id="searchbarCollapse">
+                <div class="container-fluid p-0 px-12">
+                    <div class="nav-searchbar">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Search our website" id="navSearchBarSearchInput" data-search="navSearchBarSearchInput">
+                            <button class="btn btn-search" type="button" id="navSearchBarBtnSearch" aria-label="search">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <span>Search</span>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Menu">
+                Menu
+            </button>
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <img class="offcanvas-header-logo" src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69">
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+
+                <div class="offcanvas-searchbar">
+                    <div class="sgds form-group">
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="defaultWith" aria-describedby="defaultWith" placeholder="Search our website">
+                            <button class="btn btn-offcanvas-search" type="button">
+                                <em class="fa-solid fa-search form-control-icon"></em>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav d-flex d-xl-none">
+                        <li class="nav-item">
+                            <a href="/" class="nav-link submenu-link" data-bs-dismiss="offcanvas" aria-current="page" aria-label="Home"><span>Home</span></a>
+                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#who-we-are-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#what-we-do-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#our-services-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#research-data-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#join-us-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+
+                    <div class="d-block d-xl-none">
+                                <div class="collapse collapse-horizontal submenu" id="who-we-are-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#who-we-are-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Who We Are</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/mission-values" class="nav-link sgds" aria-label="Mission &amp; Values"><span class="nav-link-text"><span>Mission &amp; Values</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/organisation-chart" class="nav-link sgds" aria-label="Organisation Chart"><span class="nav-link-text"><span>Organisation Chart</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/agencies-statutory-boards-councils" class="nav-link sgds" aria-label="Agencies, Statutory Boards &amp; Councils"><span class="nav-link-text"><span>Agencies, Statutory Boards &amp; Councils</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/senior-management-team" class="nav-link sgds" aria-label="Senior Management Team"><span class="nav-link-text"><span>Senior Management Team</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="what-we-do-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#what-we-do-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>What We Do</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/help-those-in-need" class="nav-link sgds" aria-label="Help Those in Need"><span class="nav-link-text"><span>Help Those in Need</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/support-families-and-parents" class="nav-link sgds" aria-label="Support Families &amp; Parents"><span class="nav-link-text"><span>Support Families &amp; Parents</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/strengthen-the-social-service-sector" class="nav-link sgds" aria-label="Strengthen the Social Service Sector"><span class="nav-link-text"><span>Strengthen the Social Service Sector</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="our-services-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#our-services-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Our Services</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/our-services/directories" class="nav-link sgds" aria-label="Directories"><span class="nav-link-text"><span>Directories</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/our-services/e-services" class="nav-link sgds" aria-label="E-Services"><span class="nav-link-text"><span>E-Services</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="research-data-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#research-data-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Research &amp; Data</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-reports-data" class="nav-link sgds" aria-label="Research Report &amp; Data"><span class="nav-link-text"><span>Research Report &amp; Data</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-grants" class="nav-link sgds" aria-label="Research Grants"><span class="nav-link-text"><span>Research Grants</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/Research-Conferences-Forums-Networks" class="nav-link sgds" aria-label="Research Conferences, Forums &amp; Networks"><span class="nav-link-text"><span>Research Conferences, Forums &amp; Networks</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="join-us-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#join-us-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Join Us</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/join-us/volunteer-with-msfcare-network" class="nav-link sgds" aria-label="Volunteer with MSFCare Network"><span class="nav-link-text"><span>Volunteer with MSFCare Network</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/jobs-careers" class="nav-link sgds" aria-label="Jobs &amp; Careers"><span class="nav-link-text"><span>Jobs &amp; Careers</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/scholarships-internships" class="nav-link sgds" aria-label="Scholarships &amp; Internships"><span class="nav-link-text"><span>Scholarships &amp; Internships</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                    </div>
+
+                    <ul class="navbar-nav justify-content-end flex-grow-1 d-none d-xl-flex">
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/mission-values" aria-label="Mission &amp; Values">
+                                                            Mission &amp; Values
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/organisation-chart" aria-label="Organisation Chart">
+                                                            Organisation Chart
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/agencies-statutory-boards-councils" aria-label="Agencies, Statutory Boards &amp; Councils">
+                                                            Agencies, Statutory Boards &amp; Councils
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/senior-management-team" aria-label="Senior Management Team">
+                                                            Senior Management Team
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/help-those-in-need" aria-label="Help Those in Need">
+                                                            Help Those in Need
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/support-families-and-parents" aria-label="Support Families &amp; Parents">
+                                                            Support Families &amp; Parents
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/strengthen-the-social-service-sector" aria-label="Strengthen the Social Service Sector">
+                                                            Strengthen the Social Service Sector
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/directories" aria-label="Directories">
+                                                            Directories
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/e-services" aria-label="E-Services">
+                                                            E-Services
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-reports-data" aria-label="Research Report &amp; Data">
+                                                            Research Report &amp; Data
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-grants" aria-label="Research Grants">
+                                                            Research Grants
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/Research-Conferences-Forums-Networks" aria-label="Research Conferences, Forums &amp; Networks">
+                                                            Research Conferences, Forums &amp; Networks
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/volunteer-with-msfcare-network" aria-label="Volunteer with MSFCare Network">
+                                                            Volunteer with MSFCare Network
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/jobs-careers" aria-label="Jobs &amp; Careers">
+                                                            Jobs &amp; Careers
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/scholarships-internships" aria-label="Scholarships &amp; Internships">
+                                                            Scholarships &amp; Internships
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+<!-- prettier-ignore -->
+<div class="container-fluid">
+    <nav aria-label="breadcrumb" class="breadcrump-wrapper">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>
+                        <a href="/media-room" aria-label="Media Room">Media Room</a>
+                    </li>
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>Article
+                    </li>
+        </ol>
+        <div class="breadcrumb-mobile">
+            <a href="/" aria-label="Home">
+                <em class="fa-solid fa-chevron-left"></em>
+                <span>Home</span>
+            </a>
+        </div>
+    </nav>
+</div>
+
+
+
+
+<link href="/ResourcePackages/Msf/assets/css/language-bar.min.css" rel="stylesheet" type="text/css">
+
+
+    </div>
+    <div id="Content_T7AD4A7CC001_Col01" class="sf_colsIn" data-sf-element="Content" data-placeholder-label="Content"><div id="Content_C005_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+    <script src="/ResourcePackages/Msf/assets/js/jquery.min.js"></script>
+
+
+<section class="mediaroom-article">
+    <div class="container-fluid">
+        <h1>Budget 2024</h1>
+
+        <div class="article-details">
+            <div class="article-detail">
+                <div class="article-type">
+                    <p>
+                        Type:
+                                        <a href="/media-room/GetFilteredCategory" target="_blank" rel="noopener" class="article-type" onclick="getCategory('&quot;Announcements&quot;')" aria-label="Announcements">Announcements</a>
+
+                    </p>
+
+                </div>
+                <div class="article-topic">
+                    <p>
+                        Topic(s):
+                                        <a href="/media-room/GetFilteredTopics" target="_blank" rel="noopener" class="article-topics" onclick="getTopics('&quot;Committee of Supply&quot;')" aria-label="Committee of Supply">Committee of Supply</a>
+
+                    </p>
+
+                </div>
+                <div class="article-date">
+                    <p>Published on 06 March 2024</p>
+                </div>
+                <hr>
+                <div class="article-content">
+                    <div class="clear" bis_skin_checked="1"><div class="content" bis_skin_checked="1"><p style="text-align:center;"><img src="https://www.msf.gov.sg/images/default-source/budget_page/cos-website-banner.jpg?sfvrsn=1178ada8_9" alt="" sf-size="440890"></p></div><h4><strong><br>Empowering Families with Opportunities for All</strong></h4><p>Building on ForwardSG to refresh our social compact, the Ministry of Social and Family Development (MSF) will work with Singaporeans and the community to better support and strengthen our families. This is part of our commitment to build a Singapore
+        Made for Families - where all families, especially lower-income families, are empowered to fulfill their aspirations and achieve stability, self-reliance and social mobility.</p><p>At the Committee of Supply 2024 debate, MSF shared about three key shifts: </p><ol><li>Moving towards a whole-of-society support for families;</li><li>Going beyond assistance to empowerment; and</li><li>Building a strong social service ecosystem.</li></ol><br><h4>Find out more about how you can benefit here.</h4><table><tbody><tr style="height:100%;"><td style="width:25%;"><a href="https://www.msf.gov.sg/images/default-source/budget_page/cos2024-supporting-parents-and-parents-to-be.jpg?sfvrsn=7ce9e0cb_4" target="_blank"><img src="https://www.msf.gov.sg/images/default-source/budget_page/cos2024-supporting-parents-and-parents-to-be.jpg?sfvrsn=7ce9e0cb_4" alt="COS 2024 - Supporting Parents and Parents-to-be" sf-size="1896323"></a></td><td style="width:25%;"><a href="https://www.msf.gov.sg/images/default-source/budget_page/cos-2024---uplifting-lower-income-families.jpg?sfvrsn=24c8c3ec_4" target="_blank"><img src="https://www.msf.gov.sg/images/default-source/budget_page/cos-2024---uplifting-lower-income-families.jpg?sfvrsn=24c8c3ec_4" alt="COS 2024 - Uplifting Lower-income Families" sf-size="2107661"></a></td><td style="width:25%;"><a href="https://www.msf.gov.sg/images/default-source/budget_page/cos-2024---enabling-persons-with-disabilities-to-live-and-work-in-the-community.jpg?sfvrsn=b291fb8b_4" target="_blank"><img src="https://www.msf.gov.sg/images/default-source/budget_page/cos-2024---enabling-persons-with-disabilities-to-live-and-work-in-the-community.jpg?sfvrsn=b291fb8b_4" alt="COS 2024 - Enabling Persons with Disabilities to Live and Work in the Community" sf-size="2082077"></a></td><td style="width:25%;"><a href="https://www.msf.gov.sg/images/default-source/budget_page/cos-2024---supporting-our-social-service-agencies-and-professionals.jpg?sfvrsn=47cfbb78_4" target="_blank"><img src="https://www.msf.gov.sg/images/default-source/budget_page/cos-2024---supporting-our-social-service-agencies-and-professionals.jpg?sfvrsn=47cfbb78_4" alt="COS 2024 - Supporting our Social Service Agencies and Professionals" sf-size="1598771"></a></td></tr></tbody></table><p style="text-align:center;"><br>Click on the images to view each infographic in full</p></div><br><div class="tab-content" id="whyJoinTab"><div class="tab-pane fade show active" id="lifeAtMsf-tab-pane" role="tabpanel" aria-labelledby="lifeAtMsf-tab" tabindex="0"><div class="accordion" id="lifeAtMsfAccordion"><div class="accordion-item"><h2 class="accordion-header" id="careerDevelopmentHeading"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#careerDevelopmentCollapse" aria-expanded="true" aria-controls="careerDevelopmentCollapse">Support for Parents and Families</button></h2><div id="careerDevelopmentCollapse" class="accordion-collapse collapse show" aria-labelledby="careerDevelopmentHeading" data-bs-parent="#lifeAtMsfAccordion"><div class="accordion-body"><p><span style="text-decoration:underline;"><strong>Strengthening Families</strong></span></p><ul><li><strong>[By end 2024] Families for Life @ Community (FFLC) initiative to  be expanded from 9 to 18 towns</strong>
+ <ul><li>More families will benefit from Families for Life (FFL) marriage and parenting programmes, support and resources</li><li>Visit <a href="https://familiesforlife.sg/pages/article/families-for-life-community" target="_blank">familiesforlife.sg/pages/article/families-for-life-community</a> for FFLC locations</li></ul></li></ul><ul><li><strong>[25 May - 30 Jun 2024] National Family Festival 2024</strong>
+ <ul><li>Wide range of exciting activities and programmes for families across Home, Play and Work pillars</li><li>Visit <a href="http://familiesforlife.sg" target="_blank">familiesforlife.sg</a> for updates</li></ul></li></ul><p><span style="text-decoration:underline;"><strong><br>Additional Caregiving Options</strong></span></p><ul><li><strong>[2H 2024] Launch of a three-year infant childminding  pilot</strong>
+ <ul><li>At childminder's home or at community centres/clubs, up to three infants per childminder</li><li>Out-of-pocket expenses will be around $700/month, similar to what a median-income family pays for full-day infant care at Anchor Operators</li><li>Parents can also tap on the Child Development Account to further defray expenses</li><li>ECDA will engage parents and stakeholders before launch</li></ul></li></ul><br><p><span style="text-decoration:underline;"><strong>Greater Preschool Affordability</strong></span></p><ul><li><strong>[By 2025] 80% of preschoolers can have a place in Government-supported preschools</strong>
+ <ul><li>Up from over 65% today</li></ul></li></ul><ul><li><strong>[In 2025] Full-day childcare fee caps for Anchor Operator (AOP) and Partner Operator (POP) centres will be lowered</strong> by $40, to $640 and $680 per month respectively (before GST)
+                                <ul><li>With existing basic and means-tested subsidies, monthly out-of-pocket fees will be between $3 and $441 (See Tables 1 and 2 for details)</li><li>The fee caps will be lowered further in 2026, so dual-income families with a child in AOP full-day childcare will pay around the equivalent of primary school and student care fees</li></ul></li></ul><p><strong>Table 1: Full-day childcare expenses at an AOP centre with a revised fee cap of $640 ($698 after GST)</strong><br><img src="https://www.msf.gov.sg/images/default-source/budget_page/support-for-parents-and-families---table-1.jpg?sfvrsn=c54a03ad_1" alt="Support for Parents and Families - Table 1" sf-size="100"></p><p><strong>Table 2: Full-day childcare expenses at a POP centre with a revised fee cap of $680 ($741 after GST)</strong><br><img src="https://www.msf.gov.sg/images/default-source/budget_page/support-for-parents-and-families---table-2.jpg?sfvrsn=23f0163c_1" alt="Support for Parents and Families - Table 2" sf-size="100"></p><p>2026 fee caps and expected savings for families will be disclosed closer to 2026.</p><br><p><strong><span style="text-decoration:underline;">Strengthening Early Intervention and Special Education Support</span></strong></p><ul><li><strong>[2H 2024] New EIPIC-Care pilot</strong> to equip caregivers to provide first line of early intervention (EI) support
+                                <ul><li><span style="background-color:transparent;color:inherit;font-family:inherit;text-align:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;font-size:inherit;">During the 6-month programme, caregivers of children age 2 to 3 with developmental needs will be equipped with the skills to provide EI support at home.</span><br></li></ul></li></ul><ul><li><strong>[By end 2024] 1,500 new places</strong>&nbsp;in government-supported EI centres</li></ul><ul><li><strong>[July 2024] Special Student Care Centres (SSCC) fee caps</strong> will be lowered
+                                <ul><li>Reduction of out-of-pocket fees for middle-income families by up to 40% (See Table 3 for details)</li><li>About 100 families per year will benefit</li></ul></li></ul><p><strong><br>Table 3: Revision to fee caps for SSCC services</strong><br><img src="https://www.msf.gov.sg/images/default-source/404-error/support-for-parents-and-families---table-3.jpg?sfvrsn=d999c413_1" alt="Support for Parents and Families - Table 3" sf-size="100"></p></div></div></div><div class="accordion-item"><h2 class="accordion-header" id="inclusiveHeading"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#inclusiveCollapse" aria-expanded="false" aria-controls="inclusiveCollapse">Support for Lower-income Families</button></h2><div id="inclusiveCollapse" class="accordion-collapse collapse" aria-labelledby="inclusiveHeading" data-bs-parent="#lifeAtMsfAccordion"><div class="accordion-body"><p><span style="text-decoration:underline;"><strong>Greater Affordability of Preschool</strong></span></p><ul><li><strong>[Q4 2024] All lower-income families will qualify for the maximum amount of childcare subsidies for their income tier</strong>
+ <ul><li>For families with gross monthly household income of $6,000 and below (See Table 4 for details)</li><li>Up to 17,000 additional children could benefit</li></ul></li></ul><p><strong>Table 4: Full-day childcare expenses at an Anchor Operator (AOP) centre with enhanced preschool subsidies for lower-income families</strong><br><img src="https://www.msf.gov.sg/images/default-source/budget_page/support-for-lower-income-families---table-4.jpg?sfvrsn=22c8991a_1" alt="Support for Lower-income Families - Table 4" sf-size="100"><em></em><em>*Fees will be lower as full-day childcare fees will be lowered from 1 Jan 2025.</em><br></p><p><strong><span style="text-decoration:underline;">Support for Preschool Enrolment and Attendance</span></strong></p><ul><li><strong>[Q3 2024] Expansion of Preschool Outreach Programme to more children from lower-income families</strong>
+ <ul><li>Encourage and facilitate children's preschool enrolment by age 3</li><li>Aim to reach out to over 2,000 children every year</li></ul></li></ul><ul><li><strong>[2H 2024] Under the ComLink+ Package for Preschool,&nbsp; ComLink+ families can receive up to $3,700 in Child Development Account (CDA) top-ups for each child</strong>
+ <ul><li>Singaporean children in ComLink+ families who were born in 2021 or later are eligible</li><li>The top-ups are funded by a donor and are as follows:
+                                        <ul><li>One-time top-up of $500 for each child who is enrolled in preschool in the year the child turns 3</li><li>$200 top-up every quarter, for each child aged 3 to 6 years old who attends preschool for at least 75% of the school days</li></ul></li><li>Government will match these donor top-ups as part of the Baby Bonus Scheme
+                                        <ul><li>This means each child can start primary school with up to an additional $7,400 in their CDA</li></ul></li><li>Family coaches will continue to provide direct support to families e.g. by guiding them through the preschool enrolment process</li></ul></li><br><li><strong>[2Q 2024] Additional resourcing to selected AOP preschools to strengthen preschool attendance and learning support for children from lower-income families</strong>
+ <ul><li>For example, preschools can work with parents to address challenges in sending their child to preschool regularly and provide more targeted learning support to children in areas like literacy, numeracy or social emotional
+                                        development
+                                    </li><li>Close to 2,000 children in AOPs will benefit over the next three years</li></ul></li><br><li><strong>[2Q 2024] Increased access to FFL parenting programmes and resources for lower-income parents with children in AOP preschools</strong>
+ <ul><li>Customised delivery of FFL parenting programmes and additional support to facilitate attendance to equip lower-income parents with skills</li><li>Aim to reach 50% of lower-income families in AOP preschools by 2027</li></ul></li></ul><br><p><strong><span style="text-decoration:underline;">Expansion of ComLink+</span></strong></p><ul><li><strong>[From Mar 2024] Extension of ComLink+ to more lower-income families with children</strong>
+ <ul><li>Extending ComLink+ support to around 3,000 families not residing in public rental flats, that are eligible for UPLIFT Community Network (UCN) or KidSTART, over the next few years</li><li>Actively recruiting 200 more family coaches to better support ComLink+ families</li></ul></li><br><li><strong>Keen to join as a volunteer befriender to support our ComLink+ families?</strong>
+ <ul><li>Volunteer befrienders play an important role in the delivery of ComLink+ to build rapport, support and nudge families to take steps towards their goals</li><li>Visit <a href="http://go.gov.sg/befriending-comlink" target="_blank">go.gov.sg/befriending-comlink</a> to sign up as a ComLink+ volunteer befriender</li></ul></li></ul></div></div></div><div class="accordion-item"><h2 class="accordion-header" id="frame4Collapse"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#funWorkplaceCollapse" aria-expanded="false" aria-controls="funWorkplaceCollapse">Support for Persons with Disabilities</button></h2><div id="funWorkplaceCollapse" class="accordion-collapse collapse" aria-labelledby="funWorkplaceHeading" data-bs-parent="#lifeAtMsfAccordion"><div class="accordion-body"><ul></ul><p><strong><span style="text-decoration:underline;">Increasing Employment Support</span></strong></p><ul><li><strong>[Over next 2 years] 200 Persons with Disabilities employed under Place-and-Train (PnT) programme</strong>
+ <ul><li>Introduced in 2021, PnT&nbsp;provides job and training opportunities for persons with disabilities</li><li>Employers receive 90% of salary support from the Government for up to one year for each hire, and 90%&nbsp;course fee subsidy&nbsp;when persons with disabilities attend training courses</li><li>About 8 in 10 of those who completed the PnT programme remain employed 6 months after the support ended. Majority were with the same employers who hosted them under PnT</li></ul></li><br><li><strong>[By 2030] 500 more places in Sheltered Workshops</strong>
+ <ul><li>For persons with disabilities who are able to work, but are not yet ready for or unable to take up open employment</li><li>Allows them to receive work skills training and job support, according to their needs<br></li></ul></li></ul><br><p><strong><span style="text-decoration:underline;">Support Persons with Disabilities to Live in the Community</span></strong></p><ul><li><strong>[From 1 Apr 2024] Higher subsidies under the Enabling Transport Subsidy (ETS) Scheme</strong>
+ <ul><li>About 40% of persons with disabilities currently benefitting from ETS will see a reduction in their out-of-pocket transport fees by at least 10%</li></ul></li></ul><ul><li><strong>[2025] Two new Enabling Services Hubs (ESHs) in Jurong West and Punggol </strong>
+ <ul><li>Work with community partners to offer a range of disability services and programmes close to home</li><li>New ESHs will serve persons with disabilities and their caregivers staying in Jurong West and Punggol, Hougang, Sengkang and Serangoon towns</li></ul></li></ul><ul><li><strong>[By 2030] 500 more Day Activity Centre places</strong>
+ <ul><li>For persons with disabilities with higher support needs and are not able to work</li><li>Centres conduct social and recreational activities, and equip persons with disabilities with daily living and community living skills</li></ul></li></ul><p>&nbsp;</p></div></div></div><div class="accordion-item"><h2 class="accordion-header" id="frame5Collapse"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#SSACollapse" aria-expanded="false" aria-controls="SSACollapse">Support for Social Service Agencies (SSAs) and Professionals</button></h2><div id="SSACollapse" class="accordion-collapse collapse" aria-labelledby="funWorkplaceHeading" data-bs-parent="#lifeAtMsfAccordion"><div class="accordion-body"><ul><li><strong>[Over next 3 years] Improve SSAs' adherence to sector salary guidelines</strong>
+ <ul><li>MSF and NCSS regularly review Social Service Sector Salary Guidelines to ensure they are competitive</li><li>Aside from increased funding, MSF and NCSS will work with SSAs to improve the sector's salary adherence of the guidelines over the next three years</li><li>Target consultancy support will be provided to SSAs who require more assistance</li></ul></li><br><li><strong>Transformation Sustainability Scheme to help strengthen organisational capabilities</strong>
+ <ul><li>Provides eligible SSAs with up to $200,000 or 80% of total projected costs (whichever is lower) over three years</li><li>To strengthen organisational capabilities, such as People Practice, Volunteer Management, and Innovation &amp; Digitalisation</li><li>All NCSS members and MSF-funded SSAs can apply for this scheme.
+                                </li></ul></li><br><li><strong>More Pre-employment Training opportunities with Institutes of Higher Learning and Career Conversion Programmes (CCPs) for mid-career entrants</strong>
+ <ul><li>To build sustainable pipelines of professionals for the social service sector, MSF works with Institutes of Higher Learning to develop professional training programmes
+                                    <ul><li>For instance, the Singapore Institute of Technology introduced a four-year Speech and Language Therapy degree programme in September 2020</li></ul></li><li>CCP is a place-and-train programme designed to support mid-career individuals in acquiring knowledge and skills needed to join the sector
+                                    <ul><li>Employers can tap on CCPs to reskill mid-career new hires or workers with up to 90% salary and course fee support</li></ul></li></ul></li></ul></div></div></div></div></div><br><hr><br><div class="tabs-container" bis_skin_checked="1"><ul class="nav nav-tabs" id="mediaRoomTab" role="tablist"><li class="nav-item" role="presentation"><button class="nav-link active" id="speeches" data-bs-toggle="tab" data-bs-target="#speeches-pane" type="button" role="tab" aria-controls="speeches-pane" aria-selected="true">Speeches
+ </button></li><li class="nav-item" role="presentation"><button class="nav-link" id="pressReleases-tab" data-bs-toggle="tab" data-bs-target="#pressReleases-tab-pane" type="button" role="tab" aria-controls="pressReleases-tab-pane" aria-selected="false">Factsheets
+ </button></li><li class="nav-item" role="presentation"><button class="nav-link" id="videos-tab" data-bs-toggle="tab" data-bs-target="#videos-tab-pane" type="button" role="tab" aria-controls="videos-tab-pane" aria-selected="false">Videos
+ </button></li><li class="nav-item" role="presentation"><button class="nav-link" id="prevMicrosites-tab" data-bs-toggle="tab" data-bs-target="#prevMicrosites-tab-pane" type="button" role="tab" aria-controls="prevMicrosites-tab-pane" aria-selected="false">Previous Microsites
+                                </button></li></ul><div class="tab-content" id="mediaRoomTabContent" bis_skin_checked="1"><div class="tab-pane fade show active" id="speeches-pane" role="tabpanel" aria-labelledby="speeches" tabindex="0" bis_skin_checked="1"><div class="container" bis_skin_checked="1"><div class="d-flex flex-column justify-content-center align-items-center" bis_skin_checked="1"><ul><li><a href="https://www.msf.gov.sg/media-room/article/speech-by-minister-masagos-zulkifli-at-the-msf-committee-of-supply-2024"><strong>Speech by Mr Masagos Zulkifli at the MSF Committee of Supply 2024</strong></a></li><br><li><strong><a href="https://www.msf.gov.sg/media-room/article/speech-by-minister-of-state-sun-xueling-at-the-msf-committee-of-supply-2024">Speech by Ms Sun Xueling at the MSF Committee of Supply 2024</a></strong></li><br><li><a href="https://www.msf.gov.sg/media-room/article/speech-by-senior-parliamentary-secretary-eric-chua-at-the-msf-committee-of-supply-2024"><strong>Speech by Mr Eric Chua at the MSF Committee of Supply 2024</strong></a></li></ul></div></div></div><div class="tab-pane fade" id="pressReleases-tab-pane" role="tabpanel" aria-labelledby="pressReleases-tab" tabindex="0" bis_skin_checked="1"><div class="container" bis_skin_checked="1"><div class="d-flex flex-column justify-content-center align-items-center" bis_skin_checked="1"><ul><li><a href="https://www.msf.gov.sg/media-room/article/msf-committee-of-supply-2024-building-a-family-friendly-society-where-all-are-empowered"><strong>Building a Family-friendly Society Where All Are Empowered</strong></a><br></li><br><li><a href="https://www.msf.gov.sg/media-room/article/msf-committee-of-supply-2024-supporting-parents-to-provide-every-child-a-good-start-in-life"><strong>Supporting Parents to Provide Every Child a Good Start in Life</strong></a><br></li><br><li><a href="https://www.msf.gov.sg/media-room/article/msf-committee-of-supply-2024-empowering-all-families-to-achieve-their-aspirations"><strong>Empowering All Families to Achieve Their Aspirations</strong></a><br></li></ul></div></div></div><div class="tab-pane fade" id="videos-tab-pane" role="tabpanel" aria-labelledby="videos-tab" tabindex="0" bis_skin_checked="1"><div class="container" bis_skin_checked="1"><div class="d-flex flex-column justify-content-center align-items-center" bis_skin_checked="1"><center><strong>COS 2024: Enhanced childcare support for lower-income families</strong><br><a href="https://www.youtube.com/watch?v=tcDSiNnIGi4" target="_blank"><img src="https://www.msf.gov.sg/images/default-source/budget_page/min-cosspeechvideothumbnail.png?sfvrsn=ec615df_1" width="70%" alt="COS 2024: Enhanced childcare support for lower-income families" sf-size="100"></a></center><center><br><strong>COS 2024: Supporting parents in caregiving and early childhood education</strong><br><a href="https://www.youtube.com/watch?v=rv5B61PYajg" target="_blank"><img src="https://www.msf.gov.sg/images/default-source/budget_page/mos-cosspeechvideothumbnail.png?sfvrsn=b4d34dc7_1" width="70%" alt="COS 2024: Supporting parents in caregiving and early childhood education" sf-size="100"></a></center><center><br><strong>COS 2024: Empowering all families to achieve their aspirations</strong>
+ <br><a href="https://www.youtube.com/watch?v=S7tldHKytTA" target="_blank"><img src="https://www.msf.gov.sg/images/default-source/budget_page/sps-cosspeechvideothumbnail.png?sfvrsn=fa578952_1" width="70%" alt="COS 2024: Empowering all families to achieve their aspirations" sf-size="100"></a></center></div></div></div><div class="tab-pane fade" id="prevMicrosites-tab-pane" role="tabpanel" aria-labelledby="prevMicrosites-tab" tabindex="0" bis_skin_checked="1"><div class="container" bis_skin_checked="1"><div class="d-flex flex-column justify-content-center align-items-center" bis_skin_checked="1"><ul><li><a href="https://www.msf.gov.sg/media-room/article/budget-2023">Budget 2023</a></li><br><li><a href="https://www.msf.gov.sg/media-room/article/budget-2022">Budget 2022</a></li><br><li><a href="https://www.msf.gov.sg/media-room/article/budget-2021">Budget 2021</a></li><br><li><a href="https://www.msf.gov.sg/media-room/article/budget-2020">Budget 2020</a></li><br><li><a href="https://www.msf.gov.sg/media-room/article/budget-2019">Budget 2019</a></li></ul></div></div></div></div></div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<script>
+    window.addEventListener('load', function () {
+        this.document.title = "Budget 2024";
+    })
+    function getCategory(CategoryString) {
+        const RemoveSpecial = CategoryString.replace(/['"]+/g, '');
+        let Category = {
+            "time": $('#timeframeSelect').val(),
+            "topic": $('#topicSelect').val(),
+            "type": RemoveSpecial,
+        }
+        localStorage.clear("MEDIAROOM_TOPICS_FILTER");
+        localStorage.setItem("MEDIAROOM_CATEGORY_FILTER", JSON.stringify(Category));
+    }
+
+    function getTopics(TopicString) {
+        const RemoveSpecial = TopicString.replace(/['"]+/g, '');
+        let Topics = {
+            "time": $('#timeframeSelect').val(),
+            "topic": RemoveSpecial,
+            "type": $('#typeSelect').val(),
+        }
+        localStorage.clear("MEDIAROOM_CATEGORY_FILTER");
+        localStorage.setItem("MEDIAROOM_TOPICS_FILTER", JSON.stringify(Topics));
+    }
+
+    (function () {
+        filterState = sessionStorage.getItem("MEDIAROOM_FILTER_STATE");
+        sessionStorage.setItem("MEDIAROOM_FILTER_STATE_FROM_BTN_BACK", "");
+    })();
+
+    window.onbeforeunload = function (event) {
+        sessionStorage.setItem("MEDIAROOM_FILTER_STATE_FROM_BTN_BACK", filterState);
+    }
+
+</script>
+</div>
+
+    </div>
+</div> <div class="sharethis-inline-share-buttons"></div> 
+
+
+<footer class="sgds footer">
+    <section class="footer-top">
+        <div class="container-fluid">
+            <div class="row footer-header">
+                <div class="footer-title">
+                    Ministry of Social and Family Development
+                </div>
+            </div>
+
+            <div class="row footer-contact-links">
+                <div class="col-sm-12">
+                    <div class="d-flex flex-column flex-lg-row gap-20 gap-lg-0 justify-content-lg-end">
+                        <div class="d-flex justify-content-lg-end">
+                            <ul class="d-flex flex-column flex-lg-row gap-lg-40 contact-links">
+                                        <li><a class="" href="/contact-us-feedback" aria-label="Contact Us / Feedback">Contact Us / Feedback</a></li>
+                                        <li><a class="not-first-page" href="/faqs" aria-label="FAQs">FAQs</a></li>
+                            </ul>
+                        </div>
+                        <div class="d-flex align-items-lg-center justify-content-lg-end">
+                            <ul class="d-flex social-links">
+                                <li>
+                                    <a href="https://www.facebook.com/MSFSingapore/" aria-label="facebook">
+                                        <em class="fa-brands fa-square-facebook"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/msfcares/" aria-label="instagram">
+                                        <em class="fa-brands fa-instagram"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://t.me/msfcares" aria-label="telegram">
+                                        <em class="fa-brands fa-telegram"></em>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="footer-bottom">
+        <div class="container-fluid">
+            <hr class="footer-divider">
+            <div class="row footer-mandatory-links">
+                <div class="col-12 col-lg-8 col-xl-9">
+                    <ul class="footer-nav-list">
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links " href="/report-vulnerability" rel="noopener" aria-label="Report Vulnerability
+
+">Report Vulnerability
+
+</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/privacy-statement" rel="noopener" aria-label="Privacy Statement">Privacy Statement</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/terms-of-use" rel="noopener" aria-label="Terms of Use&nbsp;">Terms of Use&nbsp;</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/sitemap" rel="noopener" aria-label="Sitemap">Sitemap</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/accessibility-statement" rel="noopener" aria-label="Accessibility Statement">Accessibility Statement</a>
+                                </li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg footer-copyrights">
+                    <div class="d-flex justify-content-lg-end text-lg-end">
+                        © 2024 Government of Singapore<br>
+                        Last updated 20 Mar 2023
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+
+
+ <div class="accessibility-sidebar"> <div class="btn-group-vertical btn-group-sm" role="group" aria-label="Accessibility Sidebar"> <button type="button" class="btn btn-accessibility btn-notice" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Show/Hide Notice" data-bs-original-title="Show/Hide Notice"> <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10 0C8.02219 0 6.08879 0.58649 4.4443 1.6853C2.79981 2.78412 1.51809 4.3459 0.761209 6.17317C0.00433284 8.00043 -0.193701 10.0111 0.192152 11.9509C0.578004 13.8907 1.53041 15.6725 2.92894 17.0711C4.32746 18.4696 6.10929 19.422 8.0491 19.8079C9.98891 20.1937 11.9996 19.9957 13.8268 19.2388C15.6541 18.4819 17.2159 17.2002 18.3147 15.5557C19.4135 13.9112 20 11.9778 20 10C20 8.68678 19.7413 7.38642 19.2388 6.17317C18.7363 4.95991 17.9997 3.85752 17.0711 2.92893C16.1425 2.00035 15.0401 1.26375 13.8268 0.761205C12.6136 0.258658 11.3132 0 10 0ZM10 18C8.41775 18 6.87104 17.5308 5.55544 16.6518C4.23985 15.7727 3.21447 14.5233 2.60897 13.0615C2.00347 11.5997 1.84504 9.99113 2.15372 8.43928C2.4624 6.88743 3.22433 5.46197 4.34315 4.34315C5.46197 3.22433 6.88743 2.4624 8.43928 2.15372C9.99113 1.84504 11.5997 2.00346 13.0615 2.60896C14.5233 3.21447 15.7727 4.23984 16.6518 5.55544C17.5308 6.87103 18 8.41775 18 10C18 12.1217 17.1572 14.1566 15.6569 15.6569C14.1566 17.1571 12.1217 18 10 18Z"></path> <path d="M10 7C10.5523 7 11 6.55228 11 6C11 5.44772 10.5523 5 10 5C9.44772 5 9 5.44772 9 6C9 6.55228 9.44772 7 10 7Z"></path> <path d="M10 8C9.73478 8 9.48043 8.10536 9.29289 8.29289C9.10536 8.48043 9 8.73478 9 9V14C9 14.2652 9.10536 14.5196 9.29289 14.7071C9.48043 14.8946 9.73478 15 10 15C10.2652 15 10.5196 14.8946 10.7071 14.7071C10.8946 14.5196 11 14.2652 11 14V9C11 8.73478 10.8946 8.48043 10.7071 8.29289C10.5196 8.10536 10.2652 8 10 8Z"></path> </svg> </button> <button type="button" class="btn btn-accessibility btn-font-bigger" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Increase Font Size" data-bs-original-title="Increase Font Size">
+                    A+
+                </button> <button type="button" class="btn btn-accessibility btn-font-smaller" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Decrease Font Size" data-bs-original-title="Decrease Font Size">
+                    A−
+                </button> <button type="button" class="btn btn-accessibility btn-contrast" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Toggle Colour Contrast" data-bs-original-title="Toggle Colour Contrast"> <em class="fa-solid fa-circle-half-stroke"></em> </button> </div> </div> <div class="back-to-top"> <button class="btn-back-top" aria-label="back to top"> <svg width="16" height="8" viewBox="0 0 16 8" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4826 7.76568C14.8297 8.07811 15.3925 8.07811 15.7396 7.76568C16.0868 7.45326 16.0868 6.94673 15.7396 6.63432L8.62853 0.23424C8.2814 -0.0780799 7.71859 -0.0780799 7.37146 0.23424L0.260266 6.63432C-0.0867557 6.94673 -0.0867557 7.45326 0.260266 7.76567C0.607466 8.07811 1.17031 8.07811 1.51751 7.76567L8 3L14.4826 7.76568Z"></path> </svg> <span>Top</span> </button> </div> <script src="/ResourcePackages/Msf/assets/js/jquery.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/jquery-ui.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/swiper-bundle.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/bootstrap.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/default-passive-events.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/search-result.js" type="text/javascript"></script> <script src="https://assets.wogaa.sg/scripts/wogaa.js"></script> <script type="text/javascript" src="/ResourcePackages/Msf/assets/js/sharethis.js#property=648140a26773dd0012e17a9b&amp;product=inline-share-buttons&amp;source=platform" async="async"></script> <script>
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window, document, 'script', 'dataLayer', 'G-7WBNTH91BT');
+            </script> <!-- Global site tag (gtag.js) - Google Analytics --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7WBNTH91BT"></script> <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-7WBNTH91BT');
+            </script> <script type="module" src="https://cdn.jsdelivr.net/npm/@govtechsg/sgds-web-component/Masthead/index.js"></script> <script src="/ResourcePackages/Msf/assets/js/main.min.js" type="text/javascript"></script>  
+<div id="st-2" class=" st-sticky-share-buttons st-left st-toggleable st-has-labels "><div class="st-btn st-first" data-network="facebook" style="display: inline-block;">
+  <img alt="facebook sharing button" src="https://platform-cdn.sharethis.com/img/facebook.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="linkedin" style="display: inline-block;">
+  <img alt="linkedin sharing button" src="https://platform-cdn.sharethis.com/img/linkedin.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="gmail" style="display: inline-block;">
+  <img alt="gmail sharing button" src="https://platform-cdn.sharethis.com/img/gmail.svg">
+  <span class="st-label">Email</span>
+</div><div class="st-btn st-last" data-network="copy" style="display: inline-block;">
+  <img alt="copy sharing button" src="https://platform-cdn.sharethis.com/img/copy.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-toggle">
+  <div class="st-left">
+    <img alt="arrow_left sharing button" src="https://platform-cdn.sharethis.com/img/arrow_left.svg">
+  </div>
+  <div class="st-right">
+    <img alt="arrow_right sharing button" src="https://platform-cdn.sharethis.com/img/arrow_right.svg">
+  </div>
+</div></div><wog-sentiments class="needsclick hydrated"></wog-sentiments><link href="https://webchat.vica.gov.sg/static/css/chat.css" type="text/css" rel="stylesheet" referrerpolicy="origin"><script src="https://webchat.vica.gov.sg/static/js/chat.js" type="text/javascript" referrerpolicy="origin" defer=""></script></body></html>

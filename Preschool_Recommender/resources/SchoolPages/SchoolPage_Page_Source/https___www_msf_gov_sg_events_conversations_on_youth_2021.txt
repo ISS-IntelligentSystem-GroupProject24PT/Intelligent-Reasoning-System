@@ -1,0 +1,968 @@
+<html lang="en" class="hydrated"><head> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>
+	MSF | Conversations on Youth 2021
+</title> <link rel="icon" type="image/png" href="/ResourcePackages/Msf/assets/img/favIco.png"> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&amp;family=Open+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet">  <link href="/ResourcePackages/Msf/assets/css/sgds.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap-icons.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/all.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/sf-bootstrap-conflict.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/jquery-ui.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/swiper-bundle.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/search-result.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/main.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/custom-style.min.css" rel="stylesheet"> <meta property="og:title" content="MSF | Conversations on Youth 2021"><meta property="og:url" content="https://www.msf.gov.sg/events/conversations-on-youth-2021"><meta property="og:type" content="website"><meta property="og:site_name" content="Ministry of Social and Family Development"><script async="" src="https://buttons-config.sharethis.com/js/648140a26773dd0012e17a9b.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=G-7WBNTH91BT"></script><script async="" src="https://assets.wogaa.sg/snowplow/3.13.1/sp.js"></script><script type="text/javascript">
+function lateLoadChatFile() {      
+  setTimeout(() => {        
+              const bodyTag = document.getElementsByTagName("body")[0];      
+             // Create link element to import chat.css file and append it on the body element        
+             let linkTag = document.createElement("link");
+  linkTag.href = "https://webchat.vica.gov.sg/static/css/chat.css";         linkTag.type = "text/css";
+  linkTag.rel = "stylesheet";       
+  linkTag.referrerPolicy = "origin";      
+  bodyTag.appendChild(linkTag);        
+  // Create script element to import chat.js file and append it on the body element       
+  let scriptTag = document.createElement("script");         scriptTag.src = "https://webchat.vica.gov.sg/static/js/chat.js";         scriptTag.type = "text/javascript";      
+  scriptTag.referrerPolicy = "origin";         
+  scriptTag.defer = true;         
+  bodyTag.appendChild(scriptTag);      
+}, 5000);  
+}
+</script><script type="text/javascript">
+(function() {
+  // add beta text 
+  let timerId = setInterval(function(){
+	if(!document.getElementsByClassName("sc-htpNat")[0]) return;
+	
+	clearInterval(timerId);
+	document.getElementsByClassName("sc-htpNat")[0].addEventListener("click", changeText);
+	document.getElementsByClassName("sc-EHOje")[0].addEventListener("click", changeText);
+  }, 5000);
+  function changeText() {
+	const ele = $("#webchat-container p:contains('Ask MSF')");
+	ele.html("");
+	ele.append("Ask MSF <span style='font-size: 14px !important;position: relative;top: -9px;left: 5px;font-weight: lighter;'>beta</span>");
+  }
+})();
+</script><link rel="canonical" href="https://www.msf.gov.sg/events/conversations-on-youth-2021"><script async="" src="https://assets.wogaa.sg/scripts/wogaa.js?url=https%3A%2F%2Fwww.msf.gov.sg%2Fevents%2Fconversations-on-youth-2021"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style type="text/css">#st-2 {
+  font-family: "Helvetica Neue", Verdana, Helvetica, Arial, sans-serif;;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  backface-visibility: hidden;
+  display: block;
+  position: fixed;
+  opacity: 1;
+  text-align: left;
+  top: 310px;
+  z-index: 94034;
+}
+#st-2.st-left {
+  left: 0px;
+}
+#st-2.st-hidden.st-left {
+  left: -48px;
+}
+#st-2.st-hidden {
+  width: 96px;
+}
+#st-2.st-preview {
+  display: none!important;
+  opacity: 0!important;
+}
+#st-2 > div {
+  clear: left;
+  float: left;
+}
+#st-2 .st-btn {
+  -moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  height: 48px;
+  line-height: 24px;
+  margin-bottom: 0;
+  opacity: 1;
+  overflow: hidden;
+  padding: 12px;
+  position: relative;
+  text-align: left;
+  top: 0;
+  vertical-align: top;
+  white-space: nowrap;
+  width: 48px;
+}
+#st-2 .st-btn.st-first {
+  border-top: none;
+  border-top-right-radius: 4px;
+}
+#st-2 .st-btn.st-last {
+  border-bottom: none;
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn > svg {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > img {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > span {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  color: #fff;
+  display: inline-block;
+  font-weight: 500;
+  left: -35px;
+  letter-spacing: 0.5px;
+  opacity: 0;
+  padding: 0 6px;
+  position: relative;
+  vertical-align: top;
+  filter: alpha(opacity=0);
+}
+#st-2 .st-btn.st-hide-label > span {
+  display: none !important;
+}
+#st-2 .st-total {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #fff;
+  color: #555;
+  display: inline-block;
+  font-weight: 500;
+  line-height: 18px;
+  margin-right: 0;
+  min-height: 34px;
+  max-width: 80px;
+  opacity: 1;
+  padding: 4px 0;
+  text-align: center;
+  width: 48px;
+}
+#st-2 .st-total.st-hidden {
+  display: none;
+}
+#st-2 .st-total > span {
+  display: block;
+  font-size: 18px;
+  line-height: 21px;
+  padding: 0;
+}
+#st-2 .st-total > span.st-shares {
+  font-size: 11px;
+  line-height: 11px;
+}
+#st-2 .st-toggle {
+  left: -48px;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #ccc;
+  border-bottom-right-radius: 4px;
+  color: white;
+  cursor: pointer;
+  font-size: 24px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: 48px;
+}
+#st-2.st-hidden .st-toggle {
+  border-top-right-radius: 4px;
+}
+#st-2.st-left .st-toggle .st-left {
+  display: inline-block;
+}
+#st-2.st-left.st-hidden .st-toggle .st-left {
+  display: none;
+}
+#st-2.st-left .st-toggle .st-right {
+  display: none;
+}
+#st-2.st-left.st-hidden .st-toggle .st-right {
+  display: inline-block;
+}#st-2:hover .st-toggle {
+  left: 0;
+}
+#st-2.st-hidden:hover .st-toggle {
+  left: 48px;
+}
+#st-2.st-toggleable:hover .st-btn.st-last {
+  border-bottom-right-radius: 0;
+}
+#st-2.st-toggleable:hover .st-btn.st-last:hover {
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn:hover {
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+}
+#st-2.st-has-labels .st-btn:hover {
+  width: 120px;
+}
+#st-2:not(.st-has-labels) .st-btn:hover {
+  width: 62px;
+}
+#st-2 .st-btn.st-hide-label:hover {
+  width: 62px;
+}
+#st-2 .st-btn:hover > svg {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > img {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > span {
+  opacity: 1;
+  display: inline-block;
+  left: 0;
+  filter: alpha(opacity=100);
+}
+@media (max-width: 1024px) {
+  #st-2 .st-btn:hover > svg {
+    margin-left: 0;
+  }
+  #st-2 .st-btn:hover > span {
+    display: none;
+  }
+}@media (max-width: 1024px) {
+  #st-2 {
+  bottom: 0;
+  display: none;
+  left: 0;
+  right: 0;
+  top: auto;
+  width: 100%;
+}
+#st-2.st-hidden {
+  bottom: -48px;
+  width: 100%;
+}
+#st-2.st-hidden.st-left {
+  left: 0;
+}
+#st-2.st-hidden.st-right {
+  right: 0;
+}
+#st-2 > div {
+  -moz-flex: 1;
+  -ms-flex: 1;
+  -webkit-flex: 1;
+  clear: none;
+  flex: 1;
+  float: none;
+}
+#st-2 .st-total {
+  background: #fff;
+  padding: 6px 8px;
+}
+#st-2 .st-btn {
+  -moz-border-radius: 0 !important;
+-webkit-border-radius: 0 !important;
+border-radius: 0 !important;
+  text-align: center;
+  width: auto;
+}
+#st-2 .st-btn > span {
+  display: none;
+}
+#st-2 .st-toggle {
+  display: none;
+}
+}#st-2 .st-btn[data-network='facebook'] {
+  background-color: #4267B2
+}
+#st-2 .st-btn[data-network='facebook'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='facebook'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='linkedin'] {
+  background-color: #0077b5
+}
+#st-2 .st-btn[data-network='linkedin'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='linkedin'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='gmail'] {
+  background-color: #D44638
+}
+#st-2 .st-btn[data-network='gmail'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='gmail'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='copy'] {
+  background-color: #14682B
+}
+#st-2 .st-btn[data-network='copy'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='copy'] > span {
+  color: #fff
+}#st-2 .st-btn[data-network='snapchat'] > span {
+  color: #333};
+}#st-2 .st-btn[data-network='copy']:hover {
+  width: max-content;
+}</style><script type="module" src="https://assets.wogaa.sg/sentiments/sentiments.esm.js" async=""></script><script nomodule="" src="https://assets.wogaa.sg/sentiments/sentiments.js" async=""></script></head> <body onload="lateLoadChatFile();"> 
+
+<div id="webchat" app-id="msf-askmsf" app-name="Ask MSF" app-font-family="Arial" app-base-font-size="16" app-icon="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" app-welcome-message="Have a question? Type to get quick answers." app-color="#DE7C00" app-foreground-color1="#FFFFFF" app-bot-response-trigger-event="true" app-quick-launch-event="welcome" app-enable-auto-complete="false" app-auto-complete-background-color="#FFEDD7" app-auto-complete-foreground-color="#2E2E2E" app-auto-complete-hover-color="#FFCA88" app-auto-complete-divider-color="#DE7C00"></div>
+
+
+<div class="announcements-bar">
+    <div class="container-fluid">
+        <div class="row g-0 position-relative align-items-center">
+            <div class="col">
+                <div class="swiper announcementSwiper">
+                    <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <p>Have a question about MSF? Find quick answers with our chatbot Ask MSF.<!--EndFragment--></p>
+                            </div>
+                                                                                                                    </div>
+                </div>
+            </div>
+            <div class="col-auto align-self-start">
+                <div class="announcements-close">
+                    <button class="btn-close btn-ann-close btn-close-white" aria-label="Close"></button>
+                </div>
+            </div>
+        </div>
+        <div class="row g-0 position-relative">
+            <div class="col-12 col-md-auto buttons-align">
+                <div class="announcements-buttons">
+                    <div class="announcements-swiper-button swiper-button-prev">
+                        <em class="fa-solid fa-chevron-left"></em>
+                    </div>
+                    <div class="announcements-pagination"></div>
+                    <div class="announcements-swiper-button swiper-button-next">
+                        <em class="fa-solid fa-chevron-right"></em>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+ <sgds-masthead fluid="" class="sgds-masthead-class"></sgds-masthead> 
+<div class="layout-subsite">
+    <div id="Content_T7AD4A7CC001_Col00" class="sf_colsIn" data-sf-element="Navigation" data-placeholder-label="Navigation">
+
+<header>
+    <nav class="sgds navbar navbar-expand-xl main-navbar">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/" aria-label="home page">
+                <img src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69" title="MSF logo">
+            </a>
+
+            <button class="btn btn-nav-search px-24 ms-auto d-block d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#searchbarCollapse" aria-expanded="false" aria-controls="searchbarCollapse" aria-label="search icon">
+                <em class="fa-solid fa-search"></em>
+            </button>
+
+            <div class="collapse" id="searchbarCollapse">
+                <div class="container-fluid p-0 px-12">
+                    <div class="nav-searchbar">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Search our website" id="navSearchBarSearchInput" data-search="navSearchBarSearchInput">
+                            <button class="btn btn-search" type="button" id="navSearchBarBtnSearch" aria-label="search">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <span>Search</span>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Menu">
+                Menu
+            </button>
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <img class="offcanvas-header-logo" src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69">
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+
+                <div class="offcanvas-searchbar">
+                    <div class="sgds form-group">
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="defaultWith" aria-describedby="defaultWith" placeholder="Search our website">
+                            <button class="btn btn-offcanvas-search" type="button">
+                                <em class="fa-solid fa-search form-control-icon"></em>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav d-flex d-xl-none">
+                        <li class="nav-item">
+                            <a href="/" class="nav-link submenu-link" data-bs-dismiss="offcanvas" aria-current="page" aria-label="Home"><span>Home</span></a>
+                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#who-we-are-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#what-we-do-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#our-services-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#research-data-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#join-us-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+
+                    <div class="d-block d-xl-none">
+                                <div class="collapse collapse-horizontal submenu" id="who-we-are-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#who-we-are-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Who We Are</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/mission-values" class="nav-link sgds" aria-label="Mission &amp; Values"><span class="nav-link-text"><span>Mission &amp; Values</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/organisation-chart" class="nav-link sgds" aria-label="Organisation Chart"><span class="nav-link-text"><span>Organisation Chart</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/agencies-statutory-boards-councils" class="nav-link sgds" aria-label="Agencies, Statutory Boards &amp; Councils"><span class="nav-link-text"><span>Agencies, Statutory Boards &amp; Councils</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/senior-management-team" class="nav-link sgds" aria-label="Senior Management Team"><span class="nav-link-text"><span>Senior Management Team</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="what-we-do-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#what-we-do-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>What We Do</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/help-those-in-need" class="nav-link sgds" aria-label="Help Those in Need"><span class="nav-link-text"><span>Help Those in Need</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/support-families-and-parents" class="nav-link sgds" aria-label="Support Families &amp; Parents"><span class="nav-link-text"><span>Support Families &amp; Parents</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/strengthen-the-social-service-sector" class="nav-link sgds" aria-label="Strengthen the Social Service Sector"><span class="nav-link-text"><span>Strengthen the Social Service Sector</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="our-services-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#our-services-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Our Services</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/our-services/directories" class="nav-link sgds" aria-label="Directories"><span class="nav-link-text"><span>Directories</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/our-services/e-services" class="nav-link sgds" aria-label="E-Services"><span class="nav-link-text"><span>E-Services</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="research-data-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#research-data-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Research &amp; Data</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-reports-data" class="nav-link sgds" aria-label="Research Report &amp; Data"><span class="nav-link-text"><span>Research Report &amp; Data</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-grants" class="nav-link sgds" aria-label="Research Grants"><span class="nav-link-text"><span>Research Grants</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/Research-Conferences-Forums-Networks" class="nav-link sgds" aria-label="Research Conferences, Forums &amp; Networks"><span class="nav-link-text"><span>Research Conferences, Forums &amp; Networks</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="join-us-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#join-us-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Join Us</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/join-us/volunteer-with-msfcare-network" class="nav-link sgds" aria-label="Volunteer with MSFCare Network"><span class="nav-link-text"><span>Volunteer with MSFCare Network</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/jobs-careers" class="nav-link sgds" aria-label="Jobs &amp; Careers"><span class="nav-link-text"><span>Jobs &amp; Careers</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/scholarships-internships" class="nav-link sgds" aria-label="Scholarships &amp; Internships"><span class="nav-link-text"><span>Scholarships &amp; Internships</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                    </div>
+
+                    <ul class="navbar-nav justify-content-end flex-grow-1 d-none d-xl-flex">
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/mission-values" aria-label="Mission &amp; Values">
+                                                            Mission &amp; Values
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/organisation-chart" aria-label="Organisation Chart">
+                                                            Organisation Chart
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/agencies-statutory-boards-councils" aria-label="Agencies, Statutory Boards &amp; Councils">
+                                                            Agencies, Statutory Boards &amp; Councils
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/senior-management-team" aria-label="Senior Management Team">
+                                                            Senior Management Team
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/help-those-in-need" aria-label="Help Those in Need">
+                                                            Help Those in Need
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/support-families-and-parents" aria-label="Support Families &amp; Parents">
+                                                            Support Families &amp; Parents
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/strengthen-the-social-service-sector" aria-label="Strengthen the Social Service Sector">
+                                                            Strengthen the Social Service Sector
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/directories" aria-label="Directories">
+                                                            Directories
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/e-services" aria-label="E-Services">
+                                                            E-Services
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-reports-data" aria-label="Research Report &amp; Data">
+                                                            Research Report &amp; Data
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-grants" aria-label="Research Grants">
+                                                            Research Grants
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/Research-Conferences-Forums-Networks" aria-label="Research Conferences, Forums &amp; Networks">
+                                                            Research Conferences, Forums &amp; Networks
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/volunteer-with-msfcare-network" aria-label="Volunteer with MSFCare Network">
+                                                            Volunteer with MSFCare Network
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/jobs-careers" aria-label="Jobs &amp; Careers">
+                                                            Jobs &amp; Careers
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/scholarships-internships" aria-label="Scholarships &amp; Internships">
+                                                            Scholarships &amp; Internships
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header><div class="searchbar">
+    <div class="container-fluid">
+        <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search our website" id="searchbarWidgetSearchInput" data-search="searchbarWidgetSearchInput">
+            <button class="btn btn-search" type="button" id="searchbarWidgetBtnSearch" aria-label="Search">
+                <span>
+                    <em class="fa-solid fa-search fa-sm"></em>
+                    Search
+                </span>
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- prettier-ignore -->
+<div class="container-fluid">
+    <nav aria-label="breadcrumb" class="breadcrump-wrapper">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>
+                        <a href="/events" aria-label="Events">Events</a>
+                    </li>
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>Conversations on Youth 2021
+                    </li>
+        </ol>
+        <div class="breadcrumb-mobile">
+            <a href="/" aria-label="Home">
+                <em class="fa-solid fa-chevron-left"></em>
+                <span>Home</span>
+            </a>
+        </div>
+    </nav>
+</div>
+
+
+
+
+<link href="/ResourcePackages/Msf/assets/css/language-bar.min.css" rel="stylesheet" type="text/css">
+
+
+    </div>
+    <div id="Content_T7AD4A7CC001_Col01" class="sf_colsIn" data-sf-element="Content" data-placeholder-label="Content"><div id="Content_C002_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<h1>Conversations on Youth 2021</h1><p>Date/Time:&nbsp;9 September 2021, Thursday&nbsp;9.00am to 1.00pm</p><p>Venue: Virtual</p><hr><br>
+<div><img src="/images/default-source/msf-event/msf-coy2021-banner.jpg?sfvrsn=60c1a78c_3" style="width:100%;" alt="">&nbsp;</div><div class="tabs-container"><ul class="nav nav-tabs" id="mediaRoomTab" role="tablist"><li class="nav-item" role="presentation"><button class="nav-link active" id="About" data-bs-toggle="tab" data-bs-target="#About-pane" type="button" role="tab" aria-controls="About-pane" aria-selected="true">About
+								</button></li><li class="nav-item" role="presentation"><button class="nav-link" id="Programme-tab" data-bs-toggle="tab" data-bs-target="#Programme-tab-pane" type="button" role="tab" aria-controls="Programme-tab-pane" aria-selected="false">Programme
+ </button></li><li class="nav-item" role="presentation"><button class="nav-link" id="NCPRMinistryPresentations-tab" data-bs-toggle="tab" data-bs-target="#NCPRMinistryPresentations-tab-pane" type="button" role="tab" aria-controls="NCPRMinistryPresentations-tab-pane" aria-selected="false">NCPR Ministry Presentations
+        </button></li><li class="nav-item" role="presentation"><button class="nav-link" id="Webinars-tab" data-bs-toggle="tab" data-bs-target="#Webinars-tab-pane" type="button" role="tab" aria-controls="NCPRMinistryPWebinarsresentations-tab-pane" aria-selected="false">Webinars
+ </button></li></ul><div class="tab-content" id="mediaRoomTabContent"><div class="tab-pane fade show active" id="About-pane" role="tabpanel" aria-labelledby="About" tabindex="0"><h1><strong><span style="color:#333333;font-size:1.5rem;">Conversations on Youth 2021: “I’m not difficult; I’m in a difficult situation”</span></strong></h1><p>Conversations on Youth (COY) is a biennial symposium that brings together school leaders, teachers in charge&nbsp;of student discipline, social and youth workers, law enforcement officers and participants from the organising ministries for
+                a dialogue on supporting youth-at-risk and youth offenders. The COY was held virtually on 9 Sep 2021, with the theme: “I’m not difficult; I’m in a difficult situation”.</p><p>This year’s symposium provided fresh perspectives on youth-at-risk and youth offenders by examining the environments they live in and shifting the spotlight from negative offending behaviours to positive youth development. Hear from
+                experts and fellow practitioners who work with youths, and explore useful strategies to nurture resilient youth and support them to achieve their fullest potential!</p><p>COY is organised under the auspices of <a href="/what-we-do/ncpr/home" data-sf-ec-immutable="" target="_blank">National Committee on Prevention, Rehabilitation and Recidivism (NCPR)</a>,
+ Rehabilitation and Recidivism (NCPR).<span style="font-size:16px;"></span></p><p><span style="font-size:1.5rem;"><strong>Report on Youth Delinquency</strong></span></p><p>The Report on Youth Delinquency is a biennial publication written primarily for the participants of the Conversations on Youth Symposium, to enhance the discussion at the symposium. <a href="/docs/default-source/msf-event/fa_msf_report_on_youth_delinquency_2021.pdf?sfvrsn=b9a0201f_3" target="_blank">The Report on Youth Delinquency 2021</a> was released in tandem with COY2021.</p><p><span style="font-size:1.5rem;"><strong>"Conversations" On Youth Video</strong>&nbsp;</span></p><p>Listen to our youths as they recount "difficult situations" in their lives, and the labels they have experienced. Youth voices can play an important role in strengthening programmes and policies targeted at them.&nbsp;</p><p>&nbsp;</p><iframe width="560" height="315" title="YouTube video player" src="https://www.youtube.com/embed/XgrzozLAnS8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>&nbsp;
+ <p>&nbsp;</p><p>This video was put together by four members of the NCPR Youth Advisory Group (YAG) .&nbsp;<br></p><p>&nbsp;</p></div><div class="tab-pane fade" id="Programme-tab-pane" role="tabpanel" aria-labelledby="Programme-tab" tabindex="0"><table style="width:100%;" border="0"><tbody><tr style="vertical-align:top;"><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;background-color:#dddddd;"><strong>Timing</strong></td><td style="padding:5px;width:80%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;background-color:#dddddd;"><strong>Programme</strong></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;">0830 – 0900<br></td><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;">Registration</td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;">0900 – 0905</td><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;">Welcome &amp; Administrative Instructions</td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;">0905 – 0920&nbsp;<br></td><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;">Opening Remarks by Mr Eric Chua, Parliamentary Secretary, Ministry of Social and Family Development &amp; Ministry of Culture, Community and Youth and Co-Chairperson of the National Committee on Prevention, Rehabilitation and Recidivism
+                            (NCPR)
+                            <br></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;">0920 – 0930<br></td><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;">“Conversations” on Youth<br></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;">0930 – 1040</td><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;"><p>Presentations by NCPR Ministries</p><ol><li><strong>Overview of the NCPR</strong><br>Speaker: Yee Siaw Ling, Director, Central Youth Guidance Office, Ministry of Social and Family Development (MSF)</li><li><strong>Resilience in Youth Offenders</strong><br>Speakers: Li Dong Dong, Principal Research Specialist, National Council of Social Service (NCSS)</li><li><strong>Family Intervention for Incarcerated Parents and their Children (Ministry of Home Affairs)</strong><br>Speaker: Chua Zijun Angeline, Correctional Rehabilitation Specialist, Singapore Prison Service (SPS)</li><li><strong>&nbsp;</strong><strong>Developing Student Character, Resilience and Well-Being in Schools (Ministry of Education)</strong><br>Speaker: Chee Chit Yeng, Deputy Director (Counselling and Student Welfare Unit), Ministry
+                                    of Education (MOE)</li></ol></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;">1040 – 1050</td><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;">Break
+ </td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;">1050 – 1135</td><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;"><p>Webinar Session One&nbsp;<em>(*Participants to register for 1 out of 5 sessions)</em></p><ol><li><strong>Using Prevention Science to Guide Community Action: Long-term Effects of Communities That Care on Positive Youth Development</strong><br>Speaker: Margaret Kuklinski, Associate Research Professor, PhD, School of
+                                    Social Work at the University of Washington and Assistant Director of the Social Development Research Group (SDRG)</li><li><strong>Life Buddies Mentoring Scheme</strong><br>Speaker: Nick Au Yeung, Deputy Head, Human Resources Planning and Poverty Co-ordination Unit (HRPPCU), Chief Secretary for Administration's Private Office of the Hong
+                                    Kong Special Administrative Region Government</li><li><strong>&nbsp;</strong><strong>Functional Family Probation</strong><br>Speakers: Li Zhi Hui, Assistant Manager, Probations and Rehabilitation Service (PCRS) &amp; Syamirah Abdin, Senior Probation Officer, PCRS</li><li><strong>Restorative Practices from a Judicial Perspective</strong><br>Speaker: Lim Keng Yeow, District Judge, Family Justice Courts</li><li><strong>Preventive Drug Education for Youth</strong><br>Speaker: Serene Wong, Senior Assistant Director, Planning &amp; Development, Communications Division, Central Narcotics Bureau</li></ol></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;">1135 – 1145</td><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;">Break
+ </td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;">1145 – 1230<br></td><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;"><p>Webinar Session 2&nbsp;<em>(*Participants to register for 1 out of 5 sessions)</em></p><ol><li><strong>The Otago Youth Wellness Trust (OYWT)</strong><br>Speaker: Nicola Atwool, Associate Professor, Social and Community Work, University of Otago &amp; OYWT Board Member</li><li><strong>Youth Engagement Strategies – Lessons from SHINE Children and Youth Services and Care Corner Youth Services</strong><br>Speakers:<br>• Wang Peishan, Theresa, Assistant Director, SHINE Children and
+                                    Youth Services<br>• Zhuang Xinyan, Assistant Director, SHINE Children and Youth Services<br>• Lok Liang Xun, Senior Manager, Care Corner Singapore<br>• Wang Zhichao, Team Leader, Care Corner Singapore</li><li><strong>Parenting in Singapore: Insights to the Culture-Specific Functions of Styles and Practices</strong><br>Speaker: Cheung Hoi Shan, Assistant Professor, Psychology, Yale-NUS College</li><li><strong>Bad, Sad or Mad? Common Mental Health Problems Among Youth in Custody</strong><br>Speaker: Choon Guan Lim, Psychiatrist, Senior Consultant and Deputy Chief, Department of Developmental Psychiatry, Institute of
+                                    Mental Health</li><li><strong>Violent Extremist Radicalisation and Local Youths – “We Are in a Difficult Situation”</strong><br>Speaker: Yeong Gah Hou, Director (Security Outreach), Internal Security Department, Ministry
+                                    of Home Affairs</li></ol></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;">1230 – 1245</td><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;">Closing Remarks by Assoc Prof Dr Muhammad Faishal Ibrahim, Minister of State, Ministry of Home Affairs &amp; Ministry of National Development and Co-Chairperson of the NCPR</td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;">1245&nbsp;<span style="font-size:16px;background-color:#ffffff;">– 1250</span></td><td style="padding:5px;width:20%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;">Closing by Emcee</td></tr><tr style="vertical-align:top;"><td style="border-width:1px;border-color:#cccccc;padding:5px;width:20%;border-top-style:solid;border-bottom-style:solid;border-left-style:solid;">1250 – 1300</td><td style="padding:5px;border:1px solid #cccccc;width:20%;">End of COY 2021</td></tr></tbody></table></div><div class="tab-pane fade" id="NCPRMinistryPresentations-tab-pane" role="tabpanel" aria-labelledby="NCPRMinistryPresentations-tab" tabindex="0"><h1><strong><span style="color:#333333;font-size:18px;">Presentations by National Committee on Prevention, Rehabilitation and Recidivism (NCPR) Ministries</span></strong></h1><table style="width:100%;" border="0" cellpadding="0"><tbody><tr style="vertical-align:top;"><td style="padding:5px;width:5%;text-align:center;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;background-color:#bfbfbf;"><strong>S/N</strong></td><td style="padding:5px;width:50%;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;background-color:#bfbfbf;"><strong>Synopsis</strong></td><td style="padding:5px;width:45%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;background-color:#bfbfbf;"><strong>Speakers</strong></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:5%;text-align:center;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><p style="text-align:center;">1</p></td><td style="padding:5px;width:50%;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><p><strong><a href="/docs/default-source/msf-event/ncpr-cygo-overview-of-ncpr.pdf?sfvrsn=aee0fb5a_3" target="_blank">Overview of the NCPR</a></strong></p><p><em>(Click on title to download presentation and <a href="https://youtu.be/gvXogjUkigg" target="_blank" data-sf-ec-immutable="">click here to watch the session recording</a>)&nbsp;</em></p><p>This presentation provided participants with a better understanding of key government-level collaborations with community partners to better support youths-at-risk and youths-in-risk.&nbsp;</p><p>It covered:</p><p style="margin-left:40px;">i) An overview of the progress made by the National Committee on Prevention, Rehabilitation and Recidivism (NCPR) since the last Conversations on Youth in 2019.</p><p style="margin-left:40px;">ii) Sharing of new initiatives to support capability-building and strengthen professional practices in the Youth Work Sector, developed by the Youth Work Sub-Team under the SkillsFuture Tripartite Taskforce (STT). The Youth
+                                Work Sub-Team is one of six profession-specific workstreams under the STT, which was set up in Apr 2019 to drive and coordinate tripartite collaborations for manpower development initiatives in the social service sector.
+                                The STT comprises representatives from Social Service Agencies, professional associations, academia and the Government.</p></td><td style="padding:5px;width:45%;text-align:left;vertical-align:top;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;background-color:#ffffff;"><div><img src="/images/default-source/msf-event/ncpr1-yee-siaw-ling.jpg?sfvrsn=f757d9fa_3" title="NCPR Speaker - Yee Siaw Ling" width="150" alt="NCPR Speaker - Yee Siaw Ling">&nbsp;</div>&nbsp;
+ <p>Yee Siaw Ling is currently the Director of the Central Youth Guidance Office (CYGO), an inter-ministry setup, comprising officers from the Ministry of Education (MOE), Ministry of Home Affairs (MHA) and Ministry of Social and
+                                Family Development (MSF). CYGO oversees early-intervention strategies to prevent youth-at-risk from committing crime and serves as co-secretariat to the National Committee on Prevention, Rehabilitation and Recidivism (NCPR),
+                                with MHA’s Policy Development Division.</p></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:5%;text-align:center;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><p style="text-align:center;">2</p></td><td style="padding:5px;width:50%;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><p><strong><a href="/docs/default-source/msf-event/ncpr-ncss-resilience-in-youth-offenders.pdf?sfvrsn=1e324f83_3" target="_blank">Resilience in Youth Offenders</a></strong></p><p><em>(Click on title to download presentation and <a href="https://youtu.be/vobkwvyJoHY" target="_blank" data-sf-ec-immutable="">click here to watch the session recording</a>)</em></p><p>This presentation provided participants with a better understanding of the theories on protective factors as well as empirical findings from local studies on youth offenders. It covered:<span style="font-size:16px;">&nbsp;</span></p><p style="margin-left:40px;">i) An overview of the definitions and different types of protective factors and the mechanisms of how protective factors work;</p><p style="margin-left:40px;">ii) Examples of protective factors that are directly associated with lower level of negative outcomes;</p><p style="margin-left:40px;">iii) Examples of protective factors that increase the effect of other protective factors;</p><p style="margin-left:40px;">iv) Examples of protective factors that reduce the effects of risk factors.</p></td><td style="padding:5px;width:45%;text-align:left;vertical-align:top;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;background-color:#ffffff;"><div><img src="/images/default-source/msf-event/ncpr2-li-dongdong.jpg?sfvrsn=3f9e0728_3" title="NCPR Speaker - Li Dongdong" width="150" alt="NCPR Speaker - Li Dongdong">&nbsp;</div>&nbsp;
+ <p>Li Dongdong, Ph.D., is a principal research specialist at the Translational Social Research Division, the National Council of Social Service (NCSS). Her research involves the study of child protection issues and youth offender
+                                rehabilitation, such as the predictors and outcomes of involvement in child protection service; effects of childhood maltreatment and the cycle of violence. She has extensive experience in research activities in both academic
+                                and government settings in Singapore. She played an instrumental role in several longitudinal studies and contributed extensively to many international journals, books and government publications.</p></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:5%;text-align:center;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><p style="text-align:center;">3</p></td><td style="padding:5px;width:50%;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><p><strong><a href="/docs/default-source/msf-event/ncpr-sps-family-intervention-for-incarcerated-parents-and-their-children.pdf?sfvrsn=53cd28c6_3" target="_blank">Family Intervention for Incarcerated Parents and their Children</a></strong></p><p><em>(Click on title to download presentation and <a href="https://youtu.be/rVSXhF330nc" target="_blank" data-sf-ec-immutable="">click here to watch the session recording</a>)</em></p><p>This presentation provided participants who are working with the offender population or their family members with a better understanding of the family intervention initiatives that have been introduced by the Singapore Prison
+                                Service (SPS) to strengthen family relations between incarcerated parents and their children. These initiatives promote the development of a stronger familial identity amongst incarcerated parents to help in their desistance
+                                journey, with the hope that these improved familial ties may mitigate intergenerational offending risk and promote positive outcomes for the children and their family.</p><p>It covered:</p><p style="margin-left:40px;">i) Research findings on intergenerational offending</p><p style="margin-left:40px;">ii) An overview of the family programmes in SPS</p><p style="margin-left:40px;">iii) Example of a family intervention pilot in SPS that helped to improve familial relationships</p></td><td style="padding:5px;width:45%;text-align:left;vertical-align:top;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;background-color:#ffffff;"><div><img src="/images/default-source/msf-event/ncpr3-chua-zijun-angeline.jpg?sfvrsn=18dc8cd8_3" height="143" width="150" alt="">&nbsp;</div>&nbsp;
+ <p>Chua Zijun Angeline is currently a Correctional Rehabilitation Specialist with SPS since 2014. Her experience includes providing psychological assessment and intervention for drug offenders, and training SPS staff to create
+                                a rehabilitative environment to promote offenders’ transformation. She has also served in the Family Interventions and Reintegration Support Team (FIRST) as a Family Case Manager to provide case management and family
+                                intervention for inmates and their families. She is focusing on working with other SPS officers and specialists to establish family-focused processes and programmes to support inmates’ reconciliation and reintegration
+                                with their families in the last three years.</p></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:5%;text-align:center;vertical-align:top;border-top-color:#cccccc;border-bottom-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-style:solid;border-bottom-style:solid;border-left-style:solid;"><p style="text-align:center;">4</p></td><td style="padding:5px;width:50%;vertical-align:top;border-top-color:#cccccc;border-bottom-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-style:solid;border-bottom-style:solid;border-left-style:solid;"><p><strong><a href="/docs/default-source/msf-event/ncpr-moe-developing-student-character-resilience-and-well-being-in-schools.pdf?sfvrsn=ec5dbd72_3" target="_blank">Developing Student Character, Resilience and Well-being in Schools</a></strong></p><p><em>(Click on title to download presentation and <a href="https://youtu.be/sQ1qCEWYiRI" target="_blank" data-sf-ec-immutable="">click here to watch the session recording</a>)</em></p><p>This presentation provided participants with a better understanding of the upstream MOE and school measures to nurture our students’ character, resilience, and well-being.</p><p>It covered:</p><p style="margin-left:40px;">i) Key features of the refreshed Character and Citizenship Education (CCE) 2021 and its relevance to the evolving student needs and shifting societal values;</p><p style="margin-left:40px;">ii) Examples of school practices on CCE learning experiences in and outside of the classroom, as well as efforts to foster a caring and enabling environment (e.g. positive teacher-student relationships and peer support).</p></td><td style="padding:5px;border:1px solid #cccccc;width:45%;text-align:left;vertical-align:top;background-color:#ffffff;"><div><img src="/images/default-source/msf-event/ncpr4-chee-chit-yeng.jpg?sfvrsn=a395ce7_3" title="NCPR Speaker - Chee Chit Yeng" width="150" alt="NCPR Speaker - Chee Chit Yeng">&nbsp;</div>&nbsp;
+ <p>Chee Chit Yeng is currently the Deputy Director of the Counselling and Student Welfare (CSW) unit in Guidance Branch from the MOE. The CSW unit supports schools in the effective implementation of school counselling and social
+                                welfare policies and programmes. It also looks into the professional development of counselling personnel and student welfare officers.</p><p>Chit Yeng has been in the Education Service for over 20 years and has leadership experience as Head of Department, Vice Principal and Principal in Secondary and Primary schools.</p></td></tr></tbody></table></div><div class="tab-pane fade" id="Webinars-tab-pane" role="tabpanel" aria-labelledby="Webinars-tab" tabindex="0"><p><strong>Webinar Session 1* (10.50am – 11.35am)<br></strong>
+ <em><span style="font-size:13px;">(*Participants to register for 1 out of 5 sessions)</span></em></p><table style="width:100%;" border="0" cellpadding="0"><tbody><tr style="vertical-align:top;"><td style="padding:5px;width:5%;text-align:center;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;background-color:#bfbfbf;"><strong>S/N</strong></td><td style="padding:5px;width:50%;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;background-color:#bfbfbf;"><strong>Synopsis</strong></td><td style="padding:5px;width:45%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;background-color:#bfbfbf;"><strong>Speakers</strong></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:5%;text-align:center;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><p style="text-align:center;">1</p></td><td style="padding:5px;width:50%;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><div><img src="/images/default-source/msf-event/ws1.1-communities-that-care.jpg?sfvrsn=23078a9a_3" title="Communities that Care" width="130" alt="Communities that Care">&nbsp;</div>&nbsp;
+ <p><strong><a href="/docs/default-source/msf-event/webinar-1-1-slides-final-v2.pdf?sfvrsn=b64e338e_3" target="_blank">Using Prevention Science to Guide Community Action: Long-term Effects of Communities That Care (CTC) on Positive Youth Development</a></strong></p><p><em>(Click on title to download presentation and <a href="https://youtu.be/gP_09SyQk_c" target="_blank" data-sf-ec-immutable="">click here to watch the session recording</a>)&nbsp;</em></p><p>This presentation described CTC, a science-based community-driven prevention system that has been shown to promote positive youth development and prevent delinquency and substance misuse in young people.</p><p>The presentation:</p><p style="margin-left:40px;">i) Provided an overview of CTC, including the social development strategy guiding the approach. The step-by-step 5-phased process communities used to implement CTC will also be described.</p><p style="margin-left:40px;">ii) Shared evidence from studies demonstrating that CTC reduces delinquency and substance use in adolescence and young adulthood. The presentation will also highlight lessons from implementation of CTC&nbsp;across the United
+                                States and around the world.</p><p style="margin-left:40px;">iii) Is a valuable resource for stakeholders – educators, local leaders and law enforcement, parents, volunteers, prevention scientists, social workers and others – who want to promote positive youth development
+                                and reduce delinquency and other health-risking behaviours through specific, science-based community action.</p><p style="margin-left:40px;">iv) Provided an effective and practical, step-by-step approach tailored to local priorities and values that communities can follow to achieve their prevention priorities.</p></td><td style="padding:5px;width:45%;text-align:left;vertical-align:top;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;background-color:#ffffff;"><div><img src="/images/default-source/msf-event/ws1.1-margaret-kuklinski.jpg?sfvrsn=8266a640_3" title="Speaker - Margaret Kuklinski" width="150" alt="Speaker - Margaret Kuklinski">&nbsp;</div>&nbsp;
+ <p>Margaret Kuklinski, PhD, is Associate Research Professor in the School of Social Work at the University of Washington and Assistant Director of the Social Development Research Group (SDRG), a recognised leader in the field
+                                of prevention science and intervention. Her research and intervention efforts promotes positive development by demonstrating the long-term impact of effective preventive interventions, identifying the level of investment
+                                needed to improve health and wellbeing through effective intervention, and building policy support for preventive interventions by demonstrating their benefits and costs.</p><p>Margaret currently serves as co-principal investigator on the longitudinal evaluation of the CTC&nbsp;prevention system. She is also co-principal investigator on a multisite trial testing the feasibility and effectiveness of
+                                implementing Guiding Good Choices, a prevention program for parents of adolescents, in three large healthcare systems. She earned a PhD in clinical and community psychology from the University of California, Berkeley, and
+                                an undergraduate degree in economics from Harvard University.</p></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:5%;text-align:center;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><p style="text-align:center;">2</p></td><td style="padding:5px;width:50%;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><div><img src="/images/default-source/msf-event/ws1.2-life-buddies.jpeg?sfvrsn=7c2d8455_3" title="Hong Kong Life Buddies" width="200" alt="Hong Kong Life Buddies">&nbsp;</div><p>&nbsp;</p><p><strong style="font-size:16px;"><a href="/docs/default-source/msf-event/webinar-1-2-final-slides.pdf?sfvrsn=7008467f_3" target="_blank">Life Buddies Mentoring Scheme</a></strong></p><p><em>(Click on title to download presentation and <a href="https://youtu.be/KUirUv-ZLs4" target="_blank" data-sf-ec-immutable="">click here to watch the session recording</a>)&nbsp;</em></p><p>This presentation introduced a youth mentoring scheme, namely “Life Buddies”, launched by the Commission on Poverty of the Hong Kong Special Administrative Region Government. The mentoring scheme aims at promoting
+                                mentoring culture in the community to help youth from disadvantaged background move upward in society. It included:</p><p style="margin-left:40px;">i) An overview of the Life Buddies mentoring scheme, which comprises three programmes, namely a school-based mentoring programme, a job-tasting programme and a "Be a Government Official for a Day" programme.</p><p style="margin-left:40px;">ii) Sharing of the experiences in running the mentoring scheme and the feedback of the participants.</p></td><td style="padding:5px;width:45%;text-align:left;vertical-align:top;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;background-color:#ffffff;"><div><img src="/images/default-source/msf-event/ws1.2-au-yeung-lik-nick6d2ec680-fba9-432c-b7e6-b4467d3c877d.jpg?sfvrsn=ee143e5d_3" height="201" style="font-size:16px;" width="150" alt="WS1.2-Au-Yeung-Lik-Nick">&nbsp;<br><br><span>Nick A</span><span>u Yeung is curren</span><span>tly the Deputy Head of the Human Resources Planning and Poverty Co-ordination Unit (HRPPCU) under the Chief Secretary for Administration's Private Office of the Hong Kong Special Administrative Region Government. HRPPCU’s responsibilities include providing secretarial support to the Commission on Poverty. The Commission on Poverty (CoP), chaired by the Chief Secretary for Administration, is an important policy platform to promote a tripartite partnership among the community, the business sector and the Government to drive poverty-alleviation work and to advise on appropriate policy measures to alleviate poverty and to support the disadvantaged and various needy groups in the community.</span></div><div><span>&nbsp;</span>
+ <p>Mr Au Yeung joined the Administrative Service of the Hong Kong Special Administrative Region Government in 1999 and has previously served in different policy bureaux and departments, including the Financial Services and
+                                    the Treasury Bureau, the Chief Executive’s Office and the Home Affairs Bureau.</p></div></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:5%;text-align:center;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><p style="text-align:center;">3</p></td><td style="padding:5px;width:50%;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><div><img src="/images/default-source/msf-event/ws1.3-functional-family-probation.jpg?sfvrsn=63cc0cc6_3" title="Functional Family Probation" width="280" alt="Functional Family Probation">&nbsp;</div>&nbsp;
+ <p><strong><a href="/docs/default-source/msf-event/webinar-1-3-final-slides.pdf?sfvrsn=c3d156e0_3" target="_blank">Functional Family Probation</a></strong></p><p><em style="font-size:16px;background-color:#ffffff;">(Click on title to download presentation and <a href="https://youtu.be/BxGFWyUKzsk" target="_blank" data-sf-ec-immutable="">click here to watch the session recording</a>)</em></p><p>This webinar shared about the intensive case management approach for higher risk cases that MSF is piloting, with close support from US counterparts where the model originates from. It is a strengths-based approach which includes
+                                a core attitude of respectfulness, alliance and relationships&nbsp;that helps motivate and empower families to build on what is working well and increase their willingness to work on areas of improvement. The sharing touched
+                                on the framework and insights gained as Probation Officers undertake a more intentional method in working with families with higher risk and needs.</p></td><td style="padding:5px;width:45%;text-align:left;vertical-align:top;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;background-color:#ffffff;"><div><img src="/images/default-source/msf-event/ws1.3-li-zhi-hui.jpg?sfvrsn=8d3ea390_3" title="Speaker - Li Zhi Hui" width="150" alt="Speaker - Li Zhi Hui">&nbsp;</div>&nbsp;
+ <p>Li Zhi Hui is an Assistant Manager of Operations with the Probations and Rehabilitation Service (PCRS) at MSF. He is leading the Functional Family Probation team. He has been with PCRS since 2012, as a Senior Probation Officer
+                                working with hostels like Boys’ Town, Hope House and Singapore Boys’ Hostel.</p><div><img src="/images/default-source/msf-event/ws1.3-syamirah-abdin.jpg?sfvrsn=d53956fb_3" title="Speaker - Syamirah Abdin" width="150" alt="Speaker - Syamirah Abdin">&nbsp;</div>&nbsp;
+ <p>Syamirah Abdin is a Senior Probation Officer with the Probation and Rehabilitation Community Service at MSF. She has been working with families and youths in the social service sector since 2015, running outreach developments
+                                and psycho-educational workshops. She has rich experience in working with higher risk probationers using the Functional Family Probation® approach, as well as with community partners such as the Hindu Centre in delivering
+                                a values-based programme for higher-risk Indian male probationers and providing volunteer training.</p></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:5%;text-align:center;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><p style="text-align:center;">4</p></td><td style="padding:5px;width:50%;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><div><img src="/images/default-source/msf-event/ws1.4-restorative-justice.jpg?sfvrsn=64bb4d26_3" title="Restorative Justice" width="150" alt="Restorative Justice">&nbsp;</div>&nbsp;
+ <p><strong>Restorative Practices from a Judicial Perspective</strong></p><p><em>(Note: This presentation and recording are not available)</em></p><p>As a firm believer in the philosophy, principles and posture behind restorative justice, Lim Keng Yeow will share the restorative practices in the Youth Courts, as well as his personal journey and experience as a practitioner.</p><p>The Youth Courts deal with three key types of cases: 1) Youth Arrest cases, 2) Family Guidance cases; and 3) Child Protection cases. The philosophy of the Youth Courts is that of Restorative Justice, which recognises the potential
+                                for change and reform in young offenders and delinquent youths. Restorative Justice seeks to re-integrate the young offender or delinquent youth back into their families and community, as well as balance the need for effective
+                                deterrence versus the need for rehabilitation and restoration.</p></td><td style="padding:5px;width:45%;text-align:left;vertical-align:top;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;background-color:#ffffff;"><p>Lim Keng Yeow started his career as a Deputy Public Prosecutor at the Attorney-General’s Chambers. He went on to be a law educator for over a decade before returning to the Courts as a District Judge. He began at the
+                                Family Justice Courts dealing with a wide range of family matters and became the resident judge at the Youth Courts for over three years. Following that, he served at the State Courts dealing with criminal matters generally
+                                and, for over three years, also handled specialised Community Court cases dealing with adolescent offenders. Now back at the Family Justice Courts, he considers his years at the Youth Courts to be the most significant and
+                                memorable years of his career so far.</p></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:5%;text-align:center;vertical-align:top;border-top-color:#cccccc;border-bottom-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-style:solid;border-bottom-style:solid;border-left-style:solid;"><p style="text-align:center;">5</p></td><td style="padding:5px;width:50%;vertical-align:top;border-top-color:#cccccc;border-bottom-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-style:solid;border-bottom-style:solid;border-left-style:solid;"><div><img src="/images/default-source/msf-event/ws1.5-drug-education.jpg?sfvrsn=db2ec141_3" title="CNB's Preventive Drug Education for Youth" width="280" alt="CNB's Preventive Drug Education for Youth">&nbsp;</div>&nbsp;
+ <p><strong><a href="/docs/default-source/msf-event/webinar-1-5-final-slides.pdf?sfvrsn=eb7934f1_3" target="_blank">CNB’s Preventive Drug Education for Youth</a></strong></p><p><em>(Click on title to download presentation and <a href="https://youtu.be/3MIywKfgg3s" target="_blank" data-sf-ec-immutable="">click here to watch the session recording</a>)</em></p><p>The presentation provided an overview of the key challenges in the global drug landscape and the impact on Singapore’s drug control policy. Audience had a better understanding of Central Narcotics Bureau’s (CNB)
+                                Preventive Drug Education (PDE) strategy as part of the overall national drug control policy. In addition to key initiatives targeted at youth, the session also shared the Bureau’s future focus and how educators,
+                                youth workers and volunteers may collectively contribute to building a drug-free environment for our young generation.</p></td><td style="padding:5px;border:1px solid #cccccc;width:45%;text-align:left;vertical-align:top;background-color:#ffffff;"><div><img src="/images/default-source/msf-event/ws1.5-serene-wong.jpg?sfvrsn=28db66da_3" title="Speaker - Serene Wong" width="150" alt="Speaker - Serene Wong">&nbsp;</div>&nbsp;
+ <p>Serene Wong is a Senior Assistant Director of the planning &amp; development unit within the Communications Division in the CNB. The Communications Division supports CNB’s mission, as the national lead agency to spearhead
+                                drug prevention, to promote a drug-free lifestyle and zero tolerance attitude towards drug abuse. Her unit is responsible for the conceptualisation and development of the overarching PDE strategy for CNB which would set
+                                the foundation for other units within Communications Division in planning and organising PDE activities and events, ensuring that consistent PDE messages are being promulgated to the community.</p></td></tr></tbody></table><p>&nbsp;</p><p><strong>Webinar Session 2* (11.45am – 12.30pm)<br></strong>
+ <em><span style="font-size:13px;">(*Participants to register for 1 out of 5 sessions)</span></em></p><table style="width:100%;" border="0" cellpadding="0"><tbody><tr style="vertical-align:top;"><td style="padding:5px;width:5%;text-align:center;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;background-color:#bfbfbf;"><strong>S/N</strong></td><td style="padding:5px;width:50%;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;background-color:#bfbfbf;"><strong>Synopsis</strong></td><td style="padding:5px;width:45%;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;background-color:#bfbfbf;"><strong>Speakers</strong></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:5%;text-align:center;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><p style="text-align:center;">1</p></td><td style="padding:5px;width:50%;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><div><img src="/images/default-source/msf-event/ws2.1-oywt.png?sfvrsn=71f880ac_3" title="Otago Youth Wellness Trust" width="130" alt="Otago Youth Wellness Trust">&nbsp;</div>&nbsp;
+ <p><strong><a href="/docs/default-source/msf-event/webinar-2-1-final-slides.pdf?sfvrsn=395c94b1_3" target="_blank">The Otago Youth Wellness Trust (OYWT)</a></strong></p><p><em>(Click on the title to download presentation and <a href="https://youtu.be/n7i9mQxZwmA" target="_blank" data-sf-ec-immutable="">click here to watch the session recording</a>)</em></p><p>Otago Youth Wellness Trust grew out of the community, following a growing concern for the level of youth offending and the general wellbeing of youth in the city of Dunedin, Otago in New Zealand. The Trust was formed in 1996
+                                and included community leaders as well as young people. For 25 years the Trust has held true to being community based and responsive to the multiple needs of young people. To achieve the outcomes it aimed for, the Trust
+                                adopted a wraparound approach with the young person at the centre and each of their individual needs responded to in an integrated approach. As part of the responsiveness to need, mentoring evolved. It has included a range
+                                of different people including peers as well as older folk that the young people have been matched with – again according to need.</p></td><td style="padding:5px;width:45%;text-align:left;vertical-align:top;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;background-color:#ffffff;"><div><img src="/images/default-source/msf-event/ws2.1-nicola-atwool.jpg?sfvrsn=de3d5b80_3" title="Speaker - Nicola Atwool" width="150" alt="Speaker - Nicola Atwool">&nbsp;</div>&nbsp;
+ <p>Nicola Atwool is an Associate Professor in the Social and Community Work at the University of Otago and an OYWT Board Member. She returned to academia at the beginning of 2012 having spent six years as a Principal Advisor in
+                                the Office of the Children's Commissioner. She previously worked at the University of Otago as a lecturer and senior lecturer in the social work programme from 1994 to 2005.</p><p>Nicola has professional qualifications in social work and child and adolescent psychotherapy and was employed in a variety of roles by what is now Oranga Tamariki for nearly 20 years before taking up an academic position. Her
+                                research interests include the social construction of childhood and adolescence, attachment theory, resilience, the impact of trauma on children and young people, the experience of children in care and social work intervention
+                                with children, young people and their families. Nicola is committed to bridging the worlds of academia, policy and practice.</p><div><img src="/images/default-source/msf-event/ws2.1-claire-ramsay.jpg?sfvrsn=b296a39f_3" title="Speaker - Claire Ramsay" width="150" alt="Speaker - Claire Ramsay">&nbsp;</div>&nbsp;
+ <p>Claire Ramsay is Trust Manager at the Otago Youth Wellness Trust Board. She has joined the Trust in 1999 and has remained involved since, including a period as Chair of the Trust board.</p><p>Originally trained as a journalist, Claire has a passion for the community. As well as serving on several boards, she has also supported student groups at the University of Otago in her role (2006-2018) as Director of the Otago
+                                Business School. She is widely connected in the city and further afield which presents opportunities for the Trust to build its valuable networks to support its work with young people.</p></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:5%;text-align:center;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><p style="text-align:center;">2</p></td><td style="padding:5px;width:50%;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><div><img src="/images/default-source/msf-event/ws2.2-youth-engagement-strategies.jpg?sfvrsn=e3f944ec_3" title="Youth Engagement Strategies" width="150" alt="Icon on Youth Engagement Strategies">&nbsp;<span style="font-size:16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp;</span></div><p><strong><a href="/docs/default-source/msf-event/webinar-2-2-final-slides-(shine).pdf?sfvrsn=ea41e121_3" target="_blank">Understanding and Engaging Youths (by SHINE Children and Youth Services)</a></strong></p><p><em>(Click on title to download presentation and <a href="https://youtu.be/4vWGTpTx-yY" target="_blank" data-sf-ec-immutable="">click here to watch the session recording</a>)</em></p><p>Long-term absentee. Youth offender. These are the labels often hanging above the heads of the children and youth from diversionary programmes and Enhanced STEP-UP programme (ESU) as they first meet the caseworkers from the
+                                Integrated Service Provider (ISP) team.</p><p>This presentation shed light on how SHINE Children and Youth Services endeavours to see the child/youth beyond their difficult situations and the labels that have been placed on them. Speakers will share their experiences on
+                                providing systemic intervention for the individual, family, school and community systems.</p><p><strong><a href="/docs/default-source/msf-event/webinar-2-2-final-slides-(cc).pdf?sfvrsn=f72ada6c_3" target="_blank">Engagement: What Does It Mean For Our Adolescents? (by Care Corner Singapore)</a></strong></p><p><em>(Click on title to download presentation)&nbsp;</em></p><p>Care Corner’s sharing expounded on a pilot project conducted by the Youth GO! Programme in 2020, where they engaged adolescents via their interests in cycling. The programme collaborated with industrial partners and other
+                                agencies to engage adolescents meaningfully through cycling. It also included a vocational training component that saw positive development milestones achieved for their clients. Through this sharing, Care Corner summarised
+                                their learnings gained through the collaborative partnerships and broaden perspectives on what positive engagement with youths can harvest in the long run.</p></td><td style="padding:5px;width:45%;text-align:left;vertical-align:top;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;background-color:#ffffff;"><div><img src="/images/default-source/msf-event/ws2.2-wang-peishan-theresa.jpg?sfvrsn=a93f0b82_3" title="Speaker - Wang Peishan Theresa" width="150" alt="Speaker - Wang Peishan Theresa">&nbsp;</div>&nbsp;
+ <p>Wang Peishan, Theresa is Assistant Director at SHINE Children and Youth Services. She was trained in social work, counselling, and clinical supervision, and subsequently specialised and completed her Masters in Family Therapy
+                                in Kings’ College London in 2017. Currently she is leading a team to run MSF Youth-At-Risk programmes. Theresa was also appointed by National Council of Social Service in 2020 as one of the 40-Under-40 promising social
+                                service sector leaders.</p><div><img src="/images/default-source/msf-event/ws2.2-zhuang-xinyan.jpg?sfvrsn=62f1af23_3" title="Speaker - Zhuang Xinyan" width="150" alt="Speaker - Zhuang Xinyan">&nbsp;</div>&nbsp;
+ <p>Zhuang Xinyan is Assistant Director at SHINE Children and Youth Services. She has been a social worker and supervisor in the children and youth sector since 2008. Currently, Xinyan leads a team in SHINE Children and Youth Services
+                                providing MSF Youth-At-Risk programmes for the northeast region.</p><div><img src="/images/default-source/msf-event/ws2.2-lok-liang-xun.jpg?sfvrsn=65e93617_3" title="Speaker - Lok Liang Xun" width="150" alt="Speaker - Lok Liang Xun">&nbsp;</div>&nbsp;
+ <p>Lok Liang Xun is Senior Manager at Care Corner Singapore. He oversees the operations at the Youth Services. Liang Xun started his career as an educator in 2015, sharing the love of Geography at both the Secondary School and
+                                Pre-University settings before joining the social services, committing his cause to working with adolescents and youths.</p><div><img src="/images/default-source/msf-event/ws2.2-wang-zhichao.jpg?sfvrsn=8b4cc335_3" title="Speaker - Wang ZhiChao" width="150" alt="Speaker - Wang ZhiChao">&nbsp;</div>&nbsp;
+ <p>Wang Zhichao is Team Leader at Care Corner Singapore. He joined the social services sector in 2007 and began his involvement with various community programmes supporting children and youths from disadvantaged backgrounds.</p></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:5%;text-align:center;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><p style="text-align:center;">3</p></td><td style="padding:5px;width:50%;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><div><img src="/images/default-source/msf-event/ws2.3-parenting-in-singapore.jpg?sfvrsn=35bd24ab_3" title="Parenting in Singapore" width="200" alt="Icon on Parenting in Singapore">&nbsp;</div>&nbsp;
+ <p><strong><a href="/docs/default-source/msf-event/webinar-2-3-final-slides.pdf?sfvrsn=d544510_3" target="_blank">Parenting in Singapore: Insights to the Culture-Specific Functions of Styles and Practices</a></strong></p><p><em>(Click on title to download presentation and <a href="https://youtu.be/TVWztv6lo7g" target="_blank" data-sf-ec-immutable="">click here to watch the session recording</a>)</em></p><p>Parenting behaviours may take a different form, or serve a different function, depending on the culture within which the family is situated. Much of what researchers and practitioners know about optimal parenting styles and
+                                practices are based on research conducted in non-Asian societies, notably in North America. These studies rarely take into account cultural nuances that one may observe in this part of the world. Parenting research is a
+                                small but growing field in Singapore. We are at a juncture where sufficient data on parenting have been accumulated, in a way that allows us to draw some initial conclusions about optimal practices.</p><p>This webinar reported findings from a systematic review that was undertaken with the aim of identifying such nuances in Singapore. This provides a good starting point to understand and compare the forms and functions of parenting
+                                in Asia and beyond. A review of 27 studies showed that optimal parenting styles and practices were associated with positive child development outcomes in Singapore, similar to what has been observed in Western contexts.
+                                However, some parenting behaviours that were typically considered to be sub-optimal were not invariably related to poorer child outcomes in Singapore, indicating that there may be protective cultural factors related to
+                                the interpretation of parental control. </p></td><td style="padding:5px;width:45%;text-align:left;vertical-align:top;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;background-color:#ffffff;"><div><img src="/images/default-source/msf-event/ws2.3-cheung-hoi-shan.jpg?sfvrsn=5ea187ca_3" title="Speaker - Cheung Hoi Shan" width="150" alt="Speaker - Cheung Hoi Shan">&nbsp;</div>&nbsp;
+ <p>Cheung Hoi Shan is an Assistant Professor of Psychology at Yale-NUS College. She began her research career in 2004 at the Singapore Children’s Society, a voluntary welfare organisation which played a major role in nurturing
+                                her interest in parenting and child development research in Singapore. She obtained a Ph.D. in Developmental Psychology from the National University of Singapore (NUS) in 2014, where she examined how parental sensitive
+                                behaviour is related to children’s peer relationship in pre-school. She continued to develop her research in attachment theory and school bullying, as a postdoctoral fellow in the Department of Psychology at NUS and
+                                later a visiting scholar in the Department of Human Development and Family Studies at Purdue University.</p><p>Hoi Shan's&nbsp;current work investigates parenting styles and practices in Singapore and different cultures, and their influence on children’s development. Her current research also looks at how the quality of parent-child
+                                attachment and children’s friendship quality may buffer the effects of bullying and victimisation among primary school pupils.</p></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:5%;text-align:center;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><p style="text-align:center;">4</p></td><td style="padding:5px;width:50%;vertical-align:top;border-top-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-left-width:1px;border-top-style:solid;border-left-style:solid;"><div><img src="/images/default-source/msf-event/ws2.4-common-mental-health-problems.jpg?sfvrsn=97e8813c_3" title="Common Mental Health Problems" width="200" alt="Icon on Common Mental Health Problems">&nbsp;</div>&nbsp;
+ <p><strong><a href="/docs/default-source/msf-event/webinar-2-4-final-slides.pdf?sfvrsn=8933451b_3" target="_blank">Bad, Sad or Mad? Common Mental Health Problems Among Youth in Custody</a></strong></p><p><em>(Click on title to download presentation and <a href="https://youtu.be/vttvhDoy5QA" target="_blank" data-sf-ec-immutable="">click here to watch the session recording</a>)</em></p><p>This presentation provided participants with a better understanding of the common types of mental health problems among youths who are residing in the Singapore Girls’ Home and Singapore Boys’ Home, through vignettes
+                                of real-life cases.</p><p>It covered:</p><p style="margin-left:40px;">i) An overview of the types of common mental illnesses and their presentation;</p><p style="margin-left:40px;">ii) Treatment approaches including specific intervention within the Home environment;</p><p style="margin-left:40px;">iii) Illustration of the importance of the roles of residential home staff in the management of these cases;</p><p style="margin-left:40px;">iv) Information on mental health services for youths within the community.</p><p>In addition to information on common mental illnesses and their clinical presentation, participants learned about the importance of multi-disciplinary care for youths with mental illnesses.</p></td><td style="padding:5px;width:45%;text-align:left;vertical-align:top;border-top-color:#cccccc;border-right-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-left-style:solid;background-color:#ffffff;"><div><img src="/images/default-source/msf-event/ws2.4-lim-choon-guan.jpg?sfvrsn=5680215a_3" title="Speaker - Lim Choon Guan" width="150" alt="Speaker - Lim Choon Guan">&nbsp;</div>&nbsp;
+ <p>Lim Choon Guan is a psychiatrist, senior consultant and deputy chief of the Department of Developmental Psychiatry at the Institute of Mental Health (IMH). He works with the Neuro-Behavioural Clinic which oversees the clinical
+                                care for children with neuro-behavioural disorders such as Attention Deficit Hyperactivity Disorder (ADHD) and autistic spectrum disorder. In addition to clinical services, Choon Guan is involved in clinical research, especially
+                                involving children with ADHD. He is a member of the National Healthcare Group and the hospital’s institutional review boards. He is also a senior editor with the peer-reviewed open-access journal ‘Child and
+                                Adolescent Psychiatry and Mental Health’. Concurrently, he is an adjunct assistant professor with the Duke-National University of Singapore (NUS) Graduate Medical School and the National Technological University,
+                                and a Senior Clinical Tutor at the NUS Yong Loo Lin School of Medicine.</p></td></tr><tr style="vertical-align:top;"><td style="padding:5px;width:5%;text-align:center;vertical-align:top;border-top-color:#cccccc;border-bottom-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-style:solid;border-bottom-style:solid;border-left-style:solid;"><p style="text-align:center;">5</p></td><td style="padding:5px;width:50%;vertical-align:top;border-top-color:#cccccc;border-bottom-color:#cccccc;border-left-color:#cccccc;border-top-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-style:solid;border-bottom-style:solid;border-left-style:solid;"><div><img src="/images/default-source/msf-event/ws2.5-radicalisation.jpg?sfvrsn=9941a416_3" title="Counter-Terrorism" width="280" alt="Icon on Counter-Terrorism">&nbsp;</div>&nbsp;
+ <p><strong>Violent Extremist Radicalisation and Local Youths – “We Are in a Difficult Situation” </strong></p><p><strong>&nbsp;</strong><em>(Note: This presentation and recording are&nbsp;not available.)</em></p><p>This presentation included:</p><p style="margin-left:40px;">i) An overview of Singapore’s counter-terrorism efforts;</p><p style="margin-left:40px;">ii) The challenges posed by online radicalisation;</p><p style="margin-left:40px;">iii) The nature of the radicalisation process, and the behavioural signs of radicalisation;</p><p style="margin-left:40px;">iv) Recent radicalisation trends in Singapore and the need to mitigate violent extremist radicalisation among youths.</p></td><td style="padding:5px;border:1px solid #cccccc;width:45%;text-align:left;vertical-align:top;background-color:#ffffff;"><div><img src="/images/default-source/msf-event/ws2.5-yeong-gah-hou.png?sfvrsn=679a7f02_3" title="Speaker - Yeong Gah Hou" width="150" alt="Speaker - Yeong Gah Hou">&nbsp;</div>&nbsp;
+ <p>Yeong Gah Hou joined the Internal Security Department in 1989 and is the current Director (Security Outreach), having held the Director (Planning &amp; Organization) post in 2018. Prior to that, he was Senior Director (Integration)
+                                in the National Population and Talent Division in the Prime Minister’s Office (PMO), and the Senior Director, National Security Research Centre in the National Security Coordination Secretariat (NSCS) in the PMO before
+                                that.
+                            </p><p>Gah Hou’s previous postings included the Ministry of Community Development, Youth and Sports where he oversaw strategic planning, social research and organisational development for the Ministry. He had also set up the
+                                Joint Counter-Terrorism Centre within the NSCS in the PMO in 2004.</p></td></tr></tbody></table></div></div></div>
+<div class="accordion" id="accordionExample">
+    <div id="Content_C005_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content">
+    </div>
+</div>
+</div>
+
+    </div>
+</div> <div class="sharethis-inline-share-buttons"></div> 
+
+
+<footer class="sgds footer">
+    <section class="footer-top">
+        <div class="container-fluid">
+            <div class="row footer-header">
+                <div class="footer-title">
+                    Ministry of Social and Family Development
+                </div>
+            </div>
+
+            <div class="row footer-contact-links">
+                <div class="col-sm-12">
+                    <div class="d-flex flex-column flex-lg-row gap-20 gap-lg-0 justify-content-lg-end">
+                        <div class="d-flex justify-content-lg-end">
+                            <ul class="d-flex flex-column flex-lg-row gap-lg-40 contact-links">
+                                        <li><a class="" href="/contact-us-feedback" aria-label="Contact Us / Feedback">Contact Us / Feedback</a></li>
+                                        <li><a class="not-first-page" href="/faqs" aria-label="FAQs">FAQs</a></li>
+                            </ul>
+                        </div>
+                        <div class="d-flex align-items-lg-center justify-content-lg-end">
+                            <ul class="d-flex social-links">
+                                <li>
+                                    <a href="https://www.facebook.com/MSFSingapore/" aria-label="facebook">
+                                        <em class="fa-brands fa-square-facebook"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/msfcares/" aria-label="instagram">
+                                        <em class="fa-brands fa-instagram"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://t.me/msfcares" aria-label="telegram">
+                                        <em class="fa-brands fa-telegram"></em>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="footer-bottom">
+        <div class="container-fluid">
+            <hr class="footer-divider">
+            <div class="row footer-mandatory-links">
+                <div class="col-12 col-lg-8 col-xl-9">
+                    <ul class="footer-nav-list">
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links " href="/report-vulnerability" rel="noopener" aria-label="Report Vulnerability
+
+">Report Vulnerability
+
+</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/privacy-statement" rel="noopener" aria-label="Privacy Statement">Privacy Statement</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/terms-of-use" rel="noopener" aria-label="Terms of Use&nbsp;">Terms of Use&nbsp;</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/sitemap" rel="noopener" aria-label="Sitemap">Sitemap</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/accessibility-statement" rel="noopener" aria-label="Accessibility Statement">Accessibility Statement</a>
+                                </li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg footer-copyrights">
+                    <div class="d-flex justify-content-lg-end text-lg-end">
+                        © 2024 Government of Singapore<br>
+                        Last updated 23 Jan 2024
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+
+
+ <div class="accessibility-sidebar"> <div class="btn-group-vertical btn-group-sm" role="group" aria-label="Accessibility Sidebar"> <button type="button" class="btn btn-accessibility btn-notice" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Show/Hide Notice" data-bs-original-title="Show/Hide Notice"> <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10 0C8.02219 0 6.08879 0.58649 4.4443 1.6853C2.79981 2.78412 1.51809 4.3459 0.761209 6.17317C0.00433284 8.00043 -0.193701 10.0111 0.192152 11.9509C0.578004 13.8907 1.53041 15.6725 2.92894 17.0711C4.32746 18.4696 6.10929 19.422 8.0491 19.8079C9.98891 20.1937 11.9996 19.9957 13.8268 19.2388C15.6541 18.4819 17.2159 17.2002 18.3147 15.5557C19.4135 13.9112 20 11.9778 20 10C20 8.68678 19.7413 7.38642 19.2388 6.17317C18.7363 4.95991 17.9997 3.85752 17.0711 2.92893C16.1425 2.00035 15.0401 1.26375 13.8268 0.761205C12.6136 0.258658 11.3132 0 10 0ZM10 18C8.41775 18 6.87104 17.5308 5.55544 16.6518C4.23985 15.7727 3.21447 14.5233 2.60897 13.0615C2.00347 11.5997 1.84504 9.99113 2.15372 8.43928C2.4624 6.88743 3.22433 5.46197 4.34315 4.34315C5.46197 3.22433 6.88743 2.4624 8.43928 2.15372C9.99113 1.84504 11.5997 2.00346 13.0615 2.60896C14.5233 3.21447 15.7727 4.23984 16.6518 5.55544C17.5308 6.87103 18 8.41775 18 10C18 12.1217 17.1572 14.1566 15.6569 15.6569C14.1566 17.1571 12.1217 18 10 18Z"></path> <path d="M10 7C10.5523 7 11 6.55228 11 6C11 5.44772 10.5523 5 10 5C9.44772 5 9 5.44772 9 6C9 6.55228 9.44772 7 10 7Z"></path> <path d="M10 8C9.73478 8 9.48043 8.10536 9.29289 8.29289C9.10536 8.48043 9 8.73478 9 9V14C9 14.2652 9.10536 14.5196 9.29289 14.7071C9.48043 14.8946 9.73478 15 10 15C10.2652 15 10.5196 14.8946 10.7071 14.7071C10.8946 14.5196 11 14.2652 11 14V9C11 8.73478 10.8946 8.48043 10.7071 8.29289C10.5196 8.10536 10.2652 8 10 8Z"></path> </svg> </button> <button type="button" class="btn btn-accessibility btn-font-bigger" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Increase Font Size" data-bs-original-title="Increase Font Size">
+                    A+
+                </button> <button type="button" class="btn btn-accessibility btn-font-smaller" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Decrease Font Size" data-bs-original-title="Decrease Font Size">
+                    A−
+                </button> <button type="button" class="btn btn-accessibility btn-contrast" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Toggle Colour Contrast" data-bs-original-title="Toggle Colour Contrast"> <em class="fa-solid fa-circle-half-stroke"></em> </button> </div> </div> <div class="back-to-top"> <button class="btn-back-top" aria-label="back to top"> <svg width="16" height="8" viewBox="0 0 16 8" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4826 7.76568C14.8297 8.07811 15.3925 8.07811 15.7396 7.76568C16.0868 7.45326 16.0868 6.94673 15.7396 6.63432L8.62853 0.23424C8.2814 -0.0780799 7.71859 -0.0780799 7.37146 0.23424L0.260266 6.63432C-0.0867557 6.94673 -0.0867557 7.45326 0.260266 7.76567C0.607466 8.07811 1.17031 8.07811 1.51751 7.76567L8 3L14.4826 7.76568Z"></path> </svg> <span>Top</span> </button> </div> <script src="/ResourcePackages/Msf/assets/js/jquery.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/jquery-ui.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/swiper-bundle.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/bootstrap.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/default-passive-events.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/search-result.js" type="text/javascript"></script> <script src="https://assets.wogaa.sg/scripts/wogaa.js"></script> <script type="text/javascript" src="/ResourcePackages/Msf/assets/js/sharethis.js#property=648140a26773dd0012e17a9b&amp;product=inline-share-buttons&amp;source=platform" async="async"></script> <script>
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window, document, 'script', 'dataLayer', 'G-7WBNTH91BT');
+            </script> <!-- Global site tag (gtag.js) - Google Analytics --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7WBNTH91BT"></script> <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-7WBNTH91BT');
+            </script> <script type="module" src="https://cdn.jsdelivr.net/npm/@govtechsg/sgds-web-component/Masthead/index.js"></script> <script src="/ResourcePackages/Msf/assets/js/main.min.js" type="text/javascript"></script>  
+<div id="st-2" class=" st-sticky-share-buttons st-left st-toggleable st-has-labels "><div class="st-btn st-first" data-network="facebook" style="display: inline-block;">
+  <img alt="facebook sharing button" src="https://platform-cdn.sharethis.com/img/facebook.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="linkedin" style="display: inline-block;">
+  <img alt="linkedin sharing button" src="https://platform-cdn.sharethis.com/img/linkedin.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="gmail" style="display: inline-block;">
+  <img alt="gmail sharing button" src="https://platform-cdn.sharethis.com/img/gmail.svg">
+  <span class="st-label">Email</span>
+</div><div class="st-btn st-last" data-network="copy" style="display: inline-block;">
+  <img alt="copy sharing button" src="https://platform-cdn.sharethis.com/img/copy.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-toggle">
+  <div class="st-left">
+    <img alt="arrow_left sharing button" src="https://platform-cdn.sharethis.com/img/arrow_left.svg">
+  </div>
+  <div class="st-right">
+    <img alt="arrow_right sharing button" src="https://platform-cdn.sharethis.com/img/arrow_right.svg">
+  </div>
+</div></div><wog-sentiments class="needsclick hydrated"></wog-sentiments></body></html>

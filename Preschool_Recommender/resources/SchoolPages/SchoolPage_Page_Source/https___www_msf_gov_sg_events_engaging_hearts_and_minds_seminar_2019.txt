@@ -1,0 +1,919 @@
+<html lang="en" class="hydrated"><head> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>
+	MSF | Engaging Hearts and Minds Seminar 2019
+</title> <link rel="icon" type="image/png" href="/ResourcePackages/Msf/assets/img/favIco.png"> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&amp;family=Open+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet">  <link href="/ResourcePackages/Msf/assets/css/sgds.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap-icons.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/all.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/sf-bootstrap-conflict.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/jquery-ui.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/swiper-bundle.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/search-result.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/main.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/custom-style.min.css" rel="stylesheet"> <meta property="og:title" content="MSF | Engaging Hearts and Minds Seminar 2019"><meta property="og:url" content="https://www.msf.gov.sg/events/engaging-hearts-and-minds-seminar-2019"><meta property="og:type" content="website"><meta property="og:site_name" content="Ministry of Social and Family Development"><script async="" src="https://buttons-config.sharethis.com/js/648140a26773dd0012e17a9b.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=G-7WBNTH91BT"></script><script async="" src="https://assets.wogaa.sg/snowplow/3.13.1/sp.js"></script><script type="text/javascript">
+function lateLoadChatFile() {      
+  setTimeout(() => {        
+              const bodyTag = document.getElementsByTagName("body")[0];      
+             // Create link element to import chat.css file and append it on the body element        
+             let linkTag = document.createElement("link");
+  linkTag.href = "https://webchat.vica.gov.sg/static/css/chat.css";         linkTag.type = "text/css";
+  linkTag.rel = "stylesheet";       
+  linkTag.referrerPolicy = "origin";      
+  bodyTag.appendChild(linkTag);        
+  // Create script element to import chat.js file and append it on the body element       
+  let scriptTag = document.createElement("script");         scriptTag.src = "https://webchat.vica.gov.sg/static/js/chat.js";         scriptTag.type = "text/javascript";      
+  scriptTag.referrerPolicy = "origin";         
+  scriptTag.defer = true;         
+  bodyTag.appendChild(scriptTag);      
+}, 5000);  
+}
+</script><script type="text/javascript">
+(function() {
+  // add beta text 
+  let timerId = setInterval(function(){
+	if(!document.getElementsByClassName("sc-htpNat")[0]) return;
+	
+	clearInterval(timerId);
+	document.getElementsByClassName("sc-htpNat")[0].addEventListener("click", changeText);
+	document.getElementsByClassName("sc-EHOje")[0].addEventListener("click", changeText);
+  }, 5000);
+  function changeText() {
+	const ele = $("#webchat-container p:contains('Ask MSF')");
+	ele.html("");
+	ele.append("Ask MSF <span style='font-size: 14px !important;position: relative;top: -9px;left: 5px;font-weight: lighter;'>beta</span>");
+  }
+})();
+</script><link rel="canonical" href="https://www.msf.gov.sg/events/engaging-hearts-and-minds-seminar-2019"><script async="" src="https://assets.wogaa.sg/scripts/wogaa.js?url=https%3A%2F%2Fwww.msf.gov.sg%2Fevents%2Fengaging-hearts-and-minds-seminar-2019"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="module" src="https://assets.wogaa.sg/sentiments/sentiments.esm.js" async=""></script><script nomodule="" src="https://assets.wogaa.sg/sentiments/sentiments.js" async=""></script><style type="text/css">#st-2 {
+  font-family: "Helvetica Neue", Verdana, Helvetica, Arial, sans-serif;;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  backface-visibility: hidden;
+  display: block;
+  position: fixed;
+  opacity: 1;
+  text-align: left;
+  top: 310px;
+  z-index: 94034;
+}
+#st-2.st-left {
+  left: 0px;
+}
+#st-2.st-hidden.st-left {
+  left: -48px;
+}
+#st-2.st-hidden {
+  width: 96px;
+}
+#st-2.st-preview {
+  display: none!important;
+  opacity: 0!important;
+}
+#st-2 > div {
+  clear: left;
+  float: left;
+}
+#st-2 .st-btn {
+  -moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  height: 48px;
+  line-height: 24px;
+  margin-bottom: 0;
+  opacity: 1;
+  overflow: hidden;
+  padding: 12px;
+  position: relative;
+  text-align: left;
+  top: 0;
+  vertical-align: top;
+  white-space: nowrap;
+  width: 48px;
+}
+#st-2 .st-btn.st-first {
+  border-top: none;
+  border-top-right-radius: 4px;
+}
+#st-2 .st-btn.st-last {
+  border-bottom: none;
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn > svg {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > img {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > span {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  color: #fff;
+  display: inline-block;
+  font-weight: 500;
+  left: -35px;
+  letter-spacing: 0.5px;
+  opacity: 0;
+  padding: 0 6px;
+  position: relative;
+  vertical-align: top;
+  filter: alpha(opacity=0);
+}
+#st-2 .st-btn.st-hide-label > span {
+  display: none !important;
+}
+#st-2 .st-total {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #fff;
+  color: #555;
+  display: inline-block;
+  font-weight: 500;
+  line-height: 18px;
+  margin-right: 0;
+  min-height: 34px;
+  max-width: 80px;
+  opacity: 1;
+  padding: 4px 0;
+  text-align: center;
+  width: 48px;
+}
+#st-2 .st-total.st-hidden {
+  display: none;
+}
+#st-2 .st-total > span {
+  display: block;
+  font-size: 18px;
+  line-height: 21px;
+  padding: 0;
+}
+#st-2 .st-total > span.st-shares {
+  font-size: 11px;
+  line-height: 11px;
+}
+#st-2 .st-toggle {
+  left: -48px;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #ccc;
+  border-bottom-right-radius: 4px;
+  color: white;
+  cursor: pointer;
+  font-size: 24px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: 48px;
+}
+#st-2.st-hidden .st-toggle {
+  border-top-right-radius: 4px;
+}
+#st-2.st-left .st-toggle .st-left {
+  display: inline-block;
+}
+#st-2.st-left.st-hidden .st-toggle .st-left {
+  display: none;
+}
+#st-2.st-left .st-toggle .st-right {
+  display: none;
+}
+#st-2.st-left.st-hidden .st-toggle .st-right {
+  display: inline-block;
+}#st-2:hover .st-toggle {
+  left: 0;
+}
+#st-2.st-hidden:hover .st-toggle {
+  left: 48px;
+}
+#st-2.st-toggleable:hover .st-btn.st-last {
+  border-bottom-right-radius: 0;
+}
+#st-2.st-toggleable:hover .st-btn.st-last:hover {
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn:hover {
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+}
+#st-2.st-has-labels .st-btn:hover {
+  width: 120px;
+}
+#st-2:not(.st-has-labels) .st-btn:hover {
+  width: 62px;
+}
+#st-2 .st-btn.st-hide-label:hover {
+  width: 62px;
+}
+#st-2 .st-btn:hover > svg {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > img {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > span {
+  opacity: 1;
+  display: inline-block;
+  left: 0;
+  filter: alpha(opacity=100);
+}
+@media (max-width: 1024px) {
+  #st-2 .st-btn:hover > svg {
+    margin-left: 0;
+  }
+  #st-2 .st-btn:hover > span {
+    display: none;
+  }
+}@media (max-width: 1024px) {
+  #st-2 {
+  bottom: 0;
+  display: none;
+  left: 0;
+  right: 0;
+  top: auto;
+  width: 100%;
+}
+#st-2.st-hidden {
+  bottom: -48px;
+  width: 100%;
+}
+#st-2.st-hidden.st-left {
+  left: 0;
+}
+#st-2.st-hidden.st-right {
+  right: 0;
+}
+#st-2 > div {
+  -moz-flex: 1;
+  -ms-flex: 1;
+  -webkit-flex: 1;
+  clear: none;
+  flex: 1;
+  float: none;
+}
+#st-2 .st-total {
+  background: #fff;
+  padding: 6px 8px;
+}
+#st-2 .st-btn {
+  -moz-border-radius: 0 !important;
+-webkit-border-radius: 0 !important;
+border-radius: 0 !important;
+  text-align: center;
+  width: auto;
+}
+#st-2 .st-btn > span {
+  display: none;
+}
+#st-2 .st-toggle {
+  display: none;
+}
+}#st-2 .st-btn[data-network='facebook'] {
+  background-color: #4267B2
+}
+#st-2 .st-btn[data-network='facebook'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='facebook'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='linkedin'] {
+  background-color: #0077b5
+}
+#st-2 .st-btn[data-network='linkedin'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='linkedin'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='gmail'] {
+  background-color: #D44638
+}
+#st-2 .st-btn[data-network='gmail'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='gmail'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='copy'] {
+  background-color: #14682B
+}
+#st-2 .st-btn[data-network='copy'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='copy'] > span {
+  color: #fff
+}#st-2 .st-btn[data-network='snapchat'] > span {
+  color: #333};
+}#st-2 .st-btn[data-network='copy']:hover {
+  width: max-content;
+}</style></head> <body onload="lateLoadChatFile();"> 
+
+<div id="webchat" app-id="msf-askmsf" app-name="Ask MSF" app-font-family="Arial" app-base-font-size="16" app-icon="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" app-welcome-message="Have a question? Type to get quick answers." app-color="#DE7C00" app-foreground-color1="#FFFFFF" app-bot-response-trigger-event="true" app-quick-launch-event="welcome" app-enable-auto-complete="false" app-auto-complete-background-color="#FFEDD7" app-auto-complete-foreground-color="#2E2E2E" app-auto-complete-hover-color="#FFCA88" app-auto-complete-divider-color="#DE7C00"></div>
+
+
+<div class="announcements-bar">
+    <div class="container-fluid">
+        <div class="row g-0 position-relative align-items-center">
+            <div class="col">
+                <div class="swiper announcementSwiper">
+                    <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <p>Have a question about MSF? Find quick answers with our chatbot Ask MSF.<!--EndFragment--></p>
+                            </div>
+                                                                                                                    </div>
+                </div>
+            </div>
+            <div class="col-auto align-self-start">
+                <div class="announcements-close">
+                    <button class="btn-close btn-ann-close btn-close-white" aria-label="Close"></button>
+                </div>
+            </div>
+        </div>
+        <div class="row g-0 position-relative">
+            <div class="col-12 col-md-auto buttons-align">
+                <div class="announcements-buttons">
+                    <div class="announcements-swiper-button swiper-button-prev">
+                        <em class="fa-solid fa-chevron-left"></em>
+                    </div>
+                    <div class="announcements-pagination"></div>
+                    <div class="announcements-swiper-button swiper-button-next">
+                        <em class="fa-solid fa-chevron-right"></em>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+ <sgds-masthead fluid="" class="sgds-masthead-class"></sgds-masthead> 
+<div class="layout-subsite">
+    <div id="Content_T7AD4A7CC001_Col00" class="sf_colsIn" data-sf-element="Navigation" data-placeholder-label="Navigation">
+
+<header>
+    <nav class="sgds navbar navbar-expand-xl main-navbar">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/" aria-label="home page">
+                <img src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69" title="MSF logo">
+            </a>
+
+            <button class="btn btn-nav-search px-24 ms-auto d-block d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#searchbarCollapse" aria-expanded="false" aria-controls="searchbarCollapse" aria-label="search icon">
+                <em class="fa-solid fa-search"></em>
+            </button>
+
+            <div class="collapse" id="searchbarCollapse">
+                <div class="container-fluid p-0 px-12">
+                    <div class="nav-searchbar">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Search our website" id="navSearchBarSearchInput" data-search="navSearchBarSearchInput">
+                            <button class="btn btn-search" type="button" id="navSearchBarBtnSearch" aria-label="search">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <span>Search</span>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Menu">
+                Menu
+            </button>
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <img class="offcanvas-header-logo" src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69">
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+
+                <div class="offcanvas-searchbar">
+                    <div class="sgds form-group">
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="defaultWith" aria-describedby="defaultWith" placeholder="Search our website">
+                            <button class="btn btn-offcanvas-search" type="button">
+                                <em class="fa-solid fa-search form-control-icon"></em>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav d-flex d-xl-none">
+                        <li class="nav-item">
+                            <a href="/" class="nav-link submenu-link" data-bs-dismiss="offcanvas" aria-current="page" aria-label="Home"><span>Home</span></a>
+                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#who-we-are-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#what-we-do-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#our-services-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#research-data-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#join-us-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+
+                    <div class="d-block d-xl-none">
+                                <div class="collapse collapse-horizontal submenu" id="who-we-are-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#who-we-are-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Who We Are</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/mission-values" class="nav-link sgds" aria-label="Mission &amp; Values"><span class="nav-link-text"><span>Mission &amp; Values</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/organisation-chart" class="nav-link sgds" aria-label="Organisation Chart"><span class="nav-link-text"><span>Organisation Chart</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/agencies-statutory-boards-councils" class="nav-link sgds" aria-label="Agencies, Statutory Boards &amp; Councils"><span class="nav-link-text"><span>Agencies, Statutory Boards &amp; Councils</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/senior-management-team" class="nav-link sgds" aria-label="Senior Management Team"><span class="nav-link-text"><span>Senior Management Team</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="what-we-do-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#what-we-do-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>What We Do</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/help-those-in-need" class="nav-link sgds" aria-label="Help Those in Need"><span class="nav-link-text"><span>Help Those in Need</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/support-families-and-parents" class="nav-link sgds" aria-label="Support Families &amp; Parents"><span class="nav-link-text"><span>Support Families &amp; Parents</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/strengthen-the-social-service-sector" class="nav-link sgds" aria-label="Strengthen the Social Service Sector"><span class="nav-link-text"><span>Strengthen the Social Service Sector</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="our-services-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#our-services-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Our Services</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/our-services/directories" class="nav-link sgds" aria-label="Directories"><span class="nav-link-text"><span>Directories</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/our-services/e-services" class="nav-link sgds" aria-label="E-Services"><span class="nav-link-text"><span>E-Services</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="research-data-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#research-data-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Research &amp; Data</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-reports-data" class="nav-link sgds" aria-label="Research Report &amp; Data"><span class="nav-link-text"><span>Research Report &amp; Data</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-grants" class="nav-link sgds" aria-label="Research Grants"><span class="nav-link-text"><span>Research Grants</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/Research-Conferences-Forums-Networks" class="nav-link sgds" aria-label="Research Conferences, Forums &amp; Networks"><span class="nav-link-text"><span>Research Conferences, Forums &amp; Networks</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="join-us-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#join-us-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Join Us</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/join-us/volunteer-with-msfcare-network" class="nav-link sgds" aria-label="Volunteer with MSFCare Network"><span class="nav-link-text"><span>Volunteer with MSFCare Network</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/jobs-careers" class="nav-link sgds" aria-label="Jobs &amp; Careers"><span class="nav-link-text"><span>Jobs &amp; Careers</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/scholarships-internships" class="nav-link sgds" aria-label="Scholarships &amp; Internships"><span class="nav-link-text"><span>Scholarships &amp; Internships</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                    </div>
+
+                    <ul class="navbar-nav justify-content-end flex-grow-1 d-none d-xl-flex">
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/mission-values" aria-label="Mission &amp; Values">
+                                                            Mission &amp; Values
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/organisation-chart" aria-label="Organisation Chart">
+                                                            Organisation Chart
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/agencies-statutory-boards-councils" aria-label="Agencies, Statutory Boards &amp; Councils">
+                                                            Agencies, Statutory Boards &amp; Councils
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/senior-management-team" aria-label="Senior Management Team">
+                                                            Senior Management Team
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/help-those-in-need" aria-label="Help Those in Need">
+                                                            Help Those in Need
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/support-families-and-parents" aria-label="Support Families &amp; Parents">
+                                                            Support Families &amp; Parents
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/strengthen-the-social-service-sector" aria-label="Strengthen the Social Service Sector">
+                                                            Strengthen the Social Service Sector
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/directories" aria-label="Directories">
+                                                            Directories
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/e-services" aria-label="E-Services">
+                                                            E-Services
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-reports-data" aria-label="Research Report &amp; Data">
+                                                            Research Report &amp; Data
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-grants" aria-label="Research Grants">
+                                                            Research Grants
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/Research-Conferences-Forums-Networks" aria-label="Research Conferences, Forums &amp; Networks">
+                                                            Research Conferences, Forums &amp; Networks
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/volunteer-with-msfcare-network" aria-label="Volunteer with MSFCare Network">
+                                                            Volunteer with MSFCare Network
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/jobs-careers" aria-label="Jobs &amp; Careers">
+                                                            Jobs &amp; Careers
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/scholarships-internships" aria-label="Scholarships &amp; Internships">
+                                                            Scholarships &amp; Internships
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header><div class="searchbar">
+    <div class="container-fluid">
+        <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search our website" id="searchbarWidgetSearchInput" data-search="searchbarWidgetSearchInput">
+            <button class="btn btn-search" type="button" id="searchbarWidgetBtnSearch" aria-label="Search">
+                <span>
+                    <em class="fa-solid fa-search fa-sm"></em>
+                    Search
+                </span>
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- prettier-ignore -->
+<div class="container-fluid">
+    <nav aria-label="breadcrumb" class="breadcrump-wrapper">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>
+                        <a href="/events" aria-label="Events">Events</a>
+                    </li>
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>Engaging Hearts and Minds Seminar 2019
+                    </li>
+        </ol>
+        <div class="breadcrumb-mobile">
+            <a href="/" aria-label="Home">
+                <em class="fa-solid fa-chevron-left"></em>
+                <span>Home</span>
+            </a>
+        </div>
+    </nav>
+</div>
+
+
+
+
+<link href="/ResourcePackages/Msf/assets/css/language-bar.min.css" rel="stylesheet" type="text/css">
+
+
+    </div>
+    <div id="Content_T7AD4A7CC001_Col01" class="sf_colsIn" data-sf-element="Content" data-placeholder-label="Content"><div id="Content_C002_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<h1>Engaging Hearts and Minds Seminar 2019</h1><p>Date/Time: 21 February 2019, Thursday 9.00am to 1.15pm</p><p>Venue: Carlton Hotel Singapore, 76 Bras Basah Road, Singapore 189558</p><hr><br>
+<div class="clear"><div class="content"><p style="text-align:center;"><img src="/images/default-source/msf-event/ehms_2019_banner.png?sfvrsn=d2220e3e_3" width="100%" alt="ehms-2019-banner">&nbsp;</p><div class="tabs-container"><ul class="nav nav-tabs" id="mediaRoomTab" role="tablist"><li class="nav-item" role="presentation"><button class="nav-link active" id="AbouttheSeminar" data-bs-toggle="tab" data-bs-target="#AbouttheSeminar-pane" type="button" role="tab" aria-controls="AbouttheSeminar-pane" aria-selected="true">About the Seminar
+								</button></li><li class="nav-item" role="presentation"><button class="nav-link" id="SynopsisandMaterials-tab" data-bs-toggle="tab" data-bs-target="#SynopsisandMaterials-tab-pane" type="button" role="tab" aria-controls="SynopsisandMaterials-tab-pane" aria-selected="false">Synopsis and Materials
+								</button></li><li class="nav-item" role="presentation"><button class="nav-link" id="ProgrammeOutline-tab" data-bs-toggle="tab" data-bs-target="#ProgrammeOutline-tab-pane" type="button" role="tab" aria-controls="ProgrammeOutline-tab-pane" aria-selected="false">Programme Outline
+								</button></li><li class="nav-item" role="presentation"><button class="nav-link" id="SpeakersProfile-tab" data-bs-toggle="tab" data-bs-target="#SpeakersProfile-tab-pane" type="button" role="tab" aria-controls="SpeakersProfile-tab-pane" aria-selected="false">Speakers’ Profile
+								</button></li></ul><div class="tab-content" id="mediaRoomTabContent"><div class="tab-pane fade show active" id="AbouttheSeminar-pane" role="tabpanel" aria-labelledby="AbouttheSeminar" tabindex="0"><div class="container"><div><h4><strong>About the Seminar</strong></h4><p>Engaging Hearts and Minds Seminar (EHMS) is a capability-building and engagement platform aimed at enhancing knowledge and skills in working with the Malay/Muslim community. It is organised by MSF in collaboration with M³
+                                partners, Yayasan Mendaki, Majlis Ugama Islam Singapore (MUIS) and People’s Association Malay Activity Executive Committees Council (MESRA).<br><br>The theme of this 6th instalment of the seminar is <strong>‘Strong Families for a Strong Community Fulfilling the Last Mile’.</strong> It is aligned with the M³ initiative to leverage community partners in strengthening outreach, awareness and access to available resources and programmes.
+                            </p><h4><strong><br>Who is it For</strong></h4><p>The event brings together leaders and practitioners from the M³ agencies, Family Service Centres, Malay/Muslim Organisations, other Voluntary Welfare Organisations, Mosque fraternity, the academia and relevant government
+                                agencies. </p><h4><strong><br>Guest of Honour</strong></h4><strong>Minister Masagos Zulkifli</strong><br>Minister for the Environment and Water Resources and Minister-in-charge of Muslim Affairs<br><br><h4><strong>Host</strong></h4><strong>Senior Parliamentary Secretary Associate Professor Muhammad Faishal Ibrahim</strong><br>Ministry of Education and Ministry of Social and Family Development
+                        </div></div></div><div class="tab-pane fade" id="SynopsisandMaterials-tab-pane" role="tabpanel" aria-labelledby="SynopsisandMaterials-tab" tabindex="0"><div class="container"><div class="d-flex flex-column justify-content-center align-items-center"><table><tbody><tr><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;"><strong><em>Supporting Multi-Stressed Families – What They Need and What Social Services Can Do</em></strong><br><span style="color:#366092;"><strong>Dr Mathew Mathews, Senior Research Fellow, Institute of Policy Studies, Lee Kuan Yew School of Public Policy (LKYSPP)</strong></span>
+ <p style="text-align:justify;">This presentation will examine the academic literature surrounding multi-stressed families especially what researchers internationally have uncovered as crucial for their support. It will also examine barriers
+                                                that these families face in using social services and discuss considerations for service design. <br><br><span style="color:#366092;">Materials:</span></p><p><a href="/docs/default-source/msf-event/dr-mathew---supporting-multi-stressed-families-are-services-reaching-them.pdf?sfvrsn=40787b93_3" target="_blank">Dr Mathew - Supporting Multi-Stressed Families Are Services Reaching Them.pdf</a></p></td></tr><tr><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;"><strong><em>Religion and Culture as a Resource to Support Multi-Stressed Families</em></strong><br><span style="color:#366092;"><strong>Ustaz Irwan Hadi Mohd Shuhaimy, Deputy Director, Religious Policy and Regulations, Islamic Religious Council of Singapore (MUIS)</strong></span>
+ <p>This presentation will discuss some concepts such as <em>tawakkal</em> (trust in God’s plan), <em>redha</em> (submitting to God’s plan) etc. which are related to self-sustenance and independence
+                                                which may influence and even shape the minds of some Muslims and contributing to their reluctance in searching for and receiving financial or social assistance. Beyond that, it seeks to bring forth critical
+                                                reflections on some attitudes such as acceptance, empathy etc which are expounded within the Islamic tradition to help ensure that religion can be an enabler in the last mile delivery of social services
+                                                to those in need and how socio-religious institutions and actors such as religious teachers can more effectively collaborate with social service practitioners in this endeavour. </p><span style="color:#366092;">Materials:</span><br><p><a href="/docs/default-source/msf-event/ustaz-irwan-hadi---religion-and-culture-as-a-resource-to-support-multi-stressed-families.pdf?sfvrsn=2d80c0b1_3" target="_blank">Ustaz Irwan Hadi - Religion and Culture as a Resource to Support Multi-stressed Families.pdf</a></p></td></tr><tr><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;"><strong><em>KidSTART: Partnering Parents, Shaping Lives – Why it Matters</em></strong> <span style="color:#366092;"><strong><br>Ms Jane Lee, Deputy Director, Early Childhood Development Agency (ECDA)</strong></span>
+ <p>This sharing will cover the basis for KidSTART, the key KidSTART components, insights learned from working with parents of young children, practitioners and partners, as well as considerations for programme
+                                                effectiveness and sustainability.
+                                            </p><span style="color:#366092;">Materials:</span><br><p><a href="/docs/default-source/msf-event/ms-jane-lee---kidstarts-partnering-parents_shaping-lives-why-it-matters.pdf?sfvrsn=d9e6bebb_3" target="_blank">Ms Jane Lee - KidSTARTS Partnering Parents_Shaping Lives Why it Matters.pdf</a></p></td></tr><tr><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;"><strong><em>Assisting and Involving Families in the Rehabilitation of Offenders</em></strong> <span style="color:#366092;"><strong><br>Ms Haslinda Shonib, Assistant Director, Correctional Rehabilitation Specialist, Community Corrections Command, Singapore Prison Service</strong></span>
+ <p>Research has shown that family support is an important factor that helps prevent re-offending. The sharing will bring the audience through the overall rehabilitation approach, and specifically how SPS has designed
+                                                its model in partnership with the community to better assist and involve families in the rehabilitation of offenders. </p><span style="color:#366092;"><em>Slides will not be made available.</em></span></td></tr><tr><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;"><strong><em>Empowering Families</em></strong> <span style="color:#366092;"><strong><br>Ms Norshima Aziz, Director, Communications, Community and Family Engagement, Yayasan MENDAKI on Empowering Families</strong></span>
+ <p>MENDAKI extends its reach to the Singapore Malay/Muslim community through their satellite centres. There are seven MENDAKI satellite centres and two joint-centres which are strategically located at the heart
+                                                of their target population in the heartlands where the majority of the underprivileged and underserved reside amongst the Malay/Muslim community. This is further strengthened by the presence of the Youth
+                                                Spaces within the three ITE campuses.</p><p style="text-align:justify;">The sharing will cover the idea behind the conceptualisation of MENDAKI@Heartlands and the service framework that has the Malay/Muslim community at its heart.</p><span style="color:#366092;">Materials:</span><br><p><a href="/docs/default-source/msf-event/ehms-2019-presentation-ym_final.pdf?sfvrsn=e1a9f740_3" target="_blank">EHMS 2019 Presentation ym_final.pdf</a></p></td></tr></tbody></table></div></div></div><div class="tab-pane fade" id="ProgrammeOutline-tab-pane" role="tabpanel" aria-labelledby="ProgrammeOutline-tab" tabindex="0"><div class="container"><div class="d-flex flex-column justify-content-center align-items-center"><table width="100%" border="0"><tbody><tr><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;border-left:1px solid #cccccc;background-color:#dddddd;"><strong>Time</strong></td><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;background-color:#dddddd;"><strong>Programme</strong></td></tr><tr><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;border-left:1px solid #cccccc;">9:00AM</td><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;">Registration and Networking Breakfast</td></tr><tr style="padding:5px;border-right:1px solid #cccccc;border-left:1px solid #cccccc;"><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;border-left:1px solid #cccccc;">9:50AM</td><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;">Guests to be seated</td></tr><tr><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;border-left:1px solid #cccccc;">10:00AM</td><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;">Welcome remarks by Emcee Opening Speech by GOH Mr Masagos Zulkifli, Minister for Environment and Water Resources and Minister-in-charge of Muslim Affairs</td></tr><tr><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;border-left:1px solid #cccccc;">10:20AM</td><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;"><strong>Session 1</strong><br><br><strong>Presentation 1: Supporting Multi-Stressed Families –What They Need and What Social Services Can Do</strong><br>Speaker: Dr Mathew Mathews, Senior Research Fellow,
+                                            Institute of Policy Studies, Lee Kuan Yew School of Public Policy (LKYSPP)
+                                        </td></tr><tr><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;border-left:1px solid #cccccc;">10:50AM</td><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;"><strong>Presentation 2: Religion and Culture as a Resource to Support Multi-Stressed Families</strong> <br>Speaker: Ustaz Irwan Hadi Mohd Shuhaimy, Deputy Director, MUIS
+                                        </td></tr><tr><td style="padding:5px;border:1px solid #cccccc;">11:20AM</td><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;"><strong>Panel Discussion and Q&amp;A</strong><br>Moderator: Dr Suzaina Kadir (Vice Dean and Associate Professor, LKYSPP)<br>Panellists:
+ <br>a) GOH Mr Masagos Zulkifli b) Dr Mathew Mathews c) Ustaz Irwan Hadi Mohd Shuhaimy d) Ms Hanna Taufiq Siraj, Assistant Director, MUIS Academy </td></tr><tr><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;border-left:1px solid #cccccc;">12:00PM</td><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;"><strong>Session 2</strong><br><br><strong>Fulfilling the Last Mile to Reach Multi-Stressed Families</strong><br><br>a) Ms Jane Lee, Deputy Director, Early Childhood Development Agency (ECDA) on
+                                            <strong>KidSTART: Partnering Parents, Shaping Lives – Why it Matters</strong><br><br>b) Ms Haslindah Shonib, Assistant Director, Singapore Prison Service, on
+                                            <strong>Assisting and Involving Families in the Rehabilitation of Offenders</strong><br><br>c) Ms Norshima Aziz, Director, Communications, Community and Family Engagement, Yayasan MENDAKI on
+                                            <strong>Empowering Families</strong>
+ </td></tr><tr><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;border-left:1px solid #cccccc;">1:00PM</td><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;">Closing Address by Associate Professor Muhammad Faishal Ibrahim, Senior Parliamentary Secretary, Ministry of Social and Family Development (MSF) &amp; Ministry of Education (MOE)
+                                        </td></tr><tr><td style="padding:5px;border:1px solid #cccccc;">1:15PM</td><td style="padding:5px;border-top:1px solid #cccccc;border-right:1px solid #cccccc;border-bottom:1px solid #cccccc;">Lunch &amp; End of Seminar
+                                        </td></tr></tbody></table></div></div></div><div class="tab-pane fade" id="SpeakersProfile-tab-pane" role="tabpanel" aria-labelledby="SpeakersProfile-tab" tabindex="0"><div class="container"><div class="d-flex flex-column justify-content-center align-items-center"><table><tbody><tr><td colspan="2" style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;"><h4><strong>About Our Speakers</strong></h4></td></tr><tr><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;width:212px;"><img src="/images/default-source/msf-event/ehms__dr-mathew-mathews.jpg?sfvrsn=c928af29_3" height="291" width="200" alt="dr-mattew-mathews"><br></td><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;"><strong>DR MATHEW MATHEWS</strong><br><span style="color:#366092;"><strong>Senior Research Fellow, Institute of Policy Studies, National University of Singapore<br></strong></span>
+ <p style="text-align:justify;">Dr Mathew Mathews is a Senior Research Fellow at the Institute of Policy Studies, at the Lee Kuan Yew School of Public Policy, National University of Singapore (NUS). He has led or been an investigator in over
+                                                40 research projects mostly related to societal cohesion and family issues. On the family, he has researched attitudes and behaviour related to marriage and parenthood, single parenthood, three generational
+                                                structures and older persons in families. He has also worked on several projects related to low income families including a longitudinal project led by A/P Irene Ng on families placed under the Work Support
+                                                Programme. Mathews’ research on the Malay-Muslim community include a study on the Family Excellence Circles by MENDAKI and an evaluation of the Empowerment Partnership Scheme by MUIS.</p><p style="text-align:justify;">Mathews serves as a research advisor to the Ministry of Social and Family Development and various government and VWO committees including the Families for Life Council and the VWOs-Charities Capability Fund
+                                                Panel. </p></td></tr><tr><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;width:212px;"><img src="/images/default-source/msf-event/ehms_ustaz-irwan-hadi-mohd-shuhaimy.jpg?sfvrsn=7e82900_3" style="pxvertical-align:top;" alt="ustaz-irwan-hadi-mohd-shuhaimy"><br></td><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;"><strong>USTAZ IRWAN HADI MOHD SHUHAIMY</strong><br><span style="color:#366092;"><strong>Deputy Director, Religious Policy and Regulations, Islamic Religious Council of Singapore (MUIS)<br></strong></span>
+ <p style="text-align:justify;">Ustaz Irwan Hadi is Deputy Director, Religious Policy and Regulations, Islamic Religious Council of Singapore. He oversees religious policy research at the Office of the Mufti and the administration of the Asatizah
+                                                Recognition Scheme. In the course of his duty, he provides advice and writes on socio-religious policies relating to the Muslim community and Islamic law matters including issues related to families, gender,
+                                                wealth disposition and planned giving etc. He also serves as the Secretary of the Fatwa (Legal) Committee and has been a Board member of the Islamic Scholars and Teachers Association of Singapore (PERGAS)
+                                                since 2012. </p></td></tr><tr><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;width:212px;"><img src="/images/default-source/msf-event/ehms_ms-jane-lee.jpg?sfvrsn=1d64db4f_3" alt="ms-jane-lee"><br></td><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;"><strong>MS JANE LEE</strong><br><span style="color:#366092;"><strong>Deputy Director, Child Development Department<br>Early Childhood Development Agency<br></strong></span>
+ <p style="text-align:justify;">Jane Lee is the Deputy Director (Programmes and Operations Branch) of the Child Development Department that oversees KidSTARTat the Early Childhood Development Agency (ECDA). Jane was closely involved in the
+                                                conceptualisation and implementation of KidSTART, an upstream early childhood development pilot programme. She now leads the implementation of the KidSTART components, working in partnership with other service
+                                                providers to support families. </p><p style="text-align:justify;">Jane is passionate about issues related to the needy, particularly effective programmes that address their needs. Prior to KidSTART, Jane was with MSF working on policies relating to ComCare, poverty reduction
+                                                and the review and development of social assistance schemes and programmes. She has also had 10 years’ experience working in New Zealand on social policies and health promotion and community development
+                                                programmes with Government and local authority agencies. </p></td></tr><tr><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;width:212px;"><img src="/images/default-source/msf-event/ehms_ms-haslindah-shonib.jpg?sfvrsn=97d7f50e_3" alt="ms-haslindah-shonib"><br></td><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;"><strong>MS HASLINDAH SHONIB</strong><br><span style="color:#366092;"><strong>Assistant Director, Correctional Rehabilitation Specialist, Community Corrections Command, Singapore Prison Service</strong><br><br></span>
+ <p style="text-align:justify;">Ms Haslindah Shonib is a Correctional Rehabilitation Specialist in Singapore Prison Service. Currently serving as an Assistant Director in Community Corrections Command, Haslindah oversees the rehabilitation
+                                                and reintegration of inmates serving their sentences in the community. With close to 20 years’ experience in the social service sector and 6 in the correctional setting, Haslindah has a wealth of knowledge
+                                                to share in her work with the clients, their families as well as community agencies. </p></td></tr><tr><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;width:212px;"><img src="/images/default-source/msf-event/ehms_ms-norshima-aziz.jpg?sfvrsn=2cc41f63_3" alt="ms-norshima-aziz"><br></td><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;"><strong>MS NORSHIMA AZIZ</strong><br><span style="color:#366092;"><strong>Director, Communications, Community and Family Engagement, Yayasan MENDAKI on Empowering Families</strong><br><br></span>
+ <p style="text-align:justify;">Norshima is the Director of Communications, Community and Family Engagement Departments. She oversees MENDAKI’s seven satellite centres and two-joint centres which engage Malay/Muslim families at the heartlands
+                                                in a closer-to-the-ground approach. The department reaches out to the Malay/Muslim community on the ground to support their development through education or connect families with national assistance programmes.
+                                                As Director, she plays a major role in MENDAKI’s collaborations with other Malay/Muslim bodies like the Islamic Religious Council of Singapore (MUIS) and the Malay Activity Executive Committees Council
+                                                (MESRA) to engage the Malay/Muslim community and in the setting up a combined office at Wisma Geylang Serai. </p><p style="text-align:justify;">Norshima joined MENDAKI in 2010 to challenge herself further in the Communications industry. She helmed the Communications Department first as the Assistant Director and through the years, she has expanded her
+                                                portfolio and is now the Director of Communications and Community &amp; Family Engagement Departments. Under her leadership, the organisation has embarked on successful campaign projects such as “Raikan
+                                                Ilmu” or “Celebrate Knowledge” in which the focus is to encourage the pursuit of lifelong education. </p></td></tr><tr><td colspan="2" style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;"><h4><strong>About our Moderator</strong></h4></td></tr><tr><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;width:212px;"><img src="/images/default-source/msf-event/ehms_associate-prof-suzaina-kadir.jpg?sfvrsn=71fa09a2_3" style="pxvertical-align:top;" alt="associate-prof-suzaina-kadir"><br></td><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;"><strong>ASSOCIATE PROFESSOR SUZAINA KADIR</strong><br><span style="color:#366092;"><strong>Vice Dean (Academic Affairs), Lee Kuan Yew School of Public Policy, NUS</strong><br><br></span>
+ <p style="text-align:justify;">Associate Professor Suzaina Kadir is the Vice Dean (Academic Affairs) of the Lee Kuan Yew School of Public Policy, NUS. Her research and teaching interests include ethnicity, religion and public policy, with
+                                                special focus on Muslim politics in Southeast Asia, and the management of political Islam and multi-ethnicity in Singapore. She is also a revered educator for her innovative pedagogies, and has received
+                                                the NUS's Teaching Excellence and LKYSPP's Teaching Excellence Awards in 2010 and 2017. </p><p style="text-align:justify;">Associate Professor Suzaina Kadir has served in various ministerial committees and she has also served as a board member for the Media Development Authority (MDA) and the Institute of Technical Education (ITE).
+                                                She is a recipient of two National Day Awards: the 2016 Public Service and Commendation Medals. </p></td></tr><tr><td colspan="2" style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;"><h4><strong>About our Panellist</strong></h4></td></tr><tr><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;width:212px;"><img src="/images/default-source/msf-event/ehms_ms-hanna-taufiq-siraj.jpg?sfvrsn=68d8b45d_3" style="pxvertical-align:top;" alt="ms-Hanna-Taufiq-Siraj"><br></td><td style="padding:5px;border:1px solid #d8d8d8;text-align:left;vertical-align:top;background-color:#ffffff;"><strong>MS HANNA TAUFIQ SIRAJ</strong><br><span style="color:#366092;"><strong>Assistant Director, MUIS Academy &amp; SIC Development, MUIS</strong><br><br></span>
+ <p style="text-align:justify;">Ms Hanna Taufiq Siraj is currently the Assistant Director of MUIS Academy and SIC Development where she oversees the development of research and thought leadership programmes on the role of Islam in the modern
+                                                world. She received the MUIS Postgraduate Scholarship in 2007 to do her MSc in International Studies at the National University of Singapore. Prior to that she completed her Bachelor’s degree in Political
+                                                Science at the International Islamic University Malaysia where she won the Al-Mawardi Award for Best Political Science Student. She is actively involved in community and student initiatives organized by
+                                                Yayasan Mendaki, MENDAKI Club and Muslim Converts Association of Singapore. Hanna also regularly conducts talks and workshops on leadership to local and international women's organisations. </p><p style="text-align:justify;">Hanna has sat on the Inter-Ministerial Committee on Convention for the Elimination of Discrimination against Women, was a member of the Media Development Authority of Singapore’s Films Consultative Panel
+                                                and an Associate Member of the Fatwa Committee. She writes and researches on religion in the public sphere, critical theory and moral philosophy. </p></td></tr></tbody></table></div></div></div></div></div></div></div>
+<div class="accordion" id="accordionExample">
+    <div id="Content_C005_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content">
+    </div>
+</div>
+</div>
+
+    </div>
+</div> <div class="sharethis-inline-share-buttons"></div> 
+
+
+<footer class="sgds footer">
+    <section class="footer-top">
+        <div class="container-fluid">
+            <div class="row footer-header">
+                <div class="footer-title">
+                    Ministry of Social and Family Development
+                </div>
+            </div>
+
+            <div class="row footer-contact-links">
+                <div class="col-sm-12">
+                    <div class="d-flex flex-column flex-lg-row gap-20 gap-lg-0 justify-content-lg-end">
+                        <div class="d-flex justify-content-lg-end">
+                            <ul class="d-flex flex-column flex-lg-row gap-lg-40 contact-links">
+                                        <li><a class="" href="/contact-us-feedback" aria-label="Contact Us / Feedback">Contact Us / Feedback</a></li>
+                                        <li><a class="not-first-page" href="/faqs" aria-label="FAQs">FAQs</a></li>
+                            </ul>
+                        </div>
+                        <div class="d-flex align-items-lg-center justify-content-lg-end">
+                            <ul class="d-flex social-links">
+                                <li>
+                                    <a href="https://www.facebook.com/MSFSingapore/" aria-label="facebook">
+                                        <em class="fa-brands fa-square-facebook"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/msfcares/" aria-label="instagram">
+                                        <em class="fa-brands fa-instagram"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://t.me/msfcares" aria-label="telegram">
+                                        <em class="fa-brands fa-telegram"></em>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="footer-bottom">
+        <div class="container-fluid">
+            <hr class="footer-divider">
+            <div class="row footer-mandatory-links">
+                <div class="col-12 col-lg-8 col-xl-9">
+                    <ul class="footer-nav-list">
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links " href="/report-vulnerability" rel="noopener" aria-label="Report Vulnerability
+
+">Report Vulnerability
+
+</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/privacy-statement" rel="noopener" aria-label="Privacy Statement">Privacy Statement</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/terms-of-use" rel="noopener" aria-label="Terms of Use&nbsp;">Terms of Use&nbsp;</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/sitemap" rel="noopener" aria-label="Sitemap">Sitemap</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/accessibility-statement" rel="noopener" aria-label="Accessibility Statement">Accessibility Statement</a>
+                                </li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg footer-copyrights">
+                    <div class="d-flex justify-content-lg-end text-lg-end">
+                        © 2024 Government of Singapore<br>
+                        Last updated 13 Sep 2023
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+
+
+ <div class="accessibility-sidebar"> <div class="btn-group-vertical btn-group-sm" role="group" aria-label="Accessibility Sidebar"> <button type="button" class="btn btn-accessibility btn-notice" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Show/Hide Notice" data-bs-original-title="Show/Hide Notice"> <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10 0C8.02219 0 6.08879 0.58649 4.4443 1.6853C2.79981 2.78412 1.51809 4.3459 0.761209 6.17317C0.00433284 8.00043 -0.193701 10.0111 0.192152 11.9509C0.578004 13.8907 1.53041 15.6725 2.92894 17.0711C4.32746 18.4696 6.10929 19.422 8.0491 19.8079C9.98891 20.1937 11.9996 19.9957 13.8268 19.2388C15.6541 18.4819 17.2159 17.2002 18.3147 15.5557C19.4135 13.9112 20 11.9778 20 10C20 8.68678 19.7413 7.38642 19.2388 6.17317C18.7363 4.95991 17.9997 3.85752 17.0711 2.92893C16.1425 2.00035 15.0401 1.26375 13.8268 0.761205C12.6136 0.258658 11.3132 0 10 0ZM10 18C8.41775 18 6.87104 17.5308 5.55544 16.6518C4.23985 15.7727 3.21447 14.5233 2.60897 13.0615C2.00347 11.5997 1.84504 9.99113 2.15372 8.43928C2.4624 6.88743 3.22433 5.46197 4.34315 4.34315C5.46197 3.22433 6.88743 2.4624 8.43928 2.15372C9.99113 1.84504 11.5997 2.00346 13.0615 2.60896C14.5233 3.21447 15.7727 4.23984 16.6518 5.55544C17.5308 6.87103 18 8.41775 18 10C18 12.1217 17.1572 14.1566 15.6569 15.6569C14.1566 17.1571 12.1217 18 10 18Z"></path> <path d="M10 7C10.5523 7 11 6.55228 11 6C11 5.44772 10.5523 5 10 5C9.44772 5 9 5.44772 9 6C9 6.55228 9.44772 7 10 7Z"></path> <path d="M10 8C9.73478 8 9.48043 8.10536 9.29289 8.29289C9.10536 8.48043 9 8.73478 9 9V14C9 14.2652 9.10536 14.5196 9.29289 14.7071C9.48043 14.8946 9.73478 15 10 15C10.2652 15 10.5196 14.8946 10.7071 14.7071C10.8946 14.5196 11 14.2652 11 14V9C11 8.73478 10.8946 8.48043 10.7071 8.29289C10.5196 8.10536 10.2652 8 10 8Z"></path> </svg> </button> <button type="button" class="btn btn-accessibility btn-font-bigger" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Increase Font Size" data-bs-original-title="Increase Font Size">
+                    A+
+                </button> <button type="button" class="btn btn-accessibility btn-font-smaller" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Decrease Font Size" data-bs-original-title="Decrease Font Size">
+                    A−
+                </button> <button type="button" class="btn btn-accessibility btn-contrast" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Toggle Colour Contrast" data-bs-original-title="Toggle Colour Contrast"> <em class="fa-solid fa-circle-half-stroke"></em> </button> </div> </div> <div class="back-to-top"> <button class="btn-back-top" aria-label="back to top"> <svg width="16" height="8" viewBox="0 0 16 8" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4826 7.76568C14.8297 8.07811 15.3925 8.07811 15.7396 7.76568C16.0868 7.45326 16.0868 6.94673 15.7396 6.63432L8.62853 0.23424C8.2814 -0.0780799 7.71859 -0.0780799 7.37146 0.23424L0.260266 6.63432C-0.0867557 6.94673 -0.0867557 7.45326 0.260266 7.76567C0.607466 8.07811 1.17031 8.07811 1.51751 7.76567L8 3L14.4826 7.76568Z"></path> </svg> <span>Top</span> </button> </div> <script src="/ResourcePackages/Msf/assets/js/jquery.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/jquery-ui.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/swiper-bundle.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/bootstrap.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/default-passive-events.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/search-result.js" type="text/javascript"></script> <script src="https://assets.wogaa.sg/scripts/wogaa.js"></script> <script type="text/javascript" src="/ResourcePackages/Msf/assets/js/sharethis.js#property=648140a26773dd0012e17a9b&amp;product=inline-share-buttons&amp;source=platform" async="async"></script> <script>
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window, document, 'script', 'dataLayer', 'G-7WBNTH91BT');
+            </script> <!-- Global site tag (gtag.js) - Google Analytics --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7WBNTH91BT"></script> <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-7WBNTH91BT');
+            </script> <script type="module" src="https://cdn.jsdelivr.net/npm/@govtechsg/sgds-web-component/Masthead/index.js"></script> <script src="/ResourcePackages/Msf/assets/js/main.min.js" type="text/javascript"></script>  
+<div id="st-2" class=" st-sticky-share-buttons st-left st-toggleable st-has-labels "><div class="st-btn st-first" data-network="facebook" style="display: inline-block;">
+  <img alt="facebook sharing button" src="https://platform-cdn.sharethis.com/img/facebook.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="linkedin" style="display: inline-block;">
+  <img alt="linkedin sharing button" src="https://platform-cdn.sharethis.com/img/linkedin.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="gmail" style="display: inline-block;">
+  <img alt="gmail sharing button" src="https://platform-cdn.sharethis.com/img/gmail.svg">
+  <span class="st-label">Email</span>
+</div><div class="st-btn st-last" data-network="copy" style="display: inline-block;">
+  <img alt="copy sharing button" src="https://platform-cdn.sharethis.com/img/copy.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-toggle">
+  <div class="st-left">
+    <img alt="arrow_left sharing button" src="https://platform-cdn.sharethis.com/img/arrow_left.svg">
+  </div>
+  <div class="st-right">
+    <img alt="arrow_right sharing button" src="https://platform-cdn.sharethis.com/img/arrow_right.svg">
+  </div>
+</div></div><wog-sentiments class="needsclick hydrated"></wog-sentiments></body></html>

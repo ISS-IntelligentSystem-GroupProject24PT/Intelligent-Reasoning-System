@@ -1,0 +1,1114 @@
+<html lang="en" class="hydrated"><head> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>
+	Who Can Adopt?
+</title> <link rel="icon" type="image/png" href="/ResourcePackages/Msf/assets/img/favIco.png"> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&amp;family=Open+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet">  <link href="/ResourcePackages/Msf/assets/css/sgds.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap-icons.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/all.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/sf-bootstrap-conflict.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/jquery-ui.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/swiper-bundle.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/search-result.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/main.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/custom-style.min.css" rel="stylesheet"> <meta property="og:title" content="Who Can Adopt?"><meta property="og:url" content="https://www.msf.gov.sg/what-we-do/adoption/adoption-eligibility/who-can-adopt"><meta property="og:type" content="website"><meta property="og:site_name" content="Ministry of Social and Family Development"><script async="" src="https://buttons-config.sharethis.com/js/648140a26773dd0012e17a9b.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=G-7WBNTH91BT"></script><script async="" src="https://assets.wogaa.sg/snowplow/3.13.1/sp.js"></script><script type="text/javascript">
+function lateLoadChatFile() {      
+  setTimeout(() => {        
+              const bodyTag = document.getElementsByTagName("body")[0];      
+             // Create link element to import chat.css file and append it on the body element        
+             let linkTag = document.createElement("link");
+  linkTag.href = "https://webchat.vica.gov.sg/static/css/chat.css";         linkTag.type = "text/css";
+  linkTag.rel = "stylesheet";       
+  linkTag.referrerPolicy = "origin";      
+  bodyTag.appendChild(linkTag);        
+  // Create script element to import chat.js file and append it on the body element       
+  let scriptTag = document.createElement("script");         scriptTag.src = "https://webchat.vica.gov.sg/static/js/chat.js";         scriptTag.type = "text/javascript";      
+  scriptTag.referrerPolicy = "origin";         
+  scriptTag.defer = true;         
+  bodyTag.appendChild(scriptTag);      
+}, 5000);  
+}
+</script><script type="text/javascript">
+(function() {
+  // add beta text 
+  let timerId = setInterval(function(){
+	if(!document.getElementsByClassName("sc-htpNat")[0]) return;
+	
+	clearInterval(timerId);
+	document.getElementsByClassName("sc-htpNat")[0].addEventListener("click", changeText);
+	document.getElementsByClassName("sc-EHOje")[0].addEventListener("click", changeText);
+  }, 5000);
+  function changeText() {
+	const ele = $("#webchat-container p:contains('Ask MSF')");
+	ele.html("");
+	ele.append("Ask MSF <span style='font-size: 14px !important;position: relative;top: -9px;left: 5px;font-weight: lighter;'>beta</span>");
+  }
+})();
+</script><link rel="canonical" href="https://www.msf.gov.sg/what-we-do/adoption/adoption-eligibility/who-can-adopt"><script async="" src="https://assets.wogaa.sg/scripts/wogaa.js?url=https%3A%2F%2Fwww.msf.gov.sg%2Fwhat-we-do%2Fadoption%2Fadoption-eligibility%2Fwho-can-adopt"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="module" src="https://assets.wogaa.sg/sentiments/sentiments.esm.js" async=""></script><script nomodule="" src="https://assets.wogaa.sg/sentiments/sentiments.js" async=""></script><style type="text/css">#st-2 {
+  font-family: "Helvetica Neue", Verdana, Helvetica, Arial, sans-serif;;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  backface-visibility: hidden;
+  display: block;
+  position: fixed;
+  opacity: 1;
+  text-align: left;
+  top: 310px;
+  z-index: 94034;
+}
+#st-2.st-left {
+  left: 0px;
+}
+#st-2.st-hidden.st-left {
+  left: -48px;
+}
+#st-2.st-hidden {
+  width: 96px;
+}
+#st-2.st-preview {
+  display: none!important;
+  opacity: 0!important;
+}
+#st-2 > div {
+  clear: left;
+  float: left;
+}
+#st-2 .st-btn {
+  -moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  height: 48px;
+  line-height: 24px;
+  margin-bottom: 0;
+  opacity: 1;
+  overflow: hidden;
+  padding: 12px;
+  position: relative;
+  text-align: left;
+  top: 0;
+  vertical-align: top;
+  white-space: nowrap;
+  width: 48px;
+}
+#st-2 .st-btn.st-first {
+  border-top: none;
+  border-top-right-radius: 4px;
+}
+#st-2 .st-btn.st-last {
+  border-bottom: none;
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn > svg {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > img {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > span {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  color: #fff;
+  display: inline-block;
+  font-weight: 500;
+  left: -35px;
+  letter-spacing: 0.5px;
+  opacity: 0;
+  padding: 0 6px;
+  position: relative;
+  vertical-align: top;
+  filter: alpha(opacity=0);
+}
+#st-2 .st-btn.st-hide-label > span {
+  display: none !important;
+}
+#st-2 .st-total {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #fff;
+  color: #555;
+  display: inline-block;
+  font-weight: 500;
+  line-height: 18px;
+  margin-right: 0;
+  min-height: 34px;
+  max-width: 80px;
+  opacity: 1;
+  padding: 4px 0;
+  text-align: center;
+  width: 48px;
+}
+#st-2 .st-total.st-hidden {
+  display: none;
+}
+#st-2 .st-total > span {
+  display: block;
+  font-size: 18px;
+  line-height: 21px;
+  padding: 0;
+}
+#st-2 .st-total > span.st-shares {
+  font-size: 11px;
+  line-height: 11px;
+}
+#st-2 .st-toggle {
+  left: -48px;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #ccc;
+  border-bottom-right-radius: 4px;
+  color: white;
+  cursor: pointer;
+  font-size: 24px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: 48px;
+}
+#st-2.st-hidden .st-toggle {
+  border-top-right-radius: 4px;
+}
+#st-2.st-left .st-toggle .st-left {
+  display: inline-block;
+}
+#st-2.st-left.st-hidden .st-toggle .st-left {
+  display: none;
+}
+#st-2.st-left .st-toggle .st-right {
+  display: none;
+}
+#st-2.st-left.st-hidden .st-toggle .st-right {
+  display: inline-block;
+}#st-2:hover .st-toggle {
+  left: 0;
+}
+#st-2.st-hidden:hover .st-toggle {
+  left: 48px;
+}
+#st-2.st-toggleable:hover .st-btn.st-last {
+  border-bottom-right-radius: 0;
+}
+#st-2.st-toggleable:hover .st-btn.st-last:hover {
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn:hover {
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+}
+#st-2.st-has-labels .st-btn:hover {
+  width: 120px;
+}
+#st-2:not(.st-has-labels) .st-btn:hover {
+  width: 62px;
+}
+#st-2 .st-btn.st-hide-label:hover {
+  width: 62px;
+}
+#st-2 .st-btn:hover > svg {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > img {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > span {
+  opacity: 1;
+  display: inline-block;
+  left: 0;
+  filter: alpha(opacity=100);
+}
+@media (max-width: 1024px) {
+  #st-2 .st-btn:hover > svg {
+    margin-left: 0;
+  }
+  #st-2 .st-btn:hover > span {
+    display: none;
+  }
+}@media (max-width: 1024px) {
+  #st-2 {
+  bottom: 0;
+  display: none;
+  left: 0;
+  right: 0;
+  top: auto;
+  width: 100%;
+}
+#st-2.st-hidden {
+  bottom: -48px;
+  width: 100%;
+}
+#st-2.st-hidden.st-left {
+  left: 0;
+}
+#st-2.st-hidden.st-right {
+  right: 0;
+}
+#st-2 > div {
+  -moz-flex: 1;
+  -ms-flex: 1;
+  -webkit-flex: 1;
+  clear: none;
+  flex: 1;
+  float: none;
+}
+#st-2 .st-total {
+  background: #fff;
+  padding: 6px 8px;
+}
+#st-2 .st-btn {
+  -moz-border-radius: 0 !important;
+-webkit-border-radius: 0 !important;
+border-radius: 0 !important;
+  text-align: center;
+  width: auto;
+}
+#st-2 .st-btn > span {
+  display: none;
+}
+#st-2 .st-toggle {
+  display: none;
+}
+}#st-2 .st-btn[data-network='facebook'] {
+  background-color: #4267B2
+}
+#st-2 .st-btn[data-network='facebook'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='facebook'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='linkedin'] {
+  background-color: #0077b5
+}
+#st-2 .st-btn[data-network='linkedin'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='linkedin'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='gmail'] {
+  background-color: #D44638
+}
+#st-2 .st-btn[data-network='gmail'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='gmail'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='copy'] {
+  background-color: #14682B
+}
+#st-2 .st-btn[data-network='copy'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='copy'] > span {
+  color: #fff
+}#st-2 .st-btn[data-network='snapchat'] > span {
+  color: #333};
+}#st-2 .st-btn[data-network='copy']:hover {
+  width: max-content;
+}</style></head> <body onload="lateLoadChatFile();"> 
+
+<div id="webchat" app-id="msf-askmsf" app-name="Ask MSF" app-font-family="Arial" app-base-font-size="16" app-icon="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" app-welcome-message="Have a question? Type to get quick answers." app-color="#DE7C00" app-foreground-color1="#FFFFFF" app-bot-response-trigger-event="true" app-quick-launch-event="welcome" app-enable-auto-complete="false" app-auto-complete-background-color="#FFEDD7" app-auto-complete-foreground-color="#2E2E2E" app-auto-complete-hover-color="#FFCA88" app-auto-complete-divider-color="#DE7C00"></div>
+
+
+<div class="announcements-bar">
+    <div class="container-fluid">
+        <div class="row g-0 position-relative align-items-center">
+            <div class="col">
+                <div class="swiper announcementSwiper">
+                    <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <p>Have a question about MSF? Find quick answers with our chatbot Ask MSF.<!--EndFragment--></p>
+                            </div>
+                                                                                                                    </div>
+                </div>
+            </div>
+            <div class="col-auto align-self-start">
+                <div class="announcements-close">
+                    <button class="btn-close btn-ann-close btn-close-white" aria-label="Close"></button>
+                </div>
+            </div>
+        </div>
+        <div class="row g-0 position-relative">
+            <div class="col-12 col-md-auto buttons-align">
+                <div class="announcements-buttons">
+                    <div class="announcements-swiper-button swiper-button-prev">
+                        <em class="fa-solid fa-chevron-left"></em>
+                    </div>
+                    <div class="announcements-pagination"></div>
+                    <div class="announcements-swiper-button swiper-button-next">
+                        <em class="fa-solid fa-chevron-right"></em>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+ <sgds-masthead fluid="" class="sgds-masthead-class"></sgds-masthead> 
+<div class="layout-subsite" id="sfp">
+    <div id="Content_T588B9CF5001_Col00" class="sf_colsIn" data-sf-element="Navigation" data-placeholder-label="Navigation">
+
+<header>
+    <nav class="sgds navbar navbar-expand-xl subsite-navbar">
+        <div class="subsite-title-mobile d-block d-xl-none">
+            <p>ADOPTION</p>
+        </div>
+        <div class="navbar-content">
+            <div class="container-fluid flex-wrap h-100">
+                <div class="row align-items-center position-relative h-100">
+                    <div class="col-3 pe-0 h-100 d-none d-xl-block">
+                        <a href="/what-we-do/adoption" class="subsite-title d-none d-xl-inline-flex h-100 text-uppercase" aria-label="ADOPTION">
+                            <span>ADOPTION</span>
+                        </a>
+                    </div>
+
+                    <div class="col-12 col-xl ps-xl-0">
+                        <div class="d-flex justify-content-end align-items-center">
+                            <a class="navbar-brand" href="/" aria-label="home page">
+                                <img src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" title="MSF logo" width="103" height="51">
+                            </a>
+
+                            <button class="btn btn-nav-search px-24 ms-auto d-block d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#searchbarCollapse" aria-expanded="false" aria-controls="searchbarCollapse" aria-label="search icon">
+                                <em class="fa-solid fa-search"></em>
+                            </button>
+
+                            <div class="collapse" id="searchbarCollapse">
+                                <div class="container-fluid p-0 px-12">
+                                    <div class="nav-searchbar">
+                                        <div class="input-group">
+                                            <input type="text" class="form-control" placeholder="Search our website">
+                                            <button class="btn btn-search" type="submit" aria-label="Search">
+                                                <div class="d-flex justify-content-center align-items-center">
+                                                    <span>Search</span>
+                                                </div>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Menu">
+                                Menu
+                            </button>
+                            <div class="offcanvas offcanvas-end align-self-xl-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                                <div class="offcanvas-header">
+                                    <img class="offcanvas-header-logo" src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family">
+                                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                                </div>
+
+                                <div class="offcanvas-searchbar">
+                                    <div class="sgds form-group">
+                                        <div class="input-group">
+                                            <input type="text" class="form-control" id="defaultWith" aria-describedby="defaultWith" placeholder="Search our website">
+                                            <button class="btn btn-offcanvas-search" type="button">
+                                                <em class="fa-solid fa-search form-control-icon"></em>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="offcanvas-body" id="offcanvasBody">
+                                    <ul class="navbar-nav d-none d-xl-flex">
+                                        
+                                                        <li class="nav-item dropdown">
+                                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Who We Are">
+                                                               Who We Are
+                                                            </a>
+                                                            <ul class="dropdown-menu">
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="/who-we-are/mission-values" aria-label="Mission &amp; Values">
+                                                                            Mission &amp; Values
+                                                                        </a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="/who-we-are/organisation-chart" aria-label="Organisation Chart">
+                                                                            Organisation Chart
+                                                                        </a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="/who-we-are/agencies-statutory-boards-councils" aria-label="Agencies, Statutory Boards &amp; Councils">
+                                                                            Agencies, Statutory Boards &amp; Councils
+                                                                        </a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="/who-we-are/senior-management-team" aria-label="Senior Management Team">
+                                                                            Senior Management Team
+                                                                        </a>
+                                                                    </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="nav-item dropdown">
+                                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="What We Do">
+                                                               What We Do
+                                                            </a>
+                                                            <ul class="dropdown-menu">
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="/what-we-do/help-those-in-need" aria-label="Help Those in Need">
+                                                                            Help Those in Need
+                                                                        </a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="/what-we-do/support-families-and-parents" aria-label="Support Families &amp; Parents">
+                                                                            Support Families &amp; Parents
+                                                                        </a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="/what-we-do/strengthen-the-social-service-sector" aria-label="Strengthen the Social Service Sector">
+                                                                            Strengthen the Social Service Sector
+                                                                        </a>
+                                                                    </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="nav-item dropdown">
+                                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Our Services">
+                                                               Our Services
+                                                            </a>
+                                                            <ul class="dropdown-menu">
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="/our-services/directories" aria-label="Directories">
+                                                                            Directories
+                                                                        </a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="/our-services/e-services" aria-label="E-Services">
+                                                                            E-Services
+                                                                        </a>
+                                                                    </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link" href="/media-room" aria-label="Media Room">
+                                                                Media Room
+                                                            </a>
+                                                        </li>
+                                                        <li class="nav-item dropdown">
+                                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Research &amp; Data">
+                                                               Research &amp; Data
+                                                            </a>
+                                                            <ul class="dropdown-menu">
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="/research-data/research-reports-data" aria-label="Research Report &amp; Data">
+                                                                            Research Report &amp; Data
+                                                                        </a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="/research-data/research-grants" aria-label="Research Grants">
+                                                                            Research Grants
+                                                                        </a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="/what-we-do/Research-Conferences-Forums-Networks" aria-label="Research Conferences, Forums &amp; Networks">
+                                                                            Research Conferences, Forums &amp; Networks
+                                                                        </a>
+                                                                    </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="nav-item dropdown">
+                                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Join Us">
+                                                               Join Us
+                                                            </a>
+                                                            <ul class="dropdown-menu">
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="/join-us/volunteer-with-msfcare-network" aria-label="Volunteer with MSFCare Network">
+                                                                            Volunteer with MSFCare Network
+                                                                        </a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="/join-us/jobs-careers" aria-label="Jobs &amp; Careers">
+                                                                            Jobs &amp; Careers
+                                                                        </a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a class="dropdown-item" href="/join-us/scholarships-internships" aria-label="Scholarships &amp; Internships">
+                                                                            Scholarships &amp; Internships
+                                                                        </a>
+                                                                    </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link" href="/events" aria-label="Events">
+                                                                Events
+                                                            </a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link" href="/AskMSF" aria-label="Ask MSF">
+                                                                Ask MSF
+                                                            </a>
+                                                        </li>
+                                    </ul>
+
+                                    <div class="submenu-content-header">
+                                        <h6>
+                                            ADOPTION
+                                        </h6>
+                                    </div>
+
+                                    <ul class="navbar-nav d-flex d-xl-none">
+                                        <li class="nav-item">
+                                            <a href="/what-we-do/adoption" class="nav-link submenu-link" aria-label="Home">Home</a>
+                                        </li>
+                                        
+                                                        <li class="nav-item">
+                                                            <a class="nav-link submenu-link" href="#what-we-doadoptionabout-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="About">
+                                                                <span class="nav-link-text"><span>About</span></span>
+                                                                <em class="fa-solid fa-chevron-right">
+                                                                </em>
+                                                            </a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link submenu-link" href="#what-we-doadoptionadoption-eligibility-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Adoption Eligibility">
+                                                                <span class="nav-link-text"><span>Adoption Eligibility</span></span>
+                                                                <em class="fa-solid fa-chevron-right">
+                                                                </em>
+                                                            </a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link submenu-link" href="#what-we-doadoptionadoption-process-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Adoption Process">
+                                                                <span class="nav-link-text"><span>Adoption Process</span></span>
+                                                                <em class="fa-solid fa-chevron-right">
+                                                                </em>
+                                                            </a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link submenu-link" href="/what-we-do/adoption/resources" aria-label="Resources">
+                                                                <span>Resources</span>
+                                                            </a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link submenu-link" href="/what-we-do/adoption/faqs" aria-label="FAQs">
+                                                                <span>FAQs</span>
+                                                            </a>
+                                                        </li>
+                                    </ul>
+
+                                    <div class="submenu-content-header">
+                                        <h6>
+                                            Ministry of Social and Family Development
+                                        </h6>
+                                    </div>
+
+                                    <ul class="navbar-nav d-flex d-xl-none">
+                                        
+                                                    <li class="nav-item">
+                                                        <a class="nav-link" href="/who-we-are" aria-label="Who We Are">
+                                                            Who We Are
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link" href="/what-we-do" aria-label="What We Do">
+                                                            What We Do
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link" href="/our-services" aria-label="Our Services">
+                                                            Our Services
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link" href="/media-room" aria-label="Media Room">
+                                                            Media Room
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link" href="/research-data" aria-label="Research &amp; Data">
+                                                            Research &amp; Data
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link" href="/join-us" aria-label="Join Us">
+                                                            Join Us
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link" href="/events" aria-label="Events">
+                                                            Events
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link" href="/AskMSF" aria-label="Ask MSF">
+                                                            Ask MSF
+                                                        </a>
+                                                    </li>
+                                    </ul>
+
+                                    <div class="d-block d-xl-none">
+                                                <div class="collapse collapse-horizontal submenu" id="what-we-doadoptionabout-submenu" data-bs-parent="#menu">
+                                                    <div class="card card-body border-0" style="width: 100vw">
+                                                        <a href="#what-we-doadoptionabout-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                                            <em class="fa-solid fa-chevron-left"></em>
+                                                            Main menu
+                                                        </a>
+                                                        <div class="submenu-content-header">
+                                                            <h6>About</h6>
+                                                        </div>
+                                                        <ul class="navbar-nav gap-10">
+                                                                <li class="nav-item">
+                                                                    <a href="/what-we-do/adoption/about/our-work" class="nav-link sgds" aria-label="Our Work"><span>Our Work</span></a>
+                                                                </li>
+                                                                <li class="nav-item">
+                                                                    <a href="/what-we-do/adoption/about/adoption-of-children-act-2022" class="nav-link sgds" aria-label="Adoption of Children Act (ACA) 2022"><span>Adoption of Children Act (ACA) 2022</span></a>
+                                                                </li>
+                                                                <li class="nav-item">
+                                                                    <a href="/what-we-do/adoption/about/contact-us" class="nav-link sgds" aria-label="Contact Us"><span>Contact Us</span></a>
+                                                                </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="collapse collapse-horizontal submenu" id="what-we-doadoptionadoption-eligibility-submenu" data-bs-parent="#menu">
+                                                    <div class="card card-body border-0" style="width: 100vw">
+                                                        <a href="#what-we-doadoptionadoption-eligibility-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                                            <em class="fa-solid fa-chevron-left"></em>
+                                                            Main menu
+                                                        </a>
+                                                        <div class="submenu-content-header">
+                                                            <h6>Adoption Eligibility</h6>
+                                                        </div>
+                                                        <ul class="navbar-nav gap-10">
+                                                                <li class="nav-item">
+                                                                    <a href="/what-we-do/adoption/adoption-eligibility/who-can-adopt" class="nav-link sgds" aria-label="Who Can Adopt?"><span>Who Can Adopt?</span></a>
+                                                                </li>
+                                                                <li class="nav-item">
+                                                                    <a href="/what-we-do/adoption/adoption-eligibility/who-can-be-adopted" class="nav-link sgds" aria-label="Who Can Be Adopted?"><span>Who Can Be Adopted?</span></a>
+                                                                </li>
+                                                                <li class="nav-item">
+                                                                    <a href="/what-we-do/adoption/adoption-eligibility/eligibility-checker" class="nav-link sgds" aria-label="Eligibility Checker"><span>Eligibility Checker</span></a>
+                                                                </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="collapse collapse-horizontal submenu" id="what-we-doadoptionadoption-process-submenu" data-bs-parent="#menu">
+                                                    <div class="card card-body border-0" style="width: 100vw">
+                                                        <a href="#what-we-doadoptionadoption-process-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                                            <em class="fa-solid fa-chevron-left"></em>
+                                                            Main menu
+                                                        </a>
+                                                        <div class="submenu-content-header">
+                                                            <h6>Adoption Process</h6>
+                                                        </div>
+                                                        <ul class="navbar-nav gap-10">
+                                                                <li class="nav-item">
+                                                                    <a href="/what-we-do/adoption/adoption-process/step-1-attend-mandatory-adoption-briefings" class="nav-link sgds" aria-label="Step 1: Attend Mandatory Adoption Briefings"><span>Step 1: Attend Mandatory Adoption Briefings</span></a>
+                                                                </li>
+                                                                <li class="nav-item">
+                                                                    <a href="/what-we-do/adoption/adoption-process/step-2-undergo-home-study-report-adoption-suitability-assessment" class="nav-link sgds" aria-label="Step 2: Undergo HSR / ASA"><span>Step 2: Undergo HSR / ASA</span></a>
+                                                                </li>
+                                                                <li class="nav-item">
+                                                                    <a href="/what-we-do/adoption/adoption-process/step-3-identify-a-child-to-adopt" class="nav-link sgds" aria-label="Step 3: Identify a Child to Adopt"><span>Step 3: Identify a Child to Adopt</span></a>
+                                                                </li>
+                                                                <li class="nav-item">
+                                                                    <a href="/what-we-do/adoption/adoption-process/step-4-apply-for-a-dependant's-pass-(for-foreign-child)" class="nav-link sgds" aria-label="Step 4: Apply for a Dependant's Pass (for Foreign Child)"><span>Step 4: Apply for a Dependant's Pass (for Foreign Child)</span></a>
+                                                                </li>
+                                                                <li class="nav-item">
+                                                                    <a href="/what-we-do/adoption/adoption-process/step-5-submit-adoption-application-to-court" class="nav-link sgds" aria-label="Step 5: Submit Adoption Application to Court"><span>Step 5: Submit Adoption Application to Court</span></a>
+                                                                </li>
+                                                                <li class="nav-item">
+                                                                    <a href="/what-we-do/adoption/adoption-process/step-6-attend-court-hearing-post-adoption" class="nav-link sgds" aria-label="Step 6: Attend Court Hearing &amp; Post-Adoption"><span>Step 6: Attend Court Hearing &amp; Post-Adoption</span></a>
+                                                                </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="navbar-content d-none d-xl-block">
+            <div class="container-fluid h-100">
+                <ul class="navbar-nav h-100">
+                                    <li class="nav-item dropdown subsite-nav-item">
+                                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="About">
+                                            <span class="nav-link-text">About</span>
+                                        </a>
+                                        <ul class="dropdown-menu">
+                                                <li>
+                                                    <a class="dropdown-item" href="/what-we-do/adoption/about/our-work" aria-label="Our Work">
+                                                        Our Work
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="/what-we-do/adoption/about/adoption-of-children-act-2022" aria-label="Adoption of Children Act (ACA) 2022">
+                                                        Adoption of Children Act (ACA) 2022
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="/what-we-do/adoption/about/contact-us" aria-label="Contact Us">
+                                                        Contact Us
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item dropdown subsite-nav-item">
+                                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Adoption Eligibility">
+                                            <span class="nav-link-text">Adoption Eligibility</span>
+                                        </a>
+                                        <ul class="dropdown-menu">
+                                                <li>
+                                                    <a class="dropdown-item" href="/what-we-do/adoption/adoption-eligibility/who-can-adopt" aria-label="Who Can Adopt?">
+                                                        Who Can Adopt?
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="/what-we-do/adoption/adoption-eligibility/who-can-be-adopted" aria-label="Who Can Be Adopted?">
+                                                        Who Can Be Adopted?
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="/what-we-do/adoption/adoption-eligibility/eligibility-checker" aria-label="Eligibility Checker">
+                                                        Eligibility Checker
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item dropdown subsite-nav-item">
+                                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Adoption Process">
+                                            <span class="nav-link-text">Adoption Process</span>
+                                        </a>
+                                        <ul class="dropdown-menu">
+                                                <li>
+                                                    <a class="dropdown-item" href="/what-we-do/adoption/adoption-process/step-1-attend-mandatory-adoption-briefings" aria-label="Step 1: Attend Mandatory Adoption Briefings">
+                                                        Step 1: Attend Mandatory Adoption Briefings
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="/what-we-do/adoption/adoption-process/step-2-undergo-home-study-report-adoption-suitability-assessment" aria-label="Step 2: Undergo HSR / ASA">
+                                                        Step 2: Undergo HSR / ASA
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="/what-we-do/adoption/adoption-process/step-3-identify-a-child-to-adopt" aria-label="Step 3: Identify a Child to Adopt">
+                                                        Step 3: Identify a Child to Adopt
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="/what-we-do/adoption/adoption-process/step-4-apply-for-a-dependant's-pass-(for-foreign-child)" aria-label="Step 4: Apply for a Dependant's Pass (for Foreign Child)">
+                                                        Step 4: Apply for a Dependant's Pass (for Foreign Child)
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="/what-we-do/adoption/adoption-process/step-5-submit-adoption-application-to-court" aria-label="Step 5: Submit Adoption Application to Court">
+                                                        Step 5: Submit Adoption Application to Court
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="/what-we-do/adoption/adoption-process/step-6-attend-court-hearing-post-adoption" aria-label="Step 6: Attend Court Hearing &amp; Post-Adoption">
+                                                        Step 6: Attend Court Hearing &amp; Post-Adoption
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </li>
+                                        <li class="nav-item subsite-nav-item">
+                                            <a class="nav-link" href="/what-we-do/adoption/resources" aria-label="Resources">Resources</a>
+                                        </li>
+                                        <li class="nav-item subsite-nav-item">
+                                            <a class="nav-link" href="/what-we-do/adoption/faqs" aria-label="FAQs">FAQs</a>
+                                        </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header><div class="searchbar">
+    <div class="container-fluid">
+        <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search our website" id="searchbarWidgetSearchInput" data-search="searchbarWidgetSearchInput">
+            <button class="btn btn-search" type="button" id="searchbarWidgetBtnSearch" aria-label="Search">
+                <span>
+                    <em class="fa-solid fa-search fa-sm"></em>
+                    Search
+                </span>
+            </button>
+        </div>
+    </div>
+</div>
+
+
+
+<link href="/ResourcePackages/Msf/assets/css/language-bar.min.css" rel="stylesheet" type="text/css">
+
+
+    </div>
+    <div id="Content_T588B9CF5001_Col01" class="sf_colsIn" data-sf-element="Content" data-placeholder-label="Content">
+
+<div class="title-wrapper" style="margin-bottom: 28px; margin-top: 60px;">
+    <div class="container-fluid" style="padding-right: 0;">
+        <div class="title-line" style="border-bottom: 2px solid;">
+            <h1 style="font-style: normal; font-weight: 600; font-size: 40px; line-height: 52px; color: #181A18; margin-bottom: 40px;">
+                Who Can Adopt?
+            </h1>
+        </div>
+    </div>
+</div><div class="subsite-layout" data-sf-element="Layout">
+    <section class="subsite theme" data-sf-element="Section">
+        <div class="col-12" data-sf-element="Row">
+            <div class="container-fluid" data-sf-element="Row">
+                <div class="row justify-content-between" data-sf-element="Row">
+                    <div id="Content_C001_Col00" class="sf_colsIn col-12 col-lg-3 sub-navbar" data-sf-element="Subsite Navigation" data-placeholder="Subsite Navigation">
+
+
+    <nav class="sidenav sgds list-unstyled open d-none d-lg-block">
+        <ul>
+                    <li class="sidenav-item">
+                        <a href="/what-we-do/adoption/adoption-eligibility/who-can-adopt" class="sgds btn btn-sidenav sidenav-link active" aria-label="Who Can Adopt?">Who Can Adopt?</a>
+                    </li>
+                    <li class="sidenav-item">
+                        <a href="/what-we-do/adoption/adoption-eligibility/who-can-be-adopted" class="sgds btn btn-sidenav sidenav-link " aria-label="Who Can Be Adopted?">Who Can Be Adopted?</a>
+                    </li>
+                    <li class="sidenav-item">
+                        <a href="/what-we-do/adoption/adoption-eligibility/eligibility-checker" class="sgds btn btn-sidenav sidenav-link " aria-label="Eligibility Checker">Eligibility Checker</a>
+                    </li>
+        </ul>
+    </nav>
+
+<div class="dropdown-sidenav d-block d-lg-none">
+    <button class="btn btn-drop-sidenav w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapse" aria-expanded="false" aria-controls="collapse" aria-label="View More Info">
+        View More Info
+        <em class="fa-solid fa-chevron-down"></em>
+    </button>
+
+        <div class="collapse" id="collapse">
+                    <a href="/what-we-do/adoption/adoption-eligibility/who-can-adopt" class="btn btn-content-link w-100 active" aria-label="Who Can Adopt?">Who Can Adopt?</a>
+                    <a href="/what-we-do/adoption/adoption-eligibility/who-can-be-adopted" class="btn btn-content-link w-100 " aria-label="Who Can Be Adopted?">Who Can Be Adopted?</a>
+                    <a href="/what-we-do/adoption/adoption-eligibility/eligibility-checker" class="btn btn-content-link w-100 " aria-label="Eligibility Checker">Eligibility Checker</a>
+        </div>
+</div>
+
+                    </div>
+                    <div id="Content_C001_Col01" class="sf_colsIn col-12 col-lg-9 sub-section" data-sf-element="Subsite Content" data-placeholder-label="Subsite Content">
+<center></center>
+<div class="accordion" id="accordionExample">
+    <div id="Content_C007_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content">
+
+    <div class="accordion-item" id="1_residency_status">
+        <h2 class="accordion-header" id="heading_1_residency_status">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_1_residency_status" aria-expanded="true" aria-controls="collapse_1_residency_status" aria-label="1) Residency Status">
+                1) Residency Status
+            </button>
+        </h2>
+        <div id="collapse_1_residency_status" class="accordion-collapse collapse" aria-labelledby="heading_1_residency_status" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p><strong>Under the Adoption of Children Act (ACA) 1939:</strong></p><p>Applicants must be residents in Singapore to adopt, i.e.:</p><ul><li>Singapore Citizens<br><br></li><li>Permanent Residents<br><br></li><li>Holders of Employment Pass, Dependant’s Pass, or any other Pass which the Family Court deems as proof of residency in Singapore<br><br></li></ul><p><strong>Under the new ACA 2022:</strong></p><ul><li><strong>If you and your spouse are applying to adopt a child</strong> – one of you must be a Singapore Citizen (SC) or both of you must be Permanent Residents (PRs).<br><br></li><li><strong>If you are applying to adopt a child as a sole applicant</strong> – you must be either a SC or PR.<br><br></li><li>You and your spouse must be habitually resident in Singapore.<br><br></li><li>You and your spouse must have resided in Singapore for a continuous period of at least one year immediately preceding the application for an Adoption Suitability Assessment.<br><br></li><li>You and your spouse must not be convicted of serious crimes.</li></ul>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="2_foreigners_wishing_to_adopt_in_singapore">
+        <h2 class="accordion-header" id="heading_2_foreigners_wishing_to_adopt_in_singapore">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_2_foreigners_wishing_to_adopt_in_singapore" aria-expanded="true" aria-controls="collapse_2_foreigners_wishing_to_adopt_in_singapore" aria-label="2) Foreigners Wishing to Adopt in Singapore">
+                2) Foreigners Wishing to Adopt in Singapore
+            </button>
+        </h2>
+        <div id="collapse_2_foreigners_wishing_to_adopt_in_singapore" class="accordion-collapse collapse" aria-labelledby="heading_2_foreigners_wishing_to_adopt_in_singapore" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p>MSF has stopped issuing Letters of Approval.</p><br><p><strong>Before the new Adoption of Children Act (ACA) 2022 takes effect:</strong></p><p><strong>If you and your spouse are Permanent Residents (PRs), or if you are a PR adopting as a sole applicant</strong>, you must ensure that:</p><ul><li>The adoption in Singapore is recognised in your home country<br><br></li><li>The legal requirements for adoption in your home country are met<br><br></li><li>The adopted child will be granted permanent stay in your home country<br><br></li><li>You must (a) obtain a favourable HSR report [and Dependant’s Pass (DP) if the child is not a Singapore Citizen (SC) or PR] and (b) submit an application to Court before the ACA 2022 takes effect. Otherwise, the new requirements under the ACA
+        2022 will apply.<br><br></li></ul><p><strong>Under the new Adoption of Children Act (ACA) 2022:</strong></p><p><strong>If you are a foreigner applying to adopt a child with your spouse who is a Singapore Citizen:</strong></p><ul><li>You do not need a Letter of Support.<br><br></li><li>You should ensure that your home country will recognise Singapore’s adoption order (if granted); and the adoption will meet the country’s legal or immigration requirements (where relevant).<br><br></li></ul><p><strong>If both you and your spouse are PRs, or if you are a PR adopting as a sole applicant:</strong></p><ul><li>You should ensure that your home country will recognise Singapore’s adoption order (if granted), and the adoption will meet the country’s legal or immigration requirements (where relevant).</li></ul>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="3_age_of_applicants">
+        <h2 class="accordion-header" id="heading_3_age_of_applicants">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_3_age_of_applicants" aria-expanded="true" aria-controls="collapse_3_age_of_applicants" aria-label="3) Age of Applicants">
+                3) Age of Applicants
+            </button>
+        </h2>
+        <div id="collapse_3_age_of_applicants" class="accordion-collapse collapse" aria-labelledby="heading_3_age_of_applicants" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <ul>
+            <li>Applicants should not be more than 50 years older than the child.<br><br></li>
+            <li>Applicants must fulfill the following criteria:<br><br>
+                <ul>
+                    <li>At least 25 years old<br><br></li>
+                    <li>Must be at least 21 years older than the child to be adopted</li>
+                </ul>
+            </li>
+        </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="4_marital_status">
+        <h2 class="accordion-header" id="heading_4_marital_status">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_4_marital_status" aria-expanded="true" aria-controls="collapse_4_marital_status" aria-label="4) Marital Status">
+                4) Marital Status
+            </button>
+        </h2>
+        <div id="collapse_4_marital_status" class="accordion-collapse collapse" aria-labelledby="heading_4_marital_status" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <ul>
+            <li>Only married couples can adopt as joint applicants.<br><br></li>
+            <li>Married applicants who wish to adopt as a sole applicant must obtain the consent of their spouse, unless the Court grants the dispensation of such consent.<br><br></li>
+            <li>Single males are not allowed to adopt a girl, unless there are special circumstances that justify the making of an adoption order.</li>
+        </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="5_additional_requirements">
+        <h2 class="accordion-header" id="heading_5_additional_requirements">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_5_additional_requirements" aria-expanded="true" aria-controls="collapse_5_additional_requirements" aria-label="5) Additional Requirements">
+                5) Additional Requirements
+            </button>
+        </h2>
+        <div id="collapse_5_additional_requirements" class="accordion-collapse collapse" aria-labelledby="heading_5_additional_requirements" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p><strong>Under the Adoption of Children Act (ACA) 1939:</strong></p><ul><li>Obtain a Certificate of Attendance for <a target="_blank" href="https://www.msf.gov.sg/what-we-do/adoption/adoption-process/step-1-attend-mandatory-adoption-briefings">Pre-Adoption Briefing (PAB)</a><br><br></li><li>Obtain a favourable Home Study Report, unless you have obtained a waiver from MSF<br><br></li><li>Obtain consent from the relevant persons<br><br></li></ul><p><strong>Under the new Adoption of Children Act (ACA) 2022:</strong></p><ul><li>All applicants are required to attend (a) a <strong>Pre-Adoption Briefing</strong> <span style="text-decoration:underline;"><strong>and</strong></span> (b) a <strong>Disclosure Briefing</strong> conducted by <a target="_blank" href="https://www.msf.gov.sg/what-we-do/adoption/about/contact-us#agencies">MSF’s authorised adoption agencies</a> and, (c) obtain a<strong> favourable </strong><a target="_blank" href="https://www.msf.gov.sg/what-we-do/adoption/adoption-process/step-2-undergo-home-study-report-adoption-suitability-assessment">Adoption Suitability Assessment</a> from these agencies, before making an application to Court.<br><br><ul><li><span style="text-decoration:underline;">Pre-Adoption Briefing (PAB)</span> - You may find out more from MSF’s authorised adoption agencies.<br><br></li><li><span style="text-decoration:underline;">Disclosure Briefing (DB)</span> - Early disclosure of adoption is important as it impacts the child’s confidence, self-esteem, and bonding with the adoptive parents.</li></ul></li></ul><p>You may check the websites of the authorised adoption agencies to find the fees they charge for the PAB and DB.</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="requirements_to_adopt_a_child_from_the_peoples_republic_of_china_prc">
+        <h2 class="accordion-header" id="heading_requirements_to_adopt_a_child_from_the_peoples_republic_of_china_prc">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_requirements_to_adopt_a_child_from_the_peoples_republic_of_china_prc" aria-expanded="true" aria-controls="collapse_requirements_to_adopt_a_child_from_the_peoples_republic_of_china_prc" aria-label="Requirements to Adopt a Child from the People's Republic of China (PRC)">
+                Requirements to Adopt a Child from the People's Republic of China (PRC)
+            </button>
+        </h2>
+        <div id="collapse_requirements_to_adopt_a_child_from_the_peoples_republic_of_china_prc" class="accordion-collapse collapse" aria-labelledby="heading_requirements_to_adopt_a_child_from_the_peoples_republic_of_china_prc" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p>If you are applying to adopt a child from the PRC, <a target="_blank" href="https://www.msf.gov.sg/what-we-do/adoption/about/contact-us#agencies">please contact either TOUCH Community Services or Fei Yue Community Services</a>.</p><br><div style="overflow-x:auto;word-wrap:break-word;"><table class="datatable k-table"><tbody><tr><th style="vertical-align:top;">Requirement by China Centre for Children's Welfare and Adoption (CCCWA)</th><th style="vertical-align:top;" data-role="resizable">Child is from social welfare institution in PRC</th><th style="vertical-align:top;">Related Child</th><th style="vertical-align:top;">Stepchild</th></tr><tr><td style="vertical-align:top;">Age</td><td colspan="2" style="vertical-align:top;"><ul><li>Applicants must be at least 30 years old, and the younger of the applicants should not be more than 55 years old.</li><br><br><li>Applicants adopting a child with special needs must be between 30 to 55 years old.</li><br><br></ul></td><td style="vertical-align:top;">N.A</td></tr><tr><td style="vertical-align:top;">Marital Status</td><td colspan="2" style="vertical-align:top;"><ul><li>Only married couples who have been married for at least 2 years can adopt jointly.</li><br><br><li>If either applicant has been divorced previously, the applicants must be married for at least 5 years.</li><br><br><li>Applicants who have been divorced more than 2 times are not allowed to adopt.</li></ul></td><td style="vertical-align:top;">N.A.</td></tr><tr><td style="vertical-align:top;">Children in the House</td><td style="vertical-align:top;"><ul><li>Applicants should not have more than 5 children. Youngest child in the house should reach 3 years old.</li></ul></td><td style="vertical-align:top;"><ul><li>Applicants should be childless in their present marriage, and previous marriage (if any)</li></ul></td><td style="vertical-align:top;">N.A.</td></tr><tr><td style="vertical-align:top;">Income</td><td colspan="2" style="vertical-align:top;">Applicants’ annual household income per capita (including the adopted child) must be at least US$10,000. The value of the applicants’ net assets should be at least US$80,000. </td><td style="vertical-align:top;">N.A.</td></tr><tr><td style="vertical-align:top;">Educational History</td><td colspan="2" style="vertical-align:top;">Applicants must have received education of at least senior high school (equivalent to GCE ‘A’ Level) or vocational skills training (equivalent to a National ITE Certificate).</td><td style="vertical-align:top;">N.A.</td></tr><tr><td style="vertical-align:top;">Medical History</td><td colspan="2" style="vertical-align:top;">Applicants must be physically and mentally fit.</td><td style="vertical-align:top;">N.A.</td></tr><tr><td style="vertical-align:top;">Nationality</td><td style="vertical-align:top;">Singapore Citizens only</td><td colspan="2" style="vertical-align:top;">At least one applicant must be a Singapore citizen. The other applicant must be a Permanent Resident or Employment Pass holder.</td></tr><tr><td style="vertical-align:top;">Criminal Records</td><td colspan="2" style="vertical-align:top;">Applicants must not have any criminal records for offences such as child abuse, sexual offences, violent offences, and drug or alcohol abuse among others.</td><td style="vertical-align:top;">N.A.</td></tr><tr><td style="vertical-align:top;">Training</td><td colspan="2" style="vertical-align:top;">Applicants are required to undergo at least 12 hours of training from an accredited agency on adoption</td><td style="vertical-align:top;">N.A.</td></tr><tr><td style="vertical-align:top;">Reference Letters</td><td colspan="2" style="vertical-align:top;">Applicants are required to provide at least 3 reference letters from adult children (18 years old and above) from your marriage or teachers of your young children</td><td style="vertical-align:top;">N.A.</td></tr><tr><td style="vertical-align:top;">Consent from Biological Parents</td><td style="vertical-align:top;">NA</td><td colspan="2" style="vertical-align:top;">Applicants must obtain consent from the biological parents giving up the child for adoption. (consent from the other biological parent for Stepchild adoption case, custody of child is insufficient)<br><br>If the biological parents are deceased or missing, you must produce the death certificates or make an application to the Chinese court to declare that the biological parents are deceased/missing.<br><br>Applicants need to inform the biological parent/s of the child to seek the approval of the Civil Affairs Department of their local provincial government for the adoption.</td></tr><tr><td style="vertical-align:top;">Relationship with Child</td><td style="vertical-align:top;">N.A.</td><td style="vertical-align:top;">The child to be adopted must belong to a collateral relative by blood of the same generation and up to three degrees of kinship, such as a niece or nephew whose parent is a sibling or cousin of either of the applicants.</td><td style="vertical-align:top;">Biological or legally adopted child of the applicant’s spouse.</td></tr><tr><td style="vertical-align:top;">Age of Prospective Adoptee</td><td colspan="3" style="vertical-align:top;">Below 18 years old</td></tr></tbody></table></div>
+            </div>
+        </div>
+    </div>
+
+
+    </div>
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+    </div>
+</div> <div class="sharethis-inline-share-buttons"></div> 
+
+
+<footer class="sgds footer">
+    <section class="footer-top">
+        <div class="container-fluid">
+            <div class="row footer-header">
+                <div class="footer-title">
+                    Ministry of Social and Family Development
+                </div>
+            </div>
+
+            <div class="row footer-contact-links">
+                <div class="col-sm-12">
+                    <div class="d-flex flex-column flex-lg-row gap-20 gap-lg-0 justify-content-lg-end">
+                        <div class="d-flex justify-content-lg-end">
+                            <ul class="d-flex flex-column flex-lg-row gap-lg-40 contact-links">
+                                        <li><a class="" href="/contact-us-feedback" aria-label="Contact Us / Feedback">Contact Us / Feedback</a></li>
+                                        <li><a class="not-first-page" href="/faqs" aria-label="FAQs">FAQs</a></li>
+                            </ul>
+                        </div>
+                        <div class="d-flex align-items-lg-center justify-content-lg-end">
+                            <ul class="d-flex social-links">
+                                <li>
+                                    <a href="https://www.facebook.com/MSFSingapore/" aria-label="facebook">
+                                        <em class="fa-brands fa-square-facebook"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/msfcares/" aria-label="instagram">
+                                        <em class="fa-brands fa-instagram"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://t.me/msfcares" aria-label="telegram">
+                                        <em class="fa-brands fa-telegram"></em>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="footer-bottom">
+        <div class="container-fluid">
+            <hr class="footer-divider">
+            <div class="row footer-mandatory-links">
+                <div class="col-12 col-lg-8 col-xl-9">
+                    <ul class="footer-nav-list">
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links " href="/report-vulnerability" rel="noopener" aria-label="Report Vulnerability
+
+">Report Vulnerability
+
+</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/privacy-statement" rel="noopener" aria-label="Privacy Statement">Privacy Statement</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/terms-of-use" rel="noopener" aria-label="Terms of Use&nbsp;">Terms of Use&nbsp;</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/sitemap" rel="noopener" aria-label="Sitemap">Sitemap</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/accessibility-statement" rel="noopener" aria-label="Accessibility Statement">Accessibility Statement</a>
+                                </li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg footer-copyrights">
+                    <div class="d-flex justify-content-lg-end text-lg-end">
+                        © 2024 Government of Singapore<br>
+                        Last updated 21 Dec 2023
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+
+
+ <div class="accessibility-sidebar"> <div class="btn-group-vertical btn-group-sm" role="group" aria-label="Accessibility Sidebar"> <button type="button" class="btn btn-accessibility btn-notice" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Show/Hide Notice" data-bs-original-title="Show/Hide Notice"> <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10 0C8.02219 0 6.08879 0.58649 4.4443 1.6853C2.79981 2.78412 1.51809 4.3459 0.761209 6.17317C0.00433284 8.00043 -0.193701 10.0111 0.192152 11.9509C0.578004 13.8907 1.53041 15.6725 2.92894 17.0711C4.32746 18.4696 6.10929 19.422 8.0491 19.8079C9.98891 20.1937 11.9996 19.9957 13.8268 19.2388C15.6541 18.4819 17.2159 17.2002 18.3147 15.5557C19.4135 13.9112 20 11.9778 20 10C20 8.68678 19.7413 7.38642 19.2388 6.17317C18.7363 4.95991 17.9997 3.85752 17.0711 2.92893C16.1425 2.00035 15.0401 1.26375 13.8268 0.761205C12.6136 0.258658 11.3132 0 10 0ZM10 18C8.41775 18 6.87104 17.5308 5.55544 16.6518C4.23985 15.7727 3.21447 14.5233 2.60897 13.0615C2.00347 11.5997 1.84504 9.99113 2.15372 8.43928C2.4624 6.88743 3.22433 5.46197 4.34315 4.34315C5.46197 3.22433 6.88743 2.4624 8.43928 2.15372C9.99113 1.84504 11.5997 2.00346 13.0615 2.60896C14.5233 3.21447 15.7727 4.23984 16.6518 5.55544C17.5308 6.87103 18 8.41775 18 10C18 12.1217 17.1572 14.1566 15.6569 15.6569C14.1566 17.1571 12.1217 18 10 18Z"></path> <path d="M10 7C10.5523 7 11 6.55228 11 6C11 5.44772 10.5523 5 10 5C9.44772 5 9 5.44772 9 6C9 6.55228 9.44772 7 10 7Z"></path> <path d="M10 8C9.73478 8 9.48043 8.10536 9.29289 8.29289C9.10536 8.48043 9 8.73478 9 9V14C9 14.2652 9.10536 14.5196 9.29289 14.7071C9.48043 14.8946 9.73478 15 10 15C10.2652 15 10.5196 14.8946 10.7071 14.7071C10.8946 14.5196 11 14.2652 11 14V9C11 8.73478 10.8946 8.48043 10.7071 8.29289C10.5196 8.10536 10.2652 8 10 8Z"></path> </svg> </button> <button type="button" class="btn btn-accessibility btn-font-bigger" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Increase Font Size" data-bs-original-title="Increase Font Size">
+                    A+
+                </button> <button type="button" class="btn btn-accessibility btn-font-smaller" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Decrease Font Size" data-bs-original-title="Decrease Font Size">
+                    A−
+                </button> <button type="button" class="btn btn-accessibility btn-contrast" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Toggle Colour Contrast" data-bs-original-title="Toggle Colour Contrast"> <em class="fa-solid fa-circle-half-stroke"></em> </button> </div> </div> <div class="back-to-top"> <button class="btn-back-top" aria-label="back to top"> <svg width="16" height="8" viewBox="0 0 16 8" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4826 7.76568C14.8297 8.07811 15.3925 8.07811 15.7396 7.76568C16.0868 7.45326 16.0868 6.94673 15.7396 6.63432L8.62853 0.23424C8.2814 -0.0780799 7.71859 -0.0780799 7.37146 0.23424L0.260266 6.63432C-0.0867557 6.94673 -0.0867557 7.45326 0.260266 7.76567C0.607466 8.07811 1.17031 8.07811 1.51751 7.76567L8 3L14.4826 7.76568Z"></path> </svg> <span>Top</span> </button> </div> <script src="/ResourcePackages/Msf/assets/js/jquery.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/jquery-ui.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/swiper-bundle.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/bootstrap.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/default-passive-events.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/search-result.js" type="text/javascript"></script> <script src="https://assets.wogaa.sg/scripts/wogaa.js"></script> <script type="text/javascript" src="/ResourcePackages/Msf/assets/js/sharethis.js#property=648140a26773dd0012e17a9b&amp;product=inline-share-buttons&amp;source=platform" async="async"></script> <script>
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window, document, 'script', 'dataLayer', 'G-7WBNTH91BT');
+            </script> <!-- Global site tag (gtag.js) - Google Analytics --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7WBNTH91BT"></script> <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-7WBNTH91BT');
+            </script> <script type="module" src="https://cdn.jsdelivr.net/npm/@govtechsg/sgds-web-component/Masthead/index.js"></script> <script src="/ResourcePackages/Msf/assets/js/main.min.js" type="text/javascript"></script>  
+<div id="st-2" class=" st-sticky-share-buttons st-left st-toggleable st-has-labels "><div class="st-btn st-first" data-network="facebook" style="display: inline-block;">
+  <img alt="facebook sharing button" src="https://platform-cdn.sharethis.com/img/facebook.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="linkedin" style="display: inline-block;">
+  <img alt="linkedin sharing button" src="https://platform-cdn.sharethis.com/img/linkedin.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="gmail" style="display: inline-block;">
+  <img alt="gmail sharing button" src="https://platform-cdn.sharethis.com/img/gmail.svg">
+  <span class="st-label">Email</span>
+</div><div class="st-btn st-last" data-network="copy" style="display: inline-block;">
+  <img alt="copy sharing button" src="https://platform-cdn.sharethis.com/img/copy.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-toggle">
+  <div class="st-left">
+    <img alt="arrow_left sharing button" src="https://platform-cdn.sharethis.com/img/arrow_left.svg">
+  </div>
+  <div class="st-right">
+    <img alt="arrow_right sharing button" src="https://platform-cdn.sharethis.com/img/arrow_right.svg">
+  </div>
+</div></div><wog-sentiments class="needsclick hydrated"></wog-sentiments></body></html>

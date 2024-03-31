@@ -1,0 +1,891 @@
+<html lang="en" class="hydrated"><head> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>
+	MSF | MSF Volunteer and Partner Awards 2022
+</title> <link rel="icon" type="image/png" href="/ResourcePackages/Msf/assets/img/favIco.png"> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&amp;family=Open+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet">  <link href="/ResourcePackages/Msf/assets/css/sgds.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap-icons.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/all.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/sf-bootstrap-conflict.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/jquery-ui.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/swiper-bundle.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/search-result.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/main.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/custom-style.min.css" rel="stylesheet"> <meta property="og:title" content="MSF | MSF Volunteer and Partner Awards 2022"><meta property="og:url" content="https://www.msf.gov.sg/events/msf-volunteer-and-partner-awards-2022"><meta property="og:type" content="website"><meta property="og:site_name" content="Ministry of Social and Family Development"><script async="" src="https://buttons-config.sharethis.com/js/648140a26773dd0012e17a9b.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=G-7WBNTH91BT"></script><script async="" src="https://assets.wogaa.sg/snowplow/3.13.1/sp.js"></script><script type="text/javascript">
+function lateLoadChatFile() {      
+  setTimeout(() => {        
+              const bodyTag = document.getElementsByTagName("body")[0];      
+             // Create link element to import chat.css file and append it on the body element        
+             let linkTag = document.createElement("link");
+  linkTag.href = "https://webchat.vica.gov.sg/static/css/chat.css";         linkTag.type = "text/css";
+  linkTag.rel = "stylesheet";       
+  linkTag.referrerPolicy = "origin";      
+  bodyTag.appendChild(linkTag);        
+  // Create script element to import chat.js file and append it on the body element       
+  let scriptTag = document.createElement("script");         scriptTag.src = "https://webchat.vica.gov.sg/static/js/chat.js";         scriptTag.type = "text/javascript";      
+  scriptTag.referrerPolicy = "origin";         
+  scriptTag.defer = true;         
+  bodyTag.appendChild(scriptTag);      
+}, 5000);  
+}
+</script><script type="text/javascript">
+(function() {
+  // add beta text 
+  let timerId = setInterval(function(){
+	if(!document.getElementsByClassName("sc-htpNat")[0]) return;
+	
+	clearInterval(timerId);
+	document.getElementsByClassName("sc-htpNat")[0].addEventListener("click", changeText);
+	document.getElementsByClassName("sc-EHOje")[0].addEventListener("click", changeText);
+  }, 5000);
+  function changeText() {
+	const ele = $("#webchat-container p:contains('Ask MSF')");
+	ele.html("");
+	ele.append("Ask MSF <span style='font-size: 14px !important;position: relative;top: -9px;left: 5px;font-weight: lighter;'>beta</span>");
+  }
+})();
+</script><link rel="canonical" href="https://www.msf.gov.sg/events/msf-volunteer-and-partner-awards-2022"><script async="" src="https://assets.wogaa.sg/scripts/wogaa.js?url=https%3A%2F%2Fwww.msf.gov.sg%2Fevents%2Fmsf-volunteer-and-partner-awards-2022"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style type="text/css">#st-2 {
+  font-family: "Helvetica Neue", Verdana, Helvetica, Arial, sans-serif;;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  backface-visibility: hidden;
+  display: block;
+  position: fixed;
+  opacity: 1;
+  text-align: left;
+  top: 310px;
+  z-index: 94034;
+}
+#st-2.st-left {
+  left: 0px;
+}
+#st-2.st-hidden.st-left {
+  left: -48px;
+}
+#st-2.st-hidden {
+  width: 96px;
+}
+#st-2.st-preview {
+  display: none!important;
+  opacity: 0!important;
+}
+#st-2 > div {
+  clear: left;
+  float: left;
+}
+#st-2 .st-btn {
+  -moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  height: 48px;
+  line-height: 24px;
+  margin-bottom: 0;
+  opacity: 1;
+  overflow: hidden;
+  padding: 12px;
+  position: relative;
+  text-align: left;
+  top: 0;
+  vertical-align: top;
+  white-space: nowrap;
+  width: 48px;
+}
+#st-2 .st-btn.st-first {
+  border-top: none;
+  border-top-right-radius: 4px;
+}
+#st-2 .st-btn.st-last {
+  border-bottom: none;
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn > svg {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > img {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > span {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  color: #fff;
+  display: inline-block;
+  font-weight: 500;
+  left: -35px;
+  letter-spacing: 0.5px;
+  opacity: 0;
+  padding: 0 6px;
+  position: relative;
+  vertical-align: top;
+  filter: alpha(opacity=0);
+}
+#st-2 .st-btn.st-hide-label > span {
+  display: none !important;
+}
+#st-2 .st-total {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #fff;
+  color: #555;
+  display: inline-block;
+  font-weight: 500;
+  line-height: 18px;
+  margin-right: 0;
+  min-height: 34px;
+  max-width: 80px;
+  opacity: 1;
+  padding: 4px 0;
+  text-align: center;
+  width: 48px;
+}
+#st-2 .st-total.st-hidden {
+  display: none;
+}
+#st-2 .st-total > span {
+  display: block;
+  font-size: 18px;
+  line-height: 21px;
+  padding: 0;
+}
+#st-2 .st-total > span.st-shares {
+  font-size: 11px;
+  line-height: 11px;
+}
+#st-2 .st-toggle {
+  left: -48px;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #ccc;
+  border-bottom-right-radius: 4px;
+  color: white;
+  cursor: pointer;
+  font-size: 24px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: 48px;
+}
+#st-2.st-hidden .st-toggle {
+  border-top-right-radius: 4px;
+}
+#st-2.st-left .st-toggle .st-left {
+  display: inline-block;
+}
+#st-2.st-left.st-hidden .st-toggle .st-left {
+  display: none;
+}
+#st-2.st-left .st-toggle .st-right {
+  display: none;
+}
+#st-2.st-left.st-hidden .st-toggle .st-right {
+  display: inline-block;
+}#st-2:hover .st-toggle {
+  left: 0;
+}
+#st-2.st-hidden:hover .st-toggle {
+  left: 48px;
+}
+#st-2.st-toggleable:hover .st-btn.st-last {
+  border-bottom-right-radius: 0;
+}
+#st-2.st-toggleable:hover .st-btn.st-last:hover {
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn:hover {
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+}
+#st-2.st-has-labels .st-btn:hover {
+  width: 120px;
+}
+#st-2:not(.st-has-labels) .st-btn:hover {
+  width: 62px;
+}
+#st-2 .st-btn.st-hide-label:hover {
+  width: 62px;
+}
+#st-2 .st-btn:hover > svg {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > img {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > span {
+  opacity: 1;
+  display: inline-block;
+  left: 0;
+  filter: alpha(opacity=100);
+}
+@media (max-width: 1024px) {
+  #st-2 .st-btn:hover > svg {
+    margin-left: 0;
+  }
+  #st-2 .st-btn:hover > span {
+    display: none;
+  }
+}@media (max-width: 1024px) {
+  #st-2 {
+  bottom: 0;
+  display: none;
+  left: 0;
+  right: 0;
+  top: auto;
+  width: 100%;
+}
+#st-2.st-hidden {
+  bottom: -48px;
+  width: 100%;
+}
+#st-2.st-hidden.st-left {
+  left: 0;
+}
+#st-2.st-hidden.st-right {
+  right: 0;
+}
+#st-2 > div {
+  -moz-flex: 1;
+  -ms-flex: 1;
+  -webkit-flex: 1;
+  clear: none;
+  flex: 1;
+  float: none;
+}
+#st-2 .st-total {
+  background: #fff;
+  padding: 6px 8px;
+}
+#st-2 .st-btn {
+  -moz-border-radius: 0 !important;
+-webkit-border-radius: 0 !important;
+border-radius: 0 !important;
+  text-align: center;
+  width: auto;
+}
+#st-2 .st-btn > span {
+  display: none;
+}
+#st-2 .st-toggle {
+  display: none;
+}
+}#st-2 .st-btn[data-network='facebook'] {
+  background-color: #4267B2
+}
+#st-2 .st-btn[data-network='facebook'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='facebook'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='linkedin'] {
+  background-color: #0077b5
+}
+#st-2 .st-btn[data-network='linkedin'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='linkedin'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='gmail'] {
+  background-color: #D44638
+}
+#st-2 .st-btn[data-network='gmail'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='gmail'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='copy'] {
+  background-color: #14682B
+}
+#st-2 .st-btn[data-network='copy'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='copy'] > span {
+  color: #fff
+}#st-2 .st-btn[data-network='snapchat'] > span {
+  color: #333};
+}#st-2 .st-btn[data-network='copy']:hover {
+  width: max-content;
+}</style><script type="module" src="https://assets.wogaa.sg/sentiments/sentiments.esm.js" async=""></script><script nomodule="" src="https://assets.wogaa.sg/sentiments/sentiments.js" async=""></script></head> <body onload="lateLoadChatFile();"> 
+
+<div id="webchat" app-id="msf-askmsf" app-name="Ask MSF" app-font-family="Arial" app-base-font-size="16" app-icon="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" app-welcome-message="Have a question? Type to get quick answers." app-color="#DE7C00" app-foreground-color1="#FFFFFF" app-bot-response-trigger-event="true" app-quick-launch-event="welcome" app-enable-auto-complete="false" app-auto-complete-background-color="#FFEDD7" app-auto-complete-foreground-color="#2E2E2E" app-auto-complete-hover-color="#FFCA88" app-auto-complete-divider-color="#DE7C00"></div>
+
+
+<div class="announcements-bar">
+    <div class="container-fluid">
+        <div class="row g-0 position-relative align-items-center">
+            <div class="col">
+                <div class="swiper announcementSwiper">
+                    <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <p>Have a question about MSF? Find quick answers with our chatbot Ask MSF.<!--EndFragment--></p>
+                            </div>
+                                                                                                                    </div>
+                </div>
+            </div>
+            <div class="col-auto align-self-start">
+                <div class="announcements-close">
+                    <button class="btn-close btn-ann-close btn-close-white" aria-label="Close"></button>
+                </div>
+            </div>
+        </div>
+        <div class="row g-0 position-relative">
+            <div class="col-12 col-md-auto buttons-align">
+                <div class="announcements-buttons">
+                    <div class="announcements-swiper-button swiper-button-prev">
+                        <em class="fa-solid fa-chevron-left"></em>
+                    </div>
+                    <div class="announcements-pagination"></div>
+                    <div class="announcements-swiper-button swiper-button-next">
+                        <em class="fa-solid fa-chevron-right"></em>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+ <sgds-masthead fluid="" class="sgds-masthead-class"></sgds-masthead> 
+<div class="layout-subsite">
+    <div id="Content_T7AD4A7CC001_Col00" class="sf_colsIn" data-sf-element="Navigation" data-placeholder-label="Navigation">
+
+<header>
+    <nav class="sgds navbar navbar-expand-xl main-navbar">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/" aria-label="home page">
+                <img src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69" title="MSF logo">
+            </a>
+
+            <button class="btn btn-nav-search px-24 ms-auto d-block d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#searchbarCollapse" aria-expanded="false" aria-controls="searchbarCollapse" aria-label="search icon">
+                <em class="fa-solid fa-search"></em>
+            </button>
+
+            <div class="collapse" id="searchbarCollapse">
+                <div class="container-fluid p-0 px-12">
+                    <div class="nav-searchbar">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Search our website" id="navSearchBarSearchInput" data-search="navSearchBarSearchInput">
+                            <button class="btn btn-search" type="button" id="navSearchBarBtnSearch" aria-label="search">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <span>Search</span>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Menu">
+                Menu
+            </button>
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <img class="offcanvas-header-logo" src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69">
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+
+                <div class="offcanvas-searchbar">
+                    <div class="sgds form-group">
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="defaultWith" aria-describedby="defaultWith" placeholder="Search our website">
+                            <button class="btn btn-offcanvas-search" type="button">
+                                <em class="fa-solid fa-search form-control-icon"></em>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav d-flex d-xl-none">
+                        <li class="nav-item">
+                            <a href="/" class="nav-link submenu-link" data-bs-dismiss="offcanvas" aria-current="page" aria-label="Home"><span>Home</span></a>
+                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#who-we-are-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#what-we-do-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#our-services-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#research-data-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#join-us-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+
+                    <div class="d-block d-xl-none">
+                                <div class="collapse collapse-horizontal submenu" id="who-we-are-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#who-we-are-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Who We Are</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/mission-values" class="nav-link sgds" aria-label="Mission &amp; Values"><span class="nav-link-text"><span>Mission &amp; Values</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/organisation-chart" class="nav-link sgds" aria-label="Organisation Chart"><span class="nav-link-text"><span>Organisation Chart</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/agencies-statutory-boards-councils" class="nav-link sgds" aria-label="Agencies, Statutory Boards &amp; Councils"><span class="nav-link-text"><span>Agencies, Statutory Boards &amp; Councils</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/senior-management-team" class="nav-link sgds" aria-label="Senior Management Team"><span class="nav-link-text"><span>Senior Management Team</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="what-we-do-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#what-we-do-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>What We Do</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/help-those-in-need" class="nav-link sgds" aria-label="Help Those in Need"><span class="nav-link-text"><span>Help Those in Need</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/support-families-and-parents" class="nav-link sgds" aria-label="Support Families &amp; Parents"><span class="nav-link-text"><span>Support Families &amp; Parents</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/strengthen-the-social-service-sector" class="nav-link sgds" aria-label="Strengthen the Social Service Sector"><span class="nav-link-text"><span>Strengthen the Social Service Sector</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="our-services-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#our-services-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Our Services</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/our-services/directories" class="nav-link sgds" aria-label="Directories"><span class="nav-link-text"><span>Directories</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/our-services/e-services" class="nav-link sgds" aria-label="E-Services"><span class="nav-link-text"><span>E-Services</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="research-data-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#research-data-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Research &amp; Data</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-reports-data" class="nav-link sgds" aria-label="Research Report &amp; Data"><span class="nav-link-text"><span>Research Report &amp; Data</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-grants" class="nav-link sgds" aria-label="Research Grants"><span class="nav-link-text"><span>Research Grants</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/Research-Conferences-Forums-Networks" class="nav-link sgds" aria-label="Research Conferences, Forums &amp; Networks"><span class="nav-link-text"><span>Research Conferences, Forums &amp; Networks</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="join-us-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#join-us-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Join Us</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/join-us/volunteer-with-msfcare-network" class="nav-link sgds" aria-label="Volunteer with MSFCare Network"><span class="nav-link-text"><span>Volunteer with MSFCare Network</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/jobs-careers" class="nav-link sgds" aria-label="Jobs &amp; Careers"><span class="nav-link-text"><span>Jobs &amp; Careers</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/scholarships-internships" class="nav-link sgds" aria-label="Scholarships &amp; Internships"><span class="nav-link-text"><span>Scholarships &amp; Internships</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                    </div>
+
+                    <ul class="navbar-nav justify-content-end flex-grow-1 d-none d-xl-flex">
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/mission-values" aria-label="Mission &amp; Values">
+                                                            Mission &amp; Values
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/organisation-chart" aria-label="Organisation Chart">
+                                                            Organisation Chart
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/agencies-statutory-boards-councils" aria-label="Agencies, Statutory Boards &amp; Councils">
+                                                            Agencies, Statutory Boards &amp; Councils
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/senior-management-team" aria-label="Senior Management Team">
+                                                            Senior Management Team
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/help-those-in-need" aria-label="Help Those in Need">
+                                                            Help Those in Need
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/support-families-and-parents" aria-label="Support Families &amp; Parents">
+                                                            Support Families &amp; Parents
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/strengthen-the-social-service-sector" aria-label="Strengthen the Social Service Sector">
+                                                            Strengthen the Social Service Sector
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/directories" aria-label="Directories">
+                                                            Directories
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/e-services" aria-label="E-Services">
+                                                            E-Services
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-reports-data" aria-label="Research Report &amp; Data">
+                                                            Research Report &amp; Data
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-grants" aria-label="Research Grants">
+                                                            Research Grants
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/Research-Conferences-Forums-Networks" aria-label="Research Conferences, Forums &amp; Networks">
+                                                            Research Conferences, Forums &amp; Networks
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/volunteer-with-msfcare-network" aria-label="Volunteer with MSFCare Network">
+                                                            Volunteer with MSFCare Network
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/jobs-careers" aria-label="Jobs &amp; Careers">
+                                                            Jobs &amp; Careers
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/scholarships-internships" aria-label="Scholarships &amp; Internships">
+                                                            Scholarships &amp; Internships
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header><div class="searchbar">
+    <div class="container-fluid">
+        <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search our website" id="searchbarWidgetSearchInput" data-search="searchbarWidgetSearchInput">
+            <button class="btn btn-search" type="button" id="searchbarWidgetBtnSearch" aria-label="Search">
+                <span>
+                    <em class="fa-solid fa-search fa-sm"></em>
+                    Search
+                </span>
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- prettier-ignore -->
+<div class="container-fluid">
+    <nav aria-label="breadcrumb" class="breadcrump-wrapper">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>
+                        <a href="/events" aria-label="Events">Events</a>
+                    </li>
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>MSF Volunteer and Partner Awards 2022
+                    </li>
+        </ol>
+        <div class="breadcrumb-mobile">
+            <a href="/" aria-label="Home">
+                <em class="fa-solid fa-chevron-left"></em>
+                <span>Home</span>
+            </a>
+        </div>
+    </nav>
+</div>
+
+
+
+
+<link href="/ResourcePackages/Msf/assets/css/language-bar.min.css" rel="stylesheet" type="text/css">
+
+
+    </div>
+    <div id="Content_T7AD4A7CC001_Col01" class="sf_colsIn" data-sf-element="Content" data-placeholder-label="Content"><div id="Content_C002_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<h1>MSF Volunteer and Partner Awards 2022</h1><p>Date/Time: 24 January 2022, Monday 11.30am to 12.30pm</p><p>Venue: Virtual</p><hr><br>
+<div class="clear"><div class="content"><p style="text-align:center;"><img src="/images/default-source/msf-event/mvpawebbanner.jpg?sfvrsn=9b5b6047_3" width="100%" alt="MVPAwebbanner">&nbsp;</p><div class="tabs-container"><ul class="nav nav-tabs" id="mediaRoomTab" role="tablist"><li class="nav-item" role="presentation"><button class="nav-link active" id="About" data-bs-toggle="tab" data-bs-target="#About-pane" type="button" role="tab" aria-controls="About-pane" aria-selected="true">About
+								</button></li><li class="nav-item" role="presentation"><button class="nav-link" id="TributeAwardWinners-tab" data-bs-toggle="tab" data-bs-target="#TributeAwardWinners-tab-pane" type="button" role="tab" aria-controls="TributeAwardWinners-tab-pane" aria-selected="false">Tribute Award Winners
+								</button></li><li class="nav-item" role="presentation"><button class="nav-link" id="AwardWinners-tab" data-bs-toggle="tab" data-bs-target="#AwardWinners-tab-pane" type="button" role="tab" aria-controls="AwardWinners-tab-pane" aria-selected="false">Award Winners
+								</button></li><li class="nav-item" role="presentation"><button class="nav-link" id="SpecialThanks-tab" data-bs-toggle="tab" data-bs-target="#SpecialThanks-tab-pane" type="button" role="tab" aria-controls="SpecialThanks-tab-pane" aria-selected="false">Special Thanks
+								</button></li></ul><div class="tab-content" id="mediaRoomTabContent"><div class="tab-pane fade show active" id="About-pane" role="tabpanel" aria-labelledby="About" tabindex="0"><div class="container"><div class="d-flex flex-column justify-content-center align-items-center"><p>The MSF Volunteer and Partner Awards (MVPA) recognises and honours the commitment and dedication of MSF’s volunteers and partners, who have served in various areas of the Ministry.<br><br>MVPA 2022 was held on 24
+                                January 2022.</p><div><center><img src="/images/default-source/msf-event/thankyounote.png?sfvrsn=3345f200_3" style="width:60% !important;" width="100%" alt="MVPA 2022 Thank You Note"></center></div></div></div></div><div class="tab-pane fade" id="TributeAwardWinners-tab-pane" role="tabpanel" aria-labelledby="TributeAwardWinners-tab" tabindex="0"><div class="container"><div><h3>Outstanding Lifetime Volunteer Award</h3><p>Mr Phillip Tan and Mrs Betty Chen were presented with the highest accolade - the Outstanding Lifetime Volunteer Award, which recognises individuals who have made significant contributions over 30 years or more to better the
+                                lives of others.
+                            </p><br><h5>Mr Phillip Tan</h5><p>Mr Tan has volunteered with MSF since 1983. In his role as an EXCO member of the National Council of Social Service (NCSS), Mr Tan contributed to the transformation of NCSS and the social service sector. He cultivated community
+                                spirit in building a caring and inclusive society through the Care &amp; Share SG50 movement, which saw 240 social service agencies raise a total of $800 million, and rejuvenated the Sharity initiative to nurture our next
+                                generation of givers. During the pandemic, he spearheaded the establishment of the ComChest Emergency Fund and mobilised resources for COVID-19 related funds.</p><div class="d-flex flex-column justify-content-center align-items-center"><div style="width:560px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/SRHRyWRVTA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></div></div><center><pre style="display:none;" id="RadEditorEncodedTag">PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9TUkhSeVdSVlRBOCIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiPjwvaWZyYW1lPg0KPC9jZW50ZXI+PGJyIC8+DQo8YnIgLz4NCjxoNT5NcnMgQmV0dHkgQ2hlbjwvaDU+DQo8cD5NcnMgQ2hlbiBoYXMgcGFydG5lcmVkIE1TRiBzaW5jZSAxOTc1LiBVbmRlciBoZXIgbGVhZGVyc2hpcCwgdGhlIENoaW5lc2UgV29tZW4mcnNxdW87cyBBc3NvY2lhdGlvbiAoQ1dBKSBjb25zaXN0ZW50bHkgcmFpc2VkIGZ1bmRzIGFuZCBwcm9tb3RlZCBhIGN1bHR1cmUgb2YgZ2l2aW5nLCBzdXBwb3J0aW5nIG1hbnkgY2hhcml0aWVzIGluIHRoZWlyIHByb3Zpc2lvbiBvZiBzZXJ2aWNlcyBpbiB0aGUgc29jaWFsIHNlY3Rvci4gU2hlIGFsc28gbWFuYWdlZCB0aGUgSGVuZGVyc29uIFNlbmlvciBDaXRpemVucyZyc3F1bzsgSG9tZSBmb3IgMzIgeWVhcnMgYW5kIGZvcmdlZCBiZXN0IHByYWN0aWNlcyBpbiBzZW5pb3IgY2FyZS48L3A+DQo8Y2VudGVyPg0KPGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC95S3hnTm5jN0x2QSIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiPjwvaWZyYW1lPg0KPC9jZW50ZXI+DQo8YnIgLz4NCjxiciAvPg0KPGgzPk91dHN0YW5kaW5nIFZvbHVudGVlciBBd2FyZDwvaDM+DQo8cD5UaGUgTVNGIE91dHN0YW5kaW5nIFZvbHVudGVlciBBd2FyZCByZWNvZ25pc2VzIGluZGl2aWR1YWxzIG9yIGdyb3VwcyBvZiB2b2x1bnRlZXJzIHdobyBoYXZlIGNvbnRyaWJ1dGVkIHNpZ25pZmljYW50bHkgdG8gdmFyaW91cyBncm91cHMgaW4gdGhlIGNvbW11bml0eSBzZXJ2ZWQgYnkgTVNGLiBUaGUgYXdhcmQgd2lubmVycyBhcmUgZGlzdGluZ3Vpc2hlZCBieSB0aGVpciBzaWduaWZpY2FudCBjb250cmlidXRpb25zIGluIHRlcm1zIG9mIHRpbWUgYW5kIGVmZm9ydCBzcGVudC48YnIgLz4NCjxiciAvPg0KPHNwYW4gc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICNmZmZmZmY7IGZvbnQtc2l6ZTogMTZweDsiPlRoaXMgeWVhciwgdGhlIHJlY2lwaWVudHMgd2VyZSBNciBDaGVlIFlvaCBDaHVhbmcsIE1yIEdlcmFsZCBTaW5naGFtLCBNZG0gSGF3YSBCZWUgQmludGUgTW9oYW1lZCBIdXNzYWluLCBNZG0gUmFobWFoIEJpbnRlIEJ1YW5nIGFuZCBNciBHaGFuaSBCaW4gQmFrYXIsIE1kbSBSYXNlc3BhcmkgRC9PIEthbm5peWFuLCBNZG0gWXVlbiBZZWUgTmluIGFuZCBNciBMaW93IEhlbmcgSHVpLjxiciAvPg0KPC9zcGFuPjwvcD4NCjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxzcGFuIHN0eWxlPSJiYWNrZ3JvdW5kLXBvc2l0aW9uOiBpbml0aWFsOyBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTsgY29sb3I6ICMzMzMzMzM7Ij5GaW5kIG91dCBob3cgdGhleSBoYXZlIG1hZGUgYQ0KZGlmZmVyZW5jZSBhbmQgYmVjb21lIGEgYmVhY29uIG9mIGluc3BpcmF0aW9uIGZvciBhbGwuPC9zcGFuPjwvcD4NCjxjZW50ZXI+DQo8aWZyYW1lIHdpZHRoPSI1NjAiIGhlaWdodD0iMzE1IiBzcmM9Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL0F3MFNjRW0xaFhnIiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZSI+PC9pZnJhbWU+</pre></center><p>&nbsp;</p><h5>Mrs Betty Chen</h5><p>Mrs Chen has partnered MSF since 1975. Under her leadership, the Chinese Women’s Association (CWA) consistently raised funds and promoted a culture of giving, supporting many charities in their provision of services in
+                                the social sector. She also managed the Henderson Senior Citizens’ Home for 32 years and forged best practices in senior care.
+                            </p><div class="d-flex flex-column justify-content-center align-items-center"><div style="width:560px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/yKxgNnc7LvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></div></div><p>&nbsp;</p><h5>Outstanding Volunteer Award</h5><p>The MSF Outstanding Volunteer Award recognises individuals or groups of volunteers who have contributed significantly to various groups in the community served by MSF. The award winners are distinguished by their significant
+                                contributions in terms of time and effort spent.
+                            </p><p>This year, the recipients were Mr Chee Yoh Chuang, Mr Gerald Singham, Mdm Hawa Bee Binte Mohamed Hussain, Mdm Rahmah Binte Buang and Mr Ghani Bin Bakar, Mdm Rasespari D/O Kanniyan, Mdm Yuen Yee Nin and Mr Liow Heng Hui.
+                            </p><p style="width:100%;">Find out how they have made a difference and become a beacon of inspiration for all.
+                            </p><div class="d-flex flex-column justify-content-center align-items-center"><div style="width:560px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Aw0ScEm1hXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></div></div></div></div></div><div class="tab-pane fade" id="AwardWinners-tab-pane" role="tabpanel" aria-labelledby="AwardWinners-tab" tabindex="0"><div class="container"><div><h4>MSF Outstanding Lifetime Volunteer Award</h4><p>The MSF Outstanding Lifetime Volunteer Award recognises outstanding volunteers who have contributed to the causes of MSF for at least 30 years.</p><p style="font-weight:bold;"><span style="text-decoration:underline;">Award Winners</span></p><ul><li>Mrs Betty Chen</li><li>Mr Phillip Tan Eng Seong</li></ul><h4></h4><br><h4>MSF Outstanding Volunteer Award</h4><p>The MSF Outstanding Volunteer Award recognises individuals or groups of volunteers who have contributed significantly to various groups in the community served by MSF. The award winners are distinguished by their significant
+                                contributions in terms of time and effort spent.</p><p style="font-weight:bold;"><span style="text-decoration:underline;">Award Winners</span></p><table width="100%" align="left"><tbody><tr><td style="text-align:leftvertical-align:top;"><ul><li>Mr Chee Yoh Chuang</li><li>Mr Gerald Singham</li><li>Mr Ghani Bakar &amp; Mdm Rahmah Buang </li><li>Mdm Hawa Bee Binte Mohamed Hussain</li><li>Mr Liow Heng Hui &amp; Mdm Yuen Yee Nin </li><li>Mdm Rasespari D/O Kanniyan</li></ul></td></tr></tbody></table><br><p>&nbsp;</p><h4>Friends of MSF Award</h4><p>The Friends of MSF Award is presented to individuals, volunteers or organisations who have made significant contributions to committees or projects under the purview of MSF for at least two years. This year, our winners contributed
+                                to a variety of MSF initiatives including ECDA’s KidSTART, Families for Life, Taskforce on Family Violence, the National Committee on Prevention, Rehabilitation and Recidivism, and the NCSS Board.</p><p style="font-weight:bold;"><span style="text-decoration:underline;">Award Winners</span></p><table><tbody><tr><td style="text-align:leftvertical-align:top;"><ul><li>Catholic Welfare Services Singapore</li><li>Dr Cheong Choong Kong</li><li>Mrs Chia Swee Tin </li><li>Mr Eric Hao Chun Tseng</li><li>Ground-Up Initiative (GUI)</li><li>Homeless Hearts of Singapore</li><li>Mr James Stuart</li><li>Ms Jessica Nagulendran</li><li>A/Prof Kevin Lim </li><li>Mr Koh Swee Hua Eddie</li><li>Mr Latiff bin Ibrahim</li><li>Mr Muhammad Harmizan Abdul Hamid</li></ul></td><td style="text-align:leftvertical-align:top;"><ul><li>New Hope Community Services</li><li>Ms Pearlyn Phau Yee Meng</li><li>Mr Prakaash Govindasamy</li><li>Prudential Singapore</li><li>Ms Sim Sock Ngee, Morene</li><li>Mr Sin Boon Ann</li><li>Mr Suhaimi Zainul-Abidin</li><li>Ms Theresa Sim</li><li>Mr V.Krishna</li><li>Mr Yek Boon Seng</li><li>Mr Yeo King Ming Bryan</li></ul></td></tr></tbody></table><h4></h4><h4></h4><br><h4>MSF Community Cares Award</h4><p>The MSF Community Cares Awards was introduced in 2019 to recognise and appreciate organisations and individuals who passionately drive social change, strive to do good for society, and in so doing, inspire those around them.
+                            </p><p style="font-weight:bold;"><span style="text-decoration:underline;">Award Winners</span></p><table><tbody><tr><td style="text-align:leftvertical-align:top;"><ul><li>Mrs Ai Ying Fang</li><li>Ms Angela Guo Yiling</li><li>AWWA Ltd.</li><li>Mr Bernard Chew</li><li>Bettr Barista</li><li>Bringing Love to Every Single Soul</li><li>Dr Cherie Chan</li><li>Ms Chloe Lee Zi Qi</li><li>Ms Cordilia Justin</li><li>Dorcas Home Care Service</li><li>Fei Yue FSC (Bukit Batok)</li><li>Dr Jared Ng</li><li>Ms Karon Ng</li><li>Life Centre Community Services</li><li>Mr Lim Kay Yong</li><li>Mdm Lin Xiaoling</li><li>NTUC Women and Family</li></ul></td><td style="text-align:leftvertical-align:top;"><ul><li>Paya Lebar Methodist Church</li><li>Dr Quah Saw Han</li><li>Mdm Rokiah Samsudin</li><li>Mr Ronnie Ma Soon Peng</li><li>Mrs Ruchi Joshi Talwar</li><li>Singapore Council of Women's Organisations</li><li>Singtel</li><li>St Andrew's Cathedral</li><li>Superhero Me</li><li>Ms Syifaa Mansor</li><li>Temasek Foundation</li><li>The Signpost Project</li><li>The Singapore Scout Association</li><li>Mr Tony Leong Kok Kuan</li><li>Trolley Ministry</li><li>Women's Integration Network Council</li><li>Zion Serangoon Bible-Presbyterian Church</li></ul></td></tr></tbody></table><h4></h4><br><h4>Long Service Award</h4><p>The MSF Long Service Award recognises individuals or organisations who have volunteered directly with MSF.</p><strong><span style="text-decoration:underline;">Award Winners (45 years)</span></strong>
+ <ul><li>Mdm Dass Elizabeth</li><li>Mr Lim Hock Heng</li><li>Mr Yahya Bin Osman</li></ul><br><strong><span style="text-decoration:underline;">Award Winners (40 years)</span></strong>
+ <ul><li>Mr David Hugh Alphonso</li><li>Mr Gurmit Singh s/o Mehervan Singh</li><li>Mr Jackson Puah Suay Arh</li><li>Mr Pakirisamy Rajoo</li></ul><br><strong><span style="text-decoration:underline;">Award Winners (35 years)</span></strong>
+ <ul><li>Mr Albert Phuay Yong Hen</li><li>Mdm Grace Tee</li><li>Mdm Lim Lian Tee</li><li>Mr Tan Eng Hoe</li></ul><br><strong><span style="text-decoration:underline;">Award Winners (30 years)</span></strong>
+ <ul><li>Mr David Pang LJ</li><li>Mr Jimmy Lim</li><li>Mr Ong Herr Bock</li><li>Mr Tham Kwok Yin Stephen</li></ul><br><strong><span style="text-decoration:underline;">Award Winners (25 years)</span></strong>
+ <table width="100%"><tbody><tr><td style="text-align:leftvertical-align:top;"><ul><li>Mr Chong Kiam Choon</li><li>Mr Goh Tiong Yong</li><li>Mr Lee Sei Tong</li><li>LTC(ret) Leow Sunny</li><li>Mr Lim Fit Ho Peter</li><li>Mr Tan Kia Huat</li><li>Mr Raymond Lye</li></ul></td></tr></tbody></table><br><strong><span style="text-decoration:underline;">Award Winners (20 years)</span></strong>
+ <table><tbody><tr><td style="text-align:leftvertical-align:top;"><ul><li>Mr Abdul Latiff &amp; Mdm Saharah</li><li>Mr Choo Choon Kiang Adrian</li><li>Ms Foong Kah Yam</li><li>Mdm Fong Wai Kheng</li><li>Mr Gerard &amp; Mdm Susanna</li><li>Ms Juthika Ramanathan</li><li>Mdm Monica Seng</li><li>Ms Ong Lay Chin Elsie</li></ul></td><td style="text-align:leftvertical-align:top;"><ul><li>Mr Song Thien Siang Simon</li><li>Mdm Stilly Chan</li><li>Mdm Suraiyah Md Yussof</li><li>Mr Tan Puay Kern</li><li>Mr Tan Tai Kiat</li><li>Mrs Tan-Huang Shuo Mei</li><li>Mr Vincent Teo</li></ul></td></tr></tbody></table><br><strong><span style="text-decoration:underline;">Award Winners (15 years)</span></strong>
+ <table><tbody><tr><td style="text-align:leftvertical-align:top;"><ul><li>Mr A. Francis Xavier</li><li>Mr Adrian Soon Kim Kwee</li><li>Professor Alex Siow</li><li>Elder Ang Poh Siew</li><li>Mr Arthur Ling</li><li>Ms Belinda Ang Choo Poh</li><li>Mr Chandra Mohan K Nair</li><li>Mr Cheng Kim Meng</li><li>Mr Cheong Khim Teck</li><li>Mr Chew Ban Seng</li><li>Mr Chia Ah Sah</li><li>Mrs Chia Swee Tin</li><li>Mr Chiang Heng Liang</li><li>Mr Chng Yew Huat</li><li>Ms Chua Ai Vee, Lily</li><li>Mr Chua Seng Kee</li><li>Ms Daisy Koh Swee Hong</li><li>Mrs Daisy Ling</li><li>Professor David Chan</li><li>Mr David Michel Wee</li><li>Mr David Sim</li><li>Mr Don Wong</li><li>Mr Eugene Teo</li><li>Mdm Fatimah Binte Ismail</li><li>Ms Foo Siew Fong</li><li>Mr Francis Goh Mong Kwang</li><li>Mr G Krishnan</li><li>Mr Goh Eng Tat</li><li>Mr Goon Swee Kean &amp; Mdm Ong Swee Ai</li><li>Mr Gopala Krishnan</li><li>Mr Harjit Singh</li><li>Dr Ho Nai Kiong</li><li>Mr Hong Kok Seng Andrew</li><li>Mr Husni Thamrin &amp; Mdm Jumnah</li><li>Mrs Ira Govindan</li><li>Mr Husni Thamrin &amp; Mdm Jumnah</li><li>Ms Isabel Tang</li><li>Mr Jack Yue</li><li>Mr Jayakumar Narayanan</li><li>Mrs Jessie Tong</li><li>Mrs Joanna Koh-Hoe</li><li>Mr Joseph Foo</li><li>Mdm Justina Lee Lay Peng</li><li>Mr Kan Teck San</li><li>Dr Kee Wei Heong</li><li>Mr Kelvin K B Ong</li><li>Mdm Khatijah &amp; Mr Sallim</li><li>Mr Koh Siew Yen Gary</li><li>Mr Lai Li Mun Raymond</li><li>Mr Lau Tat Chuan</li><li>Mdm Lee Tee Choon</li><li>Mdm Leng Siew Chyn</li><li>Mdm Lim Geok Hua</li><li>Mr Lim Joo Kwan</li></ul></td><td style="text-align:leftvertical-align:top;"><ul><li>Ms Lim Lay Choo Jennifer</li><li>Mr Lim Meng Wee</li><li>Mr Lim Soo Bu</li><li>Mr Loo Sin Chong</li><li>Mr Loong Seng Onn</li><li>Mr M. Suppiah</li><li>Ms Maureen Chua Sai Pheng</li><li>Ms Melanie Ho</li><li>Mr Mohamed b Hassan and Mdm Rakti bt Satar</li><li>Mr Ng Ser Miang</li><li>Dr Ng Wai Chong</li><li>Mr Nin Ali &amp; Mdm Juraimah</li><li>Mdm Normahbi A &amp; Mr Suhairi R</li><li>Mdm Novem Chua Choo Hong</li><li>Mr Ong Chuan Huat</li><li>Mr Ong Liang Peng</li><li>Mdm Ong Seok Mui Rosalind</li><li>Mr P Thirunal Karasu</li><li>Mr Palaniappan A</li><li>Mr Patrick Chew</li><li>Ms Pauline Sim Seo Lian</li><li>Mr Peter J K Chung</li><li>Mr Peter Wee</li><li>Mdm Phang Koei Hiong</li><li>Mr &amp; Mrs Prasad Babu</li><li>Adj A/Prof (Dr) Raymond Chua</li><li>Mr &amp; Mrs Prasad Babu</li><li>Mr Raymond Wee Toon Fok</li><li>Mr Richard Seah &amp; Mdm Dorothy Tham</li><li>Mr S. Sangaran and Mdm S. Jayanti</li><li>Mr Sairin Bin Sani</li><li>Mr Sarjit Singh S/O Fujah Singh</li><li>Mr Seng Kwang Boon</li><li>Dr Shirley Low Lim</li><li>Mr Shriniwas Rai</li><li>Ms Sim Beng Mei, Mildred</li><li>Mdm Siti Rahmad &amp; Mr Abdul Jalil</li><li>Mr Sng Jin Poh</li><li>Mr Stephen Ng</li><li>Mr Steven Foo</li><li>Mr Tan Hui Yew, Johnson</li><li>Mr Tan Kian Hoon</li><li>Mr Tan Kian Huay</li><li>Mr Tan Kok Hiang, Henry</li><li>Mr Tan See Long</li><li>Mdm Tan Seow Peer</li><li>Professor Teo Cheng Swee</li><li>Mr Thomas Lee Boon Huat</li><li>Ms Toh Yeng Yen</li><li>Dr Toke Kwang Jiu Frederick</li><li>Mr V.Krishna</li><li>Ms Wenny Shi</li><li>Mr Willie Cheng Jue Hiang</li><li>Mr Yong Tai Tong</li></ul></td></tr></tbody></table><br><strong><span style="text-decoration:underline;">Award Winners (10 years)</span></strong>
+ <table><tbody><tr><td style="text-align:leftvertical-align:top;"><ul><li>Mr Ahamad Maricar &amp; Mdm Roziah Jamaludin</li><li>Mr Albert Chan Kum Min</li><li>Mr Alex Toh Joo Pang</li><li>Mr Anthony Low Chai Siong</li><li>Dr Barathi Rajendra</li><li>Mr Chan Leng Sun, SC</li><li>Mr Chee Teng Hsiu </li><li>Mr Cheng Soon Jackson Tan</li><li>Mr Chia Song Leng</li><li>Ms Chloe Lee Zi Qi</li><li>Ms Ch'ng Ying Chia</li><li>Mr Chong Hoi Ying</li><li>Mr Choong Cher Siong</li><li>Mr Christopher Bridges</li><li>Mr Edward Lim</li><li>Ms Eileen Teo Cheo Tee</li><li>Ms Eng Sze Chieh, Sharon</li><li>Mrs Esther Tan Tzer</li><li>Mr G Prabhakaran and Mrs Shobana Nair</li><li>Mdm Genevieve Leong Lee June</li><li>Mr Hamzah Bin Abas</li><li>Ms Han Yah Yee</li><li>Mdm Ho Chin Geok</li><li>Mr Ho Nai Chuen</li><li>Mdm Jackie Neo</li><li>Mdm Jacqueline Tan</li><li>Mrs Jayanthi Eng</li><li>Mr Koh Chee Siong</li><li>Mr Lee Chak Meng</li><li>Dr Lee Kim En</li><li>Mr Lee Kok Eng</li><li>Ms Lee Yean Wun</li><li>Mdm Lee Yee Fung Ivy</li></ul></td><td style="text-align:leftvertical-align:top;"><ul><li>Mr Lester Wan</li><li>Mdm Lim Kim Kee Alice</li><li>Ms Lim Lei Theng</li><li>Ms Linda Tan</li><li>Mdm Lo Tong Lee Ying</li><li>Mdm Loh Gek Choo</li><li>Ms Mary Manimuthu</li><li>Mr &amp; Mrs Nagaraja Maidu</li><li>Mr Ng Chin Fah</li><li>Mr Ng Kim Yong</li><li>Mr Ng Si Hiong</li><li>Mr Ngiam Tong Yuen</li><li>Dr Peace Wong Yuh Ju</li><li>Mr Ramachandran P</li><li>Dr Ryal Wun</li><li>Mdm Salinah Parsiri and Mr Elfian Harun</li><li>Mdm Sally Tai Suat Nee</li><li>Mdm Samantha Wong</li><li>Ms Saw Paik Peng, Joanne</li><li>Mr Seah Hui Seng, Vincent </li><li>Ms Sim Sock Ngee, Morene</li><li>Mdm Soh Bong Chee</li><li>Mr Sonny Tan Ngee Hoe</li><li>Mr Stephen Chia</li><li>Mdm Susan Lim Sui Huah</li><li>Mr Tan Wai Hong, Alvin</li><li>Mr Tan Wei Yeow</li><li>Mdm Teo Lin Lee</li><li>Ms Teresa Chan Pui Woo</li><li>Mdm Thang Hong Lan</li><li>Mr Wilson Ang Choon Kee</li><li>Ms Woo Mei Mei</li><li>Mr Zainol Abeedin Bin Hussin</li></ul></td></tr></tbody></table><br><strong><span style="text-decoration:underline;">Award Winners (5 years)</span></strong>
+ <table><tbody><tr><td style="text-align:leftvertical-align:top;"><ul><li>Mr Aaron Scott Donovan</li><li>Mr Adrian Wong</li><li>Mdm Alison Yap Jee Hwee</li><li>Ms Amala Balakrishner</li><li>Mdm Amera Salleh and Mr Muhammad Mahamood</li><li>Mr Andre Yeap</li><li>Mdm Angelia Toh</li><li>Mr Armando Famian Beer &amp; Mdm Liana Rosnita Redwan-Beer</li><li>Assyakirin Mosque</li><li>Dr Au Shu Yi Lydia</li><li>Mr Baharom &amp; Mdm Kasminah</li><li>Dr Boon Kheng Seng</li><li>Mr Carl &amp; Mdm Sharon Pillay</li><li>Dr Cecilia Chu</li><li>Mdm Chan Nyit Fong Karen</li><li>Mr and Mrs Cheong Gay Teck</li><li>Mr Chew Ghim Bok</li><li>Mr Chia Chor Meng</li><li>Mr &amp; Mrs Chia Jia Le</li><li>Mr Chua Hwee Woon &amp; Mdm Vivian Lim</li><li>Mr &amp; Mrs Chua Thiam Huat</li><li>Mr David Chan Chee Kien &amp; Mdm Hope Elaine Kelly</li><li>Mr David Tay Swee Meng</li><li>Mr Devanantthan</li><li>Mr Devinder Kumar Rai</li><li>Mdm Dolly Loh &amp; Mr Alvin Chong</li><li>Mdm Dolly Par</li><li>Mr Edward Foong</li><li>Mr Edwin Lee and Mdm Soo Han</li><li>Ms Eng Peng Peng</li><li>En-Naeem Mosque</li><li>Mr Eric Low</li><li>Dr Ernest Kan</li><li>Mr Ernest Wong</li><li>Assoc Prof Esther Goh Chor Leng</li><li>Ms Etni &amp; Mr Er Hock Tee</li><li>Dr G Kandasami</li><li>Mr George Chan &amp; Mdm Anne Lau</li><li>Ms Girija Balakrishner</li><li>Mr Goh Yeow Tin</li><li>Mr Gregory Vijayendran</li><li>Ms Hammie Yeo Hui Ching</li><li>Mdm Harshintaa Durai</li><li>Ms Heong Ziyin</li><li>Mr Ishak Ismail</li><li>Mr Jahnavi &amp; Mdm Krishna Jayaprakash</li><li>Ms Janice Tay</li><li>Mdm Jenny Levin Lee Sin Heok</li><li>Mdm Joanne Hoon Mei Peng</li><li>Mr Johnny Gan and Mdm Mimi Siah</li><li>Mr &amp; Mrs Joseph Gan</li><li>Ms Julia Lee</li><li>Mdm Junita Jumain</li><li>Mr K. Sathinathan</li><li>Mr Kelvin Lim &amp; Mdm Tay Hwee Ling</li><li>Mr Khoo Lam Beng, Kelvin</li><li>Mr Koh Wee Chau</li><li>Mr Kwek Kwee Hua, William</li><li>Mr Lam Weng Yew</li><li>Mr Land &amp; Mrs Joyce Palmero</li><li>Mr Lau Weng Cheong Winston</li><li>Mdm Lee Su Min</li></ul></td><td style="text-align:leftvertical-align:top;"><ul><li>Ms Li Xiuqi</li><li>Mr Lim Chee Han &amp; Mdm Helen Tee</li><li>Mr &amp; Mrs Lim Eng Leong</li><li>Mr Lim Kian Chiong</li><li>Mr Lim Kian Teck &amp; Mdm Toh Leng Leng</li><li>Dr Lim Yang Chern</li><li>Mr Malik Maksudi</li><li>Mr Mansor Sulaiman and Mdm Rizma Yuzianti</li><li>Mr Marc Ha</li><li>Mr Md Imran Kuna &amp; Mdm Rehana</li><li>Ms Michelle Lee</li><li>Mr Mohammed Ridwan Bin Abdul Kahar</li><li>Mr Mohd Hanafiah &amp; Mdm Tahirah</li><li>Mr Muhammad Noor Hairil Bin Muhammad</li><li>Mr Muraly S/O Rajakumaran</li><li>Mr Muthu Thanabalu &amp; Mdm Leelavathi K. M.</li><li>Mr Nakiran Rajandran</li><li>Ms Nellie Yeoh</li><li>Ms Ng Tzer Wee</li><li>Mr Nicholas Aaron Khoo</li><li>Ms Nicole Wong</li><li>Mdm Noor Hayatee and Mr Muhd Zahedi</li><li>Ms Nooraslinda Rahim &amp; Mr Yusri Yusof</li><li>Mr Oliver Lim Zikai</li><li>Mr Owyong Wei Keong &amp; Mdm Teh Lay Yong</li><li>Ms Pamela Phua</li><li>Ms Pawade Ananthi</li><li>Dr Poornima Gangaram</li><li>Mr Prabu Mohandoss &amp; Mdm Bharathi Gandhi</li><li>Ms Quek Ting Yan Jaslyn</li><li>Mr Rasol Bin Mohamed Nor &amp; Mdm Zarinah Binte Surat</li><li>Mdm Rinawati and Mr Iskandar Zulkarnain</li><li>Mr Roland Ng</li><li>Mr &amp; Mrs Rosli Rajimin</li><li>Ms Ruby Lee</li><li>Mr &amp; Mrs Sarma</li><li>Mr Shazerin and Mdm Fadilah</li><li>Ms Sheryl Koh</li><li>Mdm Sin Jackie and Mr Chua Chor Teck</li><li>Mr Siripurapu Sri Hari Rao</li><li>Mr Stephen and Mdm Jeanne Tan</li><li>Mr Sufnaidi Ahmad &amp; Mdm Wan Sriyana</li><li>Ms Summer Kwon</li><li>Mr Surej Rangasamy</li><li>Mrs Surej</li><li>Mrs Susan Ng and Mr Jonathan Khoo</li><li>Mr Tan Boon Kian Raymond &amp; Mdm Mok Shijia, Jacqueline</li><li>Mr Tan Kah Poh &amp; Mdm Chua Siew Gek</li><li>Mr Tan Tay Jye and Mdm Helen Lee May Chun</li><li>Mr &amp; Mrs Tang Kai Woh</li><li>Ms Teo Puay Leng</li><li>Ms Teoh Fan Yun</li><li>Mr Teow Boon Hong, Aaron</li><li>Dr Timothy Teoh</li><li>Mr Toh Kok Seng</li><li>Volunteer Transport Service</li><li>Dr William Wan</li><li>Mr William Cheong</li><li>Ms Wong Jia Xin</li><li>Dr Woon Voon Ching</li><li>Ms Yasmeen Fatimah Hussain</li><li>Ms Yeo Lian Sim</li></ul></td></tr></tbody></table></div></div></div><div class="tab-pane fade" id="SpecialThanks-tab-pane" role="tabpanel" aria-labelledby="SpecialThanks-tab" tabindex="0"><div class="container"><div><p>We are grateful for the support of many who have contributed their time and talent to organise this year’s MSF Volunteer and Partner Awards.</p><h4>MVPA Trophy</h4><table width="100%"><tbody><tr><td style="pxvertical-align:bottomwidthᛐ%;"><img src="/images/default-source/msf-event/mvpa-trophy.jpg?sfvrsn=bf9fc88f_3" style="width:60% !important;" width="100%" alt="MVPA Trophy"></td><td style="pxvertical-align:bottomwidthᛤ%;"><img src="/images/default-source/msf-event/mvpa-chua-boon-kee.jpg?sfvrsn=8b41be11_3" style="width:60% !important;" width="100%" alt="Chua Boon Kee"></td></tr><tr><td style="pxvertical-align:bottom;"><span style="">MVPA Trophy</span></td><td style="pxvertical-align:bottom;"><span style="">Sculptor Mr Chua Boon Kee</span></td></tr></tbody></table><br><p>This year’s trophy is a replica of the “Circles of Life” sculpture, designed by Singapore’s very own award-winning sculptor, Mr Chua Boon Kee. The interlocking circles symbolise the importance of our
+                                community working together to foster a caring and inclusive society.</p><br><br><h4>SAVH Performers</h4><img src="/images/default-source/msf-event/savhperformers.png?sfvrsn=1a44457a_3" style="width:60% !important;" width="100%" alt="SAVH Performers"><br><span style="">Obsidian by Singapore Association of The Visually Handicapped (SAVH)</span>
+ <br><br>A special performance by a group called Obsidian by Singapore Association of The Visually Handicapped (SAVH). Obsidian is a group of talented visually impaired individuals who come together to create music. The
+                            group is named after a strongly protective stone, which forms a shield against negativity, and promotes qualities of compassion and strength. Their rendition of “Count on Me” by Bruno Mars conveys the message of
+                            comfort found in a friend and being present for those who are important in your life.<br><br><br><br><h4>Token of Appreciation</h4><table width="100%"><tbody><tr><td style="pxvertical-align:bottomwidthᛆ%;"><img src="/images/default-source/msf-event/tokenofappreciation-cup4.jpg?sfvrsn=ae959b7a_3" style="width:60% !important;" width="100%" alt="MVPA 2022 Token of Appreciation"></td><td style="pxvertical-align:bottomwidthᛮ%;"><img src="/images/default-source/msf-event/artistsfortokenofappreciation.jpeg?sfvrsn=c4c3090e_3" style="width:60% !important;" width="100%" alt=""><br></td></tr><tr><td style="pxvertical-align:top;"><span style="">Token of Appreciation</span></td><td style="pxvertical-align:top;"><span style="">6 Artists from MINDS - Choo Joo Hwee, Nurshafarina Bte Samad, Khairunnisa Bte Md Rashid, Nur Syuhaidah Binte Mohamed Fauzie, Wang Jia Wei</span><br></td></tr></tbody></table><br>Commissioned by MSF, the token of appreciation was a collaboration between i’mable Collective and Supermama. The artwork was a collaboration between six artists from the Movement for the Intellectually Disabled
+                            of Singapore (MINDS). In the centre of the artwork is a family – a boy and his parents – and they are surrounded by a circle of individuals including their close friends, neighbours, as well as members of the wider
+                            community. <br><br><br><br><h4>Time-lapsed Video Artist</h4><table width="100%"><tbody><tr><td style=""><img src="/images/default-source/msf-event/imageoftangkhongyuen.jpg?sfvrsn=7c511b56_3" style="width:60% !important;" width="100%" alt="Time-lapsed Video Artist Mr Tang Khong Yuen"></td><td style="">&nbsp;</td></tr><tr><td style=""><span style="">Mr Tang Khong Yuen</span></td><td style="">&nbsp;</td></tr></tbody></table><br>Tang Khong Yuen is a portrait drawing artist. While recovering from throat cancer 10 years ago, he took up arts courses in community centres and NAFA, where he found his love for portraiture drawing. In 2018, Mr Tang
+                            explored other ways to showcase his work and started busking at Tanjong Pagar Plaza.
+                            <br><br>Mr Tang has drawn portraits of notable figures such as President Halimah Yacob, Emeritus Senior Minister Mr Goh Chok Tong and MP Denise Phua. Mr Tang hopes to make a mark in the local art scene.
+                        </div></div></div></div></div></div></div>
+<div class="accordion" id="accordionExample">
+    <div id="Content_C005_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content">
+    </div>
+</div>
+</div>
+
+    </div>
+</div> <div class="sharethis-inline-share-buttons"></div> 
+
+
+<footer class="sgds footer">
+    <section class="footer-top">
+        <div class="container-fluid">
+            <div class="row footer-header">
+                <div class="footer-title">
+                    Ministry of Social and Family Development
+                </div>
+            </div>
+
+            <div class="row footer-contact-links">
+                <div class="col-sm-12">
+                    <div class="d-flex flex-column flex-lg-row gap-20 gap-lg-0 justify-content-lg-end">
+                        <div class="d-flex justify-content-lg-end">
+                            <ul class="d-flex flex-column flex-lg-row gap-lg-40 contact-links">
+                                        <li><a class="" href="/contact-us-feedback" aria-label="Contact Us / Feedback">Contact Us / Feedback</a></li>
+                                        <li><a class="not-first-page" href="/faqs" aria-label="FAQs">FAQs</a></li>
+                            </ul>
+                        </div>
+                        <div class="d-flex align-items-lg-center justify-content-lg-end">
+                            <ul class="d-flex social-links">
+                                <li>
+                                    <a href="https://www.facebook.com/MSFSingapore/" aria-label="facebook">
+                                        <em class="fa-brands fa-square-facebook"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/msfcares/" aria-label="instagram">
+                                        <em class="fa-brands fa-instagram"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://t.me/msfcares" aria-label="telegram">
+                                        <em class="fa-brands fa-telegram"></em>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="footer-bottom">
+        <div class="container-fluid">
+            <hr class="footer-divider">
+            <div class="row footer-mandatory-links">
+                <div class="col-12 col-lg-8 col-xl-9">
+                    <ul class="footer-nav-list">
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links " href="/report-vulnerability" rel="noopener" aria-label="Report Vulnerability
+
+">Report Vulnerability
+
+</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/privacy-statement" rel="noopener" aria-label="Privacy Statement">Privacy Statement</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/terms-of-use" rel="noopener" aria-label="Terms of Use&nbsp;">Terms of Use&nbsp;</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/sitemap" rel="noopener" aria-label="Sitemap">Sitemap</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/accessibility-statement" rel="noopener" aria-label="Accessibility Statement">Accessibility Statement</a>
+                                </li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg footer-copyrights">
+                    <div class="d-flex justify-content-lg-end text-lg-end">
+                        © 2024 Government of Singapore<br>
+                        Last updated 12 Sep 2023
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+
+
+ <div class="accessibility-sidebar"> <div class="btn-group-vertical btn-group-sm" role="group" aria-label="Accessibility Sidebar"> <button type="button" class="btn btn-accessibility btn-notice" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Show/Hide Notice" data-bs-original-title="Show/Hide Notice"> <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10 0C8.02219 0 6.08879 0.58649 4.4443 1.6853C2.79981 2.78412 1.51809 4.3459 0.761209 6.17317C0.00433284 8.00043 -0.193701 10.0111 0.192152 11.9509C0.578004 13.8907 1.53041 15.6725 2.92894 17.0711C4.32746 18.4696 6.10929 19.422 8.0491 19.8079C9.98891 20.1937 11.9996 19.9957 13.8268 19.2388C15.6541 18.4819 17.2159 17.2002 18.3147 15.5557C19.4135 13.9112 20 11.9778 20 10C20 8.68678 19.7413 7.38642 19.2388 6.17317C18.7363 4.95991 17.9997 3.85752 17.0711 2.92893C16.1425 2.00035 15.0401 1.26375 13.8268 0.761205C12.6136 0.258658 11.3132 0 10 0ZM10 18C8.41775 18 6.87104 17.5308 5.55544 16.6518C4.23985 15.7727 3.21447 14.5233 2.60897 13.0615C2.00347 11.5997 1.84504 9.99113 2.15372 8.43928C2.4624 6.88743 3.22433 5.46197 4.34315 4.34315C5.46197 3.22433 6.88743 2.4624 8.43928 2.15372C9.99113 1.84504 11.5997 2.00346 13.0615 2.60896C14.5233 3.21447 15.7727 4.23984 16.6518 5.55544C17.5308 6.87103 18 8.41775 18 10C18 12.1217 17.1572 14.1566 15.6569 15.6569C14.1566 17.1571 12.1217 18 10 18Z"></path> <path d="M10 7C10.5523 7 11 6.55228 11 6C11 5.44772 10.5523 5 10 5C9.44772 5 9 5.44772 9 6C9 6.55228 9.44772 7 10 7Z"></path> <path d="M10 8C9.73478 8 9.48043 8.10536 9.29289 8.29289C9.10536 8.48043 9 8.73478 9 9V14C9 14.2652 9.10536 14.5196 9.29289 14.7071C9.48043 14.8946 9.73478 15 10 15C10.2652 15 10.5196 14.8946 10.7071 14.7071C10.8946 14.5196 11 14.2652 11 14V9C11 8.73478 10.8946 8.48043 10.7071 8.29289C10.5196 8.10536 10.2652 8 10 8Z"></path> </svg> </button> <button type="button" class="btn btn-accessibility btn-font-bigger" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Increase Font Size" data-bs-original-title="Increase Font Size">
+                    A+
+                </button> <button type="button" class="btn btn-accessibility btn-font-smaller" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Decrease Font Size" data-bs-original-title="Decrease Font Size">
+                    A−
+                </button> <button type="button" class="btn btn-accessibility btn-contrast" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Toggle Colour Contrast" data-bs-original-title="Toggle Colour Contrast"> <em class="fa-solid fa-circle-half-stroke"></em> </button> </div> </div> <div class="back-to-top"> <button class="btn-back-top" aria-label="back to top"> <svg width="16" height="8" viewBox="0 0 16 8" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4826 7.76568C14.8297 8.07811 15.3925 8.07811 15.7396 7.76568C16.0868 7.45326 16.0868 6.94673 15.7396 6.63432L8.62853 0.23424C8.2814 -0.0780799 7.71859 -0.0780799 7.37146 0.23424L0.260266 6.63432C-0.0867557 6.94673 -0.0867557 7.45326 0.260266 7.76567C0.607466 8.07811 1.17031 8.07811 1.51751 7.76567L8 3L14.4826 7.76568Z"></path> </svg> <span>Top</span> </button> </div> <script src="/ResourcePackages/Msf/assets/js/jquery.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/jquery-ui.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/swiper-bundle.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/bootstrap.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/default-passive-events.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/search-result.js" type="text/javascript"></script> <script src="https://assets.wogaa.sg/scripts/wogaa.js"></script> <script type="text/javascript" src="/ResourcePackages/Msf/assets/js/sharethis.js#property=648140a26773dd0012e17a9b&amp;product=inline-share-buttons&amp;source=platform" async="async"></script> <script>
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window, document, 'script', 'dataLayer', 'G-7WBNTH91BT');
+            </script> <!-- Global site tag (gtag.js) - Google Analytics --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7WBNTH91BT"></script> <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-7WBNTH91BT');
+            </script> <script type="module" src="https://cdn.jsdelivr.net/npm/@govtechsg/sgds-web-component/Masthead/index.js"></script> <script src="/ResourcePackages/Msf/assets/js/main.min.js" type="text/javascript"></script>  
+<div id="st-2" class=" st-sticky-share-buttons st-left st-toggleable st-has-labels "><div class="st-btn st-first" data-network="facebook" style="display: inline-block;">
+  <img alt="facebook sharing button" src="https://platform-cdn.sharethis.com/img/facebook.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="linkedin" style="display: inline-block;">
+  <img alt="linkedin sharing button" src="https://platform-cdn.sharethis.com/img/linkedin.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="gmail" style="display: inline-block;">
+  <img alt="gmail sharing button" src="https://platform-cdn.sharethis.com/img/gmail.svg">
+  <span class="st-label">Email</span>
+</div><div class="st-btn st-last" data-network="copy" style="display: inline-block;">
+  <img alt="copy sharing button" src="https://platform-cdn.sharethis.com/img/copy.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-toggle">
+  <div class="st-left">
+    <img alt="arrow_left sharing button" src="https://platform-cdn.sharethis.com/img/arrow_left.svg">
+  </div>
+  <div class="st-right">
+    <img alt="arrow_right sharing button" src="https://platform-cdn.sharethis.com/img/arrow_right.svg">
+  </div>
+</div></div><wog-sentiments class="needsclick hydrated"></wog-sentiments></body></html>

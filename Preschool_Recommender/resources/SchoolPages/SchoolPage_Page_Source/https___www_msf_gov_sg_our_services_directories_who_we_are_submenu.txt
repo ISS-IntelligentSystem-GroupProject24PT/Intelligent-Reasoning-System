@@ -1,0 +1,2821 @@
+<html lang="en" class="hydrated"><head> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>
+	MSF | Directories
+</title> <link rel="icon" type="image/png" href="/ResourcePackages/Msf/assets/img/favIco.png"> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&amp;family=Open+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet">  <link href="/ResourcePackages/Msf/assets/css/sgds.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap-icons.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/all.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/sf-bootstrap-conflict.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/jquery-ui.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/swiper-bundle.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/search-result.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/main.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/custom-style.min.css" rel="stylesheet"> <meta property="og:title" content="MSF | Directories"><meta property="og:description" content="Directories allow visitors to search for FSCs, SSOs, FAM@FSCs, SCCs and other support centres such as pre-schools near your chosen postal code."><meta property="og:url" content="https://www.msf.gov.sg/our-services/directories"><meta property="og:type" content="website"><meta property="og:site_name" content="Ministry of Social and Family Development"><script async="" src="https://buttons-config.sharethis.com/js/648140a26773dd0012e17a9b.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=G-7WBNTH91BT"></script><script async="" src="https://assets.wogaa.sg/snowplow/3.13.1/sp.js"></script><script type="text/javascript">
+function lateLoadChatFile() {      
+  setTimeout(() => {        
+              const bodyTag = document.getElementsByTagName("body")[0];      
+             // Create link element to import chat.css file and append it on the body element        
+             let linkTag = document.createElement("link");
+  linkTag.href = "https://webchat.vica.gov.sg/static/css/chat.css";         linkTag.type = "text/css";
+  linkTag.rel = "stylesheet";       
+  linkTag.referrerPolicy = "origin";      
+  bodyTag.appendChild(linkTag);        
+  // Create script element to import chat.js file and append it on the body element       
+  let scriptTag = document.createElement("script");         scriptTag.src = "https://webchat.vica.gov.sg/static/js/chat.js";         scriptTag.type = "text/javascript";      
+  scriptTag.referrerPolicy = "origin";         
+  scriptTag.defer = true;         
+  bodyTag.appendChild(scriptTag);      
+}, 5000);  
+}
+</script><script type="text/javascript">
+(function() {
+  // add beta text 
+  let timerId = setInterval(function(){
+	if(!document.getElementsByClassName("sc-htpNat")[0]) return;
+	
+	clearInterval(timerId);
+	document.getElementsByClassName("sc-htpNat")[0].addEventListener("click", changeText);
+	document.getElementsByClassName("sc-EHOje")[0].addEventListener("click", changeText);
+  }, 5000);
+  function changeText() {
+	const ele = $("#webchat-container p:contains('Ask MSF')");
+	ele.html("");
+	ele.append("Ask MSF <span style='font-size: 14px !important;position: relative;top: -9px;left: 5px;font-weight: lighter;'>beta</span>");
+  }
+})();
+</script><link rel="canonical" href="https://www.msf.gov.sg/our-services/directories"><meta name="description" content="Directories allow visitors to search for FSCs, SSOs, FAM@FSCs, SCCs and other support centres such as pre-schools near your chosen postal code."><script async="" src="https://assets.wogaa.sg/scripts/wogaa.js?url=https%3A%2F%2Fwww.msf.gov.sg%2Four-services%2Fdirectories%23who-we-are-submenu"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style type="text/css">#st-2 {
+  font-family: "Helvetica Neue", Verdana, Helvetica, Arial, sans-serif;;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  backface-visibility: hidden;
+  display: block;
+  position: fixed;
+  opacity: 1;
+  text-align: left;
+  top: 310px;
+  z-index: 94034;
+}
+#st-2.st-left {
+  left: 0px;
+}
+#st-2.st-hidden.st-left {
+  left: -48px;
+}
+#st-2.st-hidden {
+  width: 96px;
+}
+#st-2.st-preview {
+  display: none!important;
+  opacity: 0!important;
+}
+#st-2 > div {
+  clear: left;
+  float: left;
+}
+#st-2 .st-btn {
+  -moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  height: 48px;
+  line-height: 24px;
+  margin-bottom: 0;
+  opacity: 1;
+  overflow: hidden;
+  padding: 12px;
+  position: relative;
+  text-align: left;
+  top: 0;
+  vertical-align: top;
+  white-space: nowrap;
+  width: 48px;
+}
+#st-2 .st-btn.st-first {
+  border-top: none;
+  border-top-right-radius: 4px;
+}
+#st-2 .st-btn.st-last {
+  border-bottom: none;
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn > svg {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > img {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > span {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  color: #fff;
+  display: inline-block;
+  font-weight: 500;
+  left: -35px;
+  letter-spacing: 0.5px;
+  opacity: 0;
+  padding: 0 6px;
+  position: relative;
+  vertical-align: top;
+  filter: alpha(opacity=0);
+}
+#st-2 .st-btn.st-hide-label > span {
+  display: none !important;
+}
+#st-2 .st-total {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #fff;
+  color: #555;
+  display: inline-block;
+  font-weight: 500;
+  line-height: 18px;
+  margin-right: 0;
+  min-height: 34px;
+  max-width: 80px;
+  opacity: 1;
+  padding: 4px 0;
+  text-align: center;
+  width: 48px;
+}
+#st-2 .st-total.st-hidden {
+  display: none;
+}
+#st-2 .st-total > span {
+  display: block;
+  font-size: 18px;
+  line-height: 21px;
+  padding: 0;
+}
+#st-2 .st-total > span.st-shares {
+  font-size: 11px;
+  line-height: 11px;
+}
+#st-2 .st-toggle {
+  left: -48px;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #ccc;
+  border-bottom-right-radius: 4px;
+  color: white;
+  cursor: pointer;
+  font-size: 24px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: 48px;
+}
+#st-2.st-hidden .st-toggle {
+  border-top-right-radius: 4px;
+}
+#st-2.st-left .st-toggle .st-left {
+  display: inline-block;
+}
+#st-2.st-left.st-hidden .st-toggle .st-left {
+  display: none;
+}
+#st-2.st-left .st-toggle .st-right {
+  display: none;
+}
+#st-2.st-left.st-hidden .st-toggle .st-right {
+  display: inline-block;
+}#st-2:hover .st-toggle {
+  left: 0;
+}
+#st-2.st-hidden:hover .st-toggle {
+  left: 48px;
+}
+#st-2.st-toggleable:hover .st-btn.st-last {
+  border-bottom-right-radius: 0;
+}
+#st-2.st-toggleable:hover .st-btn.st-last:hover {
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn:hover {
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+}
+#st-2.st-has-labels .st-btn:hover {
+  width: 120px;
+}
+#st-2:not(.st-has-labels) .st-btn:hover {
+  width: 62px;
+}
+#st-2 .st-btn.st-hide-label:hover {
+  width: 62px;
+}
+#st-2 .st-btn:hover > svg {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > img {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > span {
+  opacity: 1;
+  display: inline-block;
+  left: 0;
+  filter: alpha(opacity=100);
+}
+@media (max-width: 1024px) {
+  #st-2 .st-btn:hover > svg {
+    margin-left: 0;
+  }
+  #st-2 .st-btn:hover > span {
+    display: none;
+  }
+}@media (max-width: 1024px) {
+  #st-2 {
+  bottom: 0;
+  display: none;
+  left: 0;
+  right: 0;
+  top: auto;
+  width: 100%;
+}
+#st-2.st-hidden {
+  bottom: -48px;
+  width: 100%;
+}
+#st-2.st-hidden.st-left {
+  left: 0;
+}
+#st-2.st-hidden.st-right {
+  right: 0;
+}
+#st-2 > div {
+  -moz-flex: 1;
+  -ms-flex: 1;
+  -webkit-flex: 1;
+  clear: none;
+  flex: 1;
+  float: none;
+}
+#st-2 .st-total {
+  background: #fff;
+  padding: 6px 8px;
+}
+#st-2 .st-btn {
+  -moz-border-radius: 0 !important;
+-webkit-border-radius: 0 !important;
+border-radius: 0 !important;
+  text-align: center;
+  width: auto;
+}
+#st-2 .st-btn > span {
+  display: none;
+}
+#st-2 .st-toggle {
+  display: none;
+}
+}#st-2 .st-btn[data-network='facebook'] {
+  background-color: #4267B2
+}
+#st-2 .st-btn[data-network='facebook'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='facebook'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='linkedin'] {
+  background-color: #0077b5
+}
+#st-2 .st-btn[data-network='linkedin'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='linkedin'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='gmail'] {
+  background-color: #D44638
+}
+#st-2 .st-btn[data-network='gmail'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='gmail'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='copy'] {
+  background-color: #14682B
+}
+#st-2 .st-btn[data-network='copy'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='copy'] > span {
+  color: #fff
+}#st-2 .st-btn[data-network='snapchat'] > span {
+  color: #333};
+}#st-2 .st-btn[data-network='copy']:hover {
+  width: max-content;
+}</style><script type="module" src="https://assets.wogaa.sg/sentiments/sentiments.esm.js" async=""></script><script nomodule="" src="https://assets.wogaa.sg/sentiments/sentiments.js" async=""></script></head> <body onload="lateLoadChatFile();"> 
+
+<div id="webchat" app-id="msf-askmsf" app-name="Ask MSF" app-font-family="Arial" app-base-font-size="16" app-icon="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" app-welcome-message="Have a question? Type to get quick answers." app-color="#DE7C00" app-foreground-color1="#FFFFFF" app-bot-response-trigger-event="true" app-quick-launch-event="welcome" app-enable-auto-complete="false" app-auto-complete-background-color="#FFEDD7" app-auto-complete-foreground-color="#2E2E2E" app-auto-complete-hover-color="#FFCA88" app-auto-complete-divider-color="#DE7C00"></div>
+
+
+<div class="announcements-bar">
+    <div class="container-fluid">
+        <div class="row g-0 position-relative align-items-center">
+            <div class="col">
+                <div class="swiper announcementSwiper">
+                    <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <p>Have a question about MSF? Find quick answers with our chatbot Ask MSF.<!--EndFragment--></p>
+                            </div>
+                                                                                                                    </div>
+                </div>
+            </div>
+            <div class="col-auto align-self-start">
+                <div class="announcements-close">
+                    <button class="btn-close btn-ann-close btn-close-white" aria-label="Close"></button>
+                </div>
+            </div>
+        </div>
+        <div class="row g-0 position-relative">
+            <div class="col-12 col-md-auto buttons-align">
+                <div class="announcements-buttons">
+                    <div class="announcements-swiper-button swiper-button-prev">
+                        <em class="fa-solid fa-chevron-left"></em>
+                    </div>
+                    <div class="announcements-pagination"></div>
+                    <div class="announcements-swiper-button swiper-button-next">
+                        <em class="fa-solid fa-chevron-right"></em>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+ <sgds-masthead fluid="" class="sgds-masthead-class"></sgds-masthead> 
+<div class="layout-subsite">
+    <div id="Content_T7AD4A7CC001_Col00" class="sf_colsIn" data-sf-element="Navigation" data-placeholder-label="Navigation">
+
+<header>
+    <nav class="sgds navbar navbar-expand-xl main-navbar">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/" aria-label="home page">
+                <img src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69" title="MSF logo">
+            </a>
+
+            <button class="btn btn-nav-search px-24 ms-auto d-block d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#searchbarCollapse" aria-expanded="false" aria-controls="searchbarCollapse" aria-label="search icon">
+                <em class="fa-solid fa-search"></em>
+            </button>
+
+            <div class="collapse" id="searchbarCollapse">
+                <div class="container-fluid p-0 px-12">
+                    <div class="nav-searchbar">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Search our website" id="navSearchBarSearchInput" data-search="navSearchBarSearchInput">
+                            <button class="btn btn-search" type="button" id="navSearchBarBtnSearch" aria-label="search">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <span>Search</span>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Menu">
+                Menu
+            </button>
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <img class="offcanvas-header-logo" src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69">
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+
+                <div class="offcanvas-searchbar">
+                    <div class="sgds form-group">
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="defaultWith" aria-describedby="defaultWith" placeholder="Search our website">
+                            <button class="btn btn-offcanvas-search" type="button">
+                                <em class="fa-solid fa-search form-control-icon"></em>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav d-flex d-xl-none">
+                        <li class="nav-item">
+                            <a href="/" class="nav-link submenu-link" data-bs-dismiss="offcanvas" aria-current="page" aria-label="Home"><span>Home</span></a>
+                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#who-we-are-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#what-we-do-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#our-services-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#research-data-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#join-us-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+
+                    <div class="d-block d-xl-none">
+                                <div class="collapse collapse-horizontal submenu" id="who-we-are-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#who-we-are-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Who We Are</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/mission-values" class="nav-link sgds" aria-label="Mission &amp; Values"><span class="nav-link-text"><span>Mission &amp; Values</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/organisation-chart" class="nav-link sgds" aria-label="Organisation Chart"><span class="nav-link-text"><span>Organisation Chart</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/agencies-statutory-boards-councils" class="nav-link sgds" aria-label="Agencies, Statutory Boards &amp; Councils"><span class="nav-link-text"><span>Agencies, Statutory Boards &amp; Councils</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/senior-management-team" class="nav-link sgds" aria-label="Senior Management Team"><span class="nav-link-text"><span>Senior Management Team</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="what-we-do-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#what-we-do-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>What We Do</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/help-those-in-need" class="nav-link sgds" aria-label="Help Those in Need"><span class="nav-link-text"><span>Help Those in Need</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/support-families-and-parents" class="nav-link sgds" aria-label="Support Families &amp; Parents"><span class="nav-link-text"><span>Support Families &amp; Parents</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/strengthen-the-social-service-sector" class="nav-link sgds" aria-label="Strengthen the Social Service Sector"><span class="nav-link-text"><span>Strengthen the Social Service Sector</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="our-services-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#our-services-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Our Services</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/our-services/directories" class="nav-link sgds" aria-label="Directories"><span class="nav-link-text"><span>Directories</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/our-services/e-services" class="nav-link sgds" aria-label="E-Services"><span class="nav-link-text"><span>E-Services</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="research-data-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#research-data-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Research &amp; Data</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-reports-data" class="nav-link sgds" aria-label="Research Report &amp; Data"><span class="nav-link-text"><span>Research Report &amp; Data</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-grants" class="nav-link sgds" aria-label="Research Grants"><span class="nav-link-text"><span>Research Grants</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/Research-Conferences-Forums-Networks" class="nav-link sgds" aria-label="Research Conferences, Forums &amp; Networks"><span class="nav-link-text"><span>Research Conferences, Forums &amp; Networks</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="join-us-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#join-us-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Join Us</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/join-us/volunteer-with-msfcare-network" class="nav-link sgds" aria-label="Volunteer with MSFCare Network"><span class="nav-link-text"><span>Volunteer with MSFCare Network</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/jobs-careers" class="nav-link sgds" aria-label="Jobs &amp; Careers"><span class="nav-link-text"><span>Jobs &amp; Careers</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/scholarships-internships" class="nav-link sgds" aria-label="Scholarships &amp; Internships"><span class="nav-link-text"><span>Scholarships &amp; Internships</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                    </div>
+
+                    <ul class="navbar-nav justify-content-end flex-grow-1 d-none d-xl-flex">
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/mission-values" aria-label="Mission &amp; Values">
+                                                            Mission &amp; Values
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/organisation-chart" aria-label="Organisation Chart">
+                                                            Organisation Chart
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/agencies-statutory-boards-councils" aria-label="Agencies, Statutory Boards &amp; Councils">
+                                                            Agencies, Statutory Boards &amp; Councils
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/senior-management-team" aria-label="Senior Management Team">
+                                                            Senior Management Team
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/help-those-in-need" aria-label="Help Those in Need">
+                                                            Help Those in Need
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/support-families-and-parents" aria-label="Support Families &amp; Parents">
+                                                            Support Families &amp; Parents
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/strengthen-the-social-service-sector" aria-label="Strengthen the Social Service Sector">
+                                                            Strengthen the Social Service Sector
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/directories" aria-label="Directories">
+                                                            Directories
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/e-services" aria-label="E-Services">
+                                                            E-Services
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-reports-data" aria-label="Research Report &amp; Data">
+                                                            Research Report &amp; Data
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-grants" aria-label="Research Grants">
+                                                            Research Grants
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/Research-Conferences-Forums-Networks" aria-label="Research Conferences, Forums &amp; Networks">
+                                                            Research Conferences, Forums &amp; Networks
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/volunteer-with-msfcare-network" aria-label="Volunteer with MSFCare Network">
+                                                            Volunteer with MSFCare Network
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/jobs-careers" aria-label="Jobs &amp; Careers">
+                                                            Jobs &amp; Careers
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/scholarships-internships" aria-label="Scholarships &amp; Internships">
+                                                            Scholarships &amp; Internships
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header><div class="searchbar">
+    <div class="container-fluid">
+        <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search our website" id="searchbarWidgetSearchInput" data-search="searchbarWidgetSearchInput">
+            <button class="btn btn-search" type="button" id="searchbarWidgetBtnSearch" aria-label="Search">
+                <span>
+                    <em class="fa-solid fa-search fa-sm"></em>
+                    Search
+                </span>
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- prettier-ignore -->
+<div class="container-fluid">
+    <nav aria-label="breadcrumb" class="breadcrump-wrapper">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>
+                        <a href="/our-services" aria-label="Our Services">Our Services</a>
+                    </li>
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>Directories
+                    </li>
+        </ol>
+        <div class="breadcrumb-mobile">
+            <a href="/" aria-label="Home">
+                <em class="fa-solid fa-chevron-left"></em>
+                <span>Home</span>
+            </a>
+        </div>
+    </nav>
+</div>
+
+
+
+
+<link href="/ResourcePackages/Msf/assets/css/language-bar.min.css" rel="stylesheet" type="text/css">
+
+
+    </div>
+    <div id="Content_T7AD4A7CC001_Col01" class="sf_colsIn" data-sf-element="Content" data-placeholder-label="Content">
+
+
+    <script src="/ResourcePackages/Msf/assets/js/jquery.min.js"></script>
+
+<link href="/ResourcePackages/Msf/assets/css/leaflet.css" rel="stylesheet" type="text/css">
+<link href="/ResourcePackages/Msf/assets/css/leaflet-search.min.css" type="text/css" media="all" rel="stylesheet">
+<link href="/ResourcePackages/Msf/assets/css/leaflet-gesture-handling.min.css" rel="stylesheet" type="text/css">
+<link href="/ResourcePackages/Msf/assets/css/onemap-custom.min.css" type="text/css" media="all" rel="stylesheet">
+
+
+
+<div class="directory-wrapper">
+    <h1>Directories</h1>
+    <nav class="tab-wrapper">
+        <span id="left" onclick="scrollerClick(false)" class="d-none d-lg-block left scroller-btn"><img src="/ResourcePackages/Msf/assets/img/directory/btnLeft_icon.svg" alt="icon" title="btn left icon" width="17" height="11"></span>
+        <div id="scroller" class="nav nav-tabs" role="tablist">
+                <button onclick="changeTab('FAMILY_SERVICE')" class="nav-link active " id="FAMILY_SERVICE-tab" data-key="FAMILY_SERVICE" data-bs-toggle="tab" data-bs-target="#FAMILY_SERVICE" type="button" role="tab" data-ordernumber="1">
+                    <p class="tab-icon" style="background-image: url('/ResourcePackages/Msf/assets/img/directory/familyService_icon.svg')"></p>
+                    <p class="tab-title">Family Service Centres</p>
+                </button>
+                <button onclick="changeTab('SOCIAL_SERVICE')" class="nav-link  " id="SOCIAL_SERVICE-tab" data-key="SOCIAL_SERVICE" data-bs-toggle="tab" data-bs-target="#SOCIAL_SERVICE" type="button" role="tab" data-ordernumber="2">
+                    <p class="tab-icon" style="background-image: url('/ResourcePackages/Msf/assets/img/directory/socialService_icon.svg')"></p>
+                    <p class="tab-title">Social Service Offices</p>
+                </button>
+                <button onclick="changeTab('STRENGTHENING_SERVICE')" class="nav-link  custom-width" id="STRENGTHENING_SERVICE-tab" data-key="STRENGTHENING_SERVICE" data-bs-toggle="tab" data-bs-target="#STRENGTHENING_SERVICE" type="button" role="tab" data-ordernumber="3">
+                    <p class="tab-icon" style="background-image: url('/ResourcePackages/Msf/assets/img/directory/strengthening_icon.svg')"></p>
+                    <p class="tab-title">Strengthening Families Programme@Family Service Centre and Related Programmes</p>
+                </button>
+                <button onclick="changeTab('STUDENT_CARE_SERVICE')" class="nav-link  " id="STUDENT_CARE_SERVICE-tab" data-key="STUDENT_CARE_SERVICE" data-bs-toggle="tab" data-bs-target="#STUDENT_CARE_SERVICE" type="button" role="tab" data-ordernumber="4">
+                    <p class="tab-icon" style="background-image: url('/ResourcePackages/Msf/assets/img/directory/student_care_icon.svg')"></p>
+                    <p class="tab-title">Student Care Centres</p>
+                </button>
+                <button onclick="changeTab('OTHER_SERVICE')" class="nav-link  " id="OTHER_SERVICE-tab" data-key="OTHER_SERVICE" data-bs-toggle="tab" data-bs-target="#OTHER_SERVICE" type="button" role="tab" data-ordernumber="5">
+                    <p class="tab-icon" style="background-image: url('/ResourcePackages/Msf/assets/img/directory/otherService_icon.svg')"></p>
+                    <p class="tab-title">Other Support Centres</p>
+                </button>
+        </div>
+        <span id="right" onclick="scrollerClick(true)" class="d-none d-lg-block right scroller-btn"><img src="/ResourcePackages/Msf/assets/img/directory/btnRight_icon.svg" alt="icon" title="btn right icon" width="17" height="11"></span>
+        <div class="d-block d-lg-none tab-arrow">
+            <img onclick="scrollerClick(false)" src="/ResourcePackages/Msf/assets/img/directory/icons/left-arrow.svg" alt="left arrow" width="40" height="40">
+            <span class="paging-wrapper">
+                <span id="currentPage">1</span>
+                /
+                <span class="total">5</span>
+            </span>
+            <img onclick="scrollerClick(true)" src="/ResourcePackages/Msf/assets/img/directory/icons/right-arrow.svg" alt="left arrow" width="40" height="40">
+        </div>
+        
+    </nav>
+    <div class="tab-content">
+            <div class="tab-pane fade show active" id="FAMILY_SERVICE" role="tabpanel" aria-labelledby="nav-FAMILY_SERVICE">
+                <div class="filter-container ">
+                        <h1>Family Service Centres (FSCs)</h1>
+                                            <h4>Search for FSCs near your location</h4>
+                                            <div class="container filter">
+                            <div class="mm-dropdown ">
+                                    <div class="textfirst">
+                                        <img class="icon" src="/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg" alt="icon" width="23" height="31">
+                                        Your Postal Code
+                                    </div>
+                                <input type="hidden" class="option" name="namesubmit" value="POSTAL" data-item="{&quot;Id&quot;:null,&quot;Value&quot;:&quot;POSTAL&quot;,&quot;Label&quot;:&quot;Your Postal Code&quot;,&quot;Placeholder&quot;:&quot;Enter your postal code&quot;,&quot;Icon&quot;:&quot;/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg&quot;}">
+                            </div>
+                            <input id="txtSearchPostal_FAMILY_SERVICE" type="text" placeholder="Enter your postal code" onchange="updateAllTextBox('FAMILY_SERVICE')" onkeypress="handleKeyPress(event, 'FAMILY_SERVICE')">
+                            <button onclick="filterAction('FAMILY_SERVICE');" aria-label="Search">Search</button>
+                        </div>
+                        <div class="container filter-mobile">
+                            <div class="mm-dropdown ">
+                                    <div class="textfirst">
+                                        <img src="/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg" alt="" height="31" title="filter icon">
+                                        Your Postal Code
+                                    </div>
+                                <input type="hidden" class="option" name="namesubmit" value="POSTAL" data-item="{&quot;Id&quot;:null,&quot;Value&quot;:&quot;POSTAL&quot;,&quot;Label&quot;:&quot;Your Postal Code&quot;,&quot;Placeholder&quot;:&quot;Enter your postal code&quot;,&quot;Icon&quot;:&quot;/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg&quot;}">
+                            </div>
+                            <div class="txtSearch-wrapper">
+                                <input id="txtSearchPostalMobile_FAMILY_SERVICE" type="text" placeholder="Enter your postal code" onchange="updateAllTextBox('FAMILY_SERVICE')" onkeypress="handleKeyPress('FAMILY_SERVICE')">
+                            </div>
+                            <div class="btnSearch-wrapper">
+                                <button onclick="filterAction('FAMILY_SERVICE')" aria-label="Search">Search</button>
+                            </div>
+                        </div>
+                            <div class="view-list-wrapper">
+                                <a href="/docs/default-source/default-document-library/list-of-fscs-in-operation_updated-mar-2024.pdf?sfvrsn=2437e718_1" target="_blank" rel="noopener" class="view-list" aria-label="view list icon"><span>View list of locations of FSCs</span><img src="/ResourcePackages/Msf/assets/img/directory/pdf_icon.svg" alt="icon" title="pdf icon" width="19" height="24"></a>
+                            </div>
+                        <div class="no-data-message text-center display-none " id="msgNoData_FAMILY_SERVICE">
+                            No results found. Please try another postal code.
+                        </div>
+                </div>
+                    <div class="service-map-wrapper">
+                        <div id="ServiceMap_FAMILY_SERVICE" class="map-wrapper leaflet-container leaflet-touch leaflet-fade-anim leaflet-touch-zoom" tabindex="0" data-gesture-handling-touch-content="Use two fingers to move the map" data-gesture-handling-scroll-content="Use ctrl + scroll to zoom the map" style="position: relative;"><div class="leaflet-pane leaflet-map-pane" style="transform: translate3d(0px, 0px, 0px);"><div class="leaflet-pane leaflet-tile-pane"><div class="leaflet-layer " style="z-index: 1; opacity: 1;"><div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 18; transform: translate3d(0px, 0px, 0px) scale(1);"><img alt="" role="presentation" src="https://www.onemap.gov.sg/maps/tiles/Default/13/6457/4065.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(78px, -53px, 0px); opacity: 1;"><img alt="" role="presentation" src="https://www.onemap.gov.sg/maps/tiles/Default/13/6458/4065.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(334px, -53px, 0px); opacity: 1;"><img alt="" role="presentation" src="https://www.onemap.gov.sg/maps/tiles/Default/13/6457/4066.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(78px, 203px, 0px); opacity: 1;"><img alt="" role="presentation" src="https://www.onemap.gov.sg/maps/tiles/Default/13/6458/4066.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(334px, 203px, 0px); opacity: 1;"><img alt="" role="presentation" src="https://www.onemap.gov.sg/maps/tiles/Default/13/6456/4065.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-178px, -53px, 0px); opacity: 1;"><img alt="" role="presentation" src="https://www.onemap.gov.sg/maps/tiles/Default/13/6459/4065.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(590px, -53px, 0px); opacity: 1;"><img alt="" role="presentation" src="https://www.onemap.gov.sg/maps/tiles/Default/13/6456/4066.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-178px, 203px, 0px); opacity: 1;"><img alt="" role="presentation" src="https://www.onemap.gov.sg/maps/tiles/Default/13/6459/4066.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(590px, 203px, 0px); opacity: 1;"></div></div></div><div class="leaflet-pane leaflet-shadow-pane"></div><div class="leaflet-pane leaflet-overlay-pane"></div><div class="leaflet-pane leaflet-marker-pane"></div><div class="leaflet-pane leaflet-tooltip-pane"></div><div class="leaflet-pane leaflet-popup-pane"></div><div class="leaflet-proxy leaflet-zoom-animated" style="transform: translate3d(1.6533e+06px, 1.04092e+06px, 0px) scale(4096);"></div></div><div class="leaflet-control-container"><div class="leaflet-top leaflet-left"><div class="leaflet-control-zoom leaflet-bar leaflet-control"><a class="leaflet-control-zoom-in" href="#" title="Zoom in" role="button" aria-label="Zoom in">+</a><a class="leaflet-control-zoom-out" href="#" title="Zoom out" role="button" aria-label="Zoom out">−</a></div></div><div class="leaflet-top leaflet-right"></div><div class="leaflet-bottom leaflet-left"></div><div class="leaflet-bottom leaflet-right"><div class="leaflet-control-attribution leaflet-control"><a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> | © Family Service Centres</div></div></div></div>
+                            <div class="container-fluid">
+                                <div class="office-near-you">
+                                    <div class="service-item">
+                                        <img src="/ResourcePackages/Msf/assets/img/directory/icons/marker-small-icon.svg" alt="icon" width="14" height="20" title="marker icon">
+                                        <span>Centres Serving You</span>
+                                    </div>
+                                    <div class="service-item">
+                                        <img src="/ResourcePackages/Msf/assets/img/directory/icons/marker-near-you-small-icon.svg" alt="icon" width="14" height="20" title="marker near you icon">
+                                        <span>Other Centres Near You</span>
+                                        <div class="form-check form-switch" id="officeNearYou_FAMILY_SERVICE">
+                                            <input onclick="officeNearYouAction('FAMILY_SERVICE', false)" class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault_FAMILY_SERVICE" checked="" aria-labelledby="show near you">
+                                            <span onclick="officeNearYouAction('FAMILY_SERVICE', true)" class="switch-text inactive display-none">Hide</span>
+                                            <span onclick="officeNearYouAction('FAMILY_SERVICE', true)" class="switch-text active">Show</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="triangle-wrapper display-none" id="triagle_FAMILY_SERVICE">
+                        <img class="triangle-img" src="/ResourcePackages/Msf/assets/img/directory/triangle.svg" alt="icon">
+                    </div>
+                    <div id="officeServing_FAMILY_SERVICE" class="container offices-serving-wrapper" style="display: none;">
+                            <h3 class="title">Centres Serving You <img src="/ResourcePackages/Msf/assets/img/directory/icons/marker-icon-element.svg" alt="icon" title="marker icon" width="30" height="42"></h3>
+                            <p class="desciption">You may visit these centres assigned to the postal code you entered.</p>
+                        <div class="offices-list " id="officesList_FAMILY_SERVICE">
+                        </div>
+                    </div>
+                    <div id="officeNearYouServing_FAMILY_SERVICE" class="container offices-serving-wrapper" style="display: none;">
+                            <h3 class="title">Other Centres Near You <img src="/ResourcePackages/Msf/assets/img/directory/icons/marker-near-you-element.svg" alt="icon" title="near you marker icon" width="30" height="42"></h3>
+                            <p class="desciption">You may also visit these Family Service Centres.</p>
+                        <div class="offices-list" id="officesNearYouList_FAMILY_SERVICE"></div>
+                    </div>
+            </div>
+            <div class="tab-pane fade " id="SOCIAL_SERVICE" role="tabpanel" aria-labelledby="nav-SOCIAL_SERVICE">
+                <div class="filter-container ">
+                        <h1>Social Service Offices (SSOs)</h1>
+                                            <h4>Search for SSOs near your location</h4>
+                                            <div class="container filter">
+                            <div class="mm-dropdown ">
+                                    <div class="textfirst">
+                                        <img class="icon" src="/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg" alt="icon" width="23" height="31">
+                                        Your Postal Code
+                                    </div>
+                                <input type="hidden" class="option" name="namesubmit" value="POSTAL" data-item="{&quot;Id&quot;:null,&quot;Value&quot;:&quot;POSTAL&quot;,&quot;Label&quot;:&quot;Your Postal Code&quot;,&quot;Placeholder&quot;:&quot;Enter your postal code&quot;,&quot;Icon&quot;:&quot;/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg&quot;}">
+                            </div>
+                            <input id="txtSearchPostal_SOCIAL_SERVICE" type="text" placeholder="Enter your postal code" onchange="updateAllTextBox('SOCIAL_SERVICE')" onkeypress="handleKeyPress(event, 'SOCIAL_SERVICE')">
+                            <button onclick="filterAction('SOCIAL_SERVICE');" aria-label="Search">Search</button>
+                        </div>
+                        <div class="container filter-mobile">
+                            <div class="mm-dropdown ">
+                                    <div class="textfirst">
+                                        <img src="/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg" alt="" height="31" title="filter icon">
+                                        Your Postal Code
+                                    </div>
+                                <input type="hidden" class="option" name="namesubmit" value="POSTAL" data-item="{&quot;Id&quot;:null,&quot;Value&quot;:&quot;POSTAL&quot;,&quot;Label&quot;:&quot;Your Postal Code&quot;,&quot;Placeholder&quot;:&quot;Enter your postal code&quot;,&quot;Icon&quot;:&quot;/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg&quot;}">
+                            </div>
+                            <div class="txtSearch-wrapper">
+                                <input id="txtSearchPostalMobile_SOCIAL_SERVICE" type="text" placeholder="Enter your postal code" onchange="updateAllTextBox('SOCIAL_SERVICE')" onkeypress="handleKeyPress('SOCIAL_SERVICE')">
+                            </div>
+                            <div class="btnSearch-wrapper">
+                                <button onclick="filterAction('SOCIAL_SERVICE')" aria-label="Search">Search</button>
+                            </div>
+                        </div>
+                            <div class="view-list-wrapper">
+                                <a href="/docs/default-source/default-document-library/listofssoinoperation.pdf?sfvrsn=24c58c24_8" target="_blank" rel="noopener" class="view-list" aria-label="view list icon"><span>Please call ComCare Hotline 1800-222-0000 to find the nearest SSO to you if there’s no result shown in the directory finder or view list of SSOs here</span><img src="/ResourcePackages/Msf/assets/img/directory/pdf_icon.svg" alt="icon" title="pdf icon" width="19" height="24"></a>
+                            </div>
+                        <div class="no-data-message text-center display-none " id="msgNoData_SOCIAL_SERVICE">
+                            No results found. Please try another postal code.
+                        </div>
+                </div>
+                    <div class="service-map-wrapper">
+                        <div id="ServiceMap_SOCIAL_SERVICE" class="map-wrapper leaflet-container leaflet-touch leaflet-fade-anim leaflet-touch-zoom" tabindex="0" data-gesture-handling-touch-content="Use two fingers to move the map" data-gesture-handling-scroll-content="Use ctrl + scroll to zoom the map" style="position: relative;"><div class="leaflet-pane leaflet-map-pane" style="transform: translate3d(0px, 0px, 0px);"><div class="leaflet-pane leaflet-tile-pane"><div class="leaflet-layer " style="z-index: 1; opacity: 1;"><div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 18; transform: translate3d(0px, 0px, 0px) scale(1);"><img alt="" role="presentation" src="https://www.onemap.gov.sg/maps/tiles/Default/13/6458/4066.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-56px, -22px, 0px); opacity: 1;"></div></div></div><div class="leaflet-pane leaflet-shadow-pane"></div><div class="leaflet-pane leaflet-overlay-pane"></div><div class="leaflet-pane leaflet-marker-pane"></div><div class="leaflet-pane leaflet-tooltip-pane"></div><div class="leaflet-pane leaflet-popup-pane"></div><div class="leaflet-proxy leaflet-zoom-animated" style="transform: translate3d(1.6533e+06px, 1.04092e+06px, 0px) scale(4096);"></div></div><div class="leaflet-control-container"><div class="leaflet-top leaflet-left"><div class="leaflet-control-zoom leaflet-bar leaflet-control"><a class="leaflet-control-zoom-in" href="#" title="Zoom in" role="button" aria-label="Zoom in">+</a><a class="leaflet-control-zoom-out" href="#" title="Zoom out" role="button" aria-label="Zoom out">−</a></div></div><div class="leaflet-top leaflet-right"></div><div class="leaflet-bottom leaflet-left"></div><div class="leaflet-bottom leaflet-right"><div class="leaflet-control-attribution leaflet-control"><a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> | © Social Service Offices</div></div></div></div>
+                            <div class="container-fluid">
+                                <div class="office-near-you">
+                                    <div class="service-item">
+                                        <img src="/ResourcePackages/Msf/assets/img/directory/icons/marker-small-icon.svg" alt="icon" width="14" height="20" title="marker icon">
+                                        <span>Offices Serving You</span>
+                                    </div>
+                                    <div class="service-item">
+                                        <img src="/ResourcePackages/Msf/assets/img/directory/icons/marker-near-you-small-icon.svg" alt="icon" width="14" height="20" title="marker near you icon">
+                                        <span>Other Offices Near You</span>
+                                        <div class="form-check form-switch" id="officeNearYou_SOCIAL_SERVICE">
+                                            <input onclick="officeNearYouAction('SOCIAL_SERVICE', false)" class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault_SOCIAL_SERVICE" checked="" aria-labelledby="show near you">
+                                            <span onclick="officeNearYouAction('SOCIAL_SERVICE', true)" class="switch-text inactive display-none">Hide</span>
+                                            <span onclick="officeNearYouAction('SOCIAL_SERVICE', true)" class="switch-text active">Show</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="triangle-wrapper display-none" id="triagle_SOCIAL_SERVICE">
+                        <img class="triangle-img" src="/ResourcePackages/Msf/assets/img/directory/triangle.svg" alt="icon">
+                    </div>
+                    <div id="officeServing_SOCIAL_SERVICE" class="container offices-serving-wrapper" style="display: none;">
+                            <h3 class="title">Offices Serving You <img src="/ResourcePackages/Msf/assets/img/directory/icons/marker-icon-element.svg" alt="icon" title="marker icon" width="30" height="42"></h3>
+                            <p class="desciption">You may visit these offices assigned to the postal code you entered.</p>
+                        <div class="offices-list " id="officesList_SOCIAL_SERVICE">
+                        </div>
+                    </div>
+                    <div id="officeNearYouServing_SOCIAL_SERVICE" class="container offices-serving-wrapper" style="display: none;">
+                            <h3 class="title">Other Offices Near You <img src="/ResourcePackages/Msf/assets/img/directory/icons/marker-near-you-element.svg" alt="icon" title="near you marker icon" width="30" height="42"></h3>
+                            <p class="desciption">You may also visit these Social Service Offices.</p>
+                        <div class="offices-list" id="officesNearYouList_SOCIAL_SERVICE"></div>
+                    </div>
+            </div>
+            <div class="tab-pane fade " id="STRENGTHENING_SERVICE" role="tabpanel" aria-labelledby="nav-STRENGTHENING_SERVICE">
+                <div class="filter-container ">
+                        <h1>Strengthening Families Programme@Family Service Centre (FAM@FSC) and Related Programmes</h1>
+                                            <h4>Search for locations of FAM@FSC and related programmes near you</h4>
+                                            <div class="container filter">
+                            <div class="mm-dropdown ">
+                                    <div class="textfirst">
+                                        <img class="icon" src="/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg" alt="icon" width="23" height="31">
+                                        Your Postal Code
+                                    </div>
+                                <input type="hidden" class="option" name="namesubmit" value="POSTAL" data-item="{&quot;Id&quot;:null,&quot;Value&quot;:&quot;POSTAL&quot;,&quot;Label&quot;:&quot;Your Postal Code&quot;,&quot;Placeholder&quot;:&quot;Enter your postal code&quot;,&quot;Icon&quot;:&quot;/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg&quot;}">
+                            </div>
+                            <input id="txtSearchPostal_STRENGTHENING_SERVICE" type="text" placeholder="Enter your postal code" onchange="updateAllTextBox('STRENGTHENING_SERVICE')" onkeypress="handleKeyPress(event, 'STRENGTHENING_SERVICE')">
+                            <button onclick="filterAction('STRENGTHENING_SERVICE');" aria-label="Search">Search</button>
+                        </div>
+                        <div class="container filter-mobile">
+                            <div class="mm-dropdown ">
+                                    <div class="textfirst">
+                                        <img src="/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg" alt="" height="31" title="filter icon">
+                                        Your Postal Code
+                                    </div>
+                                <input type="hidden" class="option" name="namesubmit" value="POSTAL" data-item="{&quot;Id&quot;:null,&quot;Value&quot;:&quot;POSTAL&quot;,&quot;Label&quot;:&quot;Your Postal Code&quot;,&quot;Placeholder&quot;:&quot;Enter your postal code&quot;,&quot;Icon&quot;:&quot;/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg&quot;}">
+                            </div>
+                            <div class="txtSearch-wrapper">
+                                <input id="txtSearchPostalMobile_STRENGTHENING_SERVICE" type="text" placeholder="Enter your postal code" onchange="updateAllTextBox('STRENGTHENING_SERVICE')" onkeypress="handleKeyPress('STRENGTHENING_SERVICE')">
+                            </div>
+                            <div class="btnSearch-wrapper">
+                                <button onclick="filterAction('STRENGTHENING_SERVICE')" aria-label="Search">Search</button>
+                            </div>
+                        </div>
+                            <div class="view-list-wrapper">
+                                <a href="https://www.msf.gov.sg/docs/default-source/default-document-library/list-of-fam@fsc-locations.pdf" target="_blank" rel="noopener" class="view-list" aria-label="view list icon"><span>View list of locations for FAM@FSC and related programmes</span><img src="/ResourcePackages/Msf/assets/img/directory/pdf_icon.svg" alt="icon" title="pdf icon" width="19" height="24"></a>
+                            </div>
+                        <div class="no-data-message text-center display-none " id="msgNoData_STRENGTHENING_SERVICE">
+                            No results found. Please try another postal code.
+                        </div>
+                </div>
+                    <div class="service-map-wrapper">
+                        <div id="ServiceMap_STRENGTHENING_SERVICE" class="map-wrapper leaflet-container leaflet-touch leaflet-fade-anim leaflet-touch-zoom" tabindex="0" data-gesture-handling-touch-content="Use two fingers to move the map" data-gesture-handling-scroll-content="Use ctrl + scroll to zoom the map" style="position: relative;"><div class="leaflet-pane leaflet-map-pane" style="transform: translate3d(0px, 0px, 0px);"><div class="leaflet-pane leaflet-tile-pane"><div class="leaflet-layer " style="z-index: 1; opacity: 1;"><div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 18; transform: translate3d(0px, 0px, 0px) scale(1);"><img alt="" role="presentation" src="https://www.onemap.gov.sg/maps/tiles/Default/13/6458/4066.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-56px, -22px, 0px); opacity: 1;"></div></div></div><div class="leaflet-pane leaflet-shadow-pane"></div><div class="leaflet-pane leaflet-overlay-pane"></div><div class="leaflet-pane leaflet-marker-pane"></div><div class="leaflet-pane leaflet-tooltip-pane"></div><div class="leaflet-pane leaflet-popup-pane"></div><div class="leaflet-proxy leaflet-zoom-animated" style="transform: translate3d(1.6533e+06px, 1.04092e+06px, 0px) scale(4096);"></div></div><div class="leaflet-control-container"><div class="leaflet-top leaflet-left"><div class="leaflet-control-zoom leaflet-bar leaflet-control"><a class="leaflet-control-zoom-in" href="#" title="Zoom in" role="button" aria-label="Zoom in">+</a><a class="leaflet-control-zoom-out" href="#" title="Zoom out" role="button" aria-label="Zoom out">−</a></div></div><div class="leaflet-top leaflet-right"></div><div class="leaflet-bottom leaflet-left"></div><div class="leaflet-bottom leaflet-right"><div class="leaflet-control-attribution leaflet-control"><a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> | © Strengthening Families Programme@Family Service Centre &amp; Related Programmes</div></div></div></div>
+                            <div class="container-fluid">
+                                <div class="office-near-you">
+                                    <div class="service-item">
+                                        <img src="/ResourcePackages/Msf/assets/img/directory/icons/marker-small-icon.svg" alt="icon" width="14" height="20" title="marker icon">
+                                        <span>Centres Serving You</span>
+                                    </div>
+                                    <div class="service-item">
+                                        <img src="/ResourcePackages/Msf/assets/img/directory/icons/marker-near-you-small-icon.svg" alt="icon" width="14" height="20" title="marker near you icon">
+                                        <span>Other Centres Near You</span>
+                                        <div class="form-check form-switch" id="officeNearYou_STRENGTHENING_SERVICE">
+                                            <input onclick="officeNearYouAction('STRENGTHENING_SERVICE', false)" class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault_STRENGTHENING_SERVICE" checked="" aria-labelledby="show near you">
+                                            <span onclick="officeNearYouAction('STRENGTHENING_SERVICE', true)" class="switch-text inactive display-none">Hide</span>
+                                            <span onclick="officeNearYouAction('STRENGTHENING_SERVICE', true)" class="switch-text active">Show</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="triangle-wrapper display-none" id="triagle_STRENGTHENING_SERVICE">
+                        <img class="triangle-img" src="/ResourcePackages/Msf/assets/img/directory/triangle.svg" alt="icon">
+                    </div>
+                    <div id="officeServing_STRENGTHENING_SERVICE" class="container offices-serving-wrapper" style="display: none;">
+                            <h3 class="title">Centres Serving You <img src="/ResourcePackages/Msf/assets/img/directory/icons/marker-icon-element.svg" alt="icon" title="marker icon" width="30" height="42"></h3>
+                            <p class="desciption">You may visit these centres assigned to the postal code you entered.</p>
+                        <div class="offices-list " id="officesList_STRENGTHENING_SERVICE">
+                        </div>
+                    </div>
+                    <div id="officeNearYouServing_STRENGTHENING_SERVICE" class="container offices-serving-wrapper" style="display: none;">
+                            <h3 class="title">Other Centres Near You <img src="/ResourcePackages/Msf/assets/img/directory/icons/marker-near-you-element.svg" alt="icon" title="near you marker icon" width="30" height="42"></h3>
+                            <p class="desciption">You may also visit these centres.</p>
+                        <div class="offices-list" id="officesNearYouList_STRENGTHENING_SERVICE"></div>
+                    </div>
+            </div>
+            <div class="tab-pane fade " id="STUDENT_CARE_SERVICE" role="tabpanel" aria-labelledby="nav-STUDENT_CARE_SERVICE">
+                <div class="filter-container ">
+                        <h1>Student Care Centres (SCCs)</h1>
+                                            <h4>Search for SCCs near your location</h4>
+                                            <div class="container filter">
+                            <div class="mm-dropdown ssc-filter">
+                                    <div class="textfirst ssc-ddl" data-type="STUDENT_CARE_SERVICE">
+                                        <img class="icon" src="/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg" alt="icon" width="23" height="31">
+                                        Your Postal Code
+                                        <img class="arrow down" src="/ResourcePackages/Msf/assets/img/directory/arrow_down_icon.svg" alt="icon" width="32" height="32" test-src="">
+                                    </div>
+                                    <ul is-open="false" id="filterTypePostal_STUDENT_CARE_SERVICE" data-type="STUDENT_CARE_SERVICE">
+                                            <li class="input-option active" data-value="POSTAL" data-item="{&quot;Id&quot;:null,&quot;Value&quot;:&quot;POSTAL&quot;,&quot;Label&quot;:&quot;Your Postal Code&quot;,&quot;Placeholder&quot;:&quot;Enter your postal code&quot;,&quot;Icon&quot;:&quot;/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg&quot;}" data-placeholder="Enter your postal code">
+                                                <img class="icon" src="/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg" alt="icon" height="31"> Your Postal Code
+                                            </li>
+                                            <li class="input-option " data-value="OFFICE_NAME" data-item="{&quot;Id&quot;:null,&quot;Value&quot;:&quot;OFFICE_NAME&quot;,&quot;Label&quot;:&quot;Centre Name&quot;,&quot;Placeholder&quot;:&quot;Enter centre name&quot;,&quot;Icon&quot;:&quot;/ResourcePackages/Msf/assets/img/directory/officeName_icon_black.svg&quot;}" data-placeholder="Enter centre name">
+                                                <img class="icon" src="/ResourcePackages/Msf/assets/img/directory/officeName_icon_black.svg" alt="icon" height="31"> Centre Name
+                                            </li>
+                                            <li class="input-option " data-value="OFFICE_ADDRESS" data-item="{&quot;Id&quot;:null,&quot;Value&quot;:&quot;OFFICE_ADDRESS&quot;,&quot;Label&quot;:&quot;Centre Address&quot;,&quot;Placeholder&quot;:&quot;Enter centre address&quot;,&quot;Icon&quot;:&quot;/ResourcePackages/Msf/assets/img/directory/officeAddress_icon_black.svg&quot;}" data-placeholder="Enter centre address">
+                                                <img class="icon" src="/ResourcePackages/Msf/assets/img/directory/officeAddress_icon_black.svg" alt="icon" height="31"> Centre Address
+                                            </li>
+                                    </ul>
+                                <input type="hidden" class="option" name="namesubmit" value="POSTAL" data-item="{&quot;Id&quot;:null,&quot;Value&quot;:&quot;POSTAL&quot;,&quot;Label&quot;:&quot;Your Postal Code&quot;,&quot;Placeholder&quot;:&quot;Enter your postal code&quot;,&quot;Icon&quot;:&quot;/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg&quot;}">
+                            </div>
+                            <input id="txtSearchPostal_STUDENT_CARE_SERVICE" type="text" placeholder="Enter your postal code" onchange="updateAllTextBox('STUDENT_CARE_SERVICE')" onkeypress="handleKeyPress(event, 'STUDENT_CARE_SERVICE')">
+                            <button onclick="filterAction('STUDENT_CARE_SERVICE');" aria-label="Search">Search</button>
+                        </div>
+                        <div class="container filter-mobile">
+                            <div class="mm-dropdown ssc-filter">
+                                    <div class="textfirst ssc-ddl" data-type="STUDENT_CARE_SERVICE">
+                                        <img src="/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg" alt="icon" height="31" title="filter icon">
+                                        Your Postal Code
+                                        <img class="arrow down" src="/ResourcePackages/Msf/assets/img/directory/arrow_down_icon.svg" alt="icon" width="32" height="32" test-src="">
+                                    </div>
+                                    <ul is-open="false" id="filterTypePostalMobile_STUDENT_CARE_SERVICE" data-type="STUDENT_CARE_SERVICE">
+                                            <li class="input-option active" data-value="POSTAL" data-item="{&quot;Id&quot;:null,&quot;Value&quot;:&quot;POSTAL&quot;,&quot;Label&quot;:&quot;Your Postal Code&quot;,&quot;Placeholder&quot;:&quot;Enter your postal code&quot;,&quot;Icon&quot;:&quot;/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg&quot;}" data-placeholder="Enter your postal code">
+                                                <img class="icon" src="/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg" alt="icon" height="31"> Your Postal Code
+                                            </li>
+                                            <li class="input-option " data-value="OFFICE_NAME" data-item="{&quot;Id&quot;:null,&quot;Value&quot;:&quot;OFFICE_NAME&quot;,&quot;Label&quot;:&quot;Centre Name&quot;,&quot;Placeholder&quot;:&quot;Enter centre name&quot;,&quot;Icon&quot;:&quot;/ResourcePackages/Msf/assets/img/directory/officeName_icon_black.svg&quot;}" data-placeholder="Enter centre name">
+                                                <img class="icon" src="/ResourcePackages/Msf/assets/img/directory/officeName_icon_black.svg" alt="icon" height="31"> Centre Name
+                                            </li>
+                                            <li class="input-option " data-value="OFFICE_ADDRESS" data-item="{&quot;Id&quot;:null,&quot;Value&quot;:&quot;OFFICE_ADDRESS&quot;,&quot;Label&quot;:&quot;Centre Address&quot;,&quot;Placeholder&quot;:&quot;Enter centre address&quot;,&quot;Icon&quot;:&quot;/ResourcePackages/Msf/assets/img/directory/officeAddress_icon_black.svg&quot;}" data-placeholder="Enter centre address">
+                                                <img class="icon" src="/ResourcePackages/Msf/assets/img/directory/officeAddress_icon_black.svg" alt="icon" height="31"> Centre Address
+                                            </li>
+                                    </ul>
+                                <input type="hidden" class="option" name="namesubmit" value="POSTAL" data-item="{&quot;Id&quot;:null,&quot;Value&quot;:&quot;POSTAL&quot;,&quot;Label&quot;:&quot;Your Postal Code&quot;,&quot;Placeholder&quot;:&quot;Enter your postal code&quot;,&quot;Icon&quot;:&quot;/ResourcePackages/Msf/assets/img/directory/postcode_icon_black.svg&quot;}">
+                            </div>
+                            <div class="txtSearch-wrapper">
+                                <input id="txtSearchPostalMobile_STUDENT_CARE_SERVICE" type="text" placeholder="Enter your postal code" onchange="updateAllTextBox('STUDENT_CARE_SERVICE')" onkeypress="handleKeyPress('STUDENT_CARE_SERVICE')">
+                            </div>
+                            <div class="btnSearch-wrapper">
+                                <button onclick="filterAction('STUDENT_CARE_SERVICE')" aria-label="Search">Search</button>
+                            </div>
+                        </div>
+                            <div class="view-list-wrapper">
+                                <a href="/docs/default-source/default-document-library/list-of-sccs-(as-of-18-mar-2024).pdf?sfvrsn=24dd926c_0" target="_blank" rel="noopener" class="view-list" aria-label="view list icon"><span>View list of locations of SCCs</span><img src="/ResourcePackages/Msf/assets/img/directory/pdf_icon.svg" alt="icon" title="pdf icon" width="19" height="24"></a>
+                            </div>
+                        <div class="no-data-message text-center display-none " id="msgNoData_STUDENT_CARE_SERVICE">
+                            No results found. Please try another postal code.
+                        </div>
+                </div>
+                    <div class="service-map-wrapper">
+                        <div id="ServiceMap_STUDENT_CARE_SERVICE" class="map-wrapper leaflet-container leaflet-touch leaflet-fade-anim leaflet-touch-zoom" tabindex="0" data-gesture-handling-touch-content="Use two fingers to move the map" data-gesture-handling-scroll-content="Use ctrl + scroll to zoom the map" style="position: relative;"><div class="leaflet-pane leaflet-map-pane" style="transform: translate3d(0px, 0px, 0px);"><div class="leaflet-pane leaflet-tile-pane"><div class="leaflet-layer " style="z-index: 1; opacity: 1;"><div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 18; transform: translate3d(0px, 0px, 0px) scale(1);"><img alt="" role="presentation" src="https://www.onemap.gov.sg/maps/tiles/Default/13/6458/4066.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-56px, -22px, 0px); opacity: 1;"></div></div></div><div class="leaflet-pane leaflet-shadow-pane"></div><div class="leaflet-pane leaflet-overlay-pane"></div><div class="leaflet-pane leaflet-marker-pane"></div><div class="leaflet-pane leaflet-tooltip-pane"></div><div class="leaflet-pane leaflet-popup-pane"></div><div class="leaflet-proxy leaflet-zoom-animated" style="transform: translate3d(1.6533e+06px, 1.04092e+06px, 0px) scale(4096);"></div></div><div class="leaflet-control-container"><div class="leaflet-top leaflet-left"><div class="leaflet-control-zoom leaflet-bar leaflet-control"><a class="leaflet-control-zoom-in" href="#" title="Zoom in" role="button" aria-label="Zoom in">+</a><a class="leaflet-control-zoom-out" href="#" title="Zoom out" role="button" aria-label="Zoom out">−</a></div></div><div class="leaflet-top leaflet-right"></div><div class="leaflet-bottom leaflet-left"></div><div class="leaflet-bottom leaflet-right"><div class="leaflet-control-attribution leaflet-control"><a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> | © Student Care Centres</div></div></div></div>
+                    </div>
+                        <div class="distance-filter-wrapper display-none" id="distanceWrapper_STUDENT_CARE_SERVICE">
+                            <div class="btn-wrapper">
+                                <span>Distance Filter (Km)</span>
+                            </div>
+                            <section class="time-line-box">
+                                <div class="swiper-container text-center">
+                                    <div class="swiper-wrapper" id="distance_STUDENT_CARE_SERVICE">
+                                            <div id="swiperSlide_1" class="swiper-slide first-item  " data-distance="0">
+                                                <div class="timestamp"><span class="date"></span></div>
+                                                <div class="status" onclick="changeDistance('1', 'STUDENT_CARE_SERVICE')"><span>0.5 Km</span></div>
+                                            </div>
+                                            <div id="swiperSlide_2" class="swiper-slide   " data-distance="1">
+                                                <div class="timestamp"><span class="date"></span></div>
+                                                <div class="status" onclick="changeDistance('2', 'STUDENT_CARE_SERVICE')"><span>1 Km</span></div>
+                                            </div>
+                                            <div id="swiperSlide_3" class="swiper-slide   " data-distance="2">
+                                                <div class="timestamp"><span class="date"></span></div>
+                                                <div class="status" onclick="changeDistance('3', 'STUDENT_CARE_SERVICE')"><span>1.5 Km</span></div>
+                                            </div>
+                                            <div id="swiperSlide_4" class="swiper-slide   active" data-distance="2">
+                                                <div class="timestamp"><span class="date"></span></div>
+                                                <div class="status" onclick="changeDistance('4', 'STUDENT_CARE_SERVICE')"><span>2 Km</span></div>
+                                            </div>
+                                            <div id="swiperSlide_5" class="swiper-slide   " data-distance="2">
+                                                <div class="timestamp"><span class="date"></span></div>
+                                                <div class="status" onclick="changeDistance('5', 'STUDENT_CARE_SERVICE')"><span>2.5 Km</span></div>
+                                            </div>
+                                            <div id="swiperSlide_6" class="swiper-slide   " data-distance="3">
+                                                <div class="timestamp"><span class="date"></span></div>
+                                                <div class="status" onclick="changeDistance('6', 'STUDENT_CARE_SERVICE')"><span>3 Km</span></div>
+                                            </div>
+                                            <div id="swiperSlide_7" class="swiper-slide   " data-distance="4">
+                                                <div class="timestamp"><span class="date"></span></div>
+                                                <div class="status" onclick="changeDistance('7', 'STUDENT_CARE_SERVICE')"><span>3.5 Km</span></div>
+                                            </div>
+                                            <div id="swiperSlide_8" class="swiper-slide   " data-distance="4">
+                                                <div class="timestamp"><span class="date"></span></div>
+                                                <div class="status" onclick="changeDistance('8', 'STUDENT_CARE_SERVICE')"><span>4 Km</span></div>
+                                            </div>
+                                            <div id="swiperSlide_9" class="swiper-slide   " data-distance="4">
+                                                <div class="timestamp"><span class="date"></span></div>
+                                                <div class="status" onclick="changeDistance('9', 'STUDENT_CARE_SERVICE')"><span>4.5 Km</span></div>
+                                            </div>
+                                            <div id="swiperSlide_10" class="swiper-slide   " data-distance="5">
+                                                <div class="timestamp"><span class="date"></span></div>
+                                                <div class="status" onclick="changeDistance('10', 'STUDENT_CARE_SERVICE')"><span>5 Km</span></div>
+                                            </div>
+                                            <div id="swiperSlide_11" class="swiper-slide   " data-distance="6">
+                                                <div class="timestamp"><span class="date"></span></div>
+                                                <div class="status" onclick="changeDistance('11', 'STUDENT_CARE_SERVICE')"><span>5.5 Km</span></div>
+                                            </div>
+                                            <div id="swiperSlide_12" class="swiper-slide  last-item " data-distance="6">
+                                                <div class="timestamp"><span class="date"></span></div>
+                                                <div class="status" onclick="changeDistance('12', 'STUDENT_CARE_SERVICE')"><span>6 Km</span></div>
+                                            </div>
+                                    </div>
+                                    <div class="swiper-pagination"></div>
+                                </div>
+                            </section>
+                        </div>
+                    <div class="triangle-wrapper display-none" id="triagle_STUDENT_CARE_SERVICE">
+                        <img class="triangle-img" src="/ResourcePackages/Msf/assets/img/directory/triangle.svg" alt="icon">
+                    </div>
+                    <div id="officeServing_STUDENT_CARE_SERVICE" class="container offices-serving-wrapper" style="display: none;">
+                        <div class="offices-list mt-0" id="officesList_STUDENT_CARE_SERVICE">
+                        </div>
+                            <nav aria-label="pagination">
+                                <ul class="pagination justify-content-center" id="pagnationUl_STUDENT_CARE_SERVICE">
+                                </ul>
+                            </nav>
+                    </div>
+                    <div id="officeNearYouServing_STUDENT_CARE_SERVICE" class="container offices-serving-wrapper" style="display: none;">
+                        <div class="offices-list" id="officesNearYouList_STUDENT_CARE_SERVICE"></div>
+                    </div>
+            </div>
+            <div class="tab-pane fade " id="OTHER_SERVICE" role="tabpanel" aria-labelledby="nav-OTHER_SERVICE">
+                <div class="filter-container otherServiceCustom">
+                        <h1>Find the nearest:</h1>
+                                                        </div>
+                    <div class="otherService-wrapper row">
+                        <div class="d-hide d-lg-block col-lg-3"></div>
+                        <div class="col-12 col-md-6 col-lg-3 ser-item item-right">
+                            <a href="https://cms.ecda.gov.sg/prweb/IAC/zGwoaxwY6Bz0rcpuMWgTMg%5B%5B*/!STANDARD" target="_blank" rel="noopener" aria-label="Preschools">
+                                <img src="/ResourcePackages/Msf/assets/img/directory/preSchool-icon.svg" alt="icon-PreSchool Icon" title="PreSchool icon" width="72" height="72">
+                                <span>Preschools</span>
+                            </a>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-3 ser-item">
+                            <a href="https://www.ncss.gov.sg/social-service-agencies/membership/list-of-ncss-members" target="_blank" rel="noopener" aria-label="Social Service Agencies">
+                                <img src="/ResourcePackages/Msf/assets/img/directory/Social_Service_Agencies_icon.svg" alt="icon-Social Icon" title="Social Service Agencies icon" width="68" height="72">
+                                <span>Social Service Agencies</span>
+                            </a>
+                        </div>
+                        <div class="d-hide d-lg-block col-lg-3"></div>
+                        <div class="d-hide d-lg-block col-lg-3"></div>
+                        <div class="col-12 col-md-6  col-lg-3 ser-item item-right">
+                            <a href="https://www.aic.sg/care-services/e-care-locator" target="_blank" rel="noopener" aria-label="Elder Care Services">
+                                <img src="/ResourcePackages/Msf/assets/img/directory/Elder_Care_Services_icon.svg" alt="icon-Elder Care Icon" title="ElderCare Services icon" width="72" height="72">
+                                <span>Elder Care Services</span>
+                            </a>
+                        </div>
+                        <div class="col-12 col-md-6  col-lg-3 ser-item">
+                            <a href="https://www.enablingguide.sg/service-directory" target="_blank" rel="noopener" aria-label="Disability Services">
+                                <img src="/ResourcePackages/Msf/assets/img/directory/Disability_Services_icon.svg" alt="icon-Disability Icon" title="Disability Services icon" width="72" height="65">
+                                <span>Disability Services</span>
+                            </a>
+                        </div>
+                        <div class="d-hide d-lg-block col-lg-3"></div>
+                    </div>
+            </div>
+    </div>
+</div>
+
+<!-- Latest compiled JavaScript -->
+<script src="/ResourcePackages/Msf/assets/js/leaflet.js"></script>
+<script src="/ResourcePackages/Msf/assets/js/leaflet-search.min.js"></script>
+<script src="/ResourcePackages/Msf/assets/js/leaflet-gesture-handling.min.js"></script>
+<script>
+    // #region SCROLLER BUTTON
+    function scrollerClick(isNext) {
+        let allTab = $(".nav-tabs .nav-link")
+        let currentTab = $(".nav-link.active");
+
+        let keyNextTab;
+        if (isNext)
+            keyNextTab = currentTab.next().length > 0
+                ? currentTab.next().data("key")
+                : allTab[0].getAttribute("data-key");
+        else
+            keyNextTab = currentTab.prevAll().length > 0
+                ? currentTab.prevAll().data("key")
+                : allTab[allTab.length - 1].getAttribute("data-key");
+
+        $(`#${keyNextTab}-tab`).click();
+
+        changeTabArrow(keyNextTab);
+    }
+
+    function changeTabArrow(keyNextTab) {
+        const orderNumber = $(`#${keyNextTab}-tab`).data("ordernumber");
+        // scroll to current tab
+        switch (orderNumber) {
+            case 5:
+                $('#scroller').animate({ scrollLeft: $(`#${keyNextTab}-tab`).position().left + 500 }, 300);
+                break;
+            default:
+                $('#scroller').animate({ scrollLeft: $(`#${keyNextTab}-tab`).position().left }, 300);
+                break
+        }
+        $("#currentPage").html(orderNumber);
+    }
+
+    function changeTabDot(key) {
+        $(".ele-dot").removeClass("active");
+        $(`#${key}-tab_dot`).addClass("active");
+    }
+    function clickTabDot(key) {
+        changeTabDot(key);
+        $(`#${key}-tab`).click();
+    }
+    // #endregion
+
+    // #region FILTER SELECTION
+    $(function () {
+        // Set
+        const filterMain = $('div.mm-dropdown .textfirst');
+        const filterStudentMain = $('div.mm-dropdown.ssc-filter .ssc-ddl');
+        const filterUl = $('div.mm-dropdown > ul');
+        const filterArrow = $('div.mm-dropdown > .textfirst .arrow');
+        const filterLI = $('div.mm-dropdown > ul > li.input-option');
+        const inputoption = $("div.mm-dropdown .option");
+        const arrowDownIcon = "/ResourcePackages/Msf/assets/img/directory/arrow_down_icon.svg";
+        const arrowUpIcon = "/ResourcePackages/Msf/assets/img/directory/arrow_up_icon.svg";
+        const arrowDownImg = `<img src="${arrowDownIcon}" width="32" height="32" class="arrow down" alt="icon" title="down icon" />`;
+        const arrowUpImg = `<img src="${arrowUpIcon}" width="32" height="32" class="arrow down" alt="icon" title="up icon" />`;
+        // Animation
+        filterMain.click(function (event) {
+            const isSSC = $(this).attr("data-type") === 'STUDENT_CARE_SERVICE';
+            if (!isSSC)  return;
+
+            const currentSelected = inputoption.data("item");
+            const currentIcon = currentSelected.Icon;
+            const currentTitle = currentSelected.Label;
+            const isOpen = filterUl.attr('is-open') === 'true'; // previous call toggle -> false it's mean will open after toogle -> false is up and true is down
+            const text = `<img class="icon" src="${currentIcon}" alt="" height="31" /> ${currentTitle} ${isOpen ? arrowDownImg : arrowUpImg}`;
+
+            if (isSSC) {
+                filterStudentMain.html(text);
+            }
+
+            toogleFilter(filterUl, filterLI, filterArrow, arrowDownIcon, arrowUpIcon);
+        });
+
+        // Insert Data
+        filterLI.click(function () {
+            const dataType = $(this.parentElement).data("type");
+            const isSSC = dataType === 'STUDENT_CARE_SERVICE';
+            if (!isSSC)  return;
+
+            // hide
+            toogleFilter(filterUl, filterLI, filterArrow, arrowDownIcon, arrowUpIcon);
+            const livalue = $(this).data('value');
+            const liDataItem = $(this).attr('data-item');
+
+            filterLI.removeClass('active');
+            $(this).addClass('active');
+
+            const lihtml = $(this).html();
+
+            if (isSSC) {
+                const ddlEle = encodeURIComponent(lihtml + arrowDownImg);
+                filterStudentMain.html(decodeURIComponent(ddlEle));
+            }
+
+            inputoption.val(livalue);
+            inputoption.attr('data-item', liDataItem);
+
+            if (livalue !== 'POSTAL') {
+                $(`#distanceWrapper_${dataType}`).removeClass("display-block");
+                $(`#distanceWrapper_${dataType}`).addClass("display-none");
+            } else {
+                $(`#distanceWrapper_${dataType}`).removeClass("display-none");
+                $(`#distanceWrapper_${dataType}`).addClass("display-block");
+            }
+
+            // change placeholder
+            const placeholder = $(this).attr('data-placeholder');
+            const inputSCCSearchDestop = document.getElementById(`txtSearchPostal_STUDENT_CARE_SERVICE`);
+            const inputSCCSearchMobile = document.getElementById(`txtSearchPostalMobile_STUDENT_CARE_SERVICE`);
+
+            inputSCCSearchDestop.placeholder = placeholder;
+            inputSCCSearchMobile.placeholder = placeholder;
+
+        });
+    });
+    function toogleFilter(ul, li, arrow, downIcon, upIcon) {
+        li.toggle('fast');
+
+        if (ul.attr('is-open') === 'true') {
+            ul.attr('is-open', 'false');
+            ul.removeClass('p-2');
+        } else {
+            ul.attr('is-open', 'true');
+            ul.addClass('p-2');
+        }
+    }
+
+    // #endregion
+
+    // #region common, show msg nodata, triagle
+    function toggleSimple(elementText, isShow) {
+        const ele = $(elementText);
+        const classAdditional = isShow ? "display-block" : "display-none";
+
+        ele.removeClass("display-block").removeClass("display-none");
+        ele.addClass(classAdditional)
+    }
+     function toggleMsgNoData(id, isShow) {
+        if (id !== "STUDENT_CARE_SERVICE") {
+            const elementNearYou = setOfficeNearYouServiceElement(id);
+            const officesListEleNearYou = elementNearYou.officesListEle;
+            officesListEleNearYou.innerHTML = "";
+            const officeServingYouNearYou = elementNearYou.officeServingYou;
+            officeServingYouNearYou.style.display = "none";
+        }
+
+        const element = setOfficeServiceElement(id);
+        const officesListEle = element.officesListEle;
+        officesListEle.innerHTML = "";
+        const officeServingYou = element.officeServingYou;
+        officeServingYou.style.display = "none";
+
+        const elementText = `#msgNoData_${id}`;
+        toggleSimple(elementText, isShow);
+    }
+    function toggleTriagle(id, isShow) {
+        const elementText = `#triagle_${id}`;
+        toggleSimple(elementText, isShow);
+    }
+    function calDistance(lat1, lon1, lat2, lon2, unit) {
+        var radlat1 = Math.PI * lat1 / 180
+        var radlat2 = Math.PI * lat2 / 180
+        var theta = lon1 - lon2
+        var radtheta = Math.PI * theta / 180
+        var dist = Math.sin(radlat1) * Math.sin(radlat2) + Math.cos(radlat1) * Math.cos(radlat2) * Math.cos(radtheta);
+        if (dist > 1) {
+            dist = 1;
+        }
+        dist = Math.acos(dist)
+        dist = dist * 180 / Math.PI
+        dist = dist * 60 * 1.1515
+        if (unit == "K") { dist = dist * 1.609344 }
+        if (unit == "N") { dist = dist * 0.8684 }
+        return dist
+    }
+    // #endregion
+
+    // #region onemap define variables
+    // #region Paging
+    var currentPage = 1;
+    var itemPerPage = 10;
+    var totalPage = 0;
+    var currentData = [];
+    var displayData = [];
+    var templatePrevious = '<li class="page-item btn-previous PARAM_PREVIOUS_DISABLE"><a class="page-link" onclick="previousAction()" aria-label="Previous"><span aria-hidden="true"><em class="fa-solid fa-chevron-left"></em></span></a></li>';
+    var templateNext = '<li class="page-item btn-next PARAM_NEXT_DISABLE"><a class="page-link" onclick="nextAction()" aria-label="Next"><span aria-hidden="true"><em class="fa-solid fa-chevron-right"></em></span></a></li>';
+    var threeDotText = '<li class="page-item disabled"><a class="page-link" aria-label="3 dots">...</a></li>';
+    var templatePagnation = '<li class="page-item PARAM_ACTIVE_PAGE"><a class="page-link" onclick="changePage(PARAM_PAGE_CHANGE)" aria-label="page number">PARAM_PAGE_NUMBER</a></li>';
+    // #endregion
+
+    var isFilterByDistance = false;
+    const center = L.bounds([1.46905, 104.11475], [1.16, 103.502]).getCenter();
+    const minZoom = 12;
+    const defaultZoom = 13;
+    const maxZoom = 18;
+    const markerIcon = new L.Icon({
+        iconUrl: '/ResourcePackages/Msf/assets/img/directory/icons/marker-icon.svg',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+    });
+    const nearYoumarkerIcon = new L.Icon({
+        iconUrl: '/ResourcePackages/Msf/assets/img/directory/icons/marker-near-you.svg',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+    });
+    const popupTemplate =
+        `<div class="popup-info">` +
+        `<span style="font-style: normal;font-weight: 400;font-size: 18px;line-height: 32px;color: #181A18">{MARKER_TYPE}</span><hr > ` +
+        `<span style="font-style: normal;font-weight: 600;font-size: 18px;line-height: 32px;color: #00415A">{TITLE}</span><br />` +
+        `<div style="display: flex"><img src="/ResourcePackages/Msf/assets/img/directory/location-tag.svg" alt="icon" style="margin-right: 5px;place-self: flex-start;width: 26px;height: 33px;" width="26" height="33" title="location icon"/><span style="font-style: normal;font-weight: 400;font-size: 18px;line-height: 32px;color: #181A18">{ADDRESS}</span><br /></div>` +
+        `<div style="margin-top: 16px;"><a onclick="toggleMoreLessAction('{POSTAL_CODE}', {SERVICE_TYPE}, true, {BELONG_PAGE})" href="#{URL_MORE_DETAIL}" aria-label="view detail" style="font-style: normal;font-weight: 500;font-size: 16px;line-height: 20px;color: #00607A;text-decoration-line: underline;">More details</a></div>` +
+        `</div>`;
+    const officeInfoTemplate =
+        `<div class="office-item" id="uniqueOffice-{OFFICE_ID}">` +
+        `<div class="title-wrapper">{TITLE}</div>` +
+        `<div class="content-wrapper" id="content_{OFFICE_ID}">` +
+        `<div class="main-content">` +
+        `<div class="info {DISPLAY_ADDRESS}">` +
+        `<img class="icon" src="/ResourcePackages/Msf/assets/img/directory/location-tag.svg" alt="icon" />` +
+        `<span>{ADDRESS}</span>` +
+        `</div>` +
+        `<div class="info">` +
+        `<span class="info-item {DISPLAY_PHONE}">` +
+        `<img class="icon" src="/ResourcePackages/Msf/assets/img/directory/phone-icon.svg" alt="icon" />` +
+        `<span>{PHONE}</span>` +
+        `</span>` +
+        `<span class="info-item {DISPLAY_EMAIL}">` +
+        `<img class="icon" src="/ResourcePackages/Msf/assets/img/directory/email-icon.svg" alt="icon" />` +
+        `<a href="mailto:{EMAIL}">{EMAIL}</a>` +
+        `</span>` +
+        `<span class="info-item {DISPLAY_WEBSITE}">` +
+        `<img class="icon" src="/ResourcePackages/Msf/assets/img/directory/internet-icon.svg" alt="icon" />` +
+        `<a href="{WEBSITE}" target="_blank">{WEBSITE}</a>` +
+        `</span>` +
+        `</div>` +
+        `<div class="info {DISPLAY_FAX}">` +
+        `<img class="icon" src="/ResourcePackages/Msf/assets/img/directory/infomation.svg" alt="icon" />` +
+        `<span>Fax : </span>` +
+        `<span>{FAX_NUMBER}</span>` +
+        `</div>` +
+        `<div class="info {DISPLAY_SCFAADMIN}">` +
+        `<img class="icon" src="/ResourcePackages/Msf/assets/img/directory/des-icon.svg" alt="icon" />` +
+        `<span>Student Care Fee Assistance (SCFA) Administrator: </span>` +
+        `<span>{SCFAADMIN}</span>` +
+        `</div>` +
+        `<div class="info {DISPLAY_MONTHLYFEES}">` +
+        `<img class="icon" src="/ResourcePackages/Msf/assets/img/directory/monthlyfee.svg" alt="icon" />` +
+        `<span>Monthly Fees: </span>` +
+        `<span>{MONTHLYFEES}</span>` +
+        `</div>` +
+        `<div class="info {DISPLAY_OPERATING_HOURS}">` +
+        `<img class="icon" src="/ResourcePackages/Msf/assets/img/directory/infomation.svg" alt="icon" />` +
+        `<span>Operating hours: </span>` +
+        `<span>{OPERATING_HOURS}</span>` +
+        `</div>` +
+        `<div class="info {DISPLAY_OTHER_INFO}">` +
+        `<img class="icon" src="/ResourcePackages/Msf/assets/img/directory/infomation.svg" alt="icon" />` +
+        `<span>{OTHER_INFO}</span>` +
+        `</div>` +
+        `<div class="info-group {DISPLAY_AUDITSTATUSWRAPPER}">` +
+        `<p class="title-marker">Latest Quality Audit Status</p>` +
+        `<div class="info {DISPLAY_DATEOFSTATUS}">` +
+        `<img class="icon" src="/ResourcePackages/Msf/assets/img/directory/date.svg" alt="icon" />` +
+        `<span>Date of Audit: </span>` +
+        `<span>{DATEOFSTATUS}</span>` +
+        `</div>` +
+        `<div class="info {DISPLAY_AUDITSTATUS}">` +
+        `<img class="icon" src="/ResourcePackages/Msf/assets/img/directory/doc.svg" alt="icon" />` +
+        `<span>Audit Status: </span>` +
+        `<span>{AUDITSTATUS}</span>` +
+        `</div>` +
+        `</div>` +
+        `<div class="info-group {DISPLAY_AUDITHISTORYWRAPPER}">` +
+        `<p class="title-marker">Latest Quality Audit History</p>` +
+        `<div class="info {DISPLAY_AUDITHISTORY}">` +
+        `<span>{AUDITHISTORY}</span>` +
+        `</div>` +
+        `</div>` +
+        `<div class="info-group {DISPLAY_FOOTNOTEWRAPPER}">` +
+        `<p class="title-marker">Footnote:</p>` +
+        `<div class="info {DISPLAY_FOOTNOTE}">` +
+        `{FOOTNOTE}` +
+        `</div>` +
+        `</div>` +
+        `</div>` +
+        `</div>` +
+        `<div class="read-more display-none" onclick="toggleMoreLessAction('{OFFICE_ID}', {SERVICE_TYPE})"><span class="text"></span><i class="arrow"></i></div>` +
+        `</div>`;
+    // #endregion
+
+    // #region onemap FAMILY define
+    let familyServicemarkerList = []
+    let familyNearYoumarkerList = []
+    const familyServiceMap = L.map('ServiceMap_FAMILY_SERVICE',
+        {
+            gestureHandling: true,
+        }).setView([center.x, center.y], defaultZoom);
+    const familyServiceBasemap = L.tileLayer('https://www.onemap.gov.sg/maps/tiles/Default/{z}/{x}/{y}.png', {
+        detectRetina: true,
+        center: [center.x, , center.y],
+        attribution: '&copy; Family Service Centres',
+        maxZoom: maxZoom, minZoom: minZoom
+    });
+    familyServiceBasemap.addTo(familyServiceMap);
+    // #endregion
+
+    // #region onemap SOCIAL define
+    let socialServicemarkerList = [];
+    let socialNearYoumarkerList = [];
+    const socialServiceCenter = L.bounds([1.46905, 104.11475], [1.16, 103.502]).getCenter();
+    var socialServiceMap = L.map('ServiceMap_SOCIAL_SERVICE',
+        {
+            gestureHandling: true,
+        }).setView([socialServiceCenter.x, socialServiceCenter.y], defaultZoom);
+    var socialServiceBasemap = L.tileLayer('https://www.onemap.gov.sg/maps/tiles/Default/{z}/{x}/{y}.png', {
+        detectRetina: true,
+        center: [socialServiceCenter.x, , socialServiceCenter.y],
+        attribution: '&copy; Social Service Offices',
+        maxZoom: maxZoom, minZoom: minZoom
+    });
+    socialServiceBasemap.addTo(socialServiceMap);
+    // #endregion
+
+    // #region onemap STRENGTHENING define
+    let strengtheningFamilymarkerList = [];
+    let strengtheningNearYoumarkerList = [];
+    var strengtheningMap = L.map('ServiceMap_STRENGTHENING_SERVICE',
+        {
+            gestureHandling: true,
+        }).setView([center.x, center.y], defaultZoom);
+    var strengtheningBasemap = L.tileLayer('https://www.onemap.gov.sg/maps/tiles/Default/{z}/{x}/{y}.png', {
+        detectRetina: true,
+        center: [center.x, , center.y],
+        attribution: '&copy; Strengthening Families Programme@Family Service Centre & Related Programmes',
+        maxZoom: maxZoom, minZoom: minZoom
+    });
+    strengtheningBasemap.addTo(strengtheningMap);
+    // #endregion
+
+    // #region onemap STUDENT define
+    let studentCaremarkerList = [];
+    var studentCareMap = L.map('ServiceMap_STUDENT_CARE_SERVICE',
+        {
+            gestureHandling: true,
+        }).setView([center.x, center.y], defaultZoom);
+    var studentCareBasemap = L.tileLayer('https://www.onemap.gov.sg/maps/tiles/Default/{z}/{x}/{y}.png', {
+        detectRetina: true,
+        center: [center.x, , center.y],
+        attribution: '&copy; Student Care Centres',
+        maxZoom: maxZoom, minZoom: minZoom
+    });
+    studentCareBasemap.addTo(studentCareMap);
+
+    $(document).ready(function () {
+
+        const hashTab = window.location.hash;
+        let keyTab;
+        if (!!hashTab) {
+            switch (hashTab.toLowerCase().trim()) {
+                case "#familytab":
+                    keyTab = "FAMILY_SERVICE";
+                    break;
+                case "#socialtab":
+                    keyTab = "SOCIAL_SERVICE";
+                    break;
+                case "#famtab":
+                    keyTab = "STRENGTHENING_SERVICE";
+                    break;
+                case "#studenttab":
+                    keyTab = "STUDENT_CARE_SERVICE";
+                    break;
+                case "#othertab":
+                    keyTab = "OTHER_SERVICE";
+                    break;
+                default:
+                    keyTab = "";
+                    break;
+            }
+            if (!!keyTab) {
+                $(`#${keyTab}-tab`).click();
+            }
+        }
+
+        const token = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJlNTg1NTM3MzE2MmM5ZmQ0YzI0NDRlNjliMmJhOWE5YiIsImlzcyI6Imh0dHA6Ly9pbnRlcm5hbC1hbGItb20tcHJkZXppdC1pdC0xMjIzNjk4OTkyLmFwLXNvdXRoZWFzdC0xLmVsYi5hbWF6b25hd3MuY29tL2FwaS92Mi91c2VyL3Nlc3Npb24iLCJpYXQiOjE3MTE4Mzg4NzksImV4cCI6MTcxMjA5ODA3OSwibmJmIjoxNzExODM4ODc5LCJqdGkiOiJzbnZsaWZiQTcyT212dkJmIiwidXNlcl9pZCI6ODU4LCJmb3JldmVyIjpmYWxzZX0.dM1GUXBTEZWX_rgUm0xDNqX0lvv16G6WQNDEmi2fTPE';
+        if (!token) {
+            //console.error("Cannot get token!");
+            return;
+        }
+    });
+    // #endregion
+
+    // #region marker handle
+    function getMarketListByTypeService(typeService) {
+        switch (typeService) {
+            case 'FAMILY_SERVICE':
+                return familyServicemarkerList;
+            case 'SOCIAL_SERVICE':
+                return socialServicemarkerList;
+            case 'STRENGTHENING_SERVICE':
+                return strengtheningFamilymarkerList;
+            case 'STUDENT_CARE_SERVICE':
+                return studentCaremarkerList;
+            default:
+                return null;
+        }
+    }
+    function clearMarket(typeService) {
+        switch (typeService) {
+            case 'FAMILY_SERVICE':
+                familyServicemarkerList = [];
+                familyNearYoumarkerList = [];
+                break;
+            case 'SOCIAL_SERVICE':
+                socialServicemarkerList = [];
+                socialNearYoumarkerList = [];
+                break;
+            case 'STRENGTHENING_SERVICE':
+                strengtheningFamilymarkerList = [];
+                strengtheningNearYoumarkerList = [];
+                break;
+            case 'STUDENT_CARE_SERVICE':
+                studentCaremarkerList = [];
+            default:
+                break
+        }
+    }
+    function getNearYouMarketListByTypeService(typeService) {
+        switch (typeService) {
+            case 'FAMILY_SERVICE':
+                return familyNearYoumarkerList;
+            case 'SOCIAL_SERVICE':
+                return socialNearYoumarkerList;
+            case 'STRENGTHENING_SERVICE':
+                return strengtheningNearYoumarkerList;
+            default:
+                return null;
+        }
+        return markerList;
+    }
+    function getMapByTypeService(typeService) {
+        let map;
+        switch (typeService) {
+            case 'FAMILY_SERVICE':
+                map = familyServiceMap;
+                break;
+            case 'SOCIAL_SERVICE':
+                map = socialServiceMap;
+                break;
+            case 'STRENGTHENING_SERVICE':
+                map = strengtheningMap;
+                break;
+            case 'STUDENT_CARE_SERVICE':
+                map = studentCareMap;
+                break;
+            default:
+                break;
+        }
+        return map;
+    }
+    function getMarkerCentreType(typeService) {
+        let type = "";
+        switch (typeService) {
+            case "FAMILY_SERVICE":
+                type = "Family Service Centres";
+                break;
+            case "SOCIAL_SERVICE":
+                type = "Social Service Offices";
+                break;
+            default:
+                type = "FAM@FSC Programme Locations";
+                break;
+        }
+        return type;
+    }
+    // #endregion
+
+    // #region handle student care: distance
+    function changeDistanceHtmlAction(id, typeService) {
+        $(`#distanceWrapper_${typeService} .swiper-slide`).removeClass("active");
+        const selectedEle = $(`#distance_${typeService} #swiperSlide_${id}`);
+        selectedEle.addClass('active');
+    }
+    function changeDistance(id, typeService) {
+        changeDistanceHtmlAction(id, typeService);
+
+        filterAction(typeService, true);
+    }
+    function toggleDistance(id, isShow) {
+        const elementText = `#distanceWrapper_${id}`;
+        toggleSimple(elementText, isShow);
+    }
+    // #endregion
+
+    // #region get Element for render by typeService
+    function setOfficeServiceElement(typeService) {
+        let officeList, officeWrapper;
+        switch (typeService) {
+            case 'FAMILY_SERVICE':
+                officeList = document.getElementById("officesList_FAMILY_SERVICE");
+                officeList.innerHTML = "";
+                officeWrapper = document.getElementById("officeServing_FAMILY_SERVICE");
+                officeWrapper.style.display = "none";
+                break;
+            case 'SOCIAL_SERVICE':
+                officeList = document.getElementById("officesList_SOCIAL_SERVICE");
+                officeList.innerHTML = "";
+                officeWrapper = document.getElementById("officeServing_SOCIAL_SERVICE");
+                officeWrapper.style.display = "none";
+                break;
+            case 'STRENGTHENING_SERVICE':
+                officeList = document.getElementById("officesList_STRENGTHENING_SERVICE");
+                officeList.innerHTML = "";
+                officeWrapper = document.getElementById("officeServing_STRENGTHENING_SERVICE");
+                officeWrapper.style.display = "none";
+                break;
+            case 'STUDENT_CARE_SERVICE':
+                officeList = document.getElementById("officesList_STUDENT_CARE_SERVICE");
+                officeList.innerHTML = "";
+                officeWrapper = document.getElementById("officeServing_STUDENT_CARE_SERVICE");
+                officeWrapper.style.display = "none";
+                break;
+            default:
+                break;
+        }
+        return {
+            officesListEle: officeList,
+            officeServingYou: officeWrapper,
+        }
+    }
+    function setOfficeNearYouServiceElement(typeService) {
+        let officeList, officeWrapper;
+        switch (typeService) {
+            case 'FAMILY_SERVICE':
+                officeList = document.getElementById("officesNearYouList_FAMILY_SERVICE");
+                officeList.innerHTML = "";
+                officeWrapper = document.getElementById("officeNearYouServing_FAMILY_SERVICE");
+                officeWrapper.style.display = "none";
+                break;
+            case 'SOCIAL_SERVICE':
+                officeList = document.getElementById("officesNearYouList_SOCIAL_SERVICE");
+                officeList.innerHTML = "";
+                officeWrapper = document.getElementById("officeNearYouServing_SOCIAL_SERVICE");
+                officeWrapper.style.display = "none";
+                break;
+            case 'STRENGTHENING_SERVICE':
+                officeList = document.getElementById("officesNearYouList_STRENGTHENING_SERVICE");
+                officeList.innerHTML = "";
+                officeWrapper = document.getElementById("officeNearYouServing_STRENGTHENING_SERVICE");
+                officeWrapper.style.display = "none";
+                break;
+            default:
+                break;
+        }
+        return {
+            officesListEle: officeList,
+            officeServingYou: officeWrapper,
+        }
+    }
+    // #endregion
+
+    // #region render marker
+     function addMarker(marker, data, map) {
+        const updatedPopup = popupTemplate
+            .replace(/{POSTAL_CODE}/g, data.postalCode)
+            .replace('{MARKER_TYPE}', data.type)
+            .replace('{TITLE}', data.title)
+            .replace('{ADDRESS}', data.address)
+            .replace('{URL_MORE_DETAIL}', `uniqueOffice-${data.postalCode}`)
+            .replace('{BELONG_PAGE}', data.page)
+            .replace('{SERVICE_TYPE}', data.serviceType);
+        marker.bindPopup(updatedPopup, { maxWidth: 480 }).addTo(map);
+    }
+    function changeTab(type) {
+        //changeTabDot(type);
+        changeTabArrow(type);
+        // resize the map
+        setTimeout(() => {
+            switch (type) {
+                case 'FAMILY_SERVICE':
+                    familyServiceMap.invalidateSize();
+                    window.location.hash = 'familytab';
+                    break;
+                case 'SOCIAL_SERVICE':
+                    socialServiceMap.invalidateSize();
+                    window.location.hash = 'socialtab';
+                    break;
+                case 'STRENGTHENING_SERVICE':
+                    strengtheningMap.invalidateSize();
+                    window.location.hash = 'famtab';
+                    break;
+                case 'STUDENT_CARE_SERVICE':
+                    studentCareMap.invalidateSize();
+                    window.location.hash = 'studenttab';
+                    break;
+                case 'OTHER_SERVICE':
+                    window.location.hash = 'othertab';
+                    break;
+                default:
+                    break;
+            }
+        }, 300);
+    }
+    // #endregion
+
+    // #region render html marker
+    function renderMarker(markerData, officesListEle, typeService) {
+        let officeItem = officeInfoTemplate
+            .replace(/{OFFICE_ID}/g, markerData?.options?.postalCode)
+            .replace('{TITLE}', markerData?.options?.title)
+            .replace('{SERVICE_TYPE}', typeService);
+
+        const addr = markerData?.options?.address?.replace(/^\s+|\s+$/gm,'');
+        if (!!addr) {
+            officeItem = officeItem.replace('{DISPLAY_ADDRESS}', 'display-block');
+            officeItem = officeItem.replace('{ADDRESS}', addr);
+        } else {
+            officeItem = officeItem.replace('{DISPLAY_ADDRESS}', 'display-none');
+        }
+
+        const phoneNum = markerData?.options?.phone?.replace(/^\s+|\s+$/gm,'');
+        if (!!phoneNum) {
+            officeItem = officeItem.replace('{DISPLAY_PHONE}', 'display-block');
+            officeItem = officeItem.replace('{PHONE}', phoneNum);
+        } else {
+            officeItem = officeItem.replace('{DISPLAY_PHONE}', 'display-none');
+        }
+
+        const email = markerData?.options?.email?.replace(/^\s+|\s+$/gm,'');
+        if (!!email) {
+            officeItem = officeItem.replace('{DISPLAY_EMAIL}', 'display-block');
+            officeItem = officeItem.replace(/{EMAIL}/g, email);
+        } else {
+            officeItem = officeItem.replace('{DISPLAY_EMAIL}', 'display-none');
+        }
+
+        const link = markerData?.options?.hyperLink?.replace(/^\s+|\s+$/gm,'');
+        if (!!link) {
+            officeItem = officeItem.replace('{DISPLAY_WEBSITE}', 'display-block');
+            officeItem = officeItem.replace(/{WEBSITE}/g, link);
+        } else {
+            officeItem = officeItem.replace('{DISPLAY_WEBSITE}', 'display-none');
+        }
+
+        const fax = markerData?.options?.fax?.replace(/^\s+|\s+$/gm,'');
+        if (!!fax) {
+            officeItem = officeItem.replace('{DISPLAY_FAX}', 'display-block');
+            officeItem = officeItem.replace('{FAX_NUMBER}', fax);
+        } else {
+            officeItem = officeItem.replace('{DISPLAY_FAX}', 'display-none');
+        }
+
+        const hours = markerData?.options?.operatingHours?.replace(/^\s+|\s+$/gm,'');
+        if (!!hours) {
+            officeItem = officeItem.replace('{DISPLAY_OPERATING_HOURS}', 'display-block');
+            officeItem = officeItem.replace('{OPERATING_HOURS}', hours);
+        } else {
+            officeItem = officeItem.replace('{DISPLAY_OPERATING_HOURS}', 'display-none');
+        }
+
+        const scfaAdmin = markerData?.options?.scfaAdmin;
+        if (scfaAdmin === null || scfaAdmin === undefined) {
+            officeItem = officeItem.replace('{DISPLAY_SCFAADMIN}', 'display-none');
+        } else {
+            officeItem = officeItem.replace('{DISPLAY_SCFAADMIN}', 'display-block');
+            officeItem = officeItem.replace('{SCFAADMIN}', scfaAdmin);
+        }
+
+        const fee = markerData?.options?.monthlyFees?.replace(/^\s+|\s+$/gm,'');
+        if (!!fee) {
+            const feeNum = Number(fee);
+            const feeString = !feeNum ? fee : `$${feeNum.toFixed(2)}`;
+            officeItem = officeItem.replace('{DISPLAY_MONTHLYFEES}', 'display-block');
+            officeItem = officeItem.replace('{MONTHLYFEES}', feeString);
+        } else {
+            officeItem = officeItem.replace('{DISPLAY_MONTHLYFEES}', 'display-none');
+        }
+
+        const auditDate = markerData?.options?.dateOfAudit?.replace(/^\s+|\s+$/gm,'');
+        const auditStatus = markerData?.options?.auditStatus?.replace(/^\s+|\s+$/gm,'');
+        if (!!auditDate || !!auditStatus) {
+            officeItem = officeItem.replace('{DISPLAY_AUDITSTATUSWRAPPER}', 'display-block');
+        } else {
+            officeItem = officeItem.replace('{DISPLAY_AUDITSTATUSWRAPPER}', 'display-none');
+        }
+        if (!!auditDate) {
+            officeItem = officeItem.replace('{DISPLAY_DATEOFSTATUS}', 'display-block');
+            officeItem = officeItem.replace('{DATEOFSTATUS}', auditDate);
+        } else {
+            officeItem = officeItem.replace('{DISPLAY_DATEOFSTATUS}', 'display-none');
+        }
+        if (!!auditStatus) {
+            officeItem = officeItem.replace('{DISPLAY_AUDITSTATUS}', 'display-block');
+            officeItem = officeItem.replace('{AUDITSTATUS}', auditStatus);
+        } else {
+            officeItem = officeItem.replace('{DISPLAY_AUDITSTATUS}', 'display-none');
+        }
+
+        const latestQualityAuditHistory = markerData?.options?.latestQualityAuditHistory?.replace(/^\s+|\s+$/gm,'');
+        if (!!latestQualityAuditHistory) {
+            officeItem = officeItem.replace('{DISPLAY_AUDITHISTORYWRAPPER}', 'display-block');
+            officeItem = officeItem.replace('{DISPLAY_AUDITHISTORY}', 'display-block');
+            officeItem = officeItem.replace('{AUDITHISTORY}', latestQualityAuditHistory);
+        } else {
+            officeItem = officeItem.replace('{DISPLAY_AUDITHISTORYWRAPPER}', 'display-none');
+            officeItem = officeItem.replace('{DISPLAY_AUDITHISTORY}', 'display-none');
+        }
+
+        const footnote = markerData?.options?.footnote?.replace(/^\s+|\s+$/gm,'');
+        if (!!footnote) {
+            officeItem = officeItem.replace('{DISPLAY_FOOTNOTEWRAPPER}', 'display-block');
+            officeItem = officeItem.replace('{DISPLAY_FOOTNOTE}', 'display-block');
+            officeItem = officeItem.replace('{FOOTNOTE}', footnote);
+        } else {
+            officeItem = officeItem.replace('{DISPLAY_FOOTNOTEWRAPPER}', 'display-none');
+            officeItem = officeItem.replace('{DISPLAY_FOOTNOTE}', 'display-none');
+        }
+
+        const des = markerData?.options?.description?.replace(/^\s+|\s+$/gm,'');
+        if (!!des) {
+            if (typeService === "STRENGTHENING_SERVICE" || typeService === "STUDENT_CARE_SERVICE") {
+                officeItem = officeItem.replace('{DISPLAY_OTHER_INFO}', 'display-block');
+            } else {
+                officeItem = officeItem.replace('{DISPLAY_OTHER_INFO}', 'display-none');
+            }
+            officeItem = officeItem.replace('{OTHER_INFO}', des);
+        } else {
+            officeItem = officeItem.replace('{DISPLAY_OTHER_INFO}', 'display-none');
+        }
+        officesListEle.innerHTML += officeItem;
+    }
+    // #endregion
+
+    // #region button show/hide detail
+    function checkShowButtonMoreDetail(typeService) {
+        const listEle = $(`#officesList_${typeService} .content-wrapper`);
+        if (!listEle.length) return;
+        for (var i = 0; i < listEle.length; i++) {
+            const id = listEle[i]?.id;
+            const uniqueKey = id.replace("content_", "");
+            const heightShow = $(`#${id}`).innerHeight() + 3;
+            const heightOriginal = Math.round($(`#${id} .main-content`).innerHeight()) + 39;
+            const isDisplay = heightShow < heightOriginal;
+
+            $(`#uniqueOffice-${uniqueKey} .read-more`).removeClass(isDisplay ? "display-none" : "display-block");
+            $(`#uniqueOffice-${uniqueKey} .read-more`).addClass(isDisplay ? "display-block" : "display-none");
+        }
+    }
+    function toggleMoreLessAction(id, typeService, isForceShow = false, page, ) {
+        if (page > 0) {
+            if (currentPage !== page) changePage(page);
+        }
+        setTimeout(() => {
+            const defaultHeight = typeService === "STRENGTHENING_SERVICE" ? 187 : 185 + 3;
+            const heightShow = $(`#content_${id}`).innerHeight();
+
+            const heightOriginal = Math.round($(`#content_${id} .main-content`).innerHeight()) + 39;
+            const isShow = isForceShow ? true : heightShow < heightOriginal;
+
+            document.getElementById(`content_${id}`).style.height = isShow ? `${heightOriginal}px` : `${defaultHeight}px`;
+            const textEle = $(`#uniqueOffice-${id} .read-more .text`);
+            const arrowEle = $(`#uniqueOffice-${id} .read-more .arrow`);
+            if (isShow) {
+                if (!textEle.hasClass("show")) textEle.addClass("show");
+                if (!arrowEle.hasClass("show")) arrowEle.addClass("show");
+            } else {
+                textEle.removeClass("show");
+                arrowEle.removeClass("show");
+            }
+        }, 300);
+    }
+    // #endregion
+
+    // #region button show/hide near you
+    function officeNearYouAction(type, isSwitch) {
+        let isActive = $(`#flexSwitchCheckDefault_${type}`).is(":checked");
+        isActive = isSwitch ? !isActive : isActive;
+        $(`#flexSwitchCheckDefault_${type}`).prop('checked', isActive)
+        if (isActive) {
+            $(`#officeNearYou_${type} .switch-text.inactive`).addClass("display-none");
+            $(`#officeNearYou_${type} .switch-text.active`).removeClass("display-none");
+
+            showOfficesNearYou(type);
+        } else {
+            $(`#officeNearYou_${type} .switch-text.active`).addClass("display-none");
+            $(`#officeNearYou_${type} .switch-text.inactive`).removeClass("display-none");
+
+            hideOfficesNearYou(type)
+        }
+
+    }
+
+    function showOfficesNearYou(typeService) {
+        const map = getMapByTypeService(typeService);
+        const markerList = getNearYouMarketListByTypeService(typeService);
+        if (!markerList.length) return;
+
+        const element = setOfficeNearYouServiceElement(typeService);
+        const officesListEle = element.officesListEle;
+        const officeServingYou = element.officeServingYou;
+
+        markerList.forEach((item) => {
+            renderMarker(item, officesListEle, typeService);
+            addMarker(item, {
+                type: item?.options?.type,
+                title: item?.options?.title,
+                address: item?.options?.address,
+                postalCode: item?.options?.postalCode,
+                page: item?.options?.page || -1,
+                serviceType: typeService,
+            }, map);
+        });
+
+        officeServingYou.style.display = "block";
+    }
+
+    function hideOfficesNearYou(typeService) {
+        const map = getMapByTypeService(typeService);
+        const markerList = getNearYouMarketListByTypeService(typeService);
+        if (!markerList.length) return;
+
+        const element = setOfficeNearYouServiceElement(typeService);
+        const officesListEle = element.officesListEle;
+        const officeServingYou = element.officeServingYou;
+
+        markerList.forEach((item) => {
+            map.removeLayer(item);
+        });
+
+        officeServingYou.style.display = "none";
+    }
+    // #endregion
+
+    // #region filter action
+    function checkIsMobile() {
+        return $(window).width() < 769;
+    }
+    function updateAllTextBox(currentTypeService) {
+        const isMobile = checkIsMobile();
+        const searchText = isMobile
+            ? $(`#txtSearchPostalMobile_${currentTypeService}`).val()
+            : $(`#txtSearchPostal_${currentTypeService}`).val();
+        if (isMobile) $(`#txtSearchPostal_${currentTypeService}`).val(searchText)
+        else $(`#txtSearchPostalMobile_${currentTypeService}`).val(searchText)
+
+
+        let typeServiceList = ["FAMILY_SERVICE", "SOCIAL_SERVICE", "STRENGTHENING_SERVICE", "STUDENT_CARE_SERVICE"];
+        typeServiceList = typeServiceList.filter(x => x !== currentTypeService);
+        typeServiceList.forEach((item) => {
+            $(`#txtSearchPostalMobile_${item}`).val(searchText)
+            $(`#txtSearchPostal_${item}`).val(searchText);
+        });
+    }
+    function handleKeyPress(e, key) {
+        if (e.keyCode === 13) {
+            e.preventDefault();
+            filterAction(key);
+        }
+    }
+    function filterAction(typeService, isChangeDistance = false) {
+        setTimeout(() => {
+            isFilterByDistance = isChangeDistance;
+            toggleTriagle(typeService, false);
+            toggleMsgNoData(typeService, false);
+
+            const isMobile = checkIsMobile();
+
+            let filterType;
+            if (typeService !== 'STUDENT_CARE_SERVICE') {
+                filterType = "POSTAL";
+            } else {
+                filterType = isMobile
+                    ? $(`#filterTypePostalMobile_${typeService} li.active`).attr('data-value')
+                    : $(`#filterTypePostal_${typeService} li.active`).attr('data-value');
+
+                if (!isChangeDistance) {
+                    changeDistanceHtmlAction(4, 'STUDENT_CARE_SERVICE')
+                }
+                toggleDistance(typeService, false);
+            }
+
+            setOfficeServiceElement(typeService);
+            let markerList = getMarketListByTypeService(typeService);
+            let nearMarkerList = getNearYouMarketListByTypeService(typeService);
+
+
+            const searchValue = isMobile
+                ? $(`#txtSearchPostalMobile_${typeService}`).val()?.toLowerCase().replace(/^\s+|\s+$/gm,'')
+                : $(`#txtSearchPostal_${typeService}`).val()?.toLowerCase().replace(/^\s+|\s+$/gm,'');
+            const map = getMapByTypeService(typeService);
+            if (markerList.length > 0) {
+                markerList.forEach((item) => {
+                    map.removeLayer(item);
+                });
+            }
+            if (typeService !== "STUDENT_CARE_SERVICE" && nearMarkerList.length > 0) {
+                nearMarkerList.forEach((item) => {
+                    map.removeLayer(item);
+                });
+            }
+            clearMarket(typeService);
+
+            if (!searchValue) return;
+
+            const distance = typeService != "STUDENT_CARE_SERVICE"
+                ? 2
+                : $(`#distance_${typeService} .swiper-slide.active`).attr('data-distance');
+
+            switch (filterType) {
+                case 'POSTAL':
+                    callApiGetMarker(typeService, searchValue, distance);
+                    break;
+                case 'OFFICE_NAME':
+                    callApiFilterStudent(searchValue.toLowerCase().replace(/^\s+|\s+$/gm, ''), '', filterType);
+                    break;
+                case 'OFFICE_ADDRESS':
+                    callApiFilterStudent('', searchValue.toLowerCase().replace(/^\s+|\s+$/gm, ''), filterType);
+                    break;
+                default:
+                    break;
+            }
+        }, 300)
+    }
+    // #endregion
+
+    // #region call api
+    function callApiGetMarkerData(cmsFilter, postalCode, onemapApi, cmsFilterList, serviceMap, typeService) {
+        $.get(`${cmsFilter}?postalCode=${postalCode}`, function (resp) {
+            if (!resp?.length) {
+                toggleMsgNoData(typeService, true);
+                return;
+            }
+
+            let postalList = resp.map(x => x.ADDRESSPOSTALCODE);
+            callOnemapApiServiceGetFSC_SSC_Strethening(postalList, postalList, [], resp, onemapApi, cmsFilterList, serviceMap, typeService);
+        });
+    }
+    function callOnemapApiServiceGetFSC_SSC_Strethening(originalPostalList, postalList, markerList, resp, onemapApi, cmsFilterList, serviceMap, typeService) {
+        const token = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJlNTg1NTM3MzE2MmM5ZmQ0YzI0NDRlNjliMmJhOWE5YiIsImlzcyI6Imh0dHA6Ly9pbnRlcm5hbC1hbGItb20tcHJkZXppdC1pdC0xMjIzNjk4OTkyLmFwLXNvdXRoZWFzdC0xLmVsYi5hbWF6b25hd3MuY29tL2FwaS92Mi91c2VyL3Nlc3Npb24iLCJpYXQiOjE3MTE4Mzg4NzksImV4cCI6MTcxMjA5ODA3OSwibmJmIjoxNzExODM4ODc5LCJqdGkiOiJzbnZsaWZiQTcyT212dkJmIiwidXNlcl9pZCI6ODU4LCJmb3JldmVyIjpmYWxzZX0.dM1GUXBTEZWX_rgUm0xDNqX0lvv16G6WQNDEmi2fTPE';
+        if (!token) {
+            alert("Cannot get onemap api token!");
+            return;
+        }
+
+        return new Promise((resolve, reject) => {
+            let markerDataTemp = markerList;
+            const postal = postalList[0];
+            $.ajaxSetup({
+                headers: {
+                    'Authorization': `Bearer ${token}`
+                }
+            });
+            $.get(`${onemapApi}?postal=${postal}&distance=0`, function (data) {
+                postalList = postalList.filter(x => x !== postal);
+                if (!data?.SrchResults?.length) return;
+
+                const centre = data?.SrchResults.find(x => x.ADDRESSPOSTALCODE === postal || `0${x.ADDRESSPOSTALCODE}` === postal);
+                if (!!centre) {
+                    markerDataTemp.push(centre);
+                }
+                if (postalList.length === 0) {
+                    handleDataAfterCallApi(resp, serviceMap, typeService, false, markerDataTemp);
+
+                    const inputPostal = $(`#txtSearchPostal_${typeService}`).val();
+                    let markerNearYouTemp = [];
+                    $.ajaxSetup({
+                        headers: {
+                            'Authorization': `Bearer ${token}`
+                        }
+                    });
+                    $.get(`${onemapApi}?postal=${inputPostal}&distance=2`, function (nearData) {
+                        if (!nearData?.SrchResults?.length) return;
+
+                        for (var i = 0; i < nearData.SrchResults.length; i++) {
+                            const nearItem = nearData.SrchResults[i];
+                            const index = markerDataTemp.findIndex(x => x.ADDRESSPOSTALCODE === nearItem.ADDRESSPOSTALCODE || x.ADDRESSPOSTALCODE === `0${nearItem.ADDRESSPOSTALCODE}`);
+                            if (index > -1) continue;
+
+                            markerNearYouTemp.push(nearItem);
+                        }
+                        if (!!markerNearYouTemp.length) {
+                            const nearPostalCodes = markerNearYouTemp.map(x => x.ADDRESSPOSTALCODE).toString();
+                            $.get(`${cmsFilterList}?postalCodes=${nearPostalCodes}`, function (nearLocalData) {
+                                handleDataAfterCallApi(nearLocalData, serviceMap, typeService, true, markerNearYouTemp);
+                            }, "json")
+                            .fail(function (err) {
+                                //console.error(`Invalid postalcode: ${nearPostalCodes}`)
+                            });
+                        }
+                    }, "json")
+                    .fail(function (err) {
+                        //console.error(`Invalid postalcode: ${inputPostal}`)
+                    });
+                    resolve(markerDataTemp);
+                } else {
+                    callOnemapApiServiceGetFSC_SSC_Strethening(originalPostalList, postalList, markerDataTemp, resp, onemapApi, cmsFilterList, serviceMap, typeService);
+                }
+            }, "json")
+            .fail(function (err) {
+                //console.error(`Invalid postalcode: ${postal}`)
+                postalList = postalList.filter(x => x !== postal);
+                if (postalList.length === 0) {
+                    resolve(markerDataTemp)
+                } else {
+                    callOnemapApiServiceGetFSC_SSC_Strethening(originalPostalList, postalList, markerDataTemp, resp, onemapApi, cmsFilterList, serviceMap, typeService);
+                }
+            });
+        });
+    }
+    function callApiGetMarker(typeService, postalCode, distance) {
+        switch (typeService) {
+            case 'FAMILY_SERVICE':
+                const fscOnemapApi = "https://www.onemap.gov.sg/api/msf/getFamilyServices";
+                const fscCmsFilter = "/customapi/Dfcs/FilterDfcsFamily";
+                const fscCmsFilterList = "/customapi/Dfcs/FilterDfcsFamilyByListPostal";
+                callApiGetMarkerData(fscCmsFilter, postalCode, fscOnemapApi, fscCmsFilterList, familyServiceMap, 'FAMILY_SERVICE');
+                break;
+            case 'SOCIAL_SERVICE':
+                const sscOnemapApi = "https://www.onemap.gov.sg/api/msf/getSocialService";
+                const sscCmsFilter = "/customapi/Dfcs/FilterDfcsSocial";
+                const sscCmsFilterList = "/customapi/Dfcs/FilterDfcsSocialByListPostal";
+                callApiGetMarkerData(sscCmsFilter, postalCode, sscOnemapApi, sscCmsFilterList, socialServiceMap, 'SOCIAL_SERVICE');
+                break;
+            case 'STRENGTHENING_SERVICE':
+                const strengtheningOnemapApi = "https://www.onemap.gov.sg/api/msf/getStrengtheningFamiliesProgramme";
+                const strengtheningCmsFilter = "/customapi/Dfcs/FilterDfcsStrengthening";
+                const strengtheningCmsFilterList = "/customapi/Dfcs/FilterDfcsStrengtheningByListPostal";
+                callApiGetMarkerData(strengtheningCmsFilter, postalCode, strengtheningOnemapApi, strengtheningCmsFilterList, strengtheningMap, 'STRENGTHENING_SERVICE');
+                break;
+            case 'STUDENT_CARE_SERVICE':
+                const token = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJlNTg1NTM3MzE2MmM5ZmQ0YzI0NDRlNjliMmJhOWE5YiIsImlzcyI6Imh0dHA6Ly9pbnRlcm5hbC1hbGItb20tcHJkZXppdC1pdC0xMjIzNjk4OTkyLmFwLXNvdXRoZWFzdC0xLmVsYi5hbWF6b25hd3MuY29tL2FwaS92Mi91c2VyL3Nlc3Npb24iLCJpYXQiOjE3MTE4Mzg4NzksImV4cCI6MTcxMjA5ODA3OSwibmJmIjoxNzExODM4ODc5LCJqdGkiOiJzbnZsaWZiQTcyT212dkJmIiwidXNlcl9pZCI6ODU4LCJmb3JldmVyIjpmYWxzZX0.dM1GUXBTEZWX_rgUm0xDNqX0lvv16G6WQNDEmi2fTPE';
+                if (!token) {
+                    //console.error("Cannot get token!");
+                    return;
+                }
+
+                const studentCare = 'https://www.onemap.gov.sg/api/msf/getStudentCare';
+                $.ajaxSetup({
+                    headers: {
+                        'Authorization': `Bearer ${token}`
+                    }
+                });
+                $.get(`${studentCare}?postal=${postalCode}&distance=${distance}`, function (data) {
+                    let studentData = data?.SrchResults;
+                    studentData = studentData.filter(x => !!x.ADDRESSPOSTALCODE);
+                    $.get(`/customapi/Dfcs/GetAllDfcsStudent`, function (localData) {
+                        handleStudentForPostalCodeTypeAfterCallApi(localData, studentCareMap, studentData, postalCode);
+                    }, "json");
+                }, "json")
+                .fail(function (err) {
+                    if (err?.statusText === "error") {
+                        toggleMsgNoData('STUDENT_CARE_SERVICE', true);
+                    }
+                });
+                break;
+            default:
+                break;
+        }
+    }
+
+    function callApiFilterStudent(name, address, filterType) {
+        if (!name && !address) return;
+
+        let data = {
+            "name": name,
+            "address": address,
+        };
+        $.ajax({
+            url: "/customapi/Dfcs/FilterDfcsStudent",
+            method: "post",
+            data: data
+        }).done(function (resp) {
+
+            if (!resp?.length) {
+                toggleMsgNoData('STUDENT_CARE_SERVICE', true);
+                return;
+            }
+
+            let postalList = resp.map(x => x.ADDRESSPOSTALCODE);
+            callSSCOnemapApi(postalList, postalList, [], resp, filterType);
+        });
+    }
+
+    function callSSCOnemapApi(originalPostalList, postalList, markerList, resp, filterType) {
+        const token = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJlNTg1NTM3MzE2MmM5ZmQ0YzI0NDRlNjliMmJhOWE5YiIsImlzcyI6Imh0dHA6Ly9pbnRlcm5hbC1hbGItb20tcHJkZXppdC1pdC0xMjIzNjk4OTkyLmFwLXNvdXRoZWFzdC0xLmVsYi5hbWF6b25hd3MuY29tL2FwaS92Mi91c2VyL3Nlc3Npb24iLCJpYXQiOjE3MTE4Mzg4NzksImV4cCI6MTcxMjA5ODA3OSwibmJmIjoxNzExODM4ODc5LCJqdGkiOiJzbnZsaWZiQTcyT212dkJmIiwidXNlcl9pZCI6ODU4LCJmb3JldmVyIjpmYWxzZX0.dM1GUXBTEZWX_rgUm0xDNqX0lvv16G6WQNDEmi2fTPE';
+        if (!token) {
+            alert("Cannot get onemap api token!");
+            return;
+        }
+
+        return new Promise((resolve, reject) => {
+            let markerDataTemp = markerList;
+            const postal = postalList[0];
+            $.ajaxSetup({
+                headers: {
+                    'Authorization': `Bearer ${token}`
+                }
+            });
+            $.get(`https://www.onemap.gov.sg/api/msf/getStudentCare?postal=${postal}&distance=10`, function (data) {
+                postalList = postalList.filter(x => x !== postal);
+                if (!data?.SrchResults?.length) return;
+
+                for (var j = 0; j < data?.SrchResults?.length; j++) {
+                    const item = data?.SrchResults[j];
+
+                    const isExistCurrentPostal = postal === item.ADDRESSPOSTALCODE || postal === `0${item.ADDRESSPOSTALCODE}`;
+                    if (isExistCurrentPostal) {
+                        markerDataTemp.push(item);
+                        continue;
+                    }
+
+                    const existPostal = postalList.find(x => x === item.ADDRESSPOSTALCODE || x === `0${item.ADDRESSPOSTALCODE}`);
+                    if (!existPostal) continue;
+
+                    postalList = postalList.filter(x => x !== existPostal);
+                    markerDataTemp.push(item);
+                }
+                if (postalList.length === 0) {
+                    handleStudentDataAfterCallApi(resp, studentCareMap, markerDataTemp, filterType, '');
+                    resolve(markerDataTemp);
+                } else {
+                    callSSCOnemapApi(originalPostalList, postalList, markerDataTemp, resp, filterType);
+                }
+            }, "json")
+            .fail(function (err) {
+                postalList = postalList.filter(x => x !== postal);
+                if (postalList.length === 0) {
+                    resolve(markerDataTemp)
+                } else {
+                    callSSCOnemapApi(originalPostalList, postalList, markerDataTemp, resp, filterType);
+                }
+            });
+        });
+    }
+
+    // #endregion
+
+    // #region handle after call api
+    function handleDataAfterCallApi(localData, map, typeService, isNearYouService, onemapData) {
+        if (!localData?.length) {
+            if (isNearYouService) {
+                const serviceYouMarkerList = getMarketListByTypeService(typeService);
+                if (!serviceYouMarkerList?.length) toggleMsgNoData(typeService, true);
+            }
+            return;
+        }
+
+        const markerList = isNearYouService
+            ? getNearYouMarketListByTypeService(typeService) : getMarketListByTypeService(typeService);
+
+        const element = isNearYouService
+            ? setOfficeNearYouServiceElement(typeService) : setOfficeServiceElement(typeService);
+        const officesListEle = element.officesListEle;
+        const officeServingYou = element.officeServingYou;
+
+        let firstLat = '';
+        let firstLng = '';
+        let isSetLatLong = false;
+        const isShowNearYou = isNearYouService ? $(`#flexSwitchCheckDefault_${typeService}`).is(":checked") : false;
+        for (var i = 0; i < localData.length; i++) {
+            const result = localData[i];
+
+            const oneMapItem = onemapData.find(x => x.ADDRESSPOSTALCODE === result.ADDRESSPOSTALCODE || `0${x.ADDRESSPOSTALCODE}` === result.ADDRESSPOSTALCODE);
+            result.LatLng = oneMapItem?.LatLng;
+            if (!result.LatLng) continue;
+
+            const latLngList = result.LatLng.split(',');
+            const lat = parseFloat(latLngList[0]);
+            const lng = parseFloat(latLngList[1]);
+            if (!!lat && !!lng && !isSetLatLong) {
+                firstLat = lat;
+                firstLng = lng;
+                isSetLatLong = true;
+            }
+
+            const markerData = {
+                title: result.NAME || "",
+                type: getMarkerCentreType(typeService),
+                address: result.ADDRESS || "",
+                postalCode: result.ADDRESSPOSTALCODE || "",
+                description: result.DESCRIPTION || "",
+                email: result.EMAILADDRESS || "",
+                phone: result.NUMBER || "",
+                fax: result?.FAXNUMBER || "",
+                hyperLink: result.WEBSITEADDRESS || "",
+                operatingHours: result.OPERATINGHOURS || "",
+                icon: isNearYouService ? nearYoumarkerIcon : markerIcon,
+                alt: 'marker'
+            };
+            const marker = new L.marker([lat, lng], markerData);
+            if (!isNearYouService || (isNearYouService && isShowNearYou)) {
+                renderMarker(marker, officesListEle, typeService);
+                addMarker(marker, {
+                    type: marker?.options?.type,
+                    title: marker?.options?.title,
+                    address: marker?.options?.address,
+                    postalCode: marker?.options?.postalCode,
+                    page: marker?.options?.page || -1,
+                    serviceType: typeService,
+                }, map);
+            }
+            markerList.push(marker);
+        }
+
+        if (!isNearYouService && !!firstLat && !!firstLng) {
+            map.flyTo([firstLat, firstLng]);
+        }
+        if (!isNearYouService || (isNearYouService && isShowNearYou)) {
+            officeServingYou.style.display = "block";
+            checkShowButtonMoreDetail(typeService);
+        }
+
+        // show triangle
+        toggleTriagle(typeService, true);
+    }
+
+    function handleStudentForPostalCodeTypeAfterCallApi(localData, map, onemapData, originalPostalCode) {
+        const typeService = "STUDENT_CARE_SERVICE"
+
+        if (onemapData?.length === 0) {
+            toggleMsgNoData(typeService, true);
+            if (isFilterByDistance) toggleDistance(typeService, true);
+            return;
+        }
+
+        const markerList = studentCaremarkerList;
+        const element = setOfficeServiceElement(typeService);
+        const officesListEle = element.officesListEle;
+        const officeServingYou = element.officeServingYou;
+
+        let originalMarker = onemapData.find(x => x.ADDRESSPOSTALCODE === originalPostalCode || `0${x.ADDRESSPOSTALCODE}` === originalPostalCode);
+        if (!originalMarker) {
+            const sortOnemapData = onemapData.sort((a, b) => (a.NAME > b.NAME) ? 1 : ((b.NAME > a.NAME) ? -1 : 0));
+            for (var i = 0; i < sortOnemapData.length; i++) {
+                if (!sortOnemapData[i]?.LatLng) continue;
+
+                originalMarker = sortOnemapData[i];
+                break;
+            }
+        }
+        const originalLatLngList = originalMarker?.LatLng.split(',');
+        const originalLat = parseFloat(originalLatLngList?.[0] || 0);
+        const originalLng = parseFloat(originalLatLngList?.[1] || 0);
+
+        let markerListTemp = [];
+        for (var i = 0; i < onemapData.length; i++) {
+            const result = onemapData[i];
+
+            if (!result?.LatLng) continue;
+            const currentLatLngList = result.LatLng.split(',');
+            const currentLat = parseFloat(currentLatLngList?.[0] || 0);
+            const currentLng = parseFloat(currentLatLngList?.[1] || 0);
+
+            const currentLocalData = localData.find(x => x.ADDRESSPOSTALCODE === result.ADDRESSPOSTALCODE || x.ADDRESSPOSTALCODE === `0${result.ADDRESSPOSTALCODE}`);
+            const markerData = {
+                lat: currentLat,
+                lng: currentLng,
+                distance: calDistance(originalLat, originalLng, currentLat, currentLng, "K"),
+                title: currentLocalData ? currentLocalData.NAME || "" : result.NAME || "",
+                type: "Student Care Centres",
+                address: currentLocalData ? currentLocalData.ADDRESS || "" : result.ADDRESSSTREETNAME || "",
+                postalCode: result.ADDRESSPOSTALCODE || "",
+                description: currentLocalData ? currentLocalData.DESCRIPTION || "" : result.DESCRIPTION || "",
+                email: currentLocalData ? currentLocalData.EMAILADDRESS || "" : "",
+                phone: currentLocalData ? currentLocalData.NUMBER || "" : result.TELEPHONE || "",
+                fax: currentLocalData ? currentLocalData.FAXNUMBER || "" : "",
+                hyperLink: currentLocalData ? currentLocalData.WEBSITEADDRESS || "" : "",
+                operatingHours: currentLocalData ? currentLocalData?.OPERATINGHOURS || "" : "",
+                scfaAdmin: currentLocalData ? currentLocalData?.STUDENTCAREFEEASSISTANCEADMINISTRATOR || false : null,
+                monthlyFees: currentLocalData ? currentLocalData?.MONTHLYFEES || "": "",
+                dateOfAudit: currentLocalData ? currentLocalData?.DATEOFAUDIT || "" : "",
+                auditStatus: currentLocalData ? currentLocalData?.AUDITSTATUS || "" : "",
+                latestQualityAuditHistory: currentLocalData ? currentLocalData?.LATESTQUALITYAUDITHISTORY || "" : "",
+                footnote: currentLocalData ? currentLocalData?.FOOTNOTE || "": "",
+                icon: markerIcon,
+                alt: 'marker'
+            };
+            markerListTemp.push(markerData);
+        }
+        if (!markerListTemp?.length) {
+            toggleMsgNoData(typeService, true);
+            if (isFilterByDistance) toggleDistance(typeService, true);
+            return;
+        }
+
+        const currentmarkerListData = markerListTemp.sort((a, b) => a.distance - b.distance);
+        for (var i = 0; i < currentmarkerListData.length; i++) {
+            const markerData = currentmarkerListData[i];
+            // after sort, set page for each marker for click view more
+            markerData.page = calcPageForItem(i);
+            const marker = new L.marker([markerData.lat, markerData.lng], markerData);
+            addMarker(marker, {
+                type: marker?.options?.type,
+                title: marker?.options?.title,
+                address: marker?.options?.address,
+                postalCode: marker?.options?.postalCode,
+                page: marker?.options?.page || -1,
+            }, map);
+            markerList.push(marker);
+        }
+        changePage();
+
+        if (!!originalLat && !!originalLng) {
+            map.flyTo([originalLat, originalLng]);
+        }
+
+        officeServingYou.style.display = "block";
+        checkShowButtonMoreDetail(typeService);
+
+        toggleTriagle(typeService, true);
+        toggleDistance(typeService, true);
+    }
+
+    function handleStudentDataAfterCallApi(localData, map, onemapData, filterType, originalPostalCode) {
+        const typeService = "STUDENT_CARE_SERVICE"
+
+        if (localData?.length === 0) {
+            toggleMsgNoData(typeService, true);
+            if (isFilterByDistance) toggleDistance(typeService, true);
+            return;
+        }
+
+        const markerList = studentCaremarkerList;
+        const element = setOfficeServiceElement(typeService);
+        const officesListEle = element.officesListEle;
+        const officeServingYou = element.officeServingYou;
+
+        // #region calculate original lat/long
+        let firstLat = '';
+        let firstLng = '';
+        for (var i = 0; i < localData.length; i++) {
+            const result = localData[i];
+
+            const oneMapItem = onemapData.find(x => x.ADDRESSPOSTALCODE === result.ADDRESSPOSTALCODE || `0${x.ADDRESSPOSTALCODE}` === result.ADDRESSPOSTALCODE);
+            if (!oneMapItem?.LatLng) continue;
+
+            const latLngList = oneMapItem.LatLng.split(',');
+            const lat = parseFloat(latLngList[0]);
+            const lng = parseFloat(latLngList[1]);
+            if (!!lat && !!lng) {
+                firstLat = lat;
+                firstLng = lng;
+                break;
+            }
+        }
+
+        let originalLat = firstLat;
+        let originalLng = firstLng;
+        if (filterType === 'POSTAL' && !!originalPostalCode) {
+            const originalMarker = onemapData.find(x => x.ADDRESSPOSTALCODE === originalPostalCode || `0${x.ADDRESSPOSTALCODE}` === originalPostalCode);
+            const originalLatLngList = originalMarker?.LatLng.split(',');
+            const latTemp = parseFloat(originalLatLngList?.[0] || 0);
+            const lngTemp = parseFloat(originalLatLngList?.[1] || 0);
+            if (!!latTemp) originalLat = latTemp;
+            if (!!lngTemp) originalLng = lngTemp;
+        }
+        // #endregion
+
+        // #region generate markerData list
+        let markerListTemp = [];
+        for (var i = 0; i < localData.length; i++) {
+            const result = localData[i];
+
+            const currentOneMapItem = onemapData.find(x => x.ADDRESSPOSTALCODE === result.ADDRESSPOSTALCODE || `0${x.ADDRESSPOSTALCODE}` === result.ADDRESSPOSTALCODE);
+            if (!currentOneMapItem?.LatLng) continue;
+            const currentLatLngList = currentOneMapItem.LatLng.split(',');
+            const currentLat = parseFloat(currentLatLngList?.[0] || 0);
+            const currentLng = parseFloat(currentLatLngList?.[1] || 0);
+
+            const markerData = {
+                lat: currentLat,
+                lng: currentLng,
+                distance: calDistance(originalLat, originalLng, currentLat, currentLng, "K"),
+                title: result.NAME || "",
+                type: "Student Care Centres",
+                address: result.ADDRESS || "",
+                postalCode: result.ADDRESSPOSTALCODE || "",
+                description: result.DESCRIPTION || "",
+                email: result.EMAILADDRESS || "",
+                phone: result.NUMBER || "",
+                fax: result?.FAXNUMBER || "",
+                hyperLink: result.WEBSITEADDRESS || "",
+                operatingHours: result?.OPERATINGHOURS || "",
+                scfaAdmin: result?.STUDENTCAREFEEASSISTANCEADMINISTRATOR || false,
+                monthlyFees: result?.MONTHLYFEES || "",
+                dateOfAudit: result?.DATEOFAUDIT || "",
+                auditStatus: result?.AUDITSTATUS || "",
+                latestQualityAuditHistory: result?.LATESTQUALITYAUDITHISTORY || "",
+                footnote: result?.FOOTNOTE || "",
+                icon: markerIcon,
+                alt: 'marker'
+            };
+            markerListTemp.push(markerData);
+        }
+        if (!markerListTemp?.length) {
+            toggleMsgNoData(typeService, true);
+            if (isFilterByDistance) toggleDistance(typeService, true);
+            return;
+        }
+        // #endregion
+
+        let currentmarkerListData;
+        if (filterType === 'POSTAL') {
+            // sort descending so (a-b)
+            currentmarkerListData = markerListTemp.sort((a, b) => a.distance - b.distance);
+        } else {
+            currentmarkerListData = markerListTemp;
+        }
+
+        for (var i = 0; i < currentmarkerListData.length; i++) {
+            const markerData = currentmarkerListData[i];
+            // after sort, set page for each marker for click view more
+            markerData.page = calcPageForItem(i);
+            const marker = new L.marker([markerData.lat, markerData.lng], markerData);
+            addMarker(marker, {
+                type: marker?.options?.type,
+                title: marker?.options?.title,
+                address: marker?.options?.address,
+                postalCode: marker?.options?.postalCode,
+                page: marker?.options?.page || -1,
+            }, map);
+            markerList.push(marker);
+        }
+        changePage();
+
+        if (!!originalLat && !!originalLng) {
+            map.flyTo([originalLat, originalLng]);
+        }
+
+        officeServingYou.style.display = "block";
+        checkShowButtonMoreDetail(typeService);
+
+        toggleTriagle(typeService, true);
+        if (filterType === 'POSTAL') {
+            toggleDistance(typeService, true);
+        }
+    }
+    // #endregion
+
+    // #region PAGNATION
+    function calcPageForItem(index) {
+        const pageTmp = Math.floor(index / itemPerPage);
+        return pageTmp + 1;
+    }
+    function previousAction() {
+        changePage(currentPage - 1);
+    }
+    function nextAction() {
+        changePage(currentPage + 1);
+    }
+    function changePage(page) {
+        currentPage = page ? page : 1;
+        const startIndex = (currentPage - 1) * itemPerPage;
+        const endIndex = startIndex + itemPerPage;
+
+        const currentTypeService = $("#scroller .nav-link.active").data("key");
+        const currentMarkerList = getMarketListByTypeService(currentTypeService);
+
+        const element = setOfficeServiceElement(currentTypeService);
+        const officesListEle = element.officesListEle;
+        const officeServingYou = element.officeServingYou;
+
+        for (var i = startIndex; i < endIndex; i++) {
+            if (i === currentMarkerList.length) break;
+
+            renderMarker(currentMarkerList[i], officesListEle, currentTypeService);
+        }
+        officeServingYou.style.display = "block";
+        checkShowButtonMoreDetail(currentTypeService);
+        generatePanation(currentMarkerList, currentTypeService);
+    }
+
+    function generatePanation(data, typeService) {
+        const totalPage = Math.ceil(data.length / itemPerPage);
+
+        const pageQuantityShow = 3;
+        let pageNumberHtml = "";
+
+        let startPage;
+        if (currentPage === 1 || totalPage < pageQuantityShow + 1) {
+            startPage = 1;
+        } else if (currentPage === totalPage) {
+            startPage = currentPage - (pageQuantityShow - 1);
+        } else if (currentPage - 1 >= 1) {
+            startPage = currentPage - 1;
+        }
+
+        if (startPage > 2) {
+            pageNumberHtml += templatePagnation
+                .replace('PARAM_ACTIVE_PAGE', '')
+                .replace('PARAM_PAGE_CHANGE', 1)
+                .replace('PARAM_PAGE_NUMBER', 1);
+        }
+        if (startPage > 1) {
+            pageNumberHtml += threeDotText;
+        }
+
+        const endPage = startPage + (pageQuantityShow - 1) >= totalPage ? totalPage : startPage + (pageQuantityShow - 1);
+        for (var i = startPage; i <= endPage; i++) {
+            pageNumberHtml += templatePagnation
+                .replace('PARAM_ACTIVE_PAGE', i === currentPage ? 'active' : '')
+                .replace('PARAM_PAGE_CHANGE', i)
+                .replace('PARAM_PAGE_NUMBER', i);
+        }
+        if (totalPage > endPage + 1) {
+            pageNumberHtml += threeDotText;
+        }
+        if (totalPage > endPage) {
+            pageNumberHtml += templatePagnation
+                .replace('PARAM_ACTIVE_PAGE', '')
+                .replace('PARAM_PAGE_CHANGE', totalPage)
+                .replace('PARAM_PAGE_NUMBER', totalPage);
+        }
+
+        let previousHtml = templatePrevious.replace('PARAM_PREVIOUS_DISABLE', currentPage === 1 ? 'disabled' : '');
+        let nexthtml = templateNext.replace('PARAM_NEXT_DISABLE', currentPage === totalPage ? 'disabled' : '');
+
+        document.getElementById(`pagnationUl_${typeService}`).innerHTML = "";
+        document.getElementById(`pagnationUl_${typeService}`).innerHTML = previousHtml + pageNumberHtml + nexthtml;
+    }
+    // #endregion
+</script>
+
+    </div>
+</div> <div class="sharethis-inline-share-buttons"></div> 
+
+
+<footer class="sgds footer">
+    <section class="footer-top">
+        <div class="container-fluid">
+            <div class="row footer-header">
+                <div class="footer-title">
+                    Ministry of Social and Family Development
+                </div>
+            </div>
+
+            <div class="row footer-contact-links">
+                <div class="col-sm-12">
+                    <div class="d-flex flex-column flex-lg-row gap-20 gap-lg-0 justify-content-lg-end">
+                        <div class="d-flex justify-content-lg-end">
+                            <ul class="d-flex flex-column flex-lg-row gap-lg-40 contact-links">
+                                        <li><a class="" href="/contact-us-feedback" aria-label="Contact Us / Feedback">Contact Us / Feedback</a></li>
+                                        <li><a class="not-first-page" href="/faqs" aria-label="FAQs">FAQs</a></li>
+                            </ul>
+                        </div>
+                        <div class="d-flex align-items-lg-center justify-content-lg-end">
+                            <ul class="d-flex social-links">
+                                <li>
+                                    <a href="https://www.facebook.com/MSFSingapore/" aria-label="facebook">
+                                        <em class="fa-brands fa-square-facebook"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/msfcares/" aria-label="instagram">
+                                        <em class="fa-brands fa-instagram"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://t.me/msfcares" aria-label="telegram">
+                                        <em class="fa-brands fa-telegram"></em>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="footer-bottom">
+        <div class="container-fluid">
+            <hr class="footer-divider">
+            <div class="row footer-mandatory-links">
+                <div class="col-12 col-lg-8 col-xl-9">
+                    <ul class="footer-nav-list">
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links " href="/report-vulnerability" rel="noopener" aria-label="Report Vulnerability
+
+">Report Vulnerability
+
+</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/privacy-statement" rel="noopener" aria-label="Privacy Statement">Privacy Statement</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/terms-of-use" rel="noopener" aria-label="Terms of Use&nbsp;">Terms of Use&nbsp;</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/sitemap" rel="noopener" aria-label="Sitemap">Sitemap</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/accessibility-statement" rel="noopener" aria-label="Accessibility Statement">Accessibility Statement</a>
+                                </li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg footer-copyrights">
+                    <div class="d-flex justify-content-lg-end text-lg-end">
+                        © 2024 Government of Singapore<br>
+                        Last updated 27 Mar 2024
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+
+
+ <div class="accessibility-sidebar"> <div class="btn-group-vertical btn-group-sm" role="group" aria-label="Accessibility Sidebar"> <button type="button" class="btn btn-accessibility btn-notice" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Show/Hide Notice" data-bs-original-title="Show/Hide Notice"> <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10 0C8.02219 0 6.08879 0.58649 4.4443 1.6853C2.79981 2.78412 1.51809 4.3459 0.761209 6.17317C0.00433284 8.00043 -0.193701 10.0111 0.192152 11.9509C0.578004 13.8907 1.53041 15.6725 2.92894 17.0711C4.32746 18.4696 6.10929 19.422 8.0491 19.8079C9.98891 20.1937 11.9996 19.9957 13.8268 19.2388C15.6541 18.4819 17.2159 17.2002 18.3147 15.5557C19.4135 13.9112 20 11.9778 20 10C20 8.68678 19.7413 7.38642 19.2388 6.17317C18.7363 4.95991 17.9997 3.85752 17.0711 2.92893C16.1425 2.00035 15.0401 1.26375 13.8268 0.761205C12.6136 0.258658 11.3132 0 10 0ZM10 18C8.41775 18 6.87104 17.5308 5.55544 16.6518C4.23985 15.7727 3.21447 14.5233 2.60897 13.0615C2.00347 11.5997 1.84504 9.99113 2.15372 8.43928C2.4624 6.88743 3.22433 5.46197 4.34315 4.34315C5.46197 3.22433 6.88743 2.4624 8.43928 2.15372C9.99113 1.84504 11.5997 2.00346 13.0615 2.60896C14.5233 3.21447 15.7727 4.23984 16.6518 5.55544C17.5308 6.87103 18 8.41775 18 10C18 12.1217 17.1572 14.1566 15.6569 15.6569C14.1566 17.1571 12.1217 18 10 18Z"></path> <path d="M10 7C10.5523 7 11 6.55228 11 6C11 5.44772 10.5523 5 10 5C9.44772 5 9 5.44772 9 6C9 6.55228 9.44772 7 10 7Z"></path> <path d="M10 8C9.73478 8 9.48043 8.10536 9.29289 8.29289C9.10536 8.48043 9 8.73478 9 9V14C9 14.2652 9.10536 14.5196 9.29289 14.7071C9.48043 14.8946 9.73478 15 10 15C10.2652 15 10.5196 14.8946 10.7071 14.7071C10.8946 14.5196 11 14.2652 11 14V9C11 8.73478 10.8946 8.48043 10.7071 8.29289C10.5196 8.10536 10.2652 8 10 8Z"></path> </svg> </button> <button type="button" class="btn btn-accessibility btn-font-bigger" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Increase Font Size" data-bs-original-title="Increase Font Size">
+                    A+
+                </button> <button type="button" class="btn btn-accessibility btn-font-smaller" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Decrease Font Size" data-bs-original-title="Decrease Font Size">
+                    A−
+                </button> <button type="button" class="btn btn-accessibility btn-contrast" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Toggle Colour Contrast" data-bs-original-title="Toggle Colour Contrast"> <em class="fa-solid fa-circle-half-stroke"></em> </button> </div> </div> <div class="back-to-top"> <button class="btn-back-top" aria-label="back to top"> <svg width="16" height="8" viewBox="0 0 16 8" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4826 7.76568C14.8297 8.07811 15.3925 8.07811 15.7396 7.76568C16.0868 7.45326 16.0868 6.94673 15.7396 6.63432L8.62853 0.23424C8.2814 -0.0780799 7.71859 -0.0780799 7.37146 0.23424L0.260266 6.63432C-0.0867557 6.94673 -0.0867557 7.45326 0.260266 7.76567C0.607466 8.07811 1.17031 8.07811 1.51751 7.76567L8 3L14.4826 7.76568Z"></path> </svg> <span>Top</span> </button> </div> <script src="/ResourcePackages/Msf/assets/js/jquery.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/jquery-ui.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/swiper-bundle.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/bootstrap.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/default-passive-events.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/search-result.js" type="text/javascript"></script> <script src="https://assets.wogaa.sg/scripts/wogaa.js"></script> <script type="text/javascript" src="/ResourcePackages/Msf/assets/js/sharethis.js#property=648140a26773dd0012e17a9b&amp;product=inline-share-buttons&amp;source=platform" async="async"></script> <script>
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window, document, 'script', 'dataLayer', 'G-7WBNTH91BT');
+            </script> <!-- Global site tag (gtag.js) - Google Analytics --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7WBNTH91BT"></script> <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-7WBNTH91BT');
+            </script> <script type="module" src="https://cdn.jsdelivr.net/npm/@govtechsg/sgds-web-component/Masthead/index.js"></script> <script src="/ResourcePackages/Msf/assets/js/main.min.js" type="text/javascript"></script>  
+<div id="st-2" class=" st-sticky-share-buttons st-left st-toggleable st-has-labels "><div class="st-btn st-first" data-network="facebook" style="display: inline-block;">
+  <img alt="facebook sharing button" src="https://platform-cdn.sharethis.com/img/facebook.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="linkedin" style="display: inline-block;">
+  <img alt="linkedin sharing button" src="https://platform-cdn.sharethis.com/img/linkedin.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="gmail" style="display: inline-block;">
+  <img alt="gmail sharing button" src="https://platform-cdn.sharethis.com/img/gmail.svg">
+  <span class="st-label">Email</span>
+</div><div class="st-btn st-last" data-network="copy" style="display: inline-block;">
+  <img alt="copy sharing button" src="https://platform-cdn.sharethis.com/img/copy.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-toggle">
+  <div class="st-left">
+    <img alt="arrow_left sharing button" src="https://platform-cdn.sharethis.com/img/arrow_left.svg">
+  </div>
+  <div class="st-right">
+    <img alt="arrow_right sharing button" src="https://platform-cdn.sharethis.com/img/arrow_right.svg">
+  </div>
+</div></div><wog-sentiments class="needsclick hydrated"></wog-sentiments></body></html>

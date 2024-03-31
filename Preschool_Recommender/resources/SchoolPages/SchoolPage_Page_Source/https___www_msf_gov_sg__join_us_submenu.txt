@@ -42,7 +42,7 @@ function lateLoadChatFile() {
 	ele.append("Ask MSF <span style='font-size: 14px !important;position: relative;top: -9px;left: 5px;font-weight: lighter;'>beta</span>");
   }
 })();
-</script><link rel="canonical" href="http://www.msf.gov.sg"><meta name="description" content="Ministry of Social and Family Development. Nurturing and building lives together. Explore topics such as financial assistance and parenting resources"><meta name="keywords" content="Financial Assistance, LPA, Domestic Violence"><script async="" src="https://assets.wogaa.sg/scripts/wogaa.js?url=https%3A%2F%2Fwww.msf.gov.sg%2F"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="module" src="https://assets.wogaa.sg/sentiments/sentiments.esm.js" async=""></script><script nomodule="" src="https://assets.wogaa.sg/sentiments/sentiments.js" async=""></script><style type="text/css">#st-2 {
+</script><link rel="canonical" href="http://www.msf.gov.sg"><meta name="description" content="Ministry of Social and Family Development. Nurturing and building lives together. Explore topics such as financial assistance and parenting resources"><meta name="keywords" content="Financial Assistance, LPA, Domestic Violence"><script async="" src="https://assets.wogaa.sg/scripts/wogaa.js?url=https%3A%2F%2Fwww.msf.gov.sg%2F%23who-we-are-submenu"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style type="text/css">#st-2 {
   font-family: "Helvetica Neue", Verdana, Helvetica, Arial, sans-serif;;
   -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
   backface-visibility: hidden;
@@ -312,7 +312,7 @@ border-radius: 0 !important;
   color: #333};
 }#st-2 .st-btn[data-network='copy']:hover {
   width: max-content;
-}</style><style data-styled="" data-styled-version="4.4.1"></style><style type="text/css">.transform-component-module_wrapper__7HFJe {
+}</style><script type="module" src="https://assets.wogaa.sg/sentiments/sentiments.esm.js" async=""></script><script nomodule="" src="https://assets.wogaa.sg/sentiments/sentiments.js" async=""></script><style data-styled="" data-styled-version="4.4.1"></style><style type="text/css">.transform-component-module_wrapper__7HFJe {
   position: relative;
   width: -moz-fit-content;
   width: fit-content;
@@ -1251,15 +1251,15 @@ border-radius: 0 !important;
         <div class="row">
             <div class="swiper quotes-swiper swiper-fade swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
                 <div class="quotes-swiper-buttons" style="top: calc(314.312px + 1.25rem); left: 50%;">
-                    <div class="swiper-button-prev quotes-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-013c94a273c295b8" aria-disabled="true">
+                    <div class="swiper-button-prev quotes-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-5ae44a9610dfeee3a" aria-disabled="true">
                         <em class="fa-solid fa-chevron-left"></em>
                     </div>
                     <div class="quotes-pagination swiper-pagination-fraction swiper-pagination-horizontal"><span class="swiper-pagination-current">1</span> / <span class="swiper-pagination-total">5</span></div>
-                    <div class="swiper-button-next quotes-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-013c94a273c295b8" aria-disabled="false">
+                    <div class="swiper-button-next quotes-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-5ae44a9610dfeee3a" aria-disabled="false">
                         <em class="fa-solid fa-chevron-right"></em>
                     </div>
                 </div>
-                <div class="swiper-wrapper" id="swiper-wrapper-013c94a273c295b8" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-5ae44a9610dfeee3a" aria-live="polite">
                         <div class="swiper-slide swiper-slide-visible swiper-slide-active" role="group" aria-label="1 / 5" style="width: 763px; opacity: 1; transform: translate3d(0px, 0px, 0px);">
                             <div class="col-12 col-lg-7 img-circle-container">
                                 <img src="/ResourcePackages/Msf/assets/img/quotes/quotes-bg.png" alt="quotes-bg-1" class="quotes-bg" width="730" height="522" title="quote background">
@@ -1383,7 +1383,7 @@ KidSTART specialises in supporting families in early childhood development. The 
         <div class="container-fluid">
                 <h2 class="h1">Announcements</h2>
             <div class="row ratio-16x9">
-                <div class="swiper optional-video-swiper optional-video-swiper-3adf6d44-fbbe-450b-8c66-c741cb35a9b9 swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
+                <div class="swiper optional-video-swiper optional-video-swiper-2452979a-94a5-4098-8d20-c6da81833626 swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
                     <div class="optional-video-swiper-buttons">
                         <div class="swiper-button-prev optional-video-buttons">
                             <em class="fa-solid fa-chevron-left"></em>
@@ -1394,7 +1394,7 @@ KidSTART specialises in supporting families in early childhood development. The 
                         <div class="optional-video-pagination swiper-pagination-fraction swiper-pagination-horizontal"><span class="swiper-pagination-current">1</span> / <span class="swiper-pagination-total">8</span></div>
                     </div>
 
-                    <div class="swiper-wrapper" id="swiper-wrapper-0386ba2524c2e2910" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                    <div class="swiper-wrapper" id="swiper-wrapper-6471a9821043de4f0" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
                             <div class="swiper-slide optional-video-slide swiper-slide-active" role="group" aria-label="1 / 8" style="width: 763px; margin-right: 10px;">
                                 <div class="col-12 col-lg-11 col-xl">
                                     <div class="card">
@@ -1831,7 +1831,7 @@ KidSTART specialises in supporting families in early childhood development. The 
                     </div>
 
                 <div class="swiper explore-msf-swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-free-mode swiper-backface-hidden">
-                    <div class="swiper-wrapper" id="swiper-wrapper-545d31032658e81084" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                    <div class="swiper-wrapper" id="swiper-wrapper-9fc2a943923898eb" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
                             <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 5" style="width: 512.667px; margin-right: 28px;">
                                 <div class="card">
                                         <div class="card-img-top">

@@ -1,0 +1,2886 @@
+<html lang="en" class="hydrated"><head> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>
+	MSF | Media Room
+</title> <link rel="icon" type="image/png" href="/ResourcePackages/Msf/assets/img/favIco.png"> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&amp;family=Open+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet">  <link href="/ResourcePackages/Msf/assets/css/sgds.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap-icons.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/all.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/sf-bootstrap-conflict.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/jquery-ui.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/swiper-bundle.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/search-result.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/main.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/custom-style.min.css" rel="stylesheet"> <meta property="og:title" content="MSF | Media Room"><meta property="og:url" content="https://www.msf.gov.sg/media-room"><meta property="og:type" content="website"><meta property="og:site_name" content="Ministry of Social and Family Development"><script async="" src="https://buttons-config.sharethis.com/js/648140a26773dd0012e17a9b.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=G-7WBNTH91BT"></script><script async="" src="https://assets.wogaa.sg/snowplow/3.13.1/sp.js"></script><script type="text/javascript">
+function lateLoadChatFile() {      
+  setTimeout(() => {        
+              const bodyTag = document.getElementsByTagName("body")[0];      
+             // Create link element to import chat.css file and append it on the body element        
+             let linkTag = document.createElement("link");
+  linkTag.href = "https://webchat.vica.gov.sg/static/css/chat.css";         linkTag.type = "text/css";
+  linkTag.rel = "stylesheet";       
+  linkTag.referrerPolicy = "origin";      
+  bodyTag.appendChild(linkTag);        
+  // Create script element to import chat.js file and append it on the body element       
+  let scriptTag = document.createElement("script");         scriptTag.src = "https://webchat.vica.gov.sg/static/js/chat.js";         scriptTag.type = "text/javascript";      
+  scriptTag.referrerPolicy = "origin";         
+  scriptTag.defer = true;         
+  bodyTag.appendChild(scriptTag);      
+}, 5000);  
+}
+</script><script type="text/javascript">
+(function() {
+  // add beta text 
+  let timerId = setInterval(function(){
+	if(!document.getElementsByClassName("sc-htpNat")[0]) return;
+	
+	clearInterval(timerId);
+	document.getElementsByClassName("sc-htpNat")[0].addEventListener("click", changeText);
+	document.getElementsByClassName("sc-EHOje")[0].addEventListener("click", changeText);
+  }, 5000);
+  function changeText() {
+	const ele = $("#webchat-container p:contains('Ask MSF')");
+	ele.html("");
+	ele.append("Ask MSF <span style='font-size: 14px !important;position: relative;top: -9px;left: 5px;font-weight: lighter;'>beta</span>");
+  }
+})();
+</script><link rel="canonical" href="https://www.msf.gov.sg/media-room"><script async="" src="https://assets.wogaa.sg/scripts/wogaa.js?url=https%3A%2F%2Fwww.msf.gov.sg%2Fmedia-room%23who-we-are-submenu"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style type="text/css">#st-2 {
+  font-family: "Helvetica Neue", Verdana, Helvetica, Arial, sans-serif;;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  backface-visibility: hidden;
+  display: block;
+  position: fixed;
+  opacity: 1;
+  text-align: left;
+  top: 310px;
+  z-index: 94034;
+}
+#st-2.st-left {
+  left: 0px;
+}
+#st-2.st-hidden.st-left {
+  left: -48px;
+}
+#st-2.st-hidden {
+  width: 96px;
+}
+#st-2.st-preview {
+  display: none!important;
+  opacity: 0!important;
+}
+#st-2 > div {
+  clear: left;
+  float: left;
+}
+#st-2 .st-btn {
+  -moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  height: 48px;
+  line-height: 24px;
+  margin-bottom: 0;
+  opacity: 1;
+  overflow: hidden;
+  padding: 12px;
+  position: relative;
+  text-align: left;
+  top: 0;
+  vertical-align: top;
+  white-space: nowrap;
+  width: 48px;
+}
+#st-2 .st-btn.st-first {
+  border-top: none;
+  border-top-right-radius: 4px;
+}
+#st-2 .st-btn.st-last {
+  border-bottom: none;
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn > svg {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > img {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > span {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  color: #fff;
+  display: inline-block;
+  font-weight: 500;
+  left: -35px;
+  letter-spacing: 0.5px;
+  opacity: 0;
+  padding: 0 6px;
+  position: relative;
+  vertical-align: top;
+  filter: alpha(opacity=0);
+}
+#st-2 .st-btn.st-hide-label > span {
+  display: none !important;
+}
+#st-2 .st-total {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #fff;
+  color: #555;
+  display: inline-block;
+  font-weight: 500;
+  line-height: 18px;
+  margin-right: 0;
+  min-height: 34px;
+  max-width: 80px;
+  opacity: 1;
+  padding: 4px 0;
+  text-align: center;
+  width: 48px;
+}
+#st-2 .st-total.st-hidden {
+  display: none;
+}
+#st-2 .st-total > span {
+  display: block;
+  font-size: 18px;
+  line-height: 21px;
+  padding: 0;
+}
+#st-2 .st-total > span.st-shares {
+  font-size: 11px;
+  line-height: 11px;
+}
+#st-2 .st-toggle {
+  left: -48px;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #ccc;
+  border-bottom-right-radius: 4px;
+  color: white;
+  cursor: pointer;
+  font-size: 24px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: 48px;
+}
+#st-2.st-hidden .st-toggle {
+  border-top-right-radius: 4px;
+}
+#st-2.st-left .st-toggle .st-left {
+  display: inline-block;
+}
+#st-2.st-left.st-hidden .st-toggle .st-left {
+  display: none;
+}
+#st-2.st-left .st-toggle .st-right {
+  display: none;
+}
+#st-2.st-left.st-hidden .st-toggle .st-right {
+  display: inline-block;
+}#st-2:hover .st-toggle {
+  left: 0;
+}
+#st-2.st-hidden:hover .st-toggle {
+  left: 48px;
+}
+#st-2.st-toggleable:hover .st-btn.st-last {
+  border-bottom-right-radius: 0;
+}
+#st-2.st-toggleable:hover .st-btn.st-last:hover {
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn:hover {
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+}
+#st-2.st-has-labels .st-btn:hover {
+  width: 120px;
+}
+#st-2:not(.st-has-labels) .st-btn:hover {
+  width: 62px;
+}
+#st-2 .st-btn.st-hide-label:hover {
+  width: 62px;
+}
+#st-2 .st-btn:hover > svg {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > img {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > span {
+  opacity: 1;
+  display: inline-block;
+  left: 0;
+  filter: alpha(opacity=100);
+}
+@media (max-width: 1024px) {
+  #st-2 .st-btn:hover > svg {
+    margin-left: 0;
+  }
+  #st-2 .st-btn:hover > span {
+    display: none;
+  }
+}@media (max-width: 1024px) {
+  #st-2 {
+  bottom: 0;
+  display: none;
+  left: 0;
+  right: 0;
+  top: auto;
+  width: 100%;
+}
+#st-2.st-hidden {
+  bottom: -48px;
+  width: 100%;
+}
+#st-2.st-hidden.st-left {
+  left: 0;
+}
+#st-2.st-hidden.st-right {
+  right: 0;
+}
+#st-2 > div {
+  -moz-flex: 1;
+  -ms-flex: 1;
+  -webkit-flex: 1;
+  clear: none;
+  flex: 1;
+  float: none;
+}
+#st-2 .st-total {
+  background: #fff;
+  padding: 6px 8px;
+}
+#st-2 .st-btn {
+  -moz-border-radius: 0 !important;
+-webkit-border-radius: 0 !important;
+border-radius: 0 !important;
+  text-align: center;
+  width: auto;
+}
+#st-2 .st-btn > span {
+  display: none;
+}
+#st-2 .st-toggle {
+  display: none;
+}
+}#st-2 .st-btn[data-network='facebook'] {
+  background-color: #4267B2
+}
+#st-2 .st-btn[data-network='facebook'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='facebook'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='linkedin'] {
+  background-color: #0077b5
+}
+#st-2 .st-btn[data-network='linkedin'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='linkedin'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='gmail'] {
+  background-color: #D44638
+}
+#st-2 .st-btn[data-network='gmail'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='gmail'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='copy'] {
+  background-color: #14682B
+}
+#st-2 .st-btn[data-network='copy'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='copy'] > span {
+  color: #fff
+}#st-2 .st-btn[data-network='snapchat'] > span {
+  color: #333};
+}#st-2 .st-btn[data-network='copy']:hover {
+  width: max-content;
+}</style><script type="module" src="https://assets.wogaa.sg/sentiments/sentiments.esm.js" async=""></script><script nomodule="" src="https://assets.wogaa.sg/sentiments/sentiments.js" async=""></script><style data-styled="" data-styled-version="4.4.1"></style><style type="text/css">.transform-component-module_wrapper__7HFJe {
+  position: relative;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  overflow: hidden;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none;
+  margin: 0;
+  padding: 0;
+}
+.transform-component-module_content__uCDPE {
+  display: flex;
+  flex-wrap: wrap;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  margin: 0;
+  padding: 0;
+  transform-origin: 0% 0%;
+}
+.transform-component-module_content__uCDPE img {
+  pointer-events: none;
+}
+</style><style data-jss="" data-meta="MuiSvgIcon">
+.webchat-MuiSvgIcon-root {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+.webchat-MuiSvgIcon-colorPrimary {
+  color: #3f51b5;
+}
+.webchat-MuiSvgIcon-colorSecondary {
+  color: #f50057;
+}
+.webchat-MuiSvgIcon-colorAction {
+  color: rgba(0, 0, 0, 0.54);
+}
+.webchat-MuiSvgIcon-colorError {
+  color: #f44336;
+}
+.webchat-MuiSvgIcon-colorDisabled {
+  color: rgba(0, 0, 0, 0.26);
+}
+.webchat-MuiSvgIcon-fontSizeInherit {
+  font-size: inherit;
+}
+.webchat-MuiSvgIcon-fontSizeSmall {
+  font-size: 1.25rem;
+}
+.webchat-MuiSvgIcon-fontSizeLarge {
+  font-size: 2.1875rem;
+}
+</style><style data-jss="" data-meta="MuiGrid">
+.webchat-MuiGrid-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+.webchat-MuiGrid-item {
+  margin: 0;
+  box-sizing: border-box;
+}
+.webchat-MuiGrid-zeroMinWidth {
+  min-width: 0;
+}
+.webchat-MuiGrid-direction-xs-column {
+  flex-direction: column;
+}
+.webchat-MuiGrid-direction-xs-column-reverse {
+  flex-direction: column-reverse;
+}
+.webchat-MuiGrid-direction-xs-row-reverse {
+  flex-direction: row-reverse;
+}
+.webchat-MuiGrid-wrap-xs-nowrap {
+  flex-wrap: nowrap;
+}
+.webchat-MuiGrid-wrap-xs-wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+.webchat-MuiGrid-align-items-xs-center {
+  align-items: center;
+}
+.webchat-MuiGrid-align-items-xs-flex-start {
+  align-items: flex-start;
+}
+.webchat-MuiGrid-align-items-xs-flex-end {
+  align-items: flex-end;
+}
+.webchat-MuiGrid-align-items-xs-baseline {
+  align-items: baseline;
+}
+.webchat-MuiGrid-align-content-xs-center {
+  align-content: center;
+}
+.webchat-MuiGrid-align-content-xs-flex-start {
+  align-content: flex-start;
+}
+.webchat-MuiGrid-align-content-xs-flex-end {
+  align-content: flex-end;
+}
+.webchat-MuiGrid-align-content-xs-space-between {
+  align-content: space-between;
+}
+.webchat-MuiGrid-align-content-xs-space-around {
+  align-content: space-around;
+}
+.webchat-MuiGrid-justify-content-xs-center {
+  justify-content: center;
+}
+.webchat-MuiGrid-justify-content-xs-flex-end {
+  justify-content: flex-end;
+}
+.webchat-MuiGrid-justify-content-xs-space-between {
+  justify-content: space-between;
+}
+.webchat-MuiGrid-justify-content-xs-space-around {
+  justify-content: space-around;
+}
+.webchat-MuiGrid-justify-content-xs-space-evenly {
+  justify-content: space-evenly;
+}
+.webchat-MuiGrid-spacing-xs-1 {
+  width: calc(100% + 8px);
+  margin: -4px;
+}
+.webchat-MuiGrid-spacing-xs-1 > .webchat-MuiGrid-item {
+  padding: 4px;
+}
+.webchat-MuiGrid-spacing-xs-2 {
+  width: calc(100% + 16px);
+  margin: -8px;
+}
+.webchat-MuiGrid-spacing-xs-2 > .webchat-MuiGrid-item {
+  padding: 8px;
+}
+.webchat-MuiGrid-spacing-xs-3 {
+  width: calc(100% + 24px);
+  margin: -12px;
+}
+.webchat-MuiGrid-spacing-xs-3 > .webchat-MuiGrid-item {
+  padding: 12px;
+}
+.webchat-MuiGrid-spacing-xs-4 {
+  width: calc(100% + 32px);
+  margin: -16px;
+}
+.webchat-MuiGrid-spacing-xs-4 > .webchat-MuiGrid-item {
+  padding: 16px;
+}
+.webchat-MuiGrid-spacing-xs-5 {
+  width: calc(100% + 40px);
+  margin: -20px;
+}
+.webchat-MuiGrid-spacing-xs-5 > .webchat-MuiGrid-item {
+  padding: 20px;
+}
+.webchat-MuiGrid-spacing-xs-6 {
+  width: calc(100% + 48px);
+  margin: -24px;
+}
+.webchat-MuiGrid-spacing-xs-6 > .webchat-MuiGrid-item {
+  padding: 24px;
+}
+.webchat-MuiGrid-spacing-xs-7 {
+  width: calc(100% + 56px);
+  margin: -28px;
+}
+.webchat-MuiGrid-spacing-xs-7 > .webchat-MuiGrid-item {
+  padding: 28px;
+}
+.webchat-MuiGrid-spacing-xs-8 {
+  width: calc(100% + 64px);
+  margin: -32px;
+}
+.webchat-MuiGrid-spacing-xs-8 > .webchat-MuiGrid-item {
+  padding: 32px;
+}
+.webchat-MuiGrid-spacing-xs-9 {
+  width: calc(100% + 72px);
+  margin: -36px;
+}
+.webchat-MuiGrid-spacing-xs-9 > .webchat-MuiGrid-item {
+  padding: 36px;
+}
+.webchat-MuiGrid-spacing-xs-10 {
+  width: calc(100% + 80px);
+  margin: -40px;
+}
+.webchat-MuiGrid-spacing-xs-10 > .webchat-MuiGrid-item {
+  padding: 40px;
+}
+.webchat-MuiGrid-grid-xs-auto {
+  flex-grow: 0;
+  max-width: none;
+  flex-basis: auto;
+}
+.webchat-MuiGrid-grid-xs-true {
+  flex-grow: 1;
+  max-width: 100%;
+  flex-basis: 0;
+}
+.webchat-MuiGrid-grid-xs-1 {
+  flex-grow: 0;
+  max-width: 8.333333%;
+  flex-basis: 8.333333%;
+}
+.webchat-MuiGrid-grid-xs-2 {
+  flex-grow: 0;
+  max-width: 16.666667%;
+  flex-basis: 16.666667%;
+}
+.webchat-MuiGrid-grid-xs-3 {
+  flex-grow: 0;
+  max-width: 25%;
+  flex-basis: 25%;
+}
+.webchat-MuiGrid-grid-xs-4 {
+  flex-grow: 0;
+  max-width: 33.333333%;
+  flex-basis: 33.333333%;
+}
+.webchat-MuiGrid-grid-xs-5 {
+  flex-grow: 0;
+  max-width: 41.666667%;
+  flex-basis: 41.666667%;
+}
+.webchat-MuiGrid-grid-xs-6 {
+  flex-grow: 0;
+  max-width: 50%;
+  flex-basis: 50%;
+}
+.webchat-MuiGrid-grid-xs-7 {
+  flex-grow: 0;
+  max-width: 58.333333%;
+  flex-basis: 58.333333%;
+}
+.webchat-MuiGrid-grid-xs-8 {
+  flex-grow: 0;
+  max-width: 66.666667%;
+  flex-basis: 66.666667%;
+}
+.webchat-MuiGrid-grid-xs-9 {
+  flex-grow: 0;
+  max-width: 75%;
+  flex-basis: 75%;
+}
+.webchat-MuiGrid-grid-xs-10 {
+  flex-grow: 0;
+  max-width: 83.333333%;
+  flex-basis: 83.333333%;
+}
+.webchat-MuiGrid-grid-xs-11 {
+  flex-grow: 0;
+  max-width: 91.666667%;
+  flex-basis: 91.666667%;
+}
+.webchat-MuiGrid-grid-xs-12 {
+  flex-grow: 0;
+  max-width: 100%;
+  flex-basis: 100%;
+}
+@media (min-width:600px) {
+  .webchat-MuiGrid-grid-sm-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .webchat-MuiGrid-grid-sm-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .webchat-MuiGrid-grid-sm-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .webchat-MuiGrid-grid-sm-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .webchat-MuiGrid-grid-sm-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .webchat-MuiGrid-grid-sm-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .webchat-MuiGrid-grid-sm-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .webchat-MuiGrid-grid-sm-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .webchat-MuiGrid-grid-sm-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .webchat-MuiGrid-grid-sm-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .webchat-MuiGrid-grid-sm-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .webchat-MuiGrid-grid-sm-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .webchat-MuiGrid-grid-sm-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .webchat-MuiGrid-grid-sm-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:960px) {
+  .webchat-MuiGrid-grid-md-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .webchat-MuiGrid-grid-md-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .webchat-MuiGrid-grid-md-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .webchat-MuiGrid-grid-md-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .webchat-MuiGrid-grid-md-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .webchat-MuiGrid-grid-md-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .webchat-MuiGrid-grid-md-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .webchat-MuiGrid-grid-md-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .webchat-MuiGrid-grid-md-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .webchat-MuiGrid-grid-md-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .webchat-MuiGrid-grid-md-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .webchat-MuiGrid-grid-md-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .webchat-MuiGrid-grid-md-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .webchat-MuiGrid-grid-md-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1280px) {
+  .webchat-MuiGrid-grid-lg-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .webchat-MuiGrid-grid-lg-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .webchat-MuiGrid-grid-lg-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .webchat-MuiGrid-grid-lg-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .webchat-MuiGrid-grid-lg-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .webchat-MuiGrid-grid-lg-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .webchat-MuiGrid-grid-lg-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .webchat-MuiGrid-grid-lg-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .webchat-MuiGrid-grid-lg-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .webchat-MuiGrid-grid-lg-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .webchat-MuiGrid-grid-lg-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .webchat-MuiGrid-grid-lg-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .webchat-MuiGrid-grid-lg-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .webchat-MuiGrid-grid-lg-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1920px) {
+  .webchat-MuiGrid-grid-xl-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .webchat-MuiGrid-grid-xl-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .webchat-MuiGrid-grid-xl-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .webchat-MuiGrid-grid-xl-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .webchat-MuiGrid-grid-xl-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .webchat-MuiGrid-grid-xl-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .webchat-MuiGrid-grid-xl-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .webchat-MuiGrid-grid-xl-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .webchat-MuiGrid-grid-xl-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .webchat-MuiGrid-grid-xl-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .webchat-MuiGrid-grid-xl-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .webchat-MuiGrid-grid-xl-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .webchat-MuiGrid-grid-xl-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .webchat-MuiGrid-grid-xl-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+</style><style data-jss="" data-meta="MuiTypography">
+.webchat-MuiTypography-root {
+  margin: 0;
+}
+.webchat-MuiTypography-body2 {
+  font-size: 0.875rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.43;
+  letter-spacing: 0.01071em;
+}
+.webchat-MuiTypography-body1 {
+  font-size: 1rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.00938em;
+}
+.webchat-MuiTypography-caption {
+  font-size: 0.75rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.66;
+  letter-spacing: 0.03333em;
+}
+.webchat-MuiTypography-button {
+  font-size: 0.875rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  line-height: 1.75;
+  letter-spacing: 0.02857em;
+  text-transform: uppercase;
+}
+.webchat-MuiTypography-h1 {
+  font-size: 6rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 300;
+  line-height: 1.167;
+  letter-spacing: -0.01562em;
+}
+.webchat-MuiTypography-h2 {
+  font-size: 3.75rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 300;
+  line-height: 1.2;
+  letter-spacing: -0.00833em;
+}
+.webchat-MuiTypography-h3 {
+  font-size: 3rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.167;
+  letter-spacing: 0em;
+}
+.webchat-MuiTypography-h4 {
+  font-size: 2.125rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.235;
+  letter-spacing: 0.00735em;
+}
+.webchat-MuiTypography-h5 {
+  font-size: 1.5rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.334;
+  letter-spacing: 0em;
+}
+.webchat-MuiTypography-h6 {
+  font-size: 1.25rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  line-height: 1.6;
+  letter-spacing: 0.0075em;
+}
+.webchat-MuiTypography-subtitle1 {
+  font-size: 1rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.00938em;
+}
+.webchat-MuiTypography-subtitle2 {
+  font-size: 0.875rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  line-height: 1.57;
+  letter-spacing: 0.00714em;
+}
+.webchat-MuiTypography-overline {
+  font-size: 0.75rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 2.66;
+  letter-spacing: 0.08333em;
+  text-transform: uppercase;
+}
+.webchat-MuiTypography-srOnly {
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+}
+.webchat-MuiTypography-alignLeft {
+  text-align: left;
+}
+.webchat-MuiTypography-alignCenter {
+  text-align: center;
+}
+.webchat-MuiTypography-alignRight {
+  text-align: right;
+}
+.webchat-MuiTypography-alignJustify {
+  text-align: justify;
+}
+.webchat-MuiTypography-noWrap {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.webchat-MuiTypography-gutterBottom {
+  margin-bottom: 0.35em;
+}
+.webchat-MuiTypography-paragraph {
+  margin-bottom: 16px;
+}
+.webchat-MuiTypography-colorInherit {
+  color: inherit;
+}
+.webchat-MuiTypography-colorPrimary {
+  color: #3f51b5;
+}
+.webchat-MuiTypography-colorSecondary {
+  color: #f50057;
+}
+.webchat-MuiTypography-colorTextPrimary {
+  color: rgba(0, 0, 0, 0.87);
+}
+.webchat-MuiTypography-colorTextSecondary {
+  color: rgba(0, 0, 0, 0.54);
+}
+.webchat-MuiTypography-colorError {
+  color: #f44336;
+}
+.webchat-MuiTypography-displayInline {
+  display: inline;
+}
+.webchat-MuiTypography-displayBlock {
+  display: block;
+}
+</style><style data-jss="" data-meta="MuiBox">
+
+</style><style data-jss="" data-meta="MuiBox">
+</style><style data-jss="" data-meta="MuiBox">
+</style><style data-jss="" data-meta="MuiTouchRipple">
+.webchat-MuiTouchRipple-root {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  overflow: hidden;
+  position: absolute;
+  border-radius: inherit;
+  pointer-events: none;
+}
+.webchat-MuiTouchRipple-ripple {
+  opacity: 0;
+  position: absolute;
+}
+.webchat-MuiTouchRipple-rippleVisible {
+  opacity: 0.3;
+  animation: webchat-MuiTouchRipple-keyframes-enter 550ms cubic-bezier(0.4, 0, 0.2, 1);
+  transform: scale(1);
+}
+.webchat-MuiTouchRipple-ripplePulsate {
+  animation-duration: 200ms;
+}
+.webchat-MuiTouchRipple-child {
+  width: 100%;
+  height: 100%;
+  display: block;
+  opacity: 1;
+  border-radius: 50%;
+  background-color: currentColor;
+}
+.webchat-MuiTouchRipple-childLeaving {
+  opacity: 0;
+  animation: webchat-MuiTouchRipple-keyframes-exit 550ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.webchat-MuiTouchRipple-childPulsate {
+  top: 0;
+  left: 0;
+  position: absolute;
+  animation: webchat-MuiTouchRipple-keyframes-pulsate 2500ms cubic-bezier(0.4, 0, 0.2, 1) 200ms infinite;
+}
+@-webkit-keyframes webchat-MuiTouchRipple-keyframes-enter {
+  0% {
+    opacity: 0.1;
+    transform: scale(0);
+  }
+  100% {
+    opacity: 0.3;
+    transform: scale(1);
+  }
+}
+@-webkit-keyframes webchat-MuiTouchRipple-keyframes-exit {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@-webkit-keyframes webchat-MuiTouchRipple-keyframes-pulsate {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.92);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+</style><style data-jss="" data-meta="MuiButtonBase">
+.webchat-MuiButtonBase-root {
+  color: inherit;
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  display: inline-flex;
+  outline: 0;
+  padding: 0;
+  position: relative;
+  align-items: center;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+  -moz-appearance: none;
+  justify-content: center;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.webchat-MuiButtonBase-root::-moz-focus-inner {
+  border-style: none;
+}
+.webchat-MuiButtonBase-root.Mui-disabled {
+  cursor: default;
+  pointer-events: none;
+}
+@media print {
+  .webchat-MuiButtonBase-root {
+    -webkit-print-color-adjust: exact;
+  }
+}
+</style><style data-jss="" data-meta="MuiButton">
+.webchat-MuiButton-root {
+  color: rgba(0, 0, 0, 0.87);
+  padding: 6px 16px;
+  font-size: 0.875rem;
+  min-width: 64px;
+  box-sizing: border-box;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  line-height: 1.75;
+  border-radius: 4px;
+  letter-spacing: 0.02857em;
+  text-transform: uppercase;
+}
+.webchat-MuiButton-root:hover {
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+.webchat-MuiButton-root.Mui-disabled {
+  color: rgba(0, 0, 0, 0.26);
+}
+@media (hover: none) {
+  .webchat-MuiButton-root:hover {
+    background-color: transparent;
+  }
+}
+.webchat-MuiButton-root:hover.Mui-disabled {
+  background-color: transparent;
+}
+.webchat-MuiButton-label {
+  width: 100%;
+  display: inherit;
+  align-items: inherit;
+  justify-content: inherit;
+}
+.webchat-MuiButton-text {
+  padding: 6px 8px;
+}
+.webchat-MuiButton-textPrimary {
+  color: #3f51b5;
+}
+.webchat-MuiButton-textPrimary:hover {
+  background-color: rgba(63, 81, 181, 0.04);
+}
+@media (hover: none) {
+  .webchat-MuiButton-textPrimary:hover {
+    background-color: transparent;
+  }
+}
+.webchat-MuiButton-textSecondary {
+  color: #f50057;
+}
+.webchat-MuiButton-textSecondary:hover {
+  background-color: rgba(245, 0, 87, 0.04);
+}
+@media (hover: none) {
+  .webchat-MuiButton-textSecondary:hover {
+    background-color: transparent;
+  }
+}
+.webchat-MuiButton-outlined {
+  border: 1px solid rgba(0, 0, 0, 0.23);
+  padding: 5px 15px;
+}
+.webchat-MuiButton-outlined.Mui-disabled {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+.webchat-MuiButton-outlinedPrimary {
+  color: #3f51b5;
+  border: 1px solid rgba(63, 81, 181, 0.5);
+}
+.webchat-MuiButton-outlinedPrimary:hover {
+  border: 1px solid #3f51b5;
+  background-color: rgba(63, 81, 181, 0.04);
+}
+@media (hover: none) {
+  .webchat-MuiButton-outlinedPrimary:hover {
+    background-color: transparent;
+  }
+}
+.webchat-MuiButton-outlinedSecondary {
+  color: #f50057;
+  border: 1px solid rgba(245, 0, 87, 0.5);
+}
+.webchat-MuiButton-outlinedSecondary:hover {
+  border: 1px solid #f50057;
+  background-color: rgba(245, 0, 87, 0.04);
+}
+.webchat-MuiButton-outlinedSecondary.Mui-disabled {
+  border: 1px solid rgba(0, 0, 0, 0.26);
+}
+@media (hover: none) {
+  .webchat-MuiButton-outlinedSecondary:hover {
+    background-color: transparent;
+  }
+}
+.webchat-MuiButton-contained {
+  color: rgba(0, 0, 0, 0.87);
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+  background-color: #e0e0e0;
+}
+.webchat-MuiButton-contained:hover {
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+  background-color: #d5d5d5;
+}
+.webchat-MuiButton-contained.Mui-focusVisible {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+.webchat-MuiButton-contained:active {
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+.webchat-MuiButton-contained.Mui-disabled {
+  color: rgba(0, 0, 0, 0.26);
+  box-shadow: none;
+  background-color: rgba(0, 0, 0, 0.12);
+}
+@media (hover: none) {
+  .webchat-MuiButton-contained:hover {
+    box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+    background-color: #e0e0e0;
+  }
+}
+.webchat-MuiButton-contained:hover.Mui-disabled {
+  background-color: rgba(0, 0, 0, 0.12);
+}
+.webchat-MuiButton-containedPrimary {
+  color: #fff;
+  background-color: #3f51b5;
+}
+.webchat-MuiButton-containedPrimary:hover {
+  background-color: #303f9f;
+}
+@media (hover: none) {
+  .webchat-MuiButton-containedPrimary:hover {
+    background-color: #3f51b5;
+  }
+}
+.webchat-MuiButton-containedSecondary {
+  color: #fff;
+  background-color: #f50057;
+}
+.webchat-MuiButton-containedSecondary:hover {
+  background-color: #c51162;
+}
+@media (hover: none) {
+  .webchat-MuiButton-containedSecondary:hover {
+    background-color: #f50057;
+  }
+}
+.webchat-MuiButton-disableElevation {
+  box-shadow: none;
+}
+.webchat-MuiButton-disableElevation:hover {
+  box-shadow: none;
+}
+.webchat-MuiButton-disableElevation.Mui-focusVisible {
+  box-shadow: none;
+}
+.webchat-MuiButton-disableElevation:active {
+  box-shadow: none;
+}
+.webchat-MuiButton-disableElevation.Mui-disabled {
+  box-shadow: none;
+}
+.webchat-MuiButton-colorInherit {
+  color: inherit;
+  border-color: currentColor;
+}
+.webchat-MuiButton-textSizeSmall {
+  padding: 4px 5px;
+  font-size: 0.8125rem;
+}
+.webchat-MuiButton-textSizeLarge {
+  padding: 8px 11px;
+  font-size: 0.9375rem;
+}
+.webchat-MuiButton-outlinedSizeSmall {
+  padding: 3px 9px;
+  font-size: 0.8125rem;
+}
+.webchat-MuiButton-outlinedSizeLarge {
+  padding: 7px 21px;
+  font-size: 0.9375rem;
+}
+.webchat-MuiButton-containedSizeSmall {
+  padding: 4px 10px;
+  font-size: 0.8125rem;
+}
+.webchat-MuiButton-containedSizeLarge {
+  padding: 8px 22px;
+  font-size: 0.9375rem;
+}
+.webchat-MuiButton-fullWidth {
+  width: 100%;
+}
+.webchat-MuiButton-startIcon {
+  display: inherit;
+  margin-left: -4px;
+  margin-right: 8px;
+}
+.webchat-MuiButton-startIcon.webchat-MuiButton-iconSizeSmall {
+  margin-left: -2px;
+}
+.webchat-MuiButton-endIcon {
+  display: inherit;
+  margin-left: 8px;
+  margin-right: -4px;
+}
+.webchat-MuiButton-endIcon.webchat-MuiButton-iconSizeSmall {
+  margin-right: -2px;
+}
+.webchat-MuiButton-iconSizeSmall > *:first-child {
+  font-size: 18px;
+}
+.webchat-MuiButton-iconSizeMedium > *:first-child {
+  font-size: 20px;
+}
+.webchat-MuiButton-iconSizeLarge > *:first-child {
+  font-size: 22px;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss1 {
+  padding-bottom: 16px;
+}
+.webchat-jss2 {
+  font-weight: bold;
+}
+.webchat-jss3 {
+  padding: 8px;
+  text-align: center;
+}
+.webchat-jss4 {
+  color: rgba(52, 52, 52, 0.8);
+}
+.webchat-jss5 {
+  color: #FFF;
+  padding: 8px 135px !important;
+  border-radius: 5px !important;
+  margin-bottom: 10px;
+}
+.webchat-jss6 {
+  color: #000000 !important;
+  border: 1px solid rgba(52, 52, 52, 0.8);
+  padding: 7px 135px !important;
+  margin-left: 0px !important;
+  border-radius: 5px !important;
+}
+.webchat-jss7 {
+  display: grid !important;
+}
+</style><style data-jss="" data-meta="makeStyles">
+</style><style data-jss="" data-meta="MuiDialogActions">
+.webchat-MuiDialogActions-root {
+  flex: 0 0 auto;
+  display: flex;
+  padding: 8px;
+  align-items: center;
+  justify-content: flex-end;
+}
+.webchat-MuiDialogActions-spacing > :not(:first-child) {
+  margin-left: 8px;
+}
+</style><style data-jss="" data-meta="MuiDialogContent">
+.webchat-MuiDialogContent-root {
+  flex: 1 1 auto;
+  padding: 8px 24px;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.webchat-MuiDialogContent-root:first-child {
+  padding-top: 20px;
+}
+.webchat-MuiDialogContent-dividers {
+  padding: 16px 24px;
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+</style><style data-jss="" data-meta="MuiDialogTitle">
+.webchat-MuiDialogTitle-root {
+  flex: 0 0 auto;
+  margin: 0;
+  padding: 16px 24px;
+}
+</style><style data-jss="" data-meta="MuiBackdrop">
+.webchat-MuiBackdrop-root {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  z-index: -1;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  -webkit-tap-highlight-color: transparent;
+}
+.webchat-MuiBackdrop-invisible {
+  background-color: transparent;
+}
+</style><style data-jss="" data-meta="MuiPaper">
+.webchat-MuiPaper-root {
+  color: rgba(0, 0, 0, 0.87);
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: #fff;
+}
+.webchat-MuiPaper-rounded {
+  border-radius: 4px;
+}
+.webchat-MuiPaper-outlined {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+.webchat-MuiPaper-elevation0 {
+  box-shadow: none;
+}
+.webchat-MuiPaper-elevation1 {
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation2 {
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation3 {
+  box-shadow: 0px 3px 3px -2px rgba(0,0,0,0.2),0px 3px 4px 0px rgba(0,0,0,0.14),0px 1px 8px 0px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation4 {
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation5 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 5px 8px 0px rgba(0,0,0,0.14),0px 1px 14px 0px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation6 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation7 {
+  box-shadow: 0px 4px 5px -2px rgba(0,0,0,0.2),0px 7px 10px 1px rgba(0,0,0,0.14),0px 2px 16px 1px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation8 {
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation9 {
+  box-shadow: 0px 5px 6px -3px rgba(0,0,0,0.2),0px 9px 12px 1px rgba(0,0,0,0.14),0px 3px 16px 2px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation10 {
+  box-shadow: 0px 6px 6px -3px rgba(0,0,0,0.2),0px 10px 14px 1px rgba(0,0,0,0.14),0px 4px 18px 3px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation11 {
+  box-shadow: 0px 6px 7px -4px rgba(0,0,0,0.2),0px 11px 15px 1px rgba(0,0,0,0.14),0px 4px 20px 3px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation12 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 12px 17px 2px rgba(0,0,0,0.14),0px 5px 22px 4px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation13 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 13px 19px 2px rgba(0,0,0,0.14),0px 5px 24px 4px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation14 {
+  box-shadow: 0px 7px 9px -4px rgba(0,0,0,0.2),0px 14px 21px 2px rgba(0,0,0,0.14),0px 5px 26px 4px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation15 {
+  box-shadow: 0px 8px 9px -5px rgba(0,0,0,0.2),0px 15px 22px 2px rgba(0,0,0,0.14),0px 6px 28px 5px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation16 {
+  box-shadow: 0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation17 {
+  box-shadow: 0px 8px 11px -5px rgba(0,0,0,0.2),0px 17px 26px 2px rgba(0,0,0,0.14),0px 6px 32px 5px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation18 {
+  box-shadow: 0px 9px 11px -5px rgba(0,0,0,0.2),0px 18px 28px 2px rgba(0,0,0,0.14),0px 7px 34px 6px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation19 {
+  box-shadow: 0px 9px 12px -6px rgba(0,0,0,0.2),0px 19px 29px 2px rgba(0,0,0,0.14),0px 7px 36px 6px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation20 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 20px 31px 3px rgba(0,0,0,0.14),0px 8px 38px 7px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation21 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 21px 33px 3px rgba(0,0,0,0.14),0px 8px 40px 7px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation22 {
+  box-shadow: 0px 10px 14px -6px rgba(0,0,0,0.2),0px 22px 35px 3px rgba(0,0,0,0.14),0px 8px 42px 7px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation23 {
+  box-shadow: 0px 11px 14px -7px rgba(0,0,0,0.2),0px 23px 36px 3px rgba(0,0,0,0.14),0px 9px 44px 8px rgba(0,0,0,0.12);
+}
+.webchat-MuiPaper-elevation24 {
+  box-shadow: 0px 11px 15px -7px rgba(0,0,0,0.2),0px 24px 38px 3px rgba(0,0,0,0.14),0px 9px 46px 8px rgba(0,0,0,0.12);
+}
+</style><style data-jss="" data-meta="MuiDialog">
+@media print {
+  .webchat-MuiDialog-root {
+    position: absolute !important;
+  }
+}
+.webchat-MuiDialog-scrollPaper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.webchat-MuiDialog-scrollBody {
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: center;
+}
+.webchat-MuiDialog-scrollBody:after {
+  width: 0;
+  height: 100%;
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+}
+.webchat-MuiDialog-container {
+  height: 100%;
+  outline: 0;
+}
+@media print {
+  .webchat-MuiDialog-container {
+    height: auto;
+  }
+}
+.webchat-MuiDialog-paper {
+  margin: 32px;
+  position: relative;
+  overflow-y: auto;
+}
+@media print {
+  .webchat-MuiDialog-paper {
+    box-shadow: none;
+    overflow-y: visible;
+  }
+}
+.webchat-MuiDialog-paperScrollPaper {
+  display: flex;
+  max-height: calc(100% - 64px);
+  flex-direction: column;
+}
+.webchat-MuiDialog-paperScrollBody {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+.webchat-MuiDialog-paperWidthFalse {
+  max-width: calc(100% - 64px);
+}
+.webchat-MuiDialog-paperWidthXs {
+  max-width: 444px;
+}
+@media (max-width:507.95px) {
+  .webchat-MuiDialog-paperWidthXs.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthSm {
+  max-width: 600px;
+}
+@media (max-width:663.95px) {
+  .webchat-MuiDialog-paperWidthSm.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthMd {
+  max-width: 960px;
+}
+@media (max-width:1023.95px) {
+  .webchat-MuiDialog-paperWidthMd.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthLg {
+  max-width: 1280px;
+}
+@media (max-width:1343.95px) {
+  .webchat-MuiDialog-paperWidthLg.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthXl {
+  max-width: 1920px;
+}
+@media (max-width:1983.95px) {
+  .webchat-MuiDialog-paperWidthXl.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperFullWidth {
+  width: calc(100% - 64px);
+}
+.webchat-MuiDialog-paperFullScreen {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  max-width: 100%;
+  max-height: none;
+  border-radius: 0;
+}
+.webchat-MuiDialog-paperFullScreen.webchat-MuiDialog-paperScrollBody {
+  margin: 0;
+  max-width: 100%;
+}
+</style><style data-jss="" data-meta="MuiDialog">
+@media print {
+  .webchat-MuiDialog-root {
+    position: absolute !important;
+  }
+}
+.webchat-MuiDialog-scrollPaper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.webchat-MuiDialog-scrollBody {
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: center;
+}
+.webchat-MuiDialog-scrollBody:after {
+  width: 0;
+  height: 100%;
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+}
+.webchat-MuiDialog-container {
+  height: 100%;
+  outline: 0;
+}
+@media print {
+  .webchat-MuiDialog-container {
+    height: auto;
+  }
+}
+.webchat-MuiDialog-paper {
+  margin: 32px;
+  position: relative;
+  overflow-y: auto;
+}
+@media print {
+  .webchat-MuiDialog-paper {
+    box-shadow: none;
+    overflow-y: visible;
+  }
+}
+.webchat-MuiDialog-paperScrollPaper {
+  display: flex;
+  max-height: calc(100% - 64px);
+  flex-direction: column;
+}
+.webchat-MuiDialog-paperScrollBody {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+.webchat-MuiDialog-paperWidthFalse {
+  max-width: calc(100% - 64px);
+}
+.webchat-MuiDialog-paperWidthXs {
+  max-width: 444px;
+}
+@media (max-width:507.95px) {
+  .webchat-MuiDialog-paperWidthXs.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthSm {
+  max-width: 600px;
+}
+@media (max-width:663.95px) {
+  .webchat-MuiDialog-paperWidthSm.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthMd {
+  max-width: 960px;
+}
+@media (max-width:1023.95px) {
+  .webchat-MuiDialog-paperWidthMd.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthLg {
+  max-width: 1280px;
+}
+@media (max-width:1343.95px) {
+  .webchat-MuiDialog-paperWidthLg.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthXl {
+  max-width: 1920px;
+}
+@media (max-width:1983.95px) {
+  .webchat-MuiDialog-paperWidthXl.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperFullWidth {
+  width: calc(100% - 64px);
+}
+.webchat-MuiDialog-paperFullScreen {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  max-width: 100%;
+  max-height: none;
+  border-radius: 0;
+}
+.webchat-MuiDialog-paperFullScreen.webchat-MuiDialog-paperScrollBody {
+  margin: 0;
+  max-width: 100%;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss26 {
+  position: fixed;
+}
+.webchat-jss27 {
+  padding: 8px 24px 24px 24px;
+  justify-content: center;
+}
+.webchat-jss28 {
+  color: #fff;
+  padding: 8px 16px;
+  font-weight: 500;
+  white-space: nowrap;
+  border-radius: 0;
+  background-color: rgb(0, 0, 0, 0.9);
+}
+.webchat-jss28:hover {
+  background-color: rgb(0, 0, 0, 0.9);
+}
+.webchat-jss29 {
+  position: absolute;
+  background: #C4C4C4;
+}
+</style><style data-jss="" data-meta="makeStyles">
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss33 {
+  color: #525252;
+  cursor: pointer;
+  font-size: 24px;
+}
+.webchat-jss34 {
+  color: #71839B;
+  display: flex;
+  margin-left: 8px;
+  justify-content: center;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss35 {
+  cursor: pointer;
+  margin: 11px;
+  display: inherit;
+  font-size: 20px;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss36 {
+  top: 70px !important;
+}
+.webchat-jss36 .webchat-MuiDialog-container {
+  align-items: flex-start;
+}
+.webchat-jss36 .webchat-MuiDialog-paper {
+  width: 100%;
+  margin: 0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 0px 0px 27.9717px 27.9717px;
+}
+.webchat-jss36 .webchat-MuiBackdrop-root {
+  opacity: 0.9 !important;
+  position: absolute;
+  background: #C4C4C4;
+}
+.webchat-jss37 .webchat-MuiRating-iconEmpty {
+  all: revert;
+}
+.webchat-jss37 .webchat-MuiRating-iconFilled {
+  all: revert;
+}
+.webchat-jss37 .webchat-MuiRating-iconHover {
+  all: revert;
+}
+.webchat-jss37 .webchat-MuiRating-iconFocus {
+  all: revert;
+}
+.webchat-jss37 .webchat-MuiRating-label {
+  all: revert;
+}
+.webchat-jss37 .webchat-MuiRating-icon {
+  cursor: pointer;
+}
+.webchat-jss38 .webchat-MuiCheckbox-root {
+  padding: 0 9px;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss39 {
+  top: 70px !important;
+}
+.webchat-jss39 .webchat-MuiDialog-container {
+  align-items: flex-start;
+}
+.webchat-jss39 .webchat-MuiDialog-paper {
+  width: 480px;
+  margin: 0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 0px 0px 27.9717px 27.9717px;
+}
+.webchat-jss39 .webchat-MuiBackdrop-root {
+  opacity: 0.9 !important;
+  position: absolute;
+  background: #C4C4C4;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss16 {
+  padding-bottom: 16px;
+}
+.webchat-jss17 {
+  padding-bottom: 8px;
+}
+.webchat-jss18 {
+  font-size: 40px;
+  font-weight: bold;
+}
+.webchat-jss19 {
+  font-weight: bold;
+}
+.webchat-jss20 {
+  padding: 8px;
+  text-align: center;
+}
+.webchat-jss21 {
+  color: rgba(0,0,0,.8);
+}
+.webchat-jss22 {
+  color: #FFF;
+}
+</style><style data-jss="" data-meta="makeStyles">
+</style></head> <body onload="lateLoadChatFile();"> 
+
+<div id="webchat" app-id="msf-askmsf" app-name="Ask MSF" app-font-family="Arial" app-base-font-size="16" app-icon="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" app-welcome-message="Have a question? Type to get quick answers." app-color="#DE7C00" app-foreground-color1="#FFFFFF" app-bot-response-trigger-event="true" app-quick-launch-event="welcome" app-enable-auto-complete="false" app-auto-complete-background-color="#FFEDD7" app-auto-complete-foreground-color="#2E2E2E" app-auto-complete-hover-color="#FFCA88" app-auto-complete-divider-color="#DE7C00" aria-hidden="true"><div id="webchat-container"><div hidden="" class="sc-bdVaJa jMXAih"><div class="sc-bxivhb dLToUC"><div class="sc-EHOje hclKXJ">Have a question? Type to get quick answers.</div><div class="sc-ifAKCX eKcIYA"><svg class="webchat-MuiSvgIcon-root webchat-MuiSvgIcon-fontSizeInherit" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg></div></div><div class="sc-bwzfXH cRwaRu"><img alt="Bot Launcher" src="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" class="sc-htpNat iUqtne"></div></div><div id="CONVERSATION_HISTORY" class="sc-bZQynM bUYapP"><div class="sc-gzVnrw iYOdXe"><div class="sc-kGXeez bXodlH"><div class="sc-hMqMXs cUSjvS"><img alt="Bot Avatar" src="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" class="sc-kEYyzF kBcwrJ"></div><div class="sc-kpOJdX fsRsZT"><div><p class="sc-dxgOiQ huycWp">Ask MSF<sup class="sc-jKJlTe kHLZjH"></sup></p></div></div><div class="sc-eNQAEJ iszuFG"><svg class="webchat-MuiSvgIcon-root sc-kkGfuU cXWniZ webchat-MuiSvgIcon-fontSizeLarge" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 19h12v2H6z"></path></svg><svg class="webchat-MuiSvgIcon-root sc-hSdWYo geAxMI webchat-MuiSvgIcon-fontSizeLarge" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg></div></div><div class="sc-htoDjs fdzlVl"><div class="sc-hzNEM iJPJsy"><div class="sc-iBEsjs dsWovi"><div direction="row" class="sc-kZmsYB jRrbZy"><div class="sc-etwtAo CZwOx"><div class="sc-jXQZqI fSjheH"><div class="sc-iGPElx cJvfOK"><span class="sc-jzgbtB ckVRHH"><div class="sc-gJWqzi lmuaok"><p>Hi there! I am MSF’s virtual assistant and I am here to assist you in finding the information you need relating to MSF. <br><br><!--StartFragment-->I am always learning and improving my responses based on your feedback. To get started, just let me know what you need help with.&nbsp;<!--EndFragment--></p><!--StartFragment--><span style="color: #000000; font-family: sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">You can just type your question in simple and short sentences e.g. “How to contact MSF?”</span><!--EndFragment--></div><div class="sc-caSCKo hHPqsw"><div class="sc-gisBJw gLsDm">Responses translated by Google may have inaccuracies.</div><div class="sc-kjoXOD dzjkCq"><div class="sc-cHGsZl kaAZoK"><div class="sc-TOsTZ ivLnfU"><div class="sc-kgAjT gGxlWQ"><svg width="16" height="16" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_721_1453)"><path d="M10.5 2H5.5L5 0.5H1.5C0.95 0.5 0.5 0.95 0.5 1.5V9C0.5 9.55 0.95 10 1.5 10H5.5L6 11.5H10.5C11.05 11.5 11.5 11.05 11.5 10.5V3C11.5 2.45 11.05 2 10.5 2ZM3.5 8C2.12 8 1 6.88 1 5.5C1 4.12 2.12 3 3.5 3C4.175 3 4.74 3.25 5.175 3.65L4.515 4.285C4.325 4.105 3.995 3.895 3.5 3.895C2.63 3.895 1.925 4.615 1.925 5.5C1.925 6.385 2.63 7.105 3.5 7.105C4.505 7.105 4.92 6.385 4.96 5.9H3.5V5.045H5.84C5.875 5.2 5.9 5.35 5.9 5.555C5.9 6.985 4.945 8 3.5 8ZM6.585 5.29H8.435C8.22 5.915 7.88 6.505 7.41 7.025C7.255 6.85 7.11 6.665 6.98 6.475L6.585 5.29ZM10.75 10.25C10.75 10.525 10.525 10.75 10.25 10.75H7L8 9.5L7.48 7.95L9.03 9.5L9.49 9.04L7.84 7.415L7.85 7.405C8.415 6.78 8.815 6.06 9.05 5.295H10V4.645H7.735V4H7.09V4.645H6.37L5.73 2.75H10.25C10.525 2.75 10.75 2.975 10.75 3.25V10.25Z" fill="#525252"></path></g><defs><clipPath id="clip0_721_1453"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg><div class="sc-cJSrbW fvKqhe">English</div></div><svg class="webchat-MuiSvgIcon-root webchat-jss33" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10l5 5 5-5z"></path></svg></div></div></div></div></span></div><div class="sc-iSDuPN jIWVmM"><div class="sc-fZwumE dSYoys"><div class="sc-fQejPQ gqIrt"><svg class="webchat-MuiSvgIcon-root webchat-jss35" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M1 21h4V9H1v12zm22-11c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2z"></path></svg></div><div class="sc-clNaTc fSuVUf"><svg class="webchat-MuiSvgIcon-root webchat-jss35" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 3H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 23l6.59-6.59c.36-.36.58-.86.58-1.41V5c0-1.1-.9-2-2-2zm4 0v12h4V3h-4z"></path></svg></div></div></div><span class="sc-kQsIoO dZnBAX">08:49PM</span></div></div></div></div></div><div></div><div class="sc-gRnDUn krvyDw"><div class="sc-cmjSyW iMeDHB"><textarea rows="1" placeholder="Type your message here" maxlength="256" class="sc-sdtwF iouGVL"></textarea><div class="sc-iYUSvU cEBTCY"><svg class="webchat-MuiSvgIcon-root webchat-MuiSvgIcon-fontSizeSmall" focusable="false" viewBox="0 0 24 24" color="white" aria-hidden="true"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"></path></svg></div></div></div><div class="sc-cHSUfg gLFROa"><div class="sc-cTjmhe lgnDCZ"><div class="sc-chPdSV ibuApO"><div class="sc-gbOuXE iwUbZr"><svg class="webchat-MuiSvgIcon-root sc-fnwBNb gIIPPo" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z"></path></svg></div></div><div class="sc-kgoBCf cYjRFP">Rate chat</div><div class="sc-bfYoXt nJJal"></div><div class="sc-chPdSV ibuApO"><div class="sc-gbOuXE iwUbZr"><svg class="webchat-MuiSvgIcon-root sc-iNhVCk oVQZA" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 16.5l4-4h-3v-9h-2v9H8l4 4zm9-13h-6v1.99h6v14.03H3V5.49h6V3.5H3c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2v-14c0-1.1-.9-2-2-2z"></path></svg></div></div><div class="sc-kgoBCf eApNVv">Download Transcript</div></div><div class="sc-cugefK iGCNkx">POWERED BY GOVTECH</div></div></div></div><div><div role="presentation" class="webchat-MuiDialog-root webchat-jss26 sc-cvbbAY bdrwpL webchat-jss26" top="70" style="position: fixed; z-index: 1300; inset: 0px;"><div class="webchat-MuiBackdrop-root webchat-jss29" aria-hidden="true" style="opacity: 0.9; transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"></div><div tabindex="0" data-test="sentinelStart"></div><div class="webchat-MuiDialog-container webchat-MuiDialog-scrollPaper" role="none presentation" tabindex="-1" style="opacity: 1; transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"><div class="webchat-MuiPaper-root webchat-MuiDialog-paper webchat-jss16 webchat-MuiDialog-paperScrollPaper webchat-MuiDialog-paperWidthSm webchat-MuiDialog-paperFullWidth webchat-MuiPaper-elevation24 webchat-MuiPaper-rounded" role="dialog"><div class="webchat-MuiDialogTitle-root" id="alert-dialog-title"><h2 class="webchat-MuiTypography-root webchat-MuiTypography-h6"></h2></div><div class="webchat-MuiDialogContent-root"><div class="webchat-MuiGrid-root webchat-MuiGrid-container webchat-MuiGrid-direction-xs-column webchat-MuiGrid-align-items-xs-center webchat-MuiGrid-align-content-xs-center webchat-MuiGrid-justify-content-xs-center"><div class="webchat-MuiBox-root webchat-jss31 webchat-jss17"><svg class="webchat-MuiSvgIcon-root webchat-jss18" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 1H9v2h6V1zm-4 13h2V8h-2v6zm8.03-6.61l1.42-1.42c-.43-.51-.9-.99-1.41-1.41l-1.42 1.42C16.07 4.74 14.12 4 12 4c-4.97 0-9 4.03-9 9s4.02 9 9 9 9-4.03 9-9c0-2.12-.74-4.07-1.97-5.61zM12 20c-3.87 0-7-3.13-7-7s3.13-7 7-7 7 3.13 7 7-3.13 7-7 7z"></path></svg></div><p class="webchat-MuiTypography-root webchat-jss19 webchat-jss23 webchat-MuiTypography-body1">Session Timeout</p><div class="webchat-MuiBox-root webchat-jss32 webchat-jss20"><p class="webchat-MuiTypography-root webchat-jss21 webchat-jss24 webchat-MuiTypography-body1 webchat-MuiTypography-displayBlock">You have been inactive for some time now. Please extend the session to remain, otherwise it will expire in the next 5 minutes.</p></div></div></div><div class="webchat-MuiDialogActions-root webchat-jss27 webchat-MuiDialogActions-spacing"><button class="webchat-MuiButtonBase-root webchat-MuiButton-root webchat-MuiButton-text webchat-jss28 webchat-jss30" tabindex="0" type="button"><span class="webchat-MuiButton-label">Cancel</span><span class="webchat-MuiTouchRipple-root"></span></button><button class="webchat-MuiButtonBase-root webchat-MuiButton-root webchat-MuiButton-text webchat-jss28 webchat-jss30 webchat-jss22 webchat-jss25" tabindex="0" type="button"><span class="webchat-MuiButton-label">Extend Session</span><span class="webchat-MuiTouchRipple-root"></span></button></div></div></div><div tabindex="0" data-test="sentinelEnd"></div></div></div></div></div></div>
+
+
+<div class="announcements-bar" aria-hidden="true">
+    <div class="container-fluid">
+        <div class="row g-0 position-relative align-items-center">
+            <div class="col">
+                <div class="swiper announcementSwiper">
+                    <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <p>Have a question about MSF? Find quick answers with our chatbot Ask MSF.<!--EndFragment--></p>
+                            </div>
+                                                                                                                    </div>
+                </div>
+            </div>
+            <div class="col-auto align-self-start">
+                <div class="announcements-close">
+                    <button class="btn-close btn-ann-close btn-close-white" aria-label="Close"></button>
+                </div>
+            </div>
+        </div>
+        <div class="row g-0 position-relative">
+            <div class="col-12 col-md-auto buttons-align">
+                <div class="announcements-buttons">
+                    <div class="announcements-swiper-button swiper-button-prev">
+                        <em class="fa-solid fa-chevron-left"></em>
+                    </div>
+                    <div class="announcements-pagination"></div>
+                    <div class="announcements-swiper-button swiper-button-next">
+                        <em class="fa-solid fa-chevron-right"></em>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+ <sgds-masthead fluid="" class="sgds-masthead-class" aria-hidden="true"></sgds-masthead> 
+<div class="layout-subsite" aria-hidden="true">
+    <div id="Content_T7AD4A7CC001_Col00" class="sf_colsIn" data-sf-element="Navigation" data-placeholder-label="Navigation">
+
+<header>
+    <nav class="sgds navbar navbar-expand-xl main-navbar">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/" aria-label="home page">
+                <img src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69" title="MSF logo">
+            </a>
+
+            <button class="btn btn-nav-search px-24 ms-auto d-block d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#searchbarCollapse" aria-expanded="false" aria-controls="searchbarCollapse" aria-label="search icon">
+                <em class="fa-solid fa-search"></em>
+            </button>
+
+            <div class="collapse" id="searchbarCollapse">
+                <div class="container-fluid p-0 px-12">
+                    <div class="nav-searchbar">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Search our website" id="navSearchBarSearchInput" data-search="navSearchBarSearchInput">
+                            <button class="btn btn-search" type="button" id="navSearchBarBtnSearch" aria-label="search">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <span>Search</span>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Menu">
+                Menu
+            </button>
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <img class="offcanvas-header-logo" src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69">
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+
+                <div class="offcanvas-searchbar">
+                    <div class="sgds form-group">
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="defaultWith" aria-describedby="defaultWith" placeholder="Search our website">
+                            <button class="btn btn-offcanvas-search" type="button">
+                                <em class="fa-solid fa-search form-control-icon"></em>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav d-flex d-xl-none">
+                        <li class="nav-item">
+                            <a href="/" class="nav-link submenu-link" data-bs-dismiss="offcanvas" aria-current="page" aria-label="Home"><span>Home</span></a>
+                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#who-we-are-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#what-we-do-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#our-services-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#research-data-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#join-us-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+
+                    <div class="d-block d-xl-none">
+                                <div class="collapse collapse-horizontal submenu" id="who-we-are-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#who-we-are-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Who We Are</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/mission-values" class="nav-link sgds" aria-label="Mission &amp; Values"><span class="nav-link-text"><span>Mission &amp; Values</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/organisation-chart" class="nav-link sgds" aria-label="Organisation Chart"><span class="nav-link-text"><span>Organisation Chart</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/agencies-statutory-boards-councils" class="nav-link sgds" aria-label="Agencies, Statutory Boards &amp; Councils"><span class="nav-link-text"><span>Agencies, Statutory Boards &amp; Councils</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/senior-management-team" class="nav-link sgds" aria-label="Senior Management Team"><span class="nav-link-text"><span>Senior Management Team</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="what-we-do-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#what-we-do-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>What We Do</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/help-those-in-need" class="nav-link sgds" aria-label="Help Those in Need"><span class="nav-link-text"><span>Help Those in Need</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/support-families-and-parents" class="nav-link sgds" aria-label="Support Families &amp; Parents"><span class="nav-link-text"><span>Support Families &amp; Parents</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/strengthen-the-social-service-sector" class="nav-link sgds" aria-label="Strengthen the Social Service Sector"><span class="nav-link-text"><span>Strengthen the Social Service Sector</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="our-services-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#our-services-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Our Services</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/our-services/directories" class="nav-link sgds" aria-label="Directories"><span class="nav-link-text"><span>Directories</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/our-services/e-services" class="nav-link sgds" aria-label="E-Services"><span class="nav-link-text"><span>E-Services</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="research-data-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#research-data-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Research &amp; Data</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-reports-data" class="nav-link sgds" aria-label="Research Report &amp; Data"><span class="nav-link-text"><span>Research Report &amp; Data</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-grants" class="nav-link sgds" aria-label="Research Grants"><span class="nav-link-text"><span>Research Grants</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/Research-Conferences-Forums-Networks" class="nav-link sgds" aria-label="Research Conferences, Forums &amp; Networks"><span class="nav-link-text"><span>Research Conferences, Forums &amp; Networks</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="join-us-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#join-us-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Join Us</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/join-us/volunteer-with-msfcare-network" class="nav-link sgds" aria-label="Volunteer with MSFCare Network"><span class="nav-link-text"><span>Volunteer with MSFCare Network</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/jobs-careers" class="nav-link sgds" aria-label="Jobs &amp; Careers"><span class="nav-link-text"><span>Jobs &amp; Careers</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/scholarships-internships" class="nav-link sgds" aria-label="Scholarships &amp; Internships"><span class="nav-link-text"><span>Scholarships &amp; Internships</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                    </div>
+
+                    <ul class="navbar-nav justify-content-end flex-grow-1 d-none d-xl-flex">
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/mission-values" aria-label="Mission &amp; Values">
+                                                            Mission &amp; Values
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/organisation-chart" aria-label="Organisation Chart">
+                                                            Organisation Chart
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/agencies-statutory-boards-councils" aria-label="Agencies, Statutory Boards &amp; Councils">
+                                                            Agencies, Statutory Boards &amp; Councils
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/senior-management-team" aria-label="Senior Management Team">
+                                                            Senior Management Team
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/help-those-in-need" aria-label="Help Those in Need">
+                                                            Help Those in Need
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/support-families-and-parents" aria-label="Support Families &amp; Parents">
+                                                            Support Families &amp; Parents
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/strengthen-the-social-service-sector" aria-label="Strengthen the Social Service Sector">
+                                                            Strengthen the Social Service Sector
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/directories" aria-label="Directories">
+                                                            Directories
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/e-services" aria-label="E-Services">
+                                                            E-Services
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-reports-data" aria-label="Research Report &amp; Data">
+                                                            Research Report &amp; Data
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-grants" aria-label="Research Grants">
+                                                            Research Grants
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/Research-Conferences-Forums-Networks" aria-label="Research Conferences, Forums &amp; Networks">
+                                                            Research Conferences, Forums &amp; Networks
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/volunteer-with-msfcare-network" aria-label="Volunteer with MSFCare Network">
+                                                            Volunteer with MSFCare Network
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/jobs-careers" aria-label="Jobs &amp; Careers">
+                                                            Jobs &amp; Careers
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/scholarships-internships" aria-label="Scholarships &amp; Internships">
+                                                            Scholarships &amp; Internships
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header><div class="searchbar">
+    <div class="container-fluid">
+        <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search our website" id="searchbarWidgetSearchInput" data-search="searchbarWidgetSearchInput">
+            <button class="btn btn-search" type="button" id="searchbarWidgetBtnSearch" aria-label="Search">
+                <span>
+                    <em class="fa-solid fa-search fa-sm"></em>
+                    Search
+                </span>
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- prettier-ignore -->
+<div class="container-fluid">
+    <nav aria-label="breadcrumb" class="breadcrump-wrapper">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>Media Room
+                    </li>
+        </ol>
+        <div class="breadcrumb-mobile">
+            <a href="/" aria-label="Home">
+                <em class="fa-solid fa-chevron-left"></em>
+                <span>Home</span>
+            </a>
+        </div>
+    </nav>
+</div>
+
+
+
+
+<link href="/ResourcePackages/Msf/assets/css/language-bar.min.css" rel="stylesheet" type="text/css">
+
+
+    </div>
+    <div id="Content_T7AD4A7CC001_Col01" class="sf_colsIn" data-sf-element="Content" data-placeholder-label="Content">
+    <script src="/ResourcePackages/Msf/assets/js/jquery.min.js"></script>
+
+
+<style>
+    .research-data a.no-icon::after {
+        display: none !important;
+    }
+
+    #pagnationUl li a {
+        cursor: pointer;
+    }
+
+    .page-item.disabled {
+        filter: opacity(0.5);
+    }
+</style>
+
+<div id="media-top" class="research-data">
+    <h2 class="h1 text-center">Media Room</h2>
+    <div class="filter-form">
+        <div>
+            <form class="row g-3 needs-validation justify-content-center">
+                <div class="col-lg-3">
+                    <div class="d-flex flex-column timeframeSelect-control">
+                        <label for="timeframeSelect-button" class="form-label">Timeframe</label>
+                        <select class="selectPicker" id="timeframeSelect" aria-label="Timeframe Select" style="display: none;">
+                            <option value="" selected="">All time</option>
+                                    <option value="1">Past 1 month</option>
+                                    <option value="3">Past 3 months</option>
+                                    <option value="5">Past 5 months</option>
+                                    <option value="7">Past 7 months</option>
+                        </select><span tabindex="0" id="timeframeSelect-button" role="combobox" aria-expanded="false" aria-autocomplete="list" aria-owns="timeframeSelect-menu" aria-haspopup="true" class="ui-selectmenu-button ui-selectmenu-button-closed ui-corner-all ui-button ui-widget"><span class="ui-selectmenu-icon ui-icon ui-icon-triangle-1-s"></span><span class="ui-selectmenu-text">All time</span></span>
+                        <div class="timeframe-selectmenu" style="position: relative"></div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="d-flex flex-column topicSelect-control">
+                        <label for="topicSelect-button" class="form-label">Topic</label>
+                        <select class="selectPicker" id="topicSelect" aria-label="Topic Select" style="display: none;">
+                            <option value="" selected="">All</option>
+                                    <option value="Children &amp; Families">Children &amp; Families</option>
+                                    <option value="Committee of Supply">Committee of Supply</option>
+                                    <option value="Disability Services">Disability Services</option>
+                                    <option value="Financial Assistance &amp; Social Support">Financial Assistance &amp; Social Support</option>
+                                    <option value="Marriage Journey">Marriage Journey</option>
+                                    <option value="MSFCare Volunteers">MSFCare Volunteers</option>
+                                    <option value="Other Updates">Other Updates</option>
+                                    <option value="Problem Gambling Assistance">Problem Gambling Assistance</option>
+                                    <option value="Protection from Domestic Violence">Protection from Domestic Violence</option>
+                                    <option value="Rehabilitation">Rehabilitation</option>
+                                    <option value="Residential &amp; Shelter Support">Residential &amp; Shelter Support</option>
+                                    <option value="Social Service Agencies &amp; Partners">Social Service Agencies &amp; Partners</option>
+                                    <option value="Social Service Professionals">Social Service Professionals</option>
+                                    <option value="Women Empowerment">Women Empowerment</option>
+                        </select><span tabindex="0" id="topicSelect-button" role="combobox" aria-expanded="false" aria-autocomplete="list" aria-owns="topicSelect-menu" aria-haspopup="true" class="ui-selectmenu-button ui-selectmenu-button-closed ui-corner-all ui-button ui-widget"><span class="ui-selectmenu-icon ui-icon ui-icon-triangle-1-s"></span><span class="ui-selectmenu-text">All</span></span>
+                        <div class="topic-selectmenu" style="position: relative"></div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="d-flex flex-column typeSelect-control">
+                        <label for="typeSelect-button" class="form-label">Type</label>
+                        <select class="selectPicker" id="typeSelect" aria-label="Type Select" style="display: none;">
+                            <option value="" selected="">All</option>
+                                    <option value="Announcements">Announcements</option>
+                                    <option value="Fact Sheets">Fact Sheets</option>
+                                    <option value="Official Speeches (All)">Official Speeches (All)</option>
+                                    <option value="Official Speeches: Desmond Lee">Official Speeches: Desmond Lee</option>
+                                    <option value="Official Speeches: Eric Chua">Official Speeches: Eric Chua</option>
+                                    <option value="Official Speeches: Masagos Zulkifli">Official Speeches: Masagos Zulkifli</option>
+                                    <option value="Official Speeches: Muhammad Faishal Ibrahim">Official Speeches: Muhammad Faishal Ibrahim</option>
+                                    <option value="Official Speeches: Sam Tan">Official Speeches: Sam Tan</option>
+                                    <option value="Official Speeches: Sun Xueling">Official Speeches: Sun Xueling</option>
+                                    <option value="Parliamentary Questions">Parliamentary Questions</option>
+                                    <option value="Press Releases">Press Releases</option>
+                        </select><span tabindex="0" id="typeSelect-button" role="combobox" aria-expanded="false" aria-autocomplete="list" aria-owns="typeSelect-menu" aria-haspopup="true" class="ui-selectmenu-button ui-selectmenu-button-closed ui-corner-all ui-button ui-widget"><span class="ui-selectmenu-icon ui-icon ui-icon-triangle-1-s"></span><span class="ui-selectmenu-text">All</span></span>
+                        <div class="type-selectmenu" style="position: relative"></div>
+                    <div class="ui-selectmenu-menu ui-front"><ul aria-hidden="true" aria-labelledby="timeframeSelect-button" id="timeframeSelect-menu" role="listbox" tabindex="0" class="ui-menu ui-corner-bottom ui-widget ui-widget-content"></ul></div><div class="ui-selectmenu-menu ui-front"><ul aria-hidden="true" aria-labelledby="topicSelect-button" id="topicSelect-menu" role="listbox" tabindex="0" class="ui-menu ui-corner-bottom ui-widget ui-widget-content"></ul></div><div class="ui-selectmenu-menu ui-front"><ul aria-hidden="true" aria-labelledby="typeSelect-button" id="typeSelect-menu" role="listbox" tabindex="0" class="ui-menu ui-corner-bottom ui-widget ui-widget-content"></ul></div></div>
+                </div>
+
+                <div class="d-flex justify-content-center form-submit-btn">
+                    <button onclick="filterMediaRoom('')" class="btn btn-secondary" type="button" aria-label="Filter">Filter</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="container">
+        <ul class="row" id="media-room-result"><div class="col-12 col-lg-6"><div class="card article-card article-card-filtered"><div class="card-header"><a href="/media-room/article/amendments-to-the-mental-capacity-act-to-ensure-validity-of-lasting-powers-of-attorney-made-electronically" class="article-link" aria-label="card title">Amendments To The Mental Capacity Act To Ensure Validity Of Lasting Powers Of Attorney Made Electronically</a></div><div class="card-body"><p class="card-update-text">Published on: 06 March 2024</p><p class="card-text">The Ministry of Social and Family Development (MSF) has introduced amendments to the Mental Capacity Act (MCA) in Parliament on 6 March 2024 to make clear that all electronic Lasting Powers of Attorney (LPAs) certified between 14 November 2022 and 4 January
+    2024 are valid.</p><div class="card-type"><p class="card-type-text">Type:</p><div class="card-type-link"><div> <a href="#" class="card-type-link" onclick="filterMediaRoomCategory('Press Releases', 'false')" aria-label="item detail">Press Releases,</a> </div></div></div><div class="card-topic"><p class="card-topic-text">Topic(s):</p><div class="card-topic-link collapse" id="Topic-0"><a href="#" class="card-type-link" onclick="filterMediaRoomTopics('Children &amp; Families', 'false')" aria-label="topic">Children &amp; Families,</a></div></div></div></div></div><div class="col-12 col-lg-6"><div class="card article-card article-card-filtered"><div class="card-header"><a href="/media-room/article/speech-by-minister-masagos-zulkifli-at-the-msf-committee-of-supply-2024" class="article-link" aria-label="card title">Speech by Minister Masagos Zulkifli at the MSF Committee of Supply 2024</a></div><div class="card-body"><p class="card-update-text">Published on: 06 March 2024</p><p class="card-text">Building a family-friendly society where all are empowered to fulfil their aspirations.</p><div class="card-type"><p class="card-type-text">Type:</p><div class="card-type-link"><div> <a href="#" class="card-type-link" onclick="filterMediaRoomCategory('Announcements', 'false')" aria-label="item detail">Announcements,</a> </div><div> <a href="#" class="card-type-link" onclick="filterMediaRoomCategory(' Official Speeches (All)', 'false')" aria-label="item detail"> Official Speeches (All)</a> </div><div> <a href="#" class="card-type-link" onclick="filterMediaRoomCategory(' Official Speeches: Masagos Zulkifli', 'false')" aria-label="item detail"> Official Speeches: Masagos Zulkifli,</a> </div></div></div><div class="card-topic"><p class="card-topic-text">Topic(s):</p><div class="card-topic-link collapse" id="Topic-1"><a href="#" class="card-type-link" onclick="filterMediaRoomTopics('Committee of Supply', 'false')" aria-label="topic">Committee of Supply,</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' Children &amp; Families', 'false')" aria-label="topic"> Children &amp; Families,</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' Financial Assistance &amp; Social Support', 'false')" aria-label="topic"> Financial Assistance &amp; Social Support,</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' MSFCare Volunteers', 'false')" aria-label="topic"> MSFCare Volunteers,</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' Social Service Agencies &amp; Partners', 'false')" aria-label="topic"> Social Service Agencies &amp; Partners</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' Social Service Professionals', 'false')" aria-label="topic"> Social Service Professionals,</a></div></div><a class="collapsed topic-expand" data-bs-toggle="collapse" href="#Topic-1" aria-expanded="false" aria-controls="topicCollapse" id="Detail-1" aria-label="More details">More details</a></div></div></div><div class="col-12 col-lg-6"><div class="card article-card article-card-filtered"><div class="card-header"><a href="/media-room/article/speech-by-minister-of-state-sun-xueling-at-the-msf-committee-of-supply-2024" class="article-link" aria-label="card title">Speech by Minister of State Sun Xueling at the MSF Committee of Supply 2024</a></div><div class="card-body"><p class="card-update-text">Published on: 06 March 2024</p><p class="card-text">Supporting parents in providing a good start for every child.</p><div class="card-type"><p class="card-type-text">Type:</p><div class="card-type-link"><div> <a href="#" class="card-type-link" onclick="filterMediaRoomCategory('Announcements', 'false')" aria-label="item detail">Announcements,</a> </div><div> <a href="#" class="card-type-link" onclick="filterMediaRoomCategory(' Official Speeches (All)', 'false')" aria-label="item detail"> Official Speeches (All)</a> </div><div> <a href="#" class="card-type-link" onclick="filterMediaRoomCategory(' Official Speeches: Sun Xueling', 'false')" aria-label="item detail"> Official Speeches: Sun Xueling,</a> </div></div></div><div class="card-topic"><p class="card-topic-text">Topic(s):</p><div class="card-topic-link collapse" id="Topic-2"><a href="#" class="card-type-link" onclick="filterMediaRoomTopics('Committee of Supply', 'false')" aria-label="topic">Committee of Supply,</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' Children &amp; Families', 'false')" aria-label="topic"> Children &amp; Families,</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' Disability Services', 'false')" aria-label="topic"> Disability Services</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' Financial Assistance &amp; Social Support', 'false')" aria-label="topic"> Financial Assistance &amp; Social Support,</a></div></div><a class="collapsed topic-expand" data-bs-toggle="collapse" href="#Topic-2" aria-expanded="false" aria-controls="topicCollapse" id="Detail-2" aria-label="More details">More details</a></div></div></div><div class="col-12 col-lg-6"><div class="card article-card article-card-filtered"><div class="card-header"><a href="/media-room/article/budget-2024" class="article-link" aria-label="card title">Budget 2024</a></div><div class="card-body"><p class="card-update-text">Published on: 06 March 2024</p><p class="card-text">Building a Family-friendly Society Where All Are Empowered</p><div class="card-type"><p class="card-type-text">Type:</p><div class="card-type-link"><a href="#" class="card-type-link" onclick="filterMediaRoomCategory('Announcements', 'false')" aria-label="category">Announcements</a></div></div><div class="card-topic"><p class="card-topic-text">Topic(s):</p><div class="card-topic-link collapse" id="Topic-3"><a href="#" class="card-type-link" onclick="filterMediaRoomTopics('Committee of Supply' , 'false')" aria-label="topic">Committee of Supply</a></div></div></div></div></div><div class="col-12 col-lg-6"><div class="card article-card article-card-filtered"><div class="card-header"><a href="/media-room/article/msf-committee-of-supply-2024-building-a-family-friendly-society-where-all-are-empowered" class="article-link" aria-label="card title">MSF Committee of Supply 2024: 
+Building a Family-friendly Society Where All Are Empowered</a></div><div class="card-body"><p class="card-update-text">Published on: 06 March 2024</p><p class="card-text">Factsheet for Minister Masagos Zulkifli's Committee of Supply 2024 speech.</p><div class="card-type"><p class="card-type-text">Type:</p><div class="card-type-link"><a href="#" class="card-type-link" onclick="filterMediaRoomCategory('Fact Sheets', 'false')" aria-label="category">Fact Sheets</a></div></div><div class="card-topic"><p class="card-topic-text">Topic(s):</p><div class="card-topic-link collapse" id="Topic-4"><a href="#" class="card-type-link" onclick="filterMediaRoomTopics('Committee of Supply', 'false')" aria-label="topic">Committee of Supply,</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' Children &amp; Families', 'false')" aria-label="topic"> Children &amp; Families,</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' Financial Assistance &amp; Social Support', 'false')" aria-label="topic"> Financial Assistance &amp; Social Support,</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' MSFCare Volunteers', 'false')" aria-label="topic"> MSFCare Volunteers,</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' Social Service Agencies &amp; Partners', 'false')" aria-label="topic"> Social Service Agencies &amp; Partners</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' Social Service Professionals', 'false')" aria-label="topic"> Social Service Professionals,</a></div></div><a class="collapsed topic-expand" data-bs-toggle="collapse" href="#Topic-4" aria-expanded="false" aria-controls="topicCollapse" id="Detail-4" aria-label="More details">More details</a></div></div></div><div class="col-12 col-lg-6"><div class="card article-card article-card-filtered"><div class="card-header"><a href="/media-room/article/msf-committee-of-supply-2024-empowering-all-families-to-achieve-their-aspirations" class="article-link" aria-label="card title">MSF Committee of Supply 2024: Empowering All Families to Achieve Their Aspirations</a></div><div class="card-body"><p class="card-update-text">Published on: 06 March 2024</p><p class="card-text">Factsheet for Senior Parliamentary Secretary Eric Chua's Committee of Supply 2024 speech.</p><div class="card-type"><p class="card-type-text">Type:</p><div class="card-type-link"><a href="#" class="card-type-link" onclick="filterMediaRoomCategory('Fact Sheets', 'false')" aria-label="category">Fact Sheets</a></div></div><div class="card-topic"><p class="card-topic-text">Topic(s):</p><div class="card-topic-link collapse" id="Topic-5"><a href="#" class="card-type-link" onclick="filterMediaRoomTopics('Committee of Supply', 'false')" aria-label="topic">Committee of Supply,</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' Children &amp; Families', 'false')" aria-label="topic"> Children &amp; Families,</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' Financial Assistance &amp; Social Support', 'false')" aria-label="topic"> Financial Assistance &amp; Social Support,</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' MSFCare Volunteers', 'false')" aria-label="topic"> MSFCare Volunteers,</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' Social Service Agencies &amp; Partners', 'false')" aria-label="topic"> Social Service Agencies &amp; Partners</a><a href="#" class="card-type-link" onclick="filterMediaRoomTopics(' Social Service Professionals', 'false')" aria-label="topic"> Social Service Professionals,</a></div></div><a class="collapsed topic-expand" data-bs-toggle="collapse" href="#Topic-5" aria-expanded="false" aria-controls="topicCollapse" id="Detail-5" aria-label="More details">More details</a></div></div></div></ul>
+
+        <nav aria-label="Media Room Article results page">
+            <ul class="pagination justify-content-center" id="pagnationUl"><li class="page-item btn-previous disabled"><a class="page-link" onclick="previousAction()" aria-label="Previous"><span aria-hidden="true"><em class="fa-solid fa-chevron-left"></em></span></a></li><li class="page-item active"><a class="page-link" href="#media-top" onclick="changePage(1)" aria-label="page number">1</a></li><li class="page-item "><a class="page-link" href="#media-top" onclick="changePage(2)" aria-label="page number">2</a></li><li class="page-item "><a class="page-link" href="#media-top" onclick="changePage(3)" aria-label="page number">3</a></li><li class="page-item disabled"><a class="page-link" aria-label="3 dots">...</a></li><li class="page-item "><a class="page-link" href="#media-top" onclick="changePage(129)" aria-label="page number">129</a></li><li class="page-item btn-next "><a class="page-link" onclick="nextAction()" aria-label="Next"><span aria-hidden="true"><em class="fa-solid fa-chevron-right"></em></span></a></li></ul>
+        </nav>
+    </div>
+</div>
+<script>
+        // declare variables
+        var filters_timeframe = [{"value":"1"},{"value":"3"},{"value":"5"},{"value":"7"}];
+    var filters_type = [{"value":"Announcements"},{"value":"Fact Sheets"},{"value":"Official Speeches (All)"},{"value":"Official Speeches: Desmond Lee"},{"value":"Official Speeches: Eric Chua"},{"value":"Official Speeches: Masagos Zulkifli"},{"value":"Official Speeches: Muhammad Faishal Ibrahim"},{"value":"Official Speeches: Sam Tan"},{"value":"Official Speeches: Sun Xueling"},{"value":"Parliamentary Questions"},{"value":"Press Releases"}];
+    var filters_topic = [{"value":"Children & Families"},{"value":"Committee of Supply"},{"value":"Disability Services"},{"value":"Financial Assistance & Social Support"},{"value":"Marriage Journey"},{"value":"MSFCare Volunteers"},{"value":"Other Updates"},{"value":"Problem Gambling Assistance"},{"value":"Protection from Domestic Violence"},{"value":"Rehabilitation"},{"value":"Residential & Shelter Support"},{"value":"Social Service Agencies & Partners"},{"value":"Social Service Professionals"},{"value":"Women Empowerment"}];
+        var currentPage = 1;
+        var itemPerPage = 6;
+        var totalPage = 0;
+        var currentData = [];
+    var displayData = [];
+    var totaltopics = 0;
+    var topicsCount = 1;
+    var totalCategorys = 0;
+    var CategoryCount = 1;
+        var TopicData = [];
+    var TopicList = "";
+    var CategoryData = [];
+    var CategoryList = "";
+    var template =
+            '<div class = "col-12 col-lg-6">' +
+            '<div class="card article-card article-card-filtered">' +
+            '<div class="card-header">' +
+            '<a href="PageUrl" class="article-link" aria-label="card title">CARD_TITLE</a>' +
+            '</div>' +
+            '<div class="card-body">' +
+            '<p class="card-update-text">' +
+            'Published on: PUB_DATE' +
+            '</p>' +
+            '<p class="card-text">SYNOPSIS</p>' +
+            '<div class="card-type">' +
+        '<p class="card-type-text">Type:</p>' +
+        '<div class = "card-type-link">' +
+        'TYPE' +
+        '</div>' +
+            '</div>' +
+            '<div class="card-topic">' +
+            '<p class="card-topic-text">Topic(s):</p>' +
+            '<div class="card-topic-link collapse" id ="TOPIC_ID">' +
+            'TOPICS' +
+            '</div>' +
+            '</div>' +
+            '<a class="collapsed topic-expand" data-bs-toggle="collapse" href="#TOPIC_ID" aria-expanded="false" aria-controls="topicCollapse" id = "Detail_ID" aria-label="More details">More details</a>' +
+            '</div>' +
+        '</div>' +
+        '</div>';
+        var templatePrevious = '<li class="page-item btn-previous PARAM_PREVIOUS_DISABLE"><a class="page-link" onclick="previousAction()" aria-label="Previous"><span aria-hidden="true"><em class="fa-solid fa-chevron-left"></em></span></a></li>';
+        var templateNext = '<li class="page-item btn-next PARAM_NEXT_DISABLE"><a class="page-link" onclick="nextAction()" aria-label="Next"><span aria-hidden="true"><em class="fa-solid fa-chevron-right"></em></span></a></li>';
+    var threeDotText = '<li class="page-item disabled"><a class="page-link" aria-label="3 dots">...</a></li>';
+    var templatePagnation = '<li class="page-item PARAM_ACTIVE_PAGE"><a class="page-link" href="#media-top" onclick="changePage(PARAM_PAGE_CHANGE)" aria-label="page number">PARAM_PAGE_NUMBER</a></li>';
+
+        /**
+         * FILTER: START
+         * */
+        function filterMediaRoom(stateFromBackData) {
+            if (stateFromBackData == null) {
+                localStorage.clear();
+            }
+
+                let data = !!stateFromBackData
+                    ? JSON.parse(stateFromBackData)
+                    :   {
+                            "time": $('#timeframeSelect').val(),
+                            "topic": $('#topicSelect').val(),
+                            "type": $('#typeSelect').val(),
+                    };
+
+            // TODO: if stateFromBackData != null --> set data to filter UI
+            if (stateFromBackData != "null")
+            {
+                var tf_find = filters_timeframe.find(x => x.value == data.time);
+                if (tf_find) {
+                    $('#timeframeSelect').val(tf_find.value);
+
+                }
+
+                var t_find = filters_topic.find(x => cleanText(x.value) == cleanText(data.topic));
+                if (t_find) {
+                    $('#topicSelect').val(t_find.value);
+
+                }
+                var p_find = filter_type = filters_type.find(x => cleanText(x.value) == cleanText(data.type));
+                if (p_find) {
+                    $('#typeSelect').val(p_find.value)
+
+                }
+            }
+                sessionStorage.setItem("MEDIAROOM_FILTER_STATE", JSON.stringify(data));
+
+                $.ajax({
+                    url: "/media-room/GetFiltered",
+                    method: "post",
+                    headers: {
+                        "Content-Type": "application/x-www-form-urlencoded"
+                    },
+                    data: data
+                }).done(function (resp) {
+                    if (!resp) return;
+
+                    setTimeout(() => {
+                        let result = JSON.parse(resp);
+                        if (!result?.length) {
+                            let mes = "No results found. Please try another search.";
+                            document.getElementById('media-room-result').innerHTML = "<p>" + mes + "</p>";
+                            document.getElementById('pagnationUl').innerHTML = "";
+                            return;
+                        }
+
+                        currentData = result;
+                        document.getElementById('media-room-result').innerHTML = "";
+                        changePage();
+                    }, 0)
+                });
+            }
+
+        /**
+         * FILTER: END
+         * */
+
+    function filterMediaRoomCategory(Category, Pagechange) {
+        if (Pagechange) {
+            localStorage.removeItem("MEDIAROOM_TOPICS_FILTER");
+           let data = {
+                "time": $('#timeframeSelect').val(),
+                "topic": $('#topicSelect').val(),
+                "type": Category,
+            };
+
+
+            assignTag(Category, Pagechange);
+            sessionStorage.setItem("MEDIAROOM_FILTER_STATE", JSON.stringify(data));
+                    $.ajax({
+                        url: "/media-room/GetFilteredCategory",
+                        method: "post",
+                        headers: {
+                            "Content-Type": "application/x-www-form-urlencoded"
+                        },
+                        data: data
+                    }).done(function (resp) {
+                        if (!resp) return;
+
+                        setTimeout(() => {
+                            let result = JSON.parse(resp);
+                            if (!result?.length) {
+                                let mes = "No results found. Please try another search.";
+                                document.getElementById('media-room-result').innerHTML = "<p>" + mes + "</p>";
+                                document.getElementById('pagnationUl').innerHTML = "";
+                                return;
+                            }
+                            currentData = result;
+                            document.getElementById('media-room-result').innerHTML = "";
+                            changePage();
+                        }, 0)
+                    });
+    }
+    }
+
+
+    function filterMediaRoomTopics(Topics, Pagechange) {
+        if (Pagechange) {
+            localStorage.removeItem("MEDIAROOM_CATEGORY_FILTER");
+            let data =  {
+                        "time": $('#timeframeSelect').val(),
+                        "topic": Topics,
+                        "type": $('#typeSelect').val(),
+                };
+            assignTag(Topics, Pagechange)
+            sessionStorage.setItem("MEDIAROOM_FILTER_STATE", JSON.stringify(data));
+                    $.ajax({
+                        url: "/media-room/GetFilteredTopics",
+                        method: "post",
+                        headers: {
+                            "Content-Type": "application/x-www-form-urlencoded"
+                        },
+                        data: data
+                    }).done(function (resp) {
+                        if (!resp) return;
+
+                        setTimeout(() => {
+                            let result = JSON.parse(resp);
+                            if (!result?.length) {
+                                let mes = "No results found. Please try another search.";
+                                document.getElementById('media-room-result').innerHTML = "<p>" + mes + "</p>";
+                                document.getElementById('pagnationUl').innerHTML = "";
+                                return;
+                            }
+
+                            currentData = result;
+                            document.getElementById('media-room-result').innerHTML = "";
+                            changePage();
+                        }, 0)
+                    });
+        }
+    }
+
+        function cleanText(val) {
+            if (val != "" && val != null) {
+                return val.replace(/[^a-zA-Z]+/g, "").toLowerCase();
+            }
+        }
+
+        function assignTag(val, init) {
+            if (val === "object") {
+                if (val.type != "" && val.type == null) {
+                    val = val.type;
+                }
+                else if(val.topic != "" && val.topic == null)
+                {
+                    val = val.topic
+                }
+            }
+
+            var t_find = filters_topic.find(x => cleanText(x.value) == cleanText(JSON.stringify(val)));
+            if (t_find) {
+                $('#topicSelect').val(t_find.value);
+                if (init == "false") {
+                    $('#topicSelect').selectmenu('refresh');
+                }
+            }
+            var p_find = filters_type.find(x => cleanText(x.value) == cleanText(JSON.stringify(val)));
+            if (p_find) {
+                $('#typeSelect').val(p_find.value)
+                if (init == "false") {
+                    $('#typeSelect').selectmenu('refresh');
+                }
+            }
+        }
+        /**
+         * PAGNATION: START
+         * */
+    function GetTopicList(item) {
+        if (item != "" && item != " ")
+        {
+            if (topicsCount == totaltopics)
+            {
+                TopicList += '<a href="#" class="card-type-link" onclick="filterMediaRoomTopics(\'' + item + '\', \'' + "false" + '\')" aria-label="topic">' + item + '</a>';
+                topicsCount = 1;
+            }
+            else
+            {
+                TopicList += '<a href="#" class="card-type-link" onclick="filterMediaRoomTopics(\'' + item + '\', \'' + "false" + '\')" aria-label="topic">' + item + "," + '</a>';
+                topicsCount++;
+            }
+
+        }
+
+        }
+
+        function GetCategoryList(item)
+        {
+            if (item != "" && item != " ")
+            {
+                if (CategoryCount == totalCategorys)
+                {
+                    CategoryList += '<div> <a href="#" class="card-type-link" onclick="filterMediaRoomCategory(\'' + item + '\', \'' + "false" + '\')" aria-label="item detail">' + item + '</a> </div>';
+                    CategoryCount = 1;
+                }
+                else
+                {
+                    CategoryList += '<div> <a href="#" class="card-type-link" onclick="filterMediaRoomCategory(\'' + item + '\', \'' + "false" + '\')" aria-label="item detail">' + item + "," + '</a> </div>';
+                    CategoryCount++;
+                }
+
+            }
+
+        }
+        function previousAction() {
+            changePage(currentPage - 1);
+        }
+        function nextAction() {
+            changePage(currentPage + 1);
+        }
+    function changePage(page) {
+            currentPage = page ? page : 1;
+            const startIndex = (currentPage - 1) * itemPerPage;
+            const endIndex = startIndex + itemPerPage;
+            document.getElementById('media-room-result').innerHTML = "";
+            for (var i = startIndex; i < endIndex; i++) {
+                if (i === currentData.length) break;
+                currentData[i].mediaTopic.replace("&amp;", "&");
+                currentData[i].mediaCategory.replace("&amp;", "&");
+                TopicData = currentData[i].mediaTopic.split(";");
+                CategoryData = currentData[i].mediaCategory.split(";")
+                totalCategorys = CategoryData.length - 1;
+                totaltopics = TopicData.length - 1;
+                if (TopicData.length == 2) {
+                    TopicList = '<a href="#" class="card-type-link" onclick="filterMediaRoomTopics(\'' + TopicData[0] + '\' , \'' + "false" + '\')" aria-label="topic">' + TopicData[0] + '</a>';
+                } else
+                {
+                    TopicData.forEach(GetTopicList);
+                }
+                if (CategoryData.length == 2) {
+                    CategoryList = '<a href="#" class="card-type-link" onclick="filterMediaRoomCategory(\'' + CategoryData[0] + '\', \'' + "false" + '\')" aria-label="category">' + CategoryData[0] + '</a>';
+                }
+                else
+                {
+                    CategoryData.forEach(GetCategoryList);
+                }
+                document.getElementById('media-room-result').innerHTML += template
+                    .replace('CARD_TITLE', currentData[i].title)
+                    .replace('PageUrl', currentData[i].urlLink + "/" + currentData[i].urlName)
+                    .replace('PUB_DATE', currentData[i].publishedDateStr)
+                    .replace('SYNOPSIS', currentData[i].synopsis)
+                    .replace('TOPICS', TopicList)
+                    .replace('TYPE', CategoryList)
+                    .replaceAll('TOPIC_ID', 'Topic-' + i)
+                    .replace('Detail_ID', 'Detail-' + i) ;
+                if (TopicData.length == 2)
+                {
+                    document.getElementById("Detail-" + i).style.display = "none";
+                }
+                CategoryList = "";
+                TopicList = "";
+        }
+        generatePanation();
+        }
+
+        function generatePanation() {
+            const totalPage = Math.ceil(currentData.length / itemPerPage);
+
+            const pageQuantityShow = 3;
+            let pageNumberHtml = "";
+
+            let startPage;
+            if (currentPage === 1 || totalPage < pageQuantityShow + 1) {
+                startPage = 1;
+            } else if (currentPage === totalPage) {
+                startPage = currentPage - (pageQuantityShow - 1);
+            }  else if (currentPage - 1 >= 1) {
+                startPage = currentPage - 1;
+            }
+
+            if (startPage > 2) {
+                pageNumberHtml += templatePagnation
+                    .replace('PARAM_ACTIVE_PAGE', '')
+                    .replace('PARAM_PAGE_CHANGE', 1)
+                    .replace('PARAM_PAGE_NUMBER', 1);
+            }
+            if (startPage > 1) {
+                pageNumberHtml += threeDotText;
+            }
+
+            const endPage = startPage + (pageQuantityShow - 1) >= totalPage ? totalPage : startPage + (pageQuantityShow - 1);
+            for (var i = startPage; i <= endPage; i++) {
+                pageNumberHtml += templatePagnation
+                    .replace('PARAM_ACTIVE_PAGE', i === currentPage ? 'active' : '')
+                    .replace('PARAM_PAGE_CHANGE', i)
+                    .replace('PARAM_PAGE_NUMBER', i);
+            }
+            if (totalPage > endPage + 1) {
+                pageNumberHtml += threeDotText;
+            }
+            if (totalPage > endPage) {
+                pageNumberHtml += templatePagnation
+                    .replace('PARAM_ACTIVE_PAGE', '')
+                    .replace('PARAM_PAGE_CHANGE', totalPage)
+                    .replace('PARAM_PAGE_NUMBER', totalPage);
+            }
+
+            let previousHtml = templatePrevious.replace('PARAM_PREVIOUS_DISABLE', currentPage === 1 ? 'disabled' : '');
+            let nexthtml = templateNext.replace('PARAM_NEXT_DISABLE', currentPage === totalPage ? 'disabled' : '');
+
+            document.getElementById('pagnationUl').innerHTML = "";
+            document.getElementById('pagnationUl').innerHTML = previousHtml + pageNumberHtml + nexthtml;
+        }
+        /**
+         * PAGNATION: END
+         * */
+    (function () {
+        const stateFromBtnBack = sessionStorage.getItem("MEDIAROOM_FILTER_STATE_FROM_BTN_BACK");
+        const stateFromArticleCategory = localStorage.getItem("MEDIAROOM_CATEGORY_FILTER");
+        const ChoosenArticleCategory = JSON.parse(stateFromArticleCategory)
+        const stateFromArticleTopic = localStorage.getItem("MEDIAROOM_TOPICS_FILTER");
+        const ChoosenArticleTopic = JSON.parse(stateFromArticleTopic)
+        if (!!stateFromBtnBack) {
+            filterMediaRoom(stateFromBtnBack);
+        }
+        else if (!!ChoosenArticleCategory) {
+            filterMediaRoomCategory(ChoosenArticleCategory.type, true);
+        }
+        else if (!!ChoosenArticleTopic) {
+            filterMediaRoomTopics(ChoosenArticleTopic.topic, true);
+        }
+        else {
+            filterMediaRoom();
+        }
+
+    })();
+        
+</script>
+
+    </div>
+</div> <div class="sharethis-inline-share-buttons" aria-hidden="true"></div> 
+
+
+<footer class="sgds footer" aria-hidden="true">
+    <section class="footer-top">
+        <div class="container-fluid">
+            <div class="row footer-header">
+                <div class="footer-title">
+                    Ministry of Social and Family Development
+                </div>
+            </div>
+
+            <div class="row footer-contact-links">
+                <div class="col-sm-12">
+                    <div class="d-flex flex-column flex-lg-row gap-20 gap-lg-0 justify-content-lg-end">
+                        <div class="d-flex justify-content-lg-end">
+                            <ul class="d-flex flex-column flex-lg-row gap-lg-40 contact-links">
+                                        <li><a class="" href="/contact-us-feedback" aria-label="Contact Us / Feedback">Contact Us / Feedback</a></li>
+                                        <li><a class="not-first-page" href="/faqs" aria-label="FAQs">FAQs</a></li>
+                            </ul>
+                        </div>
+                        <div class="d-flex align-items-lg-center justify-content-lg-end">
+                            <ul class="d-flex social-links">
+                                <li>
+                                    <a href="https://www.facebook.com/MSFSingapore/" aria-label="facebook">
+                                        <em class="fa-brands fa-square-facebook"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/msfcares/" aria-label="instagram">
+                                        <em class="fa-brands fa-instagram"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://t.me/msfcares" aria-label="telegram">
+                                        <em class="fa-brands fa-telegram"></em>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="footer-bottom">
+        <div class="container-fluid">
+            <hr class="footer-divider">
+            <div class="row footer-mandatory-links">
+                <div class="col-12 col-lg-8 col-xl-9">
+                    <ul class="footer-nav-list">
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links " href="/report-vulnerability" rel="noopener" aria-label="Report Vulnerability
+
+">Report Vulnerability
+
+</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/privacy-statement" rel="noopener" aria-label="Privacy Statement">Privacy Statement</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/terms-of-use" rel="noopener" aria-label="Terms of Use&nbsp;">Terms of Use&nbsp;</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/sitemap" rel="noopener" aria-label="Sitemap">Sitemap</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/accessibility-statement" rel="noopener" aria-label="Accessibility Statement">Accessibility Statement</a>
+                                </li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg footer-copyrights">
+                    <div class="d-flex justify-content-lg-end text-lg-end">
+                        © 2024 Government of Singapore<br>
+                        Last updated 10 Mar 2023
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+
+
+ <div class="accessibility-sidebar" aria-hidden="true"> <div class="btn-group-vertical btn-group-sm" role="group" aria-label="Accessibility Sidebar"> <button type="button" class="btn btn-accessibility btn-notice" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Show/Hide Notice" data-bs-original-title="Show/Hide Notice"> <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10 0C8.02219 0 6.08879 0.58649 4.4443 1.6853C2.79981 2.78412 1.51809 4.3459 0.761209 6.17317C0.00433284 8.00043 -0.193701 10.0111 0.192152 11.9509C0.578004 13.8907 1.53041 15.6725 2.92894 17.0711C4.32746 18.4696 6.10929 19.422 8.0491 19.8079C9.98891 20.1937 11.9996 19.9957 13.8268 19.2388C15.6541 18.4819 17.2159 17.2002 18.3147 15.5557C19.4135 13.9112 20 11.9778 20 10C20 8.68678 19.7413 7.38642 19.2388 6.17317C18.7363 4.95991 17.9997 3.85752 17.0711 2.92893C16.1425 2.00035 15.0401 1.26375 13.8268 0.761205C12.6136 0.258658 11.3132 0 10 0ZM10 18C8.41775 18 6.87104 17.5308 5.55544 16.6518C4.23985 15.7727 3.21447 14.5233 2.60897 13.0615C2.00347 11.5997 1.84504 9.99113 2.15372 8.43928C2.4624 6.88743 3.22433 5.46197 4.34315 4.34315C5.46197 3.22433 6.88743 2.4624 8.43928 2.15372C9.99113 1.84504 11.5997 2.00346 13.0615 2.60896C14.5233 3.21447 15.7727 4.23984 16.6518 5.55544C17.5308 6.87103 18 8.41775 18 10C18 12.1217 17.1572 14.1566 15.6569 15.6569C14.1566 17.1571 12.1217 18 10 18Z"></path> <path d="M10 7C10.5523 7 11 6.55228 11 6C11 5.44772 10.5523 5 10 5C9.44772 5 9 5.44772 9 6C9 6.55228 9.44772 7 10 7Z"></path> <path d="M10 8C9.73478 8 9.48043 8.10536 9.29289 8.29289C9.10536 8.48043 9 8.73478 9 9V14C9 14.2652 9.10536 14.5196 9.29289 14.7071C9.48043 14.8946 9.73478 15 10 15C10.2652 15 10.5196 14.8946 10.7071 14.7071C10.8946 14.5196 11 14.2652 11 14V9C11 8.73478 10.8946 8.48043 10.7071 8.29289C10.5196 8.10536 10.2652 8 10 8Z"></path> </svg> </button> <button type="button" class="btn btn-accessibility btn-font-bigger" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Increase Font Size" data-bs-original-title="Increase Font Size">
+                    A+
+                </button> <button type="button" class="btn btn-accessibility btn-font-smaller" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Decrease Font Size" data-bs-original-title="Decrease Font Size">
+                    A−
+                </button> <button type="button" class="btn btn-accessibility btn-contrast" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Toggle Colour Contrast" data-bs-original-title="Toggle Colour Contrast"> <em class="fa-solid fa-circle-half-stroke"></em> </button> </div> </div> <div class="back-to-top" aria-hidden="true"> <button class="btn-back-top" aria-label="back to top"> <svg width="16" height="8" viewBox="0 0 16 8" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4826 7.76568C14.8297 8.07811 15.3925 8.07811 15.7396 7.76568C16.0868 7.45326 16.0868 6.94673 15.7396 6.63432L8.62853 0.23424C8.2814 -0.0780799 7.71859 -0.0780799 7.37146 0.23424L0.260266 6.63432C-0.0867557 6.94673 -0.0867557 7.45326 0.260266 7.76567C0.607466 8.07811 1.17031 8.07811 1.51751 7.76567L8 3L14.4826 7.76568Z"></path> </svg> <span>Top</span> </button> </div> <script src="/ResourcePackages/Msf/assets/js/jquery.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/jquery-ui.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/swiper-bundle.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/bootstrap.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/default-passive-events.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/search-result.js" type="text/javascript"></script> <script src="https://assets.wogaa.sg/scripts/wogaa.js"></script> <script type="text/javascript" src="/ResourcePackages/Msf/assets/js/sharethis.js#property=648140a26773dd0012e17a9b&amp;product=inline-share-buttons&amp;source=platform" async="async"></script> <script>
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window, document, 'script', 'dataLayer', 'G-7WBNTH91BT');
+            </script> <!-- Global site tag (gtag.js) - Google Analytics --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7WBNTH91BT"></script> <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-7WBNTH91BT');
+            </script> <script type="module" src="https://cdn.jsdelivr.net/npm/@govtechsg/sgds-web-component/Masthead/index.js"></script> <script src="/ResourcePackages/Msf/assets/js/main.min.js" type="text/javascript"></script> <script src="/Mvc/Scripts/MediaRoom/custom-select.js" type="text/javascript"></script> 
+<div id="st-2" class=" st-sticky-share-buttons st-left st-toggleable st-has-labels " aria-hidden="true"><div class="st-btn st-first" data-network="facebook" style="display: inline-block;">
+  <img alt="facebook sharing button" src="https://platform-cdn.sharethis.com/img/facebook.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="linkedin" style="display: inline-block;">
+  <img alt="linkedin sharing button" src="https://platform-cdn.sharethis.com/img/linkedin.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="gmail" style="display: inline-block;">
+  <img alt="gmail sharing button" src="https://platform-cdn.sharethis.com/img/gmail.svg">
+  <span class="st-label">Email</span>
+</div><div class="st-btn st-last" data-network="copy" style="display: inline-block;">
+  <img alt="copy sharing button" src="https://platform-cdn.sharethis.com/img/copy.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-toggle">
+  <div class="st-left">
+    <img alt="arrow_left sharing button" src="https://platform-cdn.sharethis.com/img/arrow_left.svg">
+  </div>
+  <div class="st-right">
+    <img alt="arrow_right sharing button" src="https://platform-cdn.sharethis.com/img/arrow_right.svg">
+  </div>
+</div></div><wog-sentiments class="needsclick hydrated" aria-hidden="true"></wog-sentiments><link href="https://webchat.vica.gov.sg/static/css/chat.css" type="text/css" rel="stylesheet" referrerpolicy="origin" aria-hidden="true"><script src="https://webchat.vica.gov.sg/static/js/chat.js" type="text/javascript" referrerpolicy="origin" defer=""></script></body></html>

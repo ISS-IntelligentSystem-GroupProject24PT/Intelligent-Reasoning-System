@@ -1,0 +1,979 @@
+<html lang="en" class="hydrated"><head> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>
+	Enabling Masterplan 2030 - 2023 Updates
+</title> <link rel="icon" type="image/png" href="/ResourcePackages/Msf/assets/img/favIco.png"> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&amp;family=Open+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet">  <link href="/ResourcePackages/Msf/assets/css/sgds.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap-icons.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/all.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/sf-bootstrap-conflict.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/jquery-ui.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/swiper-bundle.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/search-result.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/main.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/custom-style.min.css" rel="stylesheet"> <meta property="og:title" content="Enabling Masterplan 2030 - 2023 Updates"><meta property="og:url" content="https://www.msf.gov.sg/what-we-do/enabling-masterplans/emp2030/yearly-updates/2023"><meta property="og:type" content="website"><meta property="og:site_name" content="Ministry of Social and Family Development"><script async="" src="https://buttons-config.sharethis.com/js/648140a26773dd0012e17a9b.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=G-7WBNTH91BT"></script><script async="" src="https://assets.wogaa.sg/snowplow/3.13.1/sp.js"></script><script type="text/javascript">
+function lateLoadChatFile() {      
+  setTimeout(() => {        
+              const bodyTag = document.getElementsByTagName("body")[0];      
+             // Create link element to import chat.css file and append it on the body element        
+             let linkTag = document.createElement("link");
+  linkTag.href = "https://webchat.vica.gov.sg/static/css/chat.css";         linkTag.type = "text/css";
+  linkTag.rel = "stylesheet";       
+  linkTag.referrerPolicy = "origin";      
+  bodyTag.appendChild(linkTag);        
+  // Create script element to import chat.js file and append it on the body element       
+  let scriptTag = document.createElement("script");         scriptTag.src = "https://webchat.vica.gov.sg/static/js/chat.js";         scriptTag.type = "text/javascript";      
+  scriptTag.referrerPolicy = "origin";         
+  scriptTag.defer = true;         
+  bodyTag.appendChild(scriptTag);      
+}, 5000);  
+}
+</script><script type="text/javascript">
+(function() {
+  // add beta text 
+  let timerId = setInterval(function(){
+	if(!document.getElementsByClassName("sc-htpNat")[0]) return;
+	
+	clearInterval(timerId);
+	document.getElementsByClassName("sc-htpNat")[0].addEventListener("click", changeText);
+	document.getElementsByClassName("sc-EHOje")[0].addEventListener("click", changeText);
+  }, 5000);
+  function changeText() {
+	const ele = $("#webchat-container p:contains('Ask MSF')");
+	ele.html("");
+	ele.append("Ask MSF <span style='font-size: 14px !important;position: relative;top: -9px;left: 5px;font-weight: lighter;'>beta</span>");
+  }
+})();
+</script><link rel="canonical" href="https://www.msf.gov.sg/what-we-do/enabling-masterplans/emp2030/yearly-updates/2023"><script async="" src="https://assets.wogaa.sg/scripts/wogaa.js?url=https%3A%2F%2Fwww.msf.gov.sg%2Fwhat-we-do%2Fenabling-masterplans%2Femp2030%2Fyearly-updates"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style type="text/css">#st-2 {
+  font-family: "Helvetica Neue", Verdana, Helvetica, Arial, sans-serif;;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  backface-visibility: hidden;
+  display: block;
+  position: fixed;
+  opacity: 1;
+  text-align: left;
+  top: 310px;
+  z-index: 94034;
+}
+#st-2.st-left {
+  left: 0px;
+}
+#st-2.st-hidden.st-left {
+  left: -48px;
+}
+#st-2.st-hidden {
+  width: 96px;
+}
+#st-2.st-preview {
+  display: none!important;
+  opacity: 0!important;
+}
+#st-2 > div {
+  clear: left;
+  float: left;
+}
+#st-2 .st-btn {
+  -moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  height: 48px;
+  line-height: 24px;
+  margin-bottom: 0;
+  opacity: 1;
+  overflow: hidden;
+  padding: 12px;
+  position: relative;
+  text-align: left;
+  top: 0;
+  vertical-align: top;
+  white-space: nowrap;
+  width: 48px;
+}
+#st-2 .st-btn.st-first {
+  border-top: none;
+  border-top-right-radius: 4px;
+}
+#st-2 .st-btn.st-last {
+  border-bottom: none;
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn > svg {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > img {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > span {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  color: #fff;
+  display: inline-block;
+  font-weight: 500;
+  left: -35px;
+  letter-spacing: 0.5px;
+  opacity: 0;
+  padding: 0 6px;
+  position: relative;
+  vertical-align: top;
+  filter: alpha(opacity=0);
+}
+#st-2 .st-btn.st-hide-label > span {
+  display: none !important;
+}
+#st-2 .st-total {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #fff;
+  color: #555;
+  display: inline-block;
+  font-weight: 500;
+  line-height: 18px;
+  margin-right: 0;
+  min-height: 34px;
+  max-width: 80px;
+  opacity: 1;
+  padding: 4px 0;
+  text-align: center;
+  width: 48px;
+}
+#st-2 .st-total.st-hidden {
+  display: none;
+}
+#st-2 .st-total > span {
+  display: block;
+  font-size: 18px;
+  line-height: 21px;
+  padding: 0;
+}
+#st-2 .st-total > span.st-shares {
+  font-size: 11px;
+  line-height: 11px;
+}
+#st-2 .st-toggle {
+  left: -48px;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #ccc;
+  border-bottom-right-radius: 4px;
+  color: white;
+  cursor: pointer;
+  font-size: 24px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: 48px;
+}
+#st-2.st-hidden .st-toggle {
+  border-top-right-radius: 4px;
+}
+#st-2.st-left .st-toggle .st-left {
+  display: inline-block;
+}
+#st-2.st-left.st-hidden .st-toggle .st-left {
+  display: none;
+}
+#st-2.st-left .st-toggle .st-right {
+  display: none;
+}
+#st-2.st-left.st-hidden .st-toggle .st-right {
+  display: inline-block;
+}#st-2:hover .st-toggle {
+  left: 0;
+}
+#st-2.st-hidden:hover .st-toggle {
+  left: 48px;
+}
+#st-2.st-toggleable:hover .st-btn.st-last {
+  border-bottom-right-radius: 0;
+}
+#st-2.st-toggleable:hover .st-btn.st-last:hover {
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn:hover {
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+}
+#st-2.st-has-labels .st-btn:hover {
+  width: 120px;
+}
+#st-2:not(.st-has-labels) .st-btn:hover {
+  width: 62px;
+}
+#st-2 .st-btn.st-hide-label:hover {
+  width: 62px;
+}
+#st-2 .st-btn:hover > svg {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > img {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > span {
+  opacity: 1;
+  display: inline-block;
+  left: 0;
+  filter: alpha(opacity=100);
+}
+@media (max-width: 1024px) {
+  #st-2 .st-btn:hover > svg {
+    margin-left: 0;
+  }
+  #st-2 .st-btn:hover > span {
+    display: none;
+  }
+}@media (max-width: 1024px) {
+  #st-2 {
+  bottom: 0;
+  display: none;
+  left: 0;
+  right: 0;
+  top: auto;
+  width: 100%;
+}
+#st-2.st-hidden {
+  bottom: -48px;
+  width: 100%;
+}
+#st-2.st-hidden.st-left {
+  left: 0;
+}
+#st-2.st-hidden.st-right {
+  right: 0;
+}
+#st-2 > div {
+  -moz-flex: 1;
+  -ms-flex: 1;
+  -webkit-flex: 1;
+  clear: none;
+  flex: 1;
+  float: none;
+}
+#st-2 .st-total {
+  background: #fff;
+  padding: 6px 8px;
+}
+#st-2 .st-btn {
+  -moz-border-radius: 0 !important;
+-webkit-border-radius: 0 !important;
+border-radius: 0 !important;
+  text-align: center;
+  width: auto;
+}
+#st-2 .st-btn > span {
+  display: none;
+}
+#st-2 .st-toggle {
+  display: none;
+}
+}#st-2 .st-btn[data-network='facebook'] {
+  background-color: #4267B2
+}
+#st-2 .st-btn[data-network='facebook'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='facebook'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='linkedin'] {
+  background-color: #0077b5
+}
+#st-2 .st-btn[data-network='linkedin'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='linkedin'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='gmail'] {
+  background-color: #D44638
+}
+#st-2 .st-btn[data-network='gmail'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='gmail'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='copy'] {
+  background-color: #14682B
+}
+#st-2 .st-btn[data-network='copy'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='copy'] > span {
+  color: #fff
+}#st-2 .st-btn[data-network='snapchat'] > span {
+  color: #333};
+}#st-2 .st-btn[data-network='copy']:hover {
+  width: max-content;
+}</style><script type="module" src="https://assets.wogaa.sg/sentiments/sentiments.esm.js" async=""></script><script nomodule="" src="https://assets.wogaa.sg/sentiments/sentiments.js" async=""></script></head> <body onload="lateLoadChatFile();"> 
+
+<div id="webchat" app-id="msf-askmsf" app-name="Ask MSF" app-font-family="Arial" app-base-font-size="16" app-icon="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" app-welcome-message="Have a question? Type to get quick answers." app-color="#DE7C00" app-foreground-color1="#FFFFFF" app-bot-response-trigger-event="true" app-quick-launch-event="welcome" app-enable-auto-complete="false" app-auto-complete-background-color="#FFEDD7" app-auto-complete-foreground-color="#2E2E2E" app-auto-complete-hover-color="#FFCA88" app-auto-complete-divider-color="#DE7C00"></div>
+
+
+<div class="announcements-bar">
+    <div class="container-fluid">
+        <div class="row g-0 position-relative align-items-center">
+            <div class="col">
+                <div class="swiper announcementSwiper">
+                    <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <p>Have a question about MSF? Find quick answers with our chatbot Ask MSF.<!--EndFragment--></p>
+                            </div>
+                                                                                                                    </div>
+                </div>
+            </div>
+            <div class="col-auto align-self-start">
+                <div class="announcements-close">
+                    <button class="btn-close btn-ann-close btn-close-white" aria-label="Close"></button>
+                </div>
+            </div>
+        </div>
+        <div class="row g-0 position-relative">
+            <div class="col-12 col-md-auto buttons-align">
+                <div class="announcements-buttons">
+                    <div class="announcements-swiper-button swiper-button-prev">
+                        <em class="fa-solid fa-chevron-left"></em>
+                    </div>
+                    <div class="announcements-pagination"></div>
+                    <div class="announcements-swiper-button swiper-button-next">
+                        <em class="fa-solid fa-chevron-right"></em>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+ <sgds-masthead fluid="" class="sgds-masthead-class"></sgds-masthead> 
+<div class="layout-subsite">
+    <div id="Content_T7AD4A7CC001_Col00" class="sf_colsIn" data-sf-element="Navigation" data-placeholder-label="Navigation">
+
+<header>
+    <nav class="sgds navbar navbar-expand-xl main-navbar">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/" aria-label="home page">
+                <img src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69" title="MSF logo">
+            </a>
+
+            <button class="btn btn-nav-search px-24 ms-auto d-block d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#searchbarCollapse" aria-expanded="false" aria-controls="searchbarCollapse" aria-label="search icon">
+                <em class="fa-solid fa-search"></em>
+            </button>
+
+            <div class="collapse" id="searchbarCollapse">
+                <div class="container-fluid p-0 px-12">
+                    <div class="nav-searchbar">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Search our website" id="navSearchBarSearchInput" data-search="navSearchBarSearchInput">
+                            <button class="btn btn-search" type="button" id="navSearchBarBtnSearch" aria-label="search">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <span>Search</span>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Menu">
+                Menu
+            </button>
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <img class="offcanvas-header-logo" src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69">
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+
+                <div class="offcanvas-searchbar">
+                    <div class="sgds form-group">
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="defaultWith" aria-describedby="defaultWith" placeholder="Search our website">
+                            <button class="btn btn-offcanvas-search" type="button">
+                                <em class="fa-solid fa-search form-control-icon"></em>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav d-flex d-xl-none">
+                        <li class="nav-item">
+                            <a href="/" class="nav-link submenu-link" data-bs-dismiss="offcanvas" aria-current="page" aria-label="Home"><span>Home</span></a>
+                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#who-we-are-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#what-we-do-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#our-services-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#research-data-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#join-us-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+
+                    <div class="d-block d-xl-none">
+                                <div class="collapse collapse-horizontal submenu" id="who-we-are-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#who-we-are-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Who We Are</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/mission-values" class="nav-link sgds" aria-label="Mission &amp; Values"><span class="nav-link-text"><span>Mission &amp; Values</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/organisation-chart" class="nav-link sgds" aria-label="Organisation Chart"><span class="nav-link-text"><span>Organisation Chart</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/agencies-statutory-boards-councils" class="nav-link sgds" aria-label="Agencies, Statutory Boards &amp; Councils"><span class="nav-link-text"><span>Agencies, Statutory Boards &amp; Councils</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/senior-management-team" class="nav-link sgds" aria-label="Senior Management Team"><span class="nav-link-text"><span>Senior Management Team</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="what-we-do-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#what-we-do-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>What We Do</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/help-those-in-need" class="nav-link sgds" aria-label="Help Those in Need"><span class="nav-link-text"><span>Help Those in Need</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/support-families-and-parents" class="nav-link sgds" aria-label="Support Families &amp; Parents"><span class="nav-link-text"><span>Support Families &amp; Parents</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/strengthen-the-social-service-sector" class="nav-link sgds" aria-label="Strengthen the Social Service Sector"><span class="nav-link-text"><span>Strengthen the Social Service Sector</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="our-services-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#our-services-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Our Services</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/our-services/directories" class="nav-link sgds" aria-label="Directories"><span class="nav-link-text"><span>Directories</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/our-services/e-services" class="nav-link sgds" aria-label="E-Services"><span class="nav-link-text"><span>E-Services</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="research-data-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#research-data-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Research &amp; Data</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-reports-data" class="nav-link sgds" aria-label="Research Report &amp; Data"><span class="nav-link-text"><span>Research Report &amp; Data</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-grants" class="nav-link sgds" aria-label="Research Grants"><span class="nav-link-text"><span>Research Grants</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/Research-Conferences-Forums-Networks" class="nav-link sgds" aria-label="Research Conferences, Forums &amp; Networks"><span class="nav-link-text"><span>Research Conferences, Forums &amp; Networks</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="join-us-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#join-us-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Join Us</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/join-us/volunteer-with-msfcare-network" class="nav-link sgds" aria-label="Volunteer with MSFCare Network"><span class="nav-link-text"><span>Volunteer with MSFCare Network</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/jobs-careers" class="nav-link sgds" aria-label="Jobs &amp; Careers"><span class="nav-link-text"><span>Jobs &amp; Careers</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/scholarships-internships" class="nav-link sgds" aria-label="Scholarships &amp; Internships"><span class="nav-link-text"><span>Scholarships &amp; Internships</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                    </div>
+
+                    <ul class="navbar-nav justify-content-end flex-grow-1 d-none d-xl-flex">
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/mission-values" aria-label="Mission &amp; Values">
+                                                            Mission &amp; Values
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/organisation-chart" aria-label="Organisation Chart">
+                                                            Organisation Chart
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/agencies-statutory-boards-councils" aria-label="Agencies, Statutory Boards &amp; Councils">
+                                                            Agencies, Statutory Boards &amp; Councils
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/senior-management-team" aria-label="Senior Management Team">
+                                                            Senior Management Team
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/help-those-in-need" aria-label="Help Those in Need">
+                                                            Help Those in Need
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/support-families-and-parents" aria-label="Support Families &amp; Parents">
+                                                            Support Families &amp; Parents
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/strengthen-the-social-service-sector" aria-label="Strengthen the Social Service Sector">
+                                                            Strengthen the Social Service Sector
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/directories" aria-label="Directories">
+                                                            Directories
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/e-services" aria-label="E-Services">
+                                                            E-Services
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-reports-data" aria-label="Research Report &amp; Data">
+                                                            Research Report &amp; Data
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-grants" aria-label="Research Grants">
+                                                            Research Grants
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/Research-Conferences-Forums-Networks" aria-label="Research Conferences, Forums &amp; Networks">
+                                                            Research Conferences, Forums &amp; Networks
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/volunteer-with-msfcare-network" aria-label="Volunteer with MSFCare Network">
+                                                            Volunteer with MSFCare Network
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/jobs-careers" aria-label="Jobs &amp; Careers">
+                                                            Jobs &amp; Careers
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/scholarships-internships" aria-label="Scholarships &amp; Internships">
+                                                            Scholarships &amp; Internships
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+<!-- prettier-ignore -->
+<div class="container-fluid">
+    <nav aria-label="breadcrumb" class="breadcrump-wrapper">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>
+                        <a href="/what-we-do/enabling-masterplans" aria-label="Enabling Masterplans">Enabling Masterplans</a>
+                    </li>
+                    <li class="breadcrumb-item">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>
+                        <a href="/what-we-do/enabling-masterplans/emp2030" aria-label="Enabling Masterplan 2030">Enabling Masterplan 2030</a>
+                    </li>
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>2023
+                    </li>
+        </ol>
+        <div class="breadcrumb-mobile">
+            <a href="/" aria-label="Home">
+                <em class="fa-solid fa-chevron-left"></em>
+                <span>Home</span>
+            </a>
+        </div>
+    </nav>
+</div>
+
+
+
+        <img loading="lazy" class="mx-auto d-block" src="/images/default-source/enabling-masterplans/19-jul-2023_1920-x-454_white-bg.png?sfvrsn=51cef04b_3" title="Enabling Masterplan 2023" alt="Enabling Masterplan 2030">
+
+    </div>
+    <div id="Content_T7AD4A7CC001_Col01" class="sf_colsIn" data-sf-element="Content" data-placeholder-label="Content">
+
+<div class="title-wrapper" style="margin-bottom: 28px; margin-top: 60px;">
+    <div class="container-fluid" style="padding-right: 0;">
+        <div class="title-line" style="border-bottom: 2px solid;">
+            <h1 style="font-style: normal; font-weight: 600; font-size: 40px; line-height: 52px; color: #181A18; margin-bottom: 40px;">
+                Yearly Updates
+            </h1>
+        </div>
+    </div>
+</div><div class="subsite-layout" data-sf-element="Layout">
+    <section class="subsite theme" data-sf-element="Section">
+        <div class="col-12" data-sf-element="Row">
+            <div class="container-fluid" data-sf-element="Row">
+                <div class="row justify-content-between" data-sf-element="Row">
+                    <div id="Content_C012_Col00" class="sf_colsIn col-12 col-lg-3 sub-navbar" data-sf-element="Subsite Navigation" data-placeholder="Subsite Navigation">
+
+
+    <nav class="sidenav sgds list-unstyled open d-none d-lg-block">
+        <ul>
+                    <li class="sidenav-item">
+                        <a href="/what-we-do/enabling-masterplans/emp2030/yearly-updates/2023" class="sgds btn btn-sidenav sidenav-link " aria-label="2023">2023</a>
+                    </li>
+                    <li class="sidenav-item">
+                        <a href="/what-we-do/enabling-masterplans/emp2030/yearly-updates/2022" class="sgds btn btn-sidenav sidenav-link " aria-label="2022">2022</a>
+                    </li>
+        </ul>
+    </nav>
+
+<div class="dropdown-sidenav d-block d-lg-none">
+    <button class="btn btn-drop-sidenav w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapse" aria-expanded="false" aria-controls="collapse" aria-label="View More Info">
+        View More Info
+        <em class="fa-solid fa-chevron-down"></em>
+    </button>
+
+        <div class="collapse" id="collapse">
+                    <a href="/what-we-do/enabling-masterplans/emp2030/yearly-updates/2023" class="btn btn-content-link w-100 " aria-label="2023">2023</a>
+                    <a href="/what-we-do/enabling-masterplans/emp2030/yearly-updates/2022" class="btn btn-content-link w-100 " aria-label="2022">2022</a>
+        </div>
+</div>
+
+                    </div>
+                    <div id="Content_C012_Col01" class="sf_colsIn col-12 col-lg-9 sub-section" data-sf-element="Subsite Content" data-placeholder-label="Subsite Content">
+<p>&nbsp;</p><h2>Strategic Theme I: Strengthen Support For Lifelong Learning In A Fast-Changing Economy</h2><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_1"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_1" aria-expanded="true" aria-controls="collapse_1">Lowered OOP expenses for EIPIC-P
+                </button></h2><div id="collapse_1" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>In Jul 2023, fee caps were introduced for EIPIC-P (previously known as PPIP) to lower out-of-pocket expenses for parents, and ensure that it is an affordable option for families . More families who are waiting for a place in EIPIC
+                        can enrol their children in EIPIC-P instead. This contributes to achieving Focal Area 1 of the Enabling Masterplan: Early Years. </p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_2"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_2" aria-expanded="true" aria-controls="collapse_2">Expanded EIPIC and EIPIC-P capacity
+                </button></h2><div id="collapse_2" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>ECDA has further expanded the capacity of EIPIC-P by 830, to 1,515 places with the appointment of 13 new centres. Two new EI centres offering EIPIC will also commence operations by the end of the year, adding up to 290 places. These
+                        will enable more children requiring medium to high levels of EI support to receive timely support. </p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_3"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_3" aria-expanded="true" aria-controls="collapse_3">Launched new Special Education (SPED) school for students with multiple disabilities
+                </button></h2><div id="collapse_3" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>Cerebral Palsy Alliance Singapore School (West) began operations at Jurong West in June 2023. It caters to students with multiple disabilities.</p><p>MOE has also announced the setting up of a new SPED school to cater to students with moderate SEN who have Autism Spectrum Disorder (ASD) and can access the National Curriculum, to be run by Methodist Welfare Services in partnership
+                        with ACS. This new school is expected to be operational at an interim site by 2026. </p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_4"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_4" aria-expanded="true" aria-controls="collapse_4">Launched new SPED teaching and learning syllabuses for Communication and Language and Social-Emotional Learning
+                </button></h2><div id="collapse_4" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>Two new SPED Teaching and Learning Syllabuses will be launched on 3 November 2023. The Communication and Language (C&amp;L) TLS will place greater emphasis on developing communication skills through a stronger partnership between teachers
+                        and speech and language therapists, leveraging assistive technology as well as alternative and augmentative communication tools. The Social-Emotional Learning (SEL) TLS will equip students with knowledge and skills for personal
+                        and social well-being, self-determination, and resilience, through critical competencies such as goal-setting, problem solving and self-advocacy, to increase students’ agency and confidence in determining and pursuing their
+                        interests and aspirations. </p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_5"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_5" aria-expanded="true" aria-controls="collapse_5">Enhanced School Partnerships (Gen Ed – SPED) to promote integration opportunities for students and professional exchange for staff
+                </button></h2><div id="collapse_5" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>From 2023, “Satellite Partnerships" has been rebranded as “School Partnerships (Gen Ed-SPED)", to broaden and deepen existing partnerships while cultivating greater collaboration between SPED and Gen Ed schools to support
+                        the vision for an inclusive Singapore. </p><p>In addition to sustainable and purposeful integration opportunities for students, the scope of School Partnerships (Gen Ed – SPED) has been expanded to focus on promoting professional exchange and mutual learning between staff
+                        to build capabilities in enhancing pedagogical practices in the classroom and strengthen how staff facilitate integration between students to nurture them into empathetic, confident and independent learners. </p><p>To date, there are 22 partnerships between SPED and Gen Ed schools of which 3 partnerships were formalised in April 2023. They are Lighthouse School with Marymount Convent School, Casuarina Primary School with Metta School and Delta
+                        Senior School with Millenia Institute. </p></div></div></div></div></div><br><h2>&nbsp;</h2><h2>Strategic Theme II: Enable Persons with Disabilities to Live Independently</h2><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_6"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_6" aria-expanded="true" aria-controls="collapse_1">Recommendations released by Tripartite Committee on Workplace Fairness on
+                    upcoming Workplace Fairness Legislation
+                </button></h2><div id="collapse_6" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>The Government has accepted the recommendations by the Tripartite Committee on Workplace Fairness on the scope of the upcoming Workplace Fairness Legislation (WFL). The law will prohibit employers from making employment decisions because
+                        of disability, and employers will be supported should they wish to hire persons with disabilities. This supports the ongoing tripartite agenda to promote and facilitate employment opportunities for this group. Tripartite partners
+                        will also be developing a Tripartite Advisory to guide employers in providing reasonable accommodations, which are adjustments to the job or work environment that make it possible for employees with disabilities to perform their
+                        jobs. This contributes to Focal Area 4: Inclusive Employment. </p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_7"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_7" aria-expanded="true" aria-controls="collapse_1">Enhanced Enabling Employment Credit (EEC)
+                </button></h2><div id="collapse_7" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>The EEC was introduced in 2021 and provides wage offsets to employers of persons with disabilities. It originally consists of a permanent wage offset of up to 20%, capped at $400, and an additional time-limited wage offset of up to
+                        10%, capped at $200, for a period of 6 months for hiring persons with disabilities that were not working for at least 6 months. With effect from 1 April 2023, the additional wage offset was enhanced by increasing the support level
+                        and duration from 10% to 20% and 6 to 9 months respectively. Taken together with the permanent wage offset, employers can receive up to $8,400 in wage offsets for the first full year of employment. This contributes to Focal Area
+                        4: Inclusive Employment. </p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_8"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_8" aria-expanded="true" aria-controls="collapse_1">Launched first Enabling Services Hub (ESH)
+                </button></h2><div id="collapse_8" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>The first ESH was launched in Tampines on 14 August 2023. The ESH takes a regional approach to bring community support services closer to the homes of persons with disabilities and their caregivers. It will proactively reach out to
+                        PwDs with care needs and provide continual learning, social activities, and respite care. ESHs also partners various organisations in the region to make community activities inclusive for PwDs. It was set up by SG Enable, in partnership
+                        with SPD. </p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_12"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_12" aria-expanded="true" aria-controls="collapse_1">Improved caregiver support through Project 3i
+                </button></h2><div id="collapse_12" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>Project 3i is 3-prong approach supported by the Alliance for Action (AfA) for Caregivers of PWDs to develop community and mutual support (CAREconnect, CAREwell, CAREbuddy), formed by SG Enable and NCSS. The pilot seeks to establish
+                        a community support model with self-sustaining support networks for caregivers of persons with disabilities to be connected, starting with two pilot sites in Boon Lay and Kampong Glam. In 2023, the programme has been scaled to
+                        five constituencies, with the additional three being Nanyang, Telok Blangah and Bukit Batok East. Through the range of projects under the AfA, we have involved/supported over 3,100 individuals, including caregivers, and trained
+                        126 community volunteers and experienced caregivers to provide caregiver support.</p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_12"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_12" aria-expanded="true" aria-controls="collapse_1">Formed workgroup to support caregivers of persons with disabilities in future care planning
+                </button></h2><div id="collapse_12" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>SG Enable has formed a workgroup, comprising stakeholders with experience and expertise in future care planning (FCP), to develop an ecosystem of support for caregivers in future care planning. This involves identifying and addressing
+                        service gaps, building sector professionals’ capability and determining the best possible ways to support caregivers in FCP. Developing a playbook for guiding the process of future care planning is currently in progress.
+                        This is after the workgroup developed a framework for engaging and communicating FCP to caregivers, with different intensities of support - from light touch to intensive handholding - depending on caregivers' readiness and urgency
+                        for future care planning. In October 2023, sector professionals from adult disability services participated in a pilot training on engaging ageing caregivers and facilitating future care planning for their adult disabled care recipients.</p></div></div></div></div></div><br><h2>&nbsp;</h2><h2>Strategic Theme III: Create Inclusive Physical and Social Environments That Are Inclusive to Persons With Disabilities</h2><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_9"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_9" aria-expanded="true" aria-controls="collapse_1">Fostering caring commuting culture through Caring SG Commuters Committee initiatives
+                </button></h2><div id="collapse_9" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><!--StartFragment-->
+ <div><ul role="list"><li data-leveltext="·" data-font="Symbol" data-listid="16" data-list-defn-props="{" 335552541="" ":1,"="" 335559684="" ":-2,"="" 335559685="" ":720,"="" 335559991="" ":360,"="" 469769226="" ":"="" symbol="" ","="" 469769242="" ":[8226],"="" 469777803="" left="" 469777804="" ·="" 469777815="" hybridmultilevel="" "}"="" aria-setsize="-1" data-aria-posinset="1" data-aria-level="1" role="listitem"><p paraid="1768020279" paraeid="{31b809f9-c227-42ef-bf76-045498f0faac}{74}"><span style="text-decoration:underline;">Expansion of the Helping Hand Scheme.</span> The Helping Hand scheme was expanded in April 2023 to include the following two identifiers on top of the “May I have a Seat Please”
+                                    identifier:&nbsp;
+                                </p></li></ul></div><div><ul role="list" style="margin-left:30px;"><li data-leveltext="o" data-font="Courier New" data-listid="16" data-list-defn-props="{" 335552541="" ":1,"="" 335559684="" ":-2,"="" 335559685="" ":1440,"="" 335559991="" ":360,"="" 469769226="" ":"="" courier="" new="" ","="" 469769242="" ":[9675],"="" 469777803="" left="" 469777804="" o="" 469777815="" hybridmultilevel="" "}"="" aria-setsize="-1" data-aria-posinset="1" data-aria-level="2" role="listitem"><p paraid="1937257233" paraeid="{31b809f9-c227-42ef-bf76-045498f0faac}{83}"><strong>“This is a wheelchair”</strong>: Commuters travelling with a paediatric wheelchair may be mistaken for using a stroller. This initiative allows them to alert the public transport staff and other commuters
+                                    that the wheelchair cannot be folded, and to render assistance where required (e.g. deploying ramp to board or alight from a bus).&nbsp;&nbsp;
+                                </p></li><li data-leveltext="o" data-font="Courier New" data-listid="16" data-list-defn-props="{" 335552541="" ":1,"="" 335559684="" ":-2,"="" 335559685="" ":1440,"="" 335559991="" ":360,"="" 469769226="" ":"="" courier="" new="" ","="" 469769242="" ":[9675],"="" 469777803="" left="" 469777804="" o="" 469777815="" hybridmultilevel="" "}"="" aria-setsize="-1" data-aria-posinset="2" data-aria-level="2" role="listitem"><p paraid="1505242897" paraeid="{31b809f9-c227-42ef-bf76-045498f0faac}{92}"><strong>“Please alert me when I am approaching my stop”</strong>: This identifier allows commuters (e.g. those with low vision or dementia) to alert public transport staff and commuters to notify them when nearing
+                                    their destination.&nbsp;
+                                </p></li><li data-leveltext="o" data-font="Courier New" data-listid="16" data-list-defn-props="{" 335552541="" ":1,"="" 335559684="" ":-2,"="" 335559685="" ":1440,"="" 335559991="" ":360,"="" 469769226="" ":"="" courier="" new="" ","="" 469769242="" ":[9675],"="" 469777803="" left="" 469777804="" o="" 469777815="" hybridmultilevel="" "}"="" aria-setsize="-1" data-aria-posinset="3" data-aria-level="2" role="listitem"><p paraid="382940527" paraeid="{31b809f9-c227-42ef-bf76-045498f0faac}{101}">Commuters who require these card identifiers may collect them from Passenger Service Centres at train stations and bus interchanges.&nbsp;</p></li></ul></div><div><ul role="list"><li data-leveltext="·" data-font="Symbol" data-listid="13" data-list-defn-props="{" 335552541="" ":1,"="" 335559684="" ":-2,"="" 335559685="" ":720,"="" 335559991="" ":360,"="" 469769226="" ":"="" symbol="" ","="" 469769242="" ":[8226],"="" 469777803="" left="" 469777804="" ·="" 469777815="" hybridmultilevel="" "}"="" aria-setsize="-1" data-aria-posinset="2" data-aria-level="1" role="listitem"><p paraid="1740807836" paraeid="{31b809f9-c227-42ef-bf76-045498f0faac}{112}"><span style="text-decoration:underline;">Heart Zones.</span> Launch of two new Heart Zones at Punggol Bus Interchange and Sembawang Bus Interchange in March 2023 to provide platforms for commuters to help fellow commuters
+                                    at these public transport nodes, and increase awareness of the Four Caring Norms of ‘Give Time’, ‘Give Care’, ‘Give a Hand’ and ‘Give Thanks’. As at September 2023, we
+                                    have a total of 15 Heart Zone across 13 different locations.&nbsp;
+                                </p></li></ul></div><div><ul role="list"><li data-leveltext="·" data-font="Symbol" data-listid="13" data-list-defn-props="{" 335552541="" ":1,"="" 335559684="" ":-2,"="" 335559685="" ":720,"="" 335559991="" ":360,"="" 469769226="" ":"="" symbol="" ","="" 469769242="" ":[8226],"="" 469777803="" left="" 469777804="" ·="" 469777815="" hybridmultilevel="" "}"="" aria-setsize="-1" data-aria-posinset="3" data-aria-level="1" role="listitem"><p paraid="788398248" paraeid="{31b809f9-c227-42ef-bf76-045498f0faac}{127}"><span style="text-decoration:underline;">Travel Makers Programme.</span> The Travel Makers Programme, a partnership with MINDS and Youth Corps Singapore, supports students with intellectual disabilities to commute independently
+                                    on public transport with the support of volunteers, thereby integrating the students into the wider commuting community. In July 2023, a pilot of the Travel Makers Programme was launched with Lee Kong Chian Gardens
+                                    School and Towner Gardens School, Youth Corps Singapore and SMRT.&nbsp;</p></li></ul></div></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_10"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_10" aria-expanded="true" aria-controls="collapse_1">Enhanced transport infrastructure for persons with disabilities
+                </button></h2><div id="collapse_10" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p paraid="1608299347" paraeid="{31b809f9-c227-42ef-bf76-045498f0faac}{150}"><span style="text-decoration:underline;">Continual Efforts to Make
+                            Point-To-Point Transport More Accessible.</span> As at September 2023, 94% of taxi stands are barrier free.&nbsp;
+                    </p><p paraid="1523497900" paraeid="{31b809f9-c227-42ef-bf76-045498f0faac}{165}"><span style="text-decoration:underline;">Upgrading of Pedestrian Crossings
+                            with 24/7 On-Demand Audible Traffic Signals.</span> LTA announced that it will be installing 24/7 on-demand audible traffic signals at 325 pedestrian crossings across ten town centres by 2025. Between June and September 2023,
+                        LTA implemented 24/7 on-demand audio traffic signals in Bedok, Tampines and Jurong West. Works will be carried out progressively to install the traffic signals in Woodlands, Sengkang and Bukit Merah through the end of 2023. The
+                        implementation of these traffic signals will better enable persons with disabilities to navigate independently during their commutes, across all periods of the day.&nbsp;
+                    </p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_11"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_11" aria-expanded="true" aria-controls="collapse_1">Improved barrier-free wayfinding
+                </button></h2><div id="collapse_11" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>SLA conducted the final barrier-free access pilot testing session at Temasek House on 20 October 2023. Three other sessions had been conducted at the Enabling Village, Gardens by the Bay and Ang Mo Kio. This is a collaboration between
+                        SLA and SG Enable to map barrier-free routes to enable wheelchair users to move about easily. The sessions were part of SLA’s support for the Enabling Masterplan 2030 which sets out the vision for Singapore as an inclusive
+                        society by 2030. </p><p>SLA developed a pilot testing app with data relating to barrier-free routes such as those with wheelchair-accessible covered linkways, ramps, footpaths, pedestrian crossings, and overhead bridges with lifts have been mapped for Bukit
+                        Merah, Marina South, Tanglin, River Valley, Singapore River, Orchard, Museum, Ang Mo Kio and Punggol. The barrier-free access routing function will be added to OneMap for selected areas in March 2024, as an additional mode of wayfinding,
+                        to supplement the existing public transport, cycling and driving modes. </p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_12"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_12" aria-expanded="true" aria-controls="collapse_1">Accelerated accessibility upgrading through legislative changes
+                </button></h2><div id="collapse_12" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>The Government introduced building legislation amendments to accelerate accessibility upgrading in buildings, which took effect in June 2023. It requires building owners of existing non-barrier-free commercial and institution buildings,
+                        with Gross Floor Area of more than 500sqm, to provide basic accessibility features whenever any addition and alteration works are carried out in the building. </p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_13"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_13" aria-expanded="true" aria-controls="collapse_1">Piloted Community Integrated Health Team
+                </button></h2><div id="collapse_13" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>The CIHT pilot is helmed by Happee Hearts Movement Ltd., a charity and social service agency specialising in the care of persons with intellectual disabilities (PwIDs). The CIHT adopts a family-centric approach to holistically address
+                        healthcare issues for PwIDs with complex medical conditions. By providing more coordinated health and social services in the community, the CIHT aims to reduce the need for PwIDs to visit acute hospitals or live in residential
+                        facilities in order to receive the appropriate care.
+                    </p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_15"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_15" aria-expanded="true" aria-controls="collapse_1">Made ActiveSG gyms inclusive to encourage sport participation among persons with disabilities
+                </button></h2><div id="collapse_15" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>There are ongoing efforts to improve accessibility and encourage sport participation amongst PwDs. To-date, SportSG has set up eight inclusive ActiveSG gyms and retrofitted swimming pools in six ActiveSG centres with ramps for wheelchairs.
+                        We are on track to make all 27 ActiveSG gyms inclusive by 2026.
+                    </p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_16"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_16" aria-expanded="true" aria-controls="collapse_1">Expanded sports opportunities through Para Sports Academy
+                </button></h2><div id="collapse_16" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>The Para Sports Academy has rolled out 10 sports with more than 200 participants to date since its launch in March 2022. The Academy will continue to work with partners in the para sport ecosystem to create more opportunities for PwDs
+                        to participate in sport and develop pathways for them to pursue sport at a competitive level. </p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_17"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_17" aria-expanded="true" aria-controls="collapse_1">Updating Disability Sports
+                    Master Plan (DSMP)
+                </button></h2><div id="collapse_17" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>MCCY is engaging stakeholders to harvest ideas on how we can better support PwDs in sports participation, with a view to update the DSMP. Possible areas of focus include driving greater awareness of disability sports, increasing PwDs’
+                        access to sports and enhancing opportunities for PwDs to pursue their sporting aspirations. More details will be provided in due course. </p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_18"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_18" aria-expanded="true" aria-controls="collapse_1">Improved Inclusivity of
+                    our Cultural Facilities, and Arts and Heritage Programmes
+                </button></h2><div id="collapse_18" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>There are ongoing efforts to make our cultural facilities inclusive and accessible. Some of our cultural institutions and museums have dedicated sensory rooms, such as National Museum of Singapore (NMS)’s Quiet Room and National
+                        Gallery Singapore (NGS)’s Calm Room.
+                    </p><p>These rooms are safe spaces for visitors who might experience sensory overload to calm down before resuming their museum visits, particularly individuals on the autism spectrum. </p><p>Our cultural institutions also work closely with community partners, such as SG Enable, to introduce inclusive programming and initiatives for people with additional needs and their caregivers. For example: </p><p>NMS opens an hour earlier on selected days monthly, also known as “Quiet Mornings”, to allow these visitors to learn about Singapore’s heritage in a quieter and calmer environment. </p><p>All Esplanade Presents programmes that offer concessions have ticket concessions for persons with disabilities that can also be utilised by an accompanying companion. Esplanade also presents Relaxed Performances under its PLAYtime!
+                        series, with modifications such as adjusted lightings and sound levels, and calm spaces, to provide a welcoming environment for persons on the autism spectrum or with sensory sensitivities. </p><p>Since 2022, the Asian Civilisations Museum (ACM) has partnered with Dialogue in the Dark Singapore on Up Close with ACM, a monthly programme led by facilitators with visual impairment. During the session, blind-folded participants
+                        handle 3D-printed objects based on the ones in the museum’s collection, experiencing the museum in a new way from the perspective of their facilitators. </p><p>The National Arts Council (NAC) has supported 45 projects with various Special Education (SPED) schools through its Artist-in-School Scheme in 2022 and 2023. These projects aim to deepen students’ understanding and appreciation
+                        of the arts, as well as support broader educational outcomes through the arts. </p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_19"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_19" aria-expanded="true" aria-controls="collapse_1">Building capabilities  to strengthen inclusive arts and heritage programming 
+                </button></h2><div id="collapse_19" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>There are ongoing efforts by NAC and the National Heritage Board (NHB) to build capabilities among the arts and cultural organisations, museums, practitioners, as well as volunteers to strengthen inclusive programming. </p><p>Since 2021, NHB has been organising the Accessibility and Inclusion Month annually to share best practices on accessibility and inclusivity among museum professionals through learning journeys, workshops, webinars and dialogue sessions.
+                        To date, over 240 professionals have benefitted from these sessions. NAC organised the 5th Arts and Disability Forum, in collaboration with ART:DIS in February 2023. The forum brought together international and local speakers from
+                        the arts and disability sectors to discuss best practices in disability arts and access. </p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_14"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_14" aria-expanded="true" aria-controls="collapse_1">Opened Punggol Regional Library to provide inclusive library experience for persons with disabilities
+                </button></h2><div id="collapse_14" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>NLB opened Punggol Regional Library officially on 5 April 2023. The library offers an extensive collection of books and facilities that everyone can enjoy. This includes a range of specially designed features for persons with disabilities,
+                        such as assistive technology, Calm Pods that provide a quiet and safe space for persons with disabilities when they need it, an Accessible Collection with books for the disability community and their caregivers, as well as trained
+                        staff who are equipped with skills and knowledge to help persons with disabilities. Planning for this inclusive space started as early as 2016, and feedback from various engagements with over 500 members of the disability community
+                        and their caregivers has helped shape several of the library’s key features and services. </p></div></div></div></div></div><br><div class="accordion" id="accordionExample"><div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content"><div class="accordion-item" id="item_21"><h2 class="accordion-header" id="heading_1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_21" aria-expanded="true" aria-controls="collapse_1">Raised disability awareness and inculcate positive mindsets, attitudes, and behaviours towards persons with disabilities
+                </button></h2><div id="collapse_21" class="accordion-collapse collapse" aria-labelledby="heading_1" data-bs-parent="#accordionExample"><div class="accordion-body"><p>SG Enable's i’mable Public Education initiative, supported by Tote Board with the Enabling Lives Initiative,&nbsp;and the National Council of Social Service with the Care and Share movement celebrates the abilities of persons
+                        with disabilities and encourages everyone to take positive action for disability inclusion. </p><p>As part of this initiative, SPS Eric Chua launched the “UnAwkward” social media campaign in May 2023. Through light-hearted humour, the campaign aims to encourage everyone – persons with and without disabilities –
+                        to recognise they can be unawkward and are able to take the first step to reduce the barriers of inclusion and embrace one another as neighbours, co-workers, and friends. </p><p>In addition, through our fourth consecutive collaboration with the National Day Parade 2023 organising committee, SG Enable enabled persons with disabilities to contribute to art, fashion and music during National Day - showcasing
+                        the artwork of artists with disabilities to the audiences through the NDP packs. The artwork was also translated into designs for NDP fashion wear under i’mable Collective, which garnered the support of 10 members of parliament
+                        and political office holders. </p><p>Together with Dr. Darius Lim, founder of Voices of Singapore, SG Enable created an inclusion anthem, “Our Story”, to rally Singaporeans. The anthem was performed live at the Gardens by the Bay and 2023 Mediacorp National
+                        Day concert to a crowd of more than 30,000, with SPS Eric Chua and then- President Halimah Yacob joining in the performance. The performance was broadcasted on free-to-air television which has a weekly viewership of 1.3mil viewers.
+                        The anthem has also been used to encourage donations to the Goh Chok Tong Enable Fund that aims to build a society where persons with disabilities are recognised for their abilities and lead full, socially integrated lives. </p></div></div></div></div></div><br>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+    </div>
+</div> <div class="sharethis-inline-share-buttons"></div> 
+
+
+<footer class="sgds footer">
+    <section class="footer-top">
+        <div class="container-fluid">
+            <div class="row footer-header">
+                <div class="footer-title">
+                    Ministry of Social and Family Development
+                </div>
+            </div>
+
+            <div class="row footer-contact-links">
+                <div class="col-sm-12">
+                    <div class="d-flex flex-column flex-lg-row gap-20 gap-lg-0 justify-content-lg-end">
+                        <div class="d-flex justify-content-lg-end">
+                            <ul class="d-flex flex-column flex-lg-row gap-lg-40 contact-links">
+                                        <li><a class="" href="/contact-us-feedback" aria-label="Contact Us / Feedback">Contact Us / Feedback</a></li>
+                                        <li><a class="not-first-page" href="/faqs" aria-label="FAQs">FAQs</a></li>
+                            </ul>
+                        </div>
+                        <div class="d-flex align-items-lg-center justify-content-lg-end">
+                            <ul class="d-flex social-links">
+                                <li>
+                                    <a href="https://www.facebook.com/MSFSingapore/" aria-label="facebook">
+                                        <em class="fa-brands fa-square-facebook"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/msfcares/" aria-label="instagram">
+                                        <em class="fa-brands fa-instagram"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://t.me/msfcares" aria-label="telegram">
+                                        <em class="fa-brands fa-telegram"></em>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="footer-bottom">
+        <div class="container-fluid">
+            <hr class="footer-divider">
+            <div class="row footer-mandatory-links">
+                <div class="col-12 col-lg-8 col-xl-9">
+                    <ul class="footer-nav-list">
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links " href="/report-vulnerability" rel="noopener" aria-label="Report Vulnerability
+
+">Report Vulnerability
+
+</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/privacy-statement" rel="noopener" aria-label="Privacy Statement">Privacy Statement</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/terms-of-use" rel="noopener" aria-label="Terms of Use&nbsp;">Terms of Use&nbsp;</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/sitemap" rel="noopener" aria-label="Sitemap">Sitemap</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/accessibility-statement" rel="noopener" aria-label="Accessibility Statement">Accessibility Statement</a>
+                                </li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg footer-copyrights">
+                    <div class="d-flex justify-content-lg-end text-lg-end">
+                        © 2024 Government of Singapore<br>
+                        Last updated 04 Dec 2023
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+
+
+ <div class="accessibility-sidebar"> <div class="btn-group-vertical btn-group-sm" role="group" aria-label="Accessibility Sidebar"> <button type="button" class="btn btn-accessibility btn-notice" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Show/Hide Notice" data-bs-original-title="Show/Hide Notice"> <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10 0C8.02219 0 6.08879 0.58649 4.4443 1.6853C2.79981 2.78412 1.51809 4.3459 0.761209 6.17317C0.00433284 8.00043 -0.193701 10.0111 0.192152 11.9509C0.578004 13.8907 1.53041 15.6725 2.92894 17.0711C4.32746 18.4696 6.10929 19.422 8.0491 19.8079C9.98891 20.1937 11.9996 19.9957 13.8268 19.2388C15.6541 18.4819 17.2159 17.2002 18.3147 15.5557C19.4135 13.9112 20 11.9778 20 10C20 8.68678 19.7413 7.38642 19.2388 6.17317C18.7363 4.95991 17.9997 3.85752 17.0711 2.92893C16.1425 2.00035 15.0401 1.26375 13.8268 0.761205C12.6136 0.258658 11.3132 0 10 0ZM10 18C8.41775 18 6.87104 17.5308 5.55544 16.6518C4.23985 15.7727 3.21447 14.5233 2.60897 13.0615C2.00347 11.5997 1.84504 9.99113 2.15372 8.43928C2.4624 6.88743 3.22433 5.46197 4.34315 4.34315C5.46197 3.22433 6.88743 2.4624 8.43928 2.15372C9.99113 1.84504 11.5997 2.00346 13.0615 2.60896C14.5233 3.21447 15.7727 4.23984 16.6518 5.55544C17.5308 6.87103 18 8.41775 18 10C18 12.1217 17.1572 14.1566 15.6569 15.6569C14.1566 17.1571 12.1217 18 10 18Z"></path> <path d="M10 7C10.5523 7 11 6.55228 11 6C11 5.44772 10.5523 5 10 5C9.44772 5 9 5.44772 9 6C9 6.55228 9.44772 7 10 7Z"></path> <path d="M10 8C9.73478 8 9.48043 8.10536 9.29289 8.29289C9.10536 8.48043 9 8.73478 9 9V14C9 14.2652 9.10536 14.5196 9.29289 14.7071C9.48043 14.8946 9.73478 15 10 15C10.2652 15 10.5196 14.8946 10.7071 14.7071C10.8946 14.5196 11 14.2652 11 14V9C11 8.73478 10.8946 8.48043 10.7071 8.29289C10.5196 8.10536 10.2652 8 10 8Z"></path> </svg> </button> <button type="button" class="btn btn-accessibility btn-font-bigger" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Increase Font Size" data-bs-original-title="Increase Font Size">
+                    A+
+                </button> <button type="button" class="btn btn-accessibility btn-font-smaller" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Decrease Font Size" data-bs-original-title="Decrease Font Size">
+                    A−
+                </button> <button type="button" class="btn btn-accessibility btn-contrast" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Toggle Colour Contrast" data-bs-original-title="Toggle Colour Contrast"> <em class="fa-solid fa-circle-half-stroke"></em> </button> </div> </div> <div class="back-to-top"> <button class="btn-back-top" aria-label="back to top"> <svg width="16" height="8" viewBox="0 0 16 8" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4826 7.76568C14.8297 8.07811 15.3925 8.07811 15.7396 7.76568C16.0868 7.45326 16.0868 6.94673 15.7396 6.63432L8.62853 0.23424C8.2814 -0.0780799 7.71859 -0.0780799 7.37146 0.23424L0.260266 6.63432C-0.0867557 6.94673 -0.0867557 7.45326 0.260266 7.76567C0.607466 8.07811 1.17031 8.07811 1.51751 7.76567L8 3L14.4826 7.76568Z"></path> </svg> <span>Top</span> </button> </div> <script src="/ResourcePackages/Msf/assets/js/jquery.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/jquery-ui.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/swiper-bundle.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/bootstrap.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/default-passive-events.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/search-result.js" type="text/javascript"></script> <script src="https://assets.wogaa.sg/scripts/wogaa.js"></script> <script type="text/javascript" src="/ResourcePackages/Msf/assets/js/sharethis.js#property=648140a26773dd0012e17a9b&amp;product=inline-share-buttons&amp;source=platform" async="async"></script> <script>
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window, document, 'script', 'dataLayer', 'G-7WBNTH91BT');
+            </script> <!-- Global site tag (gtag.js) - Google Analytics --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7WBNTH91BT"></script> <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-7WBNTH91BT');
+            </script> <script type="module" src="https://cdn.jsdelivr.net/npm/@govtechsg/sgds-web-component/Masthead/index.js"></script> <script src="/ResourcePackages/Msf/assets/js/main.min.js" type="text/javascript"></script>  
+<div id="st-2" class=" st-sticky-share-buttons st-left st-toggleable st-has-labels "><div class="st-btn st-first" data-network="facebook" style="display: inline-block;">
+  <img alt="facebook sharing button" src="https://platform-cdn.sharethis.com/img/facebook.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="linkedin" style="display: inline-block;">
+  <img alt="linkedin sharing button" src="https://platform-cdn.sharethis.com/img/linkedin.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="gmail" style="display: inline-block;">
+  <img alt="gmail sharing button" src="https://platform-cdn.sharethis.com/img/gmail.svg">
+  <span class="st-label">Email</span>
+</div><div class="st-btn st-last" data-network="copy" style="display: inline-block;">
+  <img alt="copy sharing button" src="https://platform-cdn.sharethis.com/img/copy.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-toggle">
+  <div class="st-left">
+    <img alt="arrow_left sharing button" src="https://platform-cdn.sharethis.com/img/arrow_left.svg">
+  </div>
+  <div class="st-right">
+    <img alt="arrow_right sharing button" src="https://platform-cdn.sharethis.com/img/arrow_right.svg">
+  </div>
+</div></div><wog-sentiments class="needsclick hydrated"></wog-sentiments></body></html>
