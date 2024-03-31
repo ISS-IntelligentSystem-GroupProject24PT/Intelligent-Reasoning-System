@@ -42,7 +42,10 @@ for school_website in df_href_refresh['href'][::-1].drop_duplicates():
     if any(substring in school_website for substring in list_of_domains_skip):
         print(f"Not School Site: {school_website}")
     else:
-        driver.get(school_website)
+        try:
+            driver.get(school_website)
+        except Exception as e:
+            print(f"{school_website} - {e}")
         preschool_website_link = driver.current_url
         print(f"{school_website}")
         time.sleep(PAGE_WAIT_TIME)
