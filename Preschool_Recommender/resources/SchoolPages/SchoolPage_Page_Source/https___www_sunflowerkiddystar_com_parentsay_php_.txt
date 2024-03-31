@@ -1,0 +1,904 @@
+<html xmlns="http://www.w3.org/1999/xhtml" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths js cssanimations"><head><style type="text/css"></style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Parent Partnership</title>
+<link href="css/template2.css" rel="stylesheet" type="text/css">
+<link href="css/dynamic.css" rel="stylesheet" type="text/css">
+
+<!--<link href="css/coolMenu-consultancy.css" rel="stylesheet" type="text/css" />-->
+
+<link rel="stylesheet" type="text/css" media="screen" href="jquery/css/custom-theme/jquery-ui-1.8.17.custom.css">
+<link rel="stylesheet" type="text/css" media="screen" href="jquery/jqGrid/src/css/ui.jqgrid.css">
+<style type="text/css">
+<!--
+.ui-jqgrid .ui-userdata { 
+    height: 33px; /* default value in ui.jqgrid.CSS is 21px */ 
+} 
+
+.ui-jqgrid tr.jqgrow td {
+    white-space: normal !important;
+    height:auto;
+    vertical-align:text-top;
+    padding-top:2px;
+}
+
+
+#TickerVertical li .NewsTitle{
+	display: block;
+	background:#FCF1B2;
+	color: #000000;
+	font-size: 12px;
+	font-weight:bold;
+	margin-bottom:6px;
+}
+#TickerVertical li .NewsFooter{
+	display: block;
+	background:#FCF1B2;
+	color: #000000;
+	font-size: 10px;
+	margin:6px 0 0 0;
+}
+
+div#SubpgContentContainer3{
+	position:relative;
+	//top: 110px;
+	left: -44px;
+	width:: 900px;
+	/*width: 95%;*/
+	/*background-color:#CCC;*/
+	padding: 0px 0px 0px 0px;
+	overflow: auto;
+}
+
+div#SubPgLeftMenu3{
+	position:relative;
+	display:block;
+	float:left;
+	margin-bottom: 30px;
+	margin-left: 5px;
+	left: 10px;
+	width: 900px;
+	/*background-color: #06C ;*/
+}
+
+div#SubpgContent2e{
+	position:relative;
+	display:block;
+	float:left;
+	margin-bottom: 30px;
+	margin-left: 5px;
+	left: 10px;
+	width: 900px;
+	top: 40px;
+	padding:0 0 30px 0px;
+	
+}
+
+
+div.PhotoGalleyThumb{
+	float:left;
+	width: 120px;
+	height: 106px;
+	padding: 5px;
+}
+
+-->
+</style>
+
+<script type="text/javascript" src="scripts/jquery-1.7.1.min.js"></script>
+<script src="jquery/js/jquery-ui-1.8.17.custom.min.js" type="text/javascript"></script>
+<script src="js/slimbox2.js" type="text/javascript"></script>
+<link href="css/slimbox2.css" rel="stylesheet" type="text/css">
+<script src="jquery/jqGrid/js/i18n/grid.locale-en.js" type="text/javascript"></script>
+<script type="text/javascript">
+	$.jgrid.no_legacy_api = true;
+	$.jgrid.useJSON = true;
+</script>
+<script src="jquery/jqGrid/js/jquery.jqGrid.min.js" type="text/javascript"></script>
+<script src="jquery/jqGrid/plugins/jquery.tablednd.js" type="text/javascript"></script>
+<script src="jquery/jqGrid/plugins/jquery.contextmenu.js" type="text/javascript"></script>
+
+
+
+<script>
+
+
+
+function showPwd(nox){
+	if (nox=="1"){
+		$("#pwd1").show();
+		$("#pwd2").show();
+		$("#password").val("");
+	}else{
+		$("#pwd1").hide();
+		$("#pwd2").hide();
+	}
+}
+
+function chksubmit(){
+	if ((/\S/.test(document.getElementById("userid").value)) && (/\S/.test(document.getElementById("password").value))) 
+	// if there are no non-white space characters... for both
+	{	
+		return true;
+	}		
+	else
+	{ 	
+		return false; 
+	}
+}
+
+</script>
+
+
+
+<!--Top menu Superfish section-->
+<link rel="stylesheet" href="superfish-master/dist/css/superfish-template2.css" media="screen">
+<link rel="stylesheet" href="superfish-master/dist/css/superfish-template3-admin.css" media="screen">
+<script type="text/javascript" src="js/jquery-1.8.1.min.js"></script>
+<script type="text/javascript" src="js/modernizr-1.6.min.js"></script>
+<script src="superfish-master/dist/js/hoverIntent.js"></script>
+<script src="superfish-master/dist/js/superfish.js"></script>
+		<script>
+
+		(function($){ //create closure so we can safely use $ as alias for jQuery
+
+			$(document).ready(function(){
+
+				// initialise plugin
+				var example = $('#example').superfish({
+					//add options here if required
+				});
+
+				// buttons to demonstrate Superfish's public methods
+				$('.destroy').on('click', function(){
+					example.superfish('destroy');
+				});
+
+				$('.init').on('click', function(){
+					example.superfish();
+				});
+
+				$('.open').on('click', function(){
+					example.children('li:first').superfish('show');
+				});
+
+				$('.close').on('click', function(){
+					example.children('li:first').superfish('hide');
+				});
+			});
+
+		})(jQuery);
+
+
+		</script>
+
+
+
+<!--Nivo Slider section-->
+<!--<link href="css/nivo slider 2.71 styles.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="nivo-slider2.7.1/themes/default/default.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider2.7.1/themes/pascal/pascal.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider2.7.1/themes/orman/orman.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider2.7.1/nivo-slider.css" type="text/css" media="screen" />-->
+
+
+
+<script type="text/javascript">
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+
+function MM_goToURL() { //v3.0
+  var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+  for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+</script>
+
+
+<!------------------------------Slideshow cycle------------------------------>
+<script type="text/javascript" src="js/jquery.cycle.all.js"></script>
+<script type="text/javascript">
+$('.slideshow1').cycle({ 
+    fx:     'fade', 
+    speed:   1500, 
+    timeout: 3000 
+});
+</script>
+
+<script type="text/javascript">
+$('.slideshow2').cycle({ 
+    fx:     'fade', 
+    speed:   1500, 
+    timeout: 3000 
+});
+</script>
+
+<script type="text/javascript">
+$('.slideshow3').cycle({ 
+    fx:      'turnDown', 
+    delay:   -4000 
+});
+</script>
+
+<script type="text/javascript">
+$('.slideshow4').cycle({ 
+    fx:      'turnUp', 
+    delay:   -1000 
+});
+</script>
+
+<!------------------------------Slideshow cycle------------------------------>
+
+	<!--<link rel="stylesheet" href="jQueryTimelinr_0952/css/style-timeline.css" media="screen" />-->
+
+    
+    
+<!--Rhino Slider section (Homepage Testimonials)-->
+		<!--<link type="text/css" rel="stylesheet" href="css/rhinoslider-1.05.css" />-->
+		<!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+		<script type="text/javascript" src="js/rhinoslider105/rhinoslider-1.05.min.js"></script>
+		<script type="text/javascript" src="js/rhinoslider105/mousewheel.js"></script>
+		<script type="text/javascript" src="js/rhinoslider105/easing.js"></script>-->
+		<!--<script type="text/javascript">
+			$(document).ready(function(){
+				$('#slider').rhinoslider();
+			});
+		</script>-->
+        <!--<script type="text/livescript">
+			$(document).ready(function() {
+				$('#slidertestimonials').rhinoslider({
+					showTime: 5000,
+					effectTime: 800,
+					controlsPrevNext: false,
+					controlsPlayPause: false,
+					autoPlay: true,
+					showBullets: 'never',
+					showControls: 'never',
+					slidePrevDirection: 'toBottom',
+					slideNextDirection: 'toTop'
+				});
+			});
+</script>-->
+
+<style type="text/css">
+			
+			#slidertestimonials {
+				position:relative;
+				top: 5px;
+				left: 14px;
+				width:250px;
+				height:180px;
+				/*background:#096;*/
+				
+				/*IE bugfix*/
+				padding:0;
+				margin:0;
+			}
+			
+			#slidertestimonials li { list-style:none; }
+			
+			#page {
+				width:300px;
+				margin:50px auto;
+			}
+		</style>  
+          
+
+<!-- News Ticker section Only include in page that display ticker else DOM error in IE 7 -->
+<!--<link href="css/ticker-style.css" rel="stylesheet" type="text/css" />-->
+<!--<script type="text/javascript" src="js/jquery-1.8.1.min.js"></script>
+<script type="text/javascript" src="js/modernizr-1.6.min.js"></script>-->
+<!--<script src="js/jquery.ticker.js" type="text/javascript"></script>-->
+
+
+<!-- Start News Ticker-->
+<!--<script type="text/javascript">
+$(function () {
+        $('#js-news').ticker();
+    })
+</script>-->
+
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+
+<!--<script src="Scripts/swfobject_modified.js" type="text/javascript"></script>-->
+<!--video-overlay-html5-->
+<!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+<script type="text/javascript">$(document).ready(function() 
+{	
+    modals.init();
+});
+    
+var modals = 
+{
+    autoplay:true,
+    init:function()
+    {
+        $(".videoPlayer").dialog({
+            width: 576,
+            height: 324,
+            autoOpen: false,
+            resizable: false,
+            show: {
+            effect: 'fade', 
+            duration: 1000
+        },
+        hide: {
+            effect: "fade",
+            duration: 1000
+            }
+        });
+
+        $(".videoPlayer").each(function()
+        {
+            $('.ui-widget-header').remove();
+        });
+
+        $( ".loadVideo" ).click(function() {
+ 
+            var videoPlayerId = $(this).attr('id') + 'player';
+            $("#" + videoPlayerId).dialog("open");
+            if(modals.autoplay == true)
+            {
+                $('#' + videoPlayerId)[0].play();
+            }
+            $('#overlay').fadeIn();
+        });
+
+        $(document).mouseup(function (e)
+        {
+            if($('.videoPlayer').is(':visible'))
+            {
+                console.log('run');
+                var container = $(".videoPlayer");
+
+                if (!container.is(e.target) 
+                    && container.has(e.target).length === 0) 
+                {
+                    container.dialog("close");
+                    $('#overlay').fadeOut(1500);
+
+                    $('video').each(function() 
+                    {
+                        $(this)[0].pause();
+                    });
+                }
+            }
+        });
+    }
+}</script>       
+
+ <style>.videoContainer
+{
+    width:10px;
+    height: 100px;
+    margin:20px;
+    display:inline-block;
+    cursor: pointer;
+}
+.ui-dialog .ui-dialog-content
+{
+    position: relative;
+    border: 0;
+    padding: 0;
+    overflow:hidden;
+}
+.ui-widget-content
+{
+    padding:0;
+    border:none;
+}
+.overlay 
+{
+    background:rgba(0,0,0,0.8);
+    display:none;
+    width:100%; 
+    height:100%;
+    position:fixed; 
+    top:0; 
+    left:0; 
+    z-index:200;
+}
+
+
+</style> 
+
+
+<!--Accordian-->
+        <link rel="stylesheet" type="text/css" href="CSS3Accordion/css/CSS3Accordion-style-sunflowerbaby.css">
+		<script type="text/javascript" src="CSS3Accordion/js/modernizr.custom.29473.js"></script>
+
+<!--Smooth scroll to anchor points-->
+<!--<script src="js/smooth-scroll.js" type="text/javascript"></script>-->
+</head>
+
+<body>
+
+    <div id="outerDiv" class="subpage">
+    
+<!------------------------------ Top Section START ------------------------------>	
+   	  <div id="TopHeaderContainer" class="subpage" style="position: fixed;">
+   		<div id="TopLogoContainer" class="subpage">
+            	<a href="index.php"><img src="images/sub-logo.png" width="226" height="103"></a>
+            </div>
+            
+
+<!----------------------------------------------------------------Top Navigation Menu ---------------------------------------------------------------->            
+        	<div id="TopNavContainer" class="subpage">
+		  	
+
+
+              <ul class="sf-menu sf-js-enabled sf-arrows" id="example">
+
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px; ">
+                     <a name="top">   </a><a href="index.php">Home</a> 
+                        </div>
+                    </li>
+                                
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px;">
+                        <a href="mission.php">About Us</a>
+							<ul>
+                                <div class="dropdown-menu">
+                                <li><a href="mission.php#Overview">Overview</a>
+                                </li>
+                                <li><a href="mission.php#Vision">Vision</a>
+                                </li>
+                                <li><a href="mission.php#Mission">Mission</a>
+                                </li>
+                                <li><a href="mission.php#CoreValue">Core Values</a>
+                                </li>
+								<li><a href="mission.php#OurTeam">Our Team</a>
+                                </li>
+								<li><a href="mission.php#Accolades">Our Accolades</a>
+                                </li>	
+                              </div>
+                          </ul>
+							
+                        </div>
+                  </li>
+                  
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px;">
+                        <a href="curriculum.php">Curriculum</a>
+                        	<ul>
+                                <div class="dropdown-menu">
+                                <li><a href="curriculum.php#MultipleIntelligences">Multiple Intelligences</a></li>
+                                <li><a href="curriculum.php#BilingualProgramme">Bilingual Programme</a></li>
+                                <li><a href="curriculum.php#LearningJourneys">Learning Journeys</a></li>
+                                <li><a href="curriculum.php#FestivalCelebrations">Festival Celebrations</a></li>
+								<li><a href="curriculum.php#SpeechChoir">Speech Choir</a></li>	
+                                <li><a href="curriculum.php#LittleChefDay">Little Chef Day</a></li>
+                              </div>
+                          </ul>
+                      </div>
+                  </li>                 
+                  <li>
+                        <div class="topmenu-icon" style="margin-top:-12px;">
+							<a href="programme.php">Programmes</a>
+                            <ul>
+                                <div class="dropdown-menu">
+                                <li><a href="programme.php#Playgroup" style="padding-bottom:5px;">Playgroup</a></li>
+                                <li><a href="programme.php#Nursery1">Nursery One</a></li>
+                                <li><a href="programme.php#Nursery2">Nursery Two</a></li>
+                                <li><a href="programme.php#K1K2">Kindergarten One</a></li>
+                                <li><a href="programme.php#K1K2">Kindergarten Two</a></li>
+                                <li><a href="programme.php#Enrichment">Enrichment Programmes</a></li>
+                                <li><a href="programme.php#SchoolFees">School Fees</a></li>
+                                </div>
+                            </ul>
+                        </div>
+                    </li>
+                                
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px;">
+                        <a href="parentsay.php">Parent Partnership</a>
+                        <ul>
+                                <div class="dropdown-menu">
+                                <li><a href="parentsay.php#PPP">Parent Partnership Program</a></li>
+                                <li><a href="parentsay.php#Testimonial">Parent's Testimonials</a></li>
+                                <li><a href="parentsay.php#Resources">Resources</a></li>
+                                </div>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px;">
+                        <a href="gallery.php">Gallery</a><a href="career.php"></a>
+                        <ul>
+                                <div class="dropdown-menu">
+                                <li><a href="gallery.php#Newsletter">Newsletter </a></li>
+                                <li><a href="gallery.php#Gallery">Event Gallery</a></li>
+                                </div>
+                            </ul>
+                        </div>
+                    </li>
+                    
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px;">
+                        <a href="contact.php">Contact Us</a>
+                        <ul>
+                                <div class="dropdown-menu">
+                                <li><a href="contact.php#Location">Location</a></li>
+                                <li><a href="contact.php#Career">Career</a></li>
+                                <li><a href="contact.php#Centres">Sunflower Centres</a></li>
+                                </div>
+                            </ul>
+                        </div>
+                    </li>
+                    
+                    <!--<li id="related">
+                    	<div class="topmenu-icon">
+                        <a href="login.php">Staff Login</a>
+                        </div>
+                    </li>-->
+                                
+                    <!--<li id="related">
+                    	<div class="topmenu-icon">
+                        <a href="#">Parent Portal</a>
+                        </div>
+                    </li>
+                                
+                    <li id="related">
+                    	<div class="topmenu-icon">
+                        <a href="login.php">Login</a>
+                       	</div> 
+                    </li>-->
+              </ul>
+              
+            <!--<div id="topmenu-buttons">
+            	<a href="#" >Parent Portal</a>
+            </div>-->
+            
+            
+ 
+        </div>
+		  
+		       <!--go to top of page-->           
+				<div id="ArrowUp" class="subpage">
+					<a href="#top"><img src="images/arrow.png" width="40" height="40" alt=""></a> 
+				</div>
+			 <!--go to top of page-->
+		  
+      </div><!--TopHeaderContainer-->
+		<div id="TopBannerContainer">
+            	<img src="images/parentbanner.jpg" width="1200" height="350">
+            </div>
+<!------------------------------ Top Section END ------------------------------>	
+
+<!------------------------------ Left Section START ------------------------------>	
+	<a class="anchor" id="top"></a>
+      <div id="SubpageLeftContainer">
+      		<a class="anchor" id="PPP"></a><h1 class="subpage-header">
+                  Parent Partnership Program
+                </h1>
+                
+                <p class="bodytexts">
+                  Parents, teachers and school are important partners to facilitate the growth and development of our children. Research has shown that children who have parents that are involved in their school experience results in children who are more successful in school. Recognising this, Sunflower Kiddy Star Preschool have designed various programmes to involve parents in their children’s learning. Events for parents are held throughout the year such as parent workshops, sports carnival, concert, event celebrations, field trips and parent class sharing session. Activities are also planned to involve and update parents on your child’s learning regularly to allow you to reinforce with your child what he/she has learnt. 
+                  <br>
+                  </p>
+                  
+<img src="images/parent1.jpg" width="376" height="196" alt="">		<img src="images/parent2.jpg" width="322" height="192" alt="">
+
+<p style="margin-bottom:55px;"></p>
+
+				<a class="anchor" id="Testimonial"></a><h1 class="subpage-header">Parent's Testimonials</h1>
+                <p align="left" class="testimonialname">
+Thank you for guiding my daughter and teach her little but important things in life such as putting toys away, building good habits, grooming her character and shaping her personality. Thanks for the little feedbacks of my child in school so that we can gain snippets of her life in school, whether it is negative or positive, it is alright.  
+				</p>
+                
+                <br>
+                
+                <p class="testimonialposition">Mrs Lim, mother of child from PG class</p>
+                <br>
+                  <img src="images/line.png" width="700" height="1" alt="">
+                  
+                <p align="left" class="testimonialname">
+                <br>
+Thumbs up &amp; well done to all the teachers in Sunflower Kiddy Star. They know every child. This shows how serious &amp; sincere they are with their work. My daughter’s class teachers are very approachable, thoughtful and friendly. 
+
+				</p>
+                
+                <br>
+                
+                <p class="testimonialposition">Mdm Shirley Chin, mother of child from PG class</p>
+                <br>
+                  <img src="images/line.png" width="700" height="1" alt="">
+                
+                <p align="left" class="testimonialname">
+                <br>
+				<a class="anchor" id="Isaac"></a>	
+Teachers are very caring towards my son well-being and demonstrated unconditional love. Is fun to see children displaying their sports talents during the school sports carnival.
+
+				</p>
+                
+                <br>
+                
+                <p class="testimonialposition">Mr Isaac Teo, father of child from PG class</p>
+                <br>
+                  <img src="images/line.png" width="700" height="1" alt="">
+                
+                <p align="left" class="testimonialname">
+                <br>
+				<a class="anchor" id="Ellidya"></a>	
+Thank you to the teachers for coaching my son to be more outspoken and confident. My son has always been a shy child and it takes him very long to warm up to people. He is now enjoying school and looks forward to attending school to see his teachers and friends. The things I heard him sharing about school has been very pleasant and enjoyable to hear. 
+
+				</p>
+                
+                <br>
+                
+                <p class="testimonialposition">Mdm Ellidya Zainali, mother of child from N1 class</p>
+                <br>
+                  <img src="images/line.png" width="700" height="1" alt="">
+                  
+                  <p align="left" class="testimonialname">
+                <br>
+The teachers are warm-hearted and loving towards my son
+				</p>
+                
+                <br>
+                
+                <p class="testimonialposition">Mdm Joey Tay, mother of child from N1 class</p>
+                <br>
+                  <img src="images/line.png" width="700" height="1" alt="">
+                  
+                  <p align="left" class="testimonialname">
+                <br>
+My son despite being new is adapting very well to the school. We can tell that he loves this school and his teachers very much. We would like to thank specially the teachers for all this. We are also very impressed with the recent school concert and is very pleased with Jonas performance given such a short period of practicing time.
+
+				</p>
+                
+                <br>
+                
+                <p class="testimonialposition">Mdm Karen Lay, mother of child from N1 class</p>
+                <br>
+                  <img src="images/line.png" width="700" height="1" alt="">
+                  
+                  <p align="left" class="testimonialname">
+                <br>
+				<a class="anchor" id="Nurul"></a>	  
+The teachers are always very cheerful with my son when they received him in the morning. His class teacher is very loving, and my son really likes her and always shared good things about her. Really appreciate the weekly activities update that we received. 
+
+				</p>
+                
+                <br>
+                
+                <p class="testimonialposition">Mdm Nurul Diyanah, mother of child from N2 class</p>
+                <br>
+                  <img src="images/line.png" width="700" height="1" alt="">
+                  
+                  <p align="left" class="testimonialname">
+                <br>
+				<a class="anchor" id="Janette"></a>	  
+I am happy that my daughter has shown improvement in speech and getting more confident in speaking and expressing herself. Special thanks to her class teachers for the patience and attention towards my child. I enjoyed the school field trips where they made an effort to connect to the curriculum theme. I also like the parent workshops and always like to join the parent partnership activities. 
+
+				</p>
+                
+                <br>
+                
+                <p class="testimonialposition">Mdm Janette Koh, mother of child from N2 class</p>
+                <br>
+                  <img src="images/line.png" width="700" height="1" alt="">
+                  
+                  <p align="left" class="testimonialname">
+                <br>
+                Thank you for nurturing and loving my son since he joined the school. Thanks to the N1 teacher to help him adapted to school and potty trained him. Thanks to his N2 teacher for all the patience in educating him and teaching him how to write.
+				</p>
+                
+                <br>
+                
+                <p class="testimonialposition">Mdm Nur Faizah, mother of child from N2 class</p>
+                <br>
+                  <img src="images/line.png" width="700" height="1" alt="">
+                  
+                  <p align="left" class="testimonialname">
+                <br>
+				<a class="anchor" id="Noorhaslinda"></a>	  
+                I would like to thank and compliment the teachers for the wonderful concert and performances. I am surprised my daughter did well and enjoyed herself during the concert.
+				</p>
+                
+                <br>
+                
+                <p class="testimonialposition">Mdm Noorhaslinda, mother of child from N2 class</p>
+                <br>
+                  <img src="images/line.png" width="700" height="1" alt="">
+                  
+                  <p align="left" class="testimonialname">
+                <br>
+                The teachers are very passionate and responsible in taking care of our children.
+				</p>
+                
+                <br>
+                
+                <p class="testimonialposition">Mdm Wong, mother of children from K1 and N1 classes</p>
+                <br>
+                  <img src="images/line.png" width="700" height="1" alt="">
+                  
+                  <p align="left" class="testimonialname">
+                <br>
+                Overall, we are very glad that our kids are growing up in Sunflower Kiddy Stars. There had been continuous improvement and positive changes in the school programme and staffs over the 4 years that my older son had been with the school. His class teachers had been constantly reminding us what to prepare for the kids' activities and outings. These types of close communications made me feel assured that kids are well taken care in school. I believe the teachers inspired and motivated the kids well.
+				</p>
+                
+                <br>
+                
+                <p class="testimonialposition">Mdm Roxanne Lee, mother of children from K2 and N2 classes</p>
+                <br>
+                  <img src="images/line.png" width="700" height="1" alt="">
+                  
+                  <p align="left" class="testimonialname">
+                <br>
+                I like to compliment my daughter's class teacher for her dedication in nurturing the K2 children. I particularly like the current affairs topics being discussed in class, parents' partnership activities and the weekly update of my daughter learning in school. Keep up with the good work.
+				</p>
+                
+                <br>
+                
+                <p class="testimonialposition">Mdm Suhana, mother of child from K2 class</p>
+                <br>
+                  <img src="images/line.png" width="700" height="1" alt="">
+                  
+                  <p align="left" class="testimonialname">
+                <br>
+				<a class="anchor" id="Yoon"></a>	  
+                I saw a big improvement on my daughter. She has learnt a lot in Sunflower. She is well prepared to go to primary school. Her teacher has taught her good learning attitude such as keep cool, I can do it and develop a plan. Thank you to the teachers.
+				</p>
+                
+                <br>
+                
+                <p class="testimonialposition">Mdm Yoon, mother of child from K2 class</p>
+                <br>
+                  <img src="images/line.png" width="700" height="1" alt="">
+                  
+                  <p align="left" class="testimonialname">
+                <br>
+				<a class="anchor" id="Jiang"></a>	  
+                I would like to thank my son's class teachers for putting so much effort to update us on his study progress every week. I like the P1 preparation parent workship, the children visiting primary school and role play of canteen. These activities all ensured a smooth transition to a new environment. My son is looking forward to go to Primary One. Teachers in Sunflower not only take good care of the kids, they also make learning so much fun.
+				</p>
+                
+                <br>
+                
+                <p class="testimonialposition">Mdm Jiang, mother of child from K2 class</p>
+                <br>
+                  <img src="images/line.png" width="700" height="1" alt="">
+                  
+                  <p style="margin-bottom:60px;"></p>
+                  
+                <a class="anchor" id="Resources"></a><h1 class="subpage-header"> Resources </h1>
+                
+                
+                <p><b><u>Cooking Recipe</u></b></p>
+                
+                <table width="606" border="0" class="tablepush">
+  <tbody>
+    <tr>
+      <td height="207"><div align="center"><a href="pdf/Minestrone.pdf" target="new"><img src="images/Minestrone.png" width="189" height="140" alt=""></a> <span style="margin-left: 45px;"><b> Minestrone</b></span></div>
+        <p>&nbsp;</p></td>
+      <td><div align="center"><a href="pdf/fish nuggets.pdf" target="new"><img src="images/Fish nuggets.png" width="189" height="140" alt=""></a> <span style="margin-left: 45px;"><b>Fish Nuggets</b></span></div></td>
+      <td><div align="center"><a href="pdf/Patty on Stick.pdf" target="new"><img src="images/Patty on stick.png" width="189" height="140" alt=""></a> <span style="margin-left: 45px;"><b>Patty on Stick</b></span></div></td>
+    </tr>
+    <tr>
+      <td><div align="center"><a href="pdf/Cheese macaroni.pdf" target="new"><img src="images/Cheese Macaroni.png" width="189" height="140" alt=""></a><span style="margin-left: 45px;"> <b>Cheese Macaroni</b></span></div></td>
+      <td><div align="center"><a href="pdf/Meatball Sub.pdf" target="new"><img src="images/Meatball Submarine.png" width="189" height="140" alt=""></a><span style="margin-left: 45px;"> <b>Meatball Submarine</b></span></div></td>
+      <td><div align="center"><a href="pdf/Chinese Dumpling.pdf" target="new"><img src="images/Cabbage dumpling.jpg" width="189" height="140" alt=""></a><span style="margin-left: 45px;"> <b>Cabbage Dumpling</b></span></div></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<p style="padding-top:33px;"><b><u>Useful Link</u></b></p>
+
+<ul>
+	<li><a href="https://www.moe.gov.sg/" target="_blank"><u>Ministry of Education</u></a></li>
+    <li><a href="https://www.msf.gov.sg/Pages/default.aspx" target="_blank"><u>Ministry of Social and Family Development</u></a></li>
+    <li><a href="https://www.childcarelink.gov.sg/ccls/home/CCLS_Home.jsp" target="_blank"><u>Childcare Link</u></a></li>
+    <li><a href="http://www.hpb.gov.sg/default.aspx" target="_blank"><u>Health Promotion Board</u></a></li>
+    <li><a href="http://www.moh.gov.sg/mohcorp/default.aspx" target="_blank"><u>Ministry of Health</u></a></li>
+</ul>
+
+                
+                  
+      </div>
+<!------------------------------ Left Section END ------------------------------>	
+<!--Testimonial Box><!-->
+<div id="SubpagePictureLeftContainer2">
+    <div id="SubTestimonialContainer">
+
+
+                                                    
+                                                      <a href="parentsay.php#Jiang" class="testimonial">
+                                                      <p align="center" class="testimonialnamebox" style="bold; margin-top:5px; ">
+                                                      
+                                                          I would like to thank my
+                                                          son's class teachers for
+                                                          putting so much effort to
+                                                          update us on his study
+                                                          progress every week
+                                                      </p>
+                                                      
+                                                      <br>
+                                                      
+                                                      <p class="testimonialpositionbox">   
+                                                          Mdm Jiang, mother of child <br>
+                                                            	from K2 class
+                                                      </p> 
+													</a>
+   
+                                                  
+
+    </div>    
+                                                  
+			<a href="contact.php#Visit"><div id="SubFlashContainer" class="subpage">
+            		
+			</div></a>
+            
+            <a href="#top"><div id="ArrowUp" class="subpage">
+            		
+			</div></a>
+      
+ </div>   
+
+<!------------------------------ Right Section START ------------------------------>
+	
+	  <!--<div id="SubpageRightContainer">
+           	
+                
+        </div>--> 
+        
+        
+                  
+<!------------------------------ Right Section END ------------------------------>
+                   
+   	  <p class="clear"></p>
+		
+		
+    </div><!--outerDiv-->
+<!-----------------------------------------------  Footer Section START ------------------------------------------------------------->
+        <div id="FooterContainer">
+			<!--<p class="clear"></p>-->
+<div id="SocialMediaLogosContainer">
+        <!--<a href="https://www.facebook.com/Kiddystar/" target="_blank">
+        	<img src="images/logo-facebook1.png" width="38" height="38" class="socialmedia-logos" /> 
+        </a>-->
+    </div>
+            
+<p class="FooterCopyrightTexts">
+   	© 2018 Sunflower Kiddy Star
+</p><!--FooterCopyrightContainer-->
+<div id="FooterGraphicContainer">
+ 	
+</div>
+            
+ 
+        </div><!--FooterContainer-->
+<!-----------------------------------------------  Footer Section END ------------------------------------------------------------->
+
+    
+
+
+<div id="lbOverlay" style="display: none;"></div><div id="lbCenter" style="display: none;"><div id="lbImage"><div style="position: relative;"><a id="lbPrevLink" href="#"></a><a id="lbNextLink" href="#"></a></div></div></div><div id="lbBottomContainer" style="display: none;"><div id="lbBottom"><a id="lbCloseLink" href="#"></a><div id="lbCaption"></div><div id="lbNumber"></div><div style="clear: both;"></div></div></div></body></html>

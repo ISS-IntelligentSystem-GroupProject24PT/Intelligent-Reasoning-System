@@ -451,8 +451,8 @@ var modals =
 			<div id="HomeBannerContainer">
             	<div class="slideshow1" id="PictSlideshowContainer1">
                         <!--<img src="images/KS-Home1.jpg" width="1200" height="350" />-->
-                        <img src="images/KS-Home2.jpg" width="1200" height="350" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 4; opacity: 0;">
-                        <img src="images/KS-Home3.jpg" width="1200" height="350" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 5; opacity: 1; width: 1200px; height: 350px;">
+                        <img src="images/KS-Home2.jpg" width="1200" height="350" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 5; opacity: 1;">
+                        <img src="images/KS-Home3.jpg" width="1200" height="350" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 3; opacity: 0;">
                         <img src="images/KS-Home4.jpg" width="1200" height="350" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 2; opacity: 0;">
                         <img src="images/KS-Home5.jpg" width="1200" height="350" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; opacity: 0;">
         		</div>

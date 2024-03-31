@@ -1,0 +1,779 @@
+<html xmlns="http://www.w3.org/1999/xhtml" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths js cssanimations"><head><style type="text/css"></style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <title>Sunflower Kiddy Star</title>
+<link href="css/template2.css" rel="stylesheet" type="text/css">
+<link href="css/dynamic.css" rel="stylesheet" type="text/css">
+
+<!--<link href="css/coolMenu-consultancy.css" rel="stylesheet" type="text/css" />-->
+
+<link rel="stylesheet" type="text/css" media="screen" href="jquery/css/custom-theme/jquery-ui-1.8.17.custom.css">
+<link rel="stylesheet" type="text/css" media="screen" href="jquery/jqGrid/src/css/ui.jqgrid.css">
+<style type="text/css">
+<!--
+.ui-jqgrid .ui-userdata { 
+    height: 33px; /* default value in ui.jqgrid.CSS is 21px */ 
+} 
+
+.ui-jqgrid tr.jqgrow td {
+    white-space: normal !important;
+    height:auto;
+    vertical-align:text-top;
+    padding-top:2px;
+}
+
+
+#TickerVertical li .NewsTitle{
+	display: block;
+	background:#FCF1B2;
+	color: #000000;
+	font-size: 12px;
+	font-weight:bold;
+	margin-bottom:6px;
+}
+#TickerVertical li .NewsFooter{
+	display: block;
+	background:#FCF1B2;
+	color: #000000;
+	font-size: 10px;
+	margin:6px 0 0 0;
+}
+
+div#SubpgContentContainer3{
+	position:relative;
+	//top: 110px;
+	left: -44px;
+	width:: 900px;
+	/*width: 95%;*/
+	/*background-color:#CCC;*/
+	padding: 0px 0px 0px 0px;
+	overflow: auto;
+}
+
+div#SubPgLeftMenu3{
+	position:relative;
+	display:block;
+	float:left;
+	margin-bottom: 30px;
+	margin-left: 5px;
+	left: 10px;
+	width: 900px;
+	/*background-color: #06C ;*/
+}
+
+div#SubpgContent2e{
+	position:relative;
+	display:block;
+	float:left;
+	margin-bottom: 30px;
+	margin-left: 5px;
+	left: 10px;
+	width: 900px;
+	top: 40px;
+	padding:0 0 30px 0px;
+	
+}
+
+
+div.PhotoGalleyThumb{
+	float:left;
+	width: 120px;
+	height: 106px;
+	padding: 5px;
+}
+
+-->
+</style>
+
+<script type="text/javascript" src="scripts/jquery-1.7.1.min.js"></script>
+<script src="jquery/js/jquery-ui-1.8.17.custom.min.js" type="text/javascript"></script>
+<script src="js/slimbox2.js" type="text/javascript"></script>
+<link href="css/slimbox2.css" rel="stylesheet" type="text/css">
+<script src="jquery/jqGrid/js/i18n/grid.locale-en.js" type="text/javascript"></script>
+<script type="text/javascript">
+	$.jgrid.no_legacy_api = true;
+	$.jgrid.useJSON = true;
+</script>
+<script src="jquery/jqGrid/js/jquery.jqGrid.min.js" type="text/javascript"></script>
+<script src="jquery/jqGrid/plugins/jquery.tablednd.js" type="text/javascript"></script>
+<script src="jquery/jqGrid/plugins/jquery.contextmenu.js" type="text/javascript"></script>
+
+
+
+<script>
+
+
+
+function showPwd(nox){
+	if (nox=="1"){
+		$("#pwd1").show();
+		$("#pwd2").show();
+		$("#password").val("");
+	}else{
+		$("#pwd1").hide();
+		$("#pwd2").hide();
+	}
+}
+
+function chksubmit(){
+	if ((/\S/.test(document.getElementById("userid").value)) && (/\S/.test(document.getElementById("password").value))) 
+	// if there are no non-white space characters... for both
+	{	
+		return true;
+	}		
+	else
+	{ 	
+		return false; 
+	}
+}
+
+</script>
+
+
+
+<!--Top menu Superfish section-->
+<link rel="stylesheet" href="superfish-master/dist/css/superfish-template2.css" media="screen">
+<link rel="stylesheet" href="superfish-master/dist/css/superfish-template3-admin.css" media="screen">
+<script type="text/javascript" src="js/jquery-1.8.1.min.js"></script>
+<script type="text/javascript" src="js/modernizr-1.6.min.js"></script>
+<script src="superfish-master/dist/js/hoverIntent.js"></script>
+<script src="superfish-master/dist/js/superfish.js"></script>
+		<script>
+
+		(function($){ //create closure so we can safely use $ as alias for jQuery
+
+			$(document).ready(function(){
+
+				// initialise plugin
+				var example = $('#example').superfish({
+					//add options here if required
+				});
+
+				// buttons to demonstrate Superfish's public methods
+				$('.destroy').on('click', function(){
+					example.superfish('destroy');
+				});
+
+				$('.init').on('click', function(){
+					example.superfish();
+				});
+
+				$('.open').on('click', function(){
+					example.children('li:first').superfish('show');
+				});
+
+				$('.close').on('click', function(){
+					example.children('li:first').superfish('hide');
+				});
+			});
+
+		})(jQuery);
+
+
+		</script>
+
+
+
+<!--Nivo Slider section-->
+<!--<link href="css/nivo slider 2.71 styles.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="nivo-slider2.7.1/themes/default/default.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider2.7.1/themes/pascal/pascal.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider2.7.1/themes/orman/orman.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider2.7.1/nivo-slider.css" type="text/css" media="screen" />-->
+
+
+
+<script type="text/javascript">
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+
+function MM_goToURL() { //v3.0
+  var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+  for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+</script>
+
+
+<!------------------------------Slideshow cycle------------------------------>
+<script type="text/javascript" src="js/jquery.cycle.all.js"></script>
+<script type="text/javascript">
+$('.slideshow1').cycle({ 
+    fx:     'fade', 
+    speed:   1500, 
+    timeout: 3000 
+});
+</script>
+
+<script type="text/javascript">
+$('.slideshow2').cycle({ 
+    fx:     'fade', 
+    speed:   1500, 
+    timeout: 3000 
+});
+</script>
+
+<script type="text/javascript">
+$('.slideshow3').cycle({ 
+    fx:      'turnDown', 
+    delay:   -4000 
+});
+</script>
+
+<script type="text/javascript">
+$('.slideshow4').cycle({ 
+    fx:      'turnUp', 
+    delay:   -1000 
+});
+</script>
+
+<!------------------------------Slideshow cycle------------------------------>
+
+	<!--<link rel="stylesheet" href="jQueryTimelinr_0952/css/style-timeline.css" media="screen" />-->
+
+    
+    
+<!--Rhino Slider section (Homepage Testimonials)-->
+		<!--<link type="text/css" rel="stylesheet" href="css/rhinoslider-1.05.css" />-->
+		<!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+		<script type="text/javascript" src="js/rhinoslider105/rhinoslider-1.05.min.js"></script>
+		<script type="text/javascript" src="js/rhinoslider105/mousewheel.js"></script>
+		<script type="text/javascript" src="js/rhinoslider105/easing.js"></script>-->
+		<!--<script type="text/javascript">
+			$(document).ready(function(){
+				$('#slider').rhinoslider();
+			});
+		</script>-->
+        <!--<script type="text/livescript">
+			$(document).ready(function() {
+				$('#slidertestimonials').rhinoslider({
+					showTime: 5000,
+					effectTime: 800,
+					controlsPrevNext: false,
+					controlsPlayPause: false,
+					autoPlay: true,
+					showBullets: 'never',
+					showControls: 'never',
+					slidePrevDirection: 'toBottom',
+					slideNextDirection: 'toTop'
+				});
+			});
+</script>-->
+
+<style type="text/css">
+			
+			#slidertestimonials {
+				position:relative;
+				top: 5px;
+				left: 14px;
+				width:250px;
+				height:180px;
+				/*background:#096;*/
+				
+				/*IE bugfix*/
+				padding:0;
+				margin:0;
+			}
+			
+			#slidertestimonials li { list-style:none; }
+			
+			#page {
+				width:300px;
+				margin:50px auto;
+			}
+		</style>  
+          
+
+<!-- News Ticker section Only include in page that display ticker else DOM error in IE 7 -->
+<!--<link href="css/ticker-style.css" rel="stylesheet" type="text/css" />-->
+<!--<script type="text/javascript" src="js/jquery-1.8.1.min.js"></script>
+<script type="text/javascript" src="js/modernizr-1.6.min.js"></script>-->
+<!--<script src="js/jquery.ticker.js" type="text/javascript"></script>-->
+
+
+<!-- Start News Ticker-->
+<!--<script type="text/javascript">
+$(function () {
+        $('#js-news').ticker();
+    })
+</script>-->
+
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+
+<!--<script src="Scripts/swfobject_modified.js" type="text/javascript"></script>-->
+<!--video-overlay-html5-->
+<!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+<script type="text/javascript">$(document).ready(function() 
+{	
+    modals.init();
+});
+    
+var modals = 
+{
+    autoplay:true,
+    init:function()
+    {
+        $(".videoPlayer").dialog({
+            width: 576,
+            height: 324,
+            autoOpen: false,
+            resizable: false,
+            show: {
+            effect: 'fade', 
+            duration: 1000
+        },
+        hide: {
+            effect: "fade",
+            duration: 1000
+            }
+        });
+
+        $(".videoPlayer").each(function()
+        {
+            $('.ui-widget-header').remove();
+        });
+
+        $( ".loadVideo" ).click(function() {
+ 
+            var videoPlayerId = $(this).attr('id') + 'player';
+            $("#" + videoPlayerId).dialog("open");
+            if(modals.autoplay == true)
+            {
+                $('#' + videoPlayerId)[0].play();
+            }
+            $('#overlay').fadeIn();
+        });
+
+        $(document).mouseup(function (e)
+        {
+            if($('.videoPlayer').is(':visible'))
+            {
+                console.log('run');
+                var container = $(".videoPlayer");
+
+                if (!container.is(e.target) 
+                    && container.has(e.target).length === 0) 
+                {
+                    container.dialog("close");
+                    $('#overlay').fadeOut(1500);
+
+                    $('video').each(function() 
+                    {
+                        $(this)[0].pause();
+                    });
+                }
+            }
+        });
+    }
+}</script>       
+
+ <style>.videoContainer
+{
+    width:10px;
+    height: 100px;
+    margin:20px;
+    display:inline-block;
+    cursor: pointer;
+}
+.ui-dialog .ui-dialog-content
+{
+    position: relative;
+    border: 0;
+    padding: 0;
+    overflow:hidden;
+}
+.ui-widget-content
+{
+    padding:0;
+    border:none;
+}
+.overlay 
+{
+    background:rgba(0,0,0,0.8);
+    display:none;
+    width:100%; 
+    height:100%;
+    position:fixed; 
+    top:0; 
+    left:0; 
+    z-index:200;
+}
+
+
+</style> 
+
+
+<!--Accordian-->
+        <link rel="stylesheet" type="text/css" href="CSS3Accordion/css/CSS3Accordion-style-sunflowerbaby.css">
+		<script type="text/javascript" src="CSS3Accordion/js/modernizr.custom.29473.js"></script>
+
+<!--Smooth scroll to anchor points-->
+<!--<script src="js/smooth-scroll.js" type="text/javascript"></script>-->
+</head>
+
+<body>
+
+    <div id="outerDiv" class="homepage">
+		    
+<!------------------------------ Top Section START ------------------------------>	
+  	  <div id="TopHeaderContainer" class="subpage"> <!--style="display: block; position: fixed;"-->
+
+			<div id="TopLogoContainer" class="subpage">
+            	<a href="index.php"><img src="images/sub-logo.png" width="226" height="103"></a>
+            </div>
+<!----------------------------------------------------------------Top Navigation Menu ---------------------------------------------------------------->   
+			<div id="HomeBannerContainer">
+            	<div class="slideshow1" id="PictSlideshowContainer1">
+                        <!--<img src="images/KS-Home1.jpg" width="1200" height="350" />-->
+                        <img src="images/KS-Home2.jpg" width="1200" height="350" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 4; opacity: 0;">
+                        <img src="images/KS-Home3.jpg" width="1200" height="350" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 5; opacity: 1; width: 1200px; height: 350px;">
+                        <img src="images/KS-Home4.jpg" width="1200" height="350" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 2; opacity: 0;">
+                        <img src="images/KS-Home5.jpg" width="1200" height="350" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; opacity: 0;">
+        		</div>
+			</div>                  
+            
+        	<div id="TopNavContainer" class="subpage">
+		   	
+
+
+              <ul class="sf-menu sf-js-enabled sf-arrows" id="example">
+
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px; ">
+                     <a name="top">   </a><a href="index.php">Home</a> 
+                        </div>
+                    </li>
+                                
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px;">
+                        <a href="mission.php">About Us</a>
+							<ul>
+                                <div class="dropdown-menu">
+                                <li><a href="mission.php#Overview">Overview</a>
+                                </li>
+                                <li><a href="mission.php#Vision">Vision</a>
+                                </li>
+                                <li><a href="mission.php#Mission">Mission</a>
+                                </li>
+                                <li><a href="mission.php#CoreValue">Core Values</a>
+                                </li>
+								<li><a href="mission.php#OurTeam">Our Team</a>
+                                </li>
+								<li><a href="mission.php#Accolades">Our Accolades</a>
+                                </li>	
+                              </div>
+                          </ul>
+							
+                        </div>
+                  </li>
+                  
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px;">
+                        <a href="curriculum.php">Curriculum</a>
+                        	<ul>
+                                <div class="dropdown-menu">
+                                <li><a href="curriculum.php#MultipleIntelligences">Multiple Intelligences</a></li>
+                                <li><a href="curriculum.php#BilingualProgramme">Bilingual Programme</a></li>
+                                <li><a href="curriculum.php#LearningJourneys">Learning Journeys</a></li>
+                                <li><a href="curriculum.php#FestivalCelebrations">Festival Celebrations</a></li>
+								<li><a href="curriculum.php#SpeechChoir">Speech Choir</a></li>	
+                                <li><a href="curriculum.php#LittleChefDay">Little Chef Day</a></li>
+                              </div>
+                          </ul>
+                      </div>
+                  </li>                 
+                  <li>
+                        <div class="topmenu-icon" style="margin-top:-12px;">
+							<a href="programme.php">Programmes</a>
+                            <ul>
+                                <div class="dropdown-menu">
+                                <li><a href="programme.php#Playgroup" style="padding-bottom:5px;">Playgroup</a></li>
+                                <li><a href="programme.php#Nursery1">Nursery One</a></li>
+                                <li><a href="programme.php#Nursery2">Nursery Two</a></li>
+                                <li><a href="programme.php#K1K2">Kindergarten One</a></li>
+                                <li><a href="programme.php#K1K2">Kindergarten Two</a></li>
+                                <li><a href="programme.php#Enrichment">Enrichment Programmes</a></li>
+                                <li><a href="programme.php#SchoolFees">School Fees</a></li>
+                                </div>
+                            </ul>
+                        </div>
+                    </li>
+                                
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px;">
+                        <a href="parentsay.php">Parent Partnership</a>
+                        <ul>
+                                <div class="dropdown-menu">
+                                <li><a href="parentsay.php#PPP">Parent Partnership Program</a></li>
+                                <li><a href="parentsay.php#Testimonial">Parent's Testimonials</a></li>
+                                <li><a href="parentsay.php#Resources">Resources</a></li>
+                                </div>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px;">
+                        <a href="gallery.php">Gallery</a><a href="career.php"></a>
+                        <ul>
+                                <div class="dropdown-menu">
+                                <li><a href="gallery.php#Newsletter">Newsletter </a></li>
+                                <li><a href="gallery.php#Gallery">Event Gallery</a></li>
+                                </div>
+                            </ul>
+                        </div>
+                    </li>
+                    
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px;">
+                        <a href="contact.php">Contact Us</a>
+                        <ul>
+                                <div class="dropdown-menu">
+                                <li><a href="contact.php#Location">Location</a></li>
+                                <li><a href="contact.php#Career">Career</a></li>
+                                <li><a href="contact.php#Centres">Sunflower Centres</a></li>
+                                </div>
+                            </ul>
+                        </div>
+                    </li>
+                    
+                    <!--<li id="related">
+                    	<div class="topmenu-icon">
+                        <a href="login.php">Staff Login</a>
+                        </div>
+                    </li>-->
+                                
+                    <!--<li id="related">
+                    	<div class="topmenu-icon">
+                        <a href="#">Parent Portal</a>
+                        </div>
+                    </li>
+                                
+                    <li id="related">
+                    	<div class="topmenu-icon">
+                        <a href="login.php">Login</a>
+                       	</div> 
+                    </li>-->
+              </ul>
+              
+            <!--<div id="topmenu-buttons">
+            	<a href="#" >Parent Portal</a>
+            </div>-->
+            
+            
+            </div>
+            
+            
+            
+      </div><!--TopHeaderContainer-->
+		
+		
+		
+<!------------------------------ Top Section END ------------------------------>
+	
+          
+<!------------------------------ Intro Section START ------------------------------>
+
+	
+	    <div id="HomeAboutusContainer">
+          										<!--20PX for align top 65px for align middle of the testimonial box-->
+          <p class="bodytextsHome" style="margin-top:20px;">In Sunflower Kiddy Star Preschool we bring children’s learning come alive by engaging their mind, heart and hands. Using Multiple Intelligence pedagogy approach, we aim to multiply your child’s intelligence through fun and enriching learning experiences to nurture them to become confident and independent learners imbued with social intelligence. </p> 
+          
+              
+              <br><br><br><br><p></p>
+           	       
+                    <img src="images/logo-partneroperator.png" width="88" height="65"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    
+                    <img src="images/logo-spark.png" width="97" height="70">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            
+                    <img src="images/logo-healthpromoting.png" width="150" height="51" style="padding-bottom:15px;">
+                                            
+        </div>
+	    <!--HomeAboutusContainer-->   
+                 
+
+
+<!------------------------------ Updates Section START ------------------------------>	<!--Ricky's change need to start here-->
+
+<!--Testimonial Box><!-->
+
+   <div id="SubpagePictureLeftContainer2">
+    <div id="HomeTestimonialContainer">
+ <!------------------------------ Insert Update Contents here START ------------------------------>	
+
+                                                    
+                                                   <div> <!--class="slideshow2"-->  
+                                                  
+                                                      
+                                                      <p class="testimonialnamebox"><br>
+                                                      <a href="parentsay.php#Ellidya" class="testimonial">
+                                                              My son is enjoying 
+                                                              school and looks forward
+                                                              to attending school to
+                                                              see his teachers and
+                                                              friends.
+                                                              <br><br>
+                                                        <span class="testimonialpositionbox"> 
+                                                        	Mdm Ellidya Zainali,<br>
+															mother of child from N1 class</span>
+														  </a>
+                                                          </p>
+                                                          
+      													<!--<p class="testimonialnamebox"><br />
+                                                        <a href="mission.php" class="testimonial">
+                                                              Teachers are very
+                                                              caring towards my son
+                                                              well-being and demonstrated
+                                                              unconditional love
+                                                              <br /><br />
+                                                        <span class="testimonialpositionbox">
+                                                            Mr Isaac Teo, father of child
+                                                                    from PG class</span></a>
+                                                          </p>
+                                                          
+                                                          <p class="testimonialnamebox"><br />
+                                                          <a href="curriculum.php" class="testimonial">
+                                                              I enjoyed the school field
+                                                              trips where they made an
+                                                              effort to connect to the
+                                                              curriculum theme.
+                                                              <br /><br />
+                                                        <span class="testimonialpositionbox">
+                                                            Janette Koh, mother of child
+                                                                     from N2 class</span></a>
+                                                          </p>
+                                                          
+                                                          <p class="testimonialnamebox"><br />
+                                                          <a href="programme.php" class="testimonial">
+                                                              My daughter's teachers has
+                                                              taught her good learning
+                                                              attitude such as keep cool, 
+                                                              I can do it and develop a 
+                                                              plan.
+                                                              <br />
+                                                        <span class="testimonialpositionbox">
+                                                            Mdm Yoon, mother of child 
+                                                            	from K2 class</span></a>
+                                                          </p>
+                                                          
+                                                          <p class="testimonialnamebox"><br />
+                                                          <a href="parentsay.php" class="testimonial">
+                                                              I would like to thank my
+                                                              son's class teachers for
+                                                              putting so much effort to
+                                                              update us on his study
+                                                              progress every week
+                                                              <br />
+                                                        <span class="testimonialpositionbox">
+                                                            Mdm Jiang, mother of child 
+                                                            	from K2 class</span></a>
+                                                          </p>
+                                                          
+                                                          <p class="testimonialnamebox"><br />
+                                                          <a href="gallery.php" class="testimonial">
+                                                              I am surprised my 
+                                                              daughter did well and 
+                                                              enjoyed herself during 
+                                                              the concert.
+                                                              <br /><br />
+                                                        <span class="testimonialpositionbox">
+                                                            Mdm Noorhaslinda, mother of child 
+                                                            	from N2 class</span></a>
+                                                          </p>
+                                                          
+                                                          <p class="testimonialnamebox"><br />
+                                                             <a href="contact.php" class="testimonial">
+                                                              My son's class teacher is
+                                                              very loving, and he really
+                                                              likes her and always 
+                                                              shared good things about 
+                                                              her.
+                                                              <br /><br />
+                                                        <span class="testimonialpositionbox">
+                                                            Mdm Nurul Diyanah, mother of child 
+                                                            	from N2 class</span></a>
+                                                          </p>-->  
+                                                          
+                                                   </div> <!--Slideshow2 closer-->  
+   
+                                                  
+
+    </div>    
+                                                  
+			<a href="contact.php#Visit"><div id="HomeFlashContainer" class="subpage">
+            		
+			</div></a>
+            
+            <a href="#top">
+				<div id="ArrowUp" class="subpage"></div>
+	   		</a>
+      
+ </div>
+           	  
+
+
+</div>
+
+
+            <!--HomeContentContainer-->     
+<!------------------------------ Updates Section END ------------------------------>
+
+
+
+
+
+<!--<p class="clear"></p>-->
+		
+        <div id="FooterContainer">
+			<!--<p class="clear"></p>-->
+<div id="SocialMediaLogosContainer">
+        <!--<a href="https://www.facebook.com/Kiddystar/" target="_blank">
+        	<img src="images/logo-facebook1.png" width="38" height="38" class="socialmedia-logos" /> 
+        </a>-->
+    </div>
+            
+<p class="FooterCopyrightTexts">
+   	© 2018 Sunflower Kiddy Star
+</p><!--FooterCopyrightContainer-->
+<div id="FooterGraphicContainer">
+ 	
+</div>
+            
+ 
+        </div>
+    <!--outerDiv-->
+<!-----------------------------------------------  Footer Section START -------------------------------------------------------------><!--FooterContainer-->
+
+
+<!-----------------------------------------------  Footer Section END ------------------------------------------------------------->
+    
+    
+
+
+<div id="lbOverlay" style="display: none;"></div><div id="lbCenter" style="display: none;"><div id="lbImage"><div style="position: relative;"><a id="lbPrevLink" href="#"></a><a id="lbNextLink" href="#"></a></div></div></div><div id="lbBottomContainer" style="display: none;"><div id="lbBottom"><a id="lbCloseLink" href="#"></a><div id="lbCaption"></div><div id="lbNumber"></div><div style="clear: both;"></div></div></div></body></html>
