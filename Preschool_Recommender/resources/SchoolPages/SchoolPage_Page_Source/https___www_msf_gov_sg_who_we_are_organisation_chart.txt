@@ -1,0 +1,1279 @@
+<html lang="en" class="hydrated"><head> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>
+	MSF | Organisation Chart
+</title> <link rel="icon" type="image/png" href="/ResourcePackages/Msf/assets/img/favIco.png"> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&amp;family=Open+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet">  <link href="/ResourcePackages/Msf/assets/css/sgds.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap-icons.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/all.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/sf-bootstrap-conflict.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/jquery-ui.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/swiper-bundle.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/search-result.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/main.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/custom-style.min.css" rel="stylesheet"> <meta property="og:title" content="MSF | Organisation Chart"><meta property="og:url" content="https://www.msf.gov.sg/who-we-are/organisation-chart"><meta property="og:type" content="website"><meta property="og:site_name" content="Ministry of Social and Family Development"><script async="" src="https://buttons-config.sharethis.com/js/648140a26773dd0012e17a9b.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=G-7WBNTH91BT"></script><script async="" src="https://assets.wogaa.sg/snowplow/3.13.1/sp.js"></script><script type="text/javascript">
+function lateLoadChatFile() {      
+  setTimeout(() => {        
+              const bodyTag = document.getElementsByTagName("body")[0];      
+             // Create link element to import chat.css file and append it on the body element        
+             let linkTag = document.createElement("link");
+  linkTag.href = "https://webchat.vica.gov.sg/static/css/chat.css";         linkTag.type = "text/css";
+  linkTag.rel = "stylesheet";       
+  linkTag.referrerPolicy = "origin";      
+  bodyTag.appendChild(linkTag);        
+  // Create script element to import chat.js file and append it on the body element       
+  let scriptTag = document.createElement("script");         scriptTag.src = "https://webchat.vica.gov.sg/static/js/chat.js";         scriptTag.type = "text/javascript";      
+  scriptTag.referrerPolicy = "origin";         
+  scriptTag.defer = true;         
+  bodyTag.appendChild(scriptTag);      
+}, 5000);  
+}
+</script><script type="text/javascript">
+(function() {
+  // add beta text 
+  let timerId = setInterval(function(){
+	if(!document.getElementsByClassName("sc-htpNat")[0]) return;
+	
+	clearInterval(timerId);
+	document.getElementsByClassName("sc-htpNat")[0].addEventListener("click", changeText);
+	document.getElementsByClassName("sc-EHOje")[0].addEventListener("click", changeText);
+  }, 5000);
+  function changeText() {
+	const ele = $("#webchat-container p:contains('Ask MSF')");
+	ele.html("");
+	ele.append("Ask MSF <span style='font-size: 14px !important;position: relative;top: -9px;left: 5px;font-weight: lighter;'>beta</span>");
+  }
+})();
+</script><link rel="canonical" href="https://www.msf.gov.sg/who-we-are/organisation-chart"><script async="" src="https://assets.wogaa.sg/scripts/wogaa.js?url=https%3A%2F%2Fwww.msf.gov.sg%2Fwho-we-are%2Forganisation-chart"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style type="text/css">#st-2 {
+  font-family: "Helvetica Neue", Verdana, Helvetica, Arial, sans-serif;;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  backface-visibility: hidden;
+  display: block;
+  position: fixed;
+  opacity: 1;
+  text-align: left;
+  top: 310px;
+  z-index: 94034;
+}
+#st-2.st-left {
+  left: 0px;
+}
+#st-2.st-hidden.st-left {
+  left: -48px;
+}
+#st-2.st-hidden {
+  width: 96px;
+}
+#st-2.st-preview {
+  display: none!important;
+  opacity: 0!important;
+}
+#st-2 > div {
+  clear: left;
+  float: left;
+}
+#st-2 .st-btn {
+  -moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  height: 48px;
+  line-height: 24px;
+  margin-bottom: 0;
+  opacity: 1;
+  overflow: hidden;
+  padding: 12px;
+  position: relative;
+  text-align: left;
+  top: 0;
+  vertical-align: top;
+  white-space: nowrap;
+  width: 48px;
+}
+#st-2 .st-btn.st-first {
+  border-top: none;
+  border-top-right-radius: 4px;
+}
+#st-2 .st-btn.st-last {
+  border-bottom: none;
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn > svg {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > img {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > span {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  color: #fff;
+  display: inline-block;
+  font-weight: 500;
+  left: -35px;
+  letter-spacing: 0.5px;
+  opacity: 0;
+  padding: 0 6px;
+  position: relative;
+  vertical-align: top;
+  filter: alpha(opacity=0);
+}
+#st-2 .st-btn.st-hide-label > span {
+  display: none !important;
+}
+#st-2 .st-total {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #fff;
+  color: #555;
+  display: inline-block;
+  font-weight: 500;
+  line-height: 18px;
+  margin-right: 0;
+  min-height: 34px;
+  max-width: 80px;
+  opacity: 1;
+  padding: 4px 0;
+  text-align: center;
+  width: 48px;
+}
+#st-2 .st-total.st-hidden {
+  display: none;
+}
+#st-2 .st-total > span {
+  display: block;
+  font-size: 18px;
+  line-height: 21px;
+  padding: 0;
+}
+#st-2 .st-total > span.st-shares {
+  font-size: 11px;
+  line-height: 11px;
+}
+#st-2 .st-toggle {
+  left: -48px;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #ccc;
+  border-bottom-right-radius: 4px;
+  color: white;
+  cursor: pointer;
+  font-size: 24px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: 48px;
+}
+#st-2.st-hidden .st-toggle {
+  border-top-right-radius: 4px;
+}
+#st-2.st-left .st-toggle .st-left {
+  display: inline-block;
+}
+#st-2.st-left.st-hidden .st-toggle .st-left {
+  display: none;
+}
+#st-2.st-left .st-toggle .st-right {
+  display: none;
+}
+#st-2.st-left.st-hidden .st-toggle .st-right {
+  display: inline-block;
+}#st-2:hover .st-toggle {
+  left: 0;
+}
+#st-2.st-hidden:hover .st-toggle {
+  left: 48px;
+}
+#st-2.st-toggleable:hover .st-btn.st-last {
+  border-bottom-right-radius: 0;
+}
+#st-2.st-toggleable:hover .st-btn.st-last:hover {
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn:hover {
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+}
+#st-2.st-has-labels .st-btn:hover {
+  width: 120px;
+}
+#st-2:not(.st-has-labels) .st-btn:hover {
+  width: 62px;
+}
+#st-2 .st-btn.st-hide-label:hover {
+  width: 62px;
+}
+#st-2 .st-btn:hover > svg {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > img {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > span {
+  opacity: 1;
+  display: inline-block;
+  left: 0;
+  filter: alpha(opacity=100);
+}
+@media (max-width: 1024px) {
+  #st-2 .st-btn:hover > svg {
+    margin-left: 0;
+  }
+  #st-2 .st-btn:hover > span {
+    display: none;
+  }
+}@media (max-width: 1024px) {
+  #st-2 {
+  bottom: 0;
+  display: none;
+  left: 0;
+  right: 0;
+  top: auto;
+  width: 100%;
+}
+#st-2.st-hidden {
+  bottom: -48px;
+  width: 100%;
+}
+#st-2.st-hidden.st-left {
+  left: 0;
+}
+#st-2.st-hidden.st-right {
+  right: 0;
+}
+#st-2 > div {
+  -moz-flex: 1;
+  -ms-flex: 1;
+  -webkit-flex: 1;
+  clear: none;
+  flex: 1;
+  float: none;
+}
+#st-2 .st-total {
+  background: #fff;
+  padding: 6px 8px;
+}
+#st-2 .st-btn {
+  -moz-border-radius: 0 !important;
+-webkit-border-radius: 0 !important;
+border-radius: 0 !important;
+  text-align: center;
+  width: auto;
+}
+#st-2 .st-btn > span {
+  display: none;
+}
+#st-2 .st-toggle {
+  display: none;
+}
+}#st-2 .st-btn[data-network='facebook'] {
+  background-color: #4267B2
+}
+#st-2 .st-btn[data-network='facebook'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='facebook'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='linkedin'] {
+  background-color: #0077b5
+}
+#st-2 .st-btn[data-network='linkedin'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='linkedin'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='gmail'] {
+  background-color: #D44638
+}
+#st-2 .st-btn[data-network='gmail'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='gmail'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='copy'] {
+  background-color: #14682B
+}
+#st-2 .st-btn[data-network='copy'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='copy'] > span {
+  color: #fff
+}#st-2 .st-btn[data-network='snapchat'] > span {
+  color: #333};
+}#st-2 .st-btn[data-network='copy']:hover {
+  width: max-content;
+}</style><script type="module" src="https://assets.wogaa.sg/sentiments/sentiments.esm.js" async=""></script><script nomodule="" src="https://assets.wogaa.sg/sentiments/sentiments.js" async=""></script><style data-styled="" data-styled-version="4.4.1"></style><style type="text/css">.transform-component-module_wrapper__7HFJe {
+  position: relative;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  overflow: hidden;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none;
+  margin: 0;
+  padding: 0;
+}
+.transform-component-module_content__uCDPE {
+  display: flex;
+  flex-wrap: wrap;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  margin: 0;
+  padding: 0;
+  transform-origin: 0% 0%;
+}
+.transform-component-module_content__uCDPE img {
+  pointer-events: none;
+}
+</style><style data-jss="" data-meta="MuiSvgIcon">
+.webchat-MuiSvgIcon-root {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+.webchat-MuiSvgIcon-colorPrimary {
+  color: #3f51b5;
+}
+.webchat-MuiSvgIcon-colorSecondary {
+  color: #f50057;
+}
+.webchat-MuiSvgIcon-colorAction {
+  color: rgba(0, 0, 0, 0.54);
+}
+.webchat-MuiSvgIcon-colorError {
+  color: #f44336;
+}
+.webchat-MuiSvgIcon-colorDisabled {
+  color: rgba(0, 0, 0, 0.26);
+}
+.webchat-MuiSvgIcon-fontSizeInherit {
+  font-size: inherit;
+}
+.webchat-MuiSvgIcon-fontSizeSmall {
+  font-size: 1.25rem;
+}
+.webchat-MuiSvgIcon-fontSizeLarge {
+  font-size: 2.1875rem;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss1 {
+  padding-bottom: 16px;
+}
+.webchat-jss2 {
+  font-weight: bold;
+}
+.webchat-jss3 {
+  padding: 8px;
+  text-align: center;
+}
+.webchat-jss4 {
+  color: rgba(52, 52, 52, 0.8);
+}
+.webchat-jss5 {
+  color: #FFF;
+  padding: 8px 135px !important;
+  border-radius: 5px !important;
+  margin-bottom: 10px;
+}
+.webchat-jss6 {
+  color: #000000 !important;
+  border: 1px solid rgba(52, 52, 52, 0.8);
+  padding: 7px 135px !important;
+  margin-left: 0px !important;
+  border-radius: 5px !important;
+}
+.webchat-jss7 {
+  display: grid !important;
+}
+</style><style data-jss="" data-meta="makeStyles">
+</style><style data-jss="" data-meta="MuiDialog">
+@media print {
+  .webchat-MuiDialog-root {
+    position: absolute !important;
+  }
+}
+.webchat-MuiDialog-scrollPaper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.webchat-MuiDialog-scrollBody {
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: center;
+}
+.webchat-MuiDialog-scrollBody:after {
+  width: 0;
+  height: 100%;
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+}
+.webchat-MuiDialog-container {
+  height: 100%;
+  outline: 0;
+}
+@media print {
+  .webchat-MuiDialog-container {
+    height: auto;
+  }
+}
+.webchat-MuiDialog-paper {
+  margin: 32px;
+  position: relative;
+  overflow-y: auto;
+}
+@media print {
+  .webchat-MuiDialog-paper {
+    box-shadow: none;
+    overflow-y: visible;
+  }
+}
+.webchat-MuiDialog-paperScrollPaper {
+  display: flex;
+  max-height: calc(100% - 64px);
+  flex-direction: column;
+}
+.webchat-MuiDialog-paperScrollBody {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+.webchat-MuiDialog-paperWidthFalse {
+  max-width: calc(100% - 64px);
+}
+.webchat-MuiDialog-paperWidthXs {
+  max-width: 444px;
+}
+@media (max-width:507.95px) {
+  .webchat-MuiDialog-paperWidthXs.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthSm {
+  max-width: 600px;
+}
+@media (max-width:663.95px) {
+  .webchat-MuiDialog-paperWidthSm.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthMd {
+  max-width: 960px;
+}
+@media (max-width:1023.95px) {
+  .webchat-MuiDialog-paperWidthMd.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthLg {
+  max-width: 1280px;
+}
+@media (max-width:1343.95px) {
+  .webchat-MuiDialog-paperWidthLg.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthXl {
+  max-width: 1920px;
+}
+@media (max-width:1983.95px) {
+  .webchat-MuiDialog-paperWidthXl.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperFullWidth {
+  width: calc(100% - 64px);
+}
+.webchat-MuiDialog-paperFullScreen {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  max-width: 100%;
+  max-height: none;
+  border-radius: 0;
+}
+.webchat-MuiDialog-paperFullScreen.webchat-MuiDialog-paperScrollBody {
+  margin: 0;
+  max-width: 100%;
+}
+</style><style data-jss="" data-meta="MuiDialog">
+@media print {
+  .webchat-MuiDialog-root {
+    position: absolute !important;
+  }
+}
+.webchat-MuiDialog-scrollPaper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.webchat-MuiDialog-scrollBody {
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: center;
+}
+.webchat-MuiDialog-scrollBody:after {
+  width: 0;
+  height: 100%;
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+}
+.webchat-MuiDialog-container {
+  height: 100%;
+  outline: 0;
+}
+@media print {
+  .webchat-MuiDialog-container {
+    height: auto;
+  }
+}
+.webchat-MuiDialog-paper {
+  margin: 32px;
+  position: relative;
+  overflow-y: auto;
+}
+@media print {
+  .webchat-MuiDialog-paper {
+    box-shadow: none;
+    overflow-y: visible;
+  }
+}
+.webchat-MuiDialog-paperScrollPaper {
+  display: flex;
+  max-height: calc(100% - 64px);
+  flex-direction: column;
+}
+.webchat-MuiDialog-paperScrollBody {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+.webchat-MuiDialog-paperWidthFalse {
+  max-width: calc(100% - 64px);
+}
+.webchat-MuiDialog-paperWidthXs {
+  max-width: 444px;
+}
+@media (max-width:507.95px) {
+  .webchat-MuiDialog-paperWidthXs.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthSm {
+  max-width: 600px;
+}
+@media (max-width:663.95px) {
+  .webchat-MuiDialog-paperWidthSm.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthMd {
+  max-width: 960px;
+}
+@media (max-width:1023.95px) {
+  .webchat-MuiDialog-paperWidthMd.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthLg {
+  max-width: 1280px;
+}
+@media (max-width:1343.95px) {
+  .webchat-MuiDialog-paperWidthLg.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthXl {
+  max-width: 1920px;
+}
+@media (max-width:1983.95px) {
+  .webchat-MuiDialog-paperWidthXl.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperFullWidth {
+  width: calc(100% - 64px);
+}
+.webchat-MuiDialog-paperFullScreen {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  max-width: 100%;
+  max-height: none;
+  border-radius: 0;
+}
+.webchat-MuiDialog-paperFullScreen.webchat-MuiDialog-paperScrollBody {
+  margin: 0;
+  max-width: 100%;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss26 {
+  position: fixed;
+}
+.webchat-jss27 {
+  padding: 8px 24px 24px 24px;
+  justify-content: center;
+}
+.webchat-jss28 {
+  color: #fff;
+  padding: 8px 16px;
+  font-weight: 500;
+  white-space: nowrap;
+  border-radius: 0;
+  background-color: rgb(0, 0, 0, 0.9);
+}
+.webchat-jss28:hover {
+  background-color: rgb(0, 0, 0, 0.9);
+}
+.webchat-jss29 {
+  position: absolute;
+  background: #C4C4C4;
+}
+</style><style data-jss="" data-meta="makeStyles">
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss12 {
+  top: 70px !important;
+}
+.webchat-jss12 .webchat-MuiDialog-container {
+  align-items: flex-start;
+}
+.webchat-jss12 .webchat-MuiDialog-paper {
+  width: 100%;
+  margin: 0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 0px 0px 27.9717px 27.9717px;
+}
+.webchat-jss12 .webchat-MuiBackdrop-root {
+  opacity: 0.9 !important;
+  position: absolute;
+  background: #C4C4C4;
+}
+.webchat-jss13 .webchat-MuiRating-iconEmpty {
+  all: revert;
+}
+.webchat-jss13 .webchat-MuiRating-iconFilled {
+  all: revert;
+}
+.webchat-jss13 .webchat-MuiRating-iconHover {
+  all: revert;
+}
+.webchat-jss13 .webchat-MuiRating-iconFocus {
+  all: revert;
+}
+.webchat-jss13 .webchat-MuiRating-label {
+  all: revert;
+}
+.webchat-jss13 .webchat-MuiRating-icon {
+  cursor: pointer;
+}
+.webchat-jss14 .webchat-MuiCheckbox-root {
+  padding: 0 9px;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss15 {
+  top: 70px !important;
+}
+.webchat-jss15 .webchat-MuiDialog-container {
+  align-items: flex-start;
+}
+.webchat-jss15 .webchat-MuiDialog-paper {
+  width: 480px;
+  margin: 0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 0px 0px 27.9717px 27.9717px;
+}
+.webchat-jss15 .webchat-MuiBackdrop-root {
+  opacity: 0.9 !important;
+  position: absolute;
+  background: #C4C4C4;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss16 {
+  padding-bottom: 16px;
+}
+.webchat-jss17 {
+  padding-bottom: 8px;
+}
+.webchat-jss18 {
+  font-size: 40px;
+  font-weight: bold;
+}
+.webchat-jss19 {
+  font-weight: bold;
+}
+.webchat-jss20 {
+  padding: 8px;
+  text-align: center;
+}
+.webchat-jss21 {
+  color: rgba(0,0,0,.8);
+}
+.webchat-jss22 {
+  color: #FFF;
+}
+</style><style data-jss="" data-meta="makeStyles">
+</style></head> <body onload="lateLoadChatFile();"> 
+
+<div id="webchat" app-id="msf-askmsf" app-name="Ask MSF" app-font-family="Arial" app-base-font-size="16" app-icon="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" app-welcome-message="Have a question? Type to get quick answers." app-color="#DE7C00" app-foreground-color1="#FFFFFF" app-bot-response-trigger-event="true" app-quick-launch-event="welcome" app-enable-auto-complete="false" app-auto-complete-background-color="#FFEDD7" app-auto-complete-foreground-color="#2E2E2E" app-auto-complete-hover-color="#FFCA88" app-auto-complete-divider-color="#DE7C00"><div id="webchat-container"><div class="sc-bdVaJa jQBDtH"><div class="sc-bxivhb dLToUC"><div class="sc-EHOje hclKXJ">Have a question? Type to get quick answers.</div><div class="sc-ifAKCX eKcIYA"><svg class="webchat-MuiSvgIcon-root webchat-MuiSvgIcon-fontSizeInherit" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg></div></div><div class="sc-bwzfXH cRwaRu"><img alt="Bot Launcher" src="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" class="sc-htpNat iUqtne"></div></div><div id="CONVERSATION_HISTORY" hidden="" class="sc-bZQynM jTHORo"><div class="sc-gzVnrw iYOdXe"><div class="sc-kGXeez bXodlH"><div class="sc-hMqMXs cUSjvS"><img alt="Bot Avatar" src="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" class="sc-kEYyzF kBcwrJ"></div><div class="sc-kpOJdX fsRsZT"><div><p class="sc-dxgOiQ huycWp">Ask MSF<sup class="sc-jKJlTe kHLZjH"></sup></p></div></div><div class="sc-eNQAEJ iszuFG"><svg class="webchat-MuiSvgIcon-root sc-kkGfuU cXWniZ webchat-MuiSvgIcon-fontSizeLarge" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 19h12v2H6z"></path></svg><svg class="webchat-MuiSvgIcon-root sc-hSdWYo geAxMI webchat-MuiSvgIcon-fontSizeLarge" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg></div></div><div class="sc-htoDjs fdzlVl"><div class="sc-hzNEM iJPJsy"><div class="sc-iBEsjs dsWovi"></div></div><div></div><div class="sc-gRnDUn krvyDw"><div class="sc-cmjSyW iMeDHB"><textarea rows="1" placeholder="Type your message here" maxlength="256" class="sc-sdtwF iouGVL"></textarea><div class="sc-iYUSvU cEBTCY"><svg class="webchat-MuiSvgIcon-root webchat-MuiSvgIcon-fontSizeSmall" focusable="false" viewBox="0 0 24 24" color="white" aria-hidden="true"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"></path></svg></div></div></div><div class="sc-cHSUfg gLFROa"><div class="sc-cTjmhe lgnDCZ"><div class="sc-chPdSV ibuApO"><div class="sc-gbOuXE iwUbZr"><svg class="webchat-MuiSvgIcon-root sc-fnwBNb gIIPPo" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z"></path></svg></div></div><div class="sc-kgoBCf jXqGai">Rate chat</div><div class="sc-bfYoXt nJJal"></div><div class="sc-chPdSV ibuApO"><div class="sc-gbOuXE iwUbZr"><svg class="webchat-MuiSvgIcon-root sc-iNhVCk oVQZA" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 16.5l4-4h-3v-9h-2v9H8l4 4zm9-13h-6v1.99h6v14.03H3V5.49h6V3.5H3c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2v-14c0-1.1-.9-2-2-2z"></path></svg></div></div><div class="sc-kgoBCf jXqGai">Download Transcript</div></div><div class="sc-cugefK iGCNkx">POWERED BY GOVTECH</div></div></div></div><div></div></div></div></div>
+
+
+<div class="announcements-bar">
+    <div class="container-fluid">
+        <div class="row g-0 position-relative align-items-center">
+            <div class="col">
+                <div class="swiper announcementSwiper">
+                    <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <p>Have a question about MSF? Find quick answers with our chatbot Ask MSF.<!--EndFragment--></p>
+                            </div>
+                                                                                                                    </div>
+                </div>
+            </div>
+            <div class="col-auto align-self-start">
+                <div class="announcements-close">
+                    <button class="btn-close btn-ann-close btn-close-white" aria-label="Close"></button>
+                </div>
+            </div>
+        </div>
+        <div class="row g-0 position-relative">
+            <div class="col-12 col-md-auto buttons-align">
+                <div class="announcements-buttons">
+                    <div class="announcements-swiper-button swiper-button-prev">
+                        <em class="fa-solid fa-chevron-left"></em>
+                    </div>
+                    <div class="announcements-pagination"></div>
+                    <div class="announcements-swiper-button swiper-button-next">
+                        <em class="fa-solid fa-chevron-right"></em>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+ <sgds-masthead fluid="" class="sgds-masthead-class"></sgds-masthead> 
+<div id="Content_C002_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+</div>
+<div class="layout-subsite">
+    <div id="Content_T7AD4A7CC001_Col00" class="sf_colsIn" data-sf-element="Navigation" data-placeholder-label="Navigation">
+
+<header>
+    <nav class="sgds navbar navbar-expand-xl main-navbar">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/" aria-label="home page">
+                <img src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69" title="MSF logo">
+            </a>
+
+            <button class="btn btn-nav-search px-24 ms-auto d-block d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#searchbarCollapse" aria-expanded="false" aria-controls="searchbarCollapse" aria-label="search icon">
+                <em class="fa-solid fa-search"></em>
+            </button>
+
+            <div class="collapse" id="searchbarCollapse">
+                <div class="container-fluid p-0 px-12">
+                    <div class="nav-searchbar">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Search our website" id="navSearchBarSearchInput" data-search="navSearchBarSearchInput">
+                            <button class="btn btn-search" type="button" id="navSearchBarBtnSearch" aria-label="search">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <span>Search</span>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Menu">
+                Menu
+            </button>
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <img class="offcanvas-header-logo" src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69">
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+
+                <div class="offcanvas-searchbar">
+                    <div class="sgds form-group">
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="defaultWith" aria-describedby="defaultWith" placeholder="Search our website">
+                            <button class="btn btn-offcanvas-search" type="button">
+                                <em class="fa-solid fa-search form-control-icon"></em>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav d-flex d-xl-none">
+                        <li class="nav-item">
+                            <a href="/" class="nav-link submenu-link" data-bs-dismiss="offcanvas" aria-current="page" aria-label="Home"><span>Home</span></a>
+                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#who-we-are-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#what-we-do-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#our-services-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#research-data-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#join-us-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+
+                    <div class="d-block d-xl-none">
+                                <div class="collapse collapse-horizontal submenu" id="who-we-are-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#who-we-are-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Who We Are</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/mission-values" class="nav-link sgds" aria-label="Mission &amp; Values"><span class="nav-link-text"><span>Mission &amp; Values</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/organisation-chart" class="nav-link sgds" aria-label="Organisation Chart"><span class="nav-link-text"><span>Organisation Chart</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/agencies-statutory-boards-councils" class="nav-link sgds" aria-label="Agencies, Statutory Boards &amp; Councils"><span class="nav-link-text"><span>Agencies, Statutory Boards &amp; Councils</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/senior-management-team" class="nav-link sgds" aria-label="Senior Management Team"><span class="nav-link-text"><span>Senior Management Team</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="what-we-do-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#what-we-do-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>What We Do</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/help-those-in-need" class="nav-link sgds" aria-label="Help Those in Need"><span class="nav-link-text"><span>Help Those in Need</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/support-families-and-parents" class="nav-link sgds" aria-label="Support Families &amp; Parents"><span class="nav-link-text"><span>Support Families &amp; Parents</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/strengthen-the-social-service-sector" class="nav-link sgds" aria-label="Strengthen the Social Service Sector"><span class="nav-link-text"><span>Strengthen the Social Service Sector</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="our-services-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#our-services-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Our Services</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/our-services/directories" class="nav-link sgds" aria-label="Directories"><span class="nav-link-text"><span>Directories</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/our-services/e-services" class="nav-link sgds" aria-label="E-Services"><span class="nav-link-text"><span>E-Services</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="research-data-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#research-data-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Research &amp; Data</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-reports-data" class="nav-link sgds" aria-label="Research Report &amp; Data"><span class="nav-link-text"><span>Research Report &amp; Data</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-grants" class="nav-link sgds" aria-label="Research Grants"><span class="nav-link-text"><span>Research Grants</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/Research-Conferences-Forums-Networks" class="nav-link sgds" aria-label="Research Conferences, Forums &amp; Networks"><span class="nav-link-text"><span>Research Conferences, Forums &amp; Networks</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="join-us-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#join-us-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Join Us</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/join-us/volunteer-with-msfcare-network" class="nav-link sgds" aria-label="Volunteer with MSFCare Network"><span class="nav-link-text"><span>Volunteer with MSFCare Network</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/jobs-careers" class="nav-link sgds" aria-label="Jobs &amp; Careers"><span class="nav-link-text"><span>Jobs &amp; Careers</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/scholarships-internships" class="nav-link sgds" aria-label="Scholarships &amp; Internships"><span class="nav-link-text"><span>Scholarships &amp; Internships</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                    </div>
+
+                    <ul class="navbar-nav justify-content-end flex-grow-1 d-none d-xl-flex">
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/mission-values" aria-label="Mission &amp; Values">
+                                                            Mission &amp; Values
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/organisation-chart" aria-label="Organisation Chart">
+                                                            Organisation Chart
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/agencies-statutory-boards-councils" aria-label="Agencies, Statutory Boards &amp; Councils">
+                                                            Agencies, Statutory Boards &amp; Councils
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/senior-management-team" aria-label="Senior Management Team">
+                                                            Senior Management Team
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/help-those-in-need" aria-label="Help Those in Need">
+                                                            Help Those in Need
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/support-families-and-parents" aria-label="Support Families &amp; Parents">
+                                                            Support Families &amp; Parents
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/strengthen-the-social-service-sector" aria-label="Strengthen the Social Service Sector">
+                                                            Strengthen the Social Service Sector
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/directories" aria-label="Directories">
+                                                            Directories
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/e-services" aria-label="E-Services">
+                                                            E-Services
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-reports-data" aria-label="Research Report &amp; Data">
+                                                            Research Report &amp; Data
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-grants" aria-label="Research Grants">
+                                                            Research Grants
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/Research-Conferences-Forums-Networks" aria-label="Research Conferences, Forums &amp; Networks">
+                                                            Research Conferences, Forums &amp; Networks
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/volunteer-with-msfcare-network" aria-label="Volunteer with MSFCare Network">
+                                                            Volunteer with MSFCare Network
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/jobs-careers" aria-label="Jobs &amp; Careers">
+                                                            Jobs &amp; Careers
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/scholarships-internships" aria-label="Scholarships &amp; Internships">
+                                                            Scholarships &amp; Internships
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header><div class="searchbar">
+    <div class="container-fluid">
+        <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search our website" id="searchbarWidgetSearchInput" data-search="searchbarWidgetSearchInput">
+            <button class="btn btn-search" type="button" id="searchbarWidgetBtnSearch" aria-label="Search">
+                <span>
+                    <em class="fa-solid fa-search fa-sm"></em>
+                    Search
+                </span>
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- prettier-ignore -->
+<div class="container-fluid">
+    <nav aria-label="breadcrumb" class="breadcrump-wrapper">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>
+                        <a href="/who-we-are" aria-label="Who We Are">Who We Are</a>
+                    </li>
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>Organisation Chart
+                    </li>
+        </ol>
+        <div class="breadcrumb-mobile">
+            <a href="/" aria-label="Home">
+                <em class="fa-solid fa-chevron-left"></em>
+                <span>Home</span>
+            </a>
+        </div>
+    </nav>
+</div>
+
+
+
+
+<link href="/ResourcePackages/Msf/assets/css/language-bar.min.css" rel="stylesheet" type="text/css">
+
+
+    </div>
+    <div id="Content_T7AD4A7CC001_Col01" class="sf_colsIn" data-sf-element="Content" data-placeholder-label="Content"><div id="Content_C004_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<h3><br>Organisation Chart</h3><p class="normal">The Organisation Chart shows how MSF is formally structured and organised. For more information, please visit the <a href="https://www.sgdi.gov.sg/ministries/msf" target="_blank" rel="noopener noreferrer" data-sf-ec-immutable="">Singapore Government Directory</a>.</p><div class="content" style="box-sizing:border-box;background-image:initial;background-position:0px 0px;background-size:initial;background-repeat:initial;background-attachment:initial;background-origin:initial;background-clip:initial;font-size:16px;margin:0px;outline:0px;padding:20px 0px 0px;vertical-align:baseline;line-height:1.7em;color:#404040;"><table width="100%" cellspacing="0" cellpadding="0" style="border:0px solid rgb(0, 98, 127);margin:0px;padding:0px;border-spacing:0px;word-break:normal;border-radius:25px;"><tbody style="box-sizing:border-box;margin:0px;padding:0px;"><tr style="box-sizing:border-box;margin:0px;padding:0px;"><td width="50%" style="box-sizing:border-box;margin:0px;padding:15px;border-radius:20px 0px 0px;text-align:center;color:white;line-height:normal;border-bottom:3px solid rgb(248, 147, 31);background-color:#00627f;"><h6><strong style="box-sizing:border-box;background:0px 0px;margin:0px;outline:0px;padding:0px;vertical-align:bottom;">Minister (Social and Family Development)</strong><br style="box-sizing:border-box;">Mr Masagos Zulkifli</h6></td><td width="50%" style="box-sizing:border-box;margin:0px;padding:15px;border-radius:0px 20px 0px 0px;text-align:center;color:white;line-height:normal;border-bottom:3px solid rgb(248, 147, 31);background-color:#00627f;"><h6><strong style="box-sizing:border-box;background:0px 0px;margin:0px;outline:0px;padding:0px;vertical-align:bottom;">Minister-in-charge of Social Services Integration</strong><br style="box-sizing:border-box;">Mr Desmond Lee</h6></td></tr><tr style="box-sizing:border-box;margin:0px;padding:0px;"><td colspan="2" style="box-sizing:border-box;margin:0px;padding:5px;border-radius:0px 0px 25px 25px;text-align:center;color:#00627f;line-height:normal;background-color:#dddddd;"><h6><br style="box-sizing:border-box;"><strong style="box-sizing:border-box;background:0px 0px;margin:0px;outline:0px;padding:0px;vertical-align:baseline;">Minister of State</strong><br style="box-sizing:border-box;">Ms Sun Xueling<br style="box-sizing:border-box;"><br style="box-sizing:border-box;"><strong style="box-sizing:border-box;background:0px 0px;margin:0px;outline:0px;padding:0px;vertical-align:baseline;">Senior Parliamentary Secretary</strong><br style="box-sizing:border-box;">Mr Eric Chua<br style="box-sizing:border-box;"><br style="box-sizing:border-box;"><strong style="box-sizing:border-box;background:0px 0px;margin:0px;outline:0px;padding:0px;vertical-align:baseline;">Permanent Secretary</strong><br style="box-sizing:border-box;">Mr Aubeck Kam<br style="box-sizing:border-box;"><br style="box-sizing:border-box;"><strong style="box-sizing:border-box;background:0px 0px;margin:0px;outline:0px;padding:0px;vertical-align:baseline;">Permanent Secretary (Development)</strong><br style="box-sizing:border-box;">Ms Lim Wan Yong<br style="box-sizing:border-box;"><br style="box-sizing:border-box;"><strong style="box-sizing:border-box;background:0px 0px;margin:0px;outline:0px;padding:0px;vertical-align:baseline;">Deputy Secretary (Opportunity &amp; Resilience)</strong><br style="box-sizing:border-box;">Mr John Lim<br style="box-sizing:border-box;"><br style="box-sizing:border-box;"><strong style="box-sizing:border-box;background:0px 0px;margin:0px;outline:0px;padding:0px;vertical-align:baseline;">Deputy Secretary (</strong><strong>Family &amp; Society</strong><strong style="box-sizing:border-box;background:0px 0px;margin:0px;outline:0px;padding:0px;vertical-align:baseline;">)</strong><br style="box-sizing:border-box;">Ms Ong Ai Hua<br style="box-sizing:border-box;"></h6><p><strong>Deputy Secretary (</strong><strong>Corporate &amp; Partners</strong><strong>)</strong><br>Mr Esa Masood</p></td></tr></tbody></table><p>&nbsp;</p></div>
+<br><table width="100%" style="margin-left:auto;margin-right:auto;font-size:16px;"><tbody><tr style="height:16.666666666666668%;"><td style="width:100%;color:#ffffff;background-color:#00607a;border-radius:10px;padding:10px;text-align:center;">Policy &amp; Planning Directorates</td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;"><div style="border-radius:10px;background-color:#dddddd;padding:10px;text-align:center;">Rehabilitation &amp; Social Mobility Policy</div></td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;"><div style="border-radius:10px;background-color:#dddddd;padding:10px;text-align:center;">Family &amp; Child Development Policy</div></td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;"><div style="border-radius:10px;background-color:#dddddd;padding:10px;text-align:center;">Sector Strategy &amp; Development
+                </div></td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;"><div style="border-radius:10px;background-color:#dddddd;padding:10px;text-align:center;">Strategy, International &amp; Research
+                </div></td></tr></tbody></table><br><table width="100%" style="margin-left:auto;margin-right:auto;font-size:16px;"><tbody><tr style="height:16.666666666666668%;"><td style="width:100%;color:#ffffff;background-color:#00607a;border-radius:10px;padding:10px;text-align:center;">Operational Groups and Divisions</td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;"><div style="border-radius:10px;background-color:#dddddd;padding:10px;text-align:center;">Rehabilitation &amp; Protection Group</div></td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;"><div style="border-radius:10px;background-color:#dddddd;padding:10px;text-align:center;">Social Support Group</div></td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;"><div style="border-radius:10px;background-color:#dddddd;padding:10px;text-align:center;">Early Childhood Development Agency</div></td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;"><div style="border-radius:10px;background-color:#dddddd;padding:10px;text-align:center;">Family Life Group</div></td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;"><div style="border-radius:10px;background-color:#dddddd;padding:10px;text-align:center;">Office of the Director General of Social Welfare</div></td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;"><div style="border-radius:10px;background-color:#dddddd;padding:10px;text-align:center;">Investigation &amp; Contingency Planning Division</div></td></tr></tbody></table><br><table width="100%" style="margin-left:auto;margin-right:auto;font-size:16px;"><tbody><tr style="height:16.666666666666668%;"><td style="width:100%;color:#ffffff;background-color:#00607a;border-radius:10px;padding:10px;text-align:center;">Corporate Groups and Divisions</td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;"><div style="border-radius:10px;background-color:#dddddd;padding:10px;text-align:center;">Communications &amp; Engagement Division</div></td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;"><div style="border-radius:10px;background-color:#dddddd;padding:10px;text-align:center;">Customer Experience Division</div></td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;"><div style="border-radius:10px;background-color:#dddddd;padding:10px;text-align:center;">Information Technology Group</div></td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;"><div style="border-radius:10px;background-color:#dddddd;padding:10px;text-align:center;">Internal Audit Unit</div></td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;"><div style="border-radius:10px;background-color:#dddddd;padding:10px;text-align:center;">Legal Services Unit</div></td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;"><div style="border-radius:10px;background-color:#dddddd;padding:10px;text-align:center;">Human Resource Division</div></td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;"><div style="border-radius:10px;background-color:#dddddd;padding:10px;text-align:center;">Finance and Facilities Division</div></td></tr><tr style="height:16.666666666666668%;"><td style="width:100%;padding:5px;">&nbsp;</td></tr></tbody></table><br>
+</div>
+
+    </div>
+</div> <div class="sharethis-inline-share-buttons"></div> 
+
+
+<footer class="sgds footer">
+    <section class="footer-top">
+        <div class="container-fluid">
+            <div class="row footer-header">
+                <div class="footer-title">
+                    Ministry of Social and Family Development
+                </div>
+            </div>
+
+            <div class="row footer-contact-links">
+                <div class="col-sm-12">
+                    <div class="d-flex flex-column flex-lg-row gap-20 gap-lg-0 justify-content-lg-end">
+                        <div class="d-flex justify-content-lg-end">
+                            <ul class="d-flex flex-column flex-lg-row gap-lg-40 contact-links">
+                                        <li><a class="" href="/contact-us-feedback" aria-label="Contact Us / Feedback">Contact Us / Feedback</a></li>
+                                        <li><a class="not-first-page" href="/faqs" aria-label="FAQs">FAQs</a></li>
+                            </ul>
+                        </div>
+                        <div class="d-flex align-items-lg-center justify-content-lg-end">
+                            <ul class="d-flex social-links">
+                                <li>
+                                    <a href="https://www.facebook.com/MSFSingapore/" aria-label="facebook">
+                                        <em class="fa-brands fa-square-facebook"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/msfcares/" aria-label="instagram">
+                                        <em class="fa-brands fa-instagram"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://t.me/msfcares" aria-label="telegram">
+                                        <em class="fa-brands fa-telegram"></em>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="footer-bottom">
+        <div class="container-fluid">
+            <hr class="footer-divider">
+            <div class="row footer-mandatory-links">
+                <div class="col-12 col-lg-8 col-xl-9">
+                    <ul class="footer-nav-list">
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links " href="/report-vulnerability" rel="noopener" aria-label="Report Vulnerability
+
+">Report Vulnerability
+
+</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/privacy-statement" rel="noopener" aria-label="Privacy Statement">Privacy Statement</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/terms-of-use" rel="noopener" aria-label="Terms of Use&nbsp;">Terms of Use&nbsp;</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/sitemap" rel="noopener" aria-label="Sitemap">Sitemap</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/accessibility-statement" rel="noopener" aria-label="Accessibility Statement">Accessibility Statement</a>
+                                </li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg footer-copyrights">
+                    <div class="d-flex justify-content-lg-end text-lg-end">
+                        © 2024 Government of Singapore<br>
+                        Last updated 05 Sep 2023
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+
+
+ <div class="accessibility-sidebar"> <div class="btn-group-vertical btn-group-sm" role="group" aria-label="Accessibility Sidebar"> <button type="button" class="btn btn-accessibility btn-notice" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Show/Hide Notice" data-bs-original-title="Show/Hide Notice"> <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10 0C8.02219 0 6.08879 0.58649 4.4443 1.6853C2.79981 2.78412 1.51809 4.3459 0.761209 6.17317C0.00433284 8.00043 -0.193701 10.0111 0.192152 11.9509C0.578004 13.8907 1.53041 15.6725 2.92894 17.0711C4.32746 18.4696 6.10929 19.422 8.0491 19.8079C9.98891 20.1937 11.9996 19.9957 13.8268 19.2388C15.6541 18.4819 17.2159 17.2002 18.3147 15.5557C19.4135 13.9112 20 11.9778 20 10C20 8.68678 19.7413 7.38642 19.2388 6.17317C18.7363 4.95991 17.9997 3.85752 17.0711 2.92893C16.1425 2.00035 15.0401 1.26375 13.8268 0.761205C12.6136 0.258658 11.3132 0 10 0ZM10 18C8.41775 18 6.87104 17.5308 5.55544 16.6518C4.23985 15.7727 3.21447 14.5233 2.60897 13.0615C2.00347 11.5997 1.84504 9.99113 2.15372 8.43928C2.4624 6.88743 3.22433 5.46197 4.34315 4.34315C5.46197 3.22433 6.88743 2.4624 8.43928 2.15372C9.99113 1.84504 11.5997 2.00346 13.0615 2.60896C14.5233 3.21447 15.7727 4.23984 16.6518 5.55544C17.5308 6.87103 18 8.41775 18 10C18 12.1217 17.1572 14.1566 15.6569 15.6569C14.1566 17.1571 12.1217 18 10 18Z"></path> <path d="M10 7C10.5523 7 11 6.55228 11 6C11 5.44772 10.5523 5 10 5C9.44772 5 9 5.44772 9 6C9 6.55228 9.44772 7 10 7Z"></path> <path d="M10 8C9.73478 8 9.48043 8.10536 9.29289 8.29289C9.10536 8.48043 9 8.73478 9 9V14C9 14.2652 9.10536 14.5196 9.29289 14.7071C9.48043 14.8946 9.73478 15 10 15C10.2652 15 10.5196 14.8946 10.7071 14.7071C10.8946 14.5196 11 14.2652 11 14V9C11 8.73478 10.8946 8.48043 10.7071 8.29289C10.5196 8.10536 10.2652 8 10 8Z"></path> </svg> </button> <button type="button" class="btn btn-accessibility btn-font-bigger" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Increase Font Size" data-bs-original-title="Increase Font Size">
+                    A+
+                </button> <button type="button" class="btn btn-accessibility btn-font-smaller" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Decrease Font Size" data-bs-original-title="Decrease Font Size">
+                    A−
+                </button> <button type="button" class="btn btn-accessibility btn-contrast" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Toggle Colour Contrast" data-bs-original-title="Toggle Colour Contrast"> <em class="fa-solid fa-circle-half-stroke"></em> </button> </div> </div> <div class="back-to-top"> <button class="btn-back-top" aria-label="back to top"> <svg width="16" height="8" viewBox="0 0 16 8" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4826 7.76568C14.8297 8.07811 15.3925 8.07811 15.7396 7.76568C16.0868 7.45326 16.0868 6.94673 15.7396 6.63432L8.62853 0.23424C8.2814 -0.0780799 7.71859 -0.0780799 7.37146 0.23424L0.260266 6.63432C-0.0867557 6.94673 -0.0867557 7.45326 0.260266 7.76567C0.607466 8.07811 1.17031 8.07811 1.51751 7.76567L8 3L14.4826 7.76568Z"></path> </svg> <span>Top</span> </button> </div> <script src="/ResourcePackages/Msf/assets/js/jquery.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/jquery-ui.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/swiper-bundle.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/bootstrap.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/default-passive-events.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/search-result.js" type="text/javascript"></script> <script src="https://assets.wogaa.sg/scripts/wogaa.js"></script> <script type="text/javascript" src="/ResourcePackages/Msf/assets/js/sharethis.js#property=648140a26773dd0012e17a9b&amp;product=inline-share-buttons&amp;source=platform" async="async"></script> <script>
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window, document, 'script', 'dataLayer', 'G-7WBNTH91BT');
+            </script> <!-- Global site tag (gtag.js) - Google Analytics --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7WBNTH91BT"></script> <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-7WBNTH91BT');
+            </script> <script type="module" src="https://cdn.jsdelivr.net/npm/@govtechsg/sgds-web-component/Masthead/index.js"></script> <script src="/ResourcePackages/Msf/assets/js/main.min.js" type="text/javascript"></script>  
+<div id="st-2" class=" st-sticky-share-buttons st-left st-toggleable st-has-labels "><div class="st-btn st-first" data-network="facebook" style="display: inline-block;">
+  <img alt="facebook sharing button" src="https://platform-cdn.sharethis.com/img/facebook.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="linkedin" style="display: inline-block;">
+  <img alt="linkedin sharing button" src="https://platform-cdn.sharethis.com/img/linkedin.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="gmail" style="display: inline-block;">
+  <img alt="gmail sharing button" src="https://platform-cdn.sharethis.com/img/gmail.svg">
+  <span class="st-label">Email</span>
+</div><div class="st-btn st-last" data-network="copy" style="display: inline-block;">
+  <img alt="copy sharing button" src="https://platform-cdn.sharethis.com/img/copy.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-toggle">
+  <div class="st-left">
+    <img alt="arrow_left sharing button" src="https://platform-cdn.sharethis.com/img/arrow_left.svg">
+  </div>
+  <div class="st-right">
+    <img alt="arrow_right sharing button" src="https://platform-cdn.sharethis.com/img/arrow_right.svg">
+  </div>
+</div></div><wog-sentiments class="needsclick hydrated"></wog-sentiments><link href="https://webchat.vica.gov.sg/static/css/chat.css" type="text/css" rel="stylesheet" referrerpolicy="origin"><script src="https://webchat.vica.gov.sg/static/js/chat.js" type="text/javascript" referrerpolicy="origin" defer=""></script></body></html>

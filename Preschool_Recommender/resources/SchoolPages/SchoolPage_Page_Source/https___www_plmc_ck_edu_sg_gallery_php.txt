@@ -1,0 +1,553 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" prefix="og: http://ogp.me/ns#" class=""><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta charset="utf-8">
+<!--<meta name="Author" content="Determination" />-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>PLMC Paya Lebar Methodist Church Covenant Kindergarten - Gallery</title>
+
+<!--<meta property="analytics-track" content="DETERMINATION - Index" />
+<meta property="analytics-s-channel" content="homepage" />
+<meta name="Description" content="Insert SOUL Here, You're filled with DETERMINATION." />
+<meta property="og:title" content="Determination" />
+<meta property="og:description" content="Insert SOUL Here, You're filled with DETERMINATION." />
+<meta property="og:url" content="http://site.cyberland.edu.sg/miku/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Determination" />-->
+
+<!-- STYLE LINKS -->
+
+<link rel="stylesheet" href="css/main.css" type="text/css">
+<link rel="stylesheet" href="css/PLMC-calendar-table.css" type="text/css">
+<link href="css/tabsy.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Kalam" rel="stylesheet">	
+<!-- STYLE BLOCK -->
+
+<!-- SHOWS CURRENT PAGE -->
+
+<style>
+	#header nav ul #current-about a,
+	#header nav ul #current-about a:hover {
+		color: #FFFFFF;
+	}
+	#link6, #link6:hover {
+		/*background-color: #31C3E7;*/
+		/*background-color: #37bca5;*/
+		color: black;
+		font-weight: bolder;
+	}
+</style>
+
+<!-- SCRIPT LINK -->
+
+<!-- MOBILE NAV SOURCE -->
+
+<script src="src/jquery-1.9.1.min.js"></script>
+<script src="src/jPushMenu.js"></script>
+
+<!-- SCRIPT BLOCK -->
+
+<script>
+
+	<!-- TO THE TOP -->
+
+	$(document).on('click', '#tothetop2', function(){
+		$('html,body').animate({ scrollTop: 0 }, 500);
+	});
+
+	<!-- MOBILE NAV -->
+
+	jQuery(document).ready(function($) {
+		$('.toggle-menu').jPushMenu();
+	});
+	
+</script>
+
+</head>
+<body class="push-body">
+
+<!-- WRAPPER -->
+
+<div id="wrapper-outer">
+
+<!-- LOGO / MOBILE NAV 
+**Please copy and paste into each files instead of using php include as the mobile nav are linked to the javascript,
+  this is to prevent it from collision with other javascript -->
+
+<div id="Logo-wrapper">
+	<div id="container-logo">
+		<a href="index.php"><img src="img/PLMC-Logo-for-website-top.png" alt="Logo"></a>
+		<!--<a href="index.php"><img src="img/logo_plmc.png" alt="Logo" ></a>-->
+		<!--<h2 class="topbar_companyname">Paya Lebar Methodist Church Covenant Kindergarten</h2>-->
+	</div>
+	<div id="social-media">
+
+		
+		
+    
+<!------------------------------Mobile version side vertical menu start------------------------------>
+    	<nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" style="background-color: #293789;">
+			<h3 style="background-color: #293789;">Menu</h3>
+			<ul>
+            	<li id="cbplink1"><a href="index.php">Home</a></li>
+				<li id="cbplink2"><a href="aboutus-history.php">About Us</a></li>
+                <!--<li id="cbplink3"><a href="aboutus-visionmission.php#vision">Vision, Mission, Philosophy</a></li>-->
+				<!--<li id="cbplink4"><a href="aboutus-visionmission.php#mission">Mission</a></li>
+				<li id="cbplink5"><a href="aboutus-visionmission.php#philosophy">Philosophy</a></li>-->
+				<li id="cbplink6"><a href="programme-curriculum.php">Our Curriculum</a></li>
+				<li id="cbplink7"><a href="programme-learning.php#learningjourneys">Learning Journeys</a></li>
+				<li id="cbplink8"><a href="programme-learning.php#enrichmentprogramme">Enrichment Programme</a></li>
+				<li id="cbplink9"><a href="parentinfo.php">Parent Info</a></li>
+				<li id="cbplink10"><a href="testimonials.php">Testimonials</a></li>
+				<li id="cbplink11"><a href="gallery.php">Gallery</a></li>
+				<li id="cbplink12"><a href="admission.php">Admission</a></li>
+				<li id="cbplink13"><a href="contactus.php">Contact Us</a></li>
+				<!--<li id="cbplink3">
+                	<a href="">Curriculum &nbsp;&#x25BC;</a>
+            		<ul>
+                		<li id="cbp2nd1">
+                        	<a href="seeds-programme.php">Seeds Programme</a>
+                        </li>
+                		<li id="cbp2nd2">
+                        	<a href="jolly-programme.php">Jolly Programme</a>
+                       	</li>
+                	</ul>
+                </li>-->
+
+<!-- Mobile menu with multi-level items
+<li id="cbplink3">
+                	<a href="curriculum.php">Curriculum &nbsp;&#x25BC;</a>
+            		<ul>
+                		<li id="cbp2nd1">
+                        	<a href="#">Pre-Care</a><div class="arrow">&#x25BC;</div>
+                            <ul>
+                            	<li id="cbp3rd1"><a href="#">Nursery</a></li>
+                            	<li id="cbp3rd2"><a href="#">Pre-K</a></li>
+                            </ul>
+                        </li>
+                		<li id="cbp2nd2">
+                        	<a href="#">Child Care</a><div class="arrow">&#x25BC;</div>
+                            <ul>
+                            	<li id="cbp3rd3"><a href="#">K1</a></li>
+                            	<li id="cbp3rd4"><a href="#">K2</a></li>
+                            </ul>
+                       	</li>
+                	</ul>
+                </li>
+
+-->				
+				
+				
+				
+				
+            </ul>
+            <button class="toggle-menu menu-right push-body jPushMenuBtn" style="background-color:#293789; border: thin solid white;">Close</button>
+		</nav><!------------------------------Mobile version side vertical menu end------------------------------>
+		
+		
+		<div class="container">
+			<div class="main">
+				<button class="toggle-menu menu-right push-body jPushMenuBtn">Menu</button>
+			</div>
+		</div>
+        
+	</div>
+	
+    <div class="clear"></div>
+</div>
+
+<!-- INNER WRAPPER -->
+
+<div id="wrapper-inner" style="padding-bottom: 20px;">
+
+<!-- HEADER -->
+
+<div id="header">
+	<nav>
+    	<ul>
+        	<li>
+            	<a href="index.php"><div id="current-home"><div id="link1">
+                    	Home
+           	  </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="aboutus-history.php"><div id="current-about"><div id="link2">About Us
+              	</div></div></a>
+				
+            </li>
+            
+        	<li>
+            	<a href=""><div id="current-curriculum"><div id="link3">               	  Programme
+       	  		</div></div></a>
+    			<ul>
+      				<li>
+                    	<a href="programme-curriculum.php">
+                    	<div class="link2nd">Our Curriculum</div></a>
+                        
+                   	</li>
+      				<li>
+                    	<a href="programme-learning.php"><div class="link2nd">Learning Journeys</div></a>
+                    </li>
+					<li>
+                    	<a href="programme-learning.php#enrichmentprogramme"><div class="link2nd">Enrichment Programme</div></a>
+                    </li>
+    			</ul>
+                
+          	</li>
+            
+        	<li>
+            	<a href="parentinfo.php"><div id="current-gallery"><div id="link4">Parent Info
+            	</div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="testimonials.php"><div id="current-testimonies"><div id="link5">
+					Testimonials </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="gallery.php"><div id="current-career"><div id="link6">                    	Gallery
+           	  </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="admission.php"><div id="current-admission"><div id="link7">                    	Admission
+              	</div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="contactus.php"><div id="current-contact"><div id="link8">                    	Contact Us
+              	</div></div></a>
+            </li>
+        </ul>
+    </nav>
+</div>
+<div class="clear"></div>
+<!-- MAIN CONTENT -->
+
+<div id="content-main">
+	
+    <!-- TITLE -->
+    
+    <div id="title-background" class="gallery-title-background-img">
+    	<!--<h1>About Us</h1>-->
+    </div>
+    
+    <!-- CONTAINER -->
+    
+    <div id="container-box">
+    	
+        <!-- TEXT Summary.etc. -->
+        
+        <div id="subpage-content-fullwidth">
+			<div id="container-text-1col">
+			<!--<div id="container-text2">-->
+			<a name="gallery-section"></a>
+			<h2 class="title-gallery">GALLERY</h2>
+			<hr>
+			<div style="width: 100%; height: 300px; background-color: #FFFFFF;">
+				
+				<!--<div id="SubpgContentContainer3">-->
+					<!--<div id="SubPgLeftMenu3">
+						<div id="select-gallery-type">
+							Show: <select name='selCat' id='selCat' style="margin-right: 3.0em;">
+							<option value='Event' selected>Event</option>
+							<option value='FieldTrip'>Field Trip</option>
+							<option value='LaerningArea'>Language &amp; Literacy</option>
+							<option value='LaerningArea'>Numeracy</option>
+							<option value='LaerningArea'>Motor Skills Development</option>
+							<option value='LaerningArea'>Social &amp; Emotional Development</option>
+							<option value='LaerningArea'>Aesthetics &amp; Creative Expression</option>
+							<option value='LaerningArea'>Discovery of the world</option>
+							</select>
+						</div>
+						<div id="select-gallery-title">
+							Activity:<select name='selGallery' id='selGallery'></select>
+						</div>
+						<div id="select-gallery-button">
+							<input type='button' value='Get Picture' id='buttShow' class="css3button" >
+						</div>
+					</div>-->	
+					<div id="GalleryLeftContainer">
+						 
+
+<link rel="stylesheet" type="text/css" media="screen" href="api/program/jquery/css/custom-theme/jquery-ui-1.8.17.custom.css">
+<link rel="stylesheet" type="text/css" media="screen" href="api/program/jquery/jqGrid/src/css/ui.jqgrid.css">
+<script src="api/program/jquery/js/jquery-1.7.1.min.js" type="text/javascript"></script>
+<script src="api/program/jquery/js/jquery-ui-1.8.17.custom.min.js" type="text/javascript"></script>
+<link href="api/program/css/backend.css" rel="stylesheet" type="text/css">
+<script src="js/slimbox2.js" type="text/javascript"></script>
+<link href="api/program/css/slimbox2.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="stmenu.js"></script>
+
+<style type="text/css">
+<!--
+
+#TickerVertical li .NewsTitle{
+	display: block;
+	background:#FCF1B2;
+	color: #000000;
+	font-size: 12px;
+	font-weight:bold;
+	margin-bottom:6px;
+}
+#TickerVertical li .NewsFooter{
+	display: block;
+	background:#FCF1B2;
+	color: #000000;
+	font-size: 10px;
+	margin:6px 0 0 0;
+}
+-->
+</style>
+
+<script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+	var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+	if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function ajaxCall(urlx,datax,divx) {
+	// do something then refresh selection settings
+	$('#loadingDiv').show();  
+	$.ajax({
+		type:	'POST',
+		url:	urlx,
+		data:	datax,
+		dataType:	'html',
+		timeout:	550000,
+		success: function(data){
+			$("#"+divx).html(data);
+				//$('#loadingDiv').hide(); 
+			    $("a[rel^='lightbox']").slimbox({/* Put custom options here */}, null, function(el) { 
+			                return (this == el) || ((this.rel.length > 8) && (this.rel == el.rel)); 
+			    }), function() { 
+			        //remove slimbox? this is called when elements no longer match 
+			    } 
+						
+			},
+		error: function(o,s,e){
+				//$('#loadingDiv').hide(); 
+					//window.location = urlx;
+			}
+	});
+};
+
+function ajaxshowgrid() {
+	jQuery("#gridmain").jqGrid({
+		sortable: false,
+	   	url:'api/program/gallery_loadphotos.php?q=1&category=Event&id=0',
+		datatype: "xml",
+		height: "auto",
+	   	colNames:['Theme'],
+	   	colModel:[
+	   		{name:'Theme',index:'Theme', width:340,editable:false,sortable:false},
+		],
+		rowNum: -1, 
+	   	pager: '#pagermain',
+	    pgbuttons: false,     
+	    pgtext: '',
+	    recordtext: '',         
+	    viewrecords: true,
+		multiselect: false,
+		shrinkToFit: false,
+		caption: "Select Theme",
+		jsonReader: {
+			repeatitems : false
+		},
+		toolbar: [true,"top"]
+	});
+
+	//$(".ui-jqgrid-titlebar").hide(); 
+	//$('.ui-jqgrid-hdiv').hide();
+
+	
+	$("#t_gridmain").append("Show:&nbsp;");
+	$("#t_gridmain").append("<select name='selCat' id='selCat'><option value='Event' selected>School Events</option><option value='Facilities'>School Facilities</option><option value='Learning'>Learning Journeys</option></select>&nbsp;&nbsp;&nbsp;&nbsp;");
+	$("#t_gridmain").append("<input type='button' value='Get Picture' id='buttShow' style='height:30px;font-size:-3'/>&nbsp;&nbsp;");
+
+	jQuery("#gridmain").jqGrid('navGrid','#pagermain',
+		{view:false,search:false,edit:false,add:false,del:false}, //options
+		{}, // edit options
+		{}, // add options
+		{}, // del options
+		{}, // search options
+		{} // view options
+	);
+	
+	$("#selCat","#t_gridmain").change(function(){
+		var CatVal = document.getElementById("selCat").value;
+		$("#gridmain").jqGrid("setGridParam",{postData:{category:CatVal}});
+		$("#gridmain").trigger("reloadGrid");
+	});
+	$("#buttShow","#t_gridmain").click(function(){
+		var sr = $("#selGallery").val();
+		if (sr!=null){
+			showphotos(sr);
+		}else{
+			alert("Please select an activity.");
+		}
+	});
+
+}
+	
+function showitem(){
+	var picttype = $("#selpicturetype").val();	
+	ajaxCall("api/program/gallery_user.php","mode=getdetails&picttype="+picttype,"SubPgLeftMenu3");
+	
+}
+
+function showphotos(id){
+	ajaxCall("api/program/gallery_user.php","mode=getphotos&id="+id,"SubpgContent2e");
+}
+
+$(function(){
+	ajaxCall("api/program/gallery_loadActivity.php","category="+$("#selCat").val(),"selGallery");
+	$("#selCat").change(function(){
+		var CatVal = document.getElementById("selCat").value;
+		ajaxCall("api/program/gallery_loadActivity.php","category="+$("#selCat").val(),"selGallery");
+	});
+	$("#buttShow").click(function(){
+		var sr = $("#selGallery").val();
+		if (sr!=null){
+			showphotos(sr);
+		}else{
+			alert("Please select an activity.");
+		}
+	});
+});
+
+//-->
+</script>
+
+
+
+    <!--<div id="SubpgContentContainer3">-->
+		<div id="SubPgLeftMenu3">
+        	<div id="select-gallery-type">
+				Show: <select name="selCat" id="selCat" style="margin-right: 3.0em;"><option value="Event" selected="">School Events</option><option value="Facilities">School Facilities</option><option value="Learning">Learning Journeys</option></select></div>
+			<div id="select-gallery-title">
+				Activity:<select name="selGallery" id="selGallery"><option value="31">School Concert</option><option value="32">Children’s Day</option><option value="21">Chinese New Year</option></select>
+			</div>
+			<div id="select-gallery-button">
+				<!--<input type='button' value='Get Picture' id='buttShow' style='height:30px;font-size:-3'/>-->
+				<input type="button" value="Get Picture" id="buttShow" class="css3button">
+			</div>
+		</div>
+		
+	 
+
+		<!--<p class="clear"></p>-->
+	   <div id="SubpgContent2e">
+	   		<div style="margin-bottom: 260px;">&nbsp;</div>
+	   </div>
+              
+       <div><p class="clear "></p></div>
+ 
+	<!--</div>-->
+	
+      				</div>
+				
+			</div>
+			<div class="clear"></div>	
+				
+				
+            <!--<div id="tothetop"><img src="img/tothetop.png" alt="To The Top"></div>-->
+    	</div>
+		</div>
+		
+    </div>
+    
+    <!-- END OF CONTAINER -->
+    
+    <div class="clear"></div>
+       <div id="tothetop2"><img src="img/tothetop.png" alt="To The Top"></div>
+ 
+</div>
+
+<!-- END OF MAIN CONTENT -->
+
+
+
+</div>
+
+<!-- END OF INNER WRAPPER -->
+<!-- FOOTER -->
+
+<footer>
+	<h6 class="copyright-texts">© Paya Lebar Methodist Church Covenant Kindergarten</h6><br>
+
+	<div class="footer_container1a">
+		<div class="footer_container2">
+			<img src="img/footer-address-icon.png" alt="address">
+			<p>
+			<span class="footerheader">Address:</span><br>
+			<span class="footertexts">5 Boundary Road, Singapore 549954</span>	
+				
+			</p>
+		</div>	
+			
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-officehours-icon.png" alt="office hours">
+			<p>
+			<span class="footerheader">Office Hours:</span><br>
+			<span class="footertexts">Monday to Friday, 8am to 4pm</span>	
+				
+			</p>
+		</div>
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-telephone-icon.png" alt="telephone">
+			<p>
+			<span class="footerheader">Telephone:</span><br>
+			<span class="footertexts">6285 3730</span>	
+				
+			</p>
+		</div>
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-email-icon.png" alt="email">
+			<p>
+			<span class="footerheader">Email:</span><br>
+			<span class="footertexts">kindergarten@plmc.org </span>	
+				
+			</p>
+		</div>
+	</div>
+	<div class="clear"></div>
+</footer></div>
+
+<!-- END OF WRAPPER -->
+
+
+
+<div id="lbOverlay" style="display: none;"></div><div id="lbCenter" style="display: none;"><div id="lbImage"><div style="position: relative;"><a id="lbPrevLink" href="#"></a><a id="lbNextLink" href="#"></a></div></div></div><div id="lbBottomContainer" style="display: none;"><div id="lbBottom"><a id="lbCloseLink" href="#"></a><div id="lbCaption"></div><div id="lbNumber"></div><div style="clear: both;"></div></div></div></body></html>

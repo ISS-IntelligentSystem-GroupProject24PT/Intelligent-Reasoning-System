@@ -1,0 +1,1774 @@
+<html lang="en" class="hydrated"><head> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>
+	MSF | Research Grants
+</title> <link rel="icon" type="image/png" href="/ResourcePackages/Msf/assets/img/favIco.png"> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&amp;family=Open+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet">  <link href="/ResourcePackages/Msf/assets/css/sgds.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap-icons.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/all.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/bootstrap.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/sf-bootstrap-conflict.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/jquery-ui.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/swiper-bundle.min.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/search-result.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/main.css" rel="stylesheet"> <link href="/ResourcePackages/Msf/assets/css/custom-style.min.css" rel="stylesheet"> <meta property="og:title" content="MSF | Research Grants"><meta property="og:url" content="https://www.msf.gov.sg/research-data/research-grants"><meta property="og:type" content="website"><meta property="og:site_name" content="Ministry of Social and Family Development"><script async="" src="https://buttons-config.sharethis.com/js/648140a26773dd0012e17a9b.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=G-7WBNTH91BT"></script><script async="" src="https://assets.wogaa.sg/snowplow/3.13.1/sp.js"></script><script type="text/javascript">
+function lateLoadChatFile() {      
+  setTimeout(() => {        
+              const bodyTag = document.getElementsByTagName("body")[0];      
+             // Create link element to import chat.css file and append it on the body element        
+             let linkTag = document.createElement("link");
+  linkTag.href = "https://webchat.vica.gov.sg/static/css/chat.css";         linkTag.type = "text/css";
+  linkTag.rel = "stylesheet";       
+  linkTag.referrerPolicy = "origin";      
+  bodyTag.appendChild(linkTag);        
+  // Create script element to import chat.js file and append it on the body element       
+  let scriptTag = document.createElement("script");         scriptTag.src = "https://webchat.vica.gov.sg/static/js/chat.js";         scriptTag.type = "text/javascript";      
+  scriptTag.referrerPolicy = "origin";         
+  scriptTag.defer = true;         
+  bodyTag.appendChild(scriptTag);      
+}, 5000);  
+}
+</script><script type="text/javascript">
+(function() {
+  // add beta text 
+  let timerId = setInterval(function(){
+	if(!document.getElementsByClassName("sc-htpNat")[0]) return;
+	
+	clearInterval(timerId);
+	document.getElementsByClassName("sc-htpNat")[0].addEventListener("click", changeText);
+	document.getElementsByClassName("sc-EHOje")[0].addEventListener("click", changeText);
+  }, 5000);
+  function changeText() {
+	const ele = $("#webchat-container p:contains('Ask MSF')");
+	ele.html("");
+	ele.append("Ask MSF <span style='font-size: 14px !important;position: relative;top: -9px;left: 5px;font-weight: lighter;'>beta</span>");
+  }
+})();
+</script><link rel="canonical" href="https://www.msf.gov.sg/research-data/research-grants"><script async="" src="https://assets.wogaa.sg/scripts/wogaa.js?url=https%3A%2F%2Fwww.msf.gov.sg%2Fresearch-data%2Fresearch-grants"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style type="text/css">#st-2 {
+  font-family: "Helvetica Neue", Verdana, Helvetica, Arial, sans-serif;;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  backface-visibility: hidden;
+  display: block;
+  position: fixed;
+  opacity: 1;
+  text-align: left;
+  top: 310px;
+  z-index: 94034;
+}
+#st-2.st-left {
+  left: 0px;
+}
+#st-2.st-hidden.st-left {
+  left: -48px;
+}
+#st-2.st-hidden {
+  width: 96px;
+}
+#st-2.st-preview {
+  display: none!important;
+  opacity: 0!important;
+}
+#st-2 > div {
+  clear: left;
+  float: left;
+}
+#st-2 .st-btn {
+  -moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  height: 48px;
+  line-height: 24px;
+  margin-bottom: 0;
+  opacity: 1;
+  overflow: hidden;
+  padding: 12px;
+  position: relative;
+  text-align: left;
+  top: 0;
+  vertical-align: top;
+  white-space: nowrap;
+  width: 48px;
+}
+#st-2 .st-btn.st-first {
+  border-top: none;
+  border-top-right-radius: 4px;
+}
+#st-2 .st-btn.st-last {
+  border-bottom: none;
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn > svg {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > img {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 24px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 24px;
+}
+#st-2 .st-btn > span {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  color: #fff;
+  display: inline-block;
+  font-weight: 500;
+  left: -35px;
+  letter-spacing: 0.5px;
+  opacity: 0;
+  padding: 0 6px;
+  position: relative;
+  vertical-align: top;
+  filter: alpha(opacity=0);
+}
+#st-2 .st-btn.st-hide-label > span {
+  display: none !important;
+}
+#st-2 .st-total {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #fff;
+  color: #555;
+  display: inline-block;
+  font-weight: 500;
+  line-height: 18px;
+  margin-right: 0;
+  min-height: 34px;
+  max-width: 80px;
+  opacity: 1;
+  padding: 4px 0;
+  text-align: center;
+  width: 48px;
+}
+#st-2 .st-total.st-hidden {
+  display: none;
+}
+#st-2 .st-total > span {
+  display: block;
+  font-size: 18px;
+  line-height: 21px;
+  padding: 0;
+}
+#st-2 .st-total > span.st-shares {
+  font-size: 11px;
+  line-height: 11px;
+}
+#st-2 .st-toggle {
+  left: -48px;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #ccc;
+  border-bottom-right-radius: 4px;
+  color: white;
+  cursor: pointer;
+  font-size: 24px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: 48px;
+}
+#st-2.st-hidden .st-toggle {
+  border-top-right-radius: 4px;
+}
+#st-2.st-left .st-toggle .st-left {
+  display: inline-block;
+}
+#st-2.st-left.st-hidden .st-toggle .st-left {
+  display: none;
+}
+#st-2.st-left .st-toggle .st-right {
+  display: none;
+}
+#st-2.st-left.st-hidden .st-toggle .st-right {
+  display: inline-block;
+}#st-2:hover .st-toggle {
+  left: 0;
+}
+#st-2.st-hidden:hover .st-toggle {
+  left: 48px;
+}
+#st-2.st-toggleable:hover .st-btn.st-last {
+  border-bottom-right-radius: 0;
+}
+#st-2.st-toggleable:hover .st-btn.st-last:hover {
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn:hover {
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+}
+#st-2.st-has-labels .st-btn:hover {
+  width: 120px;
+}
+#st-2:not(.st-has-labels) .st-btn:hover {
+  width: 62px;
+}
+#st-2 .st-btn.st-hide-label:hover {
+  width: 62px;
+}
+#st-2 .st-btn:hover > svg {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > img {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > span {
+  opacity: 1;
+  display: inline-block;
+  left: 0;
+  filter: alpha(opacity=100);
+}
+@media (max-width: 1024px) {
+  #st-2 .st-btn:hover > svg {
+    margin-left: 0;
+  }
+  #st-2 .st-btn:hover > span {
+    display: none;
+  }
+}@media (max-width: 1024px) {
+  #st-2 {
+  bottom: 0;
+  display: none;
+  left: 0;
+  right: 0;
+  top: auto;
+  width: 100%;
+}
+#st-2.st-hidden {
+  bottom: -48px;
+  width: 100%;
+}
+#st-2.st-hidden.st-left {
+  left: 0;
+}
+#st-2.st-hidden.st-right {
+  right: 0;
+}
+#st-2 > div {
+  -moz-flex: 1;
+  -ms-flex: 1;
+  -webkit-flex: 1;
+  clear: none;
+  flex: 1;
+  float: none;
+}
+#st-2 .st-total {
+  background: #fff;
+  padding: 6px 8px;
+}
+#st-2 .st-btn {
+  -moz-border-radius: 0 !important;
+-webkit-border-radius: 0 !important;
+border-radius: 0 !important;
+  text-align: center;
+  width: auto;
+}
+#st-2 .st-btn > span {
+  display: none;
+}
+#st-2 .st-toggle {
+  display: none;
+}
+}#st-2 .st-btn[data-network='facebook'] {
+  background-color: #4267B2
+}
+#st-2 .st-btn[data-network='facebook'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='facebook'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='linkedin'] {
+  background-color: #0077b5
+}
+#st-2 .st-btn[data-network='linkedin'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='linkedin'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='gmail'] {
+  background-color: #D44638
+}
+#st-2 .st-btn[data-network='gmail'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='gmail'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='copy'] {
+  background-color: #14682B
+}
+#st-2 .st-btn[data-network='copy'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='copy'] > span {
+  color: #fff
+}#st-2 .st-btn[data-network='snapchat'] > span {
+  color: #333};
+}#st-2 .st-btn[data-network='copy']:hover {
+  width: max-content;
+}</style><script type="module" src="https://assets.wogaa.sg/sentiments/sentiments.esm.js" async=""></script><script nomodule="" src="https://assets.wogaa.sg/sentiments/sentiments.js" async=""></script><style data-styled="" data-styled-version="4.4.1"></style><style type="text/css">.transform-component-module_wrapper__7HFJe {
+  position: relative;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  overflow: hidden;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none;
+  margin: 0;
+  padding: 0;
+}
+.transform-component-module_content__uCDPE {
+  display: flex;
+  flex-wrap: wrap;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  margin: 0;
+  padding: 0;
+  transform-origin: 0% 0%;
+}
+.transform-component-module_content__uCDPE img {
+  pointer-events: none;
+}
+</style><style data-jss="" data-meta="MuiSvgIcon">
+.webchat-MuiSvgIcon-root {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+.webchat-MuiSvgIcon-colorPrimary {
+  color: #3f51b5;
+}
+.webchat-MuiSvgIcon-colorSecondary {
+  color: #f50057;
+}
+.webchat-MuiSvgIcon-colorAction {
+  color: rgba(0, 0, 0, 0.54);
+}
+.webchat-MuiSvgIcon-colorError {
+  color: #f44336;
+}
+.webchat-MuiSvgIcon-colorDisabled {
+  color: rgba(0, 0, 0, 0.26);
+}
+.webchat-MuiSvgIcon-fontSizeInherit {
+  font-size: inherit;
+}
+.webchat-MuiSvgIcon-fontSizeSmall {
+  font-size: 1.25rem;
+}
+.webchat-MuiSvgIcon-fontSizeLarge {
+  font-size: 2.1875rem;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss1 {
+  padding-bottom: 16px;
+}
+.webchat-jss2 {
+  font-weight: bold;
+}
+.webchat-jss3 {
+  padding: 8px;
+  text-align: center;
+}
+.webchat-jss4 {
+  color: rgba(52, 52, 52, 0.8);
+}
+.webchat-jss5 {
+  color: #FFF;
+  padding: 8px 135px !important;
+  border-radius: 5px !important;
+  margin-bottom: 10px;
+}
+.webchat-jss6 {
+  color: #000000 !important;
+  border: 1px solid rgba(52, 52, 52, 0.8);
+  padding: 7px 135px !important;
+  margin-left: 0px !important;
+  border-radius: 5px !important;
+}
+.webchat-jss7 {
+  display: grid !important;
+}
+</style><style data-jss="" data-meta="makeStyles">
+</style><style data-jss="" data-meta="MuiDialog">
+@media print {
+  .webchat-MuiDialog-root {
+    position: absolute !important;
+  }
+}
+.webchat-MuiDialog-scrollPaper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.webchat-MuiDialog-scrollBody {
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: center;
+}
+.webchat-MuiDialog-scrollBody:after {
+  width: 0;
+  height: 100%;
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+}
+.webchat-MuiDialog-container {
+  height: 100%;
+  outline: 0;
+}
+@media print {
+  .webchat-MuiDialog-container {
+    height: auto;
+  }
+}
+.webchat-MuiDialog-paper {
+  margin: 32px;
+  position: relative;
+  overflow-y: auto;
+}
+@media print {
+  .webchat-MuiDialog-paper {
+    box-shadow: none;
+    overflow-y: visible;
+  }
+}
+.webchat-MuiDialog-paperScrollPaper {
+  display: flex;
+  max-height: calc(100% - 64px);
+  flex-direction: column;
+}
+.webchat-MuiDialog-paperScrollBody {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+.webchat-MuiDialog-paperWidthFalse {
+  max-width: calc(100% - 64px);
+}
+.webchat-MuiDialog-paperWidthXs {
+  max-width: 444px;
+}
+@media (max-width:507.95px) {
+  .webchat-MuiDialog-paperWidthXs.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthSm {
+  max-width: 600px;
+}
+@media (max-width:663.95px) {
+  .webchat-MuiDialog-paperWidthSm.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthMd {
+  max-width: 960px;
+}
+@media (max-width:1023.95px) {
+  .webchat-MuiDialog-paperWidthMd.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthLg {
+  max-width: 1280px;
+}
+@media (max-width:1343.95px) {
+  .webchat-MuiDialog-paperWidthLg.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthXl {
+  max-width: 1920px;
+}
+@media (max-width:1983.95px) {
+  .webchat-MuiDialog-paperWidthXl.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperFullWidth {
+  width: calc(100% - 64px);
+}
+.webchat-MuiDialog-paperFullScreen {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  max-width: 100%;
+  max-height: none;
+  border-radius: 0;
+}
+.webchat-MuiDialog-paperFullScreen.webchat-MuiDialog-paperScrollBody {
+  margin: 0;
+  max-width: 100%;
+}
+</style><style data-jss="" data-meta="MuiDialog">
+@media print {
+  .webchat-MuiDialog-root {
+    position: absolute !important;
+  }
+}
+.webchat-MuiDialog-scrollPaper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.webchat-MuiDialog-scrollBody {
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: center;
+}
+.webchat-MuiDialog-scrollBody:after {
+  width: 0;
+  height: 100%;
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+}
+.webchat-MuiDialog-container {
+  height: 100%;
+  outline: 0;
+}
+@media print {
+  .webchat-MuiDialog-container {
+    height: auto;
+  }
+}
+.webchat-MuiDialog-paper {
+  margin: 32px;
+  position: relative;
+  overflow-y: auto;
+}
+@media print {
+  .webchat-MuiDialog-paper {
+    box-shadow: none;
+    overflow-y: visible;
+  }
+}
+.webchat-MuiDialog-paperScrollPaper {
+  display: flex;
+  max-height: calc(100% - 64px);
+  flex-direction: column;
+}
+.webchat-MuiDialog-paperScrollBody {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+.webchat-MuiDialog-paperWidthFalse {
+  max-width: calc(100% - 64px);
+}
+.webchat-MuiDialog-paperWidthXs {
+  max-width: 444px;
+}
+@media (max-width:507.95px) {
+  .webchat-MuiDialog-paperWidthXs.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthSm {
+  max-width: 600px;
+}
+@media (max-width:663.95px) {
+  .webchat-MuiDialog-paperWidthSm.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthMd {
+  max-width: 960px;
+}
+@media (max-width:1023.95px) {
+  .webchat-MuiDialog-paperWidthMd.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthLg {
+  max-width: 1280px;
+}
+@media (max-width:1343.95px) {
+  .webchat-MuiDialog-paperWidthLg.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperWidthXl {
+  max-width: 1920px;
+}
+@media (max-width:1983.95px) {
+  .webchat-MuiDialog-paperWidthXl.webchat-MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+.webchat-MuiDialog-paperFullWidth {
+  width: calc(100% - 64px);
+}
+.webchat-MuiDialog-paperFullScreen {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  max-width: 100%;
+  max-height: none;
+  border-radius: 0;
+}
+.webchat-MuiDialog-paperFullScreen.webchat-MuiDialog-paperScrollBody {
+  margin: 0;
+  max-width: 100%;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss26 {
+  position: fixed;
+}
+.webchat-jss27 {
+  padding: 8px 24px 24px 24px;
+  justify-content: center;
+}
+.webchat-jss28 {
+  color: #fff;
+  padding: 8px 16px;
+  font-weight: 500;
+  white-space: nowrap;
+  border-radius: 0;
+  background-color: rgb(0, 0, 0, 0.9);
+}
+.webchat-jss28:hover {
+  background-color: rgb(0, 0, 0, 0.9);
+}
+.webchat-jss29 {
+  position: absolute;
+  background: #C4C4C4;
+}
+</style><style data-jss="" data-meta="makeStyles">
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss12 {
+  top: 70px !important;
+}
+.webchat-jss12 .webchat-MuiDialog-container {
+  align-items: flex-start;
+}
+.webchat-jss12 .webchat-MuiDialog-paper {
+  width: 100%;
+  margin: 0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 0px 0px 27.9717px 27.9717px;
+}
+.webchat-jss12 .webchat-MuiBackdrop-root {
+  opacity: 0.9 !important;
+  position: absolute;
+  background: #C4C4C4;
+}
+.webchat-jss13 .webchat-MuiRating-iconEmpty {
+  all: revert;
+}
+.webchat-jss13 .webchat-MuiRating-iconFilled {
+  all: revert;
+}
+.webchat-jss13 .webchat-MuiRating-iconHover {
+  all: revert;
+}
+.webchat-jss13 .webchat-MuiRating-iconFocus {
+  all: revert;
+}
+.webchat-jss13 .webchat-MuiRating-label {
+  all: revert;
+}
+.webchat-jss13 .webchat-MuiRating-icon {
+  cursor: pointer;
+}
+.webchat-jss14 .webchat-MuiCheckbox-root {
+  padding: 0 9px;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss15 {
+  top: 70px !important;
+}
+.webchat-jss15 .webchat-MuiDialog-container {
+  align-items: flex-start;
+}
+.webchat-jss15 .webchat-MuiDialog-paper {
+  width: 480px;
+  margin: 0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 0px 0px 27.9717px 27.9717px;
+}
+.webchat-jss15 .webchat-MuiBackdrop-root {
+  opacity: 0.9 !important;
+  position: absolute;
+  background: #C4C4C4;
+}
+</style><style data-jss="" data-meta="makeStyles">
+.webchat-jss16 {
+  padding-bottom: 16px;
+}
+.webchat-jss17 {
+  padding-bottom: 8px;
+}
+.webchat-jss18 {
+  font-size: 40px;
+  font-weight: bold;
+}
+.webchat-jss19 {
+  font-weight: bold;
+}
+.webchat-jss20 {
+  padding: 8px;
+  text-align: center;
+}
+.webchat-jss21 {
+  color: rgba(0,0,0,.8);
+}
+.webchat-jss22 {
+  color: #FFF;
+}
+</style><style data-jss="" data-meta="makeStyles">
+</style></head> <body onload="lateLoadChatFile();"> 
+
+<div id="webchat" app-id="msf-askmsf" app-name="Ask MSF" app-font-family="Arial" app-base-font-size="16" app-icon="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" app-welcome-message="Have a question? Type to get quick answers." app-color="#DE7C00" app-foreground-color1="#FFFFFF" app-bot-response-trigger-event="true" app-quick-launch-event="welcome" app-enable-auto-complete="false" app-auto-complete-background-color="#FFEDD7" app-auto-complete-foreground-color="#2E2E2E" app-auto-complete-hover-color="#FFCA88" app-auto-complete-divider-color="#DE7C00"><div id="webchat-container"><div class="sc-bdVaJa jQBDtH"><div class="sc-bxivhb dLToUC"><div class="sc-EHOje hclKXJ">Have a question? Type to get quick answers.</div><div class="sc-ifAKCX eKcIYA"><svg class="webchat-MuiSvgIcon-root webchat-MuiSvgIcon-fontSizeInherit" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg></div></div><div class="sc-bwzfXH cRwaRu"><img alt="Bot Launcher" src="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" class="sc-htpNat iUqtne"></div></div><div id="CONVERSATION_HISTORY" hidden="" class="sc-bZQynM jTHORo"><div class="sc-gzVnrw iYOdXe"><div class="sc-kGXeez bXodlH"><div class="sc-hMqMXs cUSjvS"><img alt="Bot Avatar" src="/images/default-source/vica-logo/msf-logo_circle-1.png?sfvrsn=b4ab799d_3/MSF-Logo_circle-1.png" class="sc-kEYyzF kBcwrJ"></div><div class="sc-kpOJdX fsRsZT"><div><p class="sc-dxgOiQ huycWp">Ask MSF<sup class="sc-jKJlTe kHLZjH"></sup></p></div></div><div class="sc-eNQAEJ iszuFG"><svg class="webchat-MuiSvgIcon-root sc-kkGfuU cXWniZ webchat-MuiSvgIcon-fontSizeLarge" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 19h12v2H6z"></path></svg><svg class="webchat-MuiSvgIcon-root sc-hSdWYo geAxMI webchat-MuiSvgIcon-fontSizeLarge" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg></div></div><div class="sc-htoDjs fdzlVl"><div class="sc-hzNEM iJPJsy"><div class="sc-iBEsjs dsWovi"></div></div><div></div><div class="sc-gRnDUn krvyDw"><div class="sc-cmjSyW iMeDHB"><textarea rows="1" placeholder="Type your message here" maxlength="256" class="sc-sdtwF iouGVL"></textarea><div class="sc-iYUSvU cEBTCY"><svg class="webchat-MuiSvgIcon-root webchat-MuiSvgIcon-fontSizeSmall" focusable="false" viewBox="0 0 24 24" color="white" aria-hidden="true"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"></path></svg></div></div></div><div class="sc-cHSUfg gLFROa"><div class="sc-cTjmhe lgnDCZ"><div class="sc-chPdSV ibuApO"><div class="sc-gbOuXE iwUbZr"><svg class="webchat-MuiSvgIcon-root sc-fnwBNb gIIPPo" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z"></path></svg></div></div><div class="sc-kgoBCf jXqGai">Rate chat</div><div class="sc-bfYoXt nJJal"></div><div class="sc-chPdSV ibuApO"><div class="sc-gbOuXE iwUbZr"><svg class="webchat-MuiSvgIcon-root sc-iNhVCk oVQZA" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 16.5l4-4h-3v-9h-2v9H8l4 4zm9-13h-6v1.99h6v14.03H3V5.49h6V3.5H3c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2v-14c0-1.1-.9-2-2-2z"></path></svg></div></div><div class="sc-kgoBCf jXqGai">Download Transcript</div></div><div class="sc-cugefK iGCNkx">POWERED BY GOVTECH</div></div></div></div><div></div></div></div></div>
+
+
+<div class="announcements-bar">
+    <div class="container-fluid">
+        <div class="row g-0 position-relative align-items-center">
+            <div class="col">
+                <div class="swiper announcementSwiper">
+                    <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <p>Have a question about MSF? Find quick answers with our chatbot Ask MSF.<!--EndFragment--></p>
+                            </div>
+                                                                                                                    </div>
+                </div>
+            </div>
+            <div class="col-auto align-self-start">
+                <div class="announcements-close">
+                    <button class="btn-close btn-ann-close btn-close-white" aria-label="Close"></button>
+                </div>
+            </div>
+        </div>
+        <div class="row g-0 position-relative">
+            <div class="col-12 col-md-auto buttons-align">
+                <div class="announcements-buttons">
+                    <div class="announcements-swiper-button swiper-button-prev">
+                        <em class="fa-solid fa-chevron-left"></em>
+                    </div>
+                    <div class="announcements-pagination"></div>
+                    <div class="announcements-swiper-button swiper-button-next">
+                        <em class="fa-solid fa-chevron-right"></em>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+ <sgds-masthead fluid="" class="sgds-masthead-class"></sgds-masthead> 
+<div class="row" data-sf-element="Row">
+    <div id="Content_TC2A26AC5003_Col00" class="sf_colsIn col-lg-12" data-sf-element="Column 1" data-placeholder-label="Title">
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="Content_TC2A26AC5002_Col00" class="sf_colsIn col-lg-12" data-sf-element="Column 1" data-placeholder-label="Contents">
+    </div>
+</div>
+<div class="layout-subsite">
+    <div id="Content_T7AD4A7CC001_Col00" class="sf_colsIn" data-sf-element="Navigation" data-placeholder-label="Navigation">
+
+<header>
+    <nav class="sgds navbar navbar-expand-xl main-navbar">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/" aria-label="home page">
+                <img src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69" title="MSF logo">
+            </a>
+
+            <button class="btn btn-nav-search px-24 ms-auto d-block d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#searchbarCollapse" aria-expanded="false" aria-controls="searchbarCollapse" aria-label="search icon">
+                <em class="fa-solid fa-search"></em>
+            </button>
+
+            <div class="collapse" id="searchbarCollapse">
+                <div class="container-fluid p-0 px-12">
+                    <div class="nav-searchbar">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Search our website" id="navSearchBarSearchInput" data-search="navSearchBarSearchInput">
+                            <button class="btn btn-search" type="button" id="navSearchBarBtnSearch" aria-label="search">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <span>Search</span>
+                                </div>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Menu">
+                Menu
+            </button>
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <img class="offcanvas-header-logo" src="/ResourcePackages/Msf/assets/img/msf-logo.png" alt="Ministry of Social and Family" width="140" height="69">
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+
+                <div class="offcanvas-searchbar">
+                    <div class="sgds form-group">
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="defaultWith" aria-describedby="defaultWith" placeholder="Search our website">
+                            <button class="btn btn-offcanvas-search" type="button">
+                                <em class="fa-solid fa-search form-control-icon"></em>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav d-flex d-xl-none">
+                        <li class="nav-item">
+                            <a href="/" class="nav-link submenu-link" data-bs-dismiss="offcanvas" aria-current="page" aria-label="Home"><span>Home</span></a>
+                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#who-we-are-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#what-we-do-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#our-services-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#research-data-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="#join-us-submenu" data-bs-toggle="collapse" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                                <em class="fa-solid fa-chevron-right"></em>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link submenu-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+
+                    <div class="d-block d-xl-none">
+                                <div class="collapse collapse-horizontal submenu" id="who-we-are-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#who-we-are-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Who We Are</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/mission-values" class="nav-link sgds" aria-label="Mission &amp; Values"><span class="nav-link-text"><span>Mission &amp; Values</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/organisation-chart" class="nav-link sgds" aria-label="Organisation Chart"><span class="nav-link-text"><span>Organisation Chart</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/agencies-statutory-boards-councils" class="nav-link sgds" aria-label="Agencies, Statutory Boards &amp; Councils"><span class="nav-link-text"><span>Agencies, Statutory Boards &amp; Councils</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/who-we-are/senior-management-team" class="nav-link sgds" aria-label="Senior Management Team"><span class="nav-link-text"><span>Senior Management Team</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="what-we-do-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#what-we-do-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>What We Do</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/help-those-in-need" class="nav-link sgds" aria-label="Help Those in Need"><span class="nav-link-text"><span>Help Those in Need</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/support-families-and-parents" class="nav-link sgds" aria-label="Support Families &amp; Parents"><span class="nav-link-text"><span>Support Families &amp; Parents</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/strengthen-the-social-service-sector" class="nav-link sgds" aria-label="Strengthen the Social Service Sector"><span class="nav-link-text"><span>Strengthen the Social Service Sector</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="our-services-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#our-services-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Our Services</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/our-services/directories" class="nav-link sgds" aria-label="Directories"><span class="nav-link-text"><span>Directories</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/our-services/e-services" class="nav-link sgds" aria-label="E-Services"><span class="nav-link-text"><span>E-Services</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="research-data-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#research-data-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Research &amp; Data</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-reports-data" class="nav-link sgds" aria-label="Research Report &amp; Data"><span class="nav-link-text"><span>Research Report &amp; Data</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/research-data/research-grants" class="nav-link sgds" aria-label="Research Grants"><span class="nav-link-text"><span>Research Grants</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/what-we-do/Research-Conferences-Forums-Networks" class="nav-link sgds" aria-label="Research Conferences, Forums &amp; Networks"><span class="nav-link-text"><span>Research Conferences, Forums &amp; Networks</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="collapse collapse-horizontal submenu" id="join-us-submenu" data-bs-parent="#menu">
+                                    <div class="card card-body border-0" style="width: 100vw">
+                                        <a href="#join-us-submenu" class="submenu-content-back text-decoration-none" data-bs-toggle="collapse" aria-label="Main menu">
+                                            <em class="fa-solid fa-chevron-left"></em>
+                                            Main menu
+                                        </a>
+                                        <div class="submenu-content-header">
+                                            <h6>Join Us</h6>
+                                        </div>
+                                        <ul class="navbar-nav gap-10">
+                                                <li class="nav-item">
+                                                    <a href="/join-us/volunteer-with-msfcare-network" class="nav-link sgds" aria-label="Volunteer with MSFCare Network"><span class="nav-link-text"><span>Volunteer with MSFCare Network</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/jobs-careers" class="nav-link sgds" aria-label="Jobs &amp; Careers"><span class="nav-link-text"><span>Jobs &amp; Careers</span></span></a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="/join-us/scholarships-internships" class="nav-link sgds" aria-label="Scholarships &amp; Internships"><span class="nav-link-text"><span>Scholarships &amp; Internships</span></span></a>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                    </div>
+
+                    <ul class="navbar-nav justify-content-end flex-grow-1 d-none d-xl-flex">
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Who We Are">
+                                                <span class="nav-link-text"><span>Who We Are</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/mission-values" aria-label="Mission &amp; Values">
+                                                            Mission &amp; Values
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/organisation-chart" aria-label="Organisation Chart">
+                                                            Organisation Chart
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/agencies-statutory-boards-councils" aria-label="Agencies, Statutory Boards &amp; Councils">
+                                                            Agencies, Statutory Boards &amp; Councils
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/who-we-are/senior-management-team" aria-label="Senior Management Team">
+                                                            Senior Management Team
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="What We Do">
+                                                <span class="nav-link-text"><span>What We Do</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/help-those-in-need" aria-label="Help Those in Need">
+                                                            Help Those in Need
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/support-families-and-parents" aria-label="Support Families &amp; Parents">
+                                                            Support Families &amp; Parents
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/strengthen-the-social-service-sector" aria-label="Strengthen the Social Service Sector">
+                                                            Strengthen the Social Service Sector
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Our Services">
+                                                <span class="nav-link-text"><span>Our Services</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/directories" aria-label="Directories">
+                                                            Directories
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/our-services/e-services" aria-label="E-Services">
+                                                            E-Services
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/media-room" aria-label="Media Room"><span class="nav-link-text"><span>Media Room</span></span></a>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Research &amp; Data">
+                                                <span class="nav-link-text"><span>Research &amp; Data</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-reports-data" aria-label="Research Report &amp; Data">
+                                                            Research Report &amp; Data
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/research-data/research-grants" aria-label="Research Grants">
+                                                            Research Grants
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/what-we-do/Research-Conferences-Forums-Networks" aria-label="Research Conferences, Forums &amp; Networks">
+                                                            Research Conferences, Forums &amp; Networks
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Join Us">
+                                                <span class="nav-link-text"><span>Join Us</span></span>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/volunteer-with-msfcare-network" aria-label="Volunteer with MSFCare Network">
+                                                            Volunteer with MSFCare Network
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/jobs-careers" aria-label="Jobs &amp; Careers">
+                                                            Jobs &amp; Careers
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="/join-us/scholarships-internships" aria-label="Scholarships &amp; Internships">
+                                                            Scholarships &amp; Internships
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/events" aria-label="Events"><span class="nav-link-text"><span>Events</span></span></a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/AskMSF" aria-label="Ask MSF"><span class="nav-link-text"><span>Ask MSF</span></span></a>
+                                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header><div class="searchbar">
+    <div class="container-fluid">
+        <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search our website" id="searchbarWidgetSearchInput" data-search="searchbarWidgetSearchInput">
+            <button class="btn btn-search" type="button" id="searchbarWidgetBtnSearch" aria-label="Search">
+                <span>
+                    <em class="fa-solid fa-search fa-sm"></em>
+                    Search
+                </span>
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- prettier-ignore -->
+<div class="container-fluid">
+    <nav aria-label="breadcrumb" class="breadcrump-wrapper">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>
+                        <a href="/" aria-label="MSF Home">MSF Home</a>
+                    </li>
+                    <li class="breadcrumb-item">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>
+                        <a href="/research-data" aria-label="Research &amp; Data">Research &amp; Data</a>
+                    </li>
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <em class="fa-solid fa-chevron-right fa-2xs"></em>Research Grants
+                    </li>
+        </ol>
+        <div class="breadcrumb-mobile">
+            <a href="/" aria-label="Home">
+                <em class="fa-solid fa-chevron-left"></em>
+                <span>Home</span>
+            </a>
+        </div>
+    </nav>
+</div>
+
+
+    </div>
+    <div id="Content_T7AD4A7CC001_Col01" class="sf_colsIn" data-sf-element="Content" data-placeholder-label="Content">
+
+<div class="title-wrapper" style="margin-bottom: 28px; margin-top: 60px;">
+    <div class="container-fluid" style="padding-right: 0;">
+        <div class="title-line" style="border-bottom: 2px solid;">
+            <h1 style="font-style: normal; font-weight: 600; font-size: 40px; line-height: 52px; color: #181A18; margin-bottom: 40px;">
+                Research Grants
+            </h1>
+        </div>
+    </div>
+</div><div id="Content_C003_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<h1>Social and Family Research Fund</h1><p><br></p><h2>Aim</h2><p>As our society evolves and as our families adapt to the rapid changes around them, it is critical for policymakers to continuously reassess policies, identify and address needs, leverage on opportunities, and prepare for the future.</p><p>The MSF Social and Family Research Fund (SFRF) was introduced in 2008 to support research which identifies emerging trends and issues, strengthen the evidence base for social and family development policies and improve the Ministry’s forward planning
+    capabilities to respond quickly and effectively to new challenges and opportunities. By providing funding support to researchers, the Ministry aims to promote ground-up research initiatives which can potentially inform and make a difference to Singapore’s
+    social and family landscape.</p><p><br></p><h2>Grant Categories</h2><p>The MSF Social and Family Research Fund offers two grant categories:</p><p><br></p><ul><li><a href="#undergrad" data-sf-ec-immutable="">Undergraduate Category</a>&nbsp; [The 16th Grant Call is now closed]</li><br><li><a href="#postgrad" data-sf-ec-immutable="">Post-graduate / Academic Category</a>&nbsp; [Launch date to be announced]</li></ul><p><br></p><p><strong>The Undergraduate Category of the 16<sup>th</sup> Grant Call has closed. <br></strong></p><p>&nbsp;</p><hr><p><br></p><h2 id="undergrad">Undergraduate</h2>
+<div class="accordion" id="accordionExample">
+    <div id="Content_C009_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content">
+
+    <div class="accordion-item" id="eligibility">
+        <h2 class="accordion-header" id="heading_eligibility">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_eligibility" aria-expanded="true" aria-controls="collapse_eligibility" aria-label="Eligibility">
+                Eligibility
+            </button>
+        </h2>
+        <div id="collapse_eligibility" class="accordion-collapse collapse" aria-labelledby="heading_eligibility" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <ul>
+    <li>Honours year Singaporean&nbsp;undergraduates doing their theses at recognised universities in Singapore.</li>
+    <li>Final-year Singaporean undergraduates at recognised overseas universities who will conduct their research in Singapore.</li>
+</ul>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="project_team">
+        <h2 class="accordion-header" id="heading_project_team">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_project_team" aria-expanded="true" aria-controls="collapse_project_team" aria-label="Project Team">
+                Project Team
+            </button>
+        </h2>
+        <div id="collapse_project_team" class="accordion-collapse collapse" aria-labelledby="heading_project_team" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p>Applicants may submit the proposal individually or jointly with other Honours year undergraduate students (up to 5 team members per project).</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="topics_of_interest">
+        <h2 class="accordion-header" id="heading_topics_of_interest">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_topics_of_interest" aria-expanded="true" aria-controls="collapse_topics_of_interest" aria-label="Topics of Interest">
+                Topics of Interest
+            </button>
+        </h2>
+        <div id="collapse_topics_of_interest" class="accordion-collapse collapse" aria-labelledby="heading_topics_of_interest" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p>Applicants are encouraged to submit research proposals that are relevant to the work of MSF. Proposals with a primary focus on healthcare/medical research will not be funded, as the SFRF is meant to support research with direct relevance to MSF's areas of work.</p><p>&nbsp;</p><p>Areas include:</p><ul><li>Financial support for lower-income</li><li>Residential &amp; shelter support for the vulnerable (e.g., rough sleepers, destitute persons)</li><li>Protection from domestic violence</li><li>Youth Rehabilitation</li><li>Fostering &amp; Adoption</li><li>Supporting marriage and parenthood</li><li>Preschool &amp; Early Intervention services</li><li>Supporting Persons with Disabilities</li><li>Women Empowerment</li><li>Strengthening of the Social Service Sector</li></ul>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="funding">
+        <h2 class="accordion-header" id="heading_funding">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_funding" aria-expanded="true" aria-controls="collapse_funding" aria-label="Funding">
+                Funding
+            </button>
+        </h2>
+        <div id="collapse_funding" class="accordion-collapse collapse" aria-labelledby="heading_funding" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p>Successful applicants will:</p>
+<ul>
+    <li>Receive a grant of up to S$1,000 per research project from MSF</li>
+    <li>Sign a Research Agreement with MSF on the terms of funding</li>
+</ul><br>
+<p><span style="text-decoration:underline;">Stages of funding</span></p><br>
+<ul>
+    <li>After the signing of the Research Agreement, MSF will disburse 70% of the approved grant.</li>
+    <li>MSF will reimburse the remaining amount based on actual expenditure following the Secretariat's assessment of:</li>
+    <ol>
+        <li>Final report approved by applicant's supervisor (within 2 months after project completion).</li>
+        <li>Primary research output (including questionnaires and anonymised research output, e.g. datasets, interview transcripts, electronic resources).</li>
+        <li>Progress report on the research project, including all receipts and supporting documents.</li>
+    </ol>
+    <li>Funding that has been disbursed but was not used upon the completion of the research project must be returned to MSF.</li>
+</ul><br>
+<p><span style="text-decoration:underline;">Funding terms</span></p>
+<p>The grant should be used exclusively for conducting the research project, including:</p>
+<ul>
+    <li>Transport cost incurred during local fieldwork</li>
+    <li>Incentives or tokens to research respondents</li>
+    <li>Printing cost of survey questionnaires and other fieldwork materials</li>
+    <li>Any other items necessary for conducting the research</li>
+</ul><br>
+<p>The grant <span style="text-decoration:underline;">does not cover</span> expenses such as:</p>
+<ul>
+    <li>Tuition fees and other administrative charges imposed by the universities as part of the course of study</li>
+    <li>Overseas research travel expenses</li>
+    <li>Purchase of hardware or equipment</li>
+    <li>Purchase of software and license</li>
+    <li>Cost of printing and binding thesis report for submission to institution</li>
+    <li>Refreshments for meetings</li>
+</ul><br>
+<p>MSF will fund only expenditures incurred <span style="text-decoration:underline;">after</span> the signing of the Research Agreement with the successful applicants.</p>
+<p>Applicants should secure approval of their research proposals and the endorsement to apply for the grant from their project supervisor at the application stage</p>
+<p>Upon successful application, recipients should obtain clearance from the Institution’s Research Ethics Review Board <span style="text-decoration:underline;">before</span> any funds can be disbursed.</p>
+<p>Successful applicants shall not receive any research funding from other agencies. Changes to the research project cannot be made without prior written consent of MSF.</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="application_process">
+        <h2 class="accordion-header" id="heading_application_process">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_application_process" aria-expanded="true" aria-controls="collapse_application_process" aria-label="Application Process">
+                Application Process
+            </button>
+        </h2>
+        <div id="collapse_application_process" class="accordion-collapse collapse" aria-labelledby="heading_application_process" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p>The application for the 16th&nbsp;Grant Call (Undergraduate Category) has closed The results will be available approximately 1 month after the submission of all the required application documents. MSF reserves the right to cancel an
+    application if the required documents are not submitted by the closing date. Applicants are strongly encouraged to submit their application early to provide sufficient time for MSF's funding evaluation before the start of their projects.</p><p>&nbsp;</p><p>&nbsp;</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="evaluation_criteria">
+        <h2 class="accordion-header" id="heading_evaluation_criteria">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_evaluation_criteria" aria-expanded="true" aria-controls="collapse_evaluation_criteria" aria-label="Evaluation Criteria">
+                Evaluation Criteria
+            </button>
+        </h2>
+        <div id="collapse_evaluation_criteria" class="accordion-collapse collapse" aria-labelledby="heading_evaluation_criteria" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p>MSF will consider the following factors:</p><ul><li>The relevance of the research in promoting understanding of social and family trends and issues in Singapore</li><li>The contribution of the research to social and family policy development in Singapore</li><li>The rigour of the proposed research methodology and analytical techniques</li><li>The proposed project costs</li></ul><br><p>The grant is awarded on a competitive basis and MSF’s decision is final.</p><p>Applicants are encouraged to submit research proposals that are relevant to the work of MSF and should refer to the sections on Topics of Inquiry and Indicative Areas of Interest and past projects.</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="publication_and_data_sharing">
+        <h2 class="accordion-header" id="heading_publication_and_data_sharing">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_publication_and_data_sharing" aria-expanded="true" aria-controls="collapse_publication_and_data_sharing" aria-label="Publication and Data Sharing">
+                Publication and Data Sharing
+            </button>
+        </h2>
+        <div id="collapse_publication_and_data_sharing" class="accordion-collapse collapse" aria-labelledby="heading_publication_and_data_sharing" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p>MSF supports SFRF recipients in presenting and publishing your research findings (e.g. in journals, conferences and other channels), subject to the terms stated in the Research Agreement endorsed by both parties.
+</p>
+<p>MSF may also invite SFRF recipients to share research findings at suitable platforms.</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="contact">
+        <h2 class="accordion-header" id="heading_contact">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_contact" aria-expanded="true" aria-controls="collapse_contact" aria-label="Contact">
+                Contact
+            </button>
+        </h2>
+        <div id="collapse_contact" class="accordion-collapse collapse" aria-labelledby="heading_contact" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p>For more information or queries, please contact <strong>MSF Social and Family Research Fund (SFRF) Secretariat</strong> at email <a href="mailto:MSF_SFRF_Secretariat@msf.gov.sg">MSF_SFRF_Secretariat@msf.gov.sg</a></p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="frequently_asked_questions">
+        <h2 class="accordion-header" id="heading_frequently_asked_questions">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_frequently_asked_questions" aria-expanded="true" aria-controls="collapse_frequently_asked_questions" aria-label="Frequently Asked Questions">
+                Frequently Asked Questions
+            </button>
+        </h2>
+        <div id="collapse_frequently_asked_questions" class="accordion-collapse collapse" aria-labelledby="heading_frequently_asked_questions" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p><strong><span style="text-decoration:underline;">Application</span></strong></p><p><strong>I am interested in applying for the SFRF. Are applications accepted throughout the year?</strong></p><p>The SFRF is open for application once a year. Any application submitted outside the application period will not be accepted.</p><p><strong><span style="text-decoration:underline;">Who can apply</span></strong></p><p><strong>I am a final year student with a local university. I am not 
+conducting the research study as part of my thesis or university course 
+requirement. Can I apply for the SFRF?</strong></p><p>Yes, MSF will consider your application on a case-by-case basis. Please identify a Faculty Member as your supervisor to endorse and oversee your proposed research.</p><p><strong>I am a third year undergraduate student, and would like to apply for SFRF funding to do my thesis, which will only start in my 4<sup>th</sup> year (Honours Year). Can I do so?</strong></p><p>You are encouraged to submit your application in your 4<sup>th</sup> year when your thesis proposal has been finalised and endorsed by your supervisor.</p><p><strong><span style="text-decoration:underline;">Funding</span></strong></p><p><strong>Can I start the SFRF project according to the planned start 
+date in my research proposal before MSF has informed me on the outcome 
+of my SFRF application?</strong></p><p>You can choose to start your project based on your timeline. However, please note that MSF will only fund approved research expenditures incurred after the Research Agreement is signed.</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="past_sfrf_undergraduate_recipients_and_projects">
+        <h2 class="accordion-header" id="heading_past_sfrf_undergraduate_recipients_and_projects">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_past_sfrf_undergraduate_recipients_and_projects" aria-expanded="true" aria-controls="collapse_past_sfrf_undergraduate_recipients_and_projects" aria-label="Past SFRF Undergraduate Recipients and Projects">
+                Past SFRF Undergraduate Recipients and Projects
+            </button>
+        </h2>
+        <div id="collapse_past_sfrf_undergraduate_recipients_and_projects" class="accordion-collapse collapse" aria-labelledby="heading_past_sfrf_undergraduate_recipients_and_projects" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p id="UG_top"><em>Click on the following links to scroll to the year of the Grant Call directly</em></p><ul><li><a href="#UG_top">2022 Grant Call</a><a href="https://www.msf.gov.sg/research-data/research-grants#UG_2021GC"></a></li><li><a href="https://www.msf.gov.sg/research-data/research-grants#UG_2021GC">2021 Grant Call</a></li><li><a href="https://www.msf.gov.sg/research-data/research-grants#UG_2020GC">2020 Grant Call</a></li><li><a href="https://www.msf.gov.sg/research-data/research-grants#UG_2019GC">2019 Grant Call</a></li><li><a href="https://www.msf.gov.sg/research-data/research-grants#UG_2018GC">2018 Grant Call</a></li><li><a href="https://www.msf.gov.sg/research-data/research-grants#UG_2017GC">2017 Grant Call</a></li><li><a href="https://www.msf.gov.sg/research-data/research-grants#UG_2016GC">2016 Grant Call</a></li><li><a href="https://www.msf.gov.sg/research-data/research-grants#UG_2015GC">2015 Grant Call</a></li><li><a href="https://www.msf.gov.sg/research-data/research-grants#UG_2014GC">2014 Grant Call</a></li><li><a href="https://www.msf.gov.sg/research-data/research-grants#UG_2013GC">2013 Grant Call</a></li><li><a href="https://www.msf.gov.sg/research-data/research-grants#UG_2012GC">2012 Grant Call</a></li><li><a href="https://www.msf.gov.sg/research-data/research-grants#UG_2011GC">2011 Grant Call</a></li><li><a href="https://www.msf.gov.sg/research-data/research-grants#UG_2010GC">2010 Grant Call</a></li><li><a href="https://www.msf.gov.sg/research-data/research-grants#UG_2009GC">2009 Grant Call</a></li><li><a href="https://www.msf.gov.sg/research-data/research-grants#UG_2008GC">2008 Grant Call</a></li></ul><p id="UG_2021GC">&nbsp;</p><h2>2022 Grant Call</h2><p>Topic:<strong>&nbsp;Beyond racial lines - Understanding familial influence in the formation, maintenance, and dissolution of inter-racial unions in Singapore through an intergenerational perspective</strong></p><p>This research examines how the family unit influences the formation, maintenance, and dissolution of interracial unions (IRUs) beyond the state's or the society's influence through a dual perspective on family influence and intergenerational analysis.</p><ul><li><em>Liow De Jun</em><br>School of Social Sciences, Singapore Management University</li></ul><br><a href="https://www-msf-gov-sg-admin.cwp.sg/Sitefinity/adminapp/pages/research-data/research-grants/Action/Edit/en#UG_top"><p style="font-size:16px;text-align:right;">Back to top</p></a><p id="UG_2020GC" style="text-align:right;">&nbsp;</p><div>&nbsp;</div><h2>2021 Grant Call</h2><p>Topic:<strong> The Role of Executive Functions on Direct and Indirect
+ Bullying in College Students: The Moderating Role of Violent Media 
+Exposure<br></strong></p><p>This research examines the impact of executive function and violent media exposure on school bullying behaviour among college students.</p><ul><li><em>Fiona Ng Zi Ling</em><br>School of Social Sciences, Singapore Management University</li></ul><p>&nbsp;</p><p>Topic:<strong> Stress Profiles Differentially Predict Executive Functions in Older Adults: A Latent Profile Analysis</strong></p><p>This research examines how unique stress profiles - emotion-related stressors, health-related stressors, situational-related stressors and social-related stressors - exert differential impacts on executive functions in older adults. </p><ul><li><em>Choy Cheng Mun, Megan</em><br>School of Social Sciences, Singapore Management University</li></ul><br><a href="#UG_top">
+ <p style="font-size:16px;text-align:right;">Back to top</p></a>
+<p id="UG_2020GC" style="text-align:right;">&nbsp;</p><h2>2020 Grant Call</h2><p>Topic:<strong> Digital Adaption and Educational Support: Challenges of Low-Income Families in Singapore during the COVID-19 Pandemic</strong></p><p>This research studies the effects of COVID-19 on low-income families’ digital adaptation. It focuses on the challenges, coping strategies and parenting practices pertaining to how parents support their children in the use of digital technologies
+    for home-based learning.</p><ul><li><em>Tay Mei Ling</em><br>School of Social Sciences, Nanyang Technological University</li><li><em>Clara Choo Jia En</em><br>School of Social Sciences, Nanyang Technological University</li></ul><br><a href="#UG_top">
+ <p style="font-size:16px;text-align:right;">Back to top</p></a>
+<p id="UG_2019GC" style="text-align:right;">&nbsp;</p><h2>2019 Grant Call</h2><p>Topic:<strong> A Qualitative Study on Factors Influencing Early Childhood Educators' (De)Motivation in Singapore</strong></p><p>The study aims to explore the factors, at the personal, social, cultural and institutional levels, motivate and demotivate early childhood educators, and how these factors interact with one another to shape the early childhood educator’s decision
+    to stay in or leave the profession. In addition, the study also aims to examine the differences in the motivational and/or de-motivational factors for educators teaching in government-funded childcare centres and large commercial operators.
+</p><ul><li><em>Chua Jin Yi</em><br>School of Social Sciences, Nanyang Technological University</li></ul><p>&nbsp;</p><p>Topic:<strong> Impact of Parent-Child Media Engagement on Mobile Devices on Language Development During Early Childhood</strong></p><p>The study aims to investigate the impact of parent-child media engagement on mobile devices on a child’s language development (i.e., receptive vocabulary and phonological awareness) in pre-schoolers. The study also examines potential moderators,
+    i.e., media usage and content—for the relation between parent-child media engagement and language development. Given the paucity of research on the underlying mechanism, the study also examines selective attention as a potential factor that
+    mediates the relation between parent-child media engagement on mobile devices and language development during early childhood.</p><ul><li><em>Ng Li Ting</em><br>School of Social Sciences, Singapore Management University</li></ul><br><a href="#UG_top">
+ <p style="font-size:16px;text-align:right;">Back to top</p></a>
+<p id="UG_2018GC" style="text-align:right;">&nbsp;</p><h2>2018 Grant Call</h2><p>Topic:<strong> Unravelling the Remedy to the Effects of Work-Family Conflict on Child Outcomes</strong></p><p>In a competitive and fast-paced country such as Singapore, many working parents report difficulty achieving work-life reconciliation. Accumulating evidence suggests that conflict between family and work life exerts negative impact on children, as well
+    as working adults themselves. This study aims to examine (i) whether parents’ WFC relates to their pre-school children’s self-regulation and (ii) whether parental characteristics – boundary management practice and trait mindfulness
+    – moderate the WFC-SR link, using multi-source data collected from parent-child-teacher triads.</p><ul><li><em>Hon An Chi</em><br>School of Social Sciences, Nanyang Technological University</li></ul><p>&nbsp;</p><p>Topic:<strong> Impact of Mothers’ Work and Family Boundaries on Family Dinner Outcomes</strong></p><p>This study seeks to investigate predictors of working mothers’ involvement in family dinner. Specifically, this study aims to examine whether working mothers’ work-family boundaries relate to family dinner frequency and mealtime interaction
+    quality. Data show that the involvement of Singapore working mothers in family dinner has declined. This is concerning given research findings on the benefits of family meals, such as heightened family identity and reduced risk of childhood obesity.
+    Knowledge of the antecedents of family meal may help foster these positive outcomes.</p><ul><li><em>Tan Hwee Boon, Simone</em><br>School of Social Sciences, Nanyang Technological University</li></ul><p>&nbsp;</p><p>Topic:<strong> Family Environment as a Contributing Factor to Brain Synchrony in Mother-Child Dyad in response to Social Interactions</strong></p><p>The family has long been recognized as having a critical role in children’s development. Development of emotion regulating abilities are also found to be crucial to the child’s success later on in life. Research has shown that dyadic parent-child
+    synchrony early in childhood has a long-lasting impact on the child’s later social abilities. In this study, a multi-level approach is utilized where the contributions of the family environment to the mother and child responses to emotional
+    events are examined. More specifically, Nears-Infrared Spectroscopy will be used to detect brain synchrony in the mother-child dyad when exposed to different emotional situations.</p><ul><li><em>Leck Wan Qing</em><br>School of Social Sciences, Nanyang Technological University</li></ul><p>&nbsp;</p><p>Topic:<strong> Are two heads better than one? Determining the 
+relationship between spousal synchrony, relationship quality and 
+resilience in a neurological context</strong></p><p>The transition to parenthood is one of the most important, yet stressful, periods for the family. To deal with familial stress, relationship quality between spouses is of utmost importance. This study aims to make use of functional near-infrared spectroscopy
+    and electrocardiogram readings to uncover features of spousal synchrony, thus clarifying the role of spousal synchrony in contributing to marital satisfaction. Additionally, this study aims to determine if spousal synchrony has a relationship with
+    individual levels of resilience.</p><ul><li><em>Lim Mengyu</em><br>School of Social Sciences, Nanyang Technological University</li></ul><p>&nbsp;</p><p>Topic:<strong> Exploring the Interactions, Tensions and Negotiation 
+Process between Family and State: A Study of Fostering Policies and 
+Foster Families in Singapore</strong></p><p>Foster families are unique, as they mimic normative ideals of a ‘family’, by taking a nuclear family form comprising a couple and children, yet they also receive much closer inspection and regulation by the state than ordinarily so. Foster
+    children are identified as a vulnerable population, due to past experience of trauma. Foster care inevitably causes the displacement of children from their natural homes into a new, foreign family environment, which points to its potentially disruptive
+    nature. The study aims to uncover the challenges and risks of foster care to better inform policy and programme development.</p><ul><li><em>Faith Kwok</em><br>Department of Sociology, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> How does Social Network Discourses Affect Mature Workers Understanding of Health and Economic Policies?</strong></p><p>Policy literacy is increasingly important, especially amongst the elderly who must now navigate complex policies that has been revised extensively. This study aims to find out whether the various personal networks and connections our senior citizens have
+    formed would influence their policy literacy and what will constitute as social network to them. The study also hopes to find out the potential measures that communities and governments do to assist them, especially “solo-agers” with limited
+    networks to rely on.</p><ul><li><em>Lim Jing Wei</em><br>Department of Sociology, National University of Singapore</li></ul><br><a href="#UG_top">
+ <p style="font-size:16px;text-align:right;">Back to top</p></a>
+<p id="UG_2017GC" style="text-align:right;">&nbsp;</p><h2>2017 Grant Call</h2><p>Topic:<strong> Understanding the Saving Patterns of Lower-Income Individuals</strong></p><p>The objectives of this research are to uncover some of factors that explain the saving behaviour of Singaporeans, especially that of the low-income individuals. While it is intuitive that low income individuals are less able to save, thus have lower savings,
+    there might also be other significant factors that result in their low savings rate, such as their willingness to save. Upon understanding the factors that affect their savings decisions, institutions can act accordingly to encourage saving.
+</p><ul><li><em>Lee Jia Min, Jasmine</em><br>Department of Economics, National University of Singapore</li></ul><br><a href="#UG_top">
+ <p style="font-size:16px;text-align:right;">Back to top</p></a>
+<p id="UG_2016GC" style="text-align:right;">&nbsp;</p><h2>2016 Grant Call</h2><p>Topic:<strong> Too Young to Get it: Eldercare Arrangement in Family for Young Onset Dementia Patients</strong></p><p>The objectives of this research are to explore the different types of eldercare arrangement in family and the various factors that affect the types of arrangement provided for Early Onset Dementia Patients.</p><ul><li><em>Yong Jing Rong</em><br>Department of Sociology, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> Singaporean Parents’ Perspectives And Experiences On Raising A Child With Autism</strong></p><p>This study aims to better understand the insights of parents with children diagnosed with Autism Spectrum Disorder. This included their diverse experience ranging from negotiation of identity between the resources provided by government and Voluntary
+    Welfare Organisations, lay public’s perception of ASD and their views on their child’s future prospects.
+</p><ul><li><em>Chong Hui Xian Jessica</em><br>School of Social Sciences, Nanyang Technological University</li></ul><p>&nbsp;</p><p>Topic:<strong> The Right to Education: An Inclusive Education for the Deaf in Singapore</strong></p><p>The study serves to find out the attitudes and concerns of both parents of typically-developing children and parents of deal children towards inclusive education and the mainstream integration policy in the context of Singapore.</p><ul><li><em>Stephanie Loo Pei Ning</em><br>School of Social Sciences, Nanyang Technological University</li></ul><p>&nbsp;</p><p>Topic:<strong> The Influence of Culture and Familial Values on Subjective Well-being: Comparison between Chinese and Malays in Singapore</strong></p><p>This research examines the predictive power of cultural and familial factors on differences in happiness between the two ethnic groups in Singapore (i.e. Chinese and Malays) and explore how different dimensions of cultural and familial indices vary in
+    their effect on subjective well-being.
+</p><ul><li><em>Sarah Chan Hian May</em><br>School of Social Sciences, Nanyang Technological University</li><li><em>Siti Halimahtul Raudah</em><br>School of Social Sciences, Nanyang Technological University</li></ul><br><a href="#UG_top">
+ <p style="font-size:16px;text-align:right;">Back to top</p></a>
+<p id="UG_2015GC" style="text-align:right;">&nbsp;</p><h2>2015 Grant Call</h2><p>Topic:<strong> Absence for a Cause? A Study on Pre-school Attendance Rates of Children from Low-income Households</strong></p><p>This study aims to better understand the insights of parents with children diagnosed with Autism Spectrum Disorder. This would include their diverse experience ranging from negotiation of identity between the resources provided by government and Voluntary
+    Welfare Organisations, lay public’s perception of ASD and their views on their child’s future prospects.</p><ul><li><em>Ng Woon Chian</em><br>Department of Economics, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> The Effects of Smartphone Use on Female Adolescents’ Body Concerns</strong></p><p>The study seeks to explore the effects of smartphone’s appearance-related content on female adolescents’ body esteem and social appearance anxiety.</p><ul><li><em>Wang Jiaqi Joy</em><br>School of Social Sciences, Singapore Management University</li></ul><br><a href="#UG_top">
+ <p style="font-size:16px;text-align:right;">Back to top</p></a>
+<p id="UG_2014GC" style="text-align:right;">&nbsp;</p><h2>2014 Grant Call</h2><p>Topic:<strong> Motivation and Family Caregivers of Elderly Individuals: Exploring the Relevance of Self-Determination Theory and Filial Piety</strong></p><p>To explore how the components of Self-Determination Theory - autonomy, competence and relatedness - could help to alleviate caregiver burden, specifically in the context of caring for elderly individuals.</p><ul><li><em>Nur Atiqah Binte Mohd Farhan</em><br>School of Humanities and Social Sciences, Nanyang Technological University</li></ul><br><a href="#UG_top">
+ <p style="font-size:16px;text-align:right;">Back to top</p></a>
+<p id="UG_2013GC" style="text-align:right;">&nbsp;</p><h2>2013 Grant Call</h2><p>Topic:<strong> Tapping the Potential of Married Women in Singapore: 
+The Role of Married Women in Supplementing Singapore’s Shrinking Labour 
+Force</strong></p><p>To investigate how women spend their time and the corresponding value that Singaporean women place on unpaid work (e.g. household chores, childcare and eldercare) as well as the challenges that prevent them from remaining or returning to paid work or
+    formal production.</p><ul><li><em>Wan Tin Wai</em><br>Department of Economics, Nanyang Technological University</li><li><em>Nur Atiqah Binte Abdul Razak</em><br>Department of Economics, Nanyang Technological University</li><li><em>Celestia Tan Wan Cheng</em><br>Department of Economics, Nanyang Technological University</li></ul><br><a href="#UG_top">
+ <p style="font-size:16px;text-align:right;">Back to top</p></a>
+<p id="UG_2012GC" style="text-align:right;">&nbsp;</p><h2>2012 Grant Call</h2><p>Topic:<strong> What is Holding You Back from Giving Birth? An 
+Investigation of the Proximate Factors Affecting the Intention to Give 
+Birth in Singapore</strong></p><p>To investigate and provide insights on the proximate factors influencing fertility intentions in Singapore.</p><ul><li><em>Vivian Lau Shi Ni</em><br>Department of Economics, Nanyang Technological University</li><li><em>Tee Siew Lee</em><br>Department of Economics, Nanyang Technological University</li><li><em>Tan Siok Ling</em><br>Department of Economics, Nanyang Technological University</li><li><em>Yu Jianfei</em><br>Department of Economics, Nanyang Technological University</li></ul><br><a href="#UG_top">
+ <p style="font-size:16px;text-align:right;">Back to top</p></a>
+<p id="UG_2011GC" style="text-align:right;">&nbsp;</p><h2>2011 Grant Call</h2><p>Topic:<strong> Singlehood and the Changing Perspectives on Marriage and Childbirth</strong></p><p>To examine how various factors could have affected the decisions of Singaporeans on marriage, with a focus on the role of policy.</p><ul><li><em>Tan May Jan Clara</em><br>Department of Sociology, Nanyang Technological University</li></ul><p>&nbsp;</p><p>Topic:<strong> From Policy to Praxis: Understanding the Implementation Gap in Flexible Working Arrangements</strong></p><p>To explore the factors motivating people to take up flexible working arrangements, so as to provide insights into the low take-up rate.</p><ul><li><em>Febrin Low Chao Jing</em><br>Department of Sociology, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> Drivers of Family Social Support for the Elderly in Singapore</strong></p><p>To explore the role of family structures, contrasting those of elderly with and without children, in enabling and encouraging the provision of instrumental and emotional support for the elderly and the effect on the provision of instrumental and emotional
+    support by families on the psychological and physical well-being of the elderly.</p><ul><li><em>Chong Ruixin</em><br>School of Social Sciences, Singapore Management University</li></ul><p>&nbsp;</p><p>Topic:<strong> The Value of Marriage</strong></p><p>To examine how singles value marriage using an economics framework, to provide insights into how individuals make choices on whether to marry.
+</p><ul><li><em>Gina Tay Pei Ru</em><br>School of Humanities and Social Sciences, Nanyang Technological University</li><li><em>Stephanie Yeo Yan</em><br>School of Humanities and Social Sciences, Nanyang Technological University</li><li><em>Felicia Tan Li Xuan</em><br>School of Humanities and Social Sciences, Nanyang Technological University</li><li><em>Law Xue Fen</em><br>School of Humanities and Social Sciences, Nanyang Technological University</li></ul><br><a href="#UG_top">
+ <p style="font-size:16px;text-align:right;">Back to top</p></a>
+<p id="UG_2010GC" style="text-align:right;">&nbsp;</p><h2>2010 Grant Call</h2><p>Topic:<strong> Do you know what they are thinking about? On the Improvement of Social Understanding in Pre-schoolers</strong></p><p>To find out whether role-play helps in the Theory of Mind development (i.e. the social understanding) of pre-schoolers in Singapore.</p><ul><li><em>Shen Pinxiu</em><br>School of Humanities and Social Sciences, Nanyang Technological University</li><li><em>Long Ying Ying</em><br>School of Humanities and Social Sciences, Nanyang Technological University</li></ul><p>&nbsp;</p><p>Topic:<strong> The Impacts of Working Parent(s) on Adolescents: 
+Moderating Effects of Adolescent’s Perception of Working Parent(s) on 
+Family Characteristics-Adolescent’s School Related Outcome Relationship</strong></p><p>To test a theoretical model examining the relationship between family characteristics and adolescents’ school related outcomes, and how this relationship may be moderated by adolescents’ perceptions of their working parent(s) in single and
+    dual-income families.</p><ul><li><em>Pan Shiying Serene</em><br>Department of Psychology, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> Messages on Marriage and Family in Singapore’s English Language Mainstream Print Media: A Content Analysis</strong></p><p>To understand the problem of Singapore’s marriage and baby gap from the perspective of the media, and the role it plays in influencing the marriage and family decisions of young adults.</p><ul><li><em>Benita Aw Yeong Huiyi</em><br>School of Social Sciences, Singapore Management University</li></ul><p>&nbsp;</p><p>Topic:<strong> Dinner Table Woes: A Decline of the Family</strong></p><p>To use the practice of family mealtimes as a lens through which to view the family, exploring how the idea of the family is sustained and experienced. Mealtimes act as a platform via which the family presents itself to itself and others - constituting
+    and reaffirming the idea of the family. The thesis thus illustrates how the family is not a natural entity, but one configured through a range of symbolisms and social practices which change continuously over time.</p><ul><li><em>Diana Ang Shu Zhen</em><br>Department of Sociology, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> The Social Construction of Fatherhood in Dual-Income Families</strong></p><p>To challenge the assumption of minimal paternal involvement in family work by asking how fathers in dual-income household perceive their role through an analysis of the father in the everyday life of the family. It challenges notions of gender division-of-labour
+    to understand the implications of fatherhood today on family-life patterns and family size decisions.
+</p><p>&nbsp;</p><ul><li><em>Amaria Janoah Ponniah</em><br>Department of Sociology, National University of Singapore</li></ul><br><a href="#UG_top">
+ <p style="font-size:16px;text-align:right;">Back to top</p></a>
+<p id="UG_2009GC" style="text-align:right;">&nbsp;</p><h2>2009 Grant Call</h2><p>Topic:<strong> The Impact of Gender-role Adherence on Singaporean Men and Women Managers’ Career and Family Outcomes</strong></p><p>To gain a better understanding of how gender-based views relating to work and home affect Singaporean managers’ career and family outcomes</p><p>&nbsp;</p><ul><li><em>Madeline Ong Li Xuan</em><br>Lee Kong Chian School of Business, Singapore Management University</li></ul><p>&nbsp;</p><p>Topic:<strong> American TV Series and their Effects on Attitudes Towards Marriage: A Cultivation Analysis</strong></p><p>To understand the effects of selected popular American television series on the attitudes of local adult females towards marriage. The study will explore the different messages pertaining to marriage and female singlehood, conveyed through such series
+    and assess the attitudes held by heavy and light viewers.</p><ul><li><em>Grace Swee Hui En</em><br>Department of Communications and New Media, National University of Singapore</li></ul><br><a href="#UG_top">
+ <p style="font-size:16px;text-align:right;">Back to top</p></a>
+<p id="UG_2008GC" style="text-align:right;">&nbsp;</p><h2>2008 Grant Call</h2><p>Topic:<strong> Inter-Generational Relationship Differences in Romantic Beliefs of Singaporean Chinese Women</strong></p><p>To understand the Asian beliefs on love and marriage; identify the attachment styles of Singaporean Chinese women; and identify generational differences in the above two objectives.</p><ul><li><em>Lee Yoke Wen</em><br>School of Humanities and Social Sciences, Nanyang Technological University</li><li><em>Kelda Tan</em><br>School of Humanities and Social Sciences, Nanyang Technological University</li><li><em>Rachel Lim</em><br>School of Humanities and Social Sciences, Nanyang Technological University</li></ul><p>&nbsp;</p><p>Topic:<strong> How the Elderly in Singapore Satisfy their Emotional and Social Needs through Leisure Activities in a Public Space</strong></p><p>To examine how senior citizens satisfy their emotional and social needs (in lieu of the family) through leisure activities participation in a public space; and the strategies that they adopt in order to experience graceful ageing.</p><ul><li><em>Shen Weixiong</em><br>School of Humanities and Social Sciences, Nanyang Technological University</li></ul><p>&nbsp;</p><p>Topic:<strong> Impact of Senior Volunteering on Volunteers and Their Family Members in Singaporean Context</strong></p><p>To identify benefits and strains as a result of senior volunteering, as perceived by the senior volunteers and their family members; study the relationship between the socio-demographics and individual capacity characteristics of the senior volunteers
+    and the perceived benefits and strains from volunteering; and the association of the benefits and strains from senior volunteering with family functioning.</p><ul><li><em>Nagoor Mohideen Fatimah</em><br>Department of Social Work, National University of Singapore</li><li><em>Tang Chyi Yueh</em><br>Department of Social Work, National University of Singapore</li></ul><a href="#UG_top">
+ <p style="font-size:16px;text-align:right;">Back to top</p></a>
+            </div>
+        </div>
+    </div>
+
+
+    </div>
+</div>
+<br><br><h2 id="postgrad">Post-Graduate / Academic</h2>
+<div class="accordion" id="accordionExample">
+    <div id="Content_C006_Col00" class="sf_colsIn sub-section " data-sf-element="Accordion Content" data-placeholder-label="Accordion Content">
+
+    <div class="accordion-item" id="eligibility">
+        <h2 class="accordion-header" id="heading_eligibility">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_eligibility" aria-expanded="true" aria-controls="collapse_eligibility" aria-label="Eligibility">
+                Eligibility
+            </button>
+        </h2>
+        <div id="collapse_eligibility" class="accordion-collapse collapse" aria-labelledby="heading_eligibility" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p>Post-graduates, academics and researchers at recognised universities and affiliated research institutes in Singapore.</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="project_team">
+        <h2 class="accordion-header" id="heading_project_team">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_project_team" aria-expanded="true" aria-controls="collapse_project_team" aria-label="Project Team">
+                Project Team
+            </button>
+        </h2>
+        <div id="collapse_project_team" class="accordion-collapse collapse" aria-labelledby="heading_project_team" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p>Applicants may submit the proposal individually or jointly with other researchers (up to 5 team members per project).</p><p>The research project duration should <span style="text-decoration:underline;">not</span> exceed 3 years.</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="topics_of_inquiry_and_indicative_areas_of_interest">
+        <h2 class="accordion-header" id="heading_topics_of_inquiry_and_indicative_areas_of_interest">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_topics_of_inquiry_and_indicative_areas_of_interest" aria-expanded="true" aria-controls="collapse_topics_of_inquiry_and_indicative_areas_of_interest" aria-label="Topics of Inquiry and Indicative Areas of Interest">
+                Topics of Inquiry and Indicative Areas of Interest
+            </button>
+        </h2>
+        <div id="collapse_topics_of_inquiry_and_indicative_areas_of_interest" class="accordion-collapse collapse" aria-labelledby="heading_topics_of_inquiry_and_indicative_areas_of_interest" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p>Applicants are to submit research proposals that are relevant to the work of MSF. Proposals with a primary focus on healthcare/medical research will not be funded, as the SFRF is meant to support research with direct relevance to MSF's areas of work.
+    <span style="text-decoration:underline;">Proposed research are strongly encouraged to fall under the SFRF Topics of Inquiry</span>. Research proposals on MSF's Indicative Areas of Interest within these Topics of Inquiry will be viewed favourably.</p><p><strong>15<sup>th</sup> Grant Call (2022) - Topics of Inquiry and Indicative Areas of Interest</strong></p><p><strong>Topic 1: Enabling Families with Risk Factors/Additional Needs</strong></p><p><strong>Indicative Areas of Interest:</strong></p><ul><li>Understanding the challenges faced by families with risk factors and/or additional needs, how they cope and what more can be done to help. Such families include families with persons with disabilities, children/young persons in out-of-home care, persons-at-risk
+        (e.g., family violence), neglected elderly, problem gamblers, those with incarceration history etc.</li></ul><p>&nbsp;</p><p><strong>Topic 2: Building Strong Foundations for Families</strong></p><p><strong>Indicative Areas of Interest:</strong></p><ul><li>Understanding motivations and types of support needed for marriage and parenthood decisions</li><li>Understanding the various familial ties/support (e.g., caregiving, grandparenting, active fathering, spousal division of household duties etc.) across diverse family archetypes and families across different life stages (e.g., families with infants,
+        pre-schoolers, families with teens and tweens children)</li><li>Studying outcomes relating to such familial support and how to encourage closer relations and greater support</li><li>Studying the influence of shrinking household sizes on familial support</li></ul><p>&nbsp;</p><p><strong>Topic 3: Facilitating Better Outcomes for Low-Income Households</strong></p><p><strong>Indicative Areas of Interest:</strong></p><ul><li>Identifying risks and/or protective factors (e.g. skills, strengths, resources) among low-income families - How to mitigate risk factors and increase protective factors to lead to better outcomes, including community-led and asset-based models</li><li>Understanding the profiles, needs and outlook of low-income elderly; how community and social services can support aging in place and mitigate risks of social isolation and unstable housing</li></ul><p>&nbsp;</p><p><strong>Topic 4: Early Childhood Education: Support for Children, Families, and Operators</strong></p><p><strong>Indicative Areas of Interest:</strong></p><ul><li>Understanding the best way to provide support for children from low-income families and children with developmental needs</li><li>Examining impact and quality of preschool education (e.g. preschool factors that influence child outcomes, effect of educator-related factors including teacher training on teaching quality/child development, quality of teaching and interactions in
+        preschools, child outcomes of preschool support for child's bilingual acquisition)
+    </li></ul>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="funding">
+        <h2 class="accordion-header" id="heading_funding">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_funding" aria-expanded="true" aria-controls="collapse_funding" aria-label="Funding">
+                Funding
+            </button>
+        </h2>
+        <div id="collapse_funding" class="accordion-collapse collapse" aria-labelledby="heading_funding" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p><strong><span style="text-decoration:underline;">Post-graduate students</span></strong></p><p>Successful applicants will:</p><ul><li>Receive grants of up to S$150,000 per research project</li><li>Sign a Research Agreement with MSF on the terms of funding</li></ul><p><span style="text-decoration:underline;">Stages of funding</span></p><ul><li>After the signing of the Research Agreement, MSF will disburse up to 40% of the approved grant or S$15,000, whichever is lower, as the first tranche of funding.</li><li>Subsequent tranches, each capped at a maximum of 30% of the approved grant, will be disbursed after receiving:</li><ol><li>Progress report (consisting of project progress and expenditure report)</li><li>Receipts and supporting documents</li></ol><li>MSF will disburse the remaining amount based on actual expenditure after the assessment of:</li><ol><li>Final report approved by applicant’s supervisor (to submit within 2 months after completing the project)</li><li>Primary research output (including questionnaires and anonymised research output e.g. datasets, interview transcripts, electronic resources)</li><li>Progress report on the research project, including all receipts and supporting documents</li></ol><li>Funding that has been disbursed but was not used upon the completion of the research project must be returned to MSF.</li></ul><p><strong><span style="text-decoration:underline;">Academics and Researchers</span></strong></p><p>Successful applicants will:</p><ul><li>Receive grants of up to S$150,000 per research project (inclusive of the Institutional Indirect Research Cost)</li><li>Sign a Research Agreement with MSF on the terms of funding</li></ul><p><span style="text-decoration:underline;">Stages of funding</span></p><ul><li>After the signing of the Research Agreements with MSF, MSF will disburse 50% of the approved grant to the institution, as the first tranche of funding.</li><li>Subsequent tranches, each capped at a maximum of 30% of the approved grant, will be disbursed after receiving:</li><ol><li>Progress report (consisting of project progress and expenditure report)</li><li>Receipts and supporting documents</li></ol><li>MSF will disburse the remaining amount based on actual expenditure after the assessment of:</li><ol><li>Final report (to submit within 2 months after completing the project)</li><li>Primary research output (including questionnaires and anonymised research output e.g. datasets, interview transcripts, electronic resources)</li><li>Progress report on the research project including all receipts and supporting documents</li></ol><li>Funding that has been disbursed but was not used upon the completion of the research project must be returned to MSF.</li></ul><p><strong><span style="text-decoration:underline;">Funding terms</span></strong></p><p>The grant should be used exclusively for conducting the research project, including:</p><ul><li>Cost of engaging a research company or Research Assistants</li><li>Transport cost incurred during local fieldwork</li><li>Incentives or tokens for respondents</li><li>Printing cost of survey questionnaires and other fieldwork materials</li><li>Other items necessary for conducting the research</li></ul><p>The grant <span style="text-decoration:underline;">does not</span> cover expenses such as:</p><ul><li>Tuition fees, other administrative charges and training expenses imposed by the universities as part of the course of study</li><li>Salary costs of the Principal Investigator and Co-Investigator(s)</li><li>Overseas research travel expenses</li><li>Purchase of hardware or equipment</li><li>Purchase of software and license</li><li>Refreshments for meetings</li></ul><p>MSF will fund only approved expenditures incurred <span style="text-decoration:underline;">after</span> the signing of the Research Agreement with the successful applicants.</p><p>Applicants should secure approval of their research proposals from their project supervisor (for post-graduate students), or acknowledgement by Head of Department (for academics and researchers) <span style="text-decoration:underline;">before</span> submitting the application.</p><p>Upon successful application, recipients should obtain clearance from the Institution’s Research Ethics Review Board <span style="text-decoration:underline;">before</span> any funds can be disbursed.</p><p>Successful applicants <span style="text-decoration:underline;">shall not receive</span> any research funding from other agencies. Changes to the research project cannot be made without prior written consent of MSF.</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="application_process">
+        <h2 class="accordion-header" id="heading_application_process">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_application_process" aria-expanded="true" aria-controls="collapse_application_process" aria-label="Application Process">
+                Application Process
+            </button>
+        </h2>
+        <div id="collapse_application_process" class="accordion-collapse collapse" aria-labelledby="heading_application_process" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                The application for the 15th Grant Call (Postgraduate /Academic Category) has closed. The results will be available <span style="text-decoration:underline;">approximately 5 months after the closing date</span>.
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="evaluation_criteria">
+        <h2 class="accordion-header" id="heading_evaluation_criteria">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_evaluation_criteria" aria-expanded="true" aria-controls="collapse_evaluation_criteria" aria-label="Evaluation Criteria">
+                Evaluation Criteria
+            </button>
+        </h2>
+        <div id="collapse_evaluation_criteria" class="accordion-collapse collapse" aria-labelledby="heading_evaluation_criteria" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p>MSF will consider the following factors:</p><ul><li>The relevance of the research within the applied Topic of Inquiry</li><li>The relevance of the research to the Indicative Areas of Interest</li><li>The relevance of the research in promoting understanding of social and family trends and issues in Singapore</li><li>The contribution of the research to <strong>social and family policy development</strong> in Singapore</li><li>The relevance of the research to the SFRF objectives of promoting ground-up research initiatives</li><li>The rigour of the proposed research methodology and analytical techniques</li><li>The proposed project costs</li></ul><p>The grant is awarded on a competitive basis and reviewed by both MSF and external reviewers. MSF’s decision is final.</p><p>Applicants are to submit research proposals that are relevant to the work of MSF and should refer to the sections on Topics of Inquiry and Indicative Areas of Interest and past projects.</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="publication_and_data_sharing">
+        <h2 class="accordion-header" id="heading_publication_and_data_sharing">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_publication_and_data_sharing" aria-expanded="true" aria-controls="collapse_publication_and_data_sharing" aria-label="Publication and Data Sharing">
+                Publication and Data Sharing
+            </button>
+        </h2>
+        <div id="collapse_publication_and_data_sharing" class="accordion-collapse collapse" aria-labelledby="heading_publication_and_data_sharing" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p>MSF supports SFRF recipients in presenting and publishing your research findings (e.g. in journals, conferences and other channels), subject to the terms stated in the Research Agreement endorsed by both parties.</p><p>MSF may also invite SFRF recipients to share research findings at suitable platforms.</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="contact">
+        <h2 class="accordion-header" id="heading_contact">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_contact" aria-expanded="true" aria-controls="collapse_contact" aria-label="Contact">
+                Contact
+            </button>
+        </h2>
+        <div id="collapse_contact" class="accordion-collapse collapse" aria-labelledby="heading_contact" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p>For more information or queries, please contact <strong>MSF Social and Family Research Fund (SFRF) Secretariat</strong> at email <a href="mailto:MSF_SFRF_Secretariat@msf.gov.sg">MSF_SFRF_Secretariat@msf.gov.sg</a></p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="frequently_asked_questions">
+        <h2 class="accordion-header" id="heading_frequently_asked_questions">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_frequently_asked_questions" aria-expanded="true" aria-controls="collapse_frequently_asked_questions" aria-label="Frequently Asked Questions">
+                Frequently Asked Questions
+            </button>
+        </h2>
+        <div id="collapse_frequently_asked_questions" class="accordion-collapse collapse" aria-labelledby="heading_frequently_asked_questions" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p><strong><span style="text-decoration:underline;">Application</span></strong></p><p><strong>Can I submit more than one application for each grant cycle?</strong></p><p>Yes, each application will be considered on its own merits. MSF will take into account the quality and relevance of the research proposal, including the researcher’s ability to undertake concurrent projects.</p><p><strong>I am interested in applying for the SFRF research grant. Are applications accepted throughout the year?</strong></p><p>The SFRF is open for application once a year. Any application submitted outside the application period will not be accepted.</p><p><strong><span style="text-decoration:underline;">Who Can Apply</span></strong></p><p><strong>Am I eligible to apply for the SFRF research grant if I am a researcher from a local polytechnic or a local hospital?</strong></p><p>The grant is currently open to researchers from local universities and affiliated research institutes. You may submit your proposal, which will be assessed on its own merits.</p><p><strong>I am a previous SFRF grant recipient, who is interested to 
+conduct further study of the same SFRF project, can I apply for the 
+funding again?</strong></p><p>Yes, we welcome you to apply.</p><p><strong>Am I able to submit a joint application with researchers from other institutions/organisations for the SFRF research grant?</strong></p><p>Yes, we welcome you and your team to apply. The Lead Member of the project team will have to be from a local university or its affiliated research institutes.</p><p><strong><span style="text-decoration:underline;">Funding</span></strong></p><p><strong>Can I apply for higher quantum of SFRF research grant (e.g. for longitudinal study) in my application?</strong></p><p>MSF will consider your request for support of a higher quantum of SFRF research grant on a case-by-case basis.</p><p><strong>Can I start the SFRF project according to the planned start 
+date in my research proposal before MSF has informed me on the outcome 
+of my SFRF application?</strong></p><p>You can choose to start your project based on your timeline. However, please note that MSF will only fund approved research expenditures incurred after the Research Agreement is signed.</p><p><strong><span style="text-decoration:underline;">Data Sharing</span></strong></p><p><strong>Can my Research Assistant (RA) use the research findings of the SFRF funded research for his/her thesis project?</strong></p><p>Yes, please indicate your request in the SFRF application form. Do inform MSF in advance via email before you disclose any data or information from the SFRF-funded project to your RA for his/her thesis project.
+</p>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="accordion-item" id="past_sfrf_postgraduateacademic_recipients_and_projects">
+        <h2 class="accordion-header" id="heading_past_sfrf_postgraduateacademic_recipients_and_projects">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse_past_sfrf_postgraduateacademic_recipients_and_projects" aria-expanded="true" aria-controls="collapse_past_sfrf_postgraduateacademic_recipients_and_projects" aria-label="Past SFRF Post-graduate/Academic Recipients and Projects">
+                Past SFRF Post-graduate/Academic Recipients and Projects
+            </button>
+        </h2>
+        <div id="collapse_past_sfrf_postgraduateacademic_recipients_and_projects" class="accordion-collapse collapse" aria-labelledby="heading_past_sfrf_postgraduateacademic_recipients_and_projects" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <p id="PGA_PastRecipients"><em>Click on the following links to scroll to the year of the Grant Call directly</em></p><ul><li><a href="#PGA_2021GC">2021 Grant Call</a></li><li><a href="#PGA_2020GC">2020 Grant Call</a></li><li><a href="#PGA_2019GC">2019 Grant Call</a></li><li><a href="#PGA_2018GC">2018 Grant Call</a></li><li><a href="#PGA_2017GC">2017 Grant Call</a></li><li><a href="#PGA_2016GC">2016 Grant Call</a></li><li><a href="#PGA_2015GC">2015 Grant Call</a></li><li><a href="#PGA_2014GC">2014 Grant Call</a></li><li><a href="#PGA_2013GC">2013 Grant Call</a></li><li><a href="#PGA_2012GC">2012 Grant Call</a></li><li><a href="#PGA_2010GC">2010 Grant Call</a></li><li><a href="#PGA_2009GC">2009 Grant Call</a></li><li><a href="#PGA_2008GC">2008 Grant Call</a></li></ul><p id="PGA_2021GC">&nbsp;</p><h2>2021 Grant Call</h2><p>Topic:<strong>Disparities in Trends in Diet Quality Among Singaporean Adults: 2006 to 2016</strong></p><p>The purpose of this study is to investigate socioeconomic disparities in trends in diet quality and the impact of low diet quality on health and economic outcomes between 2006 and 2016 among Singaporean adults.</p><ul><li><em>Soye Shin</em><br>Duke-NUS Medical School</li><li><em>Eric Andrew Finkelstein</em><br>Duke-NUS Medical School</li></ul><p>&nbsp;</p><p>Topic:<strong>Understanding the Impact of Residential Relocation on Rental Flat Residents</strong></p><p>Project summary to be confirmed upon research ethics clearance.</p><ul><li><em>Tan Shin Bin</em><br>Lee Kuan Yew School of Public Policy, National University of Singapore</li><li><em>Shannon Ang</em><br>Department of Sociology, Nanyang Technological University</li><li><em>Lim Jingzhou</em><br>Merpati Kaki
+    </li></ul><p>&nbsp;</p><p>Topic:<strong>Typologies of Support Exchanges with Social Networks and Maternal Wellbeing in Low-Income Working Mothers with Young Children</strong></p><p>Project summary to be confirmed upon research ethics clearance.</p><ul><li><em>Sungwon Yoon</em><br>Duke-NUS Medical School</li></ul><p>&nbsp;</p><p>Topic: <strong>Including Preschool Children with Developmental Needs:
+ How Attitude, Perceived School Support and Self-Efficacy of Singapore 
+Teachers Influence Their Use of Inclusive Classroom Practices</strong></p><p>Project summary to be confirmed upon research ethics clearance</p><ul><li><em>Kenneth Poon Kin Loong</em><br>National Institute of Education, Nanyang Technological University</li><li><em>Tan Peng Chian</em><br>National Institute of Education, Nanyang Technological University</li></ul><p style="text-align:right;font-size:16px;"><a href="#PGA_PastRecipients">Back to top</a></p><p id="PGA_2020GC">&nbsp;</p><h2>2020 Grant Call</h2><p>Topic:<strong> The Impact of Parenting Styles and Practices on 
+Children’s Self-regulation and Wellbeing: A Longitudinal Mixed-Methods 
+Investigation</strong></p><p>The study aims to generate knowledge on the impact of parenting styles and practices on children's self-regulating behaviours and subjective well-being, that will improve local parenting in relation to children's development.</p><ul><li><em>Lee Jungup</em><br>Department of Social Work, National University of Singapore</li><li><em>Cheung Hoi Shan</em><br>Psychology and Child &amp; Human Development, National Institute of Education, Nanyang Technological University</li><li><em>Charissa Siew Lyng Cheah</em><br>Department of Psychology, University of Maryland (USA)</li><li><em>Fu Siling Charlene</em><br>Singapore Children's Society</li><li><em>Ang Pei-Hui Rebecca</em><br>Psychology and Child &amp; Human Development, National Institute of Education, Nanyang Technological University</li></ul><p>Topic: <strong>Factors influencing help-seeking behaviours among low income group mothers: A mixed methods study</strong></p><p>The purpose of the study is to explore maternal experiences, expectations, needs and the factors influencing help-seeking behaviours of the low-income mothers in the postpartum period.</p><ul><li><em>Shefaly Shorey</em><br>Alice Lee Centre for Nursing Studies, National University of Singapore</li><li><em>Cornelia Chee</em><br>Department of Psychological Medicine, National University Hospital</li></ul><p id="PGA_2020GC" style="text-align:right;font-size:16px;"><a href="#PGA_PastRecipients">Back to top</a></p><p id="PGA_2019GC">&nbsp;</p><h2>2019 Grant Call</h2><p>Topic:<strong> An Investigation into the Perceptions and Attitudes of the Malay/Muslim Community towards Child Fostering</strong></p><p>The project investigates the socio-cultural reasons which may inhibit eligible Malay/Muslim families from registering with the Fostering Scheme that comes under the auspices of the Ministry of Social and Family Development. The Scheme aims to provide
+    an alternative care arrangement for children who are below 18 years of age and in need of a safe, stable and nurturing home. These vulnerable young individuals are placed in foster care because they lack alternative kinship care arrangements.
+</p><ul><li><em>Mohamad Shamsuri Juhari</em><br>Lee Kuan Yew School of Public Policy, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> Parental Support for Adolescent Romantic Relationships and Achievement of Work-Life Balance in Adulthood</strong></p><p>Work-life harmony is a key issue facing families. This study explores the impact of parental practices on children's ability to achieve balance between work and family formation in adulthood. Research suggests that parental support for romantic relationships
+    in adolescence has significant short-term effects on relationship quality and emotional health, but the long term effects in adulthood are unclear. The study investigates five outcomes: a) likelihood and quality of adolescent relationships, b) marriage
+    and relationship formation in adulthood, c) higher educational attainment, d) emotional closeness of relationship with parents in adulthood, and e) emotional wellbeing in adolescence and adulthood.</p><ul><li><em>Tan Poh Lin, Jennifer</em><br>Lee Kuan Yew School of Public Policy, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> Understanding and Improving Job Search Skills Among Mid-Career Workers from Families of Lower-Socioeconomic Status</strong></p><p>This project investigates (1) when and why skilled mid-career employees in Singapore fail to leverage job opportunities, particularly those coming from families or backgrounds of lower-socioeconomic status, and (2) how skilled mid-career employees in
+    Singapore can leverage job opportunities more effectively. </p><ul><li><em>Marko Pitesa</em><br>Lee Kong Chian School of Business, Singapore Management University</li><li><em>Jared Nai</em><br>Lee Kong Chian School of Business, Singapore Management University</li><li><em>Lim Jia Hui</em><br>Lee Kong Chian School of Business, Singapore Management University</li></ul><p id="PGA_2018GC" style="text-align:right;font-size:16px;"><a href="#PGA_PastRecipients">Back to top</a></p><h2>2018 Grant Call</h2><p>Topic:<strong> The Social Capital of Low-Income, Single-Parent 
+Families in Singapore: Defining, Measuring and Operationalising Family 
+Social Capital</strong></p><p>The overall family well-being of a low-income, single-parent family is compounded by the intersection of both their low-income and their single-parent statuses. This study hence proposes to operationally define and measure the social network of supportive
+    relationships among low-income, single-parent families with adolescents, in the socio-cultural and political context of family-well-being in Singapore.</p><ul><li><em>Kwan Jin Yao</em><br>Lee Kuan Yew School of Public Policy, National University of Singapore</li><li><em>Anita Lim Chiang Chiang</em><br>TOUCH Community Services Limited</li><li><em>Teo Meiyi Stella</em><br>TOUCH Community Services Limited</li></ul><p>&nbsp;</p><p>Topic:<strong> Social Networks of Young Persons with Disabilities in Singapore – Mobilising Networks to Navigate Transitions</strong></p><p>A young person transitions from childhood to young adulthood,gaining independence, leaving education and entering the workforce. For young people with disabilities (YPWD), however, this transition can be challenging. Some remain dependent on caregivers
+    to meet their daily needs, while many require additional supports to navigate this phase. Social networks – formal and informal actors – are crucial in increasing the inclusion of YPWD in society and employment. This study seeks to gain
+    an in-depth understanding of the social networks of YPWD and how these networks help them to meet their social, emotional, financial, physical and other needs.</p><ul><li><em>Reuben Wong</em><br>College of Alice and Peter Tan, National University of Singapore</li><li><em>Gayatri Kembhavi</em><br>Centre for Evidence and Implementation, Singapore</li><li><em>Lee Hing Giap Justin</em><br>Lee Kuan Yew School of Public Policy, National University of Singapore</li></ul><p id="PGA_2017GC" style="text-align:right;font-size:16px;"><a href="#PGA_PastRecipients">Back to top</a></p><h2>2017 Grant Call</h2><p>Topic:<strong> Conflict Between Work and Family Lives Among Workers of Lower-Socioeconomic Status</strong></p><p>This study investigates how conflict between work and family lives affects skilled employees in Singapore coming from families of lower socioeconomic status (SES). The findings will help improve work-family balance of Singaporean workers coming from lower-SES
+    backgrounds, improve fairness and efficiency of Singaporean organizations, and help harmonizing work and family as central but often competing domains of life in the Singaporean society.</p><ul><li><em>Marko Pitesa</em><br>Lee Kong Chian School of Business, Singapore Management University</li><li><em>Yuchuan Liu</em><br>Lee Kong Chian School of Business, Singapore Management University</li></ul><p>&nbsp;</p><p>Topic:<strong> The Influence of Adolescent Temperament/Personality and Parenting on Adolescent Psychosocial Outcomes</strong></p><p>This research aims to investigate individual and environmental factors that contribute to an adolescent’s psychological outcomes (mental health and emotional regulation), factors that influence parents’ parenting behaviours, developmental
+    trajectories of adolescent psychological outcomes, and predictors of the trajectories.</p><ul><li><em>Keng Shian-Ling</em><br>Yale-NUS College</li><li><em>Lee Si Min Stephanie</em><br>Faculty of Arts and Social Sciences, National University of Singapore</li><li><em>Hong Yee Shiun, Ryan</em><br>Faculty of Arts and Social Sciences, National University of Singapore</li></ul><p id="PGA_2016GC" style="text-align:right;font-size:16px;"><a href="#PGA_PastRecipients">Back to top</a></p><h2>2016 Grant Call</h2><p>Topic:<strong> “Stay-at-home” Fathers and their Families: What Lessons for Policymakers?</strong></p><p>The primary objective in this study is to develop an in-depth understanding of fathers who are full-time caregivers and the impact this has had on them and their families.</p><ul><li><em>Yvonne Arivalagan</em><br>Lee Kuan Yew School of Public Policy, National University of Singapore</li><li><em>Christopher Gee</em><br>Lee Kuan Yew School of Public Policy, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> Three-Level Digital Divide and Digital Inclusion of Children from Single-Parent and Two-Parent Households</strong></p><p>This proposed study seeks to provide an in-depth analysis on children from different family types, and how their family arrangements, parents’ mediation (or lack thereof) and social networks affect their use of ICTs for learning, living and leisure.</p><ul><li><em>Soon Wan Ting Carol</em><br>Lee Kuan Yew School of Public Policy, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> Predictors and Consequences of Work-family Experiences: Study of Working Caregivers of Older Adults</strong></p><p>This study aims to examine work-, family-, and health-related consequences of work-family experiences and individual characteristics and organizational factors that can optimize work family experiences and outcomes.
+</p><p>&nbsp;</p><ul><li><em>Eunae Cho</em><br>School of Social Sciences, Nanyang Technological University</li><li><em>Ho Moon-Ho Ringo</em><br>School of Social Sciences, Nanyang Technological University</li><li><em>Tuo-Yu Chen</em><br>Centre for Ageing Research and Education, Duke-NUS Medical School</li><li><em>Cheng Hak Land Grand</em><br>Centre for Ageing Research and Education, Duke-NUS Medical School</li></ul><p id="PGA_2015GC" style="text-align:right;font-size:16px;"><a href="#PGA_PastRecipients">Back to top</a></p><h2>2015 Grant Call</h2><p>Topic:<strong> A Mixed Method Study on First-time Fathers After the Birth of Their Child: Experiences and Predictors of Paternal Involvement</strong></p><p>This study explores paternal experiences, expectations, needs and the factors influencing paternal involvement in the postpartum period.</p><ul><li><em>Shefaly Shorey</em><br>Alice Lee Centre for Nursing Studies, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> Generativity: Appreciation and Measurement among Elderly Singaporeans (GAMES)</strong></p><p>This two-phase project aims to provide an empirical understanding of generativity and enable its measurement among elderly Singaporeans.</p><ul><li><em>Rahul Malhotra</em><br>Centre for Ageing Research and Education, Duke-NUS Medical School</li><li><em>Angelique Chan Wei Ming</em><br>Centre for Ageing Research and Education, Duke-NUS Medical School</li><li><em>Cheng Hak Land Grand</em><br>Centre for Ageing Research and Education, Duke-NUS Medical School</li><li><em>Thang Leng Leng</em><br>Department of Japanese Studies, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> How Parenting Factors and Child Educational 
+Environment Influence Children’s Online Risk-taking Behaviours: A Mixed 
+Method Assessment</strong></p><p>The study aims to examine how parental factors (i.e., parental mediation of children’s digital media use, parental literacy of digital media, and general parenting styles) influence children’s online risk-taking perception and behaviour.</p><ul><li><em>May Oo Lwin</em><br>Wee Kim Wee School of Communication and Information, Nanyang Technological University</li><li><em>Chong Ee Jay</em><br>TOUCH Community Services Limited</li></ul><p>&nbsp;</p><p>Topic:<strong> The Impact of Media Consumption on the Development of Attentional Control and Emotional Regulation during Early Childhood</strong>
+</p><p>The primary objective of this research is to advance our understanding of the impact of heavy media consumption via mobile devices on the development of attentional control and emotional regulation during early childhood.</p><ul><li><em>Yang Hwajin</em><br>School of Social Sciences, Singapore Management University</li><li><em>Andree Hartanto</em><br>School of Social Sciences, Singapore Management University</li></ul><p id="PGA_2014GC" style="text-align:right;font-size:16px;"><a href="#PGA_PastRecipients">Back to top</a></p><h2>2014 Grant Call</h2><p>Topic:<strong> An Insight into the Family Quality of Life of Adults with Intellectual Disabilities in Singapore</strong></p><p>This study utilizes a mix method approach, which encompasses both quantitative and qualitative research methods to investigate the quality of life of families with at least one adult-child with special needs in Singapore.
+</p><ul><li><em>Dalvin Jit Kaur Sidhu</em><br>Early Childhood and Special Needs Education, National Institute of Education, Nanyang Technological University</li><li><em>Kenneth Poon</em><br>Education and Cognitive Development Lab, National Institute of Education, Nanyang Technological University</li></ul><p>&nbsp;</p><p>Topic:<strong> The Apple Doesn’t Fall Far From the Tree: An Experimental Study on Intergenerational Transmission of Preferences</strong></p><p>This field experiment study aims to investigate the effects of parental influence on children’s economic preferences, particularly the dimensions on social preference and time preference.</p><ul><li><em>He Tai-Sen</em><br>Economics Division, Nanyang Technological University</li><li><em>Yohanes Eko Riyanto</em><br>Economics Division, Nanyang Technological University</li></ul><p>&nbsp;</p><p>Topic:<strong> A Study on Parents as Mediators of Academic Stress</strong></p><p>This study aims to examine the impact of academic stress on Singapore families, particularly focusing on the parents’ expectations and aspirations for their children and how it affects family bonding and familial relations.</p><ul><li><em>Teng Siao See</em><br>Institute of Policy Studies, National University of Singapore</li><li><em>Mathew Mathews</em><br>Institute of Policy Studies, National University of Singapore</li></ul><p id="PGA_2013GC" style="text-align:right;font-size:16px;"><a href="#PGA_PastRecipients">Back to top</a></p><h2>2013 Grant Call</h2><p>Topic:<strong> Job Connectedness and Work-Family Integration</strong></p><p>This study aims to address gaps in literature by examining the psychological processes behind staying connected to work matters through communication technologies.</p><ul><li><em>Rashimah Rajah</em><br>Department of Management and Organisation/Business, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> An Exploratory Study on Singaporean Divorcees from Transnational Marriages</strong></p><p>A qualitative study on how Singaporean divorcees from transnational marriages acquire the post-divorce support and how existing state policies and services shape the well-being of Singaporean divorcees and their families after the divorce.</p><ul><li><em>Jean Yeung Wei-Jun</em><br>Asia Research Institute, National University of Singapore</li><li><em>Sharon Quah Ee Ling</em></li></ul><p id="PGA_2012GC" style="text-align:right;font-size:16px;"><a href="#PGA_PastRecipients">Back to top</a></p><h2>2012 Grant Call</h2><p>Topic:<strong> The Trait and State Emotion Regulation of Adolescents 
+and the Influence of Parent-Adolescent Communication and Parents’ 
+Emotional Expressivity</strong></p><p>The study aims to examine the trait and state emotion regulation of local adolescents, ascertain the characteristics of mother-adolescent, father-adolescent dyad communication, maternal and paternal emotional expressivity and their influence on adolescents’
+    emotion regulation.</p><ul><li><em>Yeo Geck Hong</em><br>Department of Psychology, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> Adoption Disclosure and Psychological Well-Being of Adoptees</strong></p><p>The study aims to examine the disclosure process and find out the effect of disclosure on adoptive family well-being including the child’s outcome; to find out the societal and familial factors that relate to adoption disclosure and to family and
+    child well-being; to explore the strategies parents take in the adoption disclosure process and how they manage the disclosure process.</p><ul><li><em>Srinivasan Chokkanathan</em><br>Department of Social Work, National University of Singapore</li><li><em>Lim Wei Loong</em><br>Fei Yue Community Services</li><li><em>Lili Qin</em><br>Department of Psychology, National University of Singapore</li></ul><p id="PGA_2010GC" style="text-align:right;font-size:16px;"><a href="#PGA_PastRecipients">Back to top</a></p><h2>2010 Grant Call</h2><p>Topic:<strong> On the Improvement of Executive Function in Pre-schoolers from Low-Income Families</strong></p><p>The study aims to examine if a specially designed intervention programme would help in promoting the development of executive function in pre-schoolers from low-income families. Executive function refers to the processes required for the conscious control
+    of thought, emotion and action. It relates to decision making, problem solving, self-regulation and behavioural control. The early development of executive function has been linked to school readiness and academic achievement.</p><ul><li><em>Qu Li</em><br>Division of Psychology, Nanyang Technological University</li><li><em>Moon-ho Ringo Ho</em><br>Division of Psychology, Nanyang Technological University</li><li><em>Kerry Lee</em><br>The Centre for Research in Pedagogy and Practice, National Institute of Education, Nanyang Technological University</li></ul><p>&nbsp;</p><p>Topic:<strong> Parental Perceptions and Mediation of Computer Gaming in Singapore</strong></p><p>The study aims to explore parental perception and mediation strategies adopted with regard to the computer gaming activities of their children in Secondary Schools (aged 12 to 16 years). As Internet penetration in Singapore has reached saturation, and
+    computer gaming is more avidly adopted by young people as a recreational pastime, parents find themselves grappling with this new medium and its impact on their children. By better understanding parental perceptions of computer gaming, and their efforts
+    in mediating their children's involvement in this increasingly popular activity, more effective strategies can be proposed for educating both children and parents in incorporating computer gaming into their domestic media landscape in a healthier
+    fashion.
+</p><ul><li><em>Lim Sun Sun</em><br>Department of Communications and New Media Programme, National University of Singapore</li><li><em>Julian Lin</em><br>Department of Communications and New Media Programme, National University of Singapore</li><li><em>Jiow Hee Jhee</em><br>Department of Communications and New Media Programme, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> Case Control of Asian Adolescents Who Attempted 
+Suicide: Their Temperament, Parenting Experienced, Mental Disorders, 
+Life Stressors and Help Seeking Behaviour</strong></p><p>The study aims to identify the factors related to attempted suicides by adolescents (aged 13 to 19 years old). The study would like to examine the temperament of the adolescents, the type of parenting experienced by the adolescents, the presence of mental
+    disorders, life stressors and help-seeking behaviour in adolescents who have attempted suicides.
+</p><ul><li><em>John Wong Chee Meng</em><br>Department of Psychological Medicine, National University of Singapore</li><li><em>Feng Lei</em><br>Department of Psychological Medicine, National University of Singapore</li><li><em>Tan Chay Hoon</em><br>Department of Pharmacology, National University of Singapore</li><li><em>Nyein Nyein</em><br>National University Health System</li></ul><p id="PGA_2009GC" style="text-align:right;font-size:16px;"><a href="#PGA_PastRecipients">Back to top</a></p><h2>2009 Grant Call</h2><p>Topic:<strong> The Unmarried Crisis: The Rising Trend of Singlehood Among Chinese Singaporeans</strong></p><p>The study aims to gain a sense of how gender perceptions and career views influence the choices and decisions on marriage and to fully understand the relationships between the single and the family of origin.
+</p><ul><li><em>Galvin Jones</em><br>Department of Sociology, Asia Research Institute, National University of Singapore</li><li><em>Zhang Yanxia</em><br>Department of Sociology, Asia Research Institute, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> Attribution for Maternal Stress in Children with Different Special Needs</strong></p><p>The study aims to investigate the attribution variables for maternal stress in children aged 0 to 12 years with special needs. It will examine possible internal and external factors such as children with different special needs, mothers’ socio demographic
+    information, and mothers’ perception of availability of existing family and social support.
+</p><ul><li><em>Yamagata Chihiro</em><br>National Institute of Education, Nanyang Technological University</li></ul><p>&nbsp;</p><p>Topic:<strong> Childcare Staff’s and Parents’ Beliefs about Quality Care for Infants and Toddlers in Centre-based Programs in Singapore</strong></p><p>The study aims to examine (i) Perceptions of childcare staff on quality care in terms of their interactions and practices with infants and toddlers in centre-based programmes in Singapore; (ii) Perceptions of childcare staff on the training which they
+    had undergone to prepare them for their interactions and practices with infants; and (iii) Observed nature of childcare staff’s interactions and practices.</p><ul><li><em>Karuppiah Nirmala</em><br>Department of Early Childhood and Special Needs Education, National Institute of Education, Nanyang Technological University</li></ul><p id="PGA_2008GC" style="text-align:right;font-size:16px;"><a href="#PGA_PastRecipients">Back to top</a></p><h2>2008 Grant Call</h2><p>Topic:<strong> The Influence of Child Temperament, Parenting, and Family Context on Psychological Adaptation during Middle Childhood</strong></p><p>The study aims to outline a programme of research that focuses on the psychological development of children aged seven to 10 years, in the context of the family. The parents of children in this age range have huge influences on their children’s
+    development through the manner in which they interact with one another. A major theme of the research is to delineate the factors responsible for the children’s ability to adapt well to changes, to build up psychological resilience, and to function
+    successfully at home and in school.</p><ul><li><em>Ryan Hong Yee-Shiun</em><br>Department of Psychology, National University of Singapore</li><li><em>Tsai Fen-Fang</em><br>Department of Psychology, National University of Singapore</li><li><em>Tan Seok Hui</em><br>Department of Psychology, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> Not Just Babysitting: Case Studies of Caregiver-Child Interactions in Infant Care Centres in Singapore</strong></p><p>The study aims to investigate the best practices of infant-toddler child care centres in Singapore, with regard to designing and implementing their programmes, with a focus on examining the interactions between child and caregiver, the environment set
+    up that supports early learning and development and professional development of the edu-carers.</p><ul><li><em>Cynthia Lim Ai Ming</em><br>Department of Early Childhood, National Institute of Education, Nanyang Technological University</li></ul><p>&nbsp;</p><p>Topic:<strong> Impact of Older Adults’ Activity Patterns on the Functioning of Later-life Family</strong></p><p>The study aims to explore the range of meaningful activities that older adults are engaged in; to classify their activity patterns; to examine factors associated with these activity patterns; and to investigate the impact of activity patterns on older
+    adults’ well-being and their family functioning. Family functioning will be assessed in four dimensions of family life which includes family adaptability, cohesion, satisfaction with family life, and family leisure life.</p><ul><li><em>Hong Song-Iee</em><br>Department of Social Work, National University of Singapore</li><li><em>Han Chang-Keun</em><br>Department of Social Work, National University of Singapore</li><li><em>Alexander Lee Earn Yung</em><br>Department of Social Work, National University of Singapore</li></ul><p>&nbsp;</p><p>Topic:<strong> Longitudinal Study of Beyond Parental Control (BPC) cases: Factors Associated with Possible Variation of Court Orders</strong></p><p>The study aims to study the Beyond Parental Control (BPC) cases longitudinally over a period of two years to identify factors associated with variation of initial court orders. The researchers seek to study the BPC cases that have either been sent to
+    an approved home or placed under closed statutory supervision, as these are the two most common types of court orders for BPC cases.</p><ul><li><em>Rebecca Ang Pei-Hui</em><br>School of Humanities &amp; Social Sciences, Nanyang Technological University</li><li><em>Vivien Huan Swee Leng</em><br>Psychological Studies Academic Group, National Institute of Education, Nanyang Technological University</li><li><em>Chong Wan Har</em><br>Psychological Studies Academic Group, National Institute of Education, Nanyang Technological University</li><li><em>Yeo Lay See</em><br>Psychological Studies Academic Group, National Institute of Education, Nanyang Technological University</li><li><em>Carol Balhetchet</em><br>Youth Service Centre (Toa Payoh), Singapore Children’s Society</li></ul><p>&nbsp;</p><p>Topic:<strong> A Study of the Impact of Caring for Stroke Survivors on Family Structure and the Mental Health of Caregivers</strong></p><p>The study aims to examine the factors that influence caregiving burden, quality of life and mental health of caregivers; and to examine the adequacy of existing intervention programmes within the community for stroke caregivers.</p><ul><li><em>David Matchar</em><br>Duke-NUS Medical School</li><li><em>Stella Quah</em><br>Duke-NUS Medical School</li><li><em>Edward Menon</em><br>Saint Andrew’s Community Hospital</li><li><em>Chow Wai Leng</em><br>SingHealth Centre for Health Services and Research</li><li><em>Angelique Chan</em><br>Department of Sociology, National University of Singapore</li></ul><p style="text-align:right;font-size:16px;"><a href="#PGA_PastRecipients">Back to top</a></p>
+            </div>
+        </div>
+    </div>
+
+
+    </div>
+</div>
+</div>
+
+    </div>
+</div> <div class="sharethis-inline-share-buttons"></div> 
+
+
+<footer class="sgds footer">
+    <section class="footer-top">
+        <div class="container-fluid">
+            <div class="row footer-header">
+                <div class="footer-title">
+                    Ministry of Social and Family Development
+                </div>
+            </div>
+
+            <div class="row footer-contact-links">
+                <div class="col-sm-12">
+                    <div class="d-flex flex-column flex-lg-row gap-20 gap-lg-0 justify-content-lg-end">
+                        <div class="d-flex justify-content-lg-end">
+                            <ul class="d-flex flex-column flex-lg-row gap-lg-40 contact-links">
+                                        <li><a class="" href="/contact-us-feedback" aria-label="Contact Us / Feedback">Contact Us / Feedback</a></li>
+                                        <li><a class="not-first-page" href="/faqs" aria-label="FAQs">FAQs</a></li>
+                            </ul>
+                        </div>
+                        <div class="d-flex align-items-lg-center justify-content-lg-end">
+                            <ul class="d-flex social-links">
+                                <li>
+                                    <a href="https://www.facebook.com/MSFSingapore/" aria-label="facebook">
+                                        <em class="fa-brands fa-square-facebook"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/msfcares/" aria-label="instagram">
+                                        <em class="fa-brands fa-instagram"></em>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://t.me/msfcares" aria-label="telegram">
+                                        <em class="fa-brands fa-telegram"></em>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="footer-bottom">
+        <div class="container-fluid">
+            <hr class="footer-divider">
+            <div class="row footer-mandatory-links">
+                <div class="col-12 col-lg-8 col-xl-9">
+                    <ul class="footer-nav-list">
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links " href="/report-vulnerability" rel="noopener" aria-label="Report Vulnerability
+
+">Report Vulnerability
+
+</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/privacy-statement" rel="noopener" aria-label="Privacy Statement">Privacy Statement</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/terms-of-use" rel="noopener" aria-label="Terms of Use&nbsp;">Terms of Use&nbsp;</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/sitemap" rel="noopener" aria-label="Sitemap">Sitemap</a>
+                                </li>
+                                <li class="footer-nav-item">
+                                    <a class="footer-nav-links not-first-page" href="/accessibility-statement" rel="noopener" aria-label="Accessibility Statement">Accessibility Statement</a>
+                                </li>
+                    </ul>
+                </div>
+                <div class="col-12 col-lg footer-copyrights">
+                    <div class="d-flex justify-content-lg-end text-lg-end">
+                        © 2024 Government of Singapore<br>
+                        Last updated 25 Dec 2023
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+
+
+ <div class="accessibility-sidebar"> <div class="btn-group-vertical btn-group-sm" role="group" aria-label="Accessibility Sidebar"> <button type="button" class="btn btn-accessibility btn-notice" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Show/Hide Notice" data-bs-original-title="Show/Hide Notice"> <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10 0C8.02219 0 6.08879 0.58649 4.4443 1.6853C2.79981 2.78412 1.51809 4.3459 0.761209 6.17317C0.00433284 8.00043 -0.193701 10.0111 0.192152 11.9509C0.578004 13.8907 1.53041 15.6725 2.92894 17.0711C4.32746 18.4696 6.10929 19.422 8.0491 19.8079C9.98891 20.1937 11.9996 19.9957 13.8268 19.2388C15.6541 18.4819 17.2159 17.2002 18.3147 15.5557C19.4135 13.9112 20 11.9778 20 10C20 8.68678 19.7413 7.38642 19.2388 6.17317C18.7363 4.95991 17.9997 3.85752 17.0711 2.92893C16.1425 2.00035 15.0401 1.26375 13.8268 0.761205C12.6136 0.258658 11.3132 0 10 0ZM10 18C8.41775 18 6.87104 17.5308 5.55544 16.6518C4.23985 15.7727 3.21447 14.5233 2.60897 13.0615C2.00347 11.5997 1.84504 9.99113 2.15372 8.43928C2.4624 6.88743 3.22433 5.46197 4.34315 4.34315C5.46197 3.22433 6.88743 2.4624 8.43928 2.15372C9.99113 1.84504 11.5997 2.00346 13.0615 2.60896C14.5233 3.21447 15.7727 4.23984 16.6518 5.55544C17.5308 6.87103 18 8.41775 18 10C18 12.1217 17.1572 14.1566 15.6569 15.6569C14.1566 17.1571 12.1217 18 10 18Z"></path> <path d="M10 7C10.5523 7 11 6.55228 11 6C11 5.44772 10.5523 5 10 5C9.44772 5 9 5.44772 9 6C9 6.55228 9.44772 7 10 7Z"></path> <path d="M10 8C9.73478 8 9.48043 8.10536 9.29289 8.29289C9.10536 8.48043 9 8.73478 9 9V14C9 14.2652 9.10536 14.5196 9.29289 14.7071C9.48043 14.8946 9.73478 15 10 15C10.2652 15 10.5196 14.8946 10.7071 14.7071C10.8946 14.5196 11 14.2652 11 14V9C11 8.73478 10.8946 8.48043 10.7071 8.29289C10.5196 8.10536 10.2652 8 10 8Z"></path> </svg> </button> <button type="button" class="btn btn-accessibility btn-font-bigger" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Increase Font Size" data-bs-original-title="Increase Font Size">
+                    A+
+                </button> <button type="button" class="btn btn-accessibility btn-font-smaller" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Decrease Font Size" data-bs-original-title="Decrease Font Size">
+                    A−
+                </button> <button type="button" class="btn btn-accessibility btn-contrast" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-custom-class="custom-tooltip" title="" aria-label="Toggle Colour Contrast" data-bs-original-title="Toggle Colour Contrast"> <em class="fa-solid fa-circle-half-stroke"></em> </button> </div> </div> <div class="back-to-top"> <button class="btn-back-top" aria-label="back to top"> <svg width="16" height="8" viewBox="0 0 16 8" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4826 7.76568C14.8297 8.07811 15.3925 8.07811 15.7396 7.76568C16.0868 7.45326 16.0868 6.94673 15.7396 6.63432L8.62853 0.23424C8.2814 -0.0780799 7.71859 -0.0780799 7.37146 0.23424L0.260266 6.63432C-0.0867557 6.94673 -0.0867557 7.45326 0.260266 7.76567C0.607466 8.07811 1.17031 8.07811 1.51751 7.76567L8 3L14.4826 7.76568Z"></path> </svg> <span>Top</span> </button> </div> <script src="/ResourcePackages/Msf/assets/js/jquery.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/jquery-ui.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/swiper-bundle.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/bootstrap.min.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/default-passive-events.js" type="text/javascript"></script> <script src="/ResourcePackages/Msf/assets/js/search-result.js" type="text/javascript"></script> <script src="https://assets.wogaa.sg/scripts/wogaa.js"></script> <script type="text/javascript" src="/ResourcePackages/Msf/assets/js/sharethis.js#property=648140a26773dd0012e17a9b&amp;product=inline-share-buttons&amp;source=platform" async="async"></script> <script>
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window, document, 'script', 'dataLayer', 'G-7WBNTH91BT');
+            </script> <!-- Global site tag (gtag.js) - Google Analytics --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7WBNTH91BT"></script> <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-7WBNTH91BT');
+            </script> <script type="module" src="https://cdn.jsdelivr.net/npm/@govtechsg/sgds-web-component/Masthead/index.js"></script> <script src="/ResourcePackages/Msf/assets/js/main.min.js" type="text/javascript"></script>  
+<div id="st-2" class=" st-sticky-share-buttons st-left st-toggleable st-has-labels "><div class="st-btn st-first" data-network="facebook" style="display: inline-block;">
+  <img alt="facebook sharing button" src="https://platform-cdn.sharethis.com/img/facebook.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="linkedin" style="display: inline-block;">
+  <img alt="linkedin sharing button" src="https://platform-cdn.sharethis.com/img/linkedin.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-btn" data-network="gmail" style="display: inline-block;">
+  <img alt="gmail sharing button" src="https://platform-cdn.sharethis.com/img/gmail.svg">
+  <span class="st-label">Email</span>
+</div><div class="st-btn st-last" data-network="copy" style="display: inline-block;">
+  <img alt="copy sharing button" src="https://platform-cdn.sharethis.com/img/copy.svg">
+  <span class="st-label">Share</span>
+</div><div class="st-toggle">
+  <div class="st-left">
+    <img alt="arrow_left sharing button" src="https://platform-cdn.sharethis.com/img/arrow_left.svg">
+  </div>
+  <div class="st-right">
+    <img alt="arrow_right sharing button" src="https://platform-cdn.sharethis.com/img/arrow_right.svg">
+  </div>
+</div></div><wog-sentiments class="needsclick hydrated"></wog-sentiments><link href="https://webchat.vica.gov.sg/static/css/chat.css" type="text/css" rel="stylesheet" referrerpolicy="origin"><script src="https://webchat.vica.gov.sg/static/js/chat.js" type="text/javascript" referrerpolicy="origin" defer=""></script></body></html>

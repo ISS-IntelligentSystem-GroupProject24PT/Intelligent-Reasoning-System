@@ -1,0 +1,267 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- Mirrored from sarada.edu.sg/album.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Dec 2023 14:53:42 GMT --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Ramakrishna Mission Sarada Kindergarten</title>
+<link href="css/school.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+<!--
+function MM_showHideLayers() { //v9.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) 
+  with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=="show")?"visible":(v=="hide")?"hidden":v; }
+    obj.visibility=v; }
+}
+//-->
+</script>
+<link href="Css/pagination-2.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="jq/jquery-1.4.2.html"></script>
+<script language="javascript" src="jq/jquery.pagination.html"></script>
+<script language="javascript" src="jq/jquery.LoadImage.html"></script>
+<script language="javascript" src="js/public.js"></script>
+<script language="javascript">
+
+	var pageUrl="";
+	var School_id=1686;	
+	var admin_id=12062;
+	var Gtype=1; 	//类别
+	var totalNum=0;	//总记录数
+	var Pnum=12;	//每页数
+
+
+	var PPRow=4;	//一行几个
+
+
+	var ShowStrLen=15;	//字数控制	
+	
+	pageUrl = window.location; 
+    pageUrl = pageUrl.toString()        //获取当前页的URL，并附给字符串 pageUrl 
+	var Parameter = pageUrl.split("?");    //以 ? 为分隔符，将上面获得的 URL 拆分成数组
+
+
+	//Url = Parameter[0]+"?page";        //取得去掉参数后的URL，备后面翻页使用
+	//alert(Parameter.length);
+	if (Parameter.length<=1)
+	{
+	//history.back();
+	School_id=1686;
+//	return false;	
+	}
+	else
+	{
+	School_id = Parameter[1];        //取得 ? 的后一部分
+	Gtype=2;
+	}
+
+//alert(School_id+"||"+Gtype);
+
+
+
+
+
+$(function(){
+$("#indeximg img").LoadImage(true,93,70,"images/loading.gif");
+
+});
+
+$(document).ready(function(){
+  //取动态数据
+
+
+
+ 
+//	 GetAlbum(School_id,12062,1,12,3,30,Gtype);
+	GettotalNum(Gtype);	  
+//	$.get("/aspcode/aspurl.asp", { School_id: 1686, act: "album_menu",TopNum:"12",trNum:"3",ShowStrLen:"30",Gtype:2},
+//	  function(data){
+//		$("#album_menu").html(data);
+//	  }); 
+
+	  
+  
+}); 
+
+function GetAlbum(page_index, jq)	//Gtype,1,代表学校,2,班级
+{
+	$("#School_album").html(GetLoading());
+	$.get("aspcode/aspurl.html", { School_id: School_id, admin_id:admin_id,act: "School_album",currentpage:page_index+1, TopNum:Pnum,trNum:PPRow,ShowStrLen:ShowStrLen,Gtype:Gtype},
+	  function(data){
+		//alert("Data Loaded: " + data);
+		var strdata=data.split("||");
+		$("#School_album").html(strdata[0]);
+		$("#School_album img").LoadImage(true,120,90,"images/loading.gif");
+		//alert(strdata[0]);
+		$("#album_title").html(strdata[1]);
+	  }); 
+	
+}
+
+function GettotalNum(sGtype)	//GetAlbum(1686,12062,1,12,3,30,1)
+{
+	//需全新付值.
+	Gtype=sGtype; 	//新闻类别
+	//alert(Gtype);
+	$.get("aspcode/aspurl.html", { School_id: School_id, admin_id:admin_id,act: "School_album",currentpage:1, TopNum:Pnum,trNum:PPRow,ShowStrLen:ShowStrLen,Gtype:Gtype},
+	  function(data){
+		
+		var strdata=data.split("||");		
+		totalNum=strdata[2];	//总记录数
+		//alert(totalNum);
+		
+		var optInit={
+			items_per_page: Pnum,
+			num_display_entries: 5,
+			num_edge_entries: 2,
+			prev_text: "Prev",
+			next_text: "Next",
+			callback: GetAlbum
+			};
+        $("#Pagination").pagination(totalNum, optInit);	//分页
+		if (totalNum==0)
+		{
+			$("#Pagination").hide();
+		};
+		
+	  }); 		
+}
+
+
+</script>
+</head>
+
+<body>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="20">&nbsp;</td>
+  </tr>
+</tbody></table>
+<table width="931" border="0" align="center" cellpadding="0" cellspacing="0">
+  
+  <tbody><tr>
+    <td><a href="index.html"><img src="images/bg_03.jpg" width="128" height="44"></a></td>
+    <td><img src="images/bg_04.jpg" width="116" height="44" onmouseover="MM_showHideLayers(&quot;menuDiv1&quot;,&quot;&quot;,&quot;show&quot;)" onmouseout="MM_showHideLayers(&quot;menuDiv1&quot;,&quot;&quot;,&quot;hide&quot;)"></td>
+    <td><a href="sknow.html"><img src="images/bg_05.jpg" width="115" height="44"></a></td>
+    <td><a href="contactus.html"><img src="images/bg_06.jpg" width="115" height="44"></a></td>
+    <td><a href="Alumni.html"><img src="images/bg_071.jpg" width="115" height="44"></a></td>
+    <td><a href="links.html"><img src="images/bg_07.jpg" width="115" height="44"></a></td>
+    <td><a href="https://portal.sarada.edu.sg/login" target="_blank"><img src="images/bg_08.jpg" width="115" height="44"></a></td>
+    <td><a href="https://www.facebook.com/SaradaKG" target="_blank"><img src="images/Kindergarten_face.jpg" width="53" height="44"></a></td>
+    <td><a href="http://www.twitter.com/SaradaKg" target="_blank"><img src="images/Kindergarten_twitter.jpg" width="57" height="44"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><div id="menuDiv1" style="width:116px;" onmouseover="MM_showHideLayers(&quot;menuDiv1&quot;,&quot;&quot;,&quot;show&quot;)" onmouseout="MM_showHideLayers(&quot;menuDiv1&quot;,&quot;&quot;,&quot;hide&quot;)">
+        <table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF" class="menubg01">
+  <tbody><tr>
+    <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02" width="119"><a href="condition.html">School Tour</a></td>
+  </tr>
+  <tr>
+    <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02"><a href="Learning.html">Learning Goals</a></td>
+  </tr>
+  <tr>
+    <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02"><a href="General.html">General Info</a></td>
+  </tr>
+  <tr>
+    <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02"><a href="History.html">History</a></td>
+  </tr>
+  <tr>
+    <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02"><a href="handbook.html">Handbook</a></td>
+  </tr>
+</tbody></table>
+    </div></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+      <div id="menuDiv2" style="width:116px;" onmouseover="MM_showHideLayers(&quot;menuDiv2&quot;,&quot;&quot;,&quot;show&quot;)" onmouseout="MM_showHideLayers(&quot;menuDiv2&quot;,&quot;&quot;,&quot;hide&quot;)">
+        <table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF" class="menubg01">
+          <tbody><tr>
+            <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02" width="119"><a href="http://www.ichild2.com/Login/login.aspx" target="_blank">Parents Login</a></td>
+          </tr>
+          <tr>
+            <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02"><a href="http://ichild.ichild.com.sg/" target="_blank">Admin Login</a></td>
+          </tr>
+        </tbody></table>
+      </div>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+<table width="931" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="210"><img src="images/banner.jpg" width="931" height="210" border="0" usemap="#Map"> </td>
+  </tr>
+</tbody></table>
+<table width="931" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="32" valign="top" background="images/about_28.jpg"><table width="100%" height="62" border="0" cellpadding="0" cellspacing="0" class="aboutbg">
+      <tbody><tr>
+        <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td>&nbsp;</td>
+          </tr>
+        </tbody></table>
+          <table width="95%" border="0" align="center" cellpadding="0" cellspacing="3">
+      <tbody><tr>
+        <td width="173" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td height="30" class="contact01" style="padding-left:5px"><img src="images/menu-leaf.gif"> <a href="about.html" class="contact01">Gallery</a></td>
+          </tr>
+          <tr>
+            <td><table width="83%" border="0" align="center" cellpadding="0" cellspacing="3">
+              <tbody><tr>
+                <td height="20" bgcolor="#ffcd0a"><img src="images/menu-collapsed.gif" width="10" height="10"> <a href="album.html" class="leftmenu">Our Album</a></td>
+              </tr>
+              <tr>
+                <td height="20" bgcolor="#54acd4"><img src="images/menu-collapsed.gif" width="10" height="10"> <a href="video.html" class="leftmenu">Our Video</a></td>
+              </tr>
+              
+              
+              
+              
+              
+              
+              
+            </tbody></table></td>
+          </tr>
+          
+
+        </tbody></table></td>
+        <td width="10" class="rightline">&nbsp;</td>
+        <td valign="top"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="downline">
+          <tbody><tr>
+            <td width="2%" height="28" valign="middle"><img src="images/menu-collapsed.gif" width="10" height="10"></td>
+            <td width="98%" valign="middle" class="dmenu">Home &gt; Our Album</td>
+          </tr>
+        </tbody></table>
+          <table width="100%" border="0" cellspacing="10" cellpadding="0">
+         <tbody><tr>
+          <td height="30" valign="top" class="school_albumtitle" id="album_title"></td>
+         </tr>
+         <tr>
+          <td id="School_album"></td>
+         </tr>
+         <tr><td><div id="Pagination"></div></td></tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td><img src="images/about_16.jpg" width="931" height="14"></td>
+  </tr>
+</tbody></table>
+<table width="931" border="0" align="center" cellpadding="0" cellspacing="0" background="images/bg_29-30.jpg">
+  <tbody><tr>
+    <td height="90">&nbsp;</td>
+  </tr>
+</tbody></table>
+
+<map name="Map" id="Map"><area shape="rect" coords="672,48,827,164" href="http://www.ecda.gov.sg/sparkinfo/Pages/Home.aspx" target="_blank">
+</map>
+
+
+
+</body><!-- Mirrored from sarada.edu.sg/album.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Dec 2023 14:53:44 GMT --></html>

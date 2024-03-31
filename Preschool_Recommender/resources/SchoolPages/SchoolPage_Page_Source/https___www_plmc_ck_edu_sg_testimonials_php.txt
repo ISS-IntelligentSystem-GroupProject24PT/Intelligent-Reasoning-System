@@ -1,0 +1,450 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" prefix="og: http://ogp.me/ns#" class=""><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta charset="utf-8">
+<!--<meta name="Author" content="Determination" />-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>PLMC Paya Lebar Methodist Church Covenant Kindergarten - Accolades &amp; Testimonials</title>
+
+<!--<meta property="analytics-track" content="DETERMINATION - Index" />
+<meta property="analytics-s-channel" content="homepage" />
+<meta name="Description" content="Insert SOUL Here, You're filled with DETERMINATION." />
+<meta property="og:title" content="Determination" />
+<meta property="og:description" content="Insert SOUL Here, You're filled with DETERMINATION." />
+<meta property="og:url" content="http://site.cyberland.edu.sg/miku/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Determination" />-->
+
+<!-- STYLE LINKS -->
+
+<link rel="stylesheet" href="css/main.css" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Kalam" rel="stylesheet">
+<!-- STYLE BLOCK -->
+
+<!-- SHOWS CURRENT PAGE -->
+
+<style>
+	#header nav ul #current-about a,
+	#header nav ul #current-about a:hover {
+		color: #FFFFFF;
+	}
+	#link5, #link5:hover {
+		/*background-color: #31C3E7;*/
+		/*background-color: #37bca5;*/
+		color: black;
+		font-weight: bolder;
+	}
+</style>
+
+<!-- SCRIPT LINK -->
+
+<!-- MOBILE NAV SOURCE -->
+
+<script src="src/jquery-1.9.1.min.js"></script>
+<script src="src/jPushMenu.js"></script>
+
+<!-- SCRIPT BLOCK -->
+
+<script>
+
+	<!-- TO THE TOP -->
+
+	$(document).on('click', '#tothetop2', function(){
+		$('html,body').animate({ scrollTop: 0 }, 500);
+	});
+
+	<!-- MOBILE NAV -->
+
+	jQuery(document).ready(function($) {
+		$('.toggle-menu').jPushMenu();
+	});
+	
+</script>
+
+</head>
+<body class="push-body">
+
+<!-- WRAPPER -->
+
+<div id="wrapper-outer">
+
+<!-- LOGO / MOBILE NAV 
+**Please copy and paste into each files instead of using php include as the mobile nav are linked to the javascript,
+  this is to prevent it from collision with other javascript -->
+
+<div id="Logo-wrapper">
+	<div id="container-logo">
+		<a href="index.php"><img src="img/PLMC-Logo-for-website-top.png" alt="Logo"></a>
+		<!--<a href="index.php"><img src="img/logo_plmc.png" alt="Logo" ></a>-->
+		<!--<h2 class="topbar_companyname">Paya Lebar Methodist Church Covenant Kindergarten</h2>-->
+	</div>
+	<div id="social-media">
+
+		
+		
+    
+<!------------------------------Mobile version side vertical menu start------------------------------>
+    	<nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" style="background-color: #293789;">
+			<h3 style="background-color: #293789;">Menu</h3>
+			<ul>
+            	<li id="cbplink1"><a href="index.php">Home</a></li>
+				<li id="cbplink2"><a href="aboutus-history.php">About Us</a></li>
+                <!--<li id="cbplink3"><a href="aboutus-visionmission.php#vision">Vision, Mission, Philosophy</a></li>-->
+				<!--<li id="cbplink4"><a href="aboutus-visionmission.php#mission">Mission</a></li>
+				<li id="cbplink5"><a href="aboutus-visionmission.php#philosophy">Philosophy</a></li>-->
+				<li id="cbplink6"><a href="programme-curriculum.php">Our Curriculum</a></li>
+				<li id="cbplink7"><a href="programme-learning.php#learningjourneys">Learning Journeys</a></li>
+				<li id="cbplink8"><a href="programme-learning.php#enrichmentprogramme">Enrichment Programme</a></li>
+				<li id="cbplink9"><a href="parentinfo.php">Parent Info</a></li>
+				<li id="cbplink10"><a href="testimonials.php">Testimonials</a></li>
+				<li id="cbplink11"><a href="gallery.php">Gallery</a></li>
+				<li id="cbplink12"><a href="admission.php">Admission</a></li>
+				<li id="cbplink13"><a href="contactus.php">Contact Us</a></li>
+				<!--<li id="cbplink3">
+                	<a href="">Curriculum &nbsp;&#x25BC;</a>
+            		<ul>
+                		<li id="cbp2nd1">
+                        	<a href="seeds-programme.php">Seeds Programme</a>
+                        </li>
+                		<li id="cbp2nd2">
+                        	<a href="jolly-programme.php">Jolly Programme</a>
+                       	</li>
+                	</ul>
+                </li>-->
+
+<!-- Mobile menu with multi-level items
+<li id="cbplink3">
+                	<a href="curriculum.php">Curriculum &nbsp;&#x25BC;</a>
+            		<ul>
+                		<li id="cbp2nd1">
+                        	<a href="#">Pre-Care</a><div class="arrow">&#x25BC;</div>
+                            <ul>
+                            	<li id="cbp3rd1"><a href="#">Nursery</a></li>
+                            	<li id="cbp3rd2"><a href="#">Pre-K</a></li>
+                            </ul>
+                        </li>
+                		<li id="cbp2nd2">
+                        	<a href="#">Child Care</a><div class="arrow">&#x25BC;</div>
+                            <ul>
+                            	<li id="cbp3rd3"><a href="#">K1</a></li>
+                            	<li id="cbp3rd4"><a href="#">K2</a></li>
+                            </ul>
+                       	</li>
+                	</ul>
+                </li>
+
+-->				
+				
+				
+				
+				
+            </ul>
+            <button class="toggle-menu menu-right push-body jPushMenuBtn" style="background-color:#293789; border: thin solid white;">Close</button>
+		</nav><!------------------------------Mobile version side vertical menu end------------------------------>
+		
+		
+		<div class="container">
+			<div class="main">
+				<button class="toggle-menu menu-right push-body jPushMenuBtn">Menu</button>
+			</div>
+		</div>
+        
+	</div>
+	
+    <div class="clear"></div>
+</div>
+
+<!-- INNER WRAPPER -->
+
+<div id="wrapper-inner">
+
+<!-- HEADER -->
+
+<div id="header">
+	<nav>
+    	<ul>
+        	<li>
+            	<a href="index.php"><div id="current-home"><div id="link1">
+                    	Home
+           	  </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="aboutus-history.php"><div id="current-about"><div id="link2">About Us
+              	</div></div></a>
+				
+            </li>
+            
+        	<li>
+            	<a href=""><div id="current-curriculum"><div id="link3">               	  Programme
+       	  		</div></div></a>
+    			<ul>
+      				<li>
+                    	<a href="programme-curriculum.php">
+                    	<div class="link2nd">Our Curriculum</div></a>
+                        
+                   	</li>
+      				<li>
+                    	<a href="programme-learning.php"><div class="link2nd">Learning Journeys</div></a>
+                    </li>
+					<li>
+                    	<a href="programme-learning.php#enrichmentprogramme"><div class="link2nd">Enrichment Programme</div></a>
+                    </li>
+    			</ul>
+                
+          	</li>
+            
+        	<li>
+            	<a href="parentinfo.php"><div id="current-gallery"><div id="link4">Parent Info
+            	</div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="testimonials.php"><div id="current-testimonies"><div id="link5">
+					Testimonials </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="gallery.php"><div id="current-career"><div id="link6">                    	Gallery
+           	  </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="admission.php"><div id="current-admission"><div id="link7">                    	Admission
+              	</div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="contactus.php"><div id="current-contact"><div id="link8">                    	Contact Us
+              	</div></div></a>
+            </li>
+        </ul>
+    </nav>
+</div>
+<div class="clear"></div>
+<!-- MAIN CONTENT -->
+
+<div id="content-main">
+	
+    <!-- TITLE -->
+    
+    <div id="title-background" class="testimonials-title-background-img">
+    	<!--<h1>About Us</h1>-->
+    </div>
+    
+    <!-- CONTAINER -->
+    
+    <div id="container-box">
+    	
+        <!-- TEXT Summary.etc. -->
+        <div id="container-text-1col">
+        <!--<div id="container-text">-->
+			<a name="testimonials"></a> 
+			<h2 class="title-testimonials">TESTIMONIALS</h2>
+			<hr>
+			
+			<!--<div style="width: 100%; height: 300px; background-color: #FFFFFF;">-->
+			<!--<h2 class="title2">History</h2>
+            <p>
+				Paya Lebar Methodist Church (PLMC) Covenant Kindergarten began as Covenant Nursery in 1986. PLMC Covenant Kindergarten started in 15 April 1991. It is registered with MOE and occupies the Covenant Centre at Boundary Road.
+			</p>
+			
+			<p>
+				In January 1999, the kindergarten moved back to Boundary Road from Elling Primary School (temporary location). With the beautiful new Sanctuary and Covenant Centre standing out at the junction of Upper Serangoon Road and Boundary Road, we hope to be a Beacon of Light to all around us. We provide a premier pre-school education as well as Christian values and compassion to the neighbourhood.
+			</p>-->
+			
+<!------------------------------Testimonial 1 START------------------------------>
+				<div class="testimonial-container">
+				<p>	
+           			<span class="testimonialquotes1">“</span>
+						The staff and teachers are very caring and loving towards my two girls and boy. They are indeed professional and passionate towards preschool teaching. To me, preschool is a very important step for the children to enjoy learning and not so focussed on academic outcomes. If the children feel that they are being loved and cared for, and feel secured, they will enjoy going to school and look forward to it every day. A big thank you to all the staff and teachers.
+                  	<span class="testimonialquotes2">”</span>
+              	</p>
+                <p class="testimonialname">
+					Alice Ee
+                </p>	
+            	</div>
+<!------------------------------Testimonial 1 END------------------------------>
+			
+<!------------------------------Testimonial 1 START------------------------------>
+				<div class="testimonial-container">
+				<p>	
+           			<span class="testimonialquotes1">“</span>
+						Very caring teachers, well-maintained classrooms. Both my children enjoy learning and are happy coming to school. Thanks for the hard work!
+                  	<span class="testimonialquotes2">”</span>
+              	</p>
+                <p class="testimonialname">
+					Rachel
+                </p>	
+            	</div>
+<!------------------------------Testimonial 1 END------------------------------>
+			
+<!------------------------------Testimonial 1 START------------------------------>
+				<div class="testimonial-container">
+				<p>	
+           			<span class="testimonialquotes1">“</span>
+						Excellent school focusing on the overall development. Good to see my son learning all the time.
+                  	<span class="testimonialquotes2">”</span>
+              	</p>
+                <p class="testimonialname">
+					Govindan Sainivasan
+                </p>	
+            	</div>
+<!------------------------------Testimonial 1 END------------------------------>
+			
+<!------------------------------Testimonial 1 START------------------------------>
+				<div class="testimonial-container">
+				<p>	
+           			<span class="testimonialquotes1">“</span>
+						Very thankful to God having all beautiful teachers/staff for helping my child grow and shine.
+                  	<span class="testimonialquotes2">”</span>
+              	</p>
+                <p class="testimonialname">
+					KumShinh Yee
+                </p>	
+            	</div>
+<!------------------------------Testimonial 1 END------------------------------>
+			
+<!------------------------------Testimonial 1 START------------------------------>
+				<div class="testimonial-container">
+				<p>	
+           			<span class="testimonialquotes1">“</span>
+						Very grateful for all the care and concern given to the children.
+                  	<span class="testimonialquotes2">”</span>
+              	</p>
+                <p class="testimonialname">
+					Sabrina Soo
+                </p>	
+            	</div>
+<!------------------------------Testimonial 1 END------------------------------>			
+				
+<!------------------------------Testimonial 1 START------------------------------>
+				<div class="testimonial-container">
+				<p>	
+           			<span class="testimonialquotes1">“</span>
+						Our son entered Covenant Kindergarten in 2015 and had greatly benefited from the holistic education provided! The amount of love, care and concern showered upon him by all his teachers from pre-nursery through K2 had been incredible! We have since sent our daughter to the same kindergarten as we would also like her to grow up with the values and kindness which her brother is exhibiting. We highly commend Covenant Kindergarten’s early education via discovery and play, and most of all, the teachers who are definitely, the crown jewels.
+                  	<span class="testimonialquotes2">”</span>
+              	</p>
+                <p class="testimonialname">
+					Raymond Poh and Su-Yin Goh
+                </p>	
+            	</div>
+<!------------------------------Testimonial 1 END------------------------------>
+				
+				
+<!------------------------------Testimonial 2 START------------------------------>
+				<div class="testimonial-container">
+				<p>	
+           			<span class="testimonialquotes1">“</span>
+						The best thing about this preschool is that the everyone really loves the children, ranging from teachers to all the other staff. To my understanding, this is the most important thing in a child’s healthy and holistic development, and my daughter’s response to this love – she really enjoys going to school. And the teachers teach well too.
+                  	<span class="testimonialquotes2">”</span>
+              	</p>
+                <p class="testimonialname">
+                	Wei Nurn
+                </p>	
+            	</div>
+<!------------------------------Testimonial 2 END------------------------------>				
+				
+<!------------------------------Testimonial 3 START------------------------------>
+				<div class="testimonial-container">
+				<p>	
+           			<span class="testimonialquotes1">“</span>
+						When we first came to Paya Lebar Methodist Church, we didn’t think much about Covenant Kindergarten as we had just gotten married and children weren’t on our minds at that time. <br><br>
+					
+						Sixteen years later and with five children, Covenant Kindergarten is now a part of our daily routine. Our eldest child enrolled in 2008, and our youngest is now in the Pre-Nursery Agape class. <br><br>
+					
+						Throughout these eleven years with Covenant Kindergarten, we’ve seen how it has evolved to keep up with current education standards in Singapore. But the love the school has for the children and the values imparted have never changed. Covenant Kindergarten has consistently provided a safe, fun and loving environment for the children to learn. It has prepared children academically for primary school. The necessary social skills and Christian values groom our children to be a compassionate, confident and responsible members of society. <br><br>
+
+						Till today, our children who have graduated still remember their favourite teachers for the love and care showered upon them. Our family has been immensely blessed by the love and dedication of all the teachers and staff of Covenant Kindergarten. We pray that Covenant Kindergarten will continue to be a blessing to the children, who in turn will be a blessing to the community and the nations.
+                  	<span class="testimonialquotes2">”</span>
+              	</p>
+                <p class="testimonialname">
+                	Ralph and Daphne Chua
+                </p>	
+            	</div>
+<!------------------------------Testimonial 3 END------------------------------>				
+				
+            <div class="clear"></div>
+            
+            <!--<div id="tothetop"><img src="img/tothetop.png" alt="To The Top"></div>-->
+           
+    	</div><!--container-text-1col-->
+        
+        
+        
+        
+    </div><!--container-box-->
+    
+    <!-- END OF CONTAINER -->
+    
+    <div class="clear"></div>
+       <div id="tothetop2"><img src="img/tothetop.png" alt="To The Top"></div>
+ 
+</div><!--content-main-->
+
+<!-- END OF MAIN CONTENT -->
+
+
+
+</div><!--wrapper-inner-->
+
+<!-- END OF INNER WRAPPER -->
+<!-- FOOTER -->
+
+<footer>
+	<h6 class="copyright-texts">© Paya Lebar Methodist Church Covenant Kindergarten</h6><br>
+
+	<div class="footer_container1a">
+		<div class="footer_container2">
+			<img src="img/footer-address-icon.png" alt="address">
+			<p>
+			<span class="footerheader">Address:</span><br>
+			<span class="footertexts">5 Boundary Road, Singapore 549954</span>	
+				
+			</p>
+		</div>	
+			
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-officehours-icon.png" alt="office hours">
+			<p>
+			<span class="footerheader">Office Hours:</span><br>
+			<span class="footertexts">Monday to Friday, 8am to 4pm</span>	
+				
+			</p>
+		</div>
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-telephone-icon.png" alt="telephone">
+			<p>
+			<span class="footerheader">Telephone:</span><br>
+			<span class="footertexts">6285 3730</span>	
+				
+			</p>
+		</div>
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-email-icon.png" alt="email">
+			<p>
+			<span class="footerheader">Email:</span><br>
+			<span class="footertexts">kindergarten@plmc.org </span>	
+				
+			</p>
+		</div>
+	</div>
+	<div class="clear"></div>
+</footer></div><!--wrapper-outer-->
+
+<!-- END OF WRAPPER -->
+
+
+
+</body></html>

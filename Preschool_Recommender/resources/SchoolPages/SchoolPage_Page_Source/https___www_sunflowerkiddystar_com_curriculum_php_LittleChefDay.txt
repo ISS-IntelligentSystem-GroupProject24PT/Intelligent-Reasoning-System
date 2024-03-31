@@ -1,0 +1,874 @@
+<html xmlns="http://www.w3.org/1999/xhtml" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths js cssanimations"><head><style type="text/css"></style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Curriculum</title>
+<link href="css/template2.css" rel="stylesheet" type="text/css">
+<link href="css/dynamic.css" rel="stylesheet" type="text/css">
+
+<!--<link href="css/coolMenu-consultancy.css" rel="stylesheet" type="text/css" />-->
+
+<link rel="stylesheet" type="text/css" media="screen" href="jquery/css/custom-theme/jquery-ui-1.8.17.custom.css">
+<link rel="stylesheet" type="text/css" media="screen" href="jquery/jqGrid/src/css/ui.jqgrid.css">
+<style type="text/css">
+<!--
+.ui-jqgrid .ui-userdata { 
+    height: 33px; /* default value in ui.jqgrid.CSS is 21px */ 
+} 
+
+.ui-jqgrid tr.jqgrow td {
+    white-space: normal !important;
+    height:auto;
+    vertical-align:text-top;
+    padding-top:2px;
+}
+
+
+#TickerVertical li .NewsTitle{
+	display: block;
+	background:#FCF1B2;
+	color: #000000;
+	font-size: 12px;
+	font-weight:bold;
+	margin-bottom:6px;
+}
+#TickerVertical li .NewsFooter{
+	display: block;
+	background:#FCF1B2;
+	color: #000000;
+	font-size: 10px;
+	margin:6px 0 0 0;
+}
+
+div#SubpgContentContainer3{
+	position:relative;
+	//top: 110px;
+	left: -44px;
+	width:: 900px;
+	/*width: 95%;*/
+	/*background-color:#CCC;*/
+	padding: 0px 0px 0px 0px;
+	overflow: auto;
+}
+
+div#SubPgLeftMenu3{
+	position:relative;
+	display:block;
+	float:left;
+	margin-bottom: 30px;
+	margin-left: 5px;
+	left: 10px;
+	width: 900px;
+	/*background-color: #06C ;*/
+}
+
+div#SubpgContent2e{
+	position:relative;
+	display:block;
+	float:left;
+	margin-bottom: 30px;
+	margin-left: 5px;
+	left: 10px;
+	width: 900px;
+	top: 40px;
+	padding:0 0 30px 0px;
+	
+}
+
+
+div.PhotoGalleyThumb{
+	float:left;
+	width: 120px;
+	height: 106px;
+	padding: 5px;
+}
+
+-->
+</style>
+
+<script type="text/javascript" src="scripts/jquery-1.7.1.min.js"></script>
+<script src="jquery/js/jquery-ui-1.8.17.custom.min.js" type="text/javascript"></script>
+<script src="js/slimbox2.js" type="text/javascript"></script>
+<link href="css/slimbox2.css" rel="stylesheet" type="text/css">
+<script src="jquery/jqGrid/js/i18n/grid.locale-en.js" type="text/javascript"></script>
+<script type="text/javascript">
+	$.jgrid.no_legacy_api = true;
+	$.jgrid.useJSON = true;
+</script>
+<script src="jquery/jqGrid/js/jquery.jqGrid.min.js" type="text/javascript"></script>
+<script src="jquery/jqGrid/plugins/jquery.tablednd.js" type="text/javascript"></script>
+<script src="jquery/jqGrid/plugins/jquery.contextmenu.js" type="text/javascript"></script>
+
+
+
+<script>
+
+
+
+function showPwd(nox){
+	if (nox=="1"){
+		$("#pwd1").show();
+		$("#pwd2").show();
+		$("#password").val("");
+	}else{
+		$("#pwd1").hide();
+		$("#pwd2").hide();
+	}
+}
+
+function chksubmit(){
+	if ((/\S/.test(document.getElementById("userid").value)) && (/\S/.test(document.getElementById("password").value))) 
+	// if there are no non-white space characters... for both
+	{	
+		return true;
+	}		
+	else
+	{ 	
+		return false; 
+	}
+}
+
+</script>
+
+
+
+<!--Top menu Superfish section-->
+<link rel="stylesheet" href="superfish-master/dist/css/superfish-template2.css" media="screen">
+<link rel="stylesheet" href="superfish-master/dist/css/superfish-template3-admin.css" media="screen">
+<script type="text/javascript" src="js/jquery-1.8.1.min.js"></script>
+<script type="text/javascript" src="js/modernizr-1.6.min.js"></script>
+<script src="superfish-master/dist/js/hoverIntent.js"></script>
+<script src="superfish-master/dist/js/superfish.js"></script>
+		<script>
+
+		(function($){ //create closure so we can safely use $ as alias for jQuery
+
+			$(document).ready(function(){
+
+				// initialise plugin
+				var example = $('#example').superfish({
+					//add options here if required
+				});
+
+				// buttons to demonstrate Superfish's public methods
+				$('.destroy').on('click', function(){
+					example.superfish('destroy');
+				});
+
+				$('.init').on('click', function(){
+					example.superfish();
+				});
+
+				$('.open').on('click', function(){
+					example.children('li:first').superfish('show');
+				});
+
+				$('.close').on('click', function(){
+					example.children('li:first').superfish('hide');
+				});
+			});
+
+		})(jQuery);
+
+
+		</script>
+
+
+
+<!--Nivo Slider section-->
+<!--<link href="css/nivo slider 2.71 styles.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="nivo-slider2.7.1/themes/default/default.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider2.7.1/themes/pascal/pascal.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider2.7.1/themes/orman/orman.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider2.7.1/nivo-slider.css" type="text/css" media="screen" />-->
+
+
+
+<script type="text/javascript">
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+
+function MM_goToURL() { //v3.0
+  var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+  for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+</script>
+
+
+<!------------------------------Slideshow cycle------------------------------>
+<script type="text/javascript" src="js/jquery.cycle.all.js"></script>
+<script type="text/javascript">
+$('.slideshow1').cycle({ 
+    fx:     'fade', 
+    speed:   1500, 
+    timeout: 3000 
+});
+</script>
+
+<script type="text/javascript">
+$('.slideshow2').cycle({ 
+    fx:     'fade', 
+    speed:   1500, 
+    timeout: 3000 
+});
+</script>
+
+<script type="text/javascript">
+$('.slideshow3').cycle({ 
+    fx:      'turnDown', 
+    delay:   -4000 
+});
+</script>
+
+<script type="text/javascript">
+$('.slideshow4').cycle({ 
+    fx:      'turnUp', 
+    delay:   -1000 
+});
+</script>
+
+<!------------------------------Slideshow cycle------------------------------>
+
+	<!--<link rel="stylesheet" href="jQueryTimelinr_0952/css/style-timeline.css" media="screen" />-->
+
+    
+    
+<!--Rhino Slider section (Homepage Testimonials)-->
+		<!--<link type="text/css" rel="stylesheet" href="css/rhinoslider-1.05.css" />-->
+		<!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+		<script type="text/javascript" src="js/rhinoslider105/rhinoslider-1.05.min.js"></script>
+		<script type="text/javascript" src="js/rhinoslider105/mousewheel.js"></script>
+		<script type="text/javascript" src="js/rhinoslider105/easing.js"></script>-->
+		<!--<script type="text/javascript">
+			$(document).ready(function(){
+				$('#slider').rhinoslider();
+			});
+		</script>-->
+        <!--<script type="text/livescript">
+			$(document).ready(function() {
+				$('#slidertestimonials').rhinoslider({
+					showTime: 5000,
+					effectTime: 800,
+					controlsPrevNext: false,
+					controlsPlayPause: false,
+					autoPlay: true,
+					showBullets: 'never',
+					showControls: 'never',
+					slidePrevDirection: 'toBottom',
+					slideNextDirection: 'toTop'
+				});
+			});
+</script>-->
+
+<style type="text/css">
+			
+			#slidertestimonials {
+				position:relative;
+				top: 5px;
+				left: 14px;
+				width:250px;
+				height:180px;
+				/*background:#096;*/
+				
+				/*IE bugfix*/
+				padding:0;
+				margin:0;
+			}
+			
+			#slidertestimonials li { list-style:none; }
+			
+			#page {
+				width:300px;
+				margin:50px auto;
+			}
+		</style>  
+          
+
+<!-- News Ticker section Only include in page that display ticker else DOM error in IE 7 -->
+<!--<link href="css/ticker-style.css" rel="stylesheet" type="text/css" />-->
+<!--<script type="text/javascript" src="js/jquery-1.8.1.min.js"></script>
+<script type="text/javascript" src="js/modernizr-1.6.min.js"></script>-->
+<!--<script src="js/jquery.ticker.js" type="text/javascript"></script>-->
+
+
+<!-- Start News Ticker-->
+<!--<script type="text/javascript">
+$(function () {
+        $('#js-news').ticker();
+    })
+</script>-->
+
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+
+<!--<script src="Scripts/swfobject_modified.js" type="text/javascript"></script>-->
+<!--video-overlay-html5-->
+<!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+<script type="text/javascript">$(document).ready(function() 
+{	
+    modals.init();
+});
+    
+var modals = 
+{
+    autoplay:true,
+    init:function()
+    {
+        $(".videoPlayer").dialog({
+            width: 576,
+            height: 324,
+            autoOpen: false,
+            resizable: false,
+            show: {
+            effect: 'fade', 
+            duration: 1000
+        },
+        hide: {
+            effect: "fade",
+            duration: 1000
+            }
+        });
+
+        $(".videoPlayer").each(function()
+        {
+            $('.ui-widget-header').remove();
+        });
+
+        $( ".loadVideo" ).click(function() {
+ 
+            var videoPlayerId = $(this).attr('id') + 'player';
+            $("#" + videoPlayerId).dialog("open");
+            if(modals.autoplay == true)
+            {
+                $('#' + videoPlayerId)[0].play();
+            }
+            $('#overlay').fadeIn();
+        });
+
+        $(document).mouseup(function (e)
+        {
+            if($('.videoPlayer').is(':visible'))
+            {
+                console.log('run');
+                var container = $(".videoPlayer");
+
+                if (!container.is(e.target) 
+                    && container.has(e.target).length === 0) 
+                {
+                    container.dialog("close");
+                    $('#overlay').fadeOut(1500);
+
+                    $('video').each(function() 
+                    {
+                        $(this)[0].pause();
+                    });
+                }
+            }
+        });
+    }
+}</script>       
+
+ <style>.videoContainer
+{
+    width:10px;
+    height: 100px;
+    margin:20px;
+    display:inline-block;
+    cursor: pointer;
+}
+.ui-dialog .ui-dialog-content
+{
+    position: relative;
+    border: 0;
+    padding: 0;
+    overflow:hidden;
+}
+.ui-widget-content
+{
+    padding:0;
+    border:none;
+}
+.overlay 
+{
+    background:rgba(0,0,0,0.8);
+    display:none;
+    width:100%; 
+    height:100%;
+    position:fixed; 
+    top:0; 
+    left:0; 
+    z-index:200;
+}
+
+
+</style> 
+
+
+<!--Accordian-->
+        <link rel="stylesheet" type="text/css" href="CSS3Accordion/css/CSS3Accordion-style-sunflowerbaby.css">
+		<script type="text/javascript" src="CSS3Accordion/js/modernizr.custom.29473.js"></script>
+
+<!--Smooth scroll to anchor points-->
+<!--<script src="js/smooth-scroll.js" type="text/javascript"></script>-->
+</head>
+
+<body>
+
+<div id="outerDiv" class="subpage">   
+    <!------------------------------ Top Section START ------------------------------>	
+   	  <div id="TopHeaderContainer" class="subpage" style="position: fixed;">
+      		<div id="TopLogoContainer" class="subpage">
+            	<a href="index.php"><img src="images/sub-logo.png" width="226" height="103"></a>
+           </div>
+            
+
+<!----------------------------------------------------------------Top Navigation Menu ---------------------------------------------------------------->            
+        	<div id="TopNavContainer" class="subpage">
+                  	
+
+
+              <ul class="sf-menu sf-js-enabled sf-arrows" id="example">
+
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px; ">
+                     <a name="top">   </a><a href="index.php">Home</a> 
+                        </div>
+                    </li>
+                                
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px;">
+                        <a href="mission.php">About Us</a>
+							<ul>
+                                <div class="dropdown-menu">
+                                <li><a href="mission.php#Overview">Overview</a>
+                                </li>
+                                <li><a href="mission.php#Vision">Vision</a>
+                                </li>
+                                <li><a href="mission.php#Mission">Mission</a>
+                                </li>
+                                <li><a href="mission.php#CoreValue">Core Values</a>
+                                </li>
+								<li><a href="mission.php#OurTeam">Our Team</a>
+                                </li>
+								<li><a href="mission.php#Accolades">Our Accolades</a>
+                                </li>	
+                              </div>
+                          </ul>
+							
+                        </div>
+                  </li>
+                  
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px;">
+                        <a href="curriculum.php">Curriculum</a>
+                        	<ul>
+                                <div class="dropdown-menu">
+                                <li><a href="curriculum.php#MultipleIntelligences">Multiple Intelligences</a></li>
+                                <li><a href="curriculum.php#BilingualProgramme">Bilingual Programme</a></li>
+                                <li><a href="curriculum.php#LearningJourneys">Learning Journeys</a></li>
+                                <li><a href="curriculum.php#FestivalCelebrations">Festival Celebrations</a></li>
+								<li><a href="curriculum.php#SpeechChoir">Speech Choir</a></li>	
+                                <li><a href="curriculum.php#LittleChefDay">Little Chef Day</a></li>
+                              </div>
+                          </ul>
+                      </div>
+                  </li>                 
+                  <li>
+                        <div class="topmenu-icon" style="margin-top:-12px;">
+							<a href="programme.php">Programmes</a>
+                            <ul>
+                                <div class="dropdown-menu">
+                                <li><a href="programme.php#Playgroup" style="padding-bottom:5px;">Playgroup</a></li>
+                                <li><a href="programme.php#Nursery1">Nursery One</a></li>
+                                <li><a href="programme.php#Nursery2">Nursery Two</a></li>
+                                <li><a href="programme.php#K1K2">Kindergarten One</a></li>
+                                <li><a href="programme.php#K1K2">Kindergarten Two</a></li>
+                                <li><a href="programme.php#Enrichment">Enrichment Programmes</a></li>
+                                <li><a href="programme.php#SchoolFees">School Fees</a></li>
+                                </div>
+                            </ul>
+                        </div>
+                    </li>
+                                
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px;">
+                        <a href="parentsay.php">Parent Partnership</a>
+                        <ul>
+                                <div class="dropdown-menu">
+                                <li><a href="parentsay.php#PPP">Parent Partnership Program</a></li>
+                                <li><a href="parentsay.php#Testimonial">Parent's Testimonials</a></li>
+                                <li><a href="parentsay.php#Resources">Resources</a></li>
+                                </div>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px;">
+                        <a href="gallery.php">Gallery</a><a href="career.php"></a>
+                        <ul>
+                                <div class="dropdown-menu">
+                                <li><a href="gallery.php#Newsletter">Newsletter </a></li>
+                                <li><a href="gallery.php#Gallery">Event Gallery</a></li>
+                                </div>
+                            </ul>
+                        </div>
+                    </li>
+                    
+                    <li>
+                    	<div class="topmenu-icon" style="margin-top:-12px;">
+                        <a href="contact.php">Contact Us</a>
+                        <ul>
+                                <div class="dropdown-menu">
+                                <li><a href="contact.php#Location">Location</a></li>
+                                <li><a href="contact.php#Career">Career</a></li>
+                                <li><a href="contact.php#Centres">Sunflower Centres</a></li>
+                                </div>
+                            </ul>
+                        </div>
+                    </li>
+                    
+                    <!--<li id="related">
+                    	<div class="topmenu-icon">
+                        <a href="login.php">Staff Login</a>
+                        </div>
+                    </li>-->
+                                
+                    <!--<li id="related">
+                    	<div class="topmenu-icon">
+                        <a href="#">Parent Portal</a>
+                        </div>
+                    </li>
+                                
+                    <li id="related">
+                    	<div class="topmenu-icon">
+                        <a href="login.php">Login</a>
+                       	</div> 
+                    </li>-->
+              </ul>
+              
+            <!--<div id="topmenu-buttons">
+            	<a href="#" >Parent Portal</a>
+            </div>-->
+            
+            
+            </div>
+		  
+		       <!--go to top of page-->           
+				<div id="ArrowUp" class="subpage">
+					<a href="#top"><img src="images/arrow.png" width="40" height="40" alt=""></a> 
+				</div>
+			 <!--go to top of page--> 
+		  
+  </div><!--TopHeaderContainer-->
+	<div id="TopBannerContainer">
+            	<img src="images/Curriculumbanner.jpg" width="1200" height="350">
+          </div>
+<!------------------------------ Top Section END ------------------------------>	
+
+<!------------------------------ Left Section START ------------------------------>	
+		<a class="anchor" id="top"></a>
+	  <div id="SubpageLeftContainer">
+
+		
+        <a class="anchor" id="Curriculum"></a><h1 class="subpage-header">
+    			 Our Curriculum
+            </h1>
+            <a class="anchor" id="MultipleIntelligences"></a><h4> Multiple Intelligences Approach</h4>
+            <br>
+            
+            <table width="703" border="0" class="tablepush">
+				    <tbody>
+				      <tr>
+				        <td width="171"><img src="images/DrHoward.jpg" width="123" height="140" alt=""></td>
+				        <td width="600">
+                          
+                            <p class="bodytexts" style="margin-top: -4px;">
+                              The theory of multiple intelligences was developed by Dr. Howard Gardner, professor of education at Harvard University. It suggests that the traditional notion of intelligence, based on I.Q. testing, is far too limited. Instead, Dr. Gardner proposes eight different intelligences to account for a broader range of human potential in children and adults. These intelligences are: </p>
+                          
+                        </td>
+			          </tr>
+			        </tbody>
+	       </table>
+            
+		
+          
+          
+        <a name="MultipleIntelligences"><h2 class="SubpageTitle2" style="margin-top: 58px;">Linguistic Intelligence (Word Smart)</h2></a>
+        <table width="703" border="0" class="tablepush">
+            <tbody>
+              <tr>
+                <td width="96" height="81"><img src="images/word smart2.png" alt="" width="74" height="81" align="middle"></td>
+                <td width="597"><p class="bodytexts" style="margin-top: -1px;">Children with verbal-linguistic intelligence display good languages ability. They are typically good at reading, writing and telling stories.</p></td>
+              </tr>
+            </tbody>
+          </table>
+        
+        <h2 class="SubpageTitle2" style="margin-top: 30px;">Logical-Mathematical intelligence (Number Smart)</h2>
+          <table width="703" border="0" class="tablepush">
+            <tbody>
+              <tr>
+                <td width="96" height="81"><img src="images/logic smart2.png" alt="" width="74" height="81" align="middle"></td>
+                <td width="597"><p class="bodytexts" style="margin-top: -1px;">Children who are strong in logical-mathematical intelligence are able to think conceptually about numbers, relationships, and patterns. They are good at reasoning, recognizing patterns, and logically analysing problems. </p></td>
+              </tr>
+            </tbody>
+          </table>
+          
+          <h2 class="SubpageTitle2" style="margin-top: 30px;">Spatial Intelligence (Picture Smart)</h2>
+          <table width="703" border="0" class="tablepush">
+            <tbody>
+              <tr>
+               <td width="96" height="81"><img src="images/picture smart2.png" alt="" width="74" height="81" align="middle"></td>
+               <td width="597"><p class="bodytexts" style="margin-top: -1px;">Children with high spatial intelligence are good at visualizing things. They have a good sense of directions. Learning through videos and pictures excite them.
+ </p></td>
+              </tr>
+            </tbody>
+          </table>
+          
+        
+          <h2 class="SubpageTitle2" style="margin-top: 30px;">Kinesthetic Intelligence (Body Smart)</h2>
+          <table width="703" border="0" class="tablepush">
+            <tbody>
+              <tr>
+               <td width="96" height="81"><img src="images/body smart2.png" alt="" width="74" height="81" align="middle"></td>
+               <td width="597"><p class="bodytexts" style="margin-top: -1px;">Those who have high kinesthetic intelligence are good at body movement, performing actions, and physical control. They tend to have excellent hand-eye coordination and dexterity. They made good dancer, sportsman or actor.</p></td>
+              </tr>
+            </tbody>
+          </table>
+
+          <h2 class="SubpageTitle2" style="margin-top: 30px;">Musical Intelligence (Music Smart)</h2>
+          <table width="703" border="0" class="tablepush">
+            <tbody>
+              <tr>
+               <td width="96" height="81"><img src="images/music smart2.png" alt="" width="74" height="81" align="middle"></td>
+               <td width="597"><p class="bodytexts" style="margin-top: -1px;">Children with strong musical intelligence are good with music, rhythms, and sounds. They learn best through music and are good at performing, singing or composing.</p></td>
+              </tr>
+            </tbody>
+          </table>
+
+          <h2 class="SubpageTitle2" style="margin-top: 30px;">Interpersonal Intelligence (People Smart)</h2>
+          <table width="703" border="0" class="tablepush">
+            <tbody>
+              <tr>
+               <td width="96" height="81"><img src="images/people smart2.png" alt="" width="74" height="81" align="middle"></td>
+               <td width="597"><p class="bodytexts" style="margin-top: -1px;">Children who have strong interpersonal intelligence are good at understanding, relating and interacting with other people.</p></td>
+              </tr>
+            </tbody>
+          </table>
+
+          <h2 class="SubpageTitle2" style="margin-top: 30px;">Intrapersonal Intelligence (Self Smart)</h2>
+          <table width="703" border="0" class="tablepush">
+            <tbody>
+              <tr>
+               <td width="96" height="81"><img src="images/self smart2.png" alt="" width="74" height="81" align="middle"></td>
+               <td width="597"><p class="bodytexts" style="margin-top: -1px;">Children have excellent sense of self-awareness of their own emotional states, feelings, and motivations. They are good at self-reflection and assessing their personal strengths.</p></td>
+              </tr>
+            </tbody>
+          </table>
+
+          <h2 class="SubpageTitle2" style="margin-top: 30px;">Naturalist Intelligence (Nature Smart)</h2>
+          <table width="703" border="0" align="left" class="tablepush" style="padding-bottom: 20px;">
+            <tbody>
+              <tr>
+               <td width="96" height="81"><img src="images/nature smart2.png" alt="" width="74" height="81" align="middle"></td>
+               <td width="597"><p class="bodytexts" style="margin-top: -1px;">Children who are high in this type of intelligence appreciate nature. They enjoyed activities that allowed them to explore the environment.</p></td>
+              </tr>
+            </tbody>
+          </table>
+          
+          
+          
+
+
+<p class="bodytexts" style="margin-top:20px;">Inspired by Dr Howard Gardner Multiple Intelligence (MI) theory, Sunflower Kiddy Star Preschool adopts Multiple Intelligence Approach into our thematic curriculum. It provides eight different potential pathways to learning, leveraging and building on the children’s innate strengths and abilities. We believe every child is unique and has potential to do great things. </p>
+
+<p class="bodytexts">Our curriculum is thoughtfully designed for children from 18 months to 6 years old engaging children with eight MI activities to develop children holistically. It aims to develop our children in knowledge acquisition, academic and life skills, character development, school readiness skills and lifelong learning attitude. 
+</p>
+
+          <p style="margin-bottom:30px;"></p>
+
+		<a class="anchor" id="BilingualProgramme"></a><h1 class="subpage-header">
+    			 Bilingual Programme
+            </h1>
+                
+		<table width="703" height="130" border="0" class="tablepush">
+            <tbody>
+              <tr>
+               <td width="117" height="150"><img src="images/bilingual1.jpg" alt="" width="139" height="155" align="middle">
+               <br><br>
+               <img src="images/bilingual2.jpg" alt="" width="139" height="155" align="middle"></td>
+               <td width="463"><p class="bodytexts" style="margin-top:-4px;">Sunflower Kiddy Star Preschool offers a dual language programme. The Chinese Language programme is delivered to all classes on a daily basis and children can interact and communicate with the Chinese Teachers throughout the day to ensure the children have significant exposure to the language. </p>
+               <p class="bodytexts">The Chinese Language Curriculum is holistic based on our Multiple Intelligence approach that integrates various learning experiences aimed at stimulating the children’s love and interest in Chinese language as well as developing children’s knowledge and skills in listening, speaking, reading, penmanship, writing skills and spelling. Hanyu Pinyin programme is introduced at Kindergarten Two Level to ease K2 children transition to Primary One. </p>
+               <p class="bodytexts"> In addition, the children are taught the values of Di Zi Gui character education that emphasises the basic requisites for being a good person and guidelines for living in harmony with others.</p></td>
+              </tr>
+            </tbody>
+		</table>
+
+          <p style="margin-bottom:30px;"></p>
+        
+        
+        <a class="anchor" id="LearningJourneys"></a><h1 class="subpage-header">
+    			 Learning Journeys
+        </h1><table width="703" height="130" border="0" class="tablepush">
+            <tbody>
+         <tr>   
+            
+         </tr>
+              <tr>
+               <td width="156" height="126"><img src="images/lj1.jpg" width="138" height="219" alt=""></td>
+               <td width="394"><p class="bodytexts" style="margin-top:-4px;">Field Trips are planned quarterly. It is organised with specific purpose aligning to the termly thematic curriculum. Children will embark on experiential learning journey allowing them to connect what they have learnt in class to real-life application and enabling them to build upon what they have learnt in class. </p>
+                 <p class="bodytexts">Through experiential learning, children are able to construct new knowledge about the world around them. In addition, leaving the classroom for a field trip places the 
+                   children in a different social environment
+                   and new interactions. It gives them the 
+                   opportunity to build closer bonds with 
+                   their classmates and fosters a sense of teamwork and community among the 
+                children as they experienced a field trip together.</p></td>
+               <td width="139" height="126"><img src="images/lj2.jpg" alt="" width="124" height="152" align="right"></td>
+              </tr>
+            </tbody>
+        </table>
+          
+          <p style="margin-bottom:20px;"></p>
+                
+			<a class="anchor" id="FestivalCelebrations"></a><h1 class="subpage-header">
+    			 Festival Celebrations
+			</h1>
+        <table width="703" height="130" border="0" class="tablepush">
+            <tbody>
+              <tr>
+               <td width="255" height="126"><img src="images/festival celebrations.jpg" width="244" height="155" alt=""></td>
+               <td width="438"><p class="bodytexts" style="margin-top:-4px;">The school organises major festival celebrations for the children. Festivals are an important part of our life and it creates an environment of cultural harmony and teaches children to embrace one another in a bond of love. Through our festival celebration programme, children are exposed to different
+cultural and national diversity around the world.</p></td>
+              </tr>
+            </tbody>
+          </table>
+          <p style="margin-bottom:30px;"></p>
+
+		  <table width="703" height="130" border="0" class="tablepush">
+        	  <tbody>
+        	    <tr>
+        	      <td>
+					  <a class="anchor" id="SpeechChoir" name="SpeechChoir"></a><h1 class="subpage-header">Speech Choir </h1>
+       	          <p class="bodytexts">Children learn to recite speeches aloud in unison in a group to bring the speech to life. Children will develop performing art skills and communicate with confidence through voice, actions and emotions with proper articulation and dictation.</p></td>
+      	      </tr>
+        	    <tr>
+        	      <td><img src="images/speech choir.png" width="523" height="224" alt=""></td>
+      	      </tr>
+      	    </tbody>
+      	  </table>
+
+          <p style="margin-bottom:30px;"></p>
+  
+        <table width="703" height="130" border="0" class="tablepush">
+            <tbody>
+              <tr>
+               <td width="463">
+				   <a class="anchor" id="LittleChefDay" name="LittleChefDay"></a><h1 class="subpage-header">Little Chef Day </h1>
+                <p class="bodytexts">Little Chef Day is a quarterly event that introduces our little chefs to new culture through cookery lessons. Cookery sessions promote children appreciation of diversity in ethnic food.  Cooking is not only a fun and engaging activity for children, it also encourages discovery and creativity and promotes holistic development.</p></td>
+              </tr>
+              <tr><td width="117" height="126"><img src="images/chef1.jpg" width="244" height="155" alt="">
+              <img src="images/chef2.jpg" width="244" height="155" alt=""></td>
+              </tr>
+            </tbody>
+        </table>
+                
+                
+                
+                
+                
+      </div> 
+<!------------------------------ Left Section END ------------------------------>	
+<div id="relativeContainer">
+
+            		
+				
+		<div id="SubpagePictureLeftContainer2">
+        
+										<div id="SubTestimonialContainer">
+     <!------------------------------ Insert Update Contents here START ------------------------------>	
+    
+                                                        
+                                                          <a href="parentsay.php#Janette" class="testimonial">
+                                                          <p align="left" class="testimonialnamebox" style="bold; margin-top:-5px;">
+                                                          <br>
+                                                              I enjoyed the school field
+                                                              trips where they made an
+                                                              effort to connect to the
+                                                              curriculum theme.
+                                                          </p>
+                                                          
+                                                          <br>
+                                                          
+                                                          <p class="testimonialpositionbox">   
+                                                              Janette Koh, <br>
+																mother of child from N2 class
+                                                          </p>  
+       															
+														</a>
+    
+										</div>    
+                                                      
+                <a href="contact.php#Visit"><div id="SubFlashContainer" class="subpage">
+                        
+                </div></a> 
+                 
+                	
+		</div>
+        
+</div>
+<!------------------------------ Right Section START ------------------------------>
+	
+	 
+<!------------------------------ Right Section END ------------------------------>
+                   
+   	  <p class="clear"></p>
+
+    </div><!--outerDiv-->
+<!-----------------------------------------------  Footer Section START ------------------------------------------------------------->
+        <div id="FooterContainer">
+			<!--<p class="clear"></p>-->
+<div id="SocialMediaLogosContainer">
+        <!--<a href="https://www.facebook.com/Kiddystar/" target="_blank">
+        	<img src="images/logo-facebook1.png" width="38" height="38" class="socialmedia-logos" /> 
+        </a>-->
+    </div>
+            
+<p class="FooterCopyrightTexts">
+   	© 2018 Sunflower Kiddy Star
+</p><!--FooterCopyrightContainer-->
+<div id="FooterGraphicContainer">
+ 	
+</div>
+            
+ 
+        </div>		<!--FooterContainer-->
+<!-----------------------------------------------  Footer Section END ------------------------------------------------------------->
+
+    
+
+
+<div id="lbOverlay" style="display: none;"></div><div id="lbCenter" style="display: none;"><div id="lbImage"><div style="position: relative;"><a id="lbPrevLink" href="#"></a><a id="lbNextLink" href="#"></a></div></div></div><div id="lbBottomContainer" style="display: none;"><div id="lbBottom"><a id="lbCloseLink" href="#"></a><div id="lbCaption"></div><div id="lbNumber"></div><div style="clear: both;"></div></div></div></body></html>

@@ -1,0 +1,717 @@
+<html lang="en-US" class=" js flexbox webgl no-touch geolocation hashchange history websockets rgba hsla multiplebgs backgroundsize borderimage textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage no-applicationcache svg svgclippaths mediaqueries no-regions supports" style=""><!--<![endif]--><head><style>.LGLeeN-keyboard-shortcuts-view{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex}.LGLeeN-keyboard-shortcuts-view table,.LGLeeN-keyboard-shortcuts-view tbody,.LGLeeN-keyboard-shortcuts-view td,.LGLeeN-keyboard-shortcuts-view tr{background:inherit;border:none;margin:0;padding:0}.LGLeeN-keyboard-shortcuts-view table{display:table}.LGLeeN-keyboard-shortcuts-view tr{display:table-row}.LGLeeN-keyboard-shortcuts-view td{-moz-box-sizing:border-box;box-sizing:border-box;display:table-cell;color:#000;padding:6px;vertical-align:middle;white-space:nowrap}.LGLeeN-keyboard-shortcuts-view td:first-child{text-align:end}.LGLeeN-keyboard-shortcuts-view td kbd{background-color:#e8eaed;border-radius:2px;border:none;-moz-box-sizing:border-box;box-sizing:border-box;color:inherit;display:inline-block;font-family:Google Sans Text,Roboto,Arial,sans-serif;line-height:16px;margin:0 2px;min-height:20px;min-width:20px;padding:2px 4px;position:relative;text-align:center}
+</style><style>.gm-control-active>img{-webkit-box-sizing:content-box;box-sizing:content-box;display:none;left:50%;pointer-events:none;position:absolute;top:50%;-webkit-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.gm-control-active>img:nth-child(1){display:block}.gm-control-active:focus>img:nth-child(1),.gm-control-active:hover>img:nth-child(1),.gm-control-active:active>img:nth-child(1),.gm-control-active:disabled>img:nth-child(1){display:none}.gm-control-active:focus>img:nth-child(2),.gm-control-active:hover>img:nth-child(2){display:block}.gm-control-active:active>img:nth-child(3){display:block}.gm-control-active:disabled>img:nth-child(4){display:block}sentinel{}
+</style><link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400&amp;lang=en"><link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google+Sans+Text:400&amp;text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&amp;lang=en"><style>.gm-ui-hover-effect{opacity:.6}.gm-ui-hover-effect:hover{opacity:1}.gm-ui-hover-effect>span{background-color:#000}@media (forced-colors:active),(prefers-contrast:more){.gm-ui-hover-effect>span{background-color:ButtonText}}sentinel{}
+</style><style>.gm-style .gm-style-cc a,.gm-style .gm-style-cc button,.gm-style .gm-style-cc span,.gm-style .gm-style-mtc div{font-size:10px;-webkit-box-sizing:border-box;box-sizing:border-box}.gm-style .gm-style-cc a,.gm-style .gm-style-cc button,.gm-style .gm-style-cc span{outline-offset:3px}sentinel{}
+</style><style>@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style>.gm-style-moc{background-color:rgba(0,0,0,.45);pointer-events:none;text-align:center;-webkit-transition:opacity ease-in-out;transition:opacity ease-in-out}.gm-style-mot{color:white;font-family:Roboto,Arial,sans-serif;font-size:22px;margin:0;position:relative;top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%)}sentinel{}
+</style><style>.gm-style img{max-width: none;}.gm-style {font: 400 11px Roboto, Arial, sans-serif; text-decoration: none;}</style><style>.dismissButton{background-color:#fff;border:1px solid #dadce0;color:#1a73e8;border-radius:4px;font-family:Roboto,sans-serif;font-size:14px;height:36px;cursor:pointer;padding:0 24px}.dismissButton:hover{background-color:rgba(66,133,244,.04);border:1px solid #d2e3fc}.dismissButton:focus{background-color:rgba(66,133,244,.12);border:1px solid #d2e3fc;outline:0}.dismissButton:focus:not(:focus-visible){background-color:#fff;border:1px solid #dadce0;outline:none}.dismissButton:focus-visible{background-color:rgba(66,133,244,.12);border:1px solid #d2e3fc;outline:0}.dismissButton:hover:focus{background-color:rgba(66,133,244,.16);border:1px solid #d2e2fd}.dismissButton:hover:focus:not(:focus-visible){background-color:rgba(66,133,244,.04);border:1px solid #d2e3fc}.dismissButton:hover:focus-visible{background-color:rgba(66,133,244,.16);border:1px solid #d2e2fd}.dismissButton:active{background-color:rgba(66,133,244,.16);border:1px solid #d2e2fd;-webkit-box-shadow:0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15);box-shadow:0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15)}.dismissButton:disabled{background-color:#fff;border:1px solid #f1f3f4;color:#3c4043}sentinel{}
+</style>
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/x-icon" href="http://miniworld-neweraeducare.com.sg/wp-content/uploads/2016/07/New-Era-Favicon-Hi-Res.png">
+<link rel="pingback" href="https://miniworld-neweraeducare.com.sg/xmlrpc.php">
+<title>Contact Us – Mini World Child Care &amp; Development Centre</title>
+<link rel="dns-prefetch" href="//maps.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Mini World Child Care &amp; Development Centre » Feed" href="https://miniworld-neweraeducare.com.sg/feed/">
+<link rel="alternate" type="application/rss+xml" title="Mini World Child Care &amp; Development Centre » Comments Feed" href="https://miniworld-neweraeducare.com.sg/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/miniworld-neweraeducare.com.sg\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(t,a,e){var r,n,i,o=a.createElement("canvas"),l=o.getContext&&o.getContext("2d");function c(t){var e=a.createElement("script");e.src=t,e.defer=e.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(e)}for(i=Array("flag","emoji4"),e.supports={everything:!0,everythingExceptFlag:!0},n=0;n<i.length;n++)e.supports[i[n]]=function(t){var e,a=String.fromCharCode;if(!l||!l.fillText)return!1;switch(l.clearRect(0,0,o.width,o.height),l.textBaseline="top",l.font="600 32px Arial",t){case"flag":return(l.fillText(a(55356,56826,55356,56819),0,0),o.toDataURL().length<3e3)?!1:(l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,65039,8205,55356,57096),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,55356,57096),0,0),e!==o.toDataURL());case"emoji4":return l.fillText(a(55357,56425,55356,57341,8205,55357,56507),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55357,56425,55356,57341,55357,56507),0,0),e!==o.toDataURL()}return!1}(i[n]),e.supports.everything=e.supports.everything&&e.supports[i[n]],"flag"!==i[n]&&(e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&e.supports[i[n]]);e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&!e.supports.flag,e.DOMReady=!1,e.readyCallback=function(){e.DOMReady=!0},e.supports.everything||(r=function(){e.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",r,!1),t.addEventListener("load",r,!1)):(t.attachEvent("onload",r),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&e.readyCallback()})),(r=e.source||{}).concatemoji?c(r.concatemoji):r.wpemoji&&r.twemoji&&(c(r.twemoji),c(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://miniworld-neweraeducare.com.sg/wp-includes/js/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="responsive-lightbox-swipebox-css" href="https://miniworld-neweraeducare.com.sg/wp-content/plugins/responsive-lightbox/assets/swipebox/css/swipebox.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="tpg_get_posts_css-css" href="https://miniworld-neweraeducare.com.sg/wp-content/plugins/tpg-get-posts/css/tpg-get-posts-style.css" type="text/css" media="all">
+<link rel="stylesheet" id="redux-google-fonts-unf_options-css" href="https://fonts.googleapis.com/css?family=Lato%3A100%2C300%2C400%2C700%2C900%2C100italic%2C300italic%2C400italic%2C700italic%2C900italic%7CRancho%3A400&amp;subset=latin" type="text/css" media="all">
+<link rel="stylesheet" id="compiled-css" href="https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/css/compiled.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-style-css" href="https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="fontello-css" href="https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/css/fontello.css" type="text/css" media="all">
+<link rel="stylesheet" id="slider-css-css" href="https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/unf/slider/idangerous.swiper.css" type="text/css" media="screen">
+<script type="text/javascript" src="https://miniworld-neweraeducare.com.sg/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="https://miniworld-neweraeducare.com.sg/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="https://miniworld-neweraeducare.com.sg/wp-content/plugins/responsive-lightbox/assets/swipebox/js/jquery.swipebox.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":"1","animation":"1","hideCloseButtonOnMobile":"0","removeBarsOnMobile":"0","hideBars":"1","hideBarsDelay":"5000","videoMaxWidth":"1080","useSVG":"1","loopAtEnd":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://miniworld-neweraeducare.com.sg/wp-content/plugins/responsive-lightbox/js/front.js"></script>
+<script type="text/javascript" src="https://miniworld-neweraeducare.com.sg/wp-content/plugins/wp-retina-2x/js/picturefill.min.js"></script>
+<script type="text/javascript" src="https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/js/modernizr.custom.min.js"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/js/initmap.min.js"></script>
+<script type="text/javascript" src="https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/unf/slider/idangerous.swiper.min.js"></script>
+<link rel="https://api.w.org/" href="https://miniworld-neweraeducare.com.sg/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://miniworld-neweraeducare.com.sg/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://miniworld-neweraeducare.com.sg/wp-includes/wlwmanifest.xml"> 
+
+<link rel="canonical" href="https://miniworld-neweraeducare.com.sg/contact-us/">
+<link rel="shortlink" href="https://miniworld-neweraeducare.com.sg/?p=24">
+<link rel="alternate" type="application/json+oembed" href="https://miniworld-neweraeducare.com.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fminiworld-neweraeducare.com.sg%2Fcontact-us%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://miniworld-neweraeducare.com.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fminiworld-neweraeducare.com.sg%2Fcontact-us%2F&amp;format=xml">
+<style>
+
+#header .logo {
+	  background-image: url(http://miniworld-neweraeducare.com.sg/wp-content/uploads/2016/08/miniworld-logo.png);
+	  width: 880px;
+	  height: 120px;
+}
+#header .logo,#header .mobile-nologo {margin-top:30px;}#header .logo,#header .mobile-nologo {margin-bottom:60px;}#header .headimg-left {
+background-image: url('https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/img/headimg-left.png');
+}
+@media (max-width: 991px) {	#header .headimg-left {background-size: contain;}}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3/2), (min-resolution: 1.5dppx) {
+	  #header .headimg-left {
+	    background-image: url('https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/img/headimg-left@2x.png');
+	    background-size: 263px 141px;
+	  }
+}
+@media (max-width: 991px) {	#header .headimg-left {background-size: contain;}}
+#header .headimg-right {
+background-image: url('https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/img/headimg-right.png');
+}
+@media (max-width: 991px) { #header .headimg-right {background-size: contain;}}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3/2), (min-resolution: 1.5dppx) {
+	  #header .headimg-right {
+	    background-image: url('https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/img/headimg-right@2x.png');
+	    background-size: 305px 147px;
+	  }
+}
+@media (max-width: 991px) { #header .headimg-right {background-size: contain;}}
+.newlandscape .onleft {
+background-image: url('https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/img/onleft.png');
+}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3/2), (min-resolution: 1.5dppx) {
+	  .newlandscape .onleft {
+	    background-image: url('https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/img/onleft@2x.png');
+	  }
+}
+.newlandscape .onright {
+background-image: url('https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/img/onright.png');
+}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3/2), (min-resolution: 1.5dppx) {
+	  .newlandscape .onright {
+	    background-image: url('https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/img/onright@2x.png');
+	  }
+}
+#header .grass {
+background-image: url('https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/img/grass.png');
+height: 80px;
+background-size: 90% auto;
+}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3/2), (min-resolution: 1.5dppx) {
+		#header .grass {
+			background-image: url('https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/img/grass@2x.png');
+			height: 80px;
+			background-size: 90% auto;
+		}
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+.ray-of-lights .c-lights {
+	-webkit-transform-origin: 320px 320px;
+	-ms-transform-origin: 320px 320px;
+	transform-origin: 320px 320px;
+	-webkit-animation: rotation 100s infinite linear;
+	animation: rotation 100s infinite linear;
+}
+}
+	@media (min-width:769px) {
+	 .dropdown:hover .dropdown-menu {
+	  display: block;
+	 }
+	}
+	.navcontainer .main-menu > li > a {
+		font-size: 36px;
+	}
+@media (min-width: 992px) and (max-width: 1199px) {
+	.navcontainer .main-menu > li > a {
+		font-size: 30px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.navcontainer .main-menu > li > a {
+		font-size: 24px;
+	}
+}
+#content .article h1, #content .article .h1 {
+		font-size: 56px;
+}
+@media (max-width: 1199px) {
+	#content .article h1, #content .article .h1 {
+			font-size: 46px;
+	}
+}
+@media (max-width: 991px) {
+	#content .article h1, #content .article .h1 {
+			font-size: 42px;
+	}
+}
+
+@media (max-width: 767px) {
+	#content .article h1, #content .article .h1 {
+			font-size: 32px;
+	}
+}
+
+
+
+
+/* CUSTOM CSS */
+                    body {
+    background-image: url(http://miniworld-neweraeducare.com.sg/wp-content/uploads/2016/08/Background-miniworld.png);
+    background-color: #f7f2ff !important;
+}
+
+#sidebar .widget_search {
+  background: #fffadb !important;
+  box-shadow: 0px 2px 15px 0px rgba(0, 0, 0, 0.08), inset 0px -1px 0px 1px #9a8813, inset 0px -1px 0px 2px rgba(255, 255, 255, 0.13), inset 0px -3px 14px 6px #c7b01b, inset 0px -1px 0px 17px #ffe751, inset 0px -1px 0px 18px #e6c605, inset 0px 18px 0px 0px #fffadb !important;
+}
+
+#content .article {
+  box-shadow: 0px 2px 15px 0px rgba(0, 0, 0, 0.08), inset 0px -1px 0px 1px #9a8813, inset 0px -1px 0px 2px rgba(255, 255, 255, 0.13), inset 0px -3px 14px 6px #c7b01b, inset 0px -1px 0px 17px #ffe751, inset 0px -1px 0px 18px #e6c605, inset 0px 18px 0px 0px #fffadb !important;
+}
+
+#homeslider {
+  box-shadow: 0px 2px 15px 0px rgba(0, 0, 0, 0.08), inset 0px -1px 0px 1px #9a8813, inset 0px -1px 0px 2px rgba(255, 255, 255, 0.13), inset 0px -3px 14px 6px #c7b01b, inset 0px -1px 0px 17px #ffe751, inset 0px -1px 0px 18px #e6c605, inset 0px 18px 0px 0px #fffadb !important;
+}
+
+#sidebar .widget_search.widget .form-inline .input-group .form-control {
+ border: 1px solid #eece00 !important;
+}
+
+.widget.orange {
+box-shadow: 0px 2px 15px 0px rgba(0, 0, 0, 0.08), inset 0px -1px 0px 1px #9a8813, inset 0px -1px 0px 2px rgba(255, 255, 255, 0.13), inset 0px -3px 14px 6px #c7b01b, inset 0px -1px 0px 17px #ffe751, inset 0px -1px 0px 18px #e6c605, inset 0px 18px 0px 0px #fffadb !important;
+background: #fffadb !important;
+}
+
+.widget.orange h3.widget-title {
+    background-image: url(http://miniworld-neweraeducare.com.sg//wp-content/themes/toddlers/library/img/titlebox-yellow.png);
+}
+
+#content .article h1, #content .article .h1 {
+color: #eece00 !important;
+}
+
+.centreloc a {
+color: inherit !important;
+}                
+</style>
+<style type="text/css" title="dynamic-css" class="options-output">body,.unf-recent-posts .recent-post-title,blockquote p em,.woocommerce-page .woocommerce-message a.button{font-family:Lato;}h1,.h1, h2,.h2, h3,.h3, h4,.h4,.main-menu > li > a,.slide_banner_text,.rpost-title,.shopbuttons,blockquote:before,.woocommerce-billing-fields h3, h3#ship-to-different-address label,.gallery-seemore,.wpcf7 input.wpcf7-submit,.tribe-bar-collapse #tribe-bar-collapse-toggle{font-family:Rancho;font-weight:400;}.btn-primary, #respond #commentform input#submit,.btn-info,.btn-success,.btn-warning,.btn-default,.btn-danger, .woocommerce #content input.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-page #content input.button, .woocommerce-page #respond input#submit, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button{font-family:Rancho;font-weight:400;}blockquote p{font-family:Rancho;line-height:25px;font-weight:400;font-size:25px;}</style><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/6/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/6/util.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/6/map.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/6/geocoder.js"></script><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/6/controls.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fminiworld-neweraeducare.com.sg%2Fcontact-us%2F&amp;5shttps%3A%2F%2Fminiworld-neweraeducare.com.sg%2Fcontact-us%2F&amp;8b0&amp;callback=_xdc_._bj7ql&amp;token=124732"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/6/onion.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps/api/js/GeocodeService.Search?4sMini%20World%20Child%20Care%20%26%20Development%20Centre%20Pte%20Ltd&amp;9sen-US&amp;r_url=https%3A%2F%2Fminiworld-neweraeducare.com.sg%2Fcontact-us%2F&amp;callback=_xdc_._rozky6&amp;token=116608"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps/api/js/GeocodeService.Search?4sMini%20World%20Child%20Care%20%26%20Development%20Centre%20Pte%20Ltd&amp;9sen-US&amp;r_url=https%3A%2F%2Fminiworld-neweraeducare.com.sg%2Fcontact-us%2F&amp;callback=_xdc_._rozky6&amp;token=116608"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps/vt?pb=!1m4!1m3!1i13!2i4094!3i4095!1m4!1m3!1i13!2i4095!3i4095!1m4!1m3!1i13!2i4094!3i4096!1m4!1m3!1i13!2i4095!3i4096!1m4!1m3!1i13!2i4096!3i4095!1m4!1m3!1i13!2i4097!3i4095!1m4!1m3!1i13!2i4096!3i4096!1m4!1m3!1i13!2i4097!3i4096!2m3!1e0!2sm!3i686431409!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e3!12m1!5b1&amp;callback=_xdc_._t6pnod&amp;token=103452"></script></head>
+<body class="page-template page-template-page-contact page-template-page-contact-php page page-id-24">
+
+	<svg class="defs">
+	    <defs>
+	    <radialGradient id="gr-radial-lights" cx="50%" cy="50%" r="70%">
+	        <stop stop-color="white" offset="5%" stop-opacity=".06"></stop>
+	        <stop stop-color="white" offset="100%" stop-opacity="0"></stop>
+	      </radialGradient>
+	    </defs>
+	</svg>
+
+	<div class="ray ray-of-lights">
+	    <svg viewBox="0 0 640 640">
+	      <g transform="scale(1)">
+	      <circle class="c-lights" r="64%" cx="50%" cy="50%" stroke-width="128%" stroke-dasharray="10%" stroke="url(#gr-radial-lights)"></circle>
+	       </g>
+	    </svg>
+	</div>
+<div class="heavens hidden-xs">
+	<div class="container cloudwrap">
+		<div class="clouds clouds-left"></div>
+		<div class="clouds clouds-right"></div>
+	</div>
+</div>
+
+<div class="container" id="sitecontainer">
+	<div id="header" class="row clearfix">
+		<div class="col-md-12 column">
+			<div id="mobile-topbar" class="visible-xs navbar-fixed-top">
+	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mobile-navbar-collapse">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-menu-1"></span>
+	</button>
+
+			<a class="callbutton button" href="tel:6443 3122">
+			<span class="sr-only">Call Us</span>
+			<span class="icon-phone"></span>
+		</a>
+	
+			<a class="mapbutton button" href="https://www.google.com.sg/maps/place/Mini+World+Child+Care+%26+Development+Centre+Pte+Ltd/@1.3258213,103.9191163,15z/data=!4m2!3m1!1s0x0:0xbd155fb954622782?sa=X&amp;ved=0ahUKEwiXvOXh1IjOAhUKpo8KHbWeArgQ_BIIezAK" target="_blank">
+			<span class="sr-only">Find Us</span>
+			<span class="icon-map"></span>
+		</a>
+	
+
+	<div class="collapse navbar-collapse" id="mobile-navbar-collapse">
+		<ul id="menu-uniquely-us" class="nav mobile-menu"><li id="menu-item-544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-544 dropdown" style="display:table-cell; position:relative;"><a title="Uniquely Us" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Uniquely Us <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-545"><a title="Our Vision, Mission, Philosophy and Core Values" href="https://miniworld-neweraeducare.com.sg/our-team/">Our Vision, Mission, Philosophy and Core Values</a></li>
+	<li id="menu-item-541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541"><a title="Achievements &amp; Awards" href="https://miniworld-neweraeducare.com.sg/achievements-awards/">Achievements &amp; Awards</a></li>
+	<li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a title="Valued Partnership" href="https://miniworld-neweraeducare.com.sg/about-us/">Valued Partnership</a></li>
+</ul>
+</li>
+<li id="menu-item-546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-546 dropdown" style="display:table-cell; position:relative;"><a title="Our Programme" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Our Programme <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-548"><a title="Our Curriculum" href="https://miniworld-neweraeducare.com.sg/why-us/">Our Curriculum</a></li>
+	<li id="menu-item-547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-547"><a title="Fee Structure" href="https://miniworld-neweraeducare.com.sg/fee-structure/">Fee Structure</a></li>
+	<li id="menu-item-575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-575"><a title="Subsidy Based on Eligibility" href="https://miniworld-neweraeducare.com.sg/subsidy-based-on-eligibility/">Subsidy Based on Eligibility</a></li>
+	<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a title="Promotions" href="https://miniworld-neweraeducare.com.sg/promotions-2/">Promotions</a></li>
+</ul>
+</li>
+<li id="menu-item-540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540"><a title="Enrichment Programme" href="https://miniworld-neweraeducare.com.sg/fees-structure/">Enrichment Programme</a></li>
+<li id="menu-item-542" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-24 current_page_item menu-item-has-children menu-item-542 dropdown active" style="display:table-cell; position:relative;"><a title="Connect With Us" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Connect With Us <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-543"><a title="Gallery" href="https://miniworld-neweraeducare.com.sg/gallery/">Gallery</a></li>
+	<li id="menu-item-551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-551"><a title="Newsletter" href="https://miniworld-neweraeducare.com.sg/newsletter/">Newsletter</a></li>
+</ul>
+</li>
+<li id="menu-item-550" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-24 current_page_item menu-item-has-children menu-item-550 dropdown active" style="display:table-cell; position:relative;"><a title="Contact Us" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Contact Us <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-554"><a title="Locate Us" href="https://miniworld-neweraeducare.com.sg/feedback/">Locate Us</a></li>
+	<li id="menu-item-555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a title="Registrations" href="https://miniworld-neweraeducare.com.sg/registrations/">Registrations</a></li>
+	<li id="menu-item-553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-553"><a title="Career Opportunity" href="https://miniworld-neweraeducare.com.sg/career-opportunity/">Career Opportunity</a></li>
+</ul>
+</li>
+</ul>	</div>
+</div>
+	<div class="mobile-nologo visible-xs">
+		<a href="https://miniworld-neweraeducare.com.sg">
+						<img src="http://miniworld-neweraeducare.com.sg/wp-content/uploads/2016/08/miniworld-logo.png" data-no-retina="" alt="Mini World Child Care &amp; Development Centre">
+					</a>
+	</div>
+			<div id="topbar" class="row clearfix hidden-xs">
+	<div class="col-md-6 column">
+			</div>
+	<div class="col-md-6 column">
+
+		
+		
+		 	</div>
+</div>			<div class="logo">
+				<a href="https://miniworld-neweraeducare.com.sg"><h1>
+					Mini World Child Care &amp; Development Centre				</h1></a>
+			</div>
+			<div class="navcontainer hidden-xs">
+				<nav>
+				<ul id="menu-uniquely-us-1" class="nav main-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-544 dropdown" style="display:table-cell; position:relative;"><a title="Uniquely Us" href="https://miniworld-neweraeducare.com.sg/" class="dropdown-toggle">Uniquely Us <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-545"><a title="Our Vision, Mission, Philosophy and Core Values" href="https://miniworld-neweraeducare.com.sg/our-team/">Our Vision, Mission, Philosophy and Core Values</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541"><a title="Achievements &amp; Awards" href="https://miniworld-neweraeducare.com.sg/achievements-awards/">Achievements &amp; Awards</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a title="Valued Partnership" href="https://miniworld-neweraeducare.com.sg/about-us/">Valued Partnership</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-546 dropdown" style="display:table-cell; position:relative;"><a title="Our Programme" href="https://miniworld-neweraeducare.com.sg/promotions/" class="dropdown-toggle">Our Programme <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-548"><a title="Our Curriculum" href="https://miniworld-neweraeducare.com.sg/why-us/">Our Curriculum</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-547"><a title="Fee Structure" href="https://miniworld-neweraeducare.com.sg/fee-structure/">Fee Structure</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-575"><a title="Subsidy Based on Eligibility" href="https://miniworld-neweraeducare.com.sg/subsidy-based-on-eligibility/">Subsidy Based on Eligibility</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a title="Promotions" href="https://miniworld-neweraeducare.com.sg/promotions-2/">Promotions</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540"><a title="Enrichment Programme" href="https://miniworld-neweraeducare.com.sg/fees-structure/">Enrichment Programme</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-24 current_page_item menu-item-has-children menu-item-542 dropdown active" style="display:table-cell; position:relative;"><a title="Connect With Us" href="https://miniworld-neweraeducare.com.sg/contact-us/" class="dropdown-toggle">Connect With Us <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-543"><a title="Gallery" href="https://miniworld-neweraeducare.com.sg/gallery/">Gallery</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-551"><a title="Newsletter" href="https://miniworld-neweraeducare.com.sg/newsletter/">Newsletter</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-24 current_page_item menu-item-has-children menu-item-550 dropdown active" style="display:table-cell; position:relative;"><a title="Contact Us" href="https://miniworld-neweraeducare.com.sg/contact-us/" class="dropdown-toggle">Contact Us <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-554"><a title="Locate Us" href="https://miniworld-neweraeducare.com.sg/feedback/">Locate Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a title="Registrations" href="https://miniworld-neweraeducare.com.sg/registrations/">Registrations</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-553"><a title="Career Opportunity" href="https://miniworld-neweraeducare.com.sg/career-opportunity/">Career Opportunity</a></li>
+</ul>
+</li>
+</ul>				</nav>
+			</div>
+
+
+			<div class="headimg-left"></div>
+
+			<div class="headimg-right"></div>
+
+			<div class="row"><div class="grass col-xs-12 column"></div></div>
+		</div>
+	</div>
+
+		
+
+
+
+<script type="text/javascript">
+
+
+jQuery(document).ready(function($){
+	jQuery('form#contactForm').submit(function() {
+		jQuery('form#contactForm .error').remove();
+		var hasError = false;
+		jQuery('.requiredField').each(function() {
+			if(jQuery.trim($(this).val()) == '') {
+				var labelText = jQuery(this).prev('label').text();
+				jQuery(this).parent().append('<div class="error alert small alert-warning">You forgot to enter your message! '+labelText+'.</div>');
+				hasError = true;
+			} else if($(this).hasClass('email')) {
+				var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+				if(!emailReg.test(jQuery.trim($(this).val()))) {
+					var labelText = $(this).prev('label').text();
+					jQuery(this).parent().append('<div class="error alert small alert-warning">You entered an invalid message! '+labelText+'.</div>');
+					hasError = true;
+				}
+			}
+		});
+		if(!hasError) {
+			jQuery('#content #submitted').fadeOut('normal', function() {
+			jQuery('#content .sendmessagebtn').hide();
+			jQuery(this).parent().append('<img src="https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/img/loading.svg" alt="Loading&hellip;" height="31" width="31" />');
+			});
+			var formInput = $(this).serialize();
+			$.post($(this).attr('action'),formInput, function(data){
+				jQuery('form#contactForm').slideUp("fast", function() {
+					jQuery(this).before('<p class="thanks"><strong>Thanks!</strong> Your message was successfully sent.</p>');
+				});
+			});
+		}
+
+		return false;
+
+	});
+});
+
+</script>
+
+
+	<div id="content-wrapper" class="row clearfix contact-page-wrapper">
+
+
+		<div id="content" class="col-md-8 column">
+			<div class="article clearfix">
+														<h1 class="post-title">Contact Us</h1>
+
+					
+<div class="row contactdetails contact_block">
+		<div class="col-md-6 addressdetails">
+		<div class="addressdetailswrap">
+		<p>
+			Blk 58 Chai Chee Drive<br>
+#01-122, Singapore 460058		</p>
+		</div>
+	</div>
+			<div class="col-md-6 phonedetails">
+		<div class="phonedetailswrap">
+			<p>
+				<strong>For Enquiries</strong><br>
+Call : 6443 3122			</p>
+		</div>
+	</div>
+	</div>	<div class="contact_map contact_block">
+		<div class="block_map" style="height:350px;">
+			<div id="map_canvas_1" style="height: 350px; position: relative; overflow: hidden;"><div style="height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223);"><div><button draggable="false" aria-label="Keyboard shortcuts" title="Keyboard shortcuts" type="button" style="background: none transparent; display: block; border: none; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: absolute; cursor: pointer; user-select: none; z-index: 1000002; outline-offset: 3px; right: 0px; bottom: 0px; transform: translateX(100%);"></button></div><div tabindex="0" aria-label="Map" aria-roledescription="map" role="region" aria-describedby="6A5D3859-0839-4F61-AFDA-3C7058FBA093" style="position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px;"><div id="6A5D3859-0839-4F61-AFDA-3C7058FBA093" style="display: none;"><div class="LGLeeN-keyboard-shortcuts-view"><table><tbody><tr><td><kbd aria-label="Left arrow">←</kbd></td><td aria-label="Move left.">Move left</td></tr><tr><td><kbd aria-label="Right arrow">→</kbd></td><td aria-label="Move right.">Move right</td></tr><tr><td><kbd aria-label="Up arrow">↑</kbd></td><td aria-label="Move up.">Move up</td></tr><tr><td><kbd aria-label="Down arrow">↓</kbd></td><td aria-label="Move down.">Move down</td></tr><tr><td><kbd>+</kbd></td><td aria-label="Zoom in.">Zoom in</td></tr><tr><td><kbd>-</kbd></td><td aria-label="Zoom out.">Zoom out</td></tr><tr><td><kbd>Home</kbd></td><td aria-label="Jump left by 75%.">Jump left by 75%</td></tr><tr><td><kbd>End</kbd></td><td aria-label="Jump right by 75%.">Jump right by 75%</td></tr><tr><td><kbd>Page Up</kbd></td><td aria-label="Jump up by 75%.">Jump up by 75%</td></tr><tr><td><kbd>Page Down</kbd></td><td aria-label="Jump down by 75%.">Jump down by 75%</td></tr></tbody></table></div></div></div><div class="gm-style" style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px;"><div style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; cursor: url(&quot;https://maps.gstatic.com/mapfiles/openhand_8_8.cur&quot;), default; touch-action: pan-x pan-y;"><div style="z-index: 1; position: absolute; left: 50%; top: 50%; width: 100%; will-change: transform; transform: translate(0px, 0px);"><div style="position: absolute; left: 0px; top: 0px; z-index: 100; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; z-index: 987; transform: matrix(1, 0, 0, 1, 0, 0);"><div style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 0px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -512px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -512px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div></div></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 101; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 102; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 103; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; z-index: 987; transform: matrix(1, 0, 0, 1, 0, 0);"><div style="position: absolute; left: 0px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i13!2i4096!3i4095!4i256!2m3!1e0!2sm!3i686431409!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&amp;token=58718" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -256px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i13!2i4095!3i4095!4i256!2m3!1e0!2sm!3i686431409!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&amp;token=59781" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i13!2i4096!3i4096!4i256!2m3!1e0!2sm!3i686431409!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&amp;token=94412" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 256px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i13!2i4097!3i4095!4i256!2m3!1e0!2sm!3i686405348!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&amp;token=99068" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -512px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i13!2i4094!3i4095!4i256!2m3!1e0!2sm!3i686431409!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&amp;token=60844" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 256px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i13!2i4097!3i4096!4i256!2m3!1e0!2sm!3i686405348!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&amp;token=3691" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -256px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i13!2i4095!3i4096!4i256!2m3!1e0!2sm!3i686431409!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&amp;token=95475" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -512px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i13!2i4094!3i4096!4i256!2m3!1e0!2sm!3i686431409!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&amp;token=96538" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div></div></div></div><div style="z-index: 3; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; touch-action: pan-x pan-y;"><div style="z-index: 4; position: absolute; left: 50%; top: 50%; width: 100%; will-change: transform; transform: translate(0px, 0px);"><div style="position: absolute; left: 0px; top: 0px; z-index: 104; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 105; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 106; width: 100%;"><span id="CBC05AD6-4143-4922-AD36-1C235B813181" style="display: none;">To navigate, press the arrow keys.</span></div><div style="position: absolute; left: 0px; top: 0px; z-index: 107; width: 100%;"></div></div></div><div class="gm-style-moc" style="z-index: 4; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; opacity: 0;"><p class="gm-style-mot"></p></div></div><iframe aria-hidden="true" frameborder="0" tabindex="-1" style="z-index: -1; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px; border: none; opacity: 0;"></iframe><div style="pointer-events: none; width: 100%; height: 100%; box-sizing: border-box; position: absolute; z-index: 1000002; opacity: 0; border: 2px solid rgb(26, 115, 232);"></div><div><div class="gmnoprint gm-bundled-control" draggable="false" data-control-width="40" data-control-height="81" style="margin: 10px; user-select: none; position: absolute; left: 0px; top: 0px;"><div class="gmnoprint" data-control-width="40" data-control-height="81" style="position: absolute; left: 0px; top: 0px;"><div draggable="false" style="user-select: none; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; border-radius: 2px; cursor: pointer; background-color: rgb(255, 255, 255); width: 40px; height: 81px;"><button draggable="false" aria-label="Zoom in" title="Zoom in" type="button" class="gm-control-active" style="background: none; display: block; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; overflow: hidden; width: 40px; height: 40px; top: 0px; left: 0px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23666%22%20d%3D%22M18%207h-7V0H7v7H0v4h7v7h4v-7h7z%22/%3E%3C/svg%3E" alt="" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23333%22%20d%3D%22M18%207h-7V0H7v7H0v4h7v7h4v-7h7z%22/%3E%3C/svg%3E" alt="" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23111%22%20d%3D%22M18%207h-7V0H7v7H0v4h7v7h4v-7h7z%22/%3E%3C/svg%3E" alt="" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23d1d1d1%22%20d%3D%22M18%207h-7V0H7v7H0v4h7v7h4v-7h7z%22/%3E%3C/svg%3E" alt="" style="height: 18px; width: 18px;"></button><div style="position: relative; overflow: hidden; width: 30px; height: 1px; margin: 0px 5px; background-color: rgb(230, 230, 230); top: 0px;"></div><button draggable="false" aria-label="Zoom out" title="Zoom out" type="button" class="gm-control-active" style="background: none; display: block; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; overflow: hidden; width: 40px; height: 40px; top: 0px; left: 0px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%207h18v4H0V7z%22/%3E%3C/svg%3E" alt="" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%207h18v4H0V7z%22/%3E%3C/svg%3E" alt="" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%207h18v4H0V7z%22/%3E%3C/svg%3E" alt="" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23d1d1d1%22%20d%3D%22M0%207h18v4H0V7z%22/%3E%3C/svg%3E" alt="" style="height: 18px; width: 18px;"></button></div></div></div></div><div></div><div><div class="gmnoprint gm-bundled-control" draggable="false" data-control-width="0" data-control-height="0" style="margin: 10px; user-select: none; position: absolute; display: none; right: 0px; top: 0px;"><button draggable="false" aria-label="Drag Pegman onto the map to open Street View" title="Drag Pegman onto the map to open Street View" type="button" style="background: none; display: block; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: absolute; cursor: pointer; user-select: none; left: 0px; top: 0px;"></button></div></div><div></div><div><button draggable="false" aria-label="Toggle fullscreen view" title="Toggle fullscreen view" type="button" aria-pressed="false" class="gm-control-active gm-fullscreen-control" style="background: none rgb(255, 255, 255); border: 0px; margin: 10px; padding: 0px; text-transform: none; appearance: none; position: absolute; cursor: pointer; user-select: none; border-radius: 2px; height: 40px; width: 40px; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; overflow: hidden; top: 0px; right: 0px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%200v6h2V2h4V0H0zm16%200h-4v2h4v4h2V0h-2zm0%2016h-4v2h6v-6h-2v4zM2%2012H0v6h6v-2H2v-4z%22/%3E%3C/svg%3E" alt="" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%200v6h2V2h4V0H0zm16%200h-4v2h4v4h2V0h-2zm0%2016h-4v2h6v-6h-2v4zM2%2012H0v6h6v-2H2v-4z%22/%3E%3C/svg%3E" alt="" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%200v6h2V2h4V0H0zm16%200h-4v2h4v4h2V0h-2zm0%2016h-4v2h6v-6h-2v4zM2%2012H0v6h6v-2H2v-4z%22/%3E%3C/svg%3E" alt="" style="height: 18px; width: 18px;"></button></div><div></div><div></div><div></div><div></div><div></div><div><div style="margin: 0px 5px; z-index: 1000000; position: absolute; left: 0px; bottom: 0px;"><a target="_blank" rel="noopener" title="Open this area in Google Maps (opens a new window)" aria-label="Open this area in Google Maps (opens a new window)" href="https://maps.google.com/maps?ll=0,0&amp;z=13&amp;t=m&amp;hl=en-US&amp;gl=US&amp;mapclient=apiv3" style="display: inline;"><div style="width: 66px; height: 26px;"><img alt="Google" src="data:image/svg+xml,%3Csvg%20fill%3D%22none%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2069%2029%22%3E%3Cg%20opacity%3D%22.3%22%20fill%3D%22%23000%22%20stroke%3D%22%23000%22%20stroke-width%3D%221.5%22%3E%3Cpath%20d%3D%22M17.4706%207.33616L18.0118%206.79504%2017.4599%206.26493C16.0963%204.95519%2014.2582%203.94522%2011.7008%203.94522c-4.613699999999999%200-8.50262%203.7551699999999997-8.50262%208.395779999999998C3.19818%2016.9817%207.0871%2020.7368%2011.7008%2020.7368%2014.1712%2020.7368%2016.0773%2019.918%2017.574%2018.3689%2019.1435%2016.796%2019.5956%2014.6326%2019.5956%2012.957%2019.5956%2012.4338%2019.5516%2011.9316%2019.4661%2011.5041L19.3455%2010.9012H10.9508V14.4954H15.7809C15.6085%2015.092%2015.3488%2015.524%2015.0318%2015.8415%2014.403%2016.4629%2013.4495%2017.1509%2011.7008%2017.1509%209.04835%2017.1509%206.96482%2015.0197%206.96482%2012.341%206.96482%209.66239%209.04835%207.53119%2011.7008%207.53119%2013.137%207.53119%2014.176%208.09189%2014.9578%208.82348L15.4876%209.31922%2016.0006%208.80619%2017.4706%207.33616z%22/%3E%3Cpath%20d%3D%22M24.8656%2020.7286C27.9546%2020.7286%2030.4692%2018.3094%2030.4692%2015.0594%2030.4692%2011.7913%2027.953%209.39009%2024.8656%209.39009%2021.7783%209.39009%2019.2621%2011.7913%2019.2621%2015.0594c0%203.25%202.514499999999998%205.6692%205.6035%205.6692zM24.8656%2012.8282C25.8796%2012.8282%2026.8422%2013.6652%2026.8422%2015.0594%2026.8422%2016.4399%2025.8769%2017.2905%2024.8656%2017.2905%2023.8557%2017.2905%2022.8891%2016.4331%2022.8891%2015.0594%2022.8891%2013.672%2023.853%2012.8282%2024.8656%2012.8282z%22/%3E%3Cpath%20d%3D%22M35.7511%2017.2905v0H35.7469C34.737%2017.2905%2033.7703%2016.4331%2033.7703%2015.0594%2033.7703%2013.672%2034.7343%2012.8282%2035.7469%2012.8282%2036.7608%2012.8282%2037.7234%2013.6652%2037.7234%2015.0594%2037.7234%2016.4439%2036.7554%2017.2961%2035.7511%2017.2905zM35.7387%2020.7286C38.8277%2020.7286%2041.3422%2018.3094%2041.3422%2015.0594%2041.3422%2011.7913%2038.826%209.39009%2035.7387%209.39009%2032.6513%209.39009%2030.1351%2011.7913%2030.1351%2015.0594%2030.1351%2018.3102%2032.6587%2020.7286%2035.7387%2020.7286z%22/%3E%3Cpath%20d%3D%22M51.953%2010.4357V9.68573H48.3999V9.80826C47.8499%209.54648%2047.1977%209.38187%2046.4808%209.38187%2043.5971%209.38187%2041.0168%2011.8998%2041.0168%2015.0758%2041.0168%2017.2027%2042.1808%2019.0237%2043.8201%2019.9895L43.7543%2020.0168%2041.8737%2020.797%2041.1808%2021.0844%2041.4684%2021.7772C42.0912%2023.2776%2043.746%2025.1469%2046.5219%2025.1469%2047.9324%2025.1469%2049.3089%2024.7324%2050.3359%2023.7376%2051.3691%2022.7367%2051.953%2021.2411%2051.953%2019.2723v-8.8366zm-7.2194%209.9844L44.7334%2020.4196C45.2886%2020.6201%2045.878%2020.7286%2046.4808%2020.7286%2047.1616%2020.7286%2047.7866%2020.5819%2048.3218%2020.3395%2048.2342%2020.7286%2048.0801%2021.0105%2047.8966%2021.2077%2047.6154%2021.5099%2047.1764%2021.7088%2046.5219%2021.7088%2045.61%2021.7088%2045.0018%2021.0612%2044.7336%2020.4201zM46.6697%2012.8282C47.6419%2012.8282%2048.5477%2013.6765%2048.5477%2015.084%2048.5477%2016.4636%2047.6521%2017.2987%2046.6697%2017.2987%2045.6269%2017.2987%2044.6767%2016.4249%2044.6767%2015.084%2044.6767%2013.7086%2045.6362%2012.8282%2046.6697%2012.8282zM55.7387%205.22081v-.75H52.0788V20.4412H55.7387V5.22081z%22/%3E%3Cpath%20d%3D%22M63.9128%2016.0614L63.2945%2015.6492%2062.8766%2016.2637C62.4204%2016.9346%2061.8664%2017.3069%2061.0741%2017.3069%2060.6435%2017.3069%2060.3146%2017.2088%2060.0544%2017.0447%2059.9844%2017.0006%2059.9161%2016.9496%2059.8498%2016.8911L65.5497%2014.5286%2066.2322%2014.2456%2065.9596%2013.5589%2065.7406%2013.0075C65.2878%2011.8%2063.8507%209.39832%2060.8278%209.39832%2057.8445%209.39832%2055.5034%2011.7619%2055.5034%2015.0676%2055.5034%2018.2151%2057.8256%2020.7369%2061.0659%2020.7369%2063.6702%2020.7369%2065.177%2019.1378%2065.7942%2018.2213L66.2152%2017.5963%2065.5882%2017.1783%2063.9128%2016.0614zM61.3461%2012.8511L59.4108%2013.6526C59.7903%2013.0783%2060.4215%2012.7954%2060.9017%2012.7954%2061.067%2012.7954%2061.2153%2012.8161%2061.3461%2012.8511z%22/%3E%3C/g%3E%3Cpath%20d%3D%22M11.7008%2019.9868C7.48776%2019.9868%203.94818%2016.554%203.94818%2012.341%203.94818%208.12803%207.48776%204.69522%2011.7008%204.69522%2014.0331%204.69522%2015.692%205.60681%2016.9403%206.80583L15.4703%208.27586C14.5751%207.43819%2013.3597%206.78119%2011.7008%206.78119%208.62108%206.78119%206.21482%209.26135%206.21482%2012.341%206.21482%2015.4207%208.62108%2017.9009%2011.7008%2017.9009%2013.6964%2017.9009%2014.8297%2017.0961%2015.5606%2016.3734%2016.1601%2015.7738%2016.5461%2014.9197%2016.6939%2013.7454h-4.9931V11.6512h7.0298C18.8045%2012.0207%2018.8456%2012.4724%2018.8456%2012.957%2018.8456%2014.5255%2018.4186%2016.4637%2017.0389%2017.8434%2015.692%2019.2395%2013.9838%2019.9868%2011.7008%2019.9868zM29.7192%2015.0594C29.7192%2017.8927%2027.5429%2019.9786%2024.8656%2019.9786%2022.1884%2019.9786%2020.0121%2017.8927%2020.0121%2015.0594%2020.0121%2012.2096%2022.1884%2010.1401%2024.8656%2010.1401%2027.5429%2010.1401%2029.7192%2012.2096%2029.7192%2015.0594zM27.5922%2015.0594C27.5922%2013.2855%2026.3274%2012.0782%2024.8656%2012.0782S22.1391%2013.2937%2022.1391%2015.0594C22.1391%2016.8086%2023.4038%2018.0405%2024.8656%2018.0405S27.5922%2016.8168%2027.5922%2015.0594zM40.5922%2015.0594C40.5922%2017.8927%2038.4159%2019.9786%2035.7387%2019.9786%2033.0696%2019.9786%2030.8851%2017.8927%2030.8851%2015.0594%2030.8851%2012.2096%2033.0614%2010.1401%2035.7387%2010.1401%2038.4159%2010.1401%2040.5922%2012.2096%2040.5922%2015.0594zM38.4734%2015.0594C38.4734%2013.2855%2037.2087%2012.0782%2035.7469%2012.0782%2034.2851%2012.0782%2033.0203%2013.2937%2033.0203%2015.0594%2033.0203%2016.8086%2034.2851%2018.0405%2035.7469%2018.0405%2037.2087%2018.0487%2038.4734%2016.8168%2038.4734%2015.0594zM51.203%2010.4357v8.8366C51.203%2022.9105%2049.0595%2024.3969%2046.5219%2024.3969%2044.132%2024.3969%2042.7031%2022.7955%2042.161%2021.4897L44.0417%2020.7095C44.3784%2021.5143%2045.1997%2022.4588%2046.5219%2022.4588%2048.1479%2022.4588%2049.1499%2021.4487%2049.1499%2019.568V18.8617H49.0759C48.5914%2019.4612%2047.6552%2019.9786%2046.4808%2019.9786%2044.0171%2019.9786%2041.7668%2017.8352%2041.7668%2015.0758%2041.7668%2012.3%2044.0253%2010.1319%2046.4808%2010.1319%2047.6552%2010.1319%2048.5914%2010.6575%2049.0759%2011.2323H49.1499V10.4357H51.203zM49.2977%2015.084C49.2977%2013.3512%2048.1397%2012.0782%2046.6697%2012.0782%2045.175%2012.0782%2043.9267%2013.3429%2043.9267%2015.084%2043.9267%2016.8004%2045.175%2018.0487%2046.6697%2018.0487%2048.1397%2018.0487%2049.2977%2016.8004%2049.2977%2015.084zM54.9887%205.22081V19.6912H52.8288V5.22081H54.9887zM63.4968%2016.6854L65.1722%2017.8023C64.6301%2018.6072%2063.3244%2019.9869%2061.0659%2019.9869%2058.2655%2019.9869%2056.2534%2017.827%2056.2534%2015.0676%2056.2534%2012.1439%2058.2901%2010.1483%2060.8278%2010.1483%2063.3818%2010.1483%2064.6301%2012.1768%2065.0408%2013.2773L65.2625%2013.8357%2058.6843%2016.5623C59.1853%2017.5478%2059.9737%2018.0569%2061.0741%2018.0569%2062.1746%2018.0569%2062.9384%2017.5067%2063.4968%2016.6854zM58.3312%2014.9115L62.7331%2013.0884C62.4867%2012.4724%2061.764%2012.0454%2060.9017%2012.0454%2059.8012%2012.0454%2058.2737%2013.0145%2058.3312%2014.9115z%22%20fill%3D%22%23fff%22/%3E%3C/svg%3E" draggable="false" style="position: absolute; left: 0px; top: 0px; width: 66px; height: 26px; user-select: none; border: 0px; padding: 0px; margin: 0px;"></div></a></div></div><div></div><div><div style="display: inline-flex; position: absolute; right: 0px; bottom: 0px;"><div class="gmnoprint" style="z-index: 1000001;"><div draggable="false" class="gm-style-cc" style="user-select: none; position: relative; height: 14px; line-height: 14px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><button draggable="false" aria-label="Keyboard shortcuts" title="Keyboard shortcuts" type="button" style="background: none; display: inline-block; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; color: rgb(0, 0, 0); font-family: inherit; line-height: inherit;">Keyboard shortcuts</button></div></div></div><div class="gmnoprint" style="z-index: 1000001;"><div draggable="false" class="gm-style-cc" style="user-select: none; position: relative; height: 14px; line-height: 14px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><button draggable="false" aria-label="Map Data" title="Map Data" type="button" style="background: none; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; color: rgb(0, 0, 0); font-family: inherit; line-height: inherit; display: none;">Map Data</button><span style="">Map data ©2024</span></div></div></div><div class="gmnoscreen"><div style="font-family: Roboto, Arial, sans-serif; font-size: 11px; color: rgb(0, 0, 0); direction: ltr; text-align: right; background-color: rgb(245, 245, 245);">Map data ©2024</div></div><button draggable="false" aria-label="Map Scale: 1 km per 52 pixels" title="Map Scale: 1 km per 52 pixels" type="button" class="gm-style-cc" aria-describedby="57D90652-CF4C-4AF4-ADDD-923FA481C635" style="background: none; display: none; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; height: 14px; line-height: 14px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><span>1 km&nbsp;</span><div style="position: relative; display: inline-block; height: 8px; bottom: -1px; width: 56px;"><div style="width: 100%; height: 4px; position: absolute; left: 0px; top: 0px;"></div><div style="width: 4px; height: 8px; left: 0px; top: 0px; background-color: rgb(255, 255, 255);"></div><div style="width: 4px; height: 8px; position: absolute; background-color: rgb(255, 255, 255); right: 0px; bottom: 0px;"></div><div style="position: absolute; background-color: rgb(102, 102, 102); height: 2px; left: 1px; bottom: 1px; right: 1px;"></div><div style="position: absolute; width: 2px; height: 6px; left: 1px; top: 1px; background-color: rgb(102, 102, 102);"></div><div style="width: 2px; height: 6px; position: absolute; background-color: rgb(102, 102, 102); bottom: 1px; right: 1px;"></div></div></div><span id="57D90652-CF4C-4AF4-ADDD-923FA481C635" style="display: none;">Click to toggle between metric and imperial units</span></button><div class="gmnoprint gm-style-cc" draggable="false" style="z-index: 1000001; user-select: none; position: relative; height: 14px; line-height: 14px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a href="https://www.google.com/intl/en-US_US/help/terms_maps.html" target="_blank" rel="noopener" style="text-decoration: none; cursor: pointer; color: rgb(0, 0, 0);">Terms</a></div></div><div draggable="false" class="gm-style-cc" style="user-select: none; position: relative; height: 14px; line-height: 14px; display: none;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a target="_blank" rel="noopener" title="Report errors in the road map or imagery to Google" dir="ltr" href="https://www.google.com/maps/@0,0,13z/data=!10m1!1e1!12b1?source=apiv3&amp;rapsrc=apiv3" style="font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); text-decoration: none; position: relative;">Report a map error</a></div></div></div></div></div></div><div style="background-color: white; font-weight: 500; font-family: Roboto, sans-serif; padding: 15px 25px; box-sizing: border-box; top: 5px; border: 1px solid rgba(0, 0, 0, 0.12); border-radius: 5px; left: 50%; max-width: 375px; position: absolute; transform: translateX(-50%); width: calc(100% - 10px); z-index: 1;"><div><img alt="" src="https://maps.gstatic.com/mapfiles/api-3/images/google_gray.svg" draggable="false" style="padding: 0px; margin: 0px; border: 0px; height: 17px; vertical-align: middle; width: 52px; user-select: none;"></div><div style="line-height: 20px; margin: 15px 0px;"><span style="color: rgba(0, 0, 0, 0.87); font-size: 14px;">This page can't load Google Maps correctly.</span></div><table style="width: 100%;"><tr><td style="line-height: 16px; vertical-align: middle;"><a href="https://developers.google.com/maps/documentation/javascript/error-messages?utm_source=maps_js&amp;utm_medium=degraded&amp;utm_campaign=keyless#api-key-and-billing-errors" target="_blank" rel="noopener" style="color: rgba(0, 0, 0, 0.54); font-size: 12px;">Do you own this website?</a></td><td style="text-align: right;"><button class="dismissButton">OK</button></td></tr></table></div></div>
+		</div>
+	</div>
+
+	<script type="text/javascript">
+	jQuery(document).ready(function () {
+	var business_address =  'Mini World Child Care & Development Centre Pte Ltd';
+	var zoom_level =  13;
+	    jQuery('#map_canvas_1').initMap({
+	    center: business_address,
+	    options : { zoom: zoom_level, scrollwheel: false,
+	    styles:[{
+			        "featureType": "landscape.man_made",
+			        "elementType": "geometry",
+			        "stylers": [
+			            {
+			                "color": "#f7f1df"
+			            }
+			        ]
+			    },
+			    {
+			        "featureType": "landscape.natural",
+			        "elementType": "geometry",
+			        "stylers": [
+			            {
+			                "color": "#d0e3b4"
+			            }
+			        ]
+			    },
+			    {
+			        "featureType": "landscape.natural.terrain",
+			        "elementType": "geometry",
+			        "stylers": [
+			            {
+			                "visibility": "off"
+			            }
+			        ]
+			    },
+			    {
+			        "featureType": "poi",
+			        "elementType": "labels",
+			        "stylers": [
+			            {
+			                "visibility": "off"
+			            }
+			        ]
+			    },
+			    {
+			        "featureType": "poi.business",
+			        "elementType": "all",
+			        "stylers": [
+			            {
+			                "visibility": "off"
+			            }
+			        ]
+			    },
+			    {
+			        "featureType": "poi.medical",
+			        "elementType": "geometry",
+			        "stylers": [
+			            {
+			                "color": "#fbd3da"
+			            }
+			        ]
+			    },
+			    {
+			        "featureType": "poi.park",
+			        "elementType": "geometry",
+			        "stylers": [
+			            {
+			                "color": "#bde6ab"
+			            }
+			        ]
+			    },
+			    {
+			        "featureType": "road",
+			        "elementType": "geometry.stroke",
+			        "stylers": [
+			            {
+			                "visibility": "off"
+			            }
+			        ]
+			    },
+			    {
+			        "featureType": "road",
+			        "elementType": "labels",
+			        "stylers": [
+			            {
+			                "visibility": "on"
+			            }
+			        ]
+			    },
+			    {
+			        "featureType": "road.highway",
+			        "elementType": "geometry.fill",
+			        "stylers": [
+			            {
+			                "color": "#ffe15f"
+			            }
+			        ]
+			    },
+			    {
+			        "featureType": "road.highway",
+			        "elementType": "geometry.stroke",
+			        "stylers": [
+			            {
+			                "color": "#efd151"
+			            }
+			        ]
+			    },
+			    {
+			        "featureType": "road.arterial",
+			        "elementType": "geometry.fill",
+			        "stylers": [
+			            {
+			                "color": "#ffffff"
+			            }
+			        ]
+			    },
+			    {
+			        "featureType": "road.local",
+			        "elementType": "geometry.fill",
+			        "stylers": [
+			            {
+			                "color": "black"
+			            }
+			        ]
+			    },
+			    {
+			        "featureType": "transit.station.airport",
+			        "elementType": "geometry.fill",
+			        "stylers": [
+			            {
+			                "color": "#cfb2db"
+			            }
+			        ]
+			    },
+			    {
+			        "featureType": "water",
+			        "elementType": "geometry",
+			        "stylers": [
+			            {
+			                "color": "#a2daf2"
+			            }
+			        ]
+			    }]
+	    },
+	    markers : {
+	    	business_marker: {
+	    		position: business_address,
+	    		info_window : {
+	                content : business_address,
+	                maxWidth: 350,
+	                zIndex: 1 }
+	    	}},
+	    type : 'roadmap',
+	    controls : {
+	        map_type :
+		        {
+		            type : ['roadmap', 'satellite', 'hybrid'],
+		            position : 'top_right',
+		            style: 'dropdown_menu'
+		        },
+		        overview : { opened : false },
+		        pan : false,
+		        rotate : false,
+		        scale : false,
+		        street_view : { position : 'top_right' },
+		        zoom : {
+		            position : 'top_left',
+		            style: 'large'
+		        }
+		    }
+	    });
+	});
+	</script>
+
+
+
+				
+<div class="contact-well contact_block">
+	<form id="contactForm" action="https://miniworld-neweraeducare.com.sg/contact-us/" method="post">
+		<div class="form-group">
+
+			<div class="controls">
+				<label class="control-label" for="contactName" id="Name">
+			Name			</label>
+				<input type="text" name="contactName" id="contactName" value="" class="requiredField form-control">
+							</div>
+		</div>
+		<div class="form-group">
+			<div class="controls">
+
+			<label class="control-label" for="email">
+			Email</label>
+				<input type="text" name="email" id="email" value="" class="requiredField email form-control" placeholder="your@email.com">
+							</div>
+		</div>
+		<div class="form-group">
+
+			<div class="controls">
+				<label class="control-label" for="commentsText">
+			Message			</label>
+				<textarea name="comments" id="commentsText" rows="10" class="requiredField form-control">								</textarea>
+							</div>
+		</div>
+
+
+		<div class="form-group">
+			<div class="controls">
+				<label class="checkbox">
+				<input type="checkbox" name="sendCopy" id="sendCopy" value="true">
+				Send a copy of this email to yourself				</label>
+			</div>
+		</div>
+
+		<div class="form-group form-checker">
+			<div class="controls">
+				<label for="checking" class="screenReader">
+				If you want to submit this form, do not enter anything in this field
+				</label>
+				<input type="text" name="checking" id="checking" class="screenReader" value="">
+			</div>
+		</div>
+		<div class="form-group">
+			<div class="controls">
+				<input type="hidden" name="submitted" id="submitted" value="true">
+				<button type="submit" class="btn btn-primary sendmessagebtn">Send Message</button>
+			</div>
+		</div>
+	</form>
+</div>
+			    			</div>
+		</div>
+
+
+
+				<div id="sidebar" class="col-md-4 column homesidebar">
+
+			<div id="opentimes_widget-2" class="widget widget_opentimes_widget contactpagewidget orange"><div class="widgetnails"></div><h3 class="widget-title">Open Times</h3><div class="opentimesbox">
+
+<div class="opentimes-content">
+		<div class="openday">
+		<span class="times"><strong>7:00am</strong> to <strong>7:00pm</strong></span><br>
+		<span class="days">Moday to Friday</span>
+	</div>
+			<div class="openday">
+		<span class="times"><strong>7:00am</strong> to <strong>2:00pm</strong></span><br>
+		<span class="days">Saturday</span>
+	</div>
+						</div></div>
+<div class="widgetnails widgetnailsbottom"></div></div><div id="text-3" class="widget widget_text contactpagewidget orange"><div class="widgetnails"></div><h3 class="widget-title">Centre Locations</h3>			<div class="textwidget"><div class="centreloc" style="text-align: center; color: #8ad749;"><a href="http://www.newera-educare.com.sg" target="_blank"><h4>New Era Educare Group Pte Ltd</h4></a><p><a href="http://www.newera-educare.com.sg" target="_blank">540 Sims Avenue #03-01 Sims Avenue Centre<br>Singapore 387603<br>Tel: 62991488</a><br><a href="http://www.newera-educare.com.sg/feedback/" target="_blank">Email: neweraed@singanet.com.sg</a></p></div>
+
+<div class="centreloc" style="text-align: center; color: #8569cf;"><a href="http://www.bubblesland-neweraeducare.com.sg"><h4>Bubblesland Playhouse</h4></a><p><a href="http://www.bubblesland-neweraeducare.com.sg">Blk 238 Compassvale Walk<br>#01-542 Singapore 540238<br>Tel: 6388 5667</a><br><a href="http://www.bubblesland-neweraeducare.com.sg/feedback/">Email: bubblesland@newera-educare.com.sg</a></p></div>
+
+<div class="centreloc" style="text-align: center; color: #eece00;"><a href="http://www.littleworld-neweraeducare.com.sg" target="_blank"><h4>Little World Child Care</h4></a><p><a href="http://www.littleworld-neweraeducare.com.sg" target="_blank">Blk 113 Rivervale Walk<br>#01-33 Singapore 540113<br>Tel: 63886966</a><br><a href="http://www.littleworld-neweraeducare.com.sg/feedback/" target="_blank">Email: littleworld@newera-educare.com.sg</a></p></div>
+
+<div class="centreloc" style="text-align: center; color: #0d9fd8;"><a href="http://www.cuddlekids-neweraeducare.com.sg"><h4>Cuddle Kids Playhouse</h4></a><p><a href="http://www.cuddlekids-neweraeducare.com.sg">Blk 539 Woodlands Drive 16<br>#01-117 Singapore 730539<br>Tel: 6894 5055</a><br><a href="http://www.cuddlekids-neweraeducare.com.sg/feedback/">Email: cuddlekidz@newera-educare.com.sg</a></p></div>
+
+<div class="centreloc" style="text-align: center; color: #f645b0;"><a href="http://www.kanooka-neweraeducare.com.sg" target="_blank"><h4>Kanooka School House</h4></a><p><a href="http://www.kanooka-neweraeducare.com.sg" target="_blank">Blk 852 Jurong West Street 81<br>#01-317 Singapore 640852<br>Tel: 6791 9122</a><br><a href="http://www.kanooka-neweraeducare.com.sg" target="_blank">Email: kanooka@newera-educare.com.sg</a></p></div>
+
+<div class="centreloc" style="text-align: center; color: #eece00;"><a href="http://www.miniworld-neweraeducare.com.sg" target="_blank"><h4>Mini World Child Care</h4></a><p><a href="http://www.miniworld-neweraeducare.com.sg" target="_blank">Blk 58 Chai Chee Drive<br>#01-122 Singapore 460058<br>Tel: 6443 3122</a><br><a href="http://www.miniworld-neweraeducare.com.sg/feedback/" target="_blank">Email: miniworld@newera-educare.com.sg</a></p></div></div>
+		<div class="widgetnails widgetnailsbottom"></div></div>
+		</div>	</div>
+
+</div>
+	<div class="newlandscape clearfix">
+		<div class="onleft">
+				</div>
+		<div class="onright">
+		</div>
+	</div>
+	<div class="footer-wrap">
+		<div class="container">
+
+			<div class="row clearfix">
+				<div class="col-sm-6 column">
+					<div class="copyrightbox clearfix">
+											    	 © 2024 Mini World Child Care &amp; Development Centre.
+					    					</div>
+				</div>
+				<div class="col-sm-6 column">
+									</div>
+			</div>
+
+		</div>
+	</div>
+
+<script type="text/javascript" src="https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/js/fitvids.js"></script>
+<script type="text/javascript" src="https://miniworld-neweraeducare.com.sg/wp-content/themes/toddlers/library/js/scripts.js"></script>
+<script type="text/javascript" src="https://miniworld-neweraeducare.com.sg/wp-includes/js/wp-embed.min.js"></script>
+
+
+</body></html>

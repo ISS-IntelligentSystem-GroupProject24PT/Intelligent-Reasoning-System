@@ -1,0 +1,494 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" prefix="og: http://ogp.me/ns#" class=""><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta charset="utf-8">
+<!--<meta name="Author" content="Determination" />-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>PLMC Paya Lebar Methodist Church Covenant Kindergarten - Our Programme - Curriculum</title>
+
+<!--<meta property="analytics-track" content="DETERMINATION - Index" />
+<meta property="analytics-s-channel" content="homepage" />
+<meta name="Description" content="Insert SOUL Here, You're filled with DETERMINATION." />
+<meta property="og:title" content="Determination" />
+<meta property="og:description" content="Insert SOUL Here, You're filled with DETERMINATION." />
+<meta property="og:url" content="http://site.cyberland.edu.sg/miku/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Determination" />-->
+
+<!-- STYLE LINKS -->
+
+<link rel="stylesheet" href="css/main.css" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Kalam" rel="stylesheet">
+<!-- STYLE BLOCK -->
+
+<!-- SHOWS CURRENT PAGE -->
+
+<style>
+	#header nav ul #current-about a,
+	#header nav ul #current-about a:hover {
+		color: #FFFFFF;
+	}
+	#link3, #link3:hover {
+		/*background-color: #31C3E7;*/
+		/*background-color: #37bca5;*/
+		color: black;
+		font-weight: bolder;
+	}
+</style>
+
+<!-- SCRIPT LINK -->
+
+<!-- MOBILE NAV SOURCE -->
+
+<script src="src/jquery-1.9.1.min.js"></script>
+<script src="src/jPushMenu.js"></script>
+
+<!-- SCRIPT BLOCK -->
+
+<script>
+
+	<!-- TO THE TOP -->
+
+	$(document).on('click', '#tothetop2', function(){
+		$('html,body').animate({ scrollTop: 0 }, 500);
+	});
+
+	<!-- MOBILE NAV -->
+
+	jQuery(document).ready(function($) {
+		$('.toggle-menu').jPushMenu();
+	});
+	
+</script>
+
+</head>
+<body class="push-body">
+
+<!-- WRAPPER -->
+
+<div id="wrapper-outer">
+
+<!-- LOGO / MOBILE NAV 
+**Please copy and paste into each files instead of using php include as the mobile nav are linked to the javascript,
+  this is to prevent it from collision with other javascript -->
+
+<div id="Logo-wrapper">
+	<div id="container-logo">
+		<a href="index.php"><img src="img/PLMC-Logo-for-website-top.png" alt="Logo"></a>
+		<!--<a href="index.php"><img src="img/logo_plmc.png" alt="Logo" ></a>-->
+		<!--<h2 class="topbar_companyname">Paya Lebar Methodist Church Covenant Kindergarten</h2>-->
+	</div>
+	<div id="social-media">
+
+		
+		
+    
+<!------------------------------Mobile version side vertical menu start------------------------------>
+    	<nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" style="background-color: #293789;">
+			<h3 style="background-color: #293789;">Menu</h3>
+			<ul>
+            	<li id="cbplink1"><a href="index.php">Home</a></li>
+				<li id="cbplink2"><a href="aboutus-history.php">About Us</a></li>
+                <!--<li id="cbplink3"><a href="aboutus-visionmission.php#vision">Vision, Mission, Philosophy</a></li>-->
+				<!--<li id="cbplink4"><a href="aboutus-visionmission.php#mission">Mission</a></li>
+				<li id="cbplink5"><a href="aboutus-visionmission.php#philosophy">Philosophy</a></li>-->
+				<li id="cbplink6"><a href="programme-curriculum.php">Our Curriculum</a></li>
+				<li id="cbplink7"><a href="programme-learning.php#learningjourneys">Learning Journeys</a></li>
+				<li id="cbplink8"><a href="programme-learning.php#enrichmentprogramme">Enrichment Programme</a></li>
+				<li id="cbplink9"><a href="parentinfo.php">Parent Info</a></li>
+				<li id="cbplink10"><a href="testimonials.php">Testimonials</a></li>
+				<li id="cbplink11"><a href="gallery.php">Gallery</a></li>
+				<li id="cbplink12"><a href="admission.php">Admission</a></li>
+				<li id="cbplink13"><a href="contactus.php">Contact Us</a></li>
+				<!--<li id="cbplink3">
+                	<a href="">Curriculum &nbsp;&#x25BC;</a>
+            		<ul>
+                		<li id="cbp2nd1">
+                        	<a href="seeds-programme.php">Seeds Programme</a>
+                        </li>
+                		<li id="cbp2nd2">
+                        	<a href="jolly-programme.php">Jolly Programme</a>
+                       	</li>
+                	</ul>
+                </li>-->
+
+<!-- Mobile menu with multi-level items
+<li id="cbplink3">
+                	<a href="curriculum.php">Curriculum &nbsp;&#x25BC;</a>
+            		<ul>
+                		<li id="cbp2nd1">
+                        	<a href="#">Pre-Care</a><div class="arrow">&#x25BC;</div>
+                            <ul>
+                            	<li id="cbp3rd1"><a href="#">Nursery</a></li>
+                            	<li id="cbp3rd2"><a href="#">Pre-K</a></li>
+                            </ul>
+                        </li>
+                		<li id="cbp2nd2">
+                        	<a href="#">Child Care</a><div class="arrow">&#x25BC;</div>
+                            <ul>
+                            	<li id="cbp3rd3"><a href="#">K1</a></li>
+                            	<li id="cbp3rd4"><a href="#">K2</a></li>
+                            </ul>
+                       	</li>
+                	</ul>
+                </li>
+
+-->				
+				
+				
+				
+				
+            </ul>
+            <button class="toggle-menu menu-right push-body jPushMenuBtn" style="background-color:#293789; border: thin solid white;">Close</button>
+		</nav><!------------------------------Mobile version side vertical menu end------------------------------>
+		
+		
+		<div class="container">
+			<div class="main">
+				<button class="toggle-menu menu-right push-body jPushMenuBtn">Menu</button>
+			</div>
+		</div>
+        
+	</div>
+	
+    <div class="clear"></div>
+</div>
+
+<!-- INNER WRAPPER -->
+
+<div id="wrapper-inner" style="padding-bottom: 20px;">
+
+<!-- HEADER -->
+
+<div id="header">
+	<nav>
+    	<ul>
+        	<li>
+            	<a href="index.php"><div id="current-home"><div id="link1">
+                    	Home
+           	  </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="aboutus-history.php"><div id="current-about"><div id="link2">About Us
+              	</div></div></a>
+				
+            </li>
+            
+        	<li>
+            	<a href=""><div id="current-curriculum"><div id="link3">               	  Programme
+       	  		</div></div></a>
+    			<ul>
+      				<li>
+                    	<a href="programme-curriculum.php">
+                    	<div class="link2nd">Our Curriculum</div></a>
+                        
+                   	</li>
+      				<li>
+                    	<a href="programme-learning.php"><div class="link2nd">Learning Journeys</div></a>
+                    </li>
+					<li>
+                    	<a href="programme-learning.php#enrichmentprogramme"><div class="link2nd">Enrichment Programme</div></a>
+                    </li>
+    			</ul>
+                
+          	</li>
+            
+        	<li>
+            	<a href="parentinfo.php"><div id="current-gallery"><div id="link4">Parent Info
+            	</div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="testimonials.php"><div id="current-testimonies"><div id="link5">
+					Testimonials </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="gallery.php"><div id="current-career"><div id="link6">                    	Gallery
+           	  </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="admission.php"><div id="current-admission"><div id="link7">                    	Admission
+              	</div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="contactus.php"><div id="current-contact"><div id="link8">                    	Contact Us
+              	</div></div></a>
+            </li>
+        </ul>
+    </nav>
+</div>
+<div class="clear"></div>
+<!-- MAIN CONTENT -->
+
+<div id="content-main">
+	
+    <!-- TITLE -->
+    
+    <div id="title-background" class="programme_curriculum-title-background-img">
+    	<!--<h1>About Us</h1>-->
+    </div>
+    
+    <!-- CONTAINER -->
+    
+    <div id="container-box">
+    	
+        <!-- TEXT Summary.etc. -->
+        
+        <div id="subpage-content-fullwidth">
+			<div id="container-text-1col">
+			<!--<div id="container-text2">-->
+			<a name="curriculum"></a>
+			<h2 class="title-programme">OUR PROGRAMME</h2>
+			<hr>
+			<a name="learningjourneys"></a>
+			<h2 class="title2">Curriculum</h2>
+			<h3>Integrated-thematic Approach</h3>
+            <p> 
+				We embrace an integrated-thematic approach in teaching and learning to support your child’s holistic development. Integrated learning experiences help children understand how knowledge and skills are linked. Lessons are planned based on a theme or topic of investigation.
+			</p><br>
+			<h3>Learning Domains</h3>
+            <p> 
+				Our activities cover six learning areas for holistic development.
+			</p>	
+				
+				<br>
+			<!--<div style="width: 98%; margin: 0 auto; height: 100px; background-color: #E8D5FF;"></div>-->	
+<!----------------------------------------Learning Area 1 STARRT ------------------------------------------------->
+			<div class="learningareabox">
+				<img src="img/6domains-Language.jpg" alt="" style="margin: auto;">
+				<div class="learningareabox_title">
+					Language &amp; Literacy 
+				</div>
+				<div class="learningareabox_contentarea">
+					<p><b>Children learn to:</b></p>
+					<ul>
+					<li class="learningarea">
+						Listen for information and enjoyment
+					</li>
+					<li class="learningarea">
+						Speak to convey meaning and communicate with others
+					</li>	
+					<li class="learningarea">
+						Read with understanding and for enjoyment
+					</li>	
+					<li class="learningarea">
+						Use drawing, mark making, symbols and writing with invented and conventional spelling to communicate ideas and information
+					</li>	
+						
+						
+					</ul> 
+				</div>
+			</div>
+<!----------------------------------------Learning Area 1 END ------------------------------------------------->
+		
+<!----------------------------------------Learning Area 2 STARRT ------------------------------------------------->
+			<div class="learningareabox">
+				<img src="img/6domains-Numeracy.jpg" alt="" style="margin: auto;">
+				<div class="learningareabox_title">
+					Numeracy 
+				</div>
+				<div class="learningareabox_contentarea">
+					<p><b>Children learn to:</b></p>
+					<ul>
+					<li class="learningarea">
+						Recognise and use simple relationships and patterns
+					</li>
+					<li class="learningarea">
+						Use numbers in daily experiences
+					</li>	
+					<li class="learningarea">
+						Recognise and use basic shapes and simple spatial concepts in daily experiences
+					</li>	
+					
+					</ul> 
+				</div>
+			</div>
+<!----------------------------------------Learning Area 2 END ------------------------------------------------->		
+<!----------------------------------------Learning Area 3 STARRT ------------------------------------------------->
+			<div class="learningareabox">
+				<img src="img/6domains-MotorSkills.jpg" alt="" style="margin: auto;">
+				<div class="learningareabox_title">
+					Motor Skills Development 
+				</div>
+				<div class="learningareabox_contentarea">
+					<p><b>Children learn to:</b></p>
+					<ul>
+					<li class="learningarea">
+						Enjoy through participation in a variety of physical activities
+					</li>
+					<li class="learningarea">
+						Demonstrate control, coordination and balance in gross motor tasks
+					</li>	
+					<li class="learningarea">
+						Demonstrate control, coordination in fine motor tasks
+					</li>	
+					<li class="learningarea">
+						Develop healthy habits and safety awareness at home, in school and at public places
+					</li>	
+						
+						
+					</ul> 
+				</div>
+			</div>
+<!----------------------------------------Learning Area 3 END ------------------------------------------------->		
+<!----------------------------------------Learning Area 4 STARRT ------------------------------------------------->
+			<div class="learningareabox">
+				<img src="img/6domains-Social.jpg" alt="" style="margin: auto;">
+				<div class="learningareabox_title">
+					Social &amp; Emotional Development 
+				</div>
+				<div class="learningareabox_contentarea">
+					<p><b>Children learn to:</b></p>
+					<ul>
+					<li class="learningarea">
+						Develop an awareness and personal identity
+					</li>
+					<li class="learningarea">
+						Manage their own emotions and behaviours
+					</li>	
+					<li class="learningarea">
+						Show respect for diversity
+					</li>	
+					<li class="learningarea">
+						Communicate, interact and build relationships with others
+					</li>	
+					<li class="learningarea">
+						Take responsibilities for their actions
+					</li>	
+						
+					</ul> 
+				</div>
+			</div>
+<!----------------------------------------Learning Area 4 END ------------------------------------------------->			
+<!----------------------------------------Learning Area 5 STARRT ------------------------------------------------->
+			<div class="learningareabox">
+				<img src="img/6domains-Aesthetic.jpg" alt="" style="margin: auto;">
+				<div class="learningareabox_title">
+					Aesthetics &amp; Creative Expression 
+				</div>
+				<div class="learningareabox_contentarea">
+					<p><b>Children learn to:</b></p>
+					<ul>
+					<li class="learningarea">
+						Enjoy art and music and movement activities
+					</li>
+					<li class="learningarea">
+						Express ideas and feelings through art and music and movement
+					</li>	
+					<li class="learningarea">
+						Create art and music and movement using experimentation and imagination
+					</li>	
+					<li class="learningarea">
+						Share ideas and feelings about art and music and movement
+					</li>	
+						
+						
+					</ul> 
+				</div>
+			</div>
+<!----------------------------------------Learning Area 5 END -------------------------------------------------> 
+<!----------------------------------------Learning Area 6 STARRT ------------------------------------------------->
+			<div class="learningareabox">
+				<img src="img/6domains-DicoveryWorld.jpg" alt="" style="margin: auto;">
+				<div class="learningareabox_title">
+					Discovery of the world 
+				</div>
+				<div class="learningareabox_contentarea">
+					<p><b>Children learn to:</b></p>
+					<ul>
+					<li class="learningarea">
+						Show an interest in the world they live in
+					</li>
+					<li class="learningarea">
+						Find out why things happen and how things work through simple investigations
+					</li>	
+					<li class="learningarea">
+						Develop a positive attitude towards the world around them 
+					</li>	
+					</ul> 
+				</div>
+			</div>
+<!----------------------------------------Learning Area 6 END ------------------------------------------------->				
+            <!--<div id="tothetop"><img src="img/tothetop.png" alt="To The Top"></div>-->
+    	</div>
+		</div>
+		
+    </div>
+    
+    <!-- END OF CONTAINER -->
+    
+    <div class="clear"></div>
+       <div id="tothetop2"><img src="img/tothetop.png" alt="To The Top"></div>
+ 
+</div>
+
+<!-- END OF MAIN CONTENT -->
+
+
+
+</div>
+
+<!-- END OF INNER WRAPPER -->
+<!-- FOOTER -->
+
+<footer>
+	<h6 class="copyright-texts">© Paya Lebar Methodist Church Covenant Kindergarten</h6><br>
+
+	<div class="footer_container1a">
+		<div class="footer_container2">
+			<img src="img/footer-address-icon.png" alt="address">
+			<p>
+			<span class="footerheader">Address:</span><br>
+			<span class="footertexts">5 Boundary Road, Singapore 549954</span>	
+				
+			</p>
+		</div>	
+			
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-officehours-icon.png" alt="office hours">
+			<p>
+			<span class="footerheader">Office Hours:</span><br>
+			<span class="footertexts">Monday to Friday, 8am to 4pm</span>	
+				
+			</p>
+		</div>
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-telephone-icon.png" alt="telephone">
+			<p>
+			<span class="footerheader">Telephone:</span><br>
+			<span class="footertexts">6285 3730</span>	
+				
+			</p>
+		</div>
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-email-icon.png" alt="email">
+			<p>
+			<span class="footerheader">Email:</span><br>
+			<span class="footertexts">kindergarten@plmc.org </span>	
+				
+			</p>
+		</div>
+	</div>
+	<div class="clear"></div>
+</footer></div>
+
+<!-- END OF WRAPPER -->
+
+
+
+</body></html>

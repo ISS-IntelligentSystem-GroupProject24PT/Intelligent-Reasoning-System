@@ -1,0 +1,573 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- Mirrored from sarada.edu.sg/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Dec 2023 14:43:32 GMT --><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Ramakrishna Mission Sarada Kindergarten</title>
+  <link href="css/school.css" rel="stylesheet" type="text/css">
+  <link href="css/pagination.css" rel="stylesheet" type="text/css">
+  <script language="javascript" src="js/jquery-1.5.1.js"></script>
+  <script src="BaseJS/jquery.js" type="text/javascript"></script>
+  <script src="BaseJS/Public.js" type="text/javascript"></script>
+  <script src="js/custom.js" type="text/javascript"></script>
+  <script src="BaseJS/pagination/jquery.pagination.js" type="text/javascript"></script>
+  <script src="BaseJS/LoadImage.js" type="text/javascript"></script>
+  <script type="text/javascript" src="js/lan_index.js"></script>
+  <style type="text/css">
+    .js img {
+      width: 290px;
+    }
+  </style>
+  <script type="text/javascript">
+    //分页参数.
+    var SortsBindingID = "52a52cc0-f82e-4a64-8441-036deaf30d10||1";
+    //var SortsBindingID = "daa86464-ea3c-40f1-af5f-dd4c6fd918cb||0,c8225c83-fa53-49d5-9e4b-b76ecc669d93||1";
+    var pageSize = "4";
+    var searchvale = "";
+    var isdelete = "0"; //正常为0;不需要修改.
+    var orderby = "BSB.InsertDate desc";
+    var currPage = 0; //当前页
+    var pageRecordcount = 0; //总数量
+    $(document).ready(function () {
+      GetNewsList(currPage);
+    });
+
+
+
+    function pageselectCallback(page_id, jq) {
+      GetNewsList(page_id);
+    };
+
+    function GetNewsList(pageIndex) {
+      PublicLoading("strNewsList");
+      currPage = pageIndex
+      $.ajax({
+        type: "POST",
+        url: "Webservice.ashx",
+        cache: false,
+        dataType: "json",
+        data: "action=GetNewsList&UserID=" + UserID + "&SortsBindingID=" + SortsBindingID + "&pageSize=" + pageSize + "&pageIndex=" + (pageIndex + 1) + "&searchvale=" + searchvale + "&isdelete=" + isdelete + "&orderby=" + orderby,
+        success: function (data) {
+          var strtempHtml = "";
+          if (data.list.length == 0) {
+            $("#Pagination").hide();
+            $("#strNewsList").html(strtempHtml);
+          } else {
+
+            $.each(data.list, function (i, n) {
+
+              pageRecordcount = n.itemCount;
+              strtempHtml += "<li><a href=\"new1d41d.html?" + n.BaseID + "\" title=\"" + n.Title + "\" rel=\"bookmark\" class=\"title\">" + n.Title + "</a></li>";
+            });
+
+            $("#strNewsList").html(strtempHtml);
+
+            var optInit = {
+              items_per_page: pageSize,
+              num_display_entries: 5,
+              num_edge_entries: 2,
+              prev_text: "Prev",
+              next_text: "Next",
+              current_page: pageIndex,
+              callback: pageselectCallback
+            };
+
+            $("#Pagination").show();
+            $("#Pagination").pagination(pageRecordcount, optInit); //分页
+          }
+        }
+      });
+    }
+  </script>
+  <script type="text/javascript">
+// < !--
+      function MM_showHideLayers() { //v9.0
+        var i, p, v, obj, args = MM_showHideLayers.arguments;
+        for (i = 0; i < (args.length - 2); i += 3)
+          with (document) if (getElementById && ((obj = getElementById(args[i])) != null)) {
+            v = args[i + 2];
+            if (obj.style) { obj = obj.style; v = (v == "show") ? "visible" : (v == "hide") ? "hidden" : v; }
+            obj.visibility = v;
+          }
+      }
+//-->
+  </script>
+  <script language="javascript">
+    //图片滚动列表 mengjia 070927
+    var Speed_1 = 10; //速度(毫秒)
+    var Space_1 = 20; //每次移动(px)
+    var PageWidth_1 = 116 * 3; //翻页宽度
+    var interval_1 = 70000000000; //翻页间隔
+    var fill_1 = 0; //整体移位
+    var MoveLock_1 = false;
+    var MoveTimeObj_1;
+    var MoveWay_1 = "right";
+    var Comp_1 = 0;
+    var AutoPlayObj_1 = null;
+    function GetObj(objName) { if (document.getElementById) { return eval('document.getElementById("' + objName + '")') } else { return eval('document.all.' + objName) } }
+    function AutoPlay_1() { clearInterval(AutoPlayObj_1); AutoPlayObj_1 = setInterval('ISL_GoDown_1();ISL_StopDown_1();', interval_1) }
+    function ISL_GoUp_1() { if (MoveLock_1) return; clearInterval(AutoPlayObj_1); MoveLock_1 = true; MoveWay_1 = "left"; MoveTimeObj_1 = setInterval('ISL_ScrUp_1();', Speed_1); }
+    function ISL_StopUp_1() {
+      if (MoveWay_1 == "right") { return }; clearInterval(MoveTimeObj_1); if ((GetObj('ISL_Cont_1').scrollLeft - fill_1) % PageWidth_1 != 0) { Comp_1 = fill_1 - (GetObj('ISL_Cont_1').scrollLeft % PageWidth_1); CompScr_1() } else { MoveLock_1 = false }
+      AutoPlay_1()
+    }
+    function ISL_ScrUp_1() {
+      if (GetObj('ISL_Cont_1').scrollLeft <= 0) { GetObj('ISL_Cont_1').scrollLeft = GetObj('ISL_Cont_1').scrollLeft + GetObj('List1_1').offsetWidth }
+      GetObj('ISL_Cont_1').scrollLeft -= Space_1
+    }
+    function ISL_GoDown_1() { clearInterval(MoveTimeObj_1); if (MoveLock_1) return; clearInterval(AutoPlayObj_1); MoveLock_1 = true; MoveWay_1 = "right"; ISL_ScrDown_1(); MoveTimeObj_1 = setInterval('ISL_ScrDown_1()', Speed_1) }
+    function ISL_StopDown_1() {
+      if (MoveWay_1 == "left") { return }; clearInterval(MoveTimeObj_1); if (GetObj('ISL_Cont_1').scrollLeft % PageWidth_1 - (fill_1 >= 0 ? fill_1 : fill_1 + 1) != 0) { Comp_1 = PageWidth_1 - GetObj('ISL_Cont_1').scrollLeft % PageWidth_1 + fill_1; CompScr_1() } else { MoveLock_1 = false }
+      AutoPlay_1()
+    }
+    function ISL_ScrDown_1() {
+      if (GetObj('ISL_Cont_1').scrollLeft >= GetObj('List1_1').scrollWidth) { GetObj('ISL_Cont_1').scrollLeft = GetObj('ISL_Cont_1').scrollLeft - GetObj('List1_1').scrollWidth }
+      GetObj('ISL_Cont_1').scrollLeft += Space_1
+    }
+    function CompScr_1() {
+      if (Comp_1 == 0) { MoveLock_1 = false; return }
+      var num, TempSpeed = Speed_1, TempSpace = Space_1; if (Math.abs(Comp_1) < PageWidth_1 / 2) { TempSpace = Math.round(Math.abs(Comp_1 / Space_1)); if (TempSpace < 1) { TempSpace = 1 } }
+      if (Comp_1 < 0) {
+        if (Comp_1 < -TempSpace) { Comp_1 += TempSpace; num = TempSpace } else { num = -Comp_1; Comp_1 = 0 }
+        GetObj('ISL_Cont_1').scrollLeft -= num; setTimeout('CompScr_1()', TempSpeed)
+      } else {
+        if (Comp_1 > TempSpace) { Comp_1 -= TempSpace; num = TempSpace } else { num = Comp_1; Comp_1 = 0 }
+        GetObj('ISL_Cont_1').scrollLeft += num; setTimeout('CompScr_1()', TempSpeed)
+      }
+    }
+    function picrun_ini() {
+      GetObj("List2_1").innerHTML = GetObj("List1_1").innerHTML;
+      GetObj('ISL_Cont_1').scrollLeft = fill_1 >= 0 ? fill_1 : GetObj('List1_1').scrollWidth - Math.abs(fill_1);
+      GetObj("ISL_Cont_1").onmouseover = function () { clearInterval(AutoPlayObj_1) }
+      GetObj("ISL_Cont_1").onmouseout = function () { AutoPlay_1() }
+      AutoPlay_1();
+    }
+//产品展示滚动图片结束
+//-->
+  </script>
+
+
+  <style type="text/css">
+    <!--
+    .blk_18 {
+      MARGIN-TOP: 8px;
+      FONT-SIZE: 12px;
+      OVERFLOW: hidden;
+      WIDTH: 827px;
+      ZOOM: 1
+    }
+
+    .blk_18 .pcont {
+      FLOAT: left;
+      OVERFLOW: hidden;
+      WIDTH: 787px
+    }
+
+    .blk_18 .ScrCont {
+      WIDTH: 42766px;
+      ZOOM: 1
+    }
+
+    .blk_18 #List1_1 {
+      FLOAT: left
+    }
+
+    .blk_18 #List2_1 {
+      FLOAT: left
+    }
+
+    .blk_18 .LeftBotton {
+      BACKGROUND: url(images/picr_1.gif) no-repeat;
+      FLOAT: left;
+      MARGIN: 10px 1px;
+      WIDTH: 15px;
+      HEIGHT: 72px
+    }
+
+    .blk_18 .RightBotton {
+      BACKGROUND: url(images/picr_1.gif) no-repeat;
+      FLOAT: left;
+      MARGIN: 10px 1px;
+      WIDTH: 15px;
+      HEIGHT: 72px
+    }
+
+    .blk_18 .LeftBotton {
+      BACKGROUND-POSITION: 0px 0px;
+      MARGIN-LEFT: 5px
+    }
+
+    .blk_18 .RightBotton {
+      BACKGROUND-POSITION: 0px -100px;
+      MARGIN-LEFT: -1px
+    }
+
+    .blk_18 .LeftBotton:hover {
+      BACKGROUND-POSITION: -20px 0px
+    }
+
+    .blk_18 .RightBotton:hover {
+      BACKGROUND-POSITION: -20px -100px
+    }
+
+    .blk_18 .pl IMG {
+      DISPLAY: block;
+      MARGIN: 6px auto 1px;
+      CURSOR: pointer;
+      BORDER-TOP-STYLE: none;
+      BORDER-RIGHT-STYLE: none;
+      BORDER-LEFT-STYLE: none;
+      BORDER-BOTTOM-STYLE: none
+    }
+
+    .blk_18 .pl {
+      FLOAT: left;
+      WIDTH: 114px;
+      LINE-HEIGHT: 24px;
+      TEXT-ALIGN: center;
+      TEXT-DECORATION: underline
+    }
+
+    .blk_18 A.pl:hover {
+      BORDER-RIGHT: #ff9900 1px solid;
+      BORDER-TOP: #ff9900 1px solid;
+      BACKGROUND: #fff;
+      BORDER-LEFT: #ff9900 1px solid;
+      COLOR: #ff9900;
+      BORDER-BOTTOM: #ff9900 1px solid
+    }
+
+    .commu_cont3 {
+      MARGIN: 9px 7px 7px;
+      LINE-HEIGHT: 150%
+    }
+
+    .commu_cont3 UL {
+      WIDTH: 188px
+    }
+
+    #homeflash {
+      position: absolute;
+      top: 20px;
+    }
+    -->
+  </style>
+  
+</head>
+
+<body>
+  <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td height="20">&nbsp;</td>
+    </tr>
+  </tbody></table>
+  <table width="931" border="0" align="center" cellpadding="0" cellspacing="0">
+
+    <tbody><tr>
+      <td><a href="index.html"><img src="images/bg_03.jpg" width="128" height="44"></a></td>
+      <td><img src="images/bg_04.jpg" width="116" height="44" onmouseover="MM_showHideLayers(&quot;menuDiv1&quot;,&quot;&quot;,&quot;show&quot;)" onmouseout="MM_showHideLayers(&quot;menuDiv1&quot;,&quot;&quot;,&quot;hide&quot;)"></td>
+      <td><a href="sknow.html"><img src="images/bg_05.jpg" width="115" height="44"></a></td>
+      <td><a href="contactus.html"><img src="images/bg_06.jpg" width="115" height="44"></a></td>
+      <td><a href="Alumni.html"><img src="images/bg_071.jpg" width="115" height="44"></a></td>
+      <td><a href="links.html"><img src="images/bg_07.jpg" width="115" height="44"></a></td>
+      <td><a href="https://portal.sarada.edu.sg/login" target="_blank"><img src="images/bg_08.jpg" width="115" height="44"></a></td>
+      <td><a href="https://www.facebook.com/SaradaKG" target="_blank"><img src="images/Kindergarten_face.jpg" width="53" height="44"></a></td>
+      <td><a href="http://www.twitter.com/SaradaKg" target="_blank"><img src="images/Kindergarten_twitter.jpg" width="57" height="44"></a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <div id="menuDiv1" style="width:116px;" onmouseover="MM_showHideLayers(&quot;menuDiv1&quot;,&quot;&quot;,&quot;show&quot;)" onmouseout="MM_showHideLayers(&quot;menuDiv1&quot;,&quot;&quot;,&quot;hide&quot;)">
+          <table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF" class="menubg01">
+            <tbody><tr>
+              <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02" width="119"><a href="about.html">Our Vision, Mission and Core Values</a></td>
+            </tr>
+            <tr>
+              <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02"><a href="Learning.html">Learning Goals</a></td>
+            </tr>
+            <tr>
+              <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02"><a href="General.html">General Info</a></td>
+            </tr>
+            <tr>
+              <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02"><a href="History.html">History</a></td>
+            </tr>
+            <tr>
+              <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02"><a href="handbook.html">Handbook</a></td>
+            </tr>
+
+          </tbody></table>
+        </div>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody></table>
+  <table width="931" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td height="210"><img src="images/banner.jpg" width="931" height="210" border="0" usemap="#Map2"> </td>
+      <!--<td><div id="homeflash" style="width:145px; height:106px;" ><a href="http://sarada.dyndns.org:8080/apex/f?p=ars" target="_blank"><img src="images/book.jpg" width="145" height="106" border="0"/></a></div></td>-->
+    </tr>
+  </tbody></table>
+  <table width="931" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td width="53"><a href="album.html"><img src="images/bg_12.jpg" width="53" height="168"></a></td>
+      <td width="831" valign="top" background="images/bg_13.jpg">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td height="49" align="right">
+              <table width="52%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td><a href="https://photos.google.com/u/1/albums" target="_blank"><img src="images/bg_16-17.jpg" width="142" height="36"></a></td>
+                  <td><a href="http://www.youtube.com/user/saradakg" target="_blank"><img src="images/bg_20-21.jpg" width="142" height="36"></a></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr>
+            <td height="105">
+              <table width="825" height="39" border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                  <td height="90">
+                    <!-- picrotate_left start  -->
+                    <div class="blk_18"><a onmouseup="ISL_StopUp_1()" class="LeftBotton" onmousedown="ISL_GoUp_1()" onmouseout="ISL_StopUp_1()" href="javascript:void(0);" target="_self"></a>
+                      <div class="pcont" id="ISL_Cont_1">
+                        <div class="ScrCont">
+                          <div id="List1_1">
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01021.png" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01022.png" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01023.png" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01024.png" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01025.png" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01026.png" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01027.png" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01028.png" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01029.png" width="115" height="90"></a>
+
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/1.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/2.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/3.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/4.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/5.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/6.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/7.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/8.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/9.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/10.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/11.jpg" width="115" height="90"></a>
+                          </div>
+                          <div id="List2_1">
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01021.png" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01022.png" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01023.png" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01024.png" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01025.png" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01026.png" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01027.png" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01028.png" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/01029.png" width="115" height="90"></a>
+
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/1.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/2.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/3.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/4.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/5.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/6.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/7.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/8.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/9.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/10.jpg" width="115" height="90"></a>
+                            <a href="https://www.flickr.com/photos/185503495@N03/albums" target="_blank"><img src="homepic/11.jpg" width="115" height="90"></a>
+                          </div>
+                        </div>
+                      </div>
+                      <a onmouseup="ISL_StopDown_1()" class="RightBotton" onmousedown="ISL_GoDown_1()" onmouseout="ISL_StopDown_1()" href="javascript:void(0);" target="_self"></a>
+                    </div>
+                    <script type="text/javascript">
+<!--
+picrun_ini()
+//-->
+</script>
+                    <!-- picrotate_left end -->
+                  </td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+      <td width="47"><img src="images/bg_13-15.jpg" width="47" height="168"></td>
+    </tr>
+  </tbody></table>
+  <table width="931" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td valign="top">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td>
+              <h3 style="padding:0.5rem;background-color:#92E1F4;border-radius: 12px;margin: 12px 12px 0px 12px">Our
+                Vision</h3>
+              <br>
+              <p style="margin:0px 12px 12px 12px; font-size: 22px;
+  color: blue">A thinking and caring community rooted in values.</p>
+            </td>
+          </tr>
+
+        </tbody></table>
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td height="284" valign="top">
+              <table width="100%" height="51" border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                  <td height="51">
+                    <h3 style="padding:0.5rem;background-color:#ECF44E;border-radius: 12px;margin: 12px 12px 0px 12px">
+                      Our Mission</h3>
+                  </td>
+                </tr>
+              </tbody></table>
+              <table width="100%" height="214" border="0" cellpadding="0" cellspacing="0" style="margin-top:12px;">
+                <tbody><tr>
+                  <td width="54%">
+
+
+                    <p style="margin:12px 12px 12px 12px; color: blue; font-size: 20px;">Nurturing curious, creative and
+                      critical learners</p>
+                    <p style="margin:12px 12px 12px 12px;color: blue; font-size: 20px;">Caring for oneself, others and our
+                      environment </p>
+                    <p style="margin:12px 12px 12px 12px;color: blue; font-size: 20px;">Creating a happy place</p>
+
+                  </td>
+
+
+                  <td width="46%" valign="top">
+                    <table width="290" height="210" border="0" cellpadding="0" cellspacing="0" class="k">
+                      <tbody><tr>
+                        <td>
+                          <!--js开始 -->
+                          <div id="js" class="js"><img alt="" src="images/2-1.jpg">
+                            <img style="DISPLAY: none" alt="" src="images/2-2.jpg">
+                            <img style="DISPLAY: none" alt="" src="images/2-3.jpg">
+                            <img style="DISPLAY: none" alt="" src="images/2-4.jpg">
+                            <img style="DISPLAY: none" alt="" src="images/2-5.jpg">
+                            <img style="DISPLAY: none" alt="" src="images/2-6.jpg">
+                            <img style="DISPLAY: none" alt="" src="images/2-7.jpg">
+                            <img style="DISPLAY: none" alt="" src="images/2-8.jpg">
+                            <img style="DISPLAY: none" alt="" src="images/2-9.jpg">
+                            <img style="DISPLAY: none" alt="" src="images/2-10.jpg">
+                            <img style="DISPLAY: none" alt="" src="images/2-11.jpg">
+                            <img style="DISPLAY: none" alt="" src="images/2-12.jpg">
+                            <img style="DISPLAY: none" alt="" src="images/2-13.jpg">
+                            <img style="DISPLAY: none" alt="" src="images/2-14.jpg">
+                            <img style="DISPLAY: none" alt="" src="images/2-15.jpg">
+                            <img style="DISPLAY: none" alt="" src="images/2-16.jpg">
+                            <img style="DISPLAY: none" alt="" src="images/2-17.jpg">
+                            <img style="DISPLAY: none" alt="" src="images/2-18.jpg">
+                            <!--<IMG style="DISPLAY: none" alt="" src="images/2-19.jpg">
+                            <IMG style="DISPLAY: none" alt="" src="images/2-20.jpg">
+                            <IMG style="DISPLAY: none" alt="" src="images/2-21.jpg">
+                            <IMG style="DISPLAY: none" alt="" src="images/2-22.jpg">
+                            <IMG style="DISPLAY: none" alt="" src="images/2-23.jpg">
+                            <IMG style="DISPLAY: none" alt="" src="images/2-24.jpg">
+                            <IMG style="DISPLAY: none" alt="" src="images/2-25.jpg">
+                            <IMG style="DISPLAY: none" alt="" src="images/2-26.jpg">
+                            <IMG style="DISPLAY: none" alt="" src="images/2-27.jpg">
+                            <IMG style="DISPLAY: none" alt="" src="images/2-28.jpg">
+                            <IMG style="DISPLAY: none" alt="" src="images/2-29.jpg">-->                            
+                            
+                            <div id="jsNav" class="jsNav">
+                              <a id="prev" class="prevBtn" href="javascript:void(0)"></a>
+                              <a class="trigger imgSelected" href="javascript:void(0)"></a>
+                              <a class="trigger" href="javascript:void(0)"></a>
+                              <a class="trigger" href="javascript:void(0)"></a>
+                              <a class="trigger" href="javascript:void(0)"></a>
+                              <a class="trigger" href="javascript:void(0)"></a>
+                              <a class="trigger" href="javascript:void(0)"></a>
+                              <a class="trigger" href="javascript:void(0)"></a>
+                              <a class="trigger" href="javascript:void(0)"></a>
+                              <a class="trigger" href="javascript:void(0)"></a>
+                              <a class="trigger" href="javascript:void(0)"></a>
+                              <a class="trigger" href="javascript:void(0)"></a>
+                              <a class="trigger" href="javascript:void(0)"></a>
+                              <a class="trigger" href="javascript:void(0)"></a>
+                              <a class="trigger" href="javascript:void(0)"></a>
+                              <a class="trigger" href="javascript:void(0)"></a>
+                              <a class="trigger" href="javascript:void(0)"></a>
+                              <a id="next" class="nextBtn" href="javascript:void(0)"></a>
+                            </div>
+                          </div>
+                          <!--js结束-->
+                        </td>
+                      </tr>
+                    </tbody></table>
+                  </td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+      <td width="226" valign="top">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td><a href=""><img src="images/201108015-Sarada-Kindergarten_28.jpg" width="226" height="49"></a></td>
+          </tr>
+          <tr>
+            <td height="116" valign="top" background="images/201108015-Sarada-Kindergarten_29.jpg">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td width="8%">&nbsp;</td>
+                  <td width="92%" class="school_indexinfo">
+                    <li><a href="news.html" title="Urgent Notice" rel="bookmark" class="title">Urgent Notice</a></li>
+                    <li><a href="news.html" title="Announcement" rel="bookmark" class="title">Announcement</a></li>
+                    <li><a href="pastevents.html" title="Past Events" rel="bookmark" class="title">Past Events</a></li>
+                    <li><a href="schcalendar.html" title="2024 Calendar of Events" rel="bookmark" class="title">2024 Calendar of Events</a></li>
+                  </td>
+                </tr>
+                <tr>
+                  <td width="8%">&nbsp;</td>
+                  <td width="92%" class="school_indexinfo">
+                    <li>&nbsp;<a href="https://issuu.com/rkmissionsg/docs/kaleidoscope_v21_150_1" target="_blank">Sarada
+                        - Kaleidoscope</a></li>
+                  </td>
+                </tr>
+              </tbody>
+              </table>            
+            </td>
+          </tr>
+          <tr>
+            <td height="26" valign="top"><img src="images/201108015-Sarada-Kindergarten_31.jpg" width="226" height="241" border="0" usemap="#Map"></td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>
+  <table width="931" border="0" align="center" cellpadding="0" cellspacing="0" background="images/bg_29-30.jpg">
+    <tbody><tr>
+      <td height="90" valign="top">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td width="12" height="13">&nbsp;</td>
+            <td>&nbsp;</td>
+            <td colspan="2">&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td width="610" align="left" valign="top">&nbsp;</td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>
+
+  <map name="Map" id="Map">
+    <area shape="rect" coords="16,10,175,42" href="Achievements.html">
+    <area shape="rect" coords="13,48,172,78" href="Volunteering.html">
+    <area shape="rect" coords="16,83,127,117" href="Career.html">
+    <area shape="rect" coords="17,123,193,152" href="Parenting.html">
+  </map>
+  <map name="Map2" id="Map2"><area shape="rect" coords="721,40,895,175" href="http://www.ecda.gov.sg/sparkinfo/Pages/Home.aspx" target="_blank">
+  </map>
+
+</body></html>

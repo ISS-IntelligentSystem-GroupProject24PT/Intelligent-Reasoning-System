@@ -1,0 +1,1167 @@
+<html lang="en-US" class="js cssanimations fontawesome-i2svg-active fontawesome-i2svg-complete" style="scroll-behavior: auto;"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.3333333333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-both,:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.svg-inline--fa .fa-primary{fill:var(--fa-primary-color,currentColor);opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa .fa-secondary{fill:var(--fa-secondary-color,currentColor);opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-primary{opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-secondary{opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa mask .fa-primary,.svg-inline--fa mask .fa-secondary{fill:#000}.fad.fa-inverse{color:#fff}</style><link rel="pingback" href="https://mulberrylearning.com/xmlrpc.php">
+<meta name="google-site-verification" content="EHpUEaeWH6yngcmGCHONwXZ7aZzb-DJtOcFH0JEvWWw">
+
+<style type="text/css">/*
+Welcome to the Special Recent Posts Custom CSS editor!
+Please add all your custom CSS here and avoid modifying the core plugin files, since that'll make upgrading the plugin problematic. Your custom CSS will be loaded in your <head> section of your wordpress theme, which means that your rules will take precedence. Just add your CSS here for what you want to change, you don't need to copy all the plugin's stylesheet content.
+*/</style> <style class="fit-vids-style" id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><script type="text/javascript" async="" src="https://static.hotjar.com/c/hotjar-2984833.js?sv=7"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-827120513&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-860129580&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-860128926&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-4FECCK7LHW&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://chimpstatic.com/mcjs-connected/js/users/a245cf8d4779ac128c53e9ff2/73fe18232686e1749d1eeca7b.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TH6Z92X"></script><script src="https://connect.facebook.net/signals/config/5361947790547421?v=2.9.151&amp;r=stable&amp;domain=mulberrylearning.com&amp;hme=8ce74e881727851b4427183947937854816d72704925561b9de6420cd43214ee&amp;ex_m=66%2C111%2C98%2C102%2C57%2C3%2C92%2C65%2C15%2C90%2C83%2C48%2C50%2C157%2C160%2C171%2C167%2C168%2C170%2C28%2C93%2C49%2C72%2C169%2C152%2C155%2C164%2C165%2C172%2C120%2C14%2C47%2C176%2C175%2C122%2C17%2C32%2C36%2C1%2C40%2C61%2C62%2C63%2C67%2C87%2C16%2C13%2C89%2C86%2C85%2C99%2C101%2C35%2C100%2C29%2C25%2C153%2C156%2C129%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C53%2C58%2C60%2C70%2C94%2C26%2C71%2C8%2C7%2C75%2C45%2C20%2C96%2C95%2C9%2C19%2C18%2C77%2C82%2C44%2C43%2C81%2C37%2C39%2C80%2C52%2C78%2C31%2C41%2C34%2C69%2C0%2C88%2C4%2C84%2C76%2C79%2C2%2C33%2C59%2C38%2C97%2C42%2C74%2C64%2C103%2C56%2C55%2C30%2C91%2C54%2C51%2C46%2C73%2C68%2C23%2C104%2C182%2C181%2C183%2C188%2C189%2C190%2C186%2C178%2C121%2C149%2C177%2C179%2C112%2C143%2C134%2C138%2C118%2C173%2C214%2C105%2C215%2C151%2C109%2C132%2C125%2C113%2C123%2C116" async=""></script><script src="https://connect.facebook.net/signals/config/1190181695095851?v=2.9.151&amp;r=stable&amp;domain=mulberrylearning.com&amp;hme=8ce74e881727851b4427183947937854816d72704925561b9de6420cd43214ee&amp;ex_m=66%2C111%2C98%2C102%2C57%2C3%2C92%2C65%2C15%2C90%2C83%2C48%2C50%2C157%2C160%2C171%2C167%2C168%2C170%2C28%2C93%2C49%2C72%2C169%2C152%2C155%2C164%2C165%2C172%2C120%2C14%2C47%2C176%2C175%2C122%2C17%2C32%2C36%2C1%2C40%2C61%2C62%2C63%2C67%2C87%2C16%2C13%2C89%2C86%2C85%2C99%2C101%2C35%2C100%2C29%2C25%2C153%2C156%2C129%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C53%2C58%2C60%2C70%2C94%2C26%2C71%2C8%2C7%2C75%2C45%2C20%2C96%2C95%2C9%2C19%2C18%2C77%2C82%2C44%2C43%2C81%2C37%2C39%2C80%2C52%2C78%2C31%2C41%2C34%2C69%2C0%2C88%2C4%2C84%2C76%2C79%2C2%2C33%2C59%2C38%2C97%2C42%2C74%2C64%2C103%2C56%2C55%2C30%2C91%2C54%2C51%2C46%2C73%2C68%2C23%2C104%2C182%2C181%2C183%2C188%2C189%2C190%2C186%2C178%2C121%2C149%2C177%2C179%2C112%2C143%2C134%2C138%2C118%2C173%2C214%2C105%2C215%2C151%2C109%2C132%2C125%2C113%2C123%2C116" async=""></script><script src="https://connect.facebook.net/signals/config/637908518031459?v=2.9.151&amp;r=stable&amp;domain=mulberrylearning.com&amp;hme=8ce74e881727851b4427183947937854816d72704925561b9de6420cd43214ee&amp;ex_m=66%2C111%2C98%2C102%2C57%2C3%2C92%2C65%2C15%2C90%2C83%2C48%2C50%2C157%2C160%2C171%2C167%2C168%2C170%2C28%2C93%2C49%2C72%2C169%2C152%2C155%2C164%2C165%2C172%2C120%2C14%2C47%2C176%2C175%2C122%2C17%2C32%2C36%2C1%2C40%2C61%2C62%2C63%2C67%2C87%2C16%2C13%2C89%2C86%2C85%2C99%2C101%2C35%2C100%2C29%2C25%2C153%2C156%2C129%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C53%2C58%2C60%2C70%2C94%2C26%2C71%2C8%2C7%2C75%2C45%2C20%2C96%2C95%2C9%2C19%2C18%2C77%2C82%2C44%2C43%2C81%2C37%2C39%2C80%2C52%2C78%2C31%2C41%2C34%2C69%2C0%2C88%2C4%2C84%2C76%2C79%2C2%2C33%2C59%2C38%2C97%2C42%2C74%2C64%2C103%2C56%2C55%2C30%2C91%2C54%2C51%2C46%2C73%2C68%2C23%2C104%2C182%2C181%2C183%2C188%2C189%2C190%2C186%2C178%2C121%2C149%2C177%2C179%2C112%2C143%2C134%2C138%2C118%2C173%2C214%2C105%2C215%2C151%2C109%2C132%2C125%2C113" async=""></script><script src="https://connect.facebook.net/signals/config/240202473020805?v=2.9.151&amp;r=stable&amp;domain=mulberrylearning.com&amp;hme=8ce74e881727851b4427183947937854816d72704925561b9de6420cd43214ee&amp;ex_m=66%2C111%2C98%2C102%2C57%2C3%2C92%2C65%2C15%2C90%2C83%2C48%2C50%2C157%2C160%2C171%2C167%2C168%2C170%2C28%2C93%2C49%2C72%2C169%2C152%2C155%2C164%2C165%2C172%2C120%2C14%2C47%2C176%2C175%2C122%2C17%2C32%2C36%2C1%2C40%2C61%2C62%2C63%2C67%2C87%2C16%2C13%2C89%2C86%2C85%2C99%2C101%2C35%2C100%2C29%2C25%2C153%2C156%2C129%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C53%2C58%2C60%2C70%2C94%2C26%2C71%2C8%2C7%2C75%2C45%2C20%2C96%2C95%2C9%2C19%2C18%2C77%2C82%2C44%2C43%2C81%2C37%2C39%2C80%2C52%2C78%2C31%2C41%2C34%2C69%2C0%2C88%2C4%2C84%2C76%2C79%2C2%2C33%2C59%2C38%2C97%2C42%2C74%2C64%2C103%2C56%2C55%2C30%2C91%2C54%2C51%2C46%2C73%2C68%2C23%2C104" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
+        writeCookie();
+        function writeCookie()
+        {
+            the_cookie = document.cookie;
+            if( the_cookie ){
+                if( window.devicePixelRatio >= 2 ){
+                    the_cookie = "pixel_ratio="+window.devicePixelRatio+";"+the_cookie;
+                    document.cookie = the_cookie;
+                }
+            }
+        }
+    </script>
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<script type="text/javascript">function rgmkInitGoogleMaps(){window.rgmkGoogleMapsCallback=true;try{jQuery(document).trigger("rgmkGoogleMapsLoad")}catch(err){}}</script> 
+<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js' );
+	fbq( 'init', '240202473020805' );	</script>
+
+
+
+<script data-cfasync="false" data-pagespeed-no-defer="">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+
+
+<title>Parents of Ronja (PN), Mulberry Learning @ Dover - Mulberry Learning</title>
+<link rel="canonical" href="https://mulberrylearning.com/?testimonials=tiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Parents of Ronja (PN), Mulberry Learning @ Dover - Mulberry Learning">
+<meta property="og:description" content="Parents of Ronja (PN), Mulberry Learning @ Dover “The Pre Nursery teachers at Mulberry Learning @ Dover are passionate and loving towards the children in their care, including our daughter. We always see them smiling and having fun while they are teaching. I appreciate that they are open to feedback and work hand-in-hand with parents, like us, in nurturing the […]">
+<meta property="og:url" content="https://mulberrylearning.com/?testimonials=tiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover">
+<meta property="og:site_name" content="Mulberry Learning">
+<meta property="article:modified_time" content="2023-04-25T09:33:53+00:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:label1" content="Est. reading time">
+<meta name="twitter:data1" content="1 minute">
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://mulberrylearning.com/?testimonials=tiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover","url":"https://mulberrylearning.com/?testimonials=tiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover","name":"Parents of Ronja (PN), Mulberry Learning @ Dover - Mulberry Learning","isPartOf":{"@id":"https://mulberrylearning.com/#website"},"datePublished":"2023-04-17T08:50:38+00:00","dateModified":"2023-04-25T09:33:53+00:00","breadcrumb":{"@id":"https://mulberrylearning.com/?testimonials=tiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://mulberrylearning.com/?testimonials=tiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover"]}]},{"@type":"BreadcrumbList","@id":"https://mulberrylearning.com/?testimonials=tiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://mulberrylearning.com/"},{"@type":"ListItem","position":2,"name":"Testimonials","item":"https://mulberrylearning.com/?post_type=testimonials"},{"@type":"ListItem","position":3,"name":"Parents of Ronja (PN), Mulberry Learning @ Dover"}]},{"@type":"WebSite","@id":"https://mulberrylearning.com/#website","url":"https://mulberrylearning.com/","name":"Mulberry Learning","description":"","publisher":{"@id":"https://mulberrylearning.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://mulberrylearning.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://mulberrylearning.com/#organization","name":"Mulberry Learning Centre","url":"https://mulberrylearning.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://mulberrylearning.com/#/schema/logo/image/","url":"https://mulberrylearning.com/wp-content/uploads/2015/08/Mulberry-Logo-Hi-res.png","contentUrl":"https://mulberrylearning.com/wp-content/uploads/2015/08/Mulberry-Logo-Hi-res.png","width":3508,"height":2480,"caption":"Mulberry Learning Centre"},"image":{"@id":"https://mulberrylearning.com/#/schema/logo/image/"}}]}</script>
+
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link href="https://fonts.gstatic.com" crossorigin="" rel="preconnect">
+<link rel="stylesheet" id="srp-layout-stylesheet-css" href="https://mulberrylearning.com/wp-content/plugins/special-recent-posts/css/layout.css?ver=6.4.3" type="text/css" media="all">
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://mulberrylearning.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="buttonizer_frontend_style-css" href="https://mulberrylearning.com/wp-content/plugins/buttonizer-multifunctional-button/assets/legacy/frontend.css?v=9f851fb3203c740b13d66b2369b3636d&amp;ver=6.4.3" type="text/css" media="all">
+<link rel="stylesheet" id="buttonizer-icon-library-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css?ver=6.4.3" type="text/css" media="all" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous">
+<link rel="stylesheet" id="bg-shce-genericons-css" href="https://mulberrylearning.com/wp-content/plugins/show-hidecollapse-expand/assets/css/genericons/genericons.css?ver=6.4.3" type="text/css" media="all">
+<link rel="stylesheet" id="bg-show-hide-css" href="https://mulberrylearning.com/wp-content/plugins/show-hidecollapse-expand/assets/css/bg-show-hide.css?ver=6.4.3" type="text/css" media="all">
+<link rel="stylesheet" id="wp-live-chat-support-css" href="https://mulberrylearning.com/wp-content/plugins/wp-live-chat-support/public/css/wplc-plugin-public.css?ver=10.0.11" type="text/css" media="all">
+<link rel="stylesheet" id="tablepress-default-css" href="https://mulberrylearning.com/wp-content/tablepress-combined.min.css?ver=61" type="text/css" media="all">
+<link rel="stylesheet" id="cf7cf-style-css" href="https://mulberrylearning.com/wp-content/plugins/cf7-conditional-fields/style.css?ver=2.4.7" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="https://mulberrylearning.com/wp-content/themes/dante/css/bootstrap.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-v5-css" href="https://mulberrylearning.com/wp-content/themes/dante/css/font-awesome.min.css?ver=5.10.1" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-v4shims-css" href="https://mulberrylearning.com/wp-content/themes/dante/css/v4-shims.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="ssgizmo-css" href="https://mulberrylearning.com/wp-content/themes/dante/css/ss-gizmo.css" type="text/css" media="all">
+<link rel="stylesheet" id="sf-responsive-css" href="https://mulberrylearning.com/wp-content/themes/dante/css/responsive.css" type="text/css" media="all">
+<link rel="stylesheet" id="__EPYT__style-css" href="https://mulberrylearning.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=14.2.1" type="text/css" media="all">
+<style id="__EPYT__style-inline-css" type="text/css">
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<link rel="stylesheet" id="jquery-ui-css" href="https://mulberrylearning.com/wp-content/themes/mulberry/css/jquery-ui.min.css?ver=6.4.3" type="text/css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="https://mulberrylearning.com/wp-content/themes/dante/style.css?ver=6.4.3" type="text/css" media="all">
+<style id="sf-font-css" media="all">/* cyrillic-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/raleway/v29/1Ptug8zYS_SKggPNyCAIT5lu.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/raleway/v29/1Ptug8zYS_SKggPNyCkIT5lu.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/raleway/v29/1Ptug8zYS_SKggPNyCIIT5lu.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/raleway/v29/1Ptug8zYS_SKggPNyCMIT5lu.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/raleway/v29/1Ptug8zYS_SKggPNyC0ITw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/raleway/v29/1Ptug8zYS_SKggPNyCAIT5lu.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/raleway/v29/1Ptug8zYS_SKggPNyCkIT5lu.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/raleway/v29/1Ptug8zYS_SKggPNyCIIT5lu.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/raleway/v29/1Ptug8zYS_SKggPNyCMIT5lu.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/raleway/v29/1Ptug8zYS_SKggPNyC0ITw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/raleway/v29/1Ptug8zYS_SKggPNyCAIT5lu.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/raleway/v29/1Ptug8zYS_SKggPNyCkIT5lu.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/raleway/v29/1Ptug8zYS_SKggPNyCIIT5lu.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/raleway/v29/1Ptug8zYS_SKggPNyCMIT5lu.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/raleway/v29/1Ptug8zYS_SKggPNyC0ITw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+</style>
+<link rel="stylesheet" id="child-style-css" href="https://mulberrylearning.com/wp-content/themes/mulberry/style.css?ver=1.1.6" type="text/css" media="all">
+<link rel="stylesheet" id="colorbox-css-css" href="https://mulberrylearning.com/wp-content/themes/mulberry/css/colorbox.css?ver=6.4.3" type="text/css" media="all">
+<script type="text/javascript" src="https://mulberrylearning.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="__ytprefs__-js-extra">
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https:\/\/mulberrylearning.com\/wp-admin\/admin-ajax.php","security":"d096cb4c06","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/mulberrylearning.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/mulberrylearning.com\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"14.2.1","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","maxres_facade":"eager","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","facade_mode":"","not_live_on_channel":"","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=14.2.1" id="__ytprefs__-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/mulberry/js/jquery-ui.min.js?ver=6.4.3" id="jquery-ui-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/mulberry/main.js?ver=1.7.4" id="mulberry-main-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/mulberry/js/mul_landing.js?ver=1.1" id="mul-add-child-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/mulberry/js/jquery.colorbox-min.js?ver=6.4.3" id="colorbox-js-js"></script>
+<link rel="https://api.w.org/" href="https://mulberrylearning.com/wp-json/"><link rel="shortlink" href="https://mulberrylearning.com/?p=32580">
+<link rel="alternate" type="application/json+oembed" href="https://mulberrylearning.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmulberrylearning.com%2F%3Ftestimonials%3Dtiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover">
+<link rel="alternate" type="text/xml+oembed" href="https://mulberrylearning.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmulberrylearning.com%2F%3Ftestimonials%3Dtiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover&amp;format=xml">
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=110270502"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '110270502');
+</script>
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+<script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" data-auto-replace-svg="nest"></script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TH6Z92X');</script>
+
+
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '637908518031459');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=637908518031459&ev=PageView&noscript=1"
+/></noscript>
+
+<script id="pixel-chaty" async="true" src="https://cdn.chaty.app/pixel.js?id=v4ifil3a"></script>
+
+
+<script data-cfasync="false" data-pagespeed-no-defer="">
+	var dataLayer_content = {"pagePostType":"testimonials","pagePostType2":"single-testimonials","pagePostAuthor":"Mulberry Learning"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script type="text/javascript">
+	console.warn && console.warn("[GTM4WP] Google Tag Manager container code placement set to OFF !!!");
+	console.warn && console.warn("[GTM4WP] Data layer codes are active but GTM container must be loaded using custom coding !!!");
+</script>
+<meta name="generator" content="Elementor 3.19.4; features: e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-internal, google_font-enabled, font_display-auto">
+<script type="text/javascript">
+			var ajaxurl = 'https://mulberrylearning.com/wp-admin/admin-ajax.php';
+			</script>
+<style type="text/css">
+body, p, #commentform label, .contact-form label {font-size: 16px;line-height: 22px;}h1 {font-size: 24px;line-height: 36px;}h2 {font-size: 20px;line-height: 32px;}h3, .blog-item .quote-excerpt {font-size: 20px;line-height: 26px;}h4, .body-content.quote, #respond-wrap h3, #respond h3 {font-size: 15px;line-height: 23px;}h5 {font-size: 13px;line-height: 21px;}h6 {font-size: 12px;line-height: 18px;}nav .menu li {font-size: 14px;}::selection, ::-moz-selection {background-color: #e92d8d; color: #fff;}.recent-post figure, span.highlighted, span.dropcap4, .loved-item:hover .loved-count, .flickr-widget li, .portfolio-grid li, input[type="submit"], .wpcf7 input.wpcf7-submit[type="submit"], .gform_wrapper input[type="submit"], .mymail-form input[type="submit"], .woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li span.current, figcaption .product-added, .woocommerce .wc-new-badge, .yith-wcwl-wishlistexistsbrowse a, .yith-wcwl-wishlistaddedbrowse a, .woocommerce .widget_layered_nav ul li.chosen > *, .woocommerce .widget_layered_nav_filters ul li a, .sticky-post-icon, .fw-video-close:hover {background-color: #e92d8d!important; color: #ffffff;}a:hover, a:focus, #sidebar a:hover, .pagination-wrap a:hover, .carousel-nav a:hover, .portfolio-pagination div:hover > i, #footer a:hover, #copyright a, .beam-me-up a:hover span, .portfolio-item .portfolio-item-permalink, .read-more-link, .blog-item .read-more, .blog-item-details a:hover, .author-link, #reply-title small a, #respond .form-submit input:hover, span.dropcap2, .spb_divider.go_to_top a, love-it-wrapper:hover .love-it, .love-it-wrapper:hover span.love-count, .love-it-wrapper .loved, .comments-likes .loved span.love-count, .comments-likes a:hover i, .comments-likes .love-it-wrapper:hover a i, .comments-likes a:hover span, .love-it-wrapper:hover a i, .item-link:hover, #header-translation p a, #swift-slider .flex-caption-large h1 a:hover, .wooslider .slide-title a:hover, .caption-details-inner .details span > a, .caption-details-inner .chart span, .caption-details-inner .chart i, #swift-slider .flex-caption-large .chart i, #breadcrumbs a:hover, .ui-widget-content a:hover, .yith-wcwl-add-button a:hover, #product-img-slider li a.zoom:hover, .woocommerce .star-rating span, .article-body-wrap .share-links a:hover, ul.member-contact li a:hover, .price ins, .bag-product a.remove:hover, .bag-product-title a:hover, #back-to-top:hover,  ul.member-contact li a:hover, .fw-video-link-image:hover i, .ajax-search-results .all-results:hover, .search-result h5 a:hover .ui-state-default a:hover {color: #e92d8d;}.carousel-wrap > a:hover, #mobile-menu ul li:hover > a {color: #e92d8d!important;}.comments-likes a:hover span, .comments-likes a:hover i {color: #e92d8d!important;}.read-more i:before, .read-more em:before {color: #e92d8d;}input[type="text"]:focus, input[type="email"]:focus, input[type="tel"]:focus, textarea:focus, .bypostauthor .comment-wrap .comment-avatar,.search-form input:focus, .wpcf7 input:focus, .wpcf7 textarea:focus, .ginput_container input:focus, .ginput_container textarea:focus, .mymail-form input:focus, .mymail-form textarea:focus {border-color: #e92d8d!important;}nav .menu ul li:first-child:after,.navigation a:hover > .nav-text, .returning-customer a:hover {border-bottom-color: #e92d8d;}nav .menu ul ul li:first-child:after {border-right-color: #e92d8d;}.spb_impact_text .spb_call_text {border-left-color: #e92d8d;}.spb_impact_text .spb_button span {color: #fff;}#respond .form-submit input#submit {border-color: #e4e4e4;background-color: #FFFFFF;}#respond .form-submit input#submit:hover {border-color: #e92d8d;background-color: #e92d8d;color: #ffffff;}.woocommerce .free-badge, .my-account-login-wrap .login-wrap form.login p.form-row input[type="submit"], .woocommerce .my-account-login-wrap form input[type="submit"] {background-color: #222222; color: #ffffff;}a[rel="tooltip"], ul.member-contact li a, .blog-item-details a, .post-info a, a.text-link, .tags-wrap .tags a, .logged-in-as a, .comment-meta-actions .edit-link, .comment-meta-actions .comment-reply, .read-more {border-color: #e92d8d;}.super-search-go {border-color: #e92d8d!important;}.super-search-go:hover {background: #e92d8d!important;border-color: #e92d8d!important;}body {color: #222222;}.pagination-wrap a, .search-pagination a {color: #222222;}.layout-boxed #header-search, .layout-boxed #super-search, body > .sf-super-search {background-color: #222222;}body {background-color: #222222;}#main-container, .tm-toggle-button-wrap a {background-color: #FFFFFF;}a, .ui-widget-content a {color: #666666;}.pagination-wrap li a:hover, ul.bar-styling li:not(.selected) > a:hover, ul.bar-styling li > .comments-likes:hover, ul.page-numbers li > a:hover, ul.page-numbers li > span.current {color: #ffffff!important;background: #e92d8d;border-color: #e92d8d;}ul.bar-styling li > .comments-likes:hover * {color: #ffffff!important;}.pagination-wrap li a, .pagination-wrap li span, .pagination-wrap li span.expand, ul.bar-styling li > a, ul.bar-styling li > div, ul.page-numbers li > a, ul.page-numbers li > span, .curved-bar-styling, ul.bar-styling li > form input {border-color: #e4e4e4;}ul.bar-styling li > a, ul.bar-styling li > span, ul.bar-styling li > div, ul.bar-styling li > form input {background-color: #FFFFFF;}input[type="text"], input[type="password"], input[type="email"], input[type="tel"], textarea, select {border-color: #e4e4e4;background: #f7f7f7;}textarea:focus, input:focus {border-color: #999!important;}.modal-header {background: #f7f7f7;}.recent-post .post-details, .team-member .team-member-position, .portfolio-item h5.portfolio-subtitle, .mini-items .blog-item-details, .standard-post-content .blog-item-details, .masonry-items .blog-item .blog-item-details, .jobs > li .job-date, .search-item-content time, .search-item-content span, .blog-item-details a, .portfolio-details-wrap .date,  .portfolio-details-wrap .tags-link-wrap {color: #222222;}ul.bar-styling li.facebook > a:hover {color: #fff!important;background: #3b5998;border-color: #3b5998;}ul.bar-styling li.twitter > a:hover {color: #fff!important;background: #4099FF;border-color: #4099FF;}ul.bar-styling li.google-plus > a:hover {color: #fff!important;background: #d34836;border-color: #d34836;}ul.bar-styling li.pinterest > a:hover {color: #fff!important;background: #cb2027;border-color: #cb2027;}#header-search input, #header-search a, .super-search-close, #header-search i.ss-search {color: #fff;}#header-search a:hover, .super-search-close:hover {color: #e92d8d;}.sf-super-search, .spb_supersearch_widget.asset-bg {background-color: #222222;}.sf-super-search .search-options .ss-dropdown > span, .sf-super-search .search-options input {color: #e92d8d; border-bottom-color: #e92d8d;}.sf-super-search .search-options .ss-dropdown ul li .fa-check {color: #e92d8d;}.sf-super-search-go:hover, .sf-super-search-close:hover { background-color: #e92d8d; border-color: #e92d8d; color: #ffffff;}#top-bar {background: #e92d8d; color: #ffffff;}#top-bar .tb-welcome {border-color: #f7f7f7;}#top-bar a {color: #ffffff;}#top-bar .menu li {border-left-color: #f7f7f7; border-right-color: #f7f7f7;}#top-bar .menu > li > a, #top-bar .menu > li.parent:after {color: #ffffff;}#top-bar .menu > li > a:hover, #top-bar a:hover {color: #1dc6df;}#top-bar .show-menu {background-color: #f7f7f7;color: #222222;}#header-languages .current-language {background: #f7f7f7; color: #000000;}#header-section:before, #header .is-sticky .sticky-header, #header-section .is-sticky #main-nav.sticky-header, #header-section.header-6 .is-sticky #header.sticky-header, .ajax-search-wrap {background-color: #ffffff;background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ffffff), to(#ffffff));background: -webkit-linear-gradient(top, #ffffff, #ffffff);background: -moz-linear-gradient(top, #ffffff, #ffffff);background: -ms-linear-gradient(top, #ffffff, #ffffff);background: -o-linear-gradient(top, #ffffff, #ffffff);}#logo img {padding-top: 0px;padding-bottom: 0px;}#logo img, #logo img.retina {width: 155px;}#logo {max-height: 42px;}#header-section .header-menu .menu li, #mini-header .header-right nav .menu li {border-left-color: #e4e4e4;}#header-section #main-nav {border-top-color: #e4e4e4;}#top-header {border-bottom-color: #e4e4e4;}#top-header {border-bottom-color: #e4e4e4;}#top-header .th-right > nav .menu li, .ajax-search-wrap:after {border-bottom-color: #e4e4e4;}.ajax-search-wrap, .ajax-search-results, .search-result-pt .search-result {border-color: #e4e4e4;}.page-content {border-bottom-color: #e4e4e4;}.ajax-search-wrap input[type="text"], .search-result-pt h6, .no-search-results h6, .search-result h5 a {color: #252525;}@media only screen and (max-width: 991px) {
+			.naked-header #header-section, .naked-header #header-section:before, .naked-header #header .is-sticky .sticky-header, .naked-header .is-sticky #header.sticky-header {background-color: #ffffff;background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ffffff), to(#ffffff));background: -webkit-linear-gradient(top, #ffffff, #ffffff);background: -moz-linear-gradient(top, #ffffff, #ffffff);background: -ms-linear-gradient(top, #ffffff, #ffffff);background: -o-linear-gradient(top, #ffffff, #ffffff);}
+			}nav#main-navigation .menu > li > a span.nav-line {background-color: #e92d8d;}.show-menu {background-color: #222222;color: #ffffff;}nav .menu > li:before {background: #e92d8d;}nav .menu .sub-menu .parent > a:after {border-left-color: #e92d8d;}nav .menu ul.sub-menu {background-color: #FFFFFF;}nav .menu ul.sub-menu li {border-bottom-color: #f0f0f0;border-bottom-style: solid;}nav.mega-menu li .mega .sub .sub-menu, nav.mega-menu li .mega .sub .sub-menu li, nav.mega-menu li .sub-container.non-mega li, nav.mega-menu li .sub li.mega-hdr {border-top-color: #f0f0f0;border-top-style: solid;}nav.mega-menu li .sub li.mega-hdr {border-right-color: #f0f0f0;border-right-style: solid;}nav .menu > li.menu-item > a, nav .menu > li.menu-item.indicator-disabled > a, #menubar-controls a, nav.search-nav .menu>li>a, .naked-header .is-sticky nav .menu > li a {color: #252525;}nav .menu > li.menu-item:hover > a {color: #e92d8d;}nav .menu ul.sub-menu li.menu-item > a, nav .menu ul.sub-menu li > span, #top-bar nav .menu ul li > a {color: #666666;}nav .menu ul.sub-menu li.menu-item:hover > a {color: #000000!important; background: #f7f7f7;}nav .menu li.parent > a:after, nav .menu li.parent > a:after:hover {color: #aaa;}nav .menu li.current-menu-ancestor > a, nav .menu li.current-menu-item > a, #mobile-menu .menu ul li.current-menu-item > a, nav .menu li.current-scroll-item > a {color: #1bbeb4;}nav .menu ul li.current-menu-ancestor > a, nav .menu ul li.current-menu-item > a {color: #000000; background: #f7f7f7;}#main-nav .header-right ul.menu > li, .wishlist-item {border-left-color: #f0f0f0;}#nav-search, #mini-search {background: #e92d8d;}#nav-search a, #mini-search a {color: #ffffff;}.bag-header, .bag-product, .bag-empty, .wishlist-empty {border-color: #f0f0f0;}.bag-buttons a.sf-button.bag-button, .bag-buttons a.sf-button.wishlist-button, .bag-buttons a.sf-button.guest-button {background-color: #e4e4e4; color: #222222!important;}.bag-buttons a.checkout-button, .bag-buttons a.create-account-button, .woocommerce input.button.alt, .woocommerce .alt-button, .woocommerce button.button.alt, .woocommerce #account_details .login form p.form-row input[type="submit"], #login-form .modal-body form.login p.form-row input[type="submit"] {background: #222222; color: #ffffff;}.woocommerce .button.update-cart-button:hover, .woocommerce #account_details .login form p.form-row input[type="submit"]:hover, #login-form .modal-body form.login p.form-row input[type="submit"]:hover {background: #e92d8d; color: #ffffff;}.woocommerce input.button.alt:hover, .woocommerce .alt-button:hover, .woocommerce button.button.alt:hover {background: #e92d8d; color: #ffffff;}.shopping-bag:before, nav .menu ul.sub-menu li:first-child:before {border-bottom-color: #e92d8d;}nav ul.menu > li.menu-item.sf-menu-item-btn > a {background-color: #e92d8d;color: #252525;}nav ul.menu > li.menu-item.sf-menu-item-btn:hover > a {color: #e92d8d;background-color: #252525;}#base-promo {background-color: #e4e4e4;}#base-promo > p, #base-promo.footer-promo-text > a, #base-promo.footer-promo-arrow > a {color: #222;}#base-promo.footer-promo-arrow:hover, #base-promo.footer-promo-text:hover {background-color: #e92d8d;color: #ffffff;}#base-promo.footer-promo-arrow:hover > *, #base-promo.footer-promo-text:hover > * {color: #ffffff;}.page-heading {background-color: #f7f7f7;border-bottom-color: #e4e4e4;}.page-heading h1, .page-heading h3 {color: #222222;}#breadcrumbs {color: #333333;}#breadcrumbs a, #breadcrumb i {color: #333333;}body, input[type="text"], input[type="password"], input[type="email"], textarea, select, .ui-state-default a {color: #222222;}h1, h1 a {color: #222222;}h2, h2 a {color: #222222;}h3, h3 a {color: #222222;}h4, h4 a, .carousel-wrap > a {color: #222222;}h5, h5 a {color: #222222;}h6, h6 a {color: #222222;}.spb_impact_text .spb_call_text, .impact-text, .impact-text-large {color: #222222;}.read-more i, .read-more em {color: transparent;}.pb-border-bottom, .pb-border-top, .read-more-button {border-color: #e4e4e4;}#swift-slider ul.slides {background: #222222;}#swift-slider .flex-caption .flex-caption-headline {background: #FFFFFF;}#swift-slider .flex-caption .flex-caption-details .caption-details-inner {background: #FFFFFF; border-bottom: #e4e4e4}#swift-slider .flex-caption-large, #swift-slider .flex-caption-large h1 a {color: #ffffff;}#swift-slider .flex-caption h4 i {line-height: 23px;}#swift-slider .flex-caption-large .comment-chart i {color: #ffffff;}#swift-slider .flex-caption-large .loveit-chart span {color: #e92d8d;}#swift-slider .flex-caption-large a {color: #e92d8d;}#swift-slider .flex-caption .comment-chart i, #swift-slider .flex-caption .comment-chart span {color: #222222;}figure.animated-overlay figcaption {background-color: #e92d8d;}
+figure.animated-overlay figcaption .thumb-info h4, figure.animated-overlay figcaption .thumb-info h5, figcaption .thumb-info-excerpt p {color: #ffffff;}figure.animated-overlay figcaption .thumb-info i {background: #222222; color: #ffffff;}figure:hover .overlay {box-shadow: inset 0 0 0 500px #e92d8d;}h4.spb-heading span:before, h4.spb-heading span:after, h3.spb-heading span:before, h3.spb-heading span:after, h4.lined-heading span:before, h4.lined-heading span:after {border-color: #e4e4e4}h4.spb-heading:before, h3.spb-heading:before, h4.lined-heading:before {border-top-color: #e4e4e4}.spb_parallax_asset h4.spb-heading {border-bottom-color: #222222}.testimonials.carousel-items li .testimonial-text {background-color: #f7f7f7;}.sidebar .widget-heading h4 {color: #222222;}.widget ul li, .widget.widget_lip_most_loved_widget li {border-color: #e4e4e4;}.widget.widget_lip_most_loved_widget li {background: #FFFFFF; border-color: #e4e4e4;}.widget_lip_most_loved_widget .loved-item > span {color: #222222;}.widget_search form input {background: #FFFFFF;}.widget .wp-tag-cloud li a {background: #f7f7f7; border-color: #e4e4e4;}.widget .tagcloud a:hover, .widget ul.wp-tag-cloud li:hover > a {background-color: #e92d8d; color: #ffffff;}.loved-item .loved-count > i {color: #222222;background: #e4e4e4;}.subscribers-list li > a.social-circle {color: #ffffff;background: #222222;}.subscribers-list li:hover > a.social-circle {color: #fbfbfb;background: #e92d8d;}.sidebar .widget_categories ul > li a, .sidebar .widget_archive ul > li a, .sidebar .widget_nav_menu ul > li a, .sidebar .widget_meta ul > li a, .sidebar .widget_recent_entries ul > li, .widget_product_categories ul > li a, .widget_layered_nav ul > li a {color: #666666;}.sidebar .widget_categories ul > li a:hover, .sidebar .widget_archive ul > li a:hover, .sidebar .widget_nav_menu ul > li a:hover, .widget_nav_menu ul > li.current-menu-item a, .sidebar .widget_meta ul > li a:hover, .sidebar .widget_recent_entries ul > li a:hover, .widget_product_categories ul > li a:hover, .widget_layered_nav ul > li a:hover {color: #e92d8d;}#calendar_wrap caption {border-bottom-color: #222222;}.sidebar .widget_calendar tbody tr > td a {color: #ffffff;background-color: #222222;}.sidebar .widget_calendar tbody tr > td a:hover {background-color: #e92d8d;}.sidebar .widget_calendar tfoot a {color: #222222;}.sidebar .widget_calendar tfoot a:hover {color: #e92d8d;}.widget_calendar #calendar_wrap, .widget_calendar th, .widget_calendar tbody tr > td, .widget_calendar tbody tr > td.pad {border-color: #e4e4e4;}.widget_sf_infocus_widget .infocus-item h5 a {color: #222222;}.widget_sf_infocus_widget .infocus-item h5 a:hover {color: #e92d8d;}.sidebar .widget hr {border-color: #e4e4e4;}.widget ul.flickr_images li a:after, .portfolio-grid li a:after {color: #ffffff;}.slideout-filter .select:after {background: #FFFFFF;}.slideout-filter ul li a {color: #ffffff;}.slideout-filter ul li a:hover {color: #e92d8d;}.slideout-filter ul li.selected a {color: #ffffff;background: #e92d8d;}ul.portfolio-filter-tabs li.selected a {background: #f7f7f7;}.spb_blog_widget .filter-wrap {background-color: #222;}.portfolio-item {border-bottom-color: #e4e4e4;}.masonry-items .portfolio-item-details {background: #f7f7f7;}.spb_portfolio_carousel_widget .portfolio-item {background: #FFFFFF;}.spb_portfolio_carousel_widget .portfolio-item h4.portfolio-item-title a > i {line-height: 23px;}.masonry-items .blog-item .blog-details-wrap:before {background-color: #f7f7f7;}.masonry-items .portfolio-item figure {border-color: #e4e4e4;}.portfolio-details-wrap span span {color: #666;}.share-links > a:hover {color: #e92d8d;}.blog-aux-options li.selected a {background: #e92d8d;border-color: #e92d8d;color: #ffffff;}.blog-filter-wrap .aux-list li:hover {border-bottom-color: transparent;}.blog-filter-wrap .aux-list li:hover a {color: #ffffff;background: #e92d8d;}.mini-blog-item-wrap, .mini-items .mini-alt-wrap, .mini-items .mini-alt-wrap .quote-excerpt, .mini-items .mini-alt-wrap .link-excerpt, .masonry-items .blog-item .quote-excerpt, .masonry-items .blog-item .link-excerpt, .standard-post-content .quote-excerpt, .standard-post-content .link-excerpt, .timeline, .post-info, .body-text .link-pages, .page-content .link-pages {border-color: #e4e4e4;}.post-info, .article-body-wrap .share-links .share-text, .article-body-wrap .share-links a {color: #222222;}.standard-post-date {background: #e4e4e4;}.standard-post-content {background: #f7f7f7;}.format-quote .standard-post-content:before, .standard-post-content.no-thumb:before {border-left-color: #f7f7f7;}.search-item-img .img-holder {background: #f7f7f7;border-color:#e4e4e4;}.masonry-items .blog-item .masonry-item-wrap {background: #f7f7f7;}.mini-items .blog-item-details, .share-links, .single-portfolio .share-links, .single .pagination-wrap, ul.portfolio-filter-tabs li a {border-color: #e4e4e4;}.related-item figure {background-color: #222222; color: #ffffff}.required {color: #ee3c59;}.comments-likes a i, .comments-likes a span, .comments-likes .love-it-wrapper a i, .comments-likes span.love-count, .share-links ul.bar-styling > li > a {color: #222222;}#respond .form-submit input:hover {color: #fff!important;}.recent-post {background: #FFFFFF;}.recent-post .post-item-details {border-top-color: #e4e4e4;color: #e4e4e4;}.post-item-details span, .post-item-details a, .post-item-details .comments-likes a i, .post-item-details .comments-likes a span {color: #222222;}.sf-button.accent {color: #ffffff; background-color: #e92d8d;}.sf-button.sf-icon-reveal.accent {color: #ffffff!important; background-color: #e92d8d!important;}.sf-button.accent:hover {background-color: #222222;color: #ffffff;}a.sf-button, a.sf-button:hover, #footer a.sf-button:hover {background-image: none;color: #fff!important;}a.sf-button.gold, a.sf-button.gold:hover, a.sf-button.lightgrey, a.sf-button.lightgrey:hover, a.sf-button.white, a.sf-button.white:hover {color: #222!important;}a.sf-button.transparent-dark {color: #222222!important;}a.sf-button.transparent-light:hover, a.sf-button.transparent-dark:hover {color: #e92d8d!important;} input[type="submit"], .wpcf7 input.wpcf7-submit[type="submit"], .gform_wrapper input[type="submit"], .mymail-form input[type="submit"] {color: #fff;}input[type="submit"]:hover, .wpcf7 input.wpcf7-submit[type="submit"]:hover, .gform_wrapper input[type="submit"]:hover, .mymail-form input[type="submit"]:hover {background-color: #222222!important;color: #ffffff;}input[type="text"], input[type="email"], input[type="password"], textarea, select, .wpcf7 input[type="text"], .wpcf7 input[type="email"], .wpcf7 textarea, .wpcf7 select, .ginput_container input[type="text"], .ginput_container input[type="email"], .ginput_container textarea, .ginput_container select, .mymail-form input[type="text"], .mymail-form input[type="email"], .mymail-form textarea, .mymail-form select {background: #f7f7f7; border-color: #e4e4e4;}.sf-icon {color: #1dc6df;}.sf-icon-cont {border-color: rgba(29,198,223,0.5);}.sf-icon-cont:hover, .sf-hover .sf-icon-cont, .sf-icon-box[class*="icon-box-boxed-"] .sf-icon-cont, .sf-hover .sf-icon-box-hr {background-color: #1dc6df;}.sf-icon-box[class*="sf-icon-box-boxed-"] .sf-icon-cont:after {border-top-color: #1dc6df;border-left-color: #1dc6df;}.sf-icon-cont:hover .sf-icon, .sf-hover .sf-icon-cont .sf-icon, .sf-icon-box.sf-icon-box-boxed-one .sf-icon, .sf-icon-box.sf-icon-box-boxed-three .sf-icon {color: #ffffff;}.sf-icon-box-animated .front {background: #f7f7f7; border-color: #e4e4e4;}.sf-icon-box-animated .front h3 {color: #222222!important;}.sf-icon-box-animated .back {background: #e92d8d; border-color: #e92d8d;}.sf-icon-box-animated .back, .sf-icon-box-animated .back h3 {color: #ffffff!important;}.sf-icon-accent.sf-icon-cont, .sf-icon-accent > i, i.sf-icon-accent {color: #e92d8d;}.sf-icon-cont.sf-icon-accent {border-color: #e92d8d;}.sf-icon-cont.sf-icon-accent:hover, .sf-hover .sf-icon-cont.sf-icon-accent, .sf-icon-box[class*="icon-box-boxed-"] .sf-icon-cont.sf-icon-accent, .sf-hover .sf-icon-box-hr.sf-icon-accent {background-color: #e92d8d;}.sf-icon-box[class*="sf-icon-box-boxed-"] .sf-icon-cont.sf-icon-accent:after {border-top-color: #e92d8d;border-left-color: #e92d8d;}.sf-icon-cont.sf-icon-accent:hover .sf-icon, .sf-hover .sf-icon-cont.sf-icon-accent .sf-icon, .sf-icon-box.sf-icon-box-boxed-one.sf-icon-accent .sf-icon, .sf-icon-box.sf-icon-box-boxed-three.sf-icon-accent .sf-icon {color: #ffffff;}.sf-icon-secondary-accent.sf-icon-cont, .sf-icon-secondary-accent > i, i.sf-icon-secondary-accent {color: #222222;}.sf-icon-cont.sf-icon-secondary-accent {border-color: #222222;}.sf-icon-cont.sf-icon-secondary-accent:hover, .sf-hover .sf-icon-cont.sf-icon-secondary-accent, .sf-icon-box[class*="icon-box-boxed-"] .sf-icon-cont.sf-icon-secondary-accent, .sf-hover .sf-icon-box-hr.sf-icon-secondary-accent {background-color: #222222;}.sf-icon-box[class*="sf-icon-box-boxed-"] .sf-icon-cont.sf-icon-secondary-accent:after {border-top-color: #222222;border-left-color: #222222;}.sf-icon-cont.sf-icon-secondary-accent:hover .sf-icon, .sf-hover .sf-icon-cont.sf-icon-secondary-accent .sf-icon, .sf-icon-box.sf-icon-box-boxed-one.sf-icon-secondary-accent .sf-icon, .sf-icon-box.sf-icon-box-boxed-three.sf-icon-secondary-accent .sf-icon {color: #ffffff;}.sf-icon-box-animated .back.sf-icon-secondary-accent {background: #222222; border-color: #222222;}.sf-icon-box-animated .back.sf-icon-secondary-accent, .sf-icon-box-animated .back.sf-icon-secondary-accent h3 {color: #ffffff!important;}.sf-icon-icon-one.sf-icon-cont, .sf-icon-icon-one > i, i.sf-icon-icon-one {color: #FF9900;}.sf-icon-cont.sf-icon-icon-one {border-color: #FF9900;}.sf-icon-cont.sf-icon-icon-one:hover, .sf-hover .sf-icon-cont.sf-icon-icon-one, .sf-icon-box[class*="icon-box-boxed-"] .sf-icon-cont.sf-icon-icon-one, .sf-hover .sf-icon-box-hr.sf-icon-icon-one {background-color: #FF9900;}.sf-icon-box[class*="sf-icon-box-boxed-"] .sf-icon-cont.sf-icon-icon-one:after {border-top-color: #FF9900;border-left-color: #FF9900;}.sf-icon-cont.sf-icon-icon-one:hover .sf-icon, .sf-hover .sf-icon-cont.sf-icon-icon-one .sf-icon, .sf-icon-box.sf-icon-box-boxed-one.sf-icon-icon-one .sf-icon, .sf-icon-box.sf-icon-box-boxed-three.sf-icon-icon-one .sf-icon {color: #ffffff;}.sf-icon-box-animated .back.sf-icon-icon-one {background: #FF9900; border-color: #FF9900;}.sf-icon-box-animated .back.sf-icon-icon-one, .sf-icon-box-animated .back.sf-icon-icon-one h3 {color: #ffffff!important;}.sf-icon-icon-two.sf-icon-cont, .sf-icon-icon-two > i, i.sf-icon-icon-two {color: #339933;}.sf-icon-cont.sf-icon-icon-two {border-color: #339933;}.sf-icon-cont.sf-icon-icon-two:hover, .sf-hover .sf-icon-cont.sf-icon-icon-two, .sf-icon-box[class*="icon-box-boxed-"] .sf-icon-cont.sf-icon-icon-two, .sf-hover .sf-icon-box-hr.sf-icon-icon-two {background-color: #339933;}.sf-icon-box[class*="sf-icon-box-boxed-"] .sf-icon-cont.sf-icon-icon-two:after {border-top-color: #339933;border-left-color: #339933;}.sf-icon-cont.sf-icon-icon-two:hover .sf-icon, .sf-hover .sf-icon-cont.sf-icon-icon-two .sf-icon, .sf-icon-box.sf-icon-box-boxed-one.sf-icon-icon-two .sf-icon, .sf-icon-box.sf-icon-box-boxed-three.sf-icon-icon-two .sf-icon {color: #ffffff;}.sf-icon-box-animated .back.sf-icon-icon-two {background: #339933; border-color: #339933;}.sf-icon-box-animated .back.sf-icon-icon-two, .sf-icon-box-animated .back.sf-icon-icon-two h3 {color: #ffffff!important;}.sf-icon-icon-three.sf-icon-cont, .sf-icon-icon-three > i, i.sf-icon-icon-three {color: #cccccc;}.sf-icon-cont.sf-icon-icon-three {border-color: #cccccc;}.sf-icon-cont.sf-icon-icon-three:hover, .sf-hover .sf-icon-cont.sf-icon-icon-three, .sf-icon-box[class*="icon-box-boxed-"] .sf-icon-cont.sf-icon-icon-three, .sf-hover .sf-icon-box-hr.sf-icon-icon-three {background-color: #cccccc;}.sf-icon-box[class*="sf-icon-box-boxed-"] .sf-icon-cont.sf-icon-icon-three:after {border-top-color: #cccccc;border-left-color: #cccccc;}.sf-icon-cont.sf-icon-icon-three:hover .sf-icon, .sf-hover .sf-icon-cont.sf-icon-icon-three .sf-icon, .sf-icon-box.sf-icon-box-boxed-one.sf-icon-icon-three .sf-icon, .sf-icon-box.sf-icon-box-boxed-three.sf-icon-icon-three .sf-icon {color: #222222;}.sf-icon-box-animated .back.sf-icon-icon-three {background: #cccccc; border-color: #cccccc;}.sf-icon-box-animated .back.sf-icon-icon-three, .sf-icon-box-animated .back.sf-icon-icon-three h3 {color: #222222!important;}.sf-icon-icon-four.sf-icon-cont, .sf-icon-icon-four > i, i.sf-icon-icon-four {color: #6633ff;}.sf-icon-cont.sf-icon-icon-four {border-color: #6633ff;}.sf-icon-cont.sf-icon-icon-four:hover, .sf-hover .sf-icon-cont.sf-icon-icon-four, .sf-icon-box[class*="icon-box-boxed-"] .sf-icon-cont.sf-icon-icon-four, .sf-hover .sf-icon-box-hr.sf-icon-icon-four {background-color: #6633ff;}.sf-icon-box[class*="sf-icon-box-boxed-"] .sf-icon-cont.sf-icon-icon-four:after {border-top-color: #6633ff;border-left-color: #6633ff;}.sf-icon-cont.sf-icon-icon-four:hover .sf-icon, .sf-hover .sf-icon-cont.sf-icon-icon-four .sf-icon, .sf-icon-box.sf-icon-box-boxed-one.sf-icon-icon-four .sf-icon, .sf-icon-box.sf-icon-box-boxed-three.sf-icon-icon-four .sf-icon {color: #ffffff;}.sf-icon-box-animated .back.sf-icon-icon-four {background: #6633ff; border-color: #6633ff;}.sf-icon-box-animated .back.sf-icon-icon-four, .sf-icon-box-animated .back.sf-icon-icon-four h3 {color: #ffffff!important;}span.dropcap3 {background: #000;color: #fff;}span.dropcap4 {color: #fff;}.spb_divider, .spb_divider.go_to_top_icon1, .spb_divider.go_to_top_icon2, .testimonials > li, .jobs > li, .spb_impact_text, .tm-toggle-button-wrap, .tm-toggle-button-wrap a, .portfolio-details-wrap, .spb_divider.go_to_top a, .impact-text-wrap, .widget_search form input, .asset-bg.spb_divider {border-color: #e4e4e4;}.spb_divider.go_to_top_icon1 a, .spb_divider.go_to_top_icon2 a {background: #FFFFFF;}.spb_tabs .ui-tabs .ui-tabs-panel, .spb_content_element .ui-tabs .ui-tabs-nav, .ui-tabs .ui-tabs-nav li {border-color: #e4e4e4;}.spb_tabs .ui-tabs .ui-tabs-panel, .ui-tabs .ui-tabs-nav li.ui-tabs-active a {background: #FFFFFF!important;}.spb_tabs .nav-tabs li a, .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus, .spb_accordion .spb_accordion_section, .spb_tour .nav-tabs li a {border-color: #e4e4e4;}.spb_tabs .nav-tabs li.active a, .spb_tour .nav-tabs li.active a, .spb_accordion .spb_accordion_section > h3.ui-state-active a {background-color: #f7f7f7;}.spb_tour .ui-tabs .ui-tabs-nav li a {border-color: #e4e4e4;}.spb_tour.span3 .ui-tabs .ui-tabs-nav li {border-color: #e4e4e4!important;}.toggle-wrap .spb_toggle, .spb_toggle_content {border-color: #e4e4e4;}.toggle-wrap .spb_toggle:hover {color: #e92d8d;}.ui-accordion h3.ui-accordion-header .ui-icon {color: #222222;}.ui-accordion h3.ui-accordion-header.ui-state-active:hover a, .ui-accordion h3.ui-accordion-header:hover .ui-icon {color: #e92d8d;}blockquote.pullquote {border-color: #e92d8d;}.borderframe img {border-color: #eeeeee;}.labelled-pricing-table .column-highlight {background-color: #fff;}.labelled-pricing-table .pricing-table-label-row, .labelled-pricing-table .pricing-table-row {background: #f7f7f7;}.labelled-pricing-table .alt-row {background: #fff;}.labelled-pricing-table .pricing-table-price {background: #e4e4e4;}.labelled-pricing-table .pricing-table-package {background: #f7f7f7;}.labelled-pricing-table .lpt-button-wrap {background: #e4e4e4;}.labelled-pricing-table .lpt-button-wrap a.accent {background: #222!important;}.labelled-pricing-table .column-highlight .lpt-button-wrap {background: transparent!important;}.labelled-pricing-table .column-highlight .lpt-button-wrap a.accent {background: #e92d8d!important;}.column-highlight .pricing-table-price {color: #fff;background: #07c1b6;border-bottom-color: #07c1b6;}.column-highlight .pricing-table-package {background: #fd9d96;}.column-highlight .pricing-table-details {background: #fed8d5;}.spb_box_text.coloured .box-content-wrap {background: #07c1b6;color: #fff;}.spb_box_text.whitestroke .box-content-wrap {background-color: #fff;border-color: #e4e4e4;}.client-item figure {border-color: #e4e4e4;}.client-item figure:hover {border-color: #333;}ul.member-contact li a:hover {color: #333;}.testimonials.carousel-items li .testimonial-text {border-color: #e4e4e4;}.testimonials.carousel-items li .testimonial-text:after {border-left-color: #e4e4e4;border-top-color: #e4e4e4;}.team-member figure figcaption {background: #f7f7f7;}.horizontal-break {background-color: #e4e4e4;}.progress .bar {background-color: #e92d8d;}.progress.standard .bar {background: #e92d8d;}.progress-bar-wrap .progress-value {color: #e92d8d;}.asset-bg-detail {background:#FFFFFF;border-color:#e4e4e4;}#footer {background: #222222;}#footer, #footer p {color: #cccccc;}#footer h6 {color: #cccccc;}#footer a {color: #cccccc;}#footer .widget ul li, #footer .widget_categories ul, #footer .widget_archive ul, #footer .widget_nav_menu ul, #footer .widget_recent_comments ul, #footer .widget_meta ul, #footer .widget_recent_entries ul, #footer .widget_product_categories ul {border-color: #333333;}#copyright {background-color: #222222;border-top-color: #333333;}#copyright p {color: #999999;}#copyright a {color: #ffffff;}#copyright a:hover {color: #e4e4e4;}#copyright nav .menu li {border-left-color: #333333;}#footer .widget_calendar #calendar_wrap, #footer .widget_calendar th, #footer .widget_calendar tbody tr > td, #footer .widget_calendar tbody tr > td.pad {border-color: #333333;}.widget input[type="email"] {background: #f7f7f7; color: #999}#footer .widget hr {border-color: #333333;}.woocommerce nav.woocommerce-pagination ul li a, .woocommerce nav.woocommerce-pagination ul li span, .modal-body .comment-form-rating, .woocommerce form .form-row input.input-text, ul.checkout-process, #billing .proceed, ul.my-account-nav > li, .woocommerce #payment, .woocommerce-checkout p.thank-you, .woocommerce .order_details, .woocommerce-page .order_details, .woocommerce ul.products li.product figure figcaption .yith-wcwl-add-to-wishlist, #product-accordion .panel, .review-order-wrap { border-color: #e4e4e4 ;}nav.woocommerce-pagination ul li span.current, nav.woocommerce-pagination ul li a:hover {background:#e92d8d!important;border-color:#e92d8d;color: #ffffff!important;}.woocommerce-account p.myaccount_address, .woocommerce-account .page-content h2, p.no-items, #order_review table.shop_table, #payment_heading, .returning-customer a {border-bottom-color: #e4e4e4;}.woocommerce .products ul, .woocommerce ul.products, .woocommerce-page .products ul, .woocommerce-page ul.products, p.no-items {border-top-color: #e4e4e4;}.woocommerce-ordering .woo-select, .variations_form .woo-select, .add_review a, .woocommerce .quantity, .woocommerce-page .quantity, .woocommerce .coupon input.apply-coupon, .woocommerce table.shop_table tr td.product-remove .remove, .woocommerce .button.update-cart-button, .shipping-calculator-form .woo-select, .woocommerce .shipping-calculator-form .update-totals-button button, .woocommerce #billing_country_field .woo-select, .woocommerce #shipping_country_field .woo-select, .woocommerce #review_form #respond .form-submit input, .woocommerce form .form-row input.input-text, .woocommerce table.my_account_orders .order-actions .button, .woocommerce #payment div.payment_box, .woocommerce .widget_price_filter .price_slider_amount .button, .woocommerce.widget .buttons a, .load-more-btn {background: #f7f7f7; color: #222222}.woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li span.current { color: #ffffff;}li.product figcaption a.product-added {color: #ffffff;}.woocommerce ul.products li.product figure figcaption, .yith-wcwl-add-button a, ul.products li.product a.quick-view-button, .yith-wcwl-add-to-wishlist, .woocommerce form.cart button.single_add_to_cart_button, .woocommerce p.cart a.single_add_to_cart_button, .lost_reset_password p.form-row input[type="submit"], .track_order p.form-row input[type="submit"], .change_password_form p input[type="submit"], .woocommerce form.register input[type="submit"], .woocommerce .wishlist_table tr td.product-add-to-cart a, .woocommerce input.button[name="save_address"], .woocommerce .woocommerce-message a.button {background: #f7f7f7;}.woocommerce ul.products li.product figure figcaption .shop-actions > a, .woocommerce .wishlist_table tr td.product-add-to-cart a {color: #222222;}.woocommerce ul.products li.product figure figcaption .shop-actions > a.product-added, .woocommerce ul.products li.product figure figcaption .shop-actions > a.product-added:hover {color: #ffffff;}ul.products li.product .product-details .posted_in a {color: #222222;}.woocommerce ul.products li.product figure figcaption .shop-actions > a:hover, ul.products li.product .product-details .posted_in a:hover {color: #e92d8d;}.woocommerce form.cart button.single_add_to_cart_button, .woocommerce p.cart a.single_add_to_cart_button, .woocommerce input[name="save_account_details"] { background: #f7f7f7!important; color: #222222 ;}
+.woocommerce form.cart button.single_add_to_cart_button:disabled, .woocommerce form.cart button.single_add_to_cart_button:disabled[disabled] { background: #f7f7f7!important; color: #222222 ;}
+.woocommerce form.cart button.single_add_to_cart_button:hover, .woocommerce .button.checkout-button, .woocommerce .wc-proceed-to-checkout > a.checkout-button { background: #e92d8d!important; color: #ffffff ;}
+.woocommerce p.cart a.single_add_to_cart_button:hover, .woocommerce .button.checkout-button:hover, .woocommerce .wc-proceed-to-checkout > a.checkout-button:hover {background: #222222!important; color: #e92d8d!important;}.woocommerce table.shop_table tr td.product-remove .remove:hover, .woocommerce .coupon input.apply-coupon:hover, .woocommerce .shipping-calculator-form .update-totals-button button:hover, .woocommerce .quantity .plus:hover, .woocommerce .quantity .minus:hover, .add_review a:hover, .woocommerce #review_form #respond .form-submit input:hover, .lost_reset_password p.form-row input[type="submit"]:hover, .track_order p.form-row input[type="submit"]:hover, .change_password_form p input[type="submit"]:hover, .woocommerce table.my_account_orders .order-actions .button:hover, .woocommerce .widget_price_filter .price_slider_amount .button:hover, .woocommerce.widget .buttons a:hover, .woocommerce .wishlist_table tr td.product-add-to-cart a:hover, .woocommerce input.button[name="save_address"]:hover, .woocommerce input[name="apply_coupon"]:hover, .woocommerce button[name="apply_coupon"]:hover, .woocommerce .cart input[name="update_cart"]:hover, .woocommerce form.register input[type="submit"]:hover, .woocommerce form.cart button.single_add_to_cart_button:hover, .woocommerce form.cart .yith-wcwl-add-to-wishlist a:hover, .load-more-btn:hover, .woocommerce-account input[name="change_password"]:hover {background: #e92d8d; color: #ffffff;}.woocommerce-MyAccount-navigation li {border-color: #e4e4e4;}.woocommerce-MyAccount-navigation li.is-active a, .woocommerce-MyAccount-navigation li a:hover {color: #222222;}.woocommerce #account_details .login, .woocommerce #account_details .login h4.lined-heading span, .my-account-login-wrap .login-wrap, .my-account-login-wrap .login-wrap h4.lined-heading span, .woocommerce div.product form.cart table div.quantity {background: #f7f7f7;}.woocommerce .help-bar ul li a:hover, .woocommerce .continue-shopping:hover, .woocommerce .address .edit-address:hover, .my_account_orders td.order-number a:hover, .product_meta a.inline:hover { border-bottom-color: #e92d8d;}.woocommerce .order-info, .woocommerce .order-info mark {background: #e92d8d; color: #ffffff;}.woocommerce #payment div.payment_box:after {border-bottom-color: #f7f7f7;}.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content {background: #e4e4e4;}.woocommerce .widget_price_filter .ui-slider-horizontal .ui-slider-range {background: #f7f7f7;}.yith-wcwl-wishlistexistsbrowse a:hover, .yith-wcwl-wishlistaddedbrowse a:hover {color: #ffffff;}.woocommerce ul.products li.product .price, .woocommerce div.product p.price {color: #222222;}.woocommerce ul.products li.product-category .product-cat-info {background: #e4e4e4;}.woocommerce ul.products li.product-category .product-cat-info:before {border-bottom-color:#e4e4e4;}.woocommerce ul.products li.product-category a:hover .product-cat-info {background: #e92d8d; color: #ffffff;}.woocommerce ul.products li.product-category a:hover .product-cat-info h3 {color: #ffffff!important;}.woocommerce ul.products li.product-category a:hover .product-cat-info:before {border-bottom-color:#e92d8d;}.woocommerce input[name="apply_coupon"], .woocommerce button[name="apply_coupon"], .woocommerce .cart input[name="update_cart"], .woocommerce .shipping-calc-wrap button[name="calc_shipping"], .woocommerce-account input[name="change_password"] {background: #f7f7f7!important; color: #222222!important}.woocommerce input[name="apply_coupon"]:hover, .woocommerce button[name="apply_coupon"]:hover, .woocommerce .cart input[name="update_cart"]:hover, .woocommerce .shipping-calc-wrap button[name="calc_shipping"]:hover, .woocommerce-account input[name="change_password"]:hover, .woocommerce input[name="save_account_details"]:hover {background: #e92d8d!important; color: #ffffff!important;}#buddypress .activity-meta a, #buddypress .acomment-options a, #buddypress #member-group-links li a {border-color: #e4e4e4;}#buddypress .activity-meta a:hover, #buddypress .acomment-options a:hover, #buddypress #member-group-links li a:hover {border-color: #e92d8d;}#buddypress .activity-header a, #buddypress .activity-read-more a {border-color: #e92d8d;}#buddypress #members-list .item-meta .activity, #buddypress .activity-header p {color: #222222;}#buddypress .pagination-links span, #buddypress .load-more.loading a {background-color: #e92d8d;color: #ffffff;border-color: #e92d8d;}span.bbp-admin-links a, li.bbp-forum-info .bbp-forum-content {color: #222222;}span.bbp-admin-links a:hover {color: #e92d8d;}.bbp-topic-action #favorite-toggle a, .bbp-topic-action #subscription-toggle a, .bbp-single-topic-meta a, .bbp-topic-tags a, #bbpress-forums li.bbp-body ul.forum, #bbpress-forums li.bbp-body ul.topic, #bbpress-forums li.bbp-header, #bbpress-forums li.bbp-footer, #bbp-user-navigation ul li a, .bbp-pagination-links a, #bbp-your-profile fieldset input, #bbp-your-profile fieldset textarea, #bbp-your-profile, #bbp-your-profile fieldset {border-color: #e4e4e4;}.bbp-topic-action #favorite-toggle a:hover, .bbp-topic-action #subscription-toggle a:hover, .bbp-single-topic-meta a:hover, .bbp-topic-tags a:hover, #bbp-user-navigation ul li a:hover, .bbp-pagination-links a:hover {border-color: #e92d8d;}#bbp-user-navigation ul li.current a, .bbp-pagination-links span.current {border-color: #e92d8d;background: #e92d8d; color: #ffffff;}#bbpress-forums fieldset.bbp-form button[type="submit"], #bbp_user_edit_submit {background: #f7f7f7; color: #222222}#bbpress-forums fieldset.bbp-form button[type="submit"]:hover, #bbp_user_edit_submit:hover {background: #e92d8d; color: #ffffff;}.asset-bg {border-color: #e4e4e4;}.asset-bg.alt-one {background-color: #FFFFFF;}.asset-bg.alt-one, .asset-bg .alt-one, .asset-bg.alt-one h1, .asset-bg.alt-one h2, .asset-bg.alt-one h3, .asset-bg.alt-one h3, .asset-bg.alt-one h4, .asset-bg.alt-one h5, .asset-bg.alt-one h6, .alt-one .carousel-wrap > a {color: #222222;}.asset-bg.alt-one h4.spb-center-heading span:before, .asset-bg.alt-one h4.spb-center-heading span:after {border-color: #222222;}.alt-one .full-width-text:after {border-top-color:#FFFFFF;}.alt-one h4.spb-text-heading, .alt-one h4.spb-heading {border-bottom-color:#222222;}.asset-bg.alt-two {background-color: #FFFFFF;}.asset-bg.alt-two, .asset-bg .alt-two, .asset-bg.alt-two h1, .asset-bg.alt-two h2, .asset-bg.alt-two h3, .asset-bg.alt-two h3, .asset-bg.alt-two h4, .asset-bg.alt-two h5, .asset-bg.alt-two h6, .alt-two .carousel-wrap > a {color: #222222;}.asset-bg.alt-two h4.spb-center-heading span:before, .asset-bg.alt-two h4.spb-center-heading span:after {border-color: #222222;}.alt-two .full-width-text:after {border-top-color:#FFFFFF;}.alt-two h4.spb-text-heading, .alt-two h4.spb-heading {border-bottom-color:#222222;}.asset-bg.alt-three {background-color: #FFFFFF;}.asset-bg.alt-three, .asset-bg .alt-three, .asset-bg.alt-three h1, .asset-bg.alt-three h2, .asset-bg.alt-three h3, .asset-bg.alt-three h3, .asset-bg.alt-three h4, .asset-bg.alt-three h5, .asset-bg.alt-three h6, .alt-three .carousel-wrap > a {color: #222222;}.asset-bg.alt-three h4.spb-center-heading span:before, .asset-bg.alt-three h4.spb-center-heading span:after {border-color: #222222;}.alt-three .full-width-text:after {border-top-color:#FFFFFF;}.alt-three h4.spb-text-heading, .alt-three h4.spb-heading {border-bottom-color:#222222;}.asset-bg.alt-four {background-color: #FFFFFF;}.asset-bg.alt-four, .asset-bg .alt-four, .asset-bg.alt-four h1, .asset-bg.alt-four h2, .asset-bg.alt-four h3, .asset-bg.alt-four h3, .asset-bg.alt-four h4, .asset-bg.alt-four h5, .asset-bg.alt-four h6, .alt-four .carousel-wrap > a {color: #222222;}.asset-bg.alt-four h4.spb-center-heading span:before, .asset-bg.alt-four h4.spb-center-heading span:after {border-color: #222222;}.alt-four .full-width-text:after {border-top-color:#FFFFFF;}.alt-four h4.spb-text-heading, .alt-four h4.spb-heading {border-bottom-color:#222222;}.asset-bg.alt-five {background-color: #FFFFFF;}.asset-bg.alt-five, .asset-bg .alt-five, .asset-bg.alt-five h1, .asset-bg.alt-five h2, .asset-bg.alt-five h3, .asset-bg.alt-five h3, .asset-bg.alt-five h4, .asset-bg.alt-five h5, .asset-bg.alt-five h6, .alt-five .carousel-wrap > a {color: #222222;}.asset-bg.alt-five h4.spb-center-heading span:before, .asset-bg.alt-five h4.spb-center-heading span:after {border-color: #222222;}.alt-five .full-width-text:after {border-top-color:#FFFFFF;}.alt-five h4.spb-text-heading, .alt-five h4.spb-heading {border-bottom-color:#222222;}.asset-bg.alt-six {background-color: #FFFFFF;}.asset-bg.alt-six, .asset-bg .alt-six, .asset-bg.alt-six h1, .asset-bg.alt-six h2, .asset-bg.alt-six h3, .asset-bg.alt-six h3, .asset-bg.alt-six h4, .asset-bg.alt-six h5, .asset-bg.alt-six h6, .alt-six .carousel-wrap > a {color: #222222;}.asset-bg.alt-six h4.spb-center-heading span:before, .asset-bg.alt-six h4.spb-center-heading span:after {border-color: #222222;}.alt-six .full-width-text:after {border-top-color:#FFFFFF;}.alt-six h4.spb-text-heading, .alt-six h4.spb-heading {border-bottom-color:#222222;}.asset-bg.alt-seven {background-color: #FFFFFF;}.asset-bg.alt-seven, .asset-bg .alt-seven, .asset-bg.alt-seven h1, .asset-bg.alt-seven h2, .asset-bg.alt-seven h3, .asset-bg.alt-seven h3, .asset-bg.alt-seven h4, .asset-bg.alt-seven h5, .asset-bg.alt-seven h6, .alt-seven .carousel-wrap > a {color: #222222;}.asset-bg.alt-seven h4.spb-center-heading span:before, .asset-bg.alt-seven h4.spb-center-heading span:after {border-color: #222222;}.alt-seven .full-width-text:after {border-top-color:#FFFFFF;}.alt-seven h4.spb-text-heading, .alt-seven h4.spb-heading {border-bottom-color:#222222;}.asset-bg.alt-eight {background-color: #FFFFFF;}.asset-bg.alt-eight, .asset-bg .alt-eight, .asset-bg.alt-eight h1, .asset-bg.alt-eight h2, .asset-bg.alt-eight h3, .asset-bg.alt-eight h3, .asset-bg.alt-eight h4, .asset-bg.alt-eight h5, .asset-bg.alt-eight h6, .alt-eight .carousel-wrap > a {color: #222222;}.asset-bg.alt-eight h4.spb-center-heading span:before, .asset-bg.alt-eight h4.spb-center-heading span:after {border-color: #222222;}.alt-eight .full-width-text:after {border-top-color:#FFFFFF;}.alt-eight h4.spb-text-heading, .alt-eight h4.spb-heading {border-bottom-color:#222222;}.asset-bg.alt-nine {background-color: #FFFFFF;}.asset-bg.alt-nine, .asset-bg .alt-nine, .asset-bg.alt-nine h1, .asset-bg.alt-nine h2, .asset-bg.alt-nine h3, .asset-bg.alt-nine h3, .asset-bg.alt-nine h4, .asset-bg.alt-nine h5, .asset-bg.alt-nine h6, .alt-nine .carousel-wrap > a {color: #222222;}.asset-bg.alt-nine h4.spb-center-heading span:before, .asset-bg.alt-nine h4.spb-center-heading span:after {border-color: #222222;}.alt-nine .full-width-text:after {border-top-color:#FFFFFF;}.alt-nine h4.spb-text-heading, .alt-nine h4.spb-heading {border-bottom-color:#222222;}.asset-bg.alt-ten {background-color: #FFFFFF;}.asset-bg.alt-ten, .asset-bg .alt-ten, .asset-bg.alt-ten h1, .asset-bg.alt-ten h2, .asset-bg.alt-ten h3, .asset-bg.alt-ten h3, .asset-bg.alt-ten h4, .asset-bg.alt-ten h5, .asset-bg.alt-ten h6, .alt-ten .carousel-wrap > a {color: #222222;}.asset-bg.alt-ten h4.spb-center-heading span:before, .asset-bg.alt-ten h4.spb-center-heading span:after {border-color: #222222;}.alt-ten .full-width-text:after {border-top-color:#FFFFFF;}.alt-ten h4.spb-text-heading, .alt-ten h4.spb-heading {border-bottom-color:#222222;}.asset-bg.light-style, .asset-bg.light-style h1, .asset-bg.light-style h2, .asset-bg.light-style h3, .asset-bg.light-style h3, .asset-bg.light-style h4, .asset-bg.light-style h5, .asset-bg.light-style h6 {color: #fff!important;}.asset-bg.dark-style, .asset-bg.dark-style h1, .asset-bg.dark-style h2, .asset-bg.dark-style h3, .asset-bg.dark-style h3, .asset-bg.dark-style h4, .asset-bg.dark-style h5, .asset-bg.dark-style h6 {color: #222!important;}.mobile-browser .sf-animation, .apple-mobile-browser .sf-animation {
+					opacity: 1!important;
+					left: auto!important;
+					right: auto!important;
+					bottom: auto!important;
+					-webkit-transform: scale(1)!important;
+					-o-transform: scale(1)!important;
+					-moz-transform: scale(1)!important;
+					transform: scale(1)!important;
+				}
+				.mobile-browser .sf-animation.image-banner-content, .apple-mobile-browser .sf-animation.image-banner-content {
+					bottom: 50%!important;
+				}@media only screen and (max-width: 767px) {#top-bar nav .menu > li {border-top-color: #f7f7f7;}nav .menu > li {border-top-color: #e4e4e4;}}</style>
+<link rel="icon" href="https://mulberrylearning.com/wp-content/uploads/2015/08/cropped-favicon-32x32.png" sizes="32x32">
+<link rel="icon" href="https://mulberrylearning.com/wp-content/uploads/2015/08/cropped-favicon-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://mulberrylearning.com/wp-content/uploads/2015/08/cropped-favicon-180x180.png">
+<meta name="msapplication-TileImage" content="https://mulberrylearning.com/wp-content/uploads/2015/08/cropped-favicon-270x270.png">
+<style type="text/css" id="wp-custom-css">
+			.one-half,
+.one-third {
+    position: relative;
+    margin-right: 4%;
+    float: left;
+        margin-bottom: 20px;
+ 
+}
+ 
+.one-half { width: 48%; }
+.one-third { width: 30.66%; }
+ 
+.last {
+    margin-right: 0 !important;
+    clear: right;
+}
+ 
+@media only screen and (max-width: 767px) {
+    .one-half, .one-third {
+        width: 100%;
+        margin-right: 0;
+    }
+}
+
+.scroll-box {
+    height: 300px; /* maximum height of the box, feel free to change this! */
+    overflow-y: scroll;
+}
+
+.tp-bullets {
+	z-index: 4000 !important;
+}
+
+.sf-video-wrap {
+    padding-bottom: 0px !important;
+}
+
+.aligncenter {
+    display: table !important;
+}
+.fa.fa-facebook, .fa.fa-instagram, .fa.fa-youtube-play {
+    font-family: "Font Awesome 5 Brands" !important;
+}
+
+.elementor-29511 .elementor-element.elementor-element-e45ef39 .elementor-posts-container .elementor-post__thumbnail {
+    padding-bottom: calc( 0.66 * 5% ) !important;
+}
+.elementor-widget-image a {
+    display: block !important;
+}
+.eshuzu_post_carousel_section .eshuzu_post_carousel_frame .esz_post_slide .esz_slide_box {
+    display: grid !important;
+}
+.elementor-29511 .elementor-element.elementor-element-6df7796 .esz_post_title {
+    order: 4;
+    margin-bottom: 30px;
+    color: #E92D8D;
+}
+.elementor-29511 .elementor-element.elementor-element-6df7796 .esz_post_link a {
+    color: #E92D8D;
+    padding: 10px;
+    border: 1px solid;
+}
+.elementor-29511 .elementor-element.elementor-element-6df7796 .esz_post_link a:hover {
+    color: #ffffff;
+    padding: 10px;
+    border: 1px solid #E92D8D;
+	background-color: #E92D8D;
+}
+
+input, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"] {
+    outline: 0;
+    border-radius: 0;
+    box-shadow: none;
+    border: 1px solid #e4e4e4;
+    background: #f7f7f7;
+    color: #787878;
+	margin-top: 6px;
+    margin-bottom: 10px;
+    padding: 6px;
+}
+.sf-video-wrap, figure.animated-overlay .sf-video-wrap {
+    padding-bottom: 56.25%;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+}
+.header-7 #logo {
+    margin-top: -10px !important;
+}
+
+.excerpt {
+    display: none !important;
+}
+		</style>
+
+
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/a245cf8d4779ac128c53e9ff2/73fe18232686e1749d1eeca7b.js");</script>
+
+<meta name="facebook-domain-verification" content="saf7w65d3gzmciuchr0mlulsgtcqyu">
+<style id="buttonizer-styling"></style><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/860128926/?random=1711777746716&amp;cv=11&amp;fst=1711777746716&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0z876610754za201&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmulberrylearning.com%2F%3Ftestimonials%3Dtiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Parents%20of%20Ronja%20(PN)%2C%20Mulberry%20Learning%20%40%20Dover%20-%20Mulberry%20Learning&amp;npa=0&amp;pscdl=noapi&amp;auid=382813691.1711777564&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B123.0.6312.86%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.86&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;fdr=QA&amp;rfmt=3&amp;fmt=4"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/860129580/?random=1711777746729&amp;cv=11&amp;fst=1711777746729&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0v9101142259z876610754za201&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmulberrylearning.com%2F%3Ftestimonials%3Dtiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Parents%20of%20Ronja%20(PN)%2C%20Mulberry%20Learning%20%40%20Dover%20-%20Mulberry%20Learning&amp;npa=0&amp;pscdl=noapi&amp;auid=382813691.1711777564&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B123.0.6312.86%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.86&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;fdr=QA&amp;rfmt=3&amp;fmt=4"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/827120513/?random=1711777746739&amp;cv=11&amp;fst=1711777746739&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0v9109042792z876610754za201&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmulberrylearning.com%2F%3Ftestimonials%3Dtiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Parents%20of%20Ronja%20(PN)%2C%20Mulberry%20Learning%20%40%20Dover%20-%20Mulberry%20Learning&amp;npa=0&amp;pscdl=noapi&amp;auid=382813691.1711777564&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B123.0.6312.86%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.86&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;fdr=QA&amp;rfmt=3&amp;fmt=4"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><link id="chaty-saas-css" rel="stylesheet" type="text/css" href="https://cdn.chaty.app/pixel.css?nowprocket=1&amp;no_optimize=1"><style id="custom-csaas-css">#csaas-form-cpurltpysx-Contact_Us input:focus {border-color:#B78DEB}#csaas-form-cpurltpysx-Contact_Us textarea:focus {border-color:#B78DEB}.channel-cpurltpysx-WhatsApp .color-element{ fill: #49E670; color: #49E670;}#csaas-widget-cpurltpysx .WhatsApp-channel .color-element{ fill: #49E670; color: #49E670;}#csaas-widget-cpurltpysx .WhatsApp-channel .csaas-svg { background-color: #49E670;}.channel-cpurltpysx-WhatsApp .csaas-svg { background-color: #49E670;}#csaas-widget-cpurltpysx .channel-icon-WhatsApp-channel .csaas-svg { background-color: #49E670;}.csaas-chat-view-cpurltpysx .WhatsApp-channel .csaas-custom-icon { background-color: #49E670; }.csaas-chat-view-cpurltpysx .WhatsApp-channel .csaas-svg { background-color: #49E670;}.csaas-chat-view-cpurltpysx .channel-icon-WhatsApp .csaas-svg { background-color: #49E670;}.channel-cpurltpysx-Phone .color-element{ fill: #03E78B; color: #03E78B;}#csaas-widget-cpurltpysx .Phone-channel .color-element{ fill: #03E78B; color: #03E78B;}#csaas-widget-cpurltpysx .Phone-channel .csaas-svg { background-color: #03E78B;}.channel-cpurltpysx-Phone .csaas-svg { background-color: #03E78B;}#csaas-widget-cpurltpysx .channel-icon-Phone-channel .csaas-svg { background-color: #03E78B;}.csaas-chat-view-cpurltpysx .Phone-channel .csaas-custom-icon { background-color: #03E78B; }.csaas-chat-view-cpurltpysx .Phone-channel .csaas-svg { background-color: #03E78B;}.csaas-chat-view-cpurltpysx .channel-icon-Phone .csaas-svg { background-color: #03E78B;}.channel-cpurltpysx-Contact_Us .color-element{ fill: #253974; color: #253974;}#csaas-widget-cpurltpysx .Contact_Us-channel .color-element{ fill: #253974; color: #253974;}#csaas-widget-cpurltpysx .Contact_Us-channel .csaas-svg { background-color: #253974;}.channel-cpurltpysx-Contact_Us .csaas-svg { background-color: #253974;}#csaas-widget-cpurltpysx .channel-icon-Contact_Us-channel .csaas-svg { background-color: #253974;}.csaas-chat-view-cpurltpysx .Contact_Us-channel .csaas-custom-icon { background-color: #253974; }.csaas-chat-view-cpurltpysx .Contact_Us-channel .csaas-svg { background-color: #253974;}.csaas-chat-view-cpurltpysx .channel-icon-Contact_Us .csaas-svg { background-color: #253974;}#csaas-widget-cpurltpysx .csaas-channel-list .csaas-channel {width: 60px; height: 60px; }#csaas-widget-cpurltpysx .csaas-channel-list .csaas-channel > a {width: 60px; height: 60px; }#csaas-widget-cpurltpysx .csaas-channel-list .csaas-channel > a .csaas-svg {width: 60px; height: 60px; }#csaas-widget-cpurltpysx .csaas-channel-list .csaas-channel > a img {width: 60px; height: 60px; object-fit: cover;}#csaas-widget-cpurltpysx .csaas-i-trigger .csaas-cta-button > button {width: 60px; height: 60px; }#csaas-widget-cpurltpysx .csaas-i-trigger .csaas-cta-button > button .csaas-svg {width: 60px; height: 60px; }#csaas-widget-cpurltpysx .csaas-i-trigger .csaas-channel img {width: 60px; height: 60px; }#csaas-widget-cpurltpysx .csaas-i-trigger .csaas-channel a {width: 60px; height: 60px; }#csaas-widget-cpurltpysx .csaas-i-trigger .csaas-channel a .csaas-svg {width: 60px; height: 60px; }#csaas-widget-cpurltpysx .csaas-channel-list .csaas-channel button {width: 60px; height: 60px; }#csaas-widget-cpurltpysx .csaas-channel-list .csaas-channel .csaas-svg {width: 60px; height: 60px; }#csaas-widget-cpurltpysx .csaas-channel-list .csaas-channel .csaas-svg img {width: 60px; height: 60px; }#csaas-widget-cpurltpysx .csaas-channel-list {height: 204px; }#csaas-widget-cpurltpysx .csaas-channel-list {width: 68px; }#csaas-widget-cpurltpysx .csaas-open .csaas-channel-list .csaas-channel:nth-child(1) {-webkit-transform: translateY(-204px); transform: translateY(-204px);}#csaas-widget-cpurltpysx .csaas-open .csaas-channel-list .csaas-channel:nth-child(2) {-webkit-transform: translateY(-136px); transform: translateY(-136px);}#csaas-widget-cpurltpysx .csaas-open .csaas-channel-list .csaas-channel:nth-child(3) {-webkit-transform: translateY(-68px); transform: translateY(-68px);}#csaas-widget-cpurltpysx .csaas-open .csaas-channel-list .csaas-channel:nth-child(4) {-webkit-transform: translateY(-0px); transform: translateY(-0px);}.csaas-outer-forms.active.csaas-form-cpurltpysx {-webkit-transform: translateY(-100px); transform: translateY(-100px)} .csaas:not(.form-open)#csaas-widget-cpurltpysx .csaas-widget.csaas-open + .csaas-chat-view {-webkit-transform: translateY(-100px); transform: translateY(-100px)} #csaas-widget-cpurltpysx .csaas-tooltip:after {background-color: #ffffff; color: #3D3D3D}#csaas-widget-cpurltpysx .csaas-tooltip.pos-top:before {border-top-color: #ffffff; }#csaas-widget-cpurltpysx .csaas-tooltip.pos-left:before {border-left-color: #ffffff; }#csaas-widget-cpurltpysx .csaas-tooltip.pos-right:before {border-right-color: #ffffff;}#csaas-widget-cpurltpysx .on-hover-text {background-color: #ffffff; color: #3D3D3D}#csaas-widget-cpurltpysx .csaas-tooltip.pos-top .on-hover-text:before {border-top-color: #ffffff; }#csaas-widget-cpurltpysx .csaas-tooltip.pos-left .on-hover-text:before {border-left-color: #ffffff; }#csaas-widget-cpurltpysx .csaas-tooltip.pos-right .on-hover-text:before {border-right-color: #ffffff;}#csaas-widget-cpurltpysx .ch-pending-msg {background-color: #dd0000;color: #ffffff;}.csaas-chat-view-cpurltpysx .csaas-view-header {background-color: #b78deb;color: #ffffff;}.csaas-chat-view-cpurltpysx .csaas-view-header svg {fill: #ffffff;}</style></head>
+
+<body class="testimonials-template-default single single-testimonials postid-32580 wp-custom-logo layout-fullwidth responsive-fluid search-1 elementor-default elementor-kit-20095 standard-browser csaas-loaded">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TH6Z92X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div id="header-search">
+<div class="container clearfix">
+<i class="ss-search"></i>
+<form method="get" class="search-form" action="https://mulberrylearning.com/"><input type="text" placeholder="Search for something..." name="s" autocomplete="off"></form>
+<a id="header-search-close" href="#"><i class="ss-delete"></i></a>
+</div>
+</div>
+<div id="mobile-menu-wrap">
+<form method="get" class="mobile-search-form" action="https://mulberrylearning.com/"><input type="text" placeholder="Search" name="s" autocomplete="off"></form>
+<a class="mobile-menu-close"><i class="ss-delete"></i></a>
+<nav id="mobile-menu" class="clearfix">
+<div class="menu-main-container"><ul id="menu-main" class="menu"><li class="menu-item-30080 menu-item menu-item-type-post_type menu-item-object-page menu-item-home   "><a href="https://mulberrylearning.com/"><span class="menu-item-text">Home<span class="nav-line"></span></span></a></li>
+<li class="menu-item-196 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent"><a href="#"><span class="menu-item-text">About<span class="nav-line"></span></span></a>
+<ul class="sub-menu">
+<li class="menu-item-1065 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/company/">About Us</a></li>
+<li class="menu-item-15739 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/advisory-board/">Advisory Board</a></li>
+<li class="menu-item-198 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/brand-philosophy/">Brand Philosophy</a></li>
+<li class="menu-item-16794 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/centre-environment/">Centre Environment</a></li>
+<li class="menu-item-16830 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/teachers/">Teachers</a></li>
+<li class="menu-item-336 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/careers/">Careers at Mulberry Learning</a></li>
+<li class="menu-item-33013 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/global-network/">Global Network</a></li>
+</ul>
+</li>
+<li class="menu-item-14629 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent"><a href="#"><span class="menu-item-text">Programmes<span class="nav-line"></span></span></a>
+<ul class="sub-menu">
+<li class="menu-item-15326 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent"><a href="https://mulberrylearning.com/programmes/preschool/">Preschool</a>
+<ul class="sub-menu">
+<li class="menu-item-15238 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/programmes/infant-care/">Infant Care</a></li>
+<li class="menu-item-2573 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/programmes/pre-nursery-playgroup/">Pre-Nursery / Playgroup</a></li>
+<li class="menu-item-2572 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/programmes/nursery/">Nursery</a></li>
+<li class="menu-item-2571 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/programmes/kindergarten/">Kindergarten</a></li>
+</ul>
+</li>
+<li class="menu-item-15510 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent"><a href="#">Chinese Preschool</a>
+<ul class="sub-menu">
+<li class="menu-item-14634 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/programmes/chinese-preschool/">Chinese Preschool</a></li>
+</ul>
+</li>
+<li class="menu-item-17438 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent"><a href="#">Signature Programmes</a>
+<ul class="sub-menu">
+<li class="menu-item-17445 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/programmes/habits-of-mind/">Habits of Mind</a></li>
+<li class="menu-item-17439 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/programmes/literacy-and-numeracy/">Literacy and Numeracy</a></li>
+<li class="menu-item-17440 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/programmes/project-inquiry/">Project Inquiry</a></li>
+<li class="menu-item-17441 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/programmes/enrichment/">S.T.E.A.M Enrichment</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item-14611 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent"><a href="#"><span class="menu-item-text">Centres<span class="nav-line"></span></span></a>
+<ul class="sub-menu">
+<li class="menu-item-14630 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent"><a href="#">Preschool</a>
+<ul class="sub-menu">
+<li class="menu-item-32611 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/alexandra/">Alexandra</a></li>
+<li class="menu-item-29591 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/centres/alexandra-technopark/">Alexandra Technopark</a></li>
+<li class="menu-item-32709 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/centres/braddell/">Braddell</a></li>
+<li class="menu-item-32814 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/centres/bukit-batok/">Bukit Batok</a></li>
+<li class="menu-item-32692 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/centres/cairnhill/">Cairnhill</a></li>
+<li class="menu-item-33693 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/centres/clarke-quay/">Clarke Quay</a></li>
+<li class="menu-item-32588 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/dover/">Dover</a></li>
+<li class="menu-item-32716 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/centres/jurong-east/">Jurong East (Creative)</a></li>
+<li class="menu-item-32817 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/centres/kallang/">Kallang</a></li>
+<li class="menu-item-32915 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/centres/kovan/">Kovan</a></li>
+<li class="menu-item-32820 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/centres/marymount/">Marymount</a></li>
+<li class="menu-item-32808 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/centres/namly/">Namly</a></li>
+<li class="menu-item-32549 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/centres/punggol/">Punggol</a></li>
+<li class="menu-item-32804 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/centres/shenton-way/">Shenton Way</a></li>
+<li class="menu-item-33692 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/centres/tai-seng/">Tai Seng</a></li>
+<li class="menu-item-32575 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/centres/tanjong-pagar/">Tanjong Pagar</a></li>
+<li class="menu-item-32830 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/centres/woodlands/">Woodlands</a></li>
+</ul>
+</li>
+<li class="menu-item-15349 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent"><a href="#">Chinese Preschool</a>
+<ul class="sub-menu">
+<li class="menu-item-32722 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/centres/chinese-preschool-fusionopolis/">Fusionopolis</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item-1405 menu-item menu-item-type-post_type menu-item-object-page current_page_parent   "><a href="https://mulberrylearning.com/news-events/"><span class="menu-item-text">News &amp; Events<span class="nav-line"></span></span></a></li>
+<li class="menu-item-13930 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent"><a href="#"><span class="menu-item-text">Franchise<span class="nav-line"></span></span></a>
+<ul class="sub-menu">
+<li class="menu-item-13927 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/franchise-opportunity/">Franchise Opportunity</a></li>
+<li class="menu-item-6290 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/invest-preschool-franchise/">Things to consider when investing in a preschool franchise</a></li>
+<li class="menu-item-18578 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/invest-preschool-franchise-post-covid/">3 Reasons Why a Childcare Franchise is a Good Investment in a Post-Covid World</a></li>
+</ul>
+</li>
+<li class="menu-item-13366 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent"><a href="#"><span class="menu-item-text">Contact<span class="nav-line"></span></span></a>
+<ul class="sub-menu">
+<li class="menu-item-231 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/contact-us/">Contact Us</a></li>
+<li class="menu-item-30409 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/payment/">School Fees Payment</a></li>
+<li class="menu-item-13344 menu-item menu-item-type-post_type menu-item-object-page   "><a href="https://mulberrylearning.com/parent-referral/">Parent Referral Programme</a></li>
+</ul>
+</li>
+</ul></div></nav>
+</div>
+
+<div id="container">
+
+<div class="header-wrap">
+<picture style="line-height: 0; min-height: 6px;">
+<source type="image/webp" srcset="/wp-content/uploads/2015/08/topbanner.jpg.webp">
+<img src="/wp-content/uploads/2015/08/topbanner.jpg">
+</picture>
+<div id="header-section" class="header-7 ">
+<header id="header" class="clearfix">
+<div id="top-header"><div class="container">
+<div class="th-left col-sm-6 clearfix">
+Contact us on enquiry@mulberrylearning.com</div> 
+<div class="th-right col-sm-6 clearfix">
+<nav class="std-menu top-header-menu">
+<ul class="menu">
+</ul>
+</nav>
+</div> 
+</div> 
+</div><div class="sticky-header">
+<div class="container header-container">
+<div class="row">
+<div id="logo" class="logo-left clearfix">
+<a href="https://mulberrylearning.com">
+<picture class="standard">
+<source type="image/webp" srcset="https://mulberrylearning.com/wp-content/uploads/2022/06/mbr-logo-new-min.png.webp">
+<img src="https://mulberrylearning.com/wp-content/uploads/2022/06/mbr-logo-new-min.png" alt="Mulberry Learning" width="422" height="338">
+</picture>
+</a>
+<a href="#" class="visible-sm visible-xs mobile-menu-show"><i class="ss-rows"></i></a>
+</div>
+<div class="header-right"><nav class="search-nav std-menu">
+<ul class="menu">
+<li class="menu-search parent"><a href="#" class="header-search-link"><i class="ss-search"></i></a></li>
+</ul>
+</nav>
+<nav id="main-navigation" class="mega-menu clearfix" style="">
+<div class="menu-main-container"><ul id="menu-main-1" class="menu full-width"><li class="menu-item-30080 menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a href="https://mulberrylearning.com/">Home<span class="nav-line"></span></a></li>
+<li class="menu-item-196 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent"><a href="#" class="dc-mega">About<span class="nav-line"></span><span class="dc-mega-icon"></span></a>
+<div class="sub-container non-mega" style="left: 0px; top: 132px; z-index: 1000;"><ul class="sub-menu sub">
+<li class="menu-item-1065 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/company/">About Us</a></li>
+<li class="menu-item-15739 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/advisory-board/">Advisory Board</a></li>
+<li class="menu-item-198 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/brand-philosophy/">Brand Philosophy</a></li>
+<li class="menu-item-16794 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/centre-environment/">Centre Environment</a></li>
+<li class="menu-item-16830 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/teachers/">Teachers</a></li>
+<li class="menu-item-336 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/careers/">Careers at Mulberry Learning</a></li>
+<li class="menu-item-33013 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/global-network/">Global Network</a></li>
+</ul></div>
+</li>
+<li class="menu-item-14629 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent dc-mega-li"><a href="#" class="dc-mega">Programmes<span class="nav-line"></span><span class="dc-mega-icon"></span></a>
+<div class="sub-container mega" style="width: 220px; left: 0px; top: 132px; z-index: 1000;"><ul class="sub-menu sub" style="display: none;">
+<div class="row" style="width: 0px;"><li class="menu-item-15326 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent mega-unit mega-hdr" style="height: 0px;"><a href="https://mulberrylearning.com/programmes/preschool/" class="mega-hdr-a" style="height: 0px;">Preschool</a>
+<ul class="sub-menu">
+<li class="menu-item-15238 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/programmes/infant-care/">Infant Care</a></li>
+<li class="menu-item-2573 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/programmes/pre-nursery-playgroup/">Pre-Nursery / Playgroup</a></li>
+<li class="menu-item-2572 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/programmes/nursery/">Nursery</a></li>
+<li class="menu-item-2571 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/programmes/kindergarten/">Kindergarten</a></li>
+</ul>
+</li><li class="menu-item-15510 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent mega-unit mega-hdr" style="height: 0px;"><span class="title">Chinese Preschool</span>
+<ul class="sub-menu">
+<li class="menu-item-14634 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/programmes/chinese-preschool/">Chinese Preschool</a></li>
+</ul>
+</li><li class="menu-item-17438 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent mega-unit mega-hdr last" style="height: 0px;"><span class="title">Signature Programmes</span>
+<ul class="sub-menu">
+<li class="menu-item-17445 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/programmes/habits-of-mind/">Habits of Mind</a></li>
+<li class="menu-item-17439 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/programmes/literacy-and-numeracy/">Literacy and Numeracy</a></li>
+<li class="menu-item-17440 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/programmes/project-inquiry/">Project Inquiry</a></li>
+<li class="menu-item-17441 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/programmes/enrichment/">S.T.E.A.M Enrichment</a></li>
+</ul>
+</li></div>
+
+
+</ul></div>
+</li>
+<li class="menu-item-14611 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent dc-mega-li"><a href="#" class="dc-mega">Centres<span class="nav-line"></span><span class="dc-mega-icon"></span></a>
+<div class="sub-container mega" style="width: 220px; left: 0px; top: 132px; z-index: 1000;"><ul class="sub-menu sub" style="display: none;">
+<div class="row" style="width: 0px;"><li class="menu-item-14630 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent mega-unit mega-hdr" style="height: 0px;"><span class="title">Preschool</span>
+<ul class="sub-menu">
+<li class="menu-item-32611 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/alexandra/">Alexandra</a></li>
+<li class="menu-item-29591 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/centres/alexandra-technopark/">Alexandra Technopark</a></li>
+<li class="menu-item-32709 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/centres/braddell/">Braddell</a></li>
+<li class="menu-item-32814 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/centres/bukit-batok/">Bukit Batok</a></li>
+<li class="menu-item-32692 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/centres/cairnhill/">Cairnhill</a></li>
+<li class="menu-item-33693 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/centres/clarke-quay/">Clarke Quay</a></li>
+<li class="menu-item-32588 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/dover/">Dover</a></li>
+<li class="menu-item-32716 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/centres/jurong-east/">Jurong East (Creative)</a></li>
+<li class="menu-item-32817 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/centres/kallang/">Kallang</a></li>
+<li class="menu-item-32915 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/centres/kovan/">Kovan</a></li>
+<li class="menu-item-32820 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/centres/marymount/">Marymount</a></li>
+<li class="menu-item-32808 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/centres/namly/">Namly</a></li>
+<li class="menu-item-32549 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/centres/punggol/">Punggol</a></li>
+<li class="menu-item-32804 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/centres/shenton-way/">Shenton Way</a></li>
+<li class="menu-item-33692 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/centres/tai-seng/">Tai Seng</a></li>
+<li class="menu-item-32575 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/centres/tanjong-pagar/">Tanjong Pagar</a></li>
+<li class="menu-item-32830 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/centres/woodlands/">Woodlands</a></li>
+</ul>
+</li><li class="menu-item-15349 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent mega-unit mega-hdr last" style="height: 0px;"><span class="title">Chinese Preschool</span>
+<ul class="sub-menu">
+<li class="menu-item-32722 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/centres/chinese-preschool-fusionopolis/">Fusionopolis</a></li>
+</ul>
+</li></div>
+
+</ul></div>
+</li>
+<li class="menu-item-1405 menu-item menu-item-type-post_type menu-item-object-page current_page_parent"><a href="https://mulberrylearning.com/news-events/">News &amp; Events<span class="nav-line"></span></a></li>
+<li class="menu-item-13930 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent"><a href="#" class="dc-mega">Franchise<span class="nav-line"></span><span class="dc-mega-icon"></span></a>
+<div class="sub-container non-mega" style="left: 0px; top: 132px; z-index: 1000;"><ul class="sub-menu sub">
+<li class="menu-item-13927 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/franchise-opportunity/">Franchise Opportunity</a></li>
+<li class="menu-item-6290 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/invest-preschool-franchise/">Things to consider when investing in a preschool franchise</a></li>
+<li class="menu-item-18578 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/invest-preschool-franchise-post-covid/">3 Reasons Why a Childcare Franchise is a Good Investment in a Post-Covid World</a></li>
+</ul></div>
+</li>
+<li class="menu-item-13366 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent"><a href="#" class="dc-mega">Contact<span class="nav-line"></span><span class="dc-mega-icon"></span></a>
+<div class="sub-container non-mega" style="left: 0px; top: 132px; z-index: 1000;"><ul class="sub-menu sub">
+<li class="menu-item-231 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/contact-us/">Contact Us</a></li>
+<li class="menu-item-30409 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/payment/">School Fees Payment</a></li>
+<li class="menu-item-13344 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://mulberrylearning.com/parent-referral/">Parent Referral Programme</a></li>
+</ul></div>
+</li>
+</ul></div></nav>
+</div>
+</div> 
+</div> 
+</div>
+</header>
+</div>
+</div>
+
+<div id="main-container" class="clearfix">
+<div class="page-heading page-heading-hidden clearfix asset-bg ">
+<div class="container">
+<div class="heading-text">
+<h1 class="entry-title">Parents of Ronja (PN), Mulberry Learning @ Dover</h1>
+</div>
+<div id="breadcrumbs">
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Mulberry Learning." href="https://mulberrylearning.com" class="home"><span property="name">Mulberry Learning</span></a><meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Testimonials." href="https://mulberrylearning.com/?post_type=testimonials" class="archive post-testimonials-archive"><span property="name">Testimonials</span></a><meta property="position" content="2"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to the Dover-2022 Testimonial Categories archives." href="https://mulberrylearning.com/?testimonials-category=dover-2022" class="taxonomy testimonials-category"><span property="name">Dover-2022</span></a><meta property="position" content="3"></span> &gt; <span property="itemListElement" typeof="ListItem"><span property="name" class="post post-testimonials current-item">Parents of Ronja (PN), Mulberry Learning @ Dover</span><meta property="url" content="https://mulberrylearning.com/?testimonials=tiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover"><meta property="position" content="4"></span></div>
+</div>
+</div>
+
+<div class="container">
+
+<div id="page-wrap">
+<div class="inner-page-wrap has-no-sidebar clearfix">
+
+<article class="clearfix row post-32580 testimonials type-testimonials status-publish hentry testimonials-category-dover-2022" id="32580" itemscope="" itemtype="http://schema.org/BlogPosting">
+<div class="article-meta">
+<div itemprop="headline">Parents of Ronja (PN), Mulberry Learning @ Dover</div>
+</div>
+<div class="page-content col-sm-12 clearfix">
+<meta itemprop="datePublished" content="2023-04-17">
+<meta itemprop="dateModified" content="2023-04-25">
+<div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject" style="display:none;">
+<img src="">
+<meta content="" itemprop="url">
+<meta content="155" itemprop="width">
+<meta content="" itemprop="height">
+</div>
+<meta itemprop="name" content="Mulberry Learning">
+</div>
+<div class="entry-title">Parents of Ronja (PN), Mulberry Learning @ Dover</div>
+<ul class="post-pagination-wrap curved-bar-styling clearfix">
+<li class="prev"><a href="https://mulberrylearning.com/?testimonials=32675" rel="next"><i class="ss-navigateleft"></i> <span class="nav-text">Parent of Zachary (PN), Mulberry Learning @ Kovan</span></a></li>
+<li class="next"><a href="https://mulberrylearning.com/?testimonials=ting-denis-parent-of-declan-arlo-infant-care-mulberry-learning-tanjong-pagar" rel="prev"><span class="nav-text">Ting Denis, Parent of Declan Arlo (Infant Care), Mulberry Learning @ Tanjong Pagar</span><i class="ss-navigateright"></i></a></li>
+</ul>
+<div class="post-info clearfix">
+<span>Posted on <span class="date updated">April 17, 2023</span> in </span>
+</div>
+<figure class="media-wrap" itemscope=""></figure>
+<section class="article-body-wrap">
+<div class="body-text clearfix" itemprop="articleBody">
+<h3><span style="color: #e92d8d;">Parents of Ronja (PN), Mulberry Learning @ Dover</span></h3>
+<p><em>“The Pre Nursery teachers at Mulberry Learning @ Dover are passionate and loving towards the children in their care, including our daughter. We always see them smiling and having fun while they are teaching. I appreciate that they are open to feedback and work hand-in-hand with parents, like us, in nurturing the children.</em></p>
+<p><em>We are also thankful to the centre Principal for always being respectful and gentle when talking to the children. She even sings songs with the children, even in public areas. This shows how much she cares about the children’s development.</em></p>
+<p><em>To all the teachers and staff members at Mulberry Learning @ Dover, Thank you!”</em></p>
+<h3></h3>
+</div>
+<div class="link-pages"></div>
+<div class="tags-link-wrap clearfix">
+</div>
+<div class="share-links curved-bar-styling clearfix">
+<div class="share-text">Share this article:</div>
+<ul class="social-icons">
+<li class="sf-love">
+<div class="comments-likes">
+<div class="love-it-wrapper"><a href="#" class="love-it" data-post-id="32580" data-user-id="0"><i class="ss-heart"></i></a> <span class="love-count">0</span></div> </div>
+</li>
+<li class="facebook"><a href="https://www.facebook.com/sharer.php?u=https://mulberrylearning.com/?testimonials=tiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover" class="post_share_facebook" onclick="javascript:window.open(this.href,
+						      '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=220,width=600');return false;"><i class="" data-fa-i2svg=""><svg class="svg-inline--fa fa-facebook fa-w-16" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg></i><i class="" data-fa-i2svg=""><svg class="svg-inline--fa fa-facebook fa-w-16" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg></i></a></li>
+<li class="twitter"><a href="https://twitter.com/share?url=https://mulberrylearning.com/?testimonials=tiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover&amp;text=Parents+of+Ronja+%28PN%29%2C+Mulberry+Learning+%40+Dover" onclick="javascript:window.open(this.href,
+						      '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=260,width=600');return false;" class="product_share_twitter"><i class="" data-fa-i2svg=""><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></i><i class="" data-fa-i2svg=""><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></i></a></li>
+<li class="pinterest"><a href="https://pinterest.com/pin/create/button/?url=https://mulberrylearning.com/?testimonials=tiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover&amp;media=&amp;description=Parents of Ronja (PN), Mulberry Learning @ Dover" onclick="javascript:window.open(this.href,
+						      '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=320,width=600');return false;"><i class="" data-fa-i2svg=""><svg class="svg-inline--fa fa-pinterest fa-w-16" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="pinterest" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" data-fa-i2svg=""><path fill="currentColor" d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z"></path></svg></i><i class="" data-fa-i2svg=""><svg class="svg-inline--fa fa-pinterest fa-w-16" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="pinterest" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" data-fa-i2svg=""><path fill="currentColor" d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z"></path></svg></i></a></li>
+<li class="linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://mulberrylearning.com/?testimonials=tiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover&amp;title=Parents of Ronja (PN), Mulberry Learning @ Dover&amp;summary=Parents of Ronja (PN), Mulberry Learning @ Dover “The Pre Nursery teachers at Mulberry Learning @ Dover are passionate..." onclick="javascript:window.open(this.href,
+							  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=320,width=600');return false;"><i class="" data-fa-i2svg=""><svg class="svg-inline--fa fa-linkedin fa-w-14" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg></i><i class="" data-fa-i2svg=""><svg class="svg-inline--fa fa-linkedin fa-w-14" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg></i></a></li>
+<li class="mail"><a href="mailto:?subject=Parents of Ronja (PN), Mulberry Learning @ Dover&amp;body=Parents of Ronja (PN), Mulberry Learning @ Dover “The Pre Nursery teachers at Mulberry Learning @ Dover are passionate... https://mulberrylearning.com/?testimonials=tiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover" class="product_share_email"><i class="ss-mail"></i><i class="ss-mail"></i></a></li>
+</ul>
+</div>
+<div class="author-info-wrap clearfix">
+<div class="author-avatar"><img alt="" src="https://secure.gravatar.com/avatar/53b25270694c819ded9f2cdf7585dcab?s=140&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/53b25270694c819ded9f2cdf7585dcab?s=280&amp;d=mm&amp;r=g 2x" class="avatar avatar-140 photo" height="140" width="140" decoding="async"></div>
+<div class="author-bio">
+<div class="author-name" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><h3>About <span itemprop="name">Mulberry Learning</span></h3></div>
+<div class="author-bio-text">
+</div>
+</div>
+</div>
+</section>
+</div>
+
+</article>
+</div>
+
+
+</div>
+
+</div>
+
+<div style="display: none;">
+<div id="div-tour-form" style="padding: 10px; background-color: #fff;">
+<h1 class="pink title" style="text-align:center;"> Mulberry <span class="purple">School Tour</span> </h1>
+<div class="wpcf7 js" id="wpcf7-f1528-p32580-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/?testimonials=tiina-and-karl-parents-of-ronja-pn-mulberry-learning-dover#wpcf7-f1528-p32580-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="1528">
+<input type="hidden" name="_wpcf7_version" value="5.9">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1528-p32580-o1">
+<input type="hidden" name="_wpcf7_container_post" value="32580">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+<input type="hidden" name="_wpcf7cf_hidden_group_fields" value="[]">
+<input type="hidden" name="_wpcf7cf_hidden_groups" value="[]">
+<input type="hidden" name="_wpcf7cf_visible_groups" value="[]">
+<input type="hidden" name="_wpcf7cf_repeaters" value="[]">
+<input type="hidden" name="_wpcf7cf_steps" value="{}">
+<input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:1528,&quot;conditions&quot;:[],&quot;settings&quot;:{&quot;animation&quot;:&quot;yes&quot;,&quot;animation_intime&quot;:200,&quot;animation_outtime&quot;:200,&quot;conditions_ui&quot;:&quot;normal&quot;,&quot;notice_dismissed&quot;:false,&quot;notice_dismissed_rollback-cf7-5.6&quot;:true,&quot;notice_dismissed_rollback-cf7-5.7&quot;:true,&quot;notice_dismissed_rollback-cf7-5.8.1&quot;:true}}">
+<input type="hidden" name="_wpcf7_recaptcha_response" value="">
+</div>
+<div>
+<div class="mul-signup-subtitle">
+<p>Selected Centre
+</p>
+</div>
+<p><span class="wpcf7-form-control-wrap" data-name="location"><select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false" name="location"><option value="">—Please choose an option—</option><option value="Alexandra">Alexandra</option><option value="Bukit Merah">Bukit Merah</option><option value="Cairnhill">Cairnhill</option><option value="Choa Chu Kang">Choa Chu Kang</option><option value="Creative (Near Jurong East)">Creative (Near Jurong East)</option><option value="Tanjong Pagar">Tanjong Pagar</option><option value="Toa Payoh">Toa Payoh</option><option value="Woodlands">Woodlands</option><option value="Shenton Way (Q2 2017)">Shenton Way (Q2 2017)</option><option value="Marymount (Q3 2017)">Marymount (Q3 2017)</option></select></span>
+</p>
+</div>
+<div class="clear">
+</div>
+<div>
+<div class="mul-signup-subtitle">
+<p>Parent's Particulars
+</p>
+</div>
+<div class="mul-inline-fields">
+<div class="one_fourth">
+<p>Salutation <span class="req">*</span><br>
+<span class="wpcf7-form-control-wrap" data-name="parent-salutation"><select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false" name="parent-salutation"><option value="">—Please choose an option—</option><option value="Dr">Dr</option><option value="Mr">Mr</option><option value="Mrs">Mrs</option><option value="Ms">Ms</option><option value="Mdm">Mdm</option></select></span>
+</p>
+</div>
+<div class="clear">
+</div>
+</div>
+<div class="one_half">
+<p>Surname <span class="req">*</span><br>
+<span class="wpcf7-form-control-wrap" data-name="parent-surname"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="parent-surname"></span>
+</p>
+</div>
+<div class="one_half last">
+<p>Given Name <span class="req">*</span><br>
+<span class="wpcf7-form-control-wrap" data-name="parent-given-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="parent-given-name"></span>
+</p>
+<div class="clear">
+</div>
+</div>
+<div class="mul-inline-fields">
+<div class="one_half">
+<p>Mobile <span class="req">*</span><br>
+<span class="wpcf7-form-control-wrap" data-name="parent-mobile"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="parent-mobile"></span>
+</p>
+</div>
+<div class="one_half last">
+<p>Email <span class="req">*</span><br>
+<span class="wpcf7-form-control-wrap" data-name="parent-email"><input size="40" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="parent-email"></span>
+</p>
+</div>
+<div class="clear">
+</div>
+</div>
+<p><span class="req">*</span> indicates required fields
+</p>
+<div class="mul-signup-subtitle">
+<p>Child's Particulars
+</p>
+</div>
+<p>Given Name <span class="req">*</span><br>
+<span class="wpcf7-form-control-wrap" data-name="child-given-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="child-given-name"></span>
+</p>
+<p>Date of Birth <span class="req">*</span><br>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth" id="dp1711777745864"></span>
+</p>
+<p><a id="mul-second-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
+</p>
+<div id="mul-second-child" class="hide">
+<p>Second Child's Given Name<br>
+<span class="wpcf7-form-control-wrap" data-name="child-2-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-2-given-name"></span>
+</p>
+<p>Second Child's Date of Birth<br>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth2"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth2" id="dp1711777745865"></span>
+</p>
+<p><a id="mul-third-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
+</p>
+</div>
+<div id="mul-third-child" class="hide">
+<p>Third Child's Given Name<br>
+<span class="wpcf7-form-control-wrap" data-name="child-3-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-3-given-name"></span>
+</p>
+<p>Third Child's Date of Birth<br>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth3"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth3" id="dp1711777745866"></span>
+</p>
+<p><a id="mul-fourth-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
+</p>
+</div>
+<div id="mul-fourth-child" class="hide">
+<p>Fourth Child's Given Name<br>
+<span class="wpcf7-form-control-wrap" data-name="child-4-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-4-given-name"></span>
+</p>
+<p>Fourth Child's Date of Birth<br>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth4"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth4" id="dp1711777745867"></span>
+</p>
+</div>
+<div style="clear: both;">
+</div>
+<div class="one_half">
+<p>Programme Interested <span class="req">*</span><br>
+<span class="wpcf7-form-control-wrap" data-name="programme"><select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false" name="programme"><option value="">—Please choose an option—</option><option value="Infant Care">Infant Care</option><option value="Playgroup">Playgroup</option><option value="N1">N1</option><option value="N2">N2</option><option value="K1">K1</option><option value="K2">K2</option></select></span>
+</p>
+<p>Earliest Enrolment Date <span class="req">*</span><br>
+<span class="wpcf7-form-control-wrap" data-name="date"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="date"></span>
+</p>
+</div>
+<div style="clear: both;">
+</div>
+<div class="contact_title" style="margin: 0 0 10px;">
+<p>How did you hear about Mulberry?
+</p>
+</div>
+<div style="margin-bottom: 20px;">
+<div class="one_half chkbox">
+<p><span class="wpcf7-list-item first"><input type="checkbox" value="Facebook" name="hear[]">&nbsp;<span class="wpcf7-list-item-label">Facebook</span></span><br>
+<span class="wpcf7-list-item"><input type="checkbox" value="Flyers" name="hear[]">&nbsp;<span class="wpcf7-list-item-label">Flyers</span></span><br>
+<span class="wpcf7-list-item"><input type="checkbox" value="Internet" name="hear[]">&nbsp;<span class="wpcf7-list-item-label">Internet</span></span><br>
+<span class="wpcf7-list-item"><input type="checkbox" value="Email/E-Blast" name="hear[]">&nbsp;<span class="wpcf7-list-item-label">Email/E-Blast</span></span>
+</p>
+</div>
+<div class="one_half last chkbox">
+<p><span class="wpcf7-list-item"><input type="checkbox" value="Forums" name="hear[]">&nbsp;<span class="wpcf7-list-item-label">Forums</span></span><br>
+<span class="wpcf7-list-item"><input type="checkbox" value="Magazines" name="hear[]">&nbsp;<span class="wpcf7-list-item-label">Magazines</span></span><br>
+<span class="wpcf7-list-item"><input type="checkbox" value="Word of Mouth" name="hear[]">&nbsp;<span class="wpcf7-list-item-label">Word of Mouth</span></span><br>
+<span class="wpcf7-list-item last"><input type="checkbox" value="Others" name="hear[]">&nbsp;<span class="wpcf7-list-item-label">Others</span></span>
+</p>
+</div>
+<p>&nbsp;<br>
+&nbsp;<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Sign Up"><span class="wpcf7-spinner"></span>
+</p>
+<div class="clear">
+</div>
+</div>
+</div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+</div>
+</div>
+<div id="footer-wrap">
+
+<section id="footer" class="">
+<div id="footer-bgs" class="row clearfix">
+<div class="col-sm-3 footer-bg-col footer-first" style="height: 1164.98px;">
+</div>
+<div class="col-sm-9 footer-bg-col footer-bg" style="height: 1164.98px;">
+</div>""
+</div>
+<div class="container">
+<div id="footer-widgets" class="row clearfix">
+<div class="col-sm-3 footer-col footer-first" style="height: 1164.98px;">
+<section id="text-2" class="widget widget_text clearfix"><div class="widget-heading clearfix"><h6>Our Locations</h6></div> <div class="textwidget"><div class="footer-locations-mobile"><a href="/contact-us#ourlocations">OUR LOCATIONS</a></div>
+<div class="footer-locations-desktop">
+<p style="font-family:helvetica;" "text-align:justify;"="">Click <span style="color: #ff6600;"><a href="/contact-us/#ourlocations">here to visit our Contact Us page</a></span> and view the preschool/infant care centres conveniently located near you.</p>
+</div></div>
+</section> </div>
+<div class="col-sm-9 footer-col">
+<div class="row clearfix">
+<div class="col-sm-4 footer-second">
+<section id="text-10" class="widget widget_text clearfix"><div class="widget-heading clearfix"><h6>Services</h6></div> <div class="textwidget"><div class="footer-location-service">
+<ul style="font-family:helvetica;">
+<li style="list-style-type: circle;">Infant Care</li>
+<li style="list-style-type: circle;">Childcare</li>
+</ul>
+</div></div>
+</section><section id="text-5" class="widget widget_text clearfix"><div class="widget-heading clearfix"><h6>Hotline</h6></div> <div class="textwidget"><div class="footer-location-phone">
+<a href="tel:+6566538082">(65) 6653 8082</a>
+</div></div>
+</section><section id="text-7" class="widget widget_text clearfix"><div class="widget-heading clearfix"><h6>Email</h6></div> <div class="textwidget"><div class="footer-location-email"><a href="mailto:enquiry@mulberrylearning.com">enquiry@mulberrylearning.com</a></div></div>
+</section> </div>
+<div class="col-sm-4 footer-third">
+<section id="custom_html-2" class="widget_text widget widget_custom_html clearfix"><div class="widget-heading clearfix"><h6>CONNECT WITH US</h6></div><div class="textwidget custom-html-widget"><div>
+<a href="https://www.facebook.com/mulberrylearningcentres"><i class="" aria-hidden="true" style="color: #ffffff;
+    background-color: #3b5998;
+    font-size: 32px;
+    border-radius: 5px;
+    width: 40px;
+    padding: 4px 11px;
+    text-align: center;" data-fa-i2svg=""><svg class="svg-inline--fa fa-facebook-f fa-w-10" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg></i></a>
+&nbsp;
+<a href="https://www.instagram.com/mulberrylearning"><i class="" aria-hidden="true" style="color: #ffffff;
+    background-color: #fbad50;
+    font-size: 32px;
+    border-radius: 5px;
+    width: 40px;
+    padding: 4px 7px;
+    text-align: center;" data-fa-i2svg=""><svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></i></a>
+&nbsp;
+<a href="https://www.youtube.com/channel/UCycaz648FsCDzAdVIJVzMZw"><i class="" aria-hidden="true" style="color: #ffffff;
+    background-color: #FF0000;
+    font-size: 32px;
+    border-radius: 5px;
+    width: 40px;
+    padding: 4px 2px;
+    text-align: center;" data-fa-i2svg=""><svg class="svg-inline--fa fa-youtube fa-w-18" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg></i></a>
+</div></div></section><section id="text-9" class="widget widget_text clearfix"><div class="widget-heading clearfix"><h6>USEFUL LINKS</h6></div> <div class="textwidget"><a href="https://mulberrylearning.com/privacy-policy" target="_new" rel="noopener"><h5>View our Privacy Policy</h5></a></div>
+</section> </div>
+<div class="col-sm-4 footer-fourth">
+<section id="text-6" class="widget widget_text clearfix"><div class="widget-heading clearfix"><h6>About Us</h6></div> <div class="textwidget"><p><img src="/wp-content/uploads/2016/02/footer-logo.png"></p>
+<p>Mulberry Learning prides itself on making the preschool experience both memorable and enjoyable while transforming a child into a competent explorer, an imaginative thinker, and a creative problem solver. Through our proprietary award-winning curriculum, unique Habits of Mind programme and dedicated staff who are passionate about imparting positive attitudes, Mulberry Learning holds strong in its promise to deliver a holistic education that nurtures the Future Ready Child.</p>
+<p class="pink">A PREMIUM PRESCHOOL BRAND UNDER GLOBAL EDUHUB</p></div>
+</section> </div>
+</div>
+</div>
+</div>
+</div>
+
+</section>
+</div>
+
+</div>
+
+<div class="fw-video-area"><div class="fw-video-close"><i class="ss-delete"></i></div></div><div class="fw-video-spacer"></div>
+
+<div id="sf-included" class=""></div>
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TH6Z92X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div id="sf-option-params" data-lightbox-enabled="1" data-lightbox-nav="default" data-lightbox-thumbs="true" data-lightbox-skin="light" data-lightbox-sharing="true" data-slider-slidespeed="6000" data-slider-animspeed="500" data-slider-autoplay="0"></div>
+<link rel="stylesheet" id="contact-form-7-css" href="https://mulberrylearning.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9" type="text/css" media="all">
+<style id="contact-form-7-inline-css" type="text/css">
+.wpcf7 .wpcf7-recaptcha iframe {margin-bottom: 0;}.wpcf7 .wpcf7-recaptcha[data-align="center"] > div {margin: 0 auto;}.wpcf7 .wpcf7-recaptcha[data-align="right"] > div {margin: 0 0 0 auto;}
+</style>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/plugins/post-carousel-addons-for-elementor/assets/slick/slick.min.js?ver=1.0.4" id="eshuzu_slick_js-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/plugins/post-carousel-addons-for-elementor/assets/js/app.js?ver=1.0.8" id="eshuzu_custom_script-js"></script>
+<script type="text/javascript" id="buttonizer_frontend_javascript-js-extra">
+/* <![CDATA[ */
+var buttonizer_data = {"plugin":"buttonizer","status":"success","result":[],"warning":[],"premium":""};
+var buttonizer_ajax = {"ajaxurl":"https:\/\/mulberrylearning.com\/wp-admin\/admin-ajax.php","version":"3.4.3","buttonizer_path":"https:\/\/mulberrylearning.com\/wp-content\/plugins\/buttonizer-multifunctional-button","buttonizer_assets":"https:\/\/mulberrylearning.com\/wp-content\/plugins\/buttonizer-multifunctional-button\/assets\/legacy\/","base_url":"https:\/\/mulberrylearning.com","current":[],"in_preview":"","is_admin":"","cache":"c758d0c40ce63df54a2b1680df3278af","enable_ga_clicks":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/plugins/buttonizer-multifunctional-button/assets/legacy/frontend.min.js?v=9f851fb3203c740b13d66b2369b3636d&amp;ver=6.4.3" id="buttonizer_frontend_javascript-js"></script>
+<script type="text/javascript" id="page-scroll-to-id-plugin-script-js-extra">
+/* <![CDATA[ */
+var mPS2id_params = {"instances":{"mPS2id_instance_0":{"selector":"a[rel='m_PageScroll2id']","autoSelectorMenuLinks":"true","excludeSelector":"a[href^='#tab-'], a[href^='#tabs-'], a[data-toggle]:not([data-toggle='tooltip']), a[data-slide], a[data-vc-tabs], a[data-vc-accordion]","scrollSpeed":1000,"autoScrollSpeed":"true","scrollEasing":"easeInOutQuint","scrollingEasing":"easeOutQuint","forceScrollEasing":"false","pageEndSmoothScroll":"true","stopScrollOnUserAction":"false","autoCorrectScroll":"false","autoCorrectScrollExtend":"false","layout":"vertical","offset":0,"dummyOffset":"false","highlightSelector":"","clickedClass":"mPS2id-clicked","targetClass":"mPS2id-target","highlightClass":"mPS2id-highlight","forceSingleHighlight":"false","keepHighlightUntilNext":"false","highlightByNextTarget":"false","appendHash":"false","scrollToHash":"true","scrollToHashForAll":"true","scrollToHashDelay":0,"scrollToHashUseElementData":"true","scrollToHashRemoveUrlHash":"false","disablePluginBelow":0,"adminDisplayWidgetsId":"true","adminTinyMCEbuttons":"true","unbindUnrelatedClickEvents":"false","unbindUnrelatedClickEventsSelector":"","normalizeAnchorPointTargets":"false","encodeLinks":"false"}},"total_instances":"1","shortcode_class":"_ps2id"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js?ver=1.7.9" id="page-scroll-to-id-plugin-script-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.2" id="jquery-effects-core-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.13.2" id="jquery-effects-slide-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-includes/js/jquery/ui/effect-highlight.min.js?ver=1.13.2" id="jquery-effects-highlight-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-includes/js/jquery/ui/effect-fold.min.js?ver=1.13.2" id="jquery-effects-fold-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.13.2" id="jquery-effects-blind-js"></script>
+<script type="text/javascript" id="bg-show-hide-script-js-extra">
+/* <![CDATA[ */
+var BG_SHCE_USE_EFFECTS = "0";
+var BG_SHCE_TOGGLE_SPEED = "400";
+var BG_SHCE_TOGGLE_OPTIONS = "none";
+var BG_SHCE_TOGGLE_EFFECT = "blind";
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/plugins/show-hidecollapse-expand/assets/js/bg-show-hide.js?ver=6.4.3" id="bg-show-hide-script-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-contact-form-7-tracker.js?ver=1.20" id="gtm4wp-contact-form-7-tracker-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-form-move-tracker.js?ver=1.20" id="gtm4wp-form-move-tracker-js"></script>
+<script type="text/javascript" id="rocket-browser-checker-js-after">
+/* <![CDATA[ */
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index.php\/)?(.*)wp-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/mulberrylearning.com","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-after">
+/* <![CDATA[ */
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+/* ]]> */
+</script>
+<script type="text/javascript" id="love-it-js-extra">
+/* <![CDATA[ */
+var love_it_vars = {"ajaxurl":"https:\/\/mulberrylearning.com\/wp-admin\/admin-ajax.php","nonce":"576031fcfd","already_loved_message":"You have already loved this item.","error_message":"Sorry, there was a problem processing your request.","logged_in":"false"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/includes/plugins/love-it-pro/includes/js/love-it.js" id="love-it-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/includes/plugins/love-it-pro/includes/js/jquery.cookie.js" id="jquery-coookies-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/modernizr.js" id="modernizr-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/bootstrap.min.js" id="bootstrap-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.2" id="jquery-ui-accordion-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.flexslider-min.js" id="flexslider-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.easing.js" id="easing-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/owl.carousel.min.js" id="owlcarousel-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/dcmegamenu.js" id="dcmegamenu-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.appear.js" id="jquery-appear-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.animatenumber.js" id="jquery-animatenumber-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.animOnScroll.js" id="jquery-animOnScroll-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.classie.js" id="jquery-classie-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.countdown.min.js" id="jquery-countdown-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.countTo.js" id="jquery-countTo-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.easypiechart.min.js" id="jquery-easypiechart-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.equalHeights.js?ver=1.0.1" id="jquery-equalHeights-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.hoverIntent.min.js" id="jquery-hoverIntent-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.infinitescroll.min.js" id="jquery-infinite-scroll-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.isotope.min.js" id="jquery-isotope-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/imagesloaded.js" id="jquery-imagesLoaded-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.parallax.min.js" id="jquery-parallax-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.smartresize.js" id="jquery-smartresize-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.stickem.js" id="jquery-stickem-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.stickyplugin.js" id="jquery-stickyplugin-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/jquery.viewport.js" id="jquery-viewport-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/lib/ilightbox.min.js" id="ilightbox-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/themes/dante/js/functions.js" id="sf-functions-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/mulberrylearning.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9" id="contact-form-7-js"></script>
+<script type="text/javascript" id="wpcf7cf-scripts-js-extra">
+/* <![CDATA[ */
+var wpcf7cf_global_settings = {"ajaxurl":"https:\/\/mulberrylearning.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=2.4.7" id="wpcf7cf-scripts-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=14.2.1" id="__ytprefsfitvids__-js"></script>
+<script type="text/javascript" id="fca_pc_client_js-js-extra">
+/* <![CDATA[ */
+var fcaPcEvents = [];
+var fcaPcPost = {"title":"Parents of Ronja (PN), Mulberry Learning @ Dover","type":"testimonials","id":"32580","categories":[]};
+var fcaPcOptions = {"pixel_types":["Facebook Pixel"],"ajax_url":"https:\/\/mulberrylearning.com\/wp-admin\/admin-ajax.php","debug":"","edd_currency":"USD","nonce":"8022335cdf","utm_support":"","user_parameters":"","edd_enabled":"","edd_delay":"0","woo_enabled":"","woo_delay":"0","video_enabled":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/plugins/facebook-conversion-pixel/pixel-cat.min.js?ver=3.0.3" id="fca_pc_client_js-js"></script>
+<script type="text/javascript" src="https://mulberrylearning.com/wp-content/plugins/facebook-conversion-pixel/video.js?ver=6.4.3" id="fca_pc_video_js-js"></script>
+
+
+
+</div>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","240202473020805");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=240202473020805&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="">document.addEventListener("wpcf7mailsent",function(a){dataLayer.push({event:"form_submitted_"+a.detail.contactFormId})},!1);</script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1190181695095851");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1190181695095851&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","5361947790547421");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=5361947790547421&amp;ev=PageView&amp;noscript=1"></noscript>
+<script type="text/javascript" id="" src="https://cdn.pagesense.io/js/heroesofdigital/cbfab9e4d99145f497839935745449d3.js"></script><div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all"></div><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><div style="display: none" class="csaas csaas-id-cpurltpysx csaas-widget-cpurltpysx csaas-key-0 all_time has-simple-view active" id="csaas-widget-cpurltpysx" data-key="0" data-id="cpurltpysx" data-identifier="cpurltpysx" data-user="v4ifil3a"><div class="csaas-widget right-position"><div class="csaas-channels"><div class="csaas-channel-list"><div class="csaas-channel WhatsApp-channel" id="WhatsApp-cpurltpysx-channel" data-id="WhatsApp-cpurltpysx" data-widget="cpurltpysx" data-channel="WhatsApp"><a aria-label="WhatsApp" href="javascript:;" target="" class="csaas-tooltip channel-cpurltpysx-WhatsApp pos-left has-csaas-box csaas-whatsapp-form-button" dir="ltr" data-form="csaas-form-cpurltpysx-WhatsApp" data-hover="WhatsApp"><span aria-hidden="true" class="csaas-svg"><svg width="39" height="39" viewBox="0 0 39 39" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-element" cx="19.4395" cy="19.4395" r="19.4395" fill="#49E670"></circle>
+                                <path d="M12.9821 10.1115C12.7029 10.7767 11.5862 11.442 10.7486 11.575C10.1902 11.7081 9.35269 11.8411 6.84003 10.7767C3.48981 9.44628 1.39593 6.25317 1.25634 6.12012C1.11674 5.85403 2.13001e-06 4.39053 2.13001e-06 2.92702C2.13001e-06 1.46351 0.83755 0.665231 1.11673 0.399139C1.39592 0.133046 1.8147 1.01506e-06 2.23348 1.01506e-06C2.37307 1.01506e-06 2.51267 1.01506e-06 2.65226 1.01506e-06C2.93144 1.01506e-06 3.21063 -2.02219e-06 3.35022 0.532183C3.62941 1.19741 4.32736 2.66092 4.32736 2.79397C4.46696 2.92702 4.46696 3.19311 4.32736 3.32616C4.18777 3.59225 4.18777 3.59224 3.90858 3.85834C3.76899 3.99138 3.6294 4.12443 3.48981 4.39052C3.35022 4.52357 3.21063 4.78966 3.35022 5.05576C3.48981 5.32185 4.18777 6.38622 5.16491 7.18449C6.42125 8.24886 7.39839 8.51496 7.81717 8.78105C8.09636 8.91409 8.37554 8.9141 8.65472 8.648C8.93391 8.38191 9.21309 7.98277 9.49228 7.58363C9.77146 7.31754 10.0507 7.1845 10.3298 7.31754C10.609 7.45059 12.2841 8.11582 12.5633 8.38191C12.8425 8.51496 13.1217 8.648 13.1217 8.78105C13.1217 8.78105 13.1217 9.44628 12.9821 10.1115Z" transform="translate(12.9597 12.9597)" fill="#FAFAFA"></path>
+                                <path d="M0.196998 23.295L0.131434 23.4862L0.323216 23.4223L5.52771 21.6875C7.4273 22.8471 9.47325 23.4274 11.6637 23.4274C18.134 23.4274 23.4274 18.134 23.4274 11.6637C23.4274 5.19344 18.134 -0.1 11.6637 -0.1C5.19344 -0.1 -0.1 5.19344 -0.1 11.6637C-0.1 13.9996 0.624492 16.3352 1.93021 18.2398L0.196998 23.295ZM5.87658 19.8847L5.84025 19.8665L5.80154 19.8788L2.78138 20.8398L3.73978 17.9646L3.75932 17.906L3.71562 17.8623L3.43104 17.5777C2.27704 15.8437 1.55796 13.8245 1.55796 11.6637C1.55796 6.03288 6.03288 1.55796 11.6637 1.55796C17.2945 1.55796 21.7695 6.03288 21.7695 11.6637C21.7695 17.2945 17.2945 21.7695 11.6637 21.7695C9.64222 21.7695 7.76778 21.1921 6.18227 20.039L6.17557 20.0342L6.16817 20.0305L5.87658 19.8847Z" transform="translate(7.7758 7.77582)" fill="white" stroke="white" stroke-width="0.2"></path></svg></span><span class="csaas-sr-only">WhatsApp</span></a></div><div class="csaas-channel Phone-channel" id="Phone-cpurltpysx-channel" data-id="Phone-cpurltpysx" data-widget="cpurltpysx" data-channel="Phone"><a aria-label="Phone number" href="tel:+6588763078" target="" class="csaas-tooltip channel-cpurltpysx-Phone pos-left" dir="ltr" data-form="csaas-form-cpurltpysx-Phone" data-hover="Phone number"><span aria-hidden="true" class="csaas-svg"><svg width="39" height="39" viewBox="0 0 39 39" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-element" cx="19.4395" cy="19.4395" r="19.4395" fill="#03E78B"></circle>
+                                <path d="M19.3929 14.9176C17.752 14.7684 16.2602 14.3209 14.7684 13.7242C14.0226 13.4259 13.1275 13.7242 12.8292 14.4701L11.7849 16.2602C8.65222 14.6193 6.11623 11.9341 4.47529 8.95057L6.41458 7.90634C7.16046 7.60799 7.45881 6.71293 7.16046 5.96705C6.56375 4.47529 6.11623 2.83435 5.96705 1.34259C5.96705 0.596704 5.22117 0 4.47529 0H0.745882C0.298353 0 5.69062e-07 0.298352 5.69062e-07 0.745881C5.69062e-07 3.72941 0.596704 6.71293 1.93929 9.3981C3.87858 13.575 7.30964 16.8569 11.3374 18.7962C14.0226 20.1388 17.0061 20.7355 19.9896 20.7355C20.4371 20.7355 20.7355 20.4371 20.7355 19.9896V16.4094C20.7355 15.5143 20.1388 14.9176 19.3929 14.9176Z" transform="translate(9.07179 9.07178)" fill="white"></path></svg></span><span class="csaas-sr-only">Phone number</span></a></div><div class="csaas-channel Contact_Us-channel has-csaas-box" id="Contact_Us-cpurltpysx-channel" data-id="Contact_Us-cpurltpysx" data-widget="cpurltpysx" data-channel="Contact_Us"><a aria-label="Contact Form" href="javascript:;" target="" class="csaas-tooltip channel-cpurltpysx-Contact_Us pos-left has-csaas-box csaas-contact-form-button" dir="ltr" data-form="csaas-form-cpurltpysx-Contact_Us" data-hover="Contact Form"><span aria-hidden="true" class="csaas-svg"><svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-element" cx="24" cy="24" r="24" fill="#253974"></circle>
+                <path d="M34.5002 12.334H17.0002C16.3813 12.334 15.7878 12.5798 15.3502 13.0174C14.9127 13.455 14.6668 14.0485 14.6668 14.6673V18.1673H12.3335V20.5007H14.6668V22.834H12.3335V25.1673H14.6668V27.5007H12.3335V29.834H14.6668V33.334C14.6668 33.9528 14.9127 34.5463 15.3502 34.9839C15.7878 35.4215 16.3813 35.6673 17.0002 35.6673H34.5002C34.8096 35.6673 35.1063 35.5444 35.3251 35.3256C35.5439 35.1068 35.6668 34.8101 35.6668 34.5007V13.5007C35.6668 13.1912 35.5439 12.8945 35.3251 12.6757C35.1063 12.4569 34.8096 12.334 34.5002 12.334ZM25.1668 15.8328C27.0895 15.8328 28.6668 17.409 28.6668 19.3328C28.6635 20.2601 28.2937 21.1485 27.638 21.8044C26.9824 22.4602 26.0942 22.8303 25.1668 22.834C23.2453 22.834 21.6668 21.2555 21.6668 19.3328C21.6668 17.409 23.2453 15.8328 25.1668 15.8328ZM32.1668 31.0007H18.1668V30.1257C18.1668 27.5368 21.3227 24.8757 25.1668 24.8757C29.011 24.8757 32.1668 27.5368 32.1668 30.1257V31.0007Z" fill="white"></path>
+                </svg></span><span class="csaas-sr-only">Contact Form</span></a></div></div><div class="csaas-i-trigger"><div class="csaas-channel csaas-cta-main has-on-hover csaas-tooltip pos-left active" data-widget="cpurltpysx" data-hover="Contact Us"><span class="on-hover-text" dir="ltr">Contact Us</span><div class="csaas-cta-button"><button type="button" class="open-chaty"><span aria-hidden="true" class="csaas-svg"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-496 507.7 54 54" style="enable-background:new -496 507.7 54 54;" xml:space="preserve"><style type="text/css">.csaas-sts1{fill: #FFFFFF;}.csaas-st0{fill: #808080;}</style><g><circle cx="-469" cy="534.7" r="27" fill="#A886CD"></circle></g><path class="csaas-sts1" d="M-459.9,523.7h-20.3c-1.9,0-3.4,1.5-3.4,3.4v15.3c0,1.9,1.5,3.4,3.4,3.4h11.4l5.9,4.9c0.2,0.2,0.3,0.2,0.5,0.2 h0.3c0.3-0.2,0.5-0.5,0.5-0.8v-4.2h1.7c1.9,0,3.4-1.5,3.4-3.4v-15.3C-456.5,525.2-458,523.7-459.9,523.7z"></path><path class="csaas-st0" d="M-477.7,530.5h11.9c0.5,0,0.8,0.4,0.8,0.8l0,0c0,0.5-0.4,0.8-0.8,0.8h-11.9c-0.5,0-0.8-0.4-0.8-0.8l0,0C-478.6,530.8-478.2,530.5-477.7,530.5z"></path><path class="csaas-st0" d="M-477.7,533.5h7.9c0.5,0,0.8,0.4,0.8,0.8l0,0c0,0.5-0.4,0.8-0.8,0.8h-7.9c-0.5,0-0.8-0.4-0.8-0.8l0,0C-478.6,533.9-478.2,533.5-477.7,533.5z"></path></svg></span><span class="csaas-sr-only">Open Chaty Channels</span></button><button type="button" class="open-csaas-channel"></button></div></div><div class="csaas-channel csaas-cta-close csaas-tooltip pos-left" dir="ltr" data-hover="Close"><div class="csaas-cta-button"><button type="button"><span aria-hidden="true" class="csaas-svg"><svg viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="26" cy="26" rx="26" ry="26" fill="#A886CD"></ellipse><rect width="27.1433" height="3.89857" rx="1.94928" transform="translate(18.35 15.6599) scale(0.998038 1.00196) rotate(45)" fill="white"></rect><rect width="27.1433" height="3.89857" rx="1.94928" transform="translate(37.5056 18.422) scale(0.998038 1.00196) rotate(135)" fill="white"></rect></svg></span><span class="csaas-sr-only">Hide Chaty Channels</span></button></div></div></div></div></div></div>
+                <div style="display:none;" class="csaas-outer-forms csaas-whatsapp-outer-forms csaas-form-cpurltpysx is-active pos-right form-active" data-channel="WhatsApp" id="csaas-form-cpurltpysx-WhatsApp" data-widget="cpurltpysx" data-index="0">
+                    <div class="csaas-whatsapp-form">
+                        
+                <div class="csaas-whatsapp-header" dir="ltr">
+                    <img width="32" height="32" loading="lazy" src="https://cdn.chaty.app/images/wa-logo.webp">
+                    <div class="csaas-whatsapp-title"></div>
+                    <div class="csaas-whatsapp-close-btn">
+                        <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1 1L7.31429 8L14 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path> </svg>
+                    </div>
+                </div>
+            
+                <div class="csaas-whatsapp-body" dir="ltr">                    
+                    
+                    <div class="csaas-whatsapp-message">
+                        
+                        
+                <span class="welcome-message">Hi there! How can I help you? :)</span>
+            
+                        <span class="time">13:49</span>
+                    </div>
+                </div>
+                <div class="csaas-whatsapp-footer" dir="ltr">
+                    <form action="https://web.whatsapp.com/send" target="_blank" class="whatsapp-csaas-form" data-widget="cpurltpysx" data-channel="WhatsApp">
+                        <div class="csaas-whatsapp-data">
+                            <input placeholder="Write your message..." name="text" type="text" class="csass-whatsapp-input">
+                            <button type="submit">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                                    <g clip-path="url(#clip0_9452_6982)">
+                                    <path d="M18.5703 9.99996L2.66037 17.6603L5.60665 9.99996L2.66037 2.33963L18.5703 9.99996Z" fill="white" stroke="white" stroke-width="1.6625" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <path d="M8.24069 9.99947L3.07723 9.99992" stroke="#C6D7E3" stroke-width="1.6625" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                    <defs>
+                                    <clipPath id="clip0_9452_6982">
+                                        <rect width="20" height="20" fill="white"></rect>
+                                    </clipPath>
+                                    </defs>
+                                </svg>
+                            </button>
+                        </div>
+                        <input type="hidden" name="phone" value="6588763078">
+                    </form>
+                </div>
+            
+                    </div>
+                </div>
+            <div style="display:none;" class="csaas-outer-forms csaas-form-cpurltpysx pos-right form-active" data-channel="Contact_Us" id="csaas-form-cpurltpysx-Contact_Us" data-widget="cpurltpysx" data-index="0"><div class="csaas-form"><div class="csaas-form-body"><div role="button" dir="ltr" class="close-contact-form"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1 1L7.31429 8L14 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path> </svg></div><div dir="ltr" class="csaas-form-title csaas-contact-form-title" style="background-color: rgb(183, 141, 235);">Contact Us</div><form class="csaas-contact-form" action="" method="" data-id="cpurltpysx" data-user="v4ifil3a"><div class="csaas-form-info"><div class="csaas-form-data"><div class="csaas-form-field"><label for="csaas-input-name-cpurltpysx">Name</label><input type="text" name="name" class="csaas-input-field csaas-input-name is-required" id="csaas-input-name-cpurltpysx" placeholder="Enter your name" dir="ltr" required="required"></div><div class="csaas-form-field"><label for="csaas-input-email-cpurltpysx">Email</label><input type="email" name="email" class="csaas-input-field csaas-input-email is-required" id="csaas-input-email-cpurltpysx" placeholder="Enter your email" dir="ltr" required="required"></div><div class="csaas-form-field"><label for="csaas-input-phone-cpurltpysx">Phone</label><input type="text" name="phone" class="csaas-input-field csaas-input-phone is-required" id="csaas-input-phone-cpurltpysx" placeholder="Enter your phone number" dir="ltr" required="required"></div><div class="csaas-form-field"><label for="csaas-input-message-cpurltpysx">Message</label><textarea name="message" class="csaas-input-field csaas-textarea csaas-input-message is-required" id="csaas-input-message-cpurltpysx" placeholder="Enter your message" dir="ltr" required="required"></textarea></div><div class="csaas-form-field"><button type="submit" name="submit" dir="ltr" class="csaas-form-button" data-text="Chat" style="background: rgb(183, 141, 235); color: rgb(255, 255, 255);">Chat</button></div></div><div class="csaas-form-ajax-message"></div></div><div class="csaas-form-data-response"><div class="csaas-form-success"><img src="https://cdn.chaty.app/images/form-success.png"><div class="csaas-form-ajax-message"></div></div><div class="csaas-form-other-button"><button type="submit" name="button" class="csaas-another-form-button" style="background: rgb(183, 141, 235);">Submit another form</button></div></div></form></div></div></div></body></html>

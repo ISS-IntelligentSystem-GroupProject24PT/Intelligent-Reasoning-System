@@ -1,0 +1,776 @@
+<html lang="en-US" style="background-image: url(https://www.ash.edu.sg/ash/wp-content/themes/ash-theme/framework/dist/img/body-bg.jpg);" class=" svg supports localstorage sessionstorage svgfilters webworkers audio canvas video webgl preserve3d srcset inlinesvg videoloop videopreload cssgradients svgclippaths svgforeignobject smil svgasimg generatedcontent cssvhunit cssvmaxunit cssvminunit cssvwunit fontface cssfilters flexbox flexboxlegacy no-flexboxtweener flexwrap csstransforms csstransforms3d csstransformslevel2 csstransitions no-wrapflow no-videoautoplay"><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Home - Adventist Schoolhouse</title>
+<!-- This site is running CAOS for Wordpress -->
+<meta name="robots" content="max-image-preview:large">
+
+<!-- This site is optimized with the Yoast SEO plugin v11.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.ash.edu.sg/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Home - Adventist Schoolhouse">
+<meta property="og:url" content="https://www.ash.edu.sg/">
+<meta property="og:site_name" content="Adventist Schoolhouse">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Home - Adventist Schoolhouse">
+<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-T7RKLBK149&amp;cx=c&amp;_slc=1"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M6K6447"></script><script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.ash.edu.sg/#organization","name":"Adventist School House","url":"https://www.ash.edu.sg/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://www.ash.edu.sg/#logo","url":"https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/logo-ash-church.png","width":593,"height":345,"caption":"Adventist School House"},"image":{"@id":"https://www.ash.edu.sg/#logo"}},{"@type":"WebSite","@id":"https://www.ash.edu.sg/#website","url":"https://www.ash.edu.sg/","name":"Adventist Schoolhouse","publisher":{"@id":"https://www.ash.edu.sg/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.ash.edu.sg/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.ash.edu.sg/#webpage","url":"https://www.ash.edu.sg/","inLanguage":"en-US","name":"Home - Adventist Schoolhouse","isPartOf":{"@id":"https://www.ash.edu.sg/#website"},"about":{"@id":"https://www.ash.edu.sg/#organization"},"datePublished":"2019-04-04T05:49:55+00:00","dateModified":"2024-03-11T07:12:36+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="preconnect" href="//www.google-analytics.com">
+<link rel="alternate" type="application/rss+xml" title="Adventist Schoolhouse » Feed" href="https://www.ash.edu.sg/feed/">
+<link rel="alternate" type="application/rss+xml" title="Adventist Schoolhouse » Comments Feed" href="https://www.ash.edu.sg/comments/feed/">
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel="stylesheet" id="theme-fonts-style-css" href="https://www.ash.edu.sg/ash/wp-content/themes/ash-theme/framework/dist/css/fonts.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="theme-vendor-style-css" href="https://www.ash.edu.sg/ash/wp-content/themes/ash-theme/framework/dist/css/vendor-styles.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="ash-theme-style-css" href="https://www.ash.edu.sg/ash/wp-content/themes/ash-theme/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="malinky-ajax-pagination-css" href="https://www.ash.edu.sg/ash/wp-content/plugins/malinky-ajax-pagination/css/style.css" type="text/css" media="all">
+<script type="text/javascript" src="https://www.ash.edu.sg/ash/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.ash.edu.sg/ash/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.ash.edu.sg/ash/wp-content/cache/caos-analytics/6e3721c6.js" id="caos-analytics-js"></script>
+<script type="text/javascript" id="caos-analytics-js-after">
+    
+
+
+    window.ga = window.ga || function() {
+        (ga.q = ga.q || []).push(arguments);
+    };
+    ga.l = +new Date;
+
+    ga('create', 'UA-145059033-1', {"cookieName":"caosLocalGa","cookieDomain":"www.ash.edu.sg","cookieExpires":7776000,"cookieFlags":"samesite=none;secure","siteSpeedSampleRate":"1"});
+            ga('send', 'pageview');
+                    setTimeout("ga('send', 'event', 'Adjusted Bounce Rate', '30 seconds')", 30000);
+        
+</script>
+<link rel="https://api.w.org/" href="https://www.ash.edu.sg/wp-json/"><link rel="alternate" type="application/json" href="https://www.ash.edu.sg/wp-json/wp/v2/pages/23"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ash.edu.sg/ash/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ash.edu.sg/ash/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 6.0.7">
+<link rel="shortlink" href="https://www.ash.edu.sg/">
+<link rel="alternate" type="application/json+oembed" href="https://www.ash.edu.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ash.edu.sg%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.ash.edu.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ash.edu.sg%2F&amp;format=xml">
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M6K6447');</script>
+<!-- End Google Tag Manager --><link rel="icon" href="https://www.ash.edu.sg/ash/wp-content/uploads/2019/08/cropped-favicon-512x512-salmon-2-1-32x32.png" sizes="32x32">
+<link rel="icon" href="https://www.ash.edu.sg/ash/wp-content/uploads/2019/08/cropped-favicon-512x512-salmon-2-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://www.ash.edu.sg/ash/wp-content/uploads/2019/08/cropped-favicon-512x512-salmon-2-1-180x180.png">
+<meta name="msapplication-TileImage" content="https://www.ash.edu.sg/ash/wp-content/uploads/2019/08/cropped-favicon-512x512-salmon-2-1-270x270.png">
+		<style type="text/css" id="wp-custom-css">
+			span.wpcf7-not-valid-tip {
+    margin-top: 5px;
+    font-size: 0.875rem;
+}
+
+.dropper-hidden {
+		visibility: hidden;
+    height: 0;
+    width: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+}
+
+.uk-lightbox-custom .lightbox-thumbnav .uk-thumbnav {
+    -webkit-flex-wrap: nowrap;
+        -ms-flex-wrap: nowrap;
+            flex-wrap: nowrap;
+}
+
+@media only screen and (max-width: 1199px) {
+    .uk-lightbox-custom .lightbox-thumbnav {
+        display: none;
+    }
+}		</style>
+		<meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+
+<body class="home page-template page-template-template-custom page-template-template-custom-php page page-id-23">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M6K6447"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<div class="preloader" style="display: none;">
+        <div uk-spinner="ratio:2" class="uk-icon uk-spinner"><svg width="60" height="60" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg" data-svg="spinner"><circle fill="none" stroke="#000" cx="15" cy="15" r="14" style="stroke-width: 0.5px;"></circle></svg></div>
+    </div>
+
+	<header class="site-header">
+        <div class="navbar-wrapper uk-sticky" uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; top: 10px; media: @s;">
+
+            <div id="sticky-nav" class="uk-navbar-container">
+                <nav class="main-nav">
+                    <div class="uk-container">
+                        <div uk-navbar="" class="uk-navbar">
+                            <div class="uk-navbar-left">
+                                <a class="uk-navbar-item header-logo" href="https://www.ash.edu.sg/">
+                                    <img class="logo" src="https://www.ash.edu.sg/ash/wp-content/themes/ash-theme/framework/dist/img/logo-white.svg" alt=""><div class="logo-text"><img src="https://www.ash.edu.sg/ash/wp-content/themes/ash-theme/framework/dist/img/logo-text-white.svg" alt=""></div>
+                                </a>
+                            </div>
+
+                            <div class="uk-navbar-right">
+                                <a id="menu-open" class="menu-toggle uk-hidden@l" href="#">
+                                    <div id="hamburger">
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                    </div>
+                                </a>
+                            </div>
+
+                        </div>
+                    </div>
+                </nav>
+
+                <nav class="sub-nav navbar uk-visible@l">
+                    <div class="uk-container uk-container-expand">
+                        <div uk-navbar="" class="uk-navbar">
+                            <ul class="uk-navbar-nav"><li id="menu-item-1229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-23 current_page_item menu-item-1229 uk-active "><a href="https://www.ash.edu.sg/" aria-current="page">Home</a></li>
+<li id="menu-item-1226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1226"><a href="https://www.ash.edu.sg/about-us/">About Us</a></li>
+<li id="menu-item-1225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1225"><a href="https://www.ash.edu.sg/approach/">Our Approach</a></li>
+<li id="menu-item-1227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1227"><a href="https://www.ash.edu.sg/programme-and-registration/">Programme and Registration</a></li>
+<li id="menu-item-1230" class="menu-item menu-item-type-post_type_archive menu-item-object-events menu-item-1230"><a href="https://www.ash.edu.sg/events/">Discover</a></li>
+<li id="menu-item-1228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1228"><a href="https://www.ash.edu.sg/schedule-a-visit/">Schedule a Visit</a></li>
+</ul>                            <div class="uk-navbar-item">
+                                <a href="https://www.facebook.com/adventistschoolhouse/" target="_blank" class="uk-icon-button uk-margin-small-right uk-icon" uk-icon="facebook"><svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" data-svg="facebook"><path d="M11,10h2.6l0.4-3H11V5.3c0-0.9,0.2-1.5,1.5-1.5H14V1.1c-0.3,0-1-0.1-2.1-0.1C9.6,1,8,2.4,8,5v2H5.5v3H8v8h3V10z"></path></svg></a>
+                                <a href="https://www.instagram.com/adventistschoolhouse/" target="_blank" class="uk-icon-button uk-icon" uk-icon="instagram"><svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" data-svg="instagram"><path d="M13.55,1H6.46C3.45,1,1,3.44,1,6.44v7.12c0,3,2.45,5.44,5.46,5.44h7.08c3.02,0,5.46-2.44,5.46-5.44V6.44 C19.01,3.44,16.56,1,13.55,1z M17.5,14c0,1.93-1.57,3.5-3.5,3.5H6c-1.93,0-3.5-1.57-3.5-3.5V6c0-1.93,1.57-3.5,3.5-3.5h8 c1.93,0,3.5,1.57,3.5,3.5V14z"></path><circle cx="14.87" cy="5.26" r="1.09"></circle><path d="M10.03,5.45c-2.55,0-4.63,2.06-4.63,4.6c0,2.55,2.07,4.61,4.63,4.61c2.56,0,4.63-2.061,4.63-4.61 C14.65,7.51,12.58,5.45,10.03,5.45L10.03,5.45L10.03,5.45z M10.08,13c-1.66,0-3-1.34-3-2.99c0-1.65,1.34-2.99,3-2.99s3,1.34,3,2.99 C13.08,11.66,11.74,13,10.08,13L10.08,13L10.08,13z"></path></svg></a>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+
+                <!--                                     <nav class="sub-nav uk-visible@m">
+                                        <div class="uk-container uk-container-expand">
+                                            <div uk-navbar>
+                                                <ul class="uk-navbar-nav" uk-scrollspy-nav="closest: li; scroll: true; offset: 199" uk-scrollspy="cls: uk-animation-slide-right-medium; target: li; delay: 200">
+                                                                                                            <li><a href="#whychooseus">Why Choose Us</a></li>
+                                                                                                            <li><a href="#ourclasses">Our Classes</a></li>
+                                                                                                            <li><a href="#testimonials">Parents Testimonials</a></li>
+                                                                                                            <li><a href="#visitus">Schedule a Visit</a></li>
+                                                                                                    </ul>
+                                            </div>
+                                        </div>
+                                    </nav>
+                                 -->
+
+            </div>
+
+        </div><div class="uk-sticky-placeholder" style="height: 80px; margin: 0px;" hidden=""></div>
+
+        <div class="overlay-menu uk-light">
+            <div class="uk-container uk-position-relative">
+                <div class="menu-toggle-wrapper">
+                    <a id="menu-close" class="menu-toggle" href="#">
+                        <div id="cross">
+                            <span></span>
+                            <span></span>
+                        </div>
+                    </a>
+                </div>
+                <div class="menu-wrapper">
+                    <ul class="uk-nav-primary uk-nav" uk-nav=""><li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-23 current_page_item menu-item-333 uk-active "><a href="https://www.ash.edu.sg/" aria-current="page" style="visibility: hidden;">Home</a></li>
+<li id="menu-item-596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-596"><a href="https://www.ash.edu.sg/about-us/" style="visibility: hidden;">About Us</a></li>
+<li id="menu-item-593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-593"><a href="https://www.ash.edu.sg/approach/" style="visibility: hidden;">Our Approach</a></li>
+<li id="menu-item-963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-963"><a href="https://www.ash.edu.sg/programme-and-registration/" style="visibility: hidden;">Programme and Registration</a></li>
+<li id="menu-item-1219" class="menu-item menu-item-type-post_type_archive menu-item-object-events menu-item-1219"><a href="https://www.ash.edu.sg/events/" style="visibility: hidden;">Discover</a></li>
+<li id="menu-item-327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-327"><a href="https://www.ash.edu.sg/schedule-a-visit/" style="visibility: hidden;">Schedule a Visit</a></li>
+<li id="menu-item-1223" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1223"><a target="_blank" rel="noopener" href="https://www.facebook.com/adventistschoolhouse/" style="visibility: hidden;">Facebook</a></li>
+<li id="menu-item-1890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1890"><a target="_blank" rel="noopener" href="https://www.instagram.com/adventistschoolhouse/" style="visibility: hidden;">Instagram</a></li>
+</ul>                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="site-main">
+
+<section class="inview-section">
+
+            <div class="section-title-bar is-sticky">
+            <h1>Welcome</h1>
+        </div>
+    
+    
+    
+        <div class="section-slideshow uk-position-relative uk-hidden@m uk-slideshow" uk-slideshow="animation: push; autoplay: true; ratio: 16:10; autoplay-interval: 5000; pause-on-hover: false">
+            <ul class="uk-slideshow-items" style="min-height: 486.875px;">
+                                    <li tabindex="-1" class="uk-active uk-transition-active" style="">
+                        <img data-src="https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat.jpg" data-srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat.jpg 1920w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-480x332.jpg 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-1024x709.jpg 1024w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-768x532.jpg 768w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-1536x1063.jpg 1536w" data-sizes="(max-width: 1920px) 100vw, 1920px" alt="" uk-img="" uk-cover="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat.jpg 1920w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-480x332.jpg 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-1024x709.jpg 1024w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-768x532.jpg 768w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-1536x1063.jpg 1536w" src="https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-1024x709.jpg" class="uk-cover" style="height: 539px; width: 780px;">
+                    </li>
+                                    <li tabindex="-1" class="" style="">
+                        <img data-src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2.jpg" data-srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2.jpg 1920w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2-480x270.jpg 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2-768x432.jpg 768w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2-1024x576.jpg 1024w" data-sizes="(max-width: 1920px) 100vw, 1920px" alt="" uk-img="" uk-cover="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2.jpg 1920w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2-480x270.jpg 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2-768x432.jpg 768w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2-1024x576.jpg 1024w" src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2-1024x576.jpg" class="uk-cover" style="height: 488px; width: 867px;">
+                    </li>
+                                    <li tabindex="-1" class="" style="">
+                        <img data-src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977.jpg" data-srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977.jpg 1545w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977-480x276.jpg 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977-768x441.jpg 768w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977-1024x589.jpg 1024w" data-sizes="(max-width: 1545px) 100vw, 1545px" alt="" uk-img="" uk-cover="" sizes="(max-width: 1545px) 100vw, 1545px" srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977.jpg 1545w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977-480x276.jpg 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977-768x441.jpg 768w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977-1024x589.jpg 1024w" src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977-1024x589.jpg" class="uk-cover" style="height: 488px; width: 848px;">
+                    </li>
+                            </ul>
+            <ul class="uk-slideshow-nav uk-dotnav uk-flex-center uk-position-bottom uk-position-small"><li uk-slideshow-item="0" class="uk-active"><a href=""></a></li><li uk-slideshow-item="1" class=""><a href=""></a></li><li uk-slideshow-item="2" class=""><a href=""></a></li></ul>
+        </div>
+
+        <div class="section-slideshow uk-position-relative uk-visible@m uk-slideshow" uk-slideshow="animation: push; autoplay: true; ratio: false; autoplay-interval: 5000; pause-on-hover: false">
+            <ul class="uk-slideshow-items" uk-height-viewport="min-height: 360; offset-top: true; ">
+                                    <li tabindex="-1" class="uk-active uk-transition-active" style="">
+                        <div class="cover-parallax-container" uk-parallax="y: -100,100; easing: 0.5;" style="transform: translateY(-100px);">
+                            <img data-src="https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat.jpg" data-srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat.jpg 1920w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-480x332.jpg 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-1024x709.jpg 1024w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-768x532.jpg 768w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-1536x1063.jpg 1536w" data-sizes="(max-width: 1920px) 100vw, 1920px" alt="" uk-img="" uk-cover="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat.jpg 1920w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-480x332.jpg 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-1024x709.jpg 1024w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-768x532.jpg 768w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-1536x1063.jpg 1536w" src="https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/boy-and-girl-raft-boat-1024x709.jpg" class="uk-cover">
+                        </div>
+                    </li>
+                                    <li tabindex="-1" class="" style="">
+                        <div class="cover-parallax-container" uk-parallax="y: -100,100; easing: 0.5;" style="transform: translateY(-100px);">
+                            <img data-src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2.jpg" data-srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2.jpg 1920w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2-480x270.jpg 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2-768x432.jpg 768w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2-1024x576.jpg 1024w" data-sizes="(max-width: 1920px) 100vw, 1920px" alt="" uk-img="" uk-cover="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2.jpg 1920w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2-480x270.jpg 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2-768x432.jpg 768w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2-1024x576.jpg 1024w" src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image2-1024x576.jpg" class="uk-cover">
+                        </div>
+                    </li>
+                                    <li tabindex="-1" class="" style="">
+                        <div class="cover-parallax-container" uk-parallax="y: -100,100; easing: 0.5;" style="transform: translateY(-100px);">
+                            <img data-src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977.jpg" data-srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977.jpg 1545w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977-480x276.jpg 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977-768x441.jpg 768w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977-1024x589.jpg 1024w" data-sizes="(max-width: 1545px) 100vw, 1545px" alt="" uk-img="" uk-cover="" sizes="(max-width: 1545px) 100vw, 1545px" srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977.jpg 1545w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977-480x276.jpg 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977-768x441.jpg 768w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977-1024x589.jpg 1024w" src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/06/slider-image4-e1563517504977-1024x589.jpg" class="uk-cover">
+                        </div>
+                    </li>
+                            </ul>
+            <ul class="uk-slideshow-nav uk-dotnav uk-flex-center uk-margin uk-position-bottom-center"><li uk-slideshow-item="0" class="uk-active"><a href=""></a></li><li uk-slideshow-item="1" class=""><a href=""></a></li><li uk-slideshow-item="2" class=""><a href=""></a></li></ul>
+        </div>
+
+    </section>
+<section id="whychooseus" class="inview-section">
+
+        <div class="section-title-bar not-sticky">
+        <h1>Why Choose Us</h1>
+    </div>
+    
+    
+        <div class="section-image-with-text">
+        <div class="uk-grid-collapse uk-child-width-1-2@s uk-grid" uk-grid="">
+                    <div class="grid-item uk-text-center uk-text-left@s ash-bg-peach uk-first-column" uk-scrollspy="target: > *; cls: uk-animation-slide-bottom-medium; delay: 150">
+                <h3 class="title" style="visibility: hidden;">Caring Teachers</h3>                <img class="image" data-src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-flower-480x452.png" data-srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-flower-480x452.png 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-flower.png 512w" data-sizes="(max-width: 512px) 100vw, 512px" alt="" uk-img="" sizes="(max-width: 512px) 100vw, 512px" srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-flower-480x452.png 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-flower.png 512w" src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-flower.png" style="visibility: hidden;">                                <div class="description" style="visibility: hidden;">
+                    <p>Empathy and passion are what inspires our team of experienced teaching staff. We go the distance to ensure an enriching learning journey for our young explorers, building comfortable bonds while being open and sensitive to the needs of every boy and girl. Through character development and encouraging well-being, our goal is to bring out the best in your child.</p>
+                </div>
+                            </div>
+                    <div class="grid-item uk-text-center uk-text-left@s ash-bg-yellow" uk-scrollspy="target: > *; cls: uk-animation-slide-bottom-medium; delay: 150">
+                <h3 class="title" style="visibility: hidden;">Child-centered Curriculum</h3>                <img class="image" data-src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-snail-480x336.png" data-srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-snail-480x336.png 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-snail.png 512w" data-sizes="(max-width: 512px) 100vw, 512px" alt="" uk-img="" sizes="(max-width: 512px) 100vw, 512px" srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-snail-480x336.png 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-snail.png 512w" src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-snail.png" style="visibility: hidden;">                                <div class="description" style="visibility: hidden;">
+                    <p>We aspire to instil a sense of wonder and curiosity in our little ones. Our strength based curriculum makes learning fun for all children by encouraging creativity, stimulating thinking and building confidence.</p>
+                </div>
+                            </div>
+                </div>
+        <div class="uk-grid-collapse uk-child-width-1-2@s uk-grid" uk-grid="">
+                        <div class="grid-item uk-text-center uk-text-left@s ash-bg-peach uk-flex-last@s" uk-scrollspy="target: > *; cls: uk-animation-slide-bottom-medium; delay: 150">
+                <h3 class="title" style="visibility: hidden;">Well-equipped Facilities</h3>                <img class="image" data-src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-cloud-1-480x319.png" data-srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-cloud-1-480x319.png 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-cloud-1.png 512w" data-sizes="(max-width: 512px) 100vw, 512px" alt="" uk-img="" style="visibility: hidden;">                                <div class="description" style="visibility: hidden;">
+                    <p>Our wide range of facilities create a comfortable environment, so every child feels at ease in their home away from home. From air-conditioned classrooms to sheltered courtyard and playground, a safe and conducive experience is assured.</p>
+                </div>
+                            </div>
+                    <div class="grid-item uk-text-center uk-text-left@s ash-bg-yellow uk-first-column" uk-scrollspy="target: > *; cls: uk-animation-slide-bottom-medium; delay: 150">
+                <h3 class="title" style="visibility: hidden;">Strong Home-School-Community Link</h3>                <img class="image" data-src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-envelope-1-480x335.png" data-srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-envelope-1-480x335.png 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/icon-envelope-1.png 512w" data-sizes="(max-width: 512px) 100vw, 512px" alt="" uk-img="" style="visibility: hidden;">                                <div class="description" style="visibility: hidden;">
+                    <p>We work hand-in-hand with parents to help their children shine, providing ample opportunities to value-add such as seminars, cultural events and outings.</p>
+                </div>
+                            </div>
+                </div>
+    </div>
+    
+</section><section id="ourclasses" class="inview-section ash-bg-blue-light">
+
+        <div class="section-title-bar not-sticky">
+        <h1>Our Classes</h1>
+    </div>
+    
+    
+    <div class="classes-grid uk-grid-collapse uk-child-width-1-2@s uk-child-width-1-3@m uk-child-width-1-5@l uk-grid" uk-grid="" uk-scrollspy="target: > div; cls: uk-animation-slide-bottom-medium; delay: 150; offset-top: -100">
+                
+                <div class="grid-item uk-first-column" style="visibility: hidden;">
+                    <div class="item-title">
+                        <h3>Playgroup</h3>
+                    </div>
+                    <div class="uk-cover-container uk-position-relative">
+                        <canvas width="320" height="540"></canvas>
+                        <img data-src="https://www.ash.edu.sg/ash/wp-content/uploads/2023/08/playgroup-featured-262x480.jpg" data-srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2023/08/playgroup-featured-262x480.jpg 262w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/08/playgroup-featured-559x1024.jpg 559w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/08/playgroup-featured.jpg 600w" data-sizes="(max-width: 600px) 100vw, 600px" alt="" uk-img="" uk-cover="" class="uk-cover" style="height: 540px; width: 390px;">
+                    </div>
+                </div>
+        
+                    
+                <div class="grid-item" style="visibility: hidden;">
+                    <div class="item-title">
+                        <h3>Pre-Nursery</h3>
+                    </div>
+                    <div class="uk-cover-container uk-position-relative">
+                        <canvas width="320" height="540"></canvas>
+                        <img data-src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/07/pre-nursery-262x480.jpg" data-srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/07/pre-nursery-262x480.jpg 262w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/07/pre-nursery-559x1024.jpg 559w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/07/pre-nursery.jpg 600w" data-sizes="(max-width: 600px) 100vw, 600px" alt="" uk-img="" uk-cover="" class="uk-cover" style="height: 540px; width: 390px;">
+                    </div>
+                </div>
+        
+                    
+                <div class="grid-item uk-grid-margin uk-first-column" style="visibility: hidden;">
+                    <div class="item-title">
+                        <h3>Nursery</h3>
+                    </div>
+                    <div class="uk-cover-container uk-position-relative">
+                        <canvas width="320" height="540"></canvas>
+                        <img data-src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/07/nursery-600x1100-262x480.jpg" data-srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/07/nursery-600x1100-262x480.jpg 262w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/07/nursery-600x1100-559x1024.jpg 559w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/07/nursery-600x1100.jpg 600w" data-sizes="(max-width: 600px) 100vw, 600px" alt="" uk-img="" uk-cover="" class="uk-cover" style="height: 540px; width: 390px;">
+                    </div>
+                </div>
+        
+                    
+                <div class="grid-item uk-grid-margin" style="visibility: hidden;">
+                    <div class="item-title">
+                        <h3>K1</h3>
+                    </div>
+                    <div class="uk-cover-container uk-position-relative">
+                        <canvas width="320" height="540"></canvas>
+                        <img data-src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/07/k1-262x480.jpg" data-srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/07/k1-262x480.jpg 262w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/07/k1-559x1024.jpg 559w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/07/k1.jpg 600w" data-sizes="(max-width: 600px) 100vw, 600px" alt="" uk-img="" uk-cover="" class="uk-cover" style="height: 540px; width: 390px;">
+                    </div>
+                </div>
+        
+                    
+                <div class="grid-item uk-grid-margin uk-first-column" style="visibility: hidden;">
+                    <div class="item-title">
+                        <h3>K2</h3>
+                    </div>
+                    <div class="uk-cover-container uk-position-relative">
+                        <canvas width="320" height="540"></canvas>
+                        <img data-src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/07/k2-262x480.jpg" data-srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/07/k2-262x480.jpg 262w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/07/k2-559x1024.jpg 559w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/07/k2.jpg 600w" data-sizes="(max-width: 600px) 100vw, 600px" alt="" uk-img="" uk-cover="" class="uk-cover" style="height: 540px; width: 390px;">
+                    </div>
+                </div>
+        
+                        </div>
+
+    <div class="section-footer uk-padding-large uk-padding-remove-horizontal">
+        <div class="uk-container uk-text-center">
+            <a href="https://www.ash.edu.sg/programme-and-registration/" class="uk-button uk-button-primary" uk-scrollspy="cls: uk-animation-slide-bottom-medium; offset-top: -100" style="visibility: hidden;">Find Out More</a>
+        </div>
+    </div>
+</section><section id="testimonials" class="inview-section uk-cover-container uk-position-relative uk-text-center ash-bg-peach">
+
+                    <div class="section-title-bar not-sticky">
+                <h1>Testimonials</h1>
+            </div>
+                
+        
+            <div class="cover-parallax-container" uk-parallax="y: -100,100; easing: 0.5;" style="transform: translateY(-100px);">
+                <img src="" alt="" uk-cover="" class="uk-cover" style="height: 1213px; width: 780px;">
+            </div>
+            <div class="uk-section">
+                <div class="uk-overlay uk-position-relative uk-padding-remove-vertical uk-padding-remove-horizontal">
+                    <div class="uk-container uk-container-small" uk-scrollspy="target: > div; cls: uk-animation-slide-bottom-medium; delay: 150; offset-top: -100">
+                        <div class="section-header uk-margin-medium-bottom" style="visibility: hidden;">
+                            <h2>Real Stories, Real Parents: Testimonials from the Heart</h2>                        </div>
+                        <div class="section-testimonial-slideshow uk-position-relative uk-slider uk-slider-container" uk-slider="animation: slide; autoplay: true; autoplay-interval: 20000; pause-on-hover: true" style="visibility: hidden;">
+                            <ul class="uk-slider-items uk-grid uk-child-width-1-1" style="transform: translate3d(0px, 0px, 0px);">
+                                        
+                                        <li class="uk-flex uk-flex-column uk-flex-center uk-active" tabindex="-1">
+                                            <div class="uk-text-large" uk-slideshow-parallax="x: 100,-100" style="transform: translateX(0px);">
+                                               <div class="limit-text">
+                                                   <p>Adventist Schoolhouse had been like a second home for us. The teachers at Adventist schoolhouse have played a pivotal role in the formative years of our son. The teachers at the school are experienced &amp; create a nurturing &amp; enriching environment for the children. The amenities &amp; the fo...<a href="#testimonial-1" class="readmore-link uk-margin-small-left uk-h6 uk-link" uk-toggle="">READ MORE</a></p></div>
+                                            </div>
+
+                                            <h5 class="uk-h4 uk-margin-top" uk-slideshow-parallax="x: 300,-300" style="transform: translateX(0px);">Mother of Sachanandani Nevaan Vinod</h5>
+
+                                            <div id="testimonial-1" class="uk-flex-top uk-modal" uk-modal="">
+                                                <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+                                                    <button class="uk-modal-close-default uk-icon uk-close" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" data-svg="close-icon"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+
+                                                    <div class="">
+                                                        <p>Adventist Schoolhouse had been like a second home for us. The teachers at Adventist schoolhouse have played a pivotal role in the formative years of our son. The teachers at the school are experienced &amp; create a nurturing &amp; enriching environment for the children. The amenities &amp; the food at the school along with a specially curated routine for the children make it comforting for them to go through a normal day with enthusiasm. Our gratitude to everyone at ASH for contributing &amp; making our journey at ASH a memorable one.</p>
+                                                    </div>
+                                                    <h5 class="uk-h4 uk-margin-top">- Mother of Sachanandani Nevaan Vinod</h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                            
+                                        <li class="uk-flex uk-flex-column uk-flex-center" tabindex="-1">
+                                            <div class="uk-text-large" uk-slideshow-parallax="x: 100,-100" style="transform: translateX(100px);">
+                                               <div class="limit-text">
+                                                   <p>My children go to Adventist schoolhouse and the teachers are really warm and friendly. They treat the children with genuine love and care and I must say the children are really close to the teachers. The children also develop according to their interests and explore in a myriad of environments. My...<a href="#testimonial-2" class="readmore-link uk-margin-small-left uk-h6 uk-link" uk-toggle="">READ MORE</a></p></div>
+                                            </div>
+
+                                            <h5 class="uk-h4 uk-margin-top" uk-slideshow-parallax="x: 300,-300" style="transform: translateX(300px);">Mother of Meghan and Caleb Tang</h5>
+
+                                            <div id="testimonial-2" class="uk-flex-top uk-modal" uk-modal="">
+                                                <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+                                                    <button class="uk-modal-close-default uk-icon uk-close" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" data-svg="close-icon"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+
+                                                    <div class="">
+                                                        <p>My children go to Adventist schoolhouse and the teachers are really warm and friendly. They treat the children with genuine love and care and I must say the children are really close to the teachers. The children also develop according to their interests and explore in a myriad of environments. My children love the little garden in the school too.</p>
+                                                    </div>
+                                                    <h5 class="uk-h4 uk-margin-top">- Mother of Meghan and Caleb Tang</h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                            
+                                        <li class="uk-flex uk-flex-column uk-flex-center" tabindex="-1">
+                                            <div class="uk-text-large" uk-slideshow-parallax="x: 100,-100" style="transform: translateX(100px);">
+                                               <div class="limit-text">
+                                                   <p>很幸运帮孩子选到Adventist Schoolhouse，这里的每个老师都很热情而且有耐心，孩子每天上学都非常开心，放学回家也会跟我分享在学校的趣事。入学两个月孩子的英文有了明显进步，性格也变得越来越活泼。希望这个学校越来越好，也希望有更多的孩子来这里快乐学习。</p>
+                                               </div>
+                                            </div>
+
+                                            <h5 class="uk-h4 uk-margin-top" uk-slideshow-parallax="x: 300,-300" style="transform: translateX(300px);">Mother of Wang Zixiao</h5>
+
+                                            <div id="testimonial-3" class="uk-flex-top uk-modal" uk-modal="">
+                                                <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+                                                    <button class="uk-modal-close-default uk-icon uk-close" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" data-svg="close-icon"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+
+                                                    <div class="">
+                                                        <p>很幸运帮孩子选到Adventist Schoolhouse，这里的每个老师都很热情而且有耐心，孩子每天上学都非常开心，放学回家也会跟我分享在学校的趣事。入学两个月孩子的英文有了明显进步，性格也变得越来越活泼。希望这个学校越来越好，也希望有更多的孩子来这里快乐学习。</p>
+                                                    </div>
+                                                    <h5 class="uk-h4 uk-margin-top">- Mother of Wang Zixiao</h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                            
+                                        <li class="uk-flex uk-flex-column uk-flex-center" tabindex="-1">
+                                            <div class="uk-text-large" uk-slideshow-parallax="x: 100,-100" style="transform: translateX(100px);">
+                                               <div class="limit-text">
+                                                   <p>We have been very fortunate to find this school for our daughter. The teachers, support staff as well as admin were brilliant and were always eager to lend support. My daughter learnt a lot in a very practical way and we made some everlasting memories. I highly recommend this school for early educ...<a href="#testimonial-4" class="readmore-link uk-margin-small-left uk-h6 uk-link" uk-toggle="">READ MORE</a></p></div>
+                                            </div>
+
+                                            <h5 class="uk-h4 uk-margin-top" uk-slideshow-parallax="x: 300,-300" style="transform: translateX(300px);">Mother of Jahnvi Sagar Chowk</h5>
+
+                                            <div id="testimonial-4" class="uk-flex-top uk-modal" uk-modal="">
+                                                <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+                                                    <button class="uk-modal-close-default uk-icon uk-close" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" data-svg="close-icon"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+
+                                                    <div class="">
+                                                        <p>We have been very fortunate to find this school for our daughter. The teachers, support staff as well as admin were brilliant and were always eager to lend support. My daughter learnt a lot in a very practical way and we made some everlasting memories. I highly recommend this school for early education.</p>
+                                                    </div>
+                                                    <h5 class="uk-h4 uk-margin-top">- Mother of Jahnvi Sagar Chowk</h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                            
+                                        <li class="uk-flex uk-flex-column uk-flex-center" tabindex="-1">
+                                            <div class="uk-text-large" uk-slideshow-parallax="x: 100,-100" style="transform: translateX(100px);">
+                                               <div class="limit-text">
+                                                   <p>Positive learning experience, conducive school environment and caring teachers ASH has had many amazing teachers coming in through internship programmes.  One such teacher is Teacher Joey whom my daughter had the opportunity to interact with when she was in playgroup. Teacher Joey eventually becam...<a href="#testimonial-5" class="readmore-link uk-margin-small-left uk-h6 uk-link" uk-toggle="">READ MORE</a></p></div>
+                                            </div>
+
+                                            <h5 class="uk-h4 uk-margin-top" uk-slideshow-parallax="x: 300,-300" style="transform: translateX(300px);">Mother of Caithlyn Yu</h5>
+
+                                            <div id="testimonial-5" class="uk-flex-top uk-modal" uk-modal="">
+                                                <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+                                                    <button class="uk-modal-close-default uk-icon uk-close" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" data-svg="close-icon"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+
+                                                    <div class="">
+                                                        <p>Positive learning experience, conducive school environment and caring teachers ASH has had many amazing teachers coming in through internship programmes.  One such teacher is Teacher Joey whom my daughter had the opportunity to interact with when she was in playgroup. Teacher Joey eventually became her form teacher a year later and it amazes me that as an intern teacher, one would have no obligations to focus on any particular child yet she took the effort to connect with my daughter and could still remember small things like my daughter's favourite cartoon character from a year ago (in playgroup). I am sure probably other children in class would share similar heartening experiences as well pertaining to her attentiveness to details. Teacher Joey has a big heart and has so much love and care for her class children. I am grateful and blessed to have partnered her in my daughter's learning journey in PN.</p>
+                                                    </div>
+                                                    <h5 class="uk-h4 uk-margin-top">- Mother of Caithlyn Yu</h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                            
+                                        <li class="uk-flex uk-flex-column uk-flex-center" tabindex="-1">
+                                            <div class="uk-text-large" uk-slideshow-parallax="x: 100,-100" style="transform: translateX(100px);">
+                                               <div class="limit-text">
+                                                   <p>My daughter, Rachel, has a lovely time at Seventh Day Adventist Schoolhouse. The school adopts a very creative and naturalistic approach to learning which ensures students gain a lot of knowledge in a fun way. A big thank you to teacher Janet and teacher Belinda for being so loving and moulding my...<a href="#testimonial-6" class="readmore-link uk-margin-small-left uk-h6 uk-link" uk-toggle="">READ MORE</a></p></div>
+                                            </div>
+
+                                            <h5 class="uk-h4 uk-margin-top" uk-slideshow-parallax="x: 300,-300" style="transform: translateX(300px);">Mother of Rachel Lucy Jack</h5>
+
+                                            <div id="testimonial-6" class="uk-flex-top uk-modal" uk-modal="">
+                                                <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+                                                    <button class="uk-modal-close-default uk-icon uk-close" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" data-svg="close-icon"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+
+                                                    <div class="">
+                                                        <p>My daughter, Rachel, has a lovely time at Seventh Day Adventist Schoolhouse. The school adopts a very creative and naturalistic approach to learning which ensures students gain a lot of knowledge in a fun way. A big thank you to teacher Janet and teacher Belinda for being so loving and moulding my girl to be the strong confident person that she is now! God bless the staff there and keep up the good work!</p>
+                                                    </div>
+                                                    <h5 class="uk-h4 uk-margin-top">- Mother of Rachel Lucy Jack</h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                            
+                                        <li class="uk-flex uk-flex-column uk-flex-center" tabindex="-1">
+                                            <div class="uk-text-large" uk-slideshow-parallax="x: 100,-100" style="transform: translateX(100px);">
+                                               <div class="limit-text">
+                                                   <p>The Adventist Schoolhouse is a wonderful preschool for kids. They adopt a holistic approach to development and education. The teachers and staff are very professional and caring, and go the extra mile to support the kids.</p>
+                                               </div>
+                                            </div>
+
+                                            <h5 class="uk-h4 uk-margin-top" uk-slideshow-parallax="x: 300,-300" style="transform: translateX(300px);">Father of Dalia Marsoof</h5>
+
+                                            <div id="testimonial-7" class="uk-flex-top uk-modal" uk-modal="">
+                                                <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+                                                    <button class="uk-modal-close-default uk-icon uk-close" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" data-svg="close-icon"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+
+                                                    <div class="">
+                                                        <p>The Adventist Schoolhouse is a wonderful preschool for kids. They adopt a holistic approach to development and education. The teachers and staff are very professional and caring, and go the extra mile to support the kids.</p>
+                                                    </div>
+                                                    <h5 class="uk-h4 uk-margin-top">- Father of Dalia Marsoof</h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                            
+                                        <li class="uk-flex uk-flex-column uk-flex-center" tabindex="-1">
+                                            <div class="uk-text-large" uk-slideshow-parallax="x: 100,-100" style="transform: translateX(100px);">
+                                               <div class="limit-text">
+                                                   <p>Fantastic School!</p>
+<p>Everyday my son is looking forward to coming to school. He very much enjoys his time in school and learning new things each and every day. The teachers are professional and caring. They really care and truly want the best for your child.</p>
+                                          </div>
+                                            </div>
+
+                                            <h5 class="uk-h4 uk-margin-top" uk-slideshow-parallax="x: 300,-300" style="transform: translateX(300px);">Mother of Vihaan Chopra</h5>
+
+                                            <div id="testimonial-8" class="uk-flex-top uk-modal" uk-modal="">
+                                                <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+                                                    <button class="uk-modal-close-default uk-icon uk-close" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" data-svg="close-icon"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+
+                                                    <div class="">
+                                                        <p>Fantastic School!</p>
+<p>Everyday my son is looking forward to coming to school. He very much enjoys his time in school and learning new things each and every day. The teachers are professional and caring. They really care and truly want the best for your child.</p>
+                                                    </div>
+                                                    <h5 class="uk-h4 uk-margin-top">- Mother of Vihaan Chopra</h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                            
+                                        <li class="uk-flex uk-flex-column uk-flex-center" tabindex="-1">
+                                            <div class="uk-text-large" uk-slideshow-parallax="x: 100,-100" style="transform: translateX(100px);">
+                                               <div class="limit-text">
+                                                   <p>Amazing teachers, management staff are well equipped and pleasant environment for kids. Our daughter loves going to school, lots of outdoor play activities (which is rare to find in sg) and indoor sensory activities, lots of educational activities, food is delicious as well as per my child. Apprec...<a href="#testimonial-9" class="readmore-link uk-margin-small-left uk-h6 uk-link" uk-toggle="">READ MORE</a></p></div>
+                                            </div>
+
+                                            <h5 class="uk-h4 uk-margin-top" uk-slideshow-parallax="x: 300,-300" style="transform: translateX(300px);">Mother of Taanvika</h5>
+
+                                            <div id="testimonial-9" class="uk-flex-top uk-modal" uk-modal="">
+                                                <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+                                                    <button class="uk-modal-close-default uk-icon uk-close" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" data-svg="close-icon"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+
+                                                    <div class="">
+                                                        <p>Amazing teachers, management staff are well equipped and pleasant environment for kids. Our daughter loves going to school, lots of outdoor play activities (which is rare to find in sg) and indoor sensory activities, lots of educational activities, food is delicious as well as per my child. Appreciate all the effort Miss Joey and Miss Joyce too!</p>
+                                                    </div>
+                                                    <h5 class="uk-h4 uk-margin-top">- Mother of Taanvika</h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                            
+                                        <li class="uk-flex uk-flex-column uk-flex-center" tabindex="-1">
+                                            <div class="uk-text-large" uk-slideshow-parallax="x: 100,-100" style="transform: translateX(100px);">
+                                               <div class="limit-text">
+                                                   <p>My kids love going to Adventist Schoolhouse, always excited to tell me what they did in class. Both my kids started from playgroup and another one joining next year. They have a lot of activities and hands on skills for the kids which is important when I choose a school. The teachers are also cari...<a href="#testimonial-10" class="readmore-link uk-margin-small-left uk-h6 uk-link" uk-toggle="">READ MORE</a></p></div>
+                                            </div>
+
+                                            <h5 class="uk-h4 uk-margin-top" uk-slideshow-parallax="x: 300,-300" style="transform: translateX(300px);">Mother of Hakim, Hannah and Hasif</h5>
+
+                                            <div id="testimonial-10" class="uk-flex-top uk-modal" uk-modal="">
+                                                <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+                                                    <button class="uk-modal-close-default uk-icon uk-close" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" data-svg="close-icon"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+
+                                                    <div class="">
+                                                        <p>My kids love going to Adventist Schoolhouse, always excited to tell me what they did in class. Both my kids started from playgroup and another one joining next year. They have a lot of activities and hands on skills for the kids which is important when I choose a school. The teachers are also caring and approachable and give regular updates.</p>
+                                                    </div>
+                                                    <h5 class="uk-h4 uk-margin-top">- Mother of Hakim, Hannah and Hasif</h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                            
+                                        <li class="uk-flex uk-flex-column uk-flex-center" tabindex="-1">
+                                            <div class="uk-text-large" uk-slideshow-parallax="x: 100,-100" style="transform: translateX(100px);">
+                                               <div class="limit-text">
+                                                   <p>ASH provided my child with a holistic learning experience and the teachers helped to assimilate him well in his first school experience. Kudos to Teacher Joey and Teacher San for their patience and attentive support to the children’s development and well-being!</p>
+                                    </div>
+                                            </div>
+
+                                            <h5 class="uk-h4 uk-margin-top" uk-slideshow-parallax="x: 300,-300" style="transform: translateX(300px);">Mother of Lucas Lee</h5>
+
+                                            <div id="testimonial-11" class="uk-flex-top uk-modal" uk-modal="">
+                                                <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+                                                    <button class="uk-modal-close-default uk-icon uk-close" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" data-svg="close-icon"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+
+                                                    <div class="">
+                                                        <p>ASH provided my child with a holistic learning experience and the teachers helped to assimilate him well in his first school experience. Kudos to Teacher Joey and Teacher San for their patience and attentive support to the children’s development and well-being!</p>
+                                                    </div>
+                                                    <h5 class="uk-h4 uk-margin-top">- Mother of Lucas Lee</h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                            
+                                        <li class="uk-flex uk-flex-column uk-flex-center" tabindex="-1">
+                                            <div class="uk-text-large" uk-slideshow-parallax="x: 100,-100" style="transform: translateX(100px);">
+                                               <div class="limit-text">
+                                                   <p>My daughter goes to Adventist Schoolhouse and she loves going to school every day! Wonderful and friendly teachers, planning to send my second child soon. Great school!</p>
+                                               </div>
+                                            </div>
+
+                                            <h5 class="uk-h4 uk-margin-top" uk-slideshow-parallax="x: 300,-300" style="transform: translateX(300px);">Father of Eva and Enya Choo</h5>
+
+                                            <div id="testimonial-12" class="uk-flex-top uk-modal" uk-modal="">
+                                                <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+                                                    <button class="uk-modal-close-default uk-icon uk-close" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" data-svg="close-icon"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+
+                                                    <div class="">
+                                                        <p>My daughter goes to Adventist Schoolhouse and she loves going to school every day! Wonderful and friendly teachers, planning to send my second child soon. Great school!</p>
+                                                    </div>
+                                                    <h5 class="uk-h4 uk-margin-top">- Father of Eva and Enya Choo</h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                            
+                                        <li class="uk-flex uk-flex-column uk-flex-center" tabindex="-1">
+                                            <div class="uk-text-large" uk-slideshow-parallax="x: 100,-100" style="transform: translateX(100px);">
+                                               <div class="limit-text">
+                                                   <p>I send both my girls to Seventh Day and they love going to the school! teachers are engaging and caring. great school and also great space for the kids during their outdoor sessions.</p>
+                                               </div>
+                                            </div>
+
+                                            <h5 class="uk-h4 uk-margin-top" uk-slideshow-parallax="x: 300,-300" style="transform: translateX(300px);">Mother of Candice and Charlotte Tse</h5>
+
+                                            <div id="testimonial-13" class="uk-flex-top uk-modal" uk-modal="">
+                                                <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+                                                    <button class="uk-modal-close-default uk-icon uk-close" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" data-svg="close-icon"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+
+                                                    <div class="">
+                                                        <p>I send both my girls to Seventh Day and they love going to the school! teachers are engaging and caring. great school and also great space for the kids during their outdoor sessions.</p>
+                                                    </div>
+                                                    <h5 class="uk-h4 uk-margin-top">- Mother of Candice and Charlotte Tse</h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                            
+                                        <li class="uk-flex uk-flex-column uk-flex-center" tabindex="-1">
+                                            <div class="uk-text-large" uk-slideshow-parallax="x: 100,-100" style="transform: translateX(100px);">
+                                               <div class="limit-text">
+                                                   <p>Great environment and teacher support. Facility is good and so is the school value. We are very happy sending both of our children here and seeing them grow. Thank you, ASH!</p>
+                                               </div>
+                                            </div>
+
+                                            <h5 class="uk-h4 uk-margin-top" uk-slideshow-parallax="x: 300,-300" style="transform: translateX(300px);">Mother of Stella &amp; Bao Nam</h5>
+
+                                            <div id="testimonial-14" class="uk-flex-top uk-modal" uk-modal="">
+                                                <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+                                                    <button class="uk-modal-close-default uk-icon uk-close" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" data-svg="close-icon"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+
+                                                    <div class="">
+                                                        <p>Great environment and teacher support. Facility is good and so is the school value. We are very happy sending both of our children here and seeing them grow. Thank you, ASH!</p>
+                                                    </div>
+                                                    <h5 class="uk-h4 uk-margin-top">- Mother of Stella &amp; Bao Nam</h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                            
+                                        <li class="uk-flex uk-flex-column uk-flex-center" tabindex="-1">
+                                            <div class="uk-text-large" uk-slideshow-parallax="x: 100,-100" style="transform: translateX(100px);">
+                                               <div class="limit-text">
+                                                   <p>The teachers are very warm, caring and patient! Both my boys enjoy going to school and they have learnt and grow a lot in this holistic environment!</p>
+                                               </div>
+                                            </div>
+
+                                            <h5 class="uk-h4 uk-margin-top" uk-slideshow-parallax="x: 300,-300" style="transform: translateX(300px);">Mother of Caden and Caleb Tan</h5>
+
+                                            <div id="testimonial-15" class="uk-flex-top uk-modal" uk-modal="">
+                                                <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+
+                                                    <button class="uk-modal-close-default uk-icon uk-close" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" data-svg="close-icon"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+
+                                                    <div class="">
+                                                        <p>The teachers are very warm, caring and patient! Both my boys enjoy going to school and they have learnt and grow a lot in this holistic environment!</p>
+                                                    </div>
+                                                    <h5 class="uk-h4 uk-margin-top">- Mother of Caden and Caleb Tan</h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                                                                            </ul>
+                            <!-- <ul class="uk-slider-nav uk-dotnav uk-flex-center uk-margin-top"></ul> -->
+                            <div class="uk-flex uk-flex-center uk-flex-middle">
+                                <a href="#" uk-slidenav-previous="" uk-slider-item="previous" class="uk-icon uk-slidenav-previous uk-slidenav"><svg width="14px" height="24px" viewBox="0 0 14 24" xmlns="http://www.w3.org/2000/svg" data-svg="slidenav-previous"><polyline fill="none" stroke="#000" stroke-width="1.4" points="12.775,1 1.225,12 12.775,23 "></polyline></svg></a>
+                                <div class="uk-padding-small uk-padding-remove-vertical uk-text-large"><span class="slide-count">1</span>/<span class="slide-total">15</span></div>
+                                <a href="#" uk-slidenav-next="" uk-slider-item="next" class="uk-icon uk-slidenav-next uk-slidenav"><svg width="14px" height="24px" viewBox="0 0 14 24" xmlns="http://www.w3.org/2000/svg" data-svg="slidenav-next"><polyline fill="none" stroke="#000" stroke-width="1.4" points="1.225,23 12.775,12 1.225,1 "></polyline></svg></a>
+                            </div>
+                        </div>
+					</div>
+										<div class="uk-container uk-container-small">
+						<div class="uk-margin-medium-top uk-text-center">
+							<a href="https://maps.app.goo.gl/Q19WEr4R4hjcZPbi8 " class="uk-button uk-button-primary" target="_blank">Read Google Reviews</a>
+						</div>
+                    </div>
+					                </div>
+            </div>
+        </section>
+<section id="visitus" class="inview-section">
+
+        <div class="section-title-bar not-sticky">
+        <h1>Visit Us!</h1>
+    </div>
+    
+    
+        <div class="split-section uk-grid-collapse uk-child-width-1-2@s uk-grid" uk-grid="">
+        <div class="grid-item item-image ash-bg-white uk-first-column">
+        
+
+                        <!-- <img src="https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/schedule-a-visit-2.jpg" srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/schedule-a-visit-2.jpg 1079w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/schedule-a-visit-2-480x320.jpg 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/schedule-a-visit-2-1024x683.jpg 1024w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/schedule-a-visit-2-768x512.jpg 768w" sizes="(max-width: 1079px) 100vw, 1079px" alt="" uk-cover> -->
+            
+            <div class="uk-background-cover" data-src="https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/schedule-a-visit-2.jpg" data-srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/schedule-a-visit-2.jpg 1079w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/schedule-a-visit-2-480x320.jpg 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/schedule-a-visit-2-1024x683.jpg 1024w, https://www.ash.edu.sg/ash/wp-content/uploads/2023/07/schedule-a-visit-2-768x512.jpg 768w" data-sizes="(max-width: 1079px) 100vw, 1079px" uk-img="">
+                <canvas width="960" height="720"></canvas>
+            </div>
+
+                            </div>
+
+        <div class="grid-item item-text item-text-with-parallax-bg uk-cover-container uk-position-relative ash-bg-blue">
+                                        <div class="cover-parallax-container" uk-parallax="y: -25,25; easing: 0.5;" style="transform: translateY(-25px);">
+                <img data-src="https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/split-item-bg.jpg" data-srcset="https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/split-item-bg.jpg 1080w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/split-item-bg-150x150.jpg 150w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/split-item-bg-480x480.jpg 480w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/split-item-bg-768x768.jpg 768w, https://www.ash.edu.sg/ash/wp-content/uploads/2019/04/split-item-bg-1024x1024.jpg 1024w" data-sizes="(max-width: 1080px) 100vw, 1080px" alt="" uk-img="" uk-cover="" class="uk-cover" style="height: 526px; width: 390px;">
+            </div>
+                        <div class="uk-position-relative uk-padding uk-padding-remove-vertical">
+                <div class="uk-container uk-container-small uk-margin-large-top uk-margin-large-bottom" uk-scrollspy="target: > *; cls: uk-animation-slide-bottom-medium; delay: 150; offset-top: -100">
+                    <div class="uk-light" style="visibility: hidden;">
+                        <h3>Schedule a Visit</h3>
+<p>Want to know more or see what else we have to offer? Visit us and we’ll show you around!</p>
+                    </div>
+                                        <a href="https://www.ash.edu.sg/schedule-a-visit/" class="uk-button uk-button-primary uk-margin-large-top" style="visibility: hidden;">Sign Up Here</a>
+                                    </div>
+            </div>
+                </div>
+    </div>
+    
+</section>
+
+	</main>
+
+    <footer class="site-footer">
+        <div class="uk-container uk-container-expand">
+            <div class="uk-grid uk-grid-stack" uk-grid="">
+                <div class="footer-logos uk-width-expand@m uk-first-column">
+                    <img src="https://www.ash.edu.sg/ash/wp-content/themes/ash-theme/framework/dist/img/logo-urs.png" alt="URS">
+                    <img src="https://www.ash.edu.sg/ash/wp-content/themes/ash-theme/framework/dist/img/logo-spark.png" alt="SPARK">
+                </div>
+                <div class="footer-copyright uk-width-auto@m uk-flex uk-flex-column uk-grid-margin uk-first-column">
+                    <ul class="footer-links uk-width-1-1 uk-list uk-flex">
+                        				<li class=""><a href="https://www.facebook.com/adventistschoolhouse/" target="_blank">Facebook</a></li>
+				<li class=""><a href="https://www.ash.edu.sg/privacy-policy/" target="_self">Privacy Policy</a></li>
+                    </ul>
+                    <div class="footer-text uk-width-1-1">Copyright © <span id="copyright-year">2024</span> Adventist Schoolhouse. All Rights Reserved.</div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+<script type="text/javascript" src="https://www.ash.edu.sg/ash/wp-content/plugins/contact-form-7/includes/swv/js/index.js" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.ash.edu.sg\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ash.edu.sg/ash/wp-content/plugins/contact-form-7/includes/js/index.js" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://www.ash.edu.sg/ash/wp-content/themes/ash-theme/framework/dist/js/vendor-scripts.min.js" id="theme-vendor-script-js"></script>
+<script type="text/javascript" src="https://www.ash.edu.sg/ash/wp-content/themes/ash-theme/framework/dist/js/main.min.js" id="theme-framework-script-js"></script>
+<script type="text/javascript" id="malinky-ajax-pagination-main-js-js-extra">
+/* <![CDATA[ */
+var malinkySettings = {"1":{"theme_defaults":"Twenty Sixteen","posts_wrapper":".archive-section","post_wrapper":".uk-card","pagination_wrapper":".navigation","next_page_selector":".nav-links .nav-previous a","paging_type":"infinite-scroll","infinite_scroll_buffer":"20","ajax_loader":"<img width=\"100\" height=\"100\" src=\"https:\/\/www.ash.edu.sg\/ash\/wp-content\/uploads\/2019\/04\/rolling@05x.gif\" class=\"attachment-thumbnail size-thumbnail\" alt=\"AJAX Loader\" loading=\"lazy\" \/>","load_more_button_text":"Load More","loading_more_posts_text":"Loading...","callback_function":""}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ash.edu.sg/ash/wp-content/plugins/malinky-ajax-pagination/js/main.js" id="malinky-ajax-pagination-main-js-js"></script>
+
+
+
+
+</body></html>

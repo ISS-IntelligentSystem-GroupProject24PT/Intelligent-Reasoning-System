@@ -1,0 +1,488 @@
+<html><head><meta http-equiv="origin-trial" content="Az520Inasey3TAyqLyojQa8MnmCALSEU29yQFW8dePZ7xQTvSt73pHazLFTK5f7SyLUJSo2uKLesEtEa9aUYcgMAAACPeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZyIsImV4cGlyeSI6MTcyNTQwNzk5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=">
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1.0, user-scalable=no">
+<title>Arrange a Visit</title>
+
+<link rel="shortcut icon" href="/qws/slot/user/fn51/favicon50450.ico?v=1699506748">
+
+ 
+ 
+
+<link rel="stylesheet" type="text/css" href="/skin/qql/base.css">
+<link rel="stylesheet" type="text/css" href="/skin/qql/base-rwd.css">
+<link rel="stylesheet" type="text/css" href="/rs/css/ct-factor.css">
+
+<link rel="stylesheet" type="text/css" id="main_css" href="/qws/style/50450_001/main.css?1703238455"> 
+
+<script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/moV1mTgQ6S91nuTnmll4Y9yf/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-wEVSdqKc5hf9vkWC9kAmVRAEa11o8QNGecO6p5G2xGj+RmQhgDqFDCRdpfSr1VUf"></script><script language="javascript" type="text/javascript" src="/site/ctx/js/menu.js"></script>
+<script language="javascript" type="text/javascript" src="/site/ctx/jquery/jquery.min.js"></script>
+<script language="javascript" type="text/javascript" src="/site/ctx/jquery/easing.js"></script>
+<script language="javascript" type="text/javascript" src="/site/ctx/jquery/ctjq.js"></script>
+<link rel="stylesheet" type="text/css" href="/site/ctx/jquery/ctjq.css">
+
+
+<script language="javascript" src="/skin/qql/admin.js"></script>
+<link rel="stylesheet" type="text/css" href="/skin/qql/menu.css">
+
+
+<script>
+// non-admin vars
+if (typeof ive_settings=='undefined') {
+  ive_settings={};
+  ive_settings.ptid=3042020;
+  ive_settings.url={
+    _head: '/cos/o.x?ptid=3042020&c=/qws/',
+    skin_path:'/skin/qql/' 
+  };
+  ive_settings.user={ fname: '', _id: '' , email:''};
+}
+</script>
+
+<!-- server extra head -->
+
+<!-- site extra head -->
+
+<!-- page extra head -->
+<style>
+  .masthead2_area {
+    background: url('/qws/slot/u50450/subbanner/enrolment.png') center top no-repeat;
+    background-size: contain;
+  }
+   @media only screen and (max-width: 768px) {
+    .masthead2_area {
+      background-position-x: 90% !important;
+      background-position-y: 120px !important;
+      background-size: auto 67%!important;
+    }
+  }
+</style> 
+<!-- END all extra head -->
+
+<script>
+
+if (typeof(coto)=='undefined') coto={ ive: { } };
+if (!coto.ive.Controller) coto.ive.Controller = function() { };
+
+coto.ive.Controller.prototype.build=function(dom,opts){
+  if (typeof(dom)=='function') return this.build_func=dom;
+  this.dom=dom;
+  if (!(this.options=$(this.dom).data('widget_options'))) this.options={ };
+  if (!(this.idata=$(this.dom).data('idata'))) this.idata={ };
+  this.idata.controller=this;
+  this.build_func.call(this,opts);
+  $(dom).data('widget_options',this.options);
+  $(dom).data('idata',this.idata);
+};
+coto.controllers={ }; // controllers list
+function ive_controller(wtype) {
+  return coto.controllers[wtype]||(coto.controllers[wtype]=new coto.ive.Controller());
+}
+
+ive_tunings={ };
+function ive_tuning(cat) { return ive_tunings[cat]||(ive_tunings[cat]={ }); }
+
+// ----- DROPMENU -----
+$(function() {
+
+
+
+
+
+
+
+  // old menu.js
+  $('.sitemenu_area ul.sitemenu li, .dropmenu a').bind('mouseover mouseleave',function(ev) {
+    var menuid='dropmenu_'+get_idnum(this.id),$menu=$('#'+menuid);
+    var isenter=(ev.type=='mouseover'||ev.type=='mouseenter');
+    ctmenu[isenter?'show':'hide'](menuid,this,$menu.hasClass('drop_right_')?'right':'bottom');
+  });
+});
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="PTP3041536 PTP3041580 pagelevel-3" topmargin="0" leftmargin="0">
+<img id="shade_img_ff" src="/pix/a/shadow5.png" style="visibility:hidden;position:absolute;z-index:1001;"> 
+<img id="shade_img_ie" src="/pix/a/shadow8.gif" style="visibility:hidden;position:absolute;z-index:1001;filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius=5,MakeShadow=true,ShadowOpacity=0.20);">
+
+<div id="netcontent"><div id="lo_whole" class="layout-single_col">
+  <div id="lo_panel">
+    <div id="lo_main"><div class="main_area" style="width:auto">
+
+  <div class="masthead_area"><header>
+  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+<script type="text/javascript" src="/qws/slot/u50450/lmm-sub/lmm-sub.js">
+</script>  
+  
+<script>
+$(function(){
+    $(window).ready(function() {
+      $("#totop").removeClass("active");
+      $("#whatsapp-btn").removeClass("active");
+    });
+    $(window).on("scroll",function(){ 
+      if ($(window).scrollTop()>parseInt($(window).height())) {
+        $("#whatsapp-btn").addClass("active");			
+      } else {
+        $("#whatsapp-btn").removeClass("active");
+      }
+    });
+});
+  
+</script>
+<a id="logo" href="/">little mighty me
+	</a>  
+<div id="right-header">
+	<a id="icon-ig" href="https://www.instagram.com/littlemightyme/?hl=en" target="_blank">IG Page</a>
+  <a id="register-button" href="/others/arrange-a-visit" target="_blank">Arrange a Visit</a>
+  <span id="menu">
+    <button type="button" class="hamburger" fdprocessedid="1waz19">
+      <span class="hamb-top"></span>
+      <span class="hamb-middle"></span>
+      <span class="hamb-bottom"></span>
+    </button>	
+  </span>
+</div>
+  
+   
+</header></div>
+<div class="sitemenu_area"><ul class="sitemenu">
+    <li id="PTID_3041536" class="PTSN_home first-item   "><a href="/" class="sitemenu">Home</a></li>
+    <li id="PTID_3042049" class="PTSN_about-us hasdm"><a href="/about-us" class="sitemenu">About&nbsp;Us</a><table id="dropmenu_3042049" class="dropmenu ">
+   
+        <tbody><tr class="lineEven ">
+      <td class="dmtrig" id="dmtrig_3041576">
+	<a id="subitem_3041576" href="/about-us/about-us"><span id="_ptmt_3041576">About Us</span></a>      	 
+	  </td>
+    </tr>
+   
+        <tr class="lineOdd ">
+      <td class="dmtrig" id="dmtrig_3042106">
+	<a id="subitem_3042106" href="/about-us/parents-testimonials"><span id="_ptmt_3042106">Parent's Testimonials</span></a>      	 
+	  </td>
+    </tr>
+   
+   
+        <tr class="lineEven ">
+      <td class="dmtrig" id="dmtrig_3042004">
+	<a id="subitem_3042004" href="/about-us/as-featured-in"><span id="_ptmt_3042004">As Featured In</span></a>      	 
+	  </td>
+    </tr>
+  </tbody></table>
+</li>
+    <li id="PTID_3041736" class="PTSN_curriculum    "><a href="/curriculum" class="sitemenu">Curriculum</a></li>
+    <li id="PTID_3041578" class="PTSN_our-facilities    "><a href="/our-facilities" class="sitemenu">Our&nbsp;Facilities</a></li>
+    <li id="PTID_3041579" class="PTSN_faq    "><a href="/faq" class="sitemenu">FAQ</a></li>
+  </ul>
+</div>
+  <div class="masthead2_area"></div>
+
+  <div class="content_area" style="clear:both; width:100%; ">
+    <div class="top"></div>
+    <div class="mid">
+            <div class="path_box">
+<a class="path" href="/">Home</a> &gt;
+Others &gt;
+<a class="path" href="/others/arrange-a-visit">Arrange a Visit</a>
+</div>
+         
+
+<div class="pagecontent_box">
+  <div class="tools_box">
+    </div>
+      
+    
+        <div class="description ive_editable ive_ptod ive_content" id="_ptod_3042020"><h1 class="page-title">Arrange a Visit</h1>
+<div style="text-align:center; max-width: 900px; margin: auto;">
+  <p>Join us in creating a nurturing and enriching environment for your child's early years. We look forward to welcome you to our infant/ childcare center, where we'll be your partner in your child's development journey. Schedule your visit today and take the first step towards a brighter future for your child.<br><br>
+'Little But Mighty' - Where Potential Knows No Size."
+</p>
+</div></div>
+  
+
+
+
+</div>
+
+
+      
+<div id="_ptoo_block_start" style="font-size:1px;border:1px solid transparent"></div>
+
+<div id="_ptoo_PTOID" class="pageblock_box " style="display:none">
+    <div id="_ptod_PTOID" class="ive_editable ive_ptod ive_content"></div>
+</div>
+
+  <div id="_ptoo_3042069" class="pageblock_box ">
+    <div id="_ptod_3042069" class="ive_editable ive_ptod ive_content"><div class="iveo_pipe_lmmform_fullapp iveo_gencon ive_eobj_inline" width="100%" style="width:100%;"><script src="https://www.google.com/recaptcha/api.js"></script>
+<script type="text/javascript">
+var thxURL = "";
+if (thxURL!='') window.location=thxURL;
+
+$(document).ready(function() {
+	$('input[name="referral_source_other"]').hide();
+	$('select[name="referral_source"]').on('change',function() {
+		var selectedValue = $(this).val();
+		if(selectedValue==="Others"){
+			$('input[name="referral_source_other"]').show();
+			$('input[name="referral_source_other"]').prop("required", true);
+		}else{
+			$('input[name="referral_source_other"]').hide();
+			$('input[name="referral_source_other"]').prop("required", false);
+		}
+	});
+
+	var currentDate = new Date().toISOString().split('T')[0];
+	$('input[name="child_dob"]').attr('max', currentDate);
+	$('input[name="enrolment_date"]').attr('min', currentDate);
+});
+
+</script>
+<div class="enquiries">
+
+<form method="post" id="enquiries-form" name="enquiries-form" autocomplete="off" action="">
+<div class="form-cnt">
+	<h3>Personal Particulars</h3>
+	<div class="form-group form-group-full">
+		<label for="">Name *</label>
+		<div>
+		<input name="fname" type="text" value="" placeholder="First Name" required=""> 
+		<input name="lname" type="text" value="" placeholder="Last Name" required=""></div>
+	</div>
+
+	<div class="form-group form-group-full">
+		<label for="">Email Address *</label>		
+		<div><input name="email" type="text" value="" placeholder="Your Email" required=""></div>
+	</div>
+
+    <div class="form-group">
+		<label for="">Contact Number *</label>
+		<div><input name="phone" type="text" value="" placeholder="Your Contact Number" required=""></div>
+	</div>
+
+	<h3>Child's Particulars</h3>	
+    <div class="form-group form-group-full">
+		<label for="">Child's Name *</label>
+		<div><input name="child_name" type="text" value="" placeholder="Child's Name" required=""></div>
+	</div>
+
+	<div class="form-group form-group-full">
+		<label for="">Child's Date of Birth *</label>
+		<div><input name="child_dob" type="date" value="" placeholder="Child's DOB" required="" max="2024-03-30"></div>
+	</div>
+
+	<h3>Other Information</h3>
+	<div class="form-group form-group-full">
+		<label for="">Purpose of Enquiry *</label>		
+		<div>
+			<select name="enquiry_purpose" required="">
+				<option value="">--Please Select--</option>
+                <option value="General Enquiry">General Enquiry</option>
+				<option value="Availability and Waitlist">Availability and Waitlist</option>
+				<option value="Special Needs or Accommodations">Special Needs or Accommodations</option>
+				<option value="School Tour">School Tour</option>
+			</select>
+		</div>
+	</div>
+
+    <div class="form-group form-group-full">
+		<label for="">How did you heard about us? *</label>		
+		<div>
+			<select name="referral_source" required="">
+                <option value="">--Please Select--</option>
+                <option value="Family/Friends">Family/ Friends</option>
+				<option value="Advertisement">Advertisement</option>
+				<option value="Social Media">Social Media</option>
+				<option value="Internet Search">Internet Search</option>
+				<option value="ECDA (Preschool Search)">ECDA (Preschool Search)</option>
+				<option value="Others">Others</option>
+			</select>
+			<input name="referral_source_other" type="text" value="" placeholder="Please state" style="display: none;">
+		</div>
+	</div>
+
+    <div class="form-group form-group-full">
+		<label for="">Expected Enrolment Date *</label>
+		<div><input name="enrolment_date" type="date" value="" placeholder="Enrolment Date" required="" min="2024-03-30"></div>
+	</div>
+
+	<div class="form-group form-group-full">
+		<label for="">Message *</label>
+		<div><textarea name="message" placeholder="Message" required=""></textarea></div>	
+	</div>
+
+	<div class="form-group form-group-full">
+		<div class="g-recaptcha" data-sitekey="6LdCMM4oAAAAABpi-hbOlLMpmd0_yi0b6OZzGDv0"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-b2uoi530ja1o" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdCMM4oAAAAABpi-hbOlLMpmd0_yi0b6OZzGDv0&amp;co=aHR0cHM6Ly93d3cubGl0dGxlbWlnaHR5bWUuc2c6NDQz&amp;hl=en&amp;v=moV1mTgQ6S91nuTnmll4Y9yf&amp;size=normal&amp;cb=en4udzlk8a0"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+	</div>	
+	
+	<input type="submit" id="sent-btn" value="Submit">
+</div>
+</form>
+
+</div>
+<div class="iveo_pipe"><img align="inline" width="100%" id="call://lmmform/fullapp" class="pipeobj" style="width:100%;" src="/pix/spacer.gif" alt=""></div></div></div>
+</div>
+          </div>
+    <div class="bottom"></div>
+  </div>
+
+  <div class="sidebar_area" style="float:left; clear:both; width:100%;">
+    <div class="top"></div>
+    <div class="mid">
+        <div class="sidebar0_box"><div id="_ptosb0_3042020" class="ive_content"></div></div>
+      
+
+
+
+
+
+
+
+
+
+
+
+      	<div class="subpages_box">
+  
+  <!-- subpages -->
+  <ul class="mysubpages_">
+      </ul>
+  <!-- end subpages -->
+
+  
+</div>
+              <div class="sidebar1_box"><div id="_ptosb1_3042020" class="ive_content"></div></div>
+    </div>
+    <div class="bottom"></div>
+  </div>
+
+  <div class="footer_area"> 
+
+
+
+
+
+
+
+
+
+
+
+
+<span id="totop" class=""></span> 
+<a href="https://api.whatsapp.com/send/?phone=6588326148&amp;text&amp;type=phone_number"><span id="whatsapp-btn" class=""></span></a>
+  
+<br>
+<table style="width: 100%" class="ives_tab_kosong">
+<tbody>
+<tr>
+<td style="width: 25%;">
+  <a href="/"><br></a><a href="/"><img class="footer-logo" src="/qws/slot/u50450/footer/lmm-footer.png" alt="lmm-footer.png" style="width: 289px; height: 123px;"></a>
+</td>
+ 
+<td style="width: 55%;">
+  
+<div class="footer-sub">
+  <img style="width: 167px; height: 78px;" class="footer-sub-logo" src="/qws/slot/u50450/footer/NUS Co-op logo new.png">
+  <img style="width: 117px; height: 75px;" class="footer-sub-logo" src="/qws/slot/u50450/footer/HPB_HealthyPre-School_Logo_Colour-1-scaled 2.png">
+  <img class="footer-sub-logo" src="/qws/slot/u50450/footer/colour-ecda-logo.png" alt="colour-ecda-logo.png" style="width: 126px; height: 81px;">
+  <img class="footer-sub-logo" src="/qws/slot/u50450/footer/colour-spark-logo.png" alt="colour-spark-logo.png">
+</div>
+</td>
+<td style="width: 15%;">
+ <h4>
+    <a href="/about-us" target="">ABOUT US</a></h4>
+  <h4>
+  <a href="/curriculum">CURRICULUM</a></h4>
+  <h4>
+  <a href="/our-facilities">OUR FACILITIES</a></h4>
+	  <h4><a href="/faq">FAQ</a></h4>
+<h4><a href="/others/arrange-a-visit">ENQUIRIES</a></h4>
+  
+</td>
+<td style="width: 5%;"><br>
+</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center; display: block; padding-bottom:10px;">Little Mighty Me Pte Ltd 2023. All rights reserved
+<span class="center-dot"></span>
+Punggol Pl, #02-816 Blk 274B, Singapore 822274
+<!--<span class="center-dot"></span>
+    <a href="https://www.instagram.com/littlemightyme/">Instagram </a>
+    <span class="center-dot"></span>
+  <a href="mailto:littlemightyme@gmail.com">littlemightyme@gmail.com</a>
+</div>-->
+</div></div>
+
+</div>
+</div>
+  </div>
+</div>
+<!-- pagetree/a1/single_col_view.html -->
+</div>
+
+
+
+
+
+<div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="recaptcha challenge expires in two minutes" name="c-b2uoi530ja1o" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=moV1mTgQ6S91nuTnmll4Y9yf&amp;k=6LdCMM4oAAAAABpi-hbOlLMpmd0_yi0b6OZzGDv0" style="width: 100%; height: 100%;"></iframe></div></div></body></html>

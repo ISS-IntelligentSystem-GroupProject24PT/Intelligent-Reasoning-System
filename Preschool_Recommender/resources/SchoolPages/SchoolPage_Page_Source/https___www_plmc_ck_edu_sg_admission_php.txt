@@ -1,0 +1,578 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" prefix="og: http://ogp.me/ns#" class=""><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta charset="utf-8">
+<!--<meta name="Author" content="Determination" />-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>PLMC Paya Lebar Methodist Church Covenant Kindergarten - Admission</title>
+
+<!--<meta property="analytics-track" content="DETERMINATION - Index" />
+<meta property="analytics-s-channel" content="homepage" />
+<meta name="Description" content="Insert SOUL Here, You're filled with DETERMINATION." />
+<meta property="og:title" content="Determination" />
+<meta property="og:description" content="Insert SOUL Here, You're filled with DETERMINATION." />
+<meta property="og:url" content="http://site.cyberland.edu.sg/miku/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Determination" />-->
+
+<!-- STYLE LINKS -->
+
+<link rel="stylesheet" href="css/main.css" type="text/css">
+<link rel="stylesheet" href="css/PLMC-admission-table-sessions.css" type="text/css">
+<link href="css/tabsy.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Kalam" rel="stylesheet">	
+	
+	
+<!-- STYLE BLOCK -->
+
+<!-- SHOWS CURRENT PAGE -->
+
+<style>
+	#header nav ul #current-about a,
+	#header nav ul #current-about a:hover {
+		color: #FFFFFF;
+	}
+	#link7, #link7:hover {
+		/*background-color: #31C3E7;*/
+		/*background-color: #37bca5;*/
+		color: black;
+		font-weight: bolder;
+	}
+</style>
+
+<!-- SCRIPT LINK -->
+
+<!-- MOBILE NAV SOURCE -->
+
+<script src="src/jquery-1.9.1.min.js"></script>
+<script src="src/jPushMenu.js"></script>
+
+<!-- SCRIPT BLOCK -->
+
+<script>
+
+	<!-- TO THE TOP -->
+
+	$(document).on('click', '#tothetop2', function(){
+		$('html,body').animate({ scrollTop: 0 }, 500);
+	});
+
+	<!-- MOBILE NAV -->
+
+	jQuery(document).ready(function($) {
+		$('.toggle-menu').jPushMenu();
+	});
+	
+</script>
+
+</head>
+<body class="push-body">
+
+<!-- WRAPPER -->
+
+<div id="wrapper-outer">
+
+<!-- LOGO / MOBILE NAV 
+**Please copy and paste into each files instead of using php include as the mobile nav are linked to the javascript,
+  this is to prevent it from collision with other javascript -->
+
+<div id="Logo-wrapper">
+	<div id="container-logo">
+		<a href="index.php"><img src="img/PLMC-Logo-for-website-top.png" alt="Logo"></a>
+		<!--<a href="index.php"><img src="img/logo_plmc.png" alt="Logo" ></a>-->
+		<!--<h2 class="topbar_companyname">Paya Lebar Methodist Church Covenant Kindergarten</h2>-->
+	</div>
+	<div id="social-media">
+
+		
+		
+    
+<!------------------------------Mobile version side vertical menu start------------------------------>
+    	<nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" style="background-color: #293789;">
+			<h3 style="background-color: #293789;">Menu</h3>
+			<ul>
+            	<li id="cbplink1"><a href="index.php">Home</a></li>
+				<li id="cbplink2"><a href="aboutus-history.php">About Us</a></li>
+                <!--<li id="cbplink3"><a href="aboutus-visionmission.php#vision">Vision, Mission, Philosophy</a></li>-->
+				<!--<li id="cbplink4"><a href="aboutus-visionmission.php#mission">Mission</a></li>
+				<li id="cbplink5"><a href="aboutus-visionmission.php#philosophy">Philosophy</a></li>-->
+				<li id="cbplink6"><a href="programme-curriculum.php">Our Curriculum</a></li>
+				<li id="cbplink7"><a href="programme-learning.php#learningjourneys">Learning Journeys</a></li>
+				<li id="cbplink8"><a href="programme-learning.php#enrichmentprogramme">Enrichment Programme</a></li>
+				<li id="cbplink9"><a href="parentinfo.php">Parent Info</a></li>
+				<li id="cbplink10"><a href="testimonials.php">Testimonials</a></li>
+				<li id="cbplink11"><a href="gallery.php">Gallery</a></li>
+				<li id="cbplink12"><a href="admission.php">Admission</a></li>
+				<li id="cbplink13"><a href="contactus.php">Contact Us</a></li>
+				<!--<li id="cbplink3">
+                	<a href="">Curriculum &nbsp;&#x25BC;</a>
+            		<ul>
+                		<li id="cbp2nd1">
+                        	<a href="seeds-programme.php">Seeds Programme</a>
+                        </li>
+                		<li id="cbp2nd2">
+                        	<a href="jolly-programme.php">Jolly Programme</a>
+                       	</li>
+                	</ul>
+                </li>-->
+
+<!-- Mobile menu with multi-level items
+<li id="cbplink3">
+                	<a href="curriculum.php">Curriculum &nbsp;&#x25BC;</a>
+            		<ul>
+                		<li id="cbp2nd1">
+                        	<a href="#">Pre-Care</a><div class="arrow">&#x25BC;</div>
+                            <ul>
+                            	<li id="cbp3rd1"><a href="#">Nursery</a></li>
+                            	<li id="cbp3rd2"><a href="#">Pre-K</a></li>
+                            </ul>
+                        </li>
+                		<li id="cbp2nd2">
+                        	<a href="#">Child Care</a><div class="arrow">&#x25BC;</div>
+                            <ul>
+                            	<li id="cbp3rd3"><a href="#">K1</a></li>
+                            	<li id="cbp3rd4"><a href="#">K2</a></li>
+                            </ul>
+                       	</li>
+                	</ul>
+                </li>
+
+-->				
+				
+				
+				
+				
+            </ul>
+            <button class="toggle-menu menu-right push-body jPushMenuBtn" style="background-color:#293789; border: thin solid white;">Close</button>
+		</nav><!------------------------------Mobile version side vertical menu end------------------------------>
+		
+		
+		<div class="container">
+			<div class="main">
+				<button class="toggle-menu menu-right push-body jPushMenuBtn">Menu</button>
+			</div>
+		</div>
+        
+	</div>
+	
+    <div class="clear"></div>
+</div>
+
+<!-- INNER WRAPPER -->
+
+<div id="wrapper-inner" style="padding-bottom: 20px;">
+
+<!-- HEADER -->
+
+<div id="header">
+	<nav>
+    	<ul>
+        	<li>
+            	<a href="index.php"><div id="current-home"><div id="link1">
+                    	Home
+           	  </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="aboutus-history.php"><div id="current-about"><div id="link2">About Us
+              	</div></div></a>
+				
+            </li>
+            
+        	<li>
+            	<a href=""><div id="current-curriculum"><div id="link3">               	  Programme
+       	  		</div></div></a>
+    			<ul>
+      				<li>
+                    	<a href="programme-curriculum.php">
+                    	<div class="link2nd">Our Curriculum</div></a>
+                        
+                   	</li>
+      				<li>
+                    	<a href="programme-learning.php"><div class="link2nd">Learning Journeys</div></a>
+                    </li>
+					<li>
+                    	<a href="programme-learning.php#enrichmentprogramme"><div class="link2nd">Enrichment Programme</div></a>
+                    </li>
+    			</ul>
+                
+          	</li>
+            
+        	<li>
+            	<a href="parentinfo.php"><div id="current-gallery"><div id="link4">Parent Info
+            	</div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="testimonials.php"><div id="current-testimonies"><div id="link5">
+					Testimonials </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="gallery.php"><div id="current-career"><div id="link6">                    	Gallery
+           	  </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="admission.php"><div id="current-admission"><div id="link7">                    	Admission
+              	</div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="contactus.php"><div id="current-contact"><div id="link8">                    	Contact Us
+              	</div></div></a>
+            </li>
+        </ul>
+    </nav>
+</div>
+<div class="clear"></div>
+<!-- MAIN CONTENT -->
+
+<div id="content-main">
+	
+    <!-- TITLE -->
+    
+    <div id="title-background" class="admission-title-background-img">
+    	<!--<h1>About Us</h1>-->
+    </div>
+    
+    <!-- CONTAINER -->
+    
+    <div id="container-box">
+    	
+        <!-- TEXT Summary.etc. -->
+        
+        <div id="subpage-content-fullwidth">
+			<div id="container-text-1col">
+			<!--<div id="container-text2">-->
+			<a name="admission"></a>
+			<h2 class="title-admission">Admission</h2>
+			<hr>
+				
+			<div class="clear"></div>
+			<a name="learningjourneys"></a>
+			<h2 class="title2">REGISTRATION NOW OPEN FOR 2025 ADMISSION!!</h2><br>
+	
+			<div>
+			  <img class="admissionimage" src="img/pict-admission-plmc-registration.jpg" width="100%" alt=""> <br><br>
+
+
+			</div>	
+<!----------------------------------------Calendar Tabs START ------------------------------------------------->
+				
+				
+				<main>
+		<div id="website-PLMC_ResponsiveTabs">
+        <div class="tabsy">
+
+            <input type="radio" id="tab1" name="tab" checked="">
+            <label class="tabButton" for="tab1">Operation Hours and Class Levels</label>
+            
+            <div class="tab">
+            <div class="content">
+            <a name="plmc-hours"></a>
+			<h2 class="title2">Operation Hours and Class Levels</h2>   
+					
+			<div style=" height: auto; background-color:#ffffff;">
+
+			<table role="table" class="blueTable">
+			  <thead role="rowgroup">
+				<tr role="row">
+				  <th width="19%" role="columnheader">Session</th>
+				  <th width="56%" role="columnheader">Time</th>
+				  <th width="25%" role="columnheader">Day</th>
+
+				</tr>
+			  </thead>
+			  <tbody role="rowgroup">
+				<tr role="row">
+				  <td role="cell">1st</td>
+				  <td role="cell">8:00 am to 11:00 am</td>
+				  <td role="cell">Monday to Friday</td>
+
+				</tr>
+				<tr role="row">
+				  <td role="cell">2nd</td>
+				  <td role="cell">11:15 am to 2:15 pm</td>
+				  <td role="cell">Monday to Friday</td>
+
+				  
+			  </tr></tbody>
+			</table>				
+			<p>The Kindergarten follows the school calendar of the Ministry of Education.</p>
+				
+			<a name="plmc-levels"></a>
+			<h2 class="title2">Levels Available</h2>	
+			<table role="table" class="blueTable" id="sessiontable">
+			  <thead role="rowgroup">
+				<tr role="row">
+				  <th width="19%" role="columnheader">Level</th>
+				  <th width="56%" role="columnheader">Age</th>
+				  
+
+				</tr>
+			  </thead>
+			  <tbody role="rowgroup">
+				  
+				<tr role="row">
+				  <td role="cell">Playgroup</td>
+				  <td role="cell">Year that the child turns 18 months</td>
+				</tr>
+				  
+				<tr role="row">
+				  <td role="cell">Pre-Nursery</td>
+				  <td role="cell">Year that the child turns 3</td>
+				</tr>				  
+				<tr role="row">
+				  <td role="cell">Nursery</td>
+				  <td role="cell">Year that the child turns 4</td>
+				</tr>
+				  
+				<tr role="row">
+				  <td role="cell">Kindergarten 1</td>
+				  <td role="cell">Year that the child turns 5</td>
+				</tr>
+				
+				 <tr role="row">
+				  <td role="cell">Kindergarten 2</td>
+				  <td role="cell">Year that the child turns 6</td>
+				</tr>
+				  
+
+				  
+			  </tbody>
+			</table>	
+				
+				
+				
+			</div>		
+			
+<!----------------------------------------Calendar Table END ------------------------------------------------->	
+                </div>
+            </div>
+
+            <input type="radio" id="tab2" name="tab">
+            <label class="tabButton" for="tab2">Payment Mode</label>
+            
+            <div class="tab">
+                <div class="content">
+					
+				  <a name="plmc-hours"></a>
+				  <h2 class="title2">Payment mode</h2>
+                   
+					<p>
+					Please prepare and bring along the following documents:
+					</p>
+					<ul>
+						<li>1 recent photo of child</li>
+						<li>Child’s Birth Certificate</li>
+						<li>Identity Card of both parents</li>
+						<li>Student Pass (for non-citizens)</li>
+						<li>Registration Fee &amp; Deposit</li>
+						<li>Copy of child’s Immunization Record</li>
+						<li>Bank Statement / CDA Form</li>
+					</ul>
+					<br>
+					<p>- Payment by cash is accepted.</p>
+					<p>- Please make all cheques crossed payable to PLMC Covenant Kindergarten.</p> 
+					<p>- All registration will be conducted at the Kindergarten Admin Office, Covenant Centre, Level 2.</p>
+					
+                </div>
+            </div>
+
+            <input type="radio" id="tab3" name="tab">
+            <label class="tabButton" for="tab3">Fee Structure</label>
+            
+            <div class="tab">
+                <div class="content">
+                    <!--<h3>Heading 2</h3>-->
+					<a name="plmc-feestructure"></a>
+				  	<h2 class="title2">Fee Structure</h2>
+                    <p>School fees per term of 10 weeks. All fees quoted are inclusive of the 8% Goods and Services Tax (GST) and non-refundable.</p>
+					
+					<table role="table" class="blueTable" id="fee-table">
+					  <thead role="rowgroup">
+						<tr role="row">
+						  <th width="19%" role="columnheader">Level</th>
+						  <th width="56%" role="columnheader">Price</th>
+						</tr>
+					  </thead>
+					  <tbody role="rowgroup">
+
+						<tr role="row">
+						  <td role="cell">Playgroup</td>
+						  <td role="cell">$1283.00</td>
+						</tr>
+
+						<tr role="row">
+						  <td role="cell">PreNursery</td>
+						  <td role="cell">$1166.40</td>
+						</tr>
+
+						<tr role="row">
+						  <td role="cell">Nursery, K1 and K2</td>
+						  <td role="cell">$1101.60</td>
+						</tr>
+					  </tbody>
+					</table>
+							
+					
+
+					<a name="plmc-otherfees"></a>
+				  	<h2 class="title2">Other Fees</h2>
+					
+					<h3>Registration Fee</h3>
+						
+						<p>$50.30 (Singaporean/PR), $80.25 (Foreigner)</p>
+						<p></p>
+							
+					<h3>Deposit Fee</h3>
+						<p>
+							$400 per child per registration and not transferable.</p>
+							
+							<p>- One full term withdrawal notice in writing is needed, failure to provide sufficient notice will result in the forfeiture of the deposit and no refund will be considered.</p>
+							
+						<p>- The deposit will be used to offset against the Term 4 fees of K2 graduating class student.</p>
+
+							<p>- The deposit will be forfeited if child fails to commence school with us.
+						</p>
+					
+					<h3>Student Pass</h3>
+						
+						<p>$80.25 (when applicable).</p>
+					
+					<h3>CDA Processing Fee</h3>
+						
+						<p>$53.50 (when applicable).</p>
+					
+					<h3>Workbook and Material Fee</h3>
+						
+						<p>$171.20 per year.</p>
+					
+					<h3>Insurance Fee</h3>
+						
+						<p>$3.20 a year.</p>
+					
+					<h3>Uniform/P.E. Attire</h3>
+						
+						<p>$21.40 from size S to XXL.</p>
+					
+					<h3>School Hat</h3>
+						
+						<p>$8.60.</p>
+					
+					<h3>School Bag</h3>
+						
+						<p>$13.00.</p>
+					
+					<h3>Class badge for uniform</h3>
+						
+						<p>$5.50.</p>
+					
+					<h3>Special activities</h3>
+						
+						<p>Separate fees are payable for special activities e.g. project work, learning journeys, camps, annual concert.</p>
+						<p style="font-style: italic; ">*Compulsory</p>
+					
+                </div>
+            </div>
+			
+			<input type="radio" id="tab4" name="tab">
+            <label class="tabButton" for="tab4">Download Forms</label>
+            
+            <div class="tab">
+                <div class="content">
+                    <!--<h3>Heading 2</h3>-->
+                    <p>There are no downloadable forms at the moment.</p>
+					
+                </div>
+            </div>
+			
+        </div>
+		</div><!--website-PLMC_ResponsiveTabs-->
+    </main>
+<!----------------------------------------Calendar Tabs END ------------------------------------------------->				
+		
+<!----------------------------------------Calendar Table START ------------------------------------------------->				
+				
+            <!--<div id="tothetop"><img src="img/tothetop.png" alt="To The Top"></div>-->
+    	</div>
+		</div>
+		
+    </div>
+    
+    <!-- END OF CONTAINER -->
+    
+    <div class="clear"></div>
+		<div id="callforaction2"> <a href="contactus.php#enquiryform"><img src="img/call-for-action-enquiry.png" alt=""></a>
+		</div>
+       <div id="tothetop2"><img src="img/tothetop.png" alt="To The Top"></div>
+ 
+</div>
+
+<!-- END OF MAIN CONTENT -->
+
+
+
+</div>
+
+<!-- END OF INNER WRAPPER -->
+<!-- FOOTER -->
+
+<footer>
+	<h6 class="copyright-texts">© Paya Lebar Methodist Church Covenant Kindergarten</h6><br>
+
+	<div class="footer_container1a">
+		<div class="footer_container2">
+			<img src="img/footer-address-icon.png" alt="address">
+			<p>
+			<span class="footerheader">Address:</span><br>
+			<span class="footertexts">5 Boundary Road, Singapore 549954</span>	
+				
+			</p>
+		</div>	
+			
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-officehours-icon.png" alt="office hours">
+			<p>
+			<span class="footerheader">Office Hours:</span><br>
+			<span class="footertexts">Monday to Friday, 8am to 4pm</span>	
+				
+			</p>
+		</div>
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-telephone-icon.png" alt="telephone">
+			<p>
+			<span class="footerheader">Telephone:</span><br>
+			<span class="footertexts">6285 3730</span>	
+				
+			</p>
+		</div>
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-email-icon.png" alt="email">
+			<p>
+			<span class="footerheader">Email:</span><br>
+			<span class="footertexts">kindergarten@plmc.org </span>	
+				
+			</p>
+		</div>
+	</div>
+	<div class="clear"></div>
+</footer></div>
+
+<!-- END OF WRAPPER -->
+
+
+
+</body></html>

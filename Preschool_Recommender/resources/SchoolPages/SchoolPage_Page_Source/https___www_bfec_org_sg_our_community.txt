@@ -1,0 +1,760 @@
+<html lang="en"><head><style id="rt-tooltip-styles" type="text/css">.rtTooltip{text-align:left;text-indent:0;width:400px;min-height:140px;z-index:99;max-width:100%}.rtTooltip div{text-align:left}.rtTooltipHeader{border:0;font-size:14px;font-weight:700;line-height:32px;height:32px;margin:0;padding:0 20px 0 15px}.rtTooltipBody{border:0;line-height:1.4;font-size:14px;margin:0;min-height:40px;padding:19px 20px 0 15px}.rtTooltipBody .ch-ref,.rtTooltipBody .verse-ref{font-size:85%;position:relative;top:-1px}.rtTooltipBody .font-style-italic{font-style:italic}.rtTooltipBody .font-style-normal{font-style:normal}.rtTooltipBody .font-caps-all-caps{text-transform:uppercase}.rtTooltipBody .font-caps-all-small-caps{text-transform:uppercase;font-variant:small-caps}.rtTooltipBody .font-caps-small-caps{font-variant:small-caps}.rtTooltipBody .font-caps-normal{text-transform:none;font-variant:normal}.rtTooltipFooter{border:0;font-size:14px;line-height:14px;letter-spacing:normal;padding:22px 32px 12px 15px;text-align:left}.rtTooltipFooter div{text-align:right}.rtTooltipFooter .rtTooltipMoreLink{float:right}.rtTooltipFooter .rtTooltipBrandLink{display:inline-block;margin-right:20px;font-size:10px;text-transform:uppercase}.rtTooltipFooter .rtTooltipBrandLink a{column-gap:4px;letter-spacing:1px;font-weight:600}.rtTooltipFooter .rtTooltipBrandLink .rtTooltipLogosIcon{vertical-align:-.4em}.rtTooltipSocial{float:right}.rtTooltip .rtTooltipSocialIcon{display:inline-block;margin-top:8px;height:19px;width:21px}.rtTooltip,.rtTooltip a,.rtTooltipBody p,.rtTooltipBody span{letter-spacing:normal;margin:0;padding:0}.rtLibronix img{float:none}.libronixLinkImage{border:0;float:none;margin:0 0 0 4px;padding:0}.rtTooltipSocialIcon#rtFacebook:hover{background-position:0 -95px}.rtTooltipSocialIcon#rtFacebook{background-position:0 -76px}.rtTooltipSocialIcon#rtTwitter:hover{background-position:0 -171px}.rtTooltipSocialIcon#rtTwitter{background-position:0 -152px}.rtTooltipSocialIcon.rtDark#rtFacebook:hover{background-position:0 -133px}.rtTooltipSocialIcon.rtDark#rtFacebook{background-position:0 -114px}.rtTooltipSocialIcon.rtDark#rtTwitter:hover{background-position:0 -209px}.rtTooltipSocialIcon.rtDark#rtTwitter{background-position:0 -190px}.rtTooltipHeader{font-family:Arial,Helvetica,serif}.rtTooltipBody{font-family:Helvetica,Arial,serif}.rtTooltipBody .ch-ref{font-weight:700}.rtTooltipFooter{font-family:Helvetica,Arial,serif}.rtTooltipDropShadow .rtContainer{-webkit-box-shadow:0 0 6px 0 #444;-moz-box-shadow:0 0 6px 0 #444;box-shadow:0 0 6px 0 #444}.rtTooltipRoundedCorners .rtContainer{-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;overflow:hidden}.rtTooltipFooter a{font-family:Helvetica,Arial,serif;font-weight:400}.rtTooltipBrandLink a:hover,.rtTooltipBrandLink a:link,.rtTooltipBrandLink a:visited,.rtTooltipMoreLink:hover,.rtTooltipMoreLink:link,.rtTooltipMoreLink:visited{text-decoration:none}.rtLight .rtContainer{background:#fff}.rtLight .rtTooltipHeader{background:#e7e7e7;color:#333}.rtLight .rtTooltipBody{color:#666}.rtLight .rtTooltipBrandLink a:link,.rtLight .rtTooltipBrandLink a:visited{color:#ccc}.rtLight .rtTooltipBrandLink a:hover{color:#666}.rtLight .rtTooltipBrandLink .rtTooltipLogosIcon path{fill:#aaa}.rtLight .rtTooltipBrandLink a:hover .rtTooltipLogosIcon path{fill:#444}.rtLight .rtTooltipMoreLink:link,.rtLight .rtTooltipMoreLink:visited{color:#0080FF}.rtLight .rtTooltipMoreLink:hover{color:#66B2FF}.rtDark .rtContainer{background:#555}.rtDark .rtTooltipHeader{background:#888;color:#eee}.rtDark .rtTooltipBody{color:#fff}.rtDark .rtTooltipBrandLink a:link,.rtDark .rtTooltipBrandLink a:visited{color:#999}.rtDark .rtTooltipBrandLink a:hover{color:#eee}.rtDark .rtTooltipBrandLink .rtTooltipLogosIcon path{fill:#aaa}.rtDark .rtTooltipBrandLink a:hover .rtTooltipLogosIcon path{fill:#fff}.rtDark .rtTooltipMoreLink:link,.rtDark .rtTooltipMoreLink:visited{color:#fff}.rtDark .rtTooltipMoreLink:hover{color:#ccc}.rtTooltipSocialIcon{background:url(https://api.reftagger.com/v2/social-icons.png)}
+.rtTooltipHeader{background-color:#365c7d !important;color:#ffffff !important;}
+</style><meta charset="utf-8"><style type="text/css">:root, :host {
+  --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Solid";
+  --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Regular";
+  --fa-font-light: normal 300 1em/1 "Font Awesome 6 Light";
+  --fa-font-thin: normal 100 1em/1 "Font Awesome 6 Thin";
+  --fa-font-duotone: normal 900 1em/1 "Font Awesome 6 Duotone";
+  --fa-font-sharp-solid: normal 900 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-regular: normal 400 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-light: normal 300 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-thin: normal 100 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+}
+
+svg:not(:root).svg-inline--fa, svg:not(:host).svg-inline--fa {
+  overflow: visible;
+  box-sizing: content-box;
+}
+
+.svg-inline--fa {
+  display: var(--fa-display, inline-block);
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+}
+.svg-inline--fa.fa-2xs {
+  vertical-align: 0.1em;
+}
+.svg-inline--fa.fa-xs {
+  vertical-align: 0em;
+}
+.svg-inline--fa.fa-sm {
+  vertical-align: -0.0714285705em;
+}
+.svg-inline--fa.fa-lg {
+  vertical-align: -0.2em;
+}
+.svg-inline--fa.fa-xl {
+  vertical-align: -0.25em;
+}
+.svg-inline--fa.fa-2xl {
+  vertical-align: -0.3125em;
+}
+.svg-inline--fa.fa-pull-left {
+  margin-right: var(--fa-pull-margin, 0.3em);
+  width: auto;
+}
+.svg-inline--fa.fa-pull-right {
+  margin-left: var(--fa-pull-margin, 0.3em);
+  width: auto;
+}
+.svg-inline--fa.fa-li {
+  width: var(--fa-li-width, 2em);
+  top: 0.25em;
+}
+.svg-inline--fa.fa-fw {
+  width: var(--fa-fw-width, 1.25em);
+}
+
+.fa-layers svg.svg-inline--fa {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.fa-layers-counter, .fa-layers-text {
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+}
+
+.fa-layers {
+  display: inline-block;
+  height: 1em;
+  position: relative;
+  text-align: center;
+  vertical-align: -0.125em;
+  width: 1em;
+}
+.fa-layers svg.svg-inline--fa {
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-text {
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-counter {
+  background-color: var(--fa-counter-background-color, #ff253a);
+  border-radius: var(--fa-counter-border-radius, 1em);
+  box-sizing: border-box;
+  color: var(--fa-inverse, #fff);
+  line-height: var(--fa-counter-line-height, 1);
+  max-width: var(--fa-counter-max-width, 5em);
+  min-width: var(--fa-counter-min-width, 1.5em);
+  overflow: hidden;
+  padding: var(--fa-counter-padding, 0.25em 0.5em);
+  right: var(--fa-right, 0);
+  text-overflow: ellipsis;
+  top: var(--fa-top, 0);
+  -webkit-transform: scale(var(--fa-counter-scale, 0.25));
+          transform: scale(var(--fa-counter-scale, 0.25));
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-bottom-right {
+  bottom: var(--fa-bottom, 0);
+  right: var(--fa-right, 0);
+  top: auto;
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: bottom right;
+          transform-origin: bottom right;
+}
+
+.fa-layers-bottom-left {
+  bottom: var(--fa-bottom, 0);
+  left: var(--fa-left, 0);
+  right: auto;
+  top: auto;
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: bottom left;
+          transform-origin: bottom left;
+}
+
+.fa-layers-top-right {
+  top: var(--fa-top, 0);
+  right: var(--fa-right, 0);
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-top-left {
+  left: var(--fa-left, 0);
+  right: auto;
+  top: var(--fa-top, 0);
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: top left;
+          transform-origin: top left;
+}
+
+.fa-1x {
+  font-size: 1em;
+}
+
+.fa-2x {
+  font-size: 2em;
+}
+
+.fa-3x {
+  font-size: 3em;
+}
+
+.fa-4x {
+  font-size: 4em;
+}
+
+.fa-5x {
+  font-size: 5em;
+}
+
+.fa-6x {
+  font-size: 6em;
+}
+
+.fa-7x {
+  font-size: 7em;
+}
+
+.fa-8x {
+  font-size: 8em;
+}
+
+.fa-9x {
+  font-size: 9em;
+}
+
+.fa-10x {
+  font-size: 10em;
+}
+
+.fa-2xs {
+  font-size: 0.625em;
+  line-height: 0.1em;
+  vertical-align: 0.225em;
+}
+
+.fa-xs {
+  font-size: 0.75em;
+  line-height: 0.0833333337em;
+  vertical-align: 0.125em;
+}
+
+.fa-sm {
+  font-size: 0.875em;
+  line-height: 0.0714285718em;
+  vertical-align: 0.0535714295em;
+}
+
+.fa-lg {
+  font-size: 1.25em;
+  line-height: 0.05em;
+  vertical-align: -0.075em;
+}
+
+.fa-xl {
+  font-size: 1.5em;
+  line-height: 0.0416666682em;
+  vertical-align: -0.125em;
+}
+
+.fa-2xl {
+  font-size: 2em;
+  line-height: 0.03125em;
+  vertical-align: -0.1875em;
+}
+
+.fa-fw {
+  text-align: center;
+  width: 1.25em;
+}
+
+.fa-ul {
+  list-style-type: none;
+  margin-left: var(--fa-li-margin, 2.5em);
+  padding-left: 0;
+}
+.fa-ul > li {
+  position: relative;
+}
+
+.fa-li {
+  left: calc(var(--fa-li-width, 2em) * -1);
+  position: absolute;
+  text-align: center;
+  width: var(--fa-li-width, 2em);
+  line-height: inherit;
+}
+
+.fa-border {
+  border-color: var(--fa-border-color, #eee);
+  border-radius: var(--fa-border-radius, 0.1em);
+  border-style: var(--fa-border-style, solid);
+  border-width: var(--fa-border-width, 0.08em);
+  padding: var(--fa-border-padding, 0.2em 0.25em 0.15em);
+}
+
+.fa-pull-left {
+  float: left;
+  margin-right: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-pull-right {
+  float: right;
+  margin-left: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-beat {
+  -webkit-animation-name: fa-beat;
+          animation-name: fa-beat;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, ease-in-out);
+          animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-bounce {
+  -webkit-animation-name: fa-bounce;
+          animation-name: fa-bounce;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.28, 0.84, 0.42, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.28, 0.84, 0.42, 1));
+}
+
+.fa-fade {
+  -webkit-animation-name: fa-fade;
+          animation-name: fa-fade;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-beat-fade {
+  -webkit-animation-name: fa-beat-fade;
+          animation-name: fa-beat-fade;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-flip {
+  -webkit-animation-name: fa-flip;
+          animation-name: fa-flip;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, ease-in-out);
+          animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-shake {
+  -webkit-animation-name: fa-shake;
+          animation-name: fa-shake;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, linear);
+          animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin {
+  -webkit-animation-name: fa-spin;
+          animation-name: fa-spin;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 2s);
+          animation-duration: var(--fa-animation-duration, 2s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, linear);
+          animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin-reverse {
+  --fa-animation-direction: reverse;
+}
+
+.fa-pulse,
+.fa-spin-pulse {
+  -webkit-animation-name: fa-spin;
+          animation-name: fa-spin;
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, steps(8));
+          animation-timing-function: var(--fa-animation-timing, steps(8));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fa-beat,
+.fa-bounce,
+.fa-fade,
+.fa-beat-fade,
+.fa-flip,
+.fa-pulse,
+.fa-shake,
+.fa-spin,
+.fa-spin-pulse {
+    -webkit-animation-delay: -1ms;
+            animation-delay: -1ms;
+    -webkit-animation-duration: 1ms;
+            animation-duration: 1ms;
+    -webkit-animation-iteration-count: 1;
+            animation-iteration-count: 1;
+    -webkit-transition-delay: 0s;
+            transition-delay: 0s;
+    -webkit-transition-duration: 0s;
+            transition-duration: 0s;
+  }
+}
+@-webkit-keyframes fa-beat {
+  0%, 90% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  45% {
+    -webkit-transform: scale(var(--fa-beat-scale, 1.25));
+            transform: scale(var(--fa-beat-scale, 1.25));
+  }
+}
+@keyframes fa-beat {
+  0%, 90% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  45% {
+    -webkit-transform: scale(var(--fa-beat-scale, 1.25));
+            transform: scale(var(--fa-beat-scale, 1.25));
+  }
+}
+@-webkit-keyframes fa-bounce {
+  0% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  10% {
+    -webkit-transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+            transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+  }
+  30% {
+    -webkit-transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+            transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+  }
+  50% {
+    -webkit-transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+            transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+  }
+  57% {
+    -webkit-transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+            transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+  }
+  64% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  100% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+}
+@keyframes fa-bounce {
+  0% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  10% {
+    -webkit-transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+            transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+  }
+  30% {
+    -webkit-transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+            transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+  }
+  50% {
+    -webkit-transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+            transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+  }
+  57% {
+    -webkit-transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+            transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+  }
+  64% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  100% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+}
+@-webkit-keyframes fa-fade {
+  50% {
+    opacity: var(--fa-fade-opacity, 0.4);
+  }
+}
+@keyframes fa-fade {
+  50% {
+    opacity: var(--fa-fade-opacity, 0.4);
+  }
+}
+@-webkit-keyframes fa-beat-fade {
+  0%, 100% {
+    opacity: var(--fa-beat-fade-opacity, 0.4);
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    -webkit-transform: scale(var(--fa-beat-fade-scale, 1.125));
+            transform: scale(var(--fa-beat-fade-scale, 1.125));
+  }
+}
+@keyframes fa-beat-fade {
+  0%, 100% {
+    opacity: var(--fa-beat-fade-opacity, 0.4);
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    -webkit-transform: scale(var(--fa-beat-fade-scale, 1.125));
+            transform: scale(var(--fa-beat-fade-scale, 1.125));
+  }
+}
+@-webkit-keyframes fa-flip {
+  50% {
+    -webkit-transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+            transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+  }
+}
+@keyframes fa-flip {
+  50% {
+    -webkit-transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+            transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+  }
+}
+@-webkit-keyframes fa-shake {
+  0% {
+    -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+  }
+  4% {
+    -webkit-transform: rotate(15deg);
+            transform: rotate(15deg);
+  }
+  8%, 24% {
+    -webkit-transform: rotate(-18deg);
+            transform: rotate(-18deg);
+  }
+  12%, 28% {
+    -webkit-transform: rotate(18deg);
+            transform: rotate(18deg);
+  }
+  16% {
+    -webkit-transform: rotate(-22deg);
+            transform: rotate(-22deg);
+  }
+  20% {
+    -webkit-transform: rotate(22deg);
+            transform: rotate(22deg);
+  }
+  32% {
+    -webkit-transform: rotate(-12deg);
+            transform: rotate(-12deg);
+  }
+  36% {
+    -webkit-transform: rotate(12deg);
+            transform: rotate(12deg);
+  }
+  40%, 100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+}
+@keyframes fa-shake {
+  0% {
+    -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+  }
+  4% {
+    -webkit-transform: rotate(15deg);
+            transform: rotate(15deg);
+  }
+  8%, 24% {
+    -webkit-transform: rotate(-18deg);
+            transform: rotate(-18deg);
+  }
+  12%, 28% {
+    -webkit-transform: rotate(18deg);
+            transform: rotate(18deg);
+  }
+  16% {
+    -webkit-transform: rotate(-22deg);
+            transform: rotate(-22deg);
+  }
+  20% {
+    -webkit-transform: rotate(22deg);
+            transform: rotate(22deg);
+  }
+  32% {
+    -webkit-transform: rotate(-12deg);
+            transform: rotate(-12deg);
+  }
+  36% {
+    -webkit-transform: rotate(12deg);
+            transform: rotate(12deg);
+  }
+  40%, 100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+}
+@-webkit-keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+@keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+.fa-rotate-90 {
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+
+.fa-rotate-180 {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.fa-rotate-270 {
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
+}
+
+.fa-flip-horizontal {
+  -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1);
+}
+
+.fa-flip-vertical {
+  -webkit-transform: scale(1, -1);
+          transform: scale(1, -1);
+}
+
+.fa-flip-both,
+.fa-flip-horizontal.fa-flip-vertical {
+  -webkit-transform: scale(-1, -1);
+          transform: scale(-1, -1);
+}
+
+.fa-rotate-by {
+  -webkit-transform: rotate(var(--fa-rotate-angle, none));
+          transform: rotate(var(--fa-rotate-angle, none));
+}
+
+.fa-stack {
+  display: inline-block;
+  vertical-align: middle;
+  height: 2em;
+  position: relative;
+  width: 2.5em;
+}
+
+.fa-stack-1x,
+.fa-stack-2x {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: var(--fa-stack-z-index, auto);
+}
+
+.svg-inline--fa.fa-stack-1x {
+  height: 1em;
+  width: 1.25em;
+}
+.svg-inline--fa.fa-stack-2x {
+  height: 2em;
+  width: 2.5em;
+}
+
+.fa-inverse {
+  color: var(--fa-inverse, #fff);
+}
+
+.sr-only,
+.fa-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.sr-only-focusable:not(:focus),
+.fa-sr-only-focusable:not(:focus) {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.svg-inline--fa .fa-primary {
+  fill: var(--fa-primary-color, currentColor);
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa .fa-secondary {
+  fill: var(--fa-secondary-color, currentColor);
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-primary {
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-secondary {
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa mask .fa-primary,
+.svg-inline--fa mask .fa-secondary {
+  fill: black;
+}
+
+.fad.fa-inverse,
+.fa-duotone.fa-inverse {
+  color: var(--fa-inverse, #fff);
+}</style><link href="/favicon.ico" rel="icon"><meta content="width=device-width,initial-scale=1" name="viewport"><meta content="#CDB598" name="theme-color"><meta content="Bethesda Frankel Estate Church" name="description"><link href="/logo192.png" rel="apple-touch-icon"><link href="/manifest.json" rel="manifest"><title>About BFEC | BFEC</title><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-H7239LRYP8"></script><script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-H7239LRYP8")</script><script defer="defer" src="/static/js/main.1b234f6c.js"></script><link href="/static/css/main.596cc955.css" rel="stylesheet"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"><div id="public-viewport"><div id="public-navbar" class="nav-at-top"><div class="logo"><a href="/"><img src="/static/media/bfec-logo-color.98a082a434b6b45eb7f5.png" alt="BFEC"></a></div><div id="nav-body" aria-label="horizontal navbar"><div id="nav-title">Bethesda Frankel Estate Church</div><div id="nav-links"><div class="link"><a class="" href="/get-plugged-in">Get plugged in </a><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-down" class="svg-inline--fa fa-chevron-down " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M233.4 406.6c12.5 12.5 32.8 12.5 45.3 0l192-192c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 338.7 86.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l192 192z"></path></svg></div><a class="link" href="/who-is-jesus">Who is Jesus?</a><div class="link"><a aria-current="page" class="active" href="/our-community">Our Community </a><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-down" class="svg-inline--fa fa-chevron-down " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M233.4 406.6c12.5 12.5 32.8 12.5 45.3 0l192-192c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 338.7 86.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l192 192z"></path></svg></div><div class="link"><a class="" href="/kindergarten">Kindergarten </a><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-down" class="svg-inline--fa fa-chevron-down " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M233.4 406.6c12.5 12.5 32.8 12.5 45.3 0l192-192c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 338.7 86.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l192 192z"></path></svg></div><a class="link" href="/contact-us">Contact Us</a><a class="link last-link" href="/giving">Giving</a></div></div><div id="hamburger-menu" aria-label="burger menu"><div><div class="bm-overlay" style="position: fixed; z-index: 1000; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.3); opacity: 0; transform: translate3d(100%, 0px, 0px); transition: opacity 0.3s ease 0s, transform 0s ease 0.3s;"></div><div><div class="bm-burger-button" style="z-index: 1000;"><button type="button" id="react-burger-menu-btn" style="position: absolute; left: 0px; top: 0px; z-index: 1; width: 100%; height: 100%; margin: 0px; padding: 0px; border: none; font-size: 0px; background: transparent; cursor: pointer;">Open Menu</button><span><span class="bm-burger-bars" style="position: absolute; height: 20%; left: 0px; right: 0px; top: 0%; opacity: 1;"></span><span class="bm-burger-bars" style="position: absolute; height: 20%; left: 0px; right: 0px; top: 40%; opacity: 1;"></span><span class="bm-burger-bars" style="position: absolute; height: 20%; left: 0px; right: 0px; top: 80%; opacity: 1;"></span></span></div></div><div id="" class="bm-menu-wrap" aria-hidden="true" hidden="true" style="position: fixed; right: 0px; z-index: 1100; width: 300px; height: 100%; transform: translate3d(100%, 0px, 0px); transition: all 0.5s ease 0s;"><div class="bm-menu" style="height: 100%; box-sizing: border-box; overflow: auto;"><nav class="bm-item-list" style="height: 100%;"><a class="" href="/">Home</a><div class="bm-item burger-submenu" tabindex="-1" style="display: block;"><div class="subheader">Get plugged in</div><a class="" href="/get-plugged-in/latest">&nbsp;&nbsp;—&nbsp;&nbsp;Latest</a><a class="" href="/get-plugged-in/sermons">&nbsp;&nbsp;—&nbsp;&nbsp;Sermons</a><a class="" href="/get-plugged-in/members">&nbsp;&nbsp;—&nbsp;&nbsp;For Members</a></div><a class="" href="/who-is-jesus">Who is Jesus?</a><div class="bm-item burger-submenu" tabindex="-1" style="display: block;"><div class="subheader">Our Community</div><a class="active" href="/our-community/bfec">&nbsp;&nbsp;—&nbsp;&nbsp;About BFEC</a><a class="" href="/our-community/people">&nbsp;&nbsp;—&nbsp;&nbsp;People</a><a class="" href="/our-community/ministries">&nbsp;&nbsp;—&nbsp;&nbsp;Ministries</a><a class="" href="/our-community/testimonies">&nbsp;&nbsp;—&nbsp;&nbsp;Testimonies</a><a class="" href="https://bfec.smugmug.com/" target="_blank" rel="noopener noreferrer">&nbsp;&nbsp;—&nbsp;&nbsp;Photo Gallery<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-up-right-from-square" class="svg-inline--fa fa-arrow-up-right-from-square " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="margin-left: 12px;"><path fill="currentColor" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"></path></svg></a><a class="" href="http://bfec.sg/ready" target="_blank" rel="noopener noreferrer">&nbsp;&nbsp;—&nbsp;&nbsp;READY Magazine<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-up-right-from-square" class="svg-inline--fa fa-arrow-up-right-from-square " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="margin-left: 12px;"><path fill="currentColor" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"></path></svg></a></div><div class="bm-item burger-submenu" tabindex="-1" style="display: block;"><div class="subheader">Kindergarten</div><a class="" href="/kindergarten/#testimonials">&nbsp;&nbsp;—&nbsp;&nbsp;Testimonials</a><a class="" href="/kindergarten/#about-us">&nbsp;&nbsp;—&nbsp;&nbsp;About Us</a><a class="" href="/kindergarten/#achievements">&nbsp;&nbsp;—&nbsp;&nbsp;Achievements</a><a class="" href="/kindergarten/#programme">&nbsp;&nbsp;—&nbsp;&nbsp;Our Programme</a><a class="" href="https://parent.focusit.sg/bkk/parent_login.php?redirect=/bkk/index.php" target="_blank" rel="noopener noreferrer">&nbsp;&nbsp;—&nbsp;&nbsp;Parents’ Portal<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-up-right-from-square" class="svg-inline--fa fa-arrow-up-right-from-square " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="margin-left: 12px;"><path fill="currentColor" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"></path></svg></a></div><a class="" href="/contact-us">Contact Us</a><a class="" href="/giving">Giving</a></nav></div><div><div class="bm-cross-button" style="position: absolute; width: 24px; height: 24px; right: 8px; top: 8px;"><button type="button" id="react-burger-cross-btn" tabindex="-1" style="position: absolute; left: 0px; top: 0px; z-index: 1; width: 100%; height: 100%; margin: 0px; padding: 0px; border: none; font-size: 0px; background: transparent; cursor: pointer;">Close Menu</button><span style="position: absolute; top: 6px; right: 14px;"><span class="bm-cross" style="position: absolute; width: 3px; height: 14px; transform: rotate(45deg);"></span><span class="bm-cross" style="position: absolute; width: 3px; height: 14px; transform: rotate(-45deg);"></span></span></div></div></div></div></div></div><main id="container"><div class="hero hero-with-children" style="height: 346.265px;"><img src="/static/media/about-bfec-01.5c56353f542e4adaef6e.jpg" alt="" class="hero-image"><div class="hero-content"><div class="hero-text-container align-top-right"><div class="hero-text ">About BFEC</div></div></div></div><div class="content-holder"><div><h2>Where Every Face is Familiar</h2><p>This page is all about us—our story, our beliefs, and the practices we uphold as a church.</p><p>Nestled within the East Coast, Bethesda Frankel Estate Church has come to be known for its warm, family feel, where newcomers are always welcomed with smiles and open arms. And if you want to know what that’s like, there are many ways to do so! Our <a href="/our-community/ministries">ministries</a> and cell groups offer spaces for people of different age groups and interests to gather in small groups, to build meaningful relationships with fellow brothers and sisters in Christ. Or join us on a Sunday, when we gather as a larger family to worship. Our <a href="/contact-us">worship services</a> include both traditional and contemporary Christian songs, and we practise the Lord’s Supper weekly.</p><p>We hope you will feel at home here with us!</p></div><div><h2>Mission, Vision, Values</h2><h3>Our Vision</h3><p>“To be the bride of Christ ready at His return.”</p><h3>Our Mission</h3>“We spur one another to grow as disciples of Christ living out fully God’s purposes for our lives.”<h3>Our Core Faith Values</h3><table id="core-faith-values"><tbody><tr><th>R</th><td>Rooted in the Living Word</td></tr><tr><th>E</th><td>Empowered by the Holy Spirit</td></tr><tr><th>A</th><td>Abiding in Christ only</td></tr><tr><th>D</th><td>Daring to Hope and Love</td></tr><tr><th>Y</th><td>Yielding Fruit To God’s Glory</td></tr></tbody></table></div><div><h2>What denomination do we belong to?</h2><p>Bethesda Frankel Estate Church has its roots in the modern Christian Brethren movement. It began in early 19th century Britain, when Christians from various churches met in non-denominational groups for Bible study, prayer, worship, and witness. Philip Robinson, an English merchant who founded the commercial Robinsons, formed the first Brethren congregation in Singapore in 1864. Other Brethren churches include Bethesda Katong Church, Bethesda Bedok-Tampines Church, and Bethesda Pasir Ris Mission Church.</p><p>A key tenet of the Brethren movement is that Christ is the recognised head of the church, not any person, group or religious organisation. Thus, we believe that each church should be self-governing and autonomous, determining their own strategy, structure, and style. This is why our sister churches, while we may share the name ‘Bethesda’, each have their distinct identity. Each church comes under the direction of their own council of elders and deacons, and you can find out more about ours <a href="/our-community/people">here</a>.</p></div><div><h2>What’s our story?</h2><div id="our-story"><div class="timeline-item"><div class="timeline-item-date">1953</div><div class="timeline-item-text">The seeds were first sown when Bethesda (Katong) Church opened the Bethesda Katong Kindergarten as part of their vision of an outreach at Frankel Estate.</div></div><div class="timeline-item"><div class="timeline-item-date">1958</div><div class="timeline-item-text">Those seeds were tended to and watered by the newly formed Frankel Committee. Running separately from the Kindergarten, they organised Gospel meetings and Lord’s Supper services.</div></div><div class="timeline-item"><div class="timeline-item-date">1964</div><div class="timeline-item-text">We got a new home! The Bethesda (Frankel Estate) Church building on 4 La Salle Street as we know it today was dedicated and opened on 21 November 1964, to accommodate our larger and growing family.</div></div><div class="timeline-item"><div class="timeline-item-date">1973</div><div class="timeline-item-text">All grown up! Bethesda (Frankel Estate) Church gains full autonomy from Bethesda (Katong) Church.</div></div></div></div><div class="about-bfec-btns"><h2>What do we believe?</h2><div class="about-bfec-btns-content"><div class="row"><div aria-label="About God" class="info-btn info-btn-selected"><svg aria-hidden="true" focusable="false" data-prefix="fat" data-icon="hand-holding-seedling" class="svg-inline--fa fa-hand-holding-seedling " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M96 24c0-13.3 10.7-24 24-24h24c83.9 0 152 68.1 152 152v16 96c0 4.4-3.6 8-8 8s-8-3.6-8-8V176H248C164.1 176 96 107.9 96 24zM280 160v-8c0-75.1-60.9-136-136-136H120c-4.4 0-8 3.6-8 8c0 75.1 60.9 136 136 136h32zM555.3 345.8c-7.9-10.7-22.9-12.9-33.6-5.1L404.2 427.3c-4.1 3-9.1 4.7-14.2 4.7H268c-15.5 0-28-12.5-28-28s12.5-28 28-28h80c11 0 20-9 20-20s-9-20-20-20H193.7c-25.4 0-50.1 8.7-70 24.5L81 394.7c-4.3 3.4-9.5 5.3-15 5.3H8c-4.4 0-8-3.6-8-8s3.6-8 8-8H66c1.8 0 3.6-.6 5-1.8L113.7 348c22.7-18.2 50.9-28 80-28H348c19.9 0 36 16.1 36 36s-16.1 36-36 36H268c-6.6 0-12 5.4-12 12s5.4 12 12 12H389.9c1.7 0 3.4-.5 4.7-1.6l117.6-86.6c17.8-13.1 42.8-9.3 55.9 8.5s9.3 42.8-8.5 55.9L433.1 485.5c-23.4 17.2-51.6 26.5-80.7 26.5H8c-4.4 0-8-3.6-8-8s3.6-8 8-8H352.5c25.6 0 50.6-8.2 71.2-23.4l126.6-93.3c10.7-7.9 12.9-22.9 5.1-33.6zM480 24c0 83.9-68.1 152-152 152v-8-8c75.1 0 136-60.9 136-136c0-4.4-3.6-8-8-8H432c-50 0-93.7 27-117.3 67.2c-2.4-5.9-5.1-11.6-8-17.2C334.1 26.1 380 0 432 0h24c13.3 0 24 10.7 24 24z"></path></svg></div><div aria-label="About Jesus Christ" class="info-btn "><svg aria-hidden="true" focusable="false" data-prefix="fat" data-icon="cross" class="svg-inline--fa fa-cross " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path fill="currentColor" d="M128 32c0-17.7 14.3-32 32-32h64c17.7 0 32 14.3 32 32v96h96c17.7 0 32 14.3 32 32v64c0 17.7-14.3 32-32 32H256V480c0 17.7-14.3 32-32 32H160c-17.7 0-32-14.3-32-32V256H32c-17.7 0-32-14.3-32-32V160c0-17.7 14.3-32 32-32h96V32zm32-16c-8.8 0-16 7.2-16 16V136c0 4.4-3.6 8-8 8H32c-8.8 0-16 7.2-16 16v64c0 8.8 7.2 16 16 16H136c4.4 0 8 3.6 8 8V480c0 8.8 7.2 16 16 16h64c8.8 0 16-7.2 16-16V248c0-4.4 3.6-8 8-8H352c8.8 0 16-7.2 16-16V160c0-8.8-7.2-16-16-16H248c-4.4 0-8-3.6-8-8V32c0-8.8-7.2-16-16-16H160z"></path></svg></div><div aria-label="About the Holy Spirit" class="info-btn "><svg aria-hidden="true" focusable="false" data-prefix="fat" data-icon="wind" class="svg-inline--fa fa-wind " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M288 8c0 4.4 3.6 8 8 8h64c39.8 0 72 32.2 72 72s-32.2 72-72 72H8c-4.4 0-8 3.6-8 8s3.6 8 8 8H360c48.6 0 88-39.4 88-88s-39.4-88-88-88H296c-4.4 0-8 3.6-8 8zm64 400c0 4.4 3.6 8 8 8h68c46.4 0 84-37.6 84-84s-37.6-84-84-84H8c-4.4 0-8 3.6-8 8s3.6 8 8 8H428c37.6 0 68 30.4 68 68s-30.4 68-68 68H360c-4.4 0-8 3.6-8 8zM104 512h64c48.6 0 88-39.4 88-88s-39.4-88-88-88H8c-4.4 0-8 3.6-8 8s3.6 8 8 8H168c39.8 0 72 32.2 72 72s-32.2 72-72 72H104c-4.4 0-8 3.6-8 8s3.6 8 8 8z"></path></svg></div><div aria-label="About the Bible" class="info-btn "><svg aria-hidden="true" focusable="false" data-prefix="fat" data-icon="book-bible" class="svg-inline--fa fa-book-bible " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M0 56C0 25.1 25.1 0 56 0H408c22.1 0 40 17.9 40 40V376c0 19.4-13.7 35.5-32 39.2V496h24c4.4 0 8 3.6 8 8s-3.6 8-8 8H56c-30.9 0-56-25.1-56-56V56zM56 416c-22.1 0-40 17.9-40 40s17.9 40 40 40H400V416H56zm-40 .8C26.2 406.4 40.3 400 56 400H408c13.3 0 24-10.7 24-24V40c0-13.3-10.7-24-24-24H56C33.9 16 16 33.9 16 56V416.8zM224 80h32c13.3 0 24 10.7 24 24v40h40c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H280v88c0 13.3-10.7 24-24 24H224c-13.3 0-24-10.7-24-24V224H160c-13.3 0-24-10.7-24-24V168c0-13.3 10.7-24 24-24h40V104c0-13.3 10.7-24 24-24zm-8 24v48c0 4.4-3.6 8-8 8H160c-4.4 0-8 3.6-8 8v32c0 4.4 3.6 8 8 8h48c4.4 0 8 3.6 8 8v96c0 4.4 3.6 8 8 8h32c4.4 0 8-3.6 8-8V216c0-4.4 3.6-8 8-8h48c4.4 0 8-3.6 8-8V168c0-4.4-3.6-8-8-8H272c-4.4 0-8-3.6-8-8V104c0-4.4-3.6-8-8-8H224c-4.4 0-8 3.6-8 8z"></path></svg></div><div aria-label="About Human Beings" class="info-btn "><svg aria-hidden="true" focusable="false" data-prefix="fat" data-icon="person" class="svg-inline--fa fa-person " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M160 96a40 40 0 1 0 0-80 40 40 0 1 0 0 80zm0-96a56 56 0 1 1 0 112A56 56 0 1 1 160 0zM141.1 144c-21.5 0-41.1 12.3-50.4 31.7L23.2 315.5c-1.9 4-6.7 5.6-10.7 3.7s-5.6-6.7-3.7-10.7L76.3 168.7c12-24.9 37.2-40.7 64.8-40.7h37.8c27.6 0 52.8 15.8 64.8 40.7l67.5 139.8c1.9 4 .3 8.8-3.7 10.7s-8.8 .3-10.7-3.7L229.3 175.7C220 156.3 200.4 144 178.9 144H141.1zM104 248V480c0 8.8 7.2 16 16 16s16-7.2 16-16V360c0-13.3 10.7-24 24-24s24 10.7 24 24V480c0 8.8 7.2 16 16 16s16-7.2 16-16V248c0-4.4 3.6-8 8-8s8 3.6 8 8V480c0 17.7-14.3 32-32 32s-32-14.3-32-32V360c0-4.4-3.6-8-8-8s-8 3.6-8 8V480c0 17.7-14.3 32-32 32s-32-14.3-32-32V248c0-4.4 3.6-8 8-8s8 3.6 8 8z"></path></svg></div><div aria-label="About Salvation" class="info-btn "><svg aria-hidden="true" focusable="false" data-prefix="fat" data-icon="life-ring" class="svg-inline--fa fa-life-ring " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M420 431.3C377.1 471.4 319.4 496 256 496s-121.1-24.6-164-64.7l102-102c16.7 14.2 38.4 22.7 62 22.7s45.3-8.5 62-22.7l102 102zM431.3 420l-102-102c14.2-16.7 22.7-38.4 22.7-62s-8.5-45.3-22.7-62l102-102C471.4 134.9 496 192.6 496 256s-24.6 121.1-64.7 164zm11.3 11.3C485.6 385.5 512 323.8 512 256s-26.4-129.5-69.4-175.3l11.1-11.1c3.1-3.1 3.1-8.2 0-11.3s-8.2-3.1-11.3 0L431.3 69.4C385.5 26.4 323.8 0 256 0S126.5 26.4 80.7 69.4L69.7 58.3c-3.1-3.1-8.2-3.1-11.3 0s-3.1 8.2 0 11.3L69.4 80.7C26.4 126.5 0 188.2 0 256s26.4 129.5 69.4 175.3L58.3 442.3c-3.1 3.1-3.1 8.2 0 11.3s8.2 3.1 11.3 0l11.1-11.1C126.5 485.6 188.2 512 256 512s129.5-26.4 175.3-69.4l11.1 11.1c3.1 3.1 8.2 3.1 11.3 0s3.1-8.2 0-11.3l-11.1-11.1zM420 80.7l-102 102c-16.7-14.2-38.4-22.7-62-22.7s-45.3 8.5-62 22.7L92 80.7C134.9 40.6 192.6 16 256 16s121.1 24.6 164 64.7zM182.7 318L80.7 420C40.6 377.1 16 319.4 16 256s24.6-121.1 64.7-164l102 102c-14.2 16.7-22.7 38.4-22.7 62s8.5 45.3 22.7 62zM176 256a80 80 0 1 1 160 0 80 80 0 1 1 -160 0z"></path></svg></div><div aria-label="About Eternal Security" class="info-btn "><svg aria-hidden="true" focusable="false" data-prefix="fat" data-icon="lock" class="svg-inline--fa fa-lock " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M112 128v64H336V128c0-61.9-50.1-112-112-112s-112 50.1-112 112zM96 192V128C96 57.3 153.3 0 224 0s128 57.3 128 128v64h32c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V256c0-35.3 28.7-64 64-64H96zm0 16H64c-26.5 0-48 21.5-48 48V448c0 26.5 21.5 48 48 48H384c26.5 0 48-21.5 48-48V256c0-26.5-21.5-48-48-48H352 336 112 96z"></path></svg></div><div aria-label="About Eternity" class="info-btn "><svg aria-hidden="true" focusable="false" data-prefix="fat" data-icon="infinity" class="svg-inline--fa fa-infinity " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M0 240.2C0 169.4 57.4 112 128.2 112c32.7 0 64.2 12.5 88 35L320 245l103.8-98c23.8-22.5 55.3-35 88-35C582.6 112 640 169.4 640 240.2v31.6C640 342.6 582.6 400 511.8 400c-32.7 0-64.2-12.5-88-35L320 267 216.2 365c-23.8 22.5-55.3 35-88 35C57.4 400 0 342.6 0 271.8V240.2zM308.3 256L205.3 158.6c-20.8-19.7-48.4-30.6-77-30.6C66.2 128 16 178.2 16 240.2v31.6C16 333.8 66.2 384 128.2 384c28.7 0 56.2-11 77-30.6L308.3 256zm23.3 0l103.1 97.4c20.8 19.7 48.4 30.6 77 30.6c62 0 112.2-50.2 112.2-112.2V240.2c0-62-50.2-112.2-112.2-112.2c-28.6 0-56.2 11-77 30.6L331.7 256z"></path></svg></div></div><div><h3>About God</h3><p>God is the Creator and Ruler of the universe. He has eternally existed in three persons: the Father, the Son and the Holy Spirit. These three are co-equal and are one God.</p><p><a class="rtBibleRef" href="https://biblia.com/bible/esv/Gen%201.1" data-reference="Gen 1.1" data-version="esv" data-purpose="bible-reference" target="_blank" rel="noopener">Genesis 1:1</a>, <a class="rtBibleRef" href="https://biblia.com/bible/esv/Genesis%201.26" data-reference="Genesis 1.26" data-version="esv" data-purpose="bible-reference" target="_blank" rel="noopener">26</a>, <a class="rtBibleRef" href="https://biblia.com/bible/esv/Genesis%201.27" data-reference="Genesis 1.27" data-version="esv" data-purpose="bible-reference" target="_blank" rel="noopener">27</a>; <a class="rtBibleRef" href="https://biblia.com/bible/esv/Genesis%203.22" data-reference="Genesis 3.22" data-version="esv" data-purpose="bible-reference" target="_blank" rel="noopener">3:22</a>; <a class="rtBibleRef" href="https://biblia.com/bible/esv/Ps%2090.2" data-reference="Ps 90.2" data-version="esv" data-purpose="bible-reference" target="_blank" rel="noopener">Psalm 90:2</a>; <a class="rtBibleRef" href="https://biblia.com/bible/esv/Matt%2028.19" data-reference="Matt 28.19" data-version="esv" data-purpose="bible-reference" target="_blank" rel="noopener">Matthew 28:19</a>; <a class="rtBibleRef" href="https://biblia.com/bible/esv/1%20Pet%201.2" data-reference="1 Pet 1.2" data-version="esv" data-purpose="bible-reference" target="_blank" rel="noopener">1 Peter 1:2</a>; <a class="rtBibleRef" href="https://biblia.com/bible/esv/2%20Cor%2013.14" data-reference="2 Cor 13.14" data-version="esv" data-purpose="bible-reference" target="_blank" rel="noopener">2 Corinthians 13:14</a></p></div></div></div><div class="about-bfec-btns"><h2>What do we practise?</h2><div class="about-bfec-btns-content"><div class="row"><div aria-label="Bible As Our Sole Authority" class="info-btn info-btn-selected"><svg aria-hidden="true" focusable="false" data-prefix="fat" data-icon="book-bible" class="svg-inline--fa fa-book-bible " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M0 56C0 25.1 25.1 0 56 0H408c22.1 0 40 17.9 40 40V376c0 19.4-13.7 35.5-32 39.2V496h24c4.4 0 8 3.6 8 8s-3.6 8-8 8H56c-30.9 0-56-25.1-56-56V56zM56 416c-22.1 0-40 17.9-40 40s17.9 40 40 40H400V416H56zm-40 .8C26.2 406.4 40.3 400 56 400H408c13.3 0 24-10.7 24-24V40c0-13.3-10.7-24-24-24H56C33.9 16 16 33.9 16 56V416.8zM224 80h32c13.3 0 24 10.7 24 24v40h40c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H280v88c0 13.3-10.7 24-24 24H224c-13.3 0-24-10.7-24-24V224H160c-13.3 0-24-10.7-24-24V168c0-13.3 10.7-24 24-24h40V104c0-13.3 10.7-24 24-24zm-8 24v48c0 4.4-3.6 8-8 8H160c-4.4 0-8 3.6-8 8v32c0 4.4 3.6 8 8 8h48c4.4 0 8 3.6 8 8v96c0 4.4 3.6 8 8 8h32c4.4 0 8-3.6 8-8V216c0-4.4 3.6-8 8-8h48c4.4 0 8-3.6 8-8V168c0-4.4-3.6-8-8-8H272c-4.4 0-8-3.6-8-8V104c0-4.4-3.6-8-8-8H224c-4.4 0-8 3.6-8 8z"></path></svg></div><div aria-label="Autonomy Of Each Local Church" class="info-btn "><svg aria-hidden="true" focusable="false" data-prefix="fat" data-icon="church" class="svg-inline--fa fa-church " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M328 8c0-4.4-3.6-8-8-8s-8 3.6-8 8V48H264c-4.4 0-8 3.6-8 8s3.6 8 8 8h48v59.6L186.1 203.1c-16.2 10.3-26.1 28.1-26.1 47.3V496H56c-22.1 0-40-17.9-40-40V385.7c0-13.4 6.7-25.9 17.8-33.3l98.6-65.7c3.7-2.5 4.7-7.4 2.2-11.1s-7.4-4.7-11.1-2.2L24.9 339.1C9.4 349.5 0 367 0 385.7V456c0 30.9 25.1 56 56 56H176c.1 0 .2 0 .3 0H256h16 96 16 88c.1 0 .2 0 .3 0H584c30.9 0 56-25.1 56-56V385.7c0-18.7-9.4-36.2-24.9-46.6l-98.6-65.7c-3.7-2.5-8.6-1.5-11.1 2.2s-1.5 8.6 2.2 11.1l98.6 65.8c11.1 7.4 17.8 19.9 17.8 33.3V456c0 22.1-17.9 40-40 40H480V250.5c0-19.2-9.8-37.1-26.1-47.3L328 123.6V64h48c4.4 0 8-3.6 8-8s-3.6-8-8-8H328V8zM464 496c-.1 0-.2 0-.3 0H384V384c0-35.3-28.7-64-64-64s-64 28.7-64 64V496H176V250.5c0-13.7 7-26.5 18.6-33.8L320 137.5l125.4 79.2C457 224 464 236.7 464 250.5V496zM368 384V496H272V384c0-26.5 21.5-48 48-48s48 21.5 48 48z"></path></svg></div><div aria-label="Priesthood Of Every Believer" class="info-btn "><svg aria-hidden="true" focusable="false" data-prefix="fat" data-icon="people-group" class="svg-inline--fa fa-people-group " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M88 88a40 40 0 1 1 80 0A40 40 0 1 1 88 88zm96 0A56 56 0 1 0 72 88a56 56 0 1 0 112 0zm288 0a40 40 0 1 1 80 0 40 40 0 1 1 -80 0zm96 0A56 56 0 1 0 456 88a56 56 0 1 0 112 0zM64 256c-4.4 0-8 3.6-8 8v98.2c-24.2-16.9-40-45-40-76.7c0-51.7 41.9-93.5 93.5-93.5h36.9c18.8 0 36.3 5.6 51 15.1c3.7-4 7.6-7.8 11.7-11.4c-17.8-12.4-39.4-19.7-62.7-19.7H109.5C49 176 0 225 0 285.5c0 41.1 22.6 76.8 56 95.6V432c0 17.7 14.3 32 32 32h80c17.7 0 32-14.3 32-32V403.6c-5.9-6.2-11.3-12.8-16-20V432c0 8.8-7.2 16-16 16H88c-8.8 0-16-7.2-16-16V264c0-4.4-3.6-8-8-8zM440 432c0 17.7 14.3 32 32 32h80c17.7 0 32-14.3 32-32V381.1c33.4-18.7 56-54.5 56-95.6C640 225 591 176 530.5 176H493.5c-23.3 0-44.9 7.3-62.7 19.7c4.1 3.6 8 7.4 11.7 11.4c14.7-9.6 32.2-15.1 51-15.1h36.9c51.7 0 93.5 41.9 93.5 93.5c0 31.7-15.8 59.8-40 76.7V264c0-4.4-3.6-8-8-8s-8 3.6-8 8V432c0 8.8-7.2 16-16 16H472c-8.8 0-16-7.2-16-16V383.6c-4.7 7.1-10.1 13.8-16 20V432zM272 96a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zm112 0A64 64 0 1 0 256 96a64 64 0 1 0 128 0zM256 272c-4.4 0-8 3.6-8 8v98.2c-24.2-16.9-40-45-40-76.7c0-51.7 41.9-93.5 93.5-93.5h36.9c51.7 0 93.5 41.9 93.5 93.5c0 31.7-15.8 59.8-40 76.7V280c0-4.4-3.6-8-8-8s-8 3.6-8 8V448c0 8.8-7.2 16-16 16H280c-8.8 0-16-7.2-16-16V280c0-4.4-3.6-8-8-8zm-8 125.1V448c0 17.7 14.3 32 32 32h80c17.7 0 32-14.3 32-32V397.1c33.4-18.7 56-54.5 56-95.6C448 241 399 192 338.5 192H301.5C241 192 192 241 192 301.5c0 41.1 22.6 76.8 56 95.6z"></path></svg></div><div aria-label="Tithing" class="info-btn "><svg aria-hidden="true" focusable="false" data-prefix="fat" data-icon="hands-holding-dollar" class="svg-inline--fa fa-hands-holding-dollar " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M328 8c0-4.4-3.6-8-8-8s-8 3.6-8 8V32.3c-11.4 .9-23.5 4.2-33.5 10.4c-12.8 7.9-22.5 20.9-22.4 39.4c.1 17 9.2 28.1 21.2 35.7c11.1 7 25.5 11.6 38.7 15.8l1.4 .5c14.2 4.5 27 8.7 36.4 14.9c8.9 5.9 14 13 14.2 23.8c.2 12.9-5.6 21.5-14.3 27.1c-9 5.9-21.4 8.6-33.4 8.2c-15.4-.5-29.8-5.7-45.6-11.3c-2.6-.9-5.3-1.9-8-2.9c-4.2-1.5-8.7 .7-10.2 4.9s.7 8.7 4.9 10.2c2.5 .9 5 1.8 7.6 2.7l0 0 0 0 0 0c13.4 4.8 27.8 10 43.1 11.8l0 24.6c0 4.4 3.6 8 8 8s8-3.6 8-8V223.8c12-.7 24.3-4 34.4-10.6c12.8-8.3 21.8-21.9 21.6-40.7c-.2-17.5-9.2-29-21.3-37c-11.6-7.7-26.7-12.4-40.4-16.8l-.2-.1c-14.2-4.5-26.9-8.5-36.2-14.4C277 98.6 272.1 92 272.1 82c-.1-11.9 5.8-20.1 14.8-25.7c9.3-5.8 21.7-8.5 33-8.3c13 .2 26.7 3.2 40 6.9c4.3 1.2 8.7-1.3 9.9-5.6s-1.3-8.7-5.6-9.9c-11.3-3.2-23.7-6-36.2-7V8zM96 112c0-26.5-21.5-48-48-48S0 85.5 0 112V344.2c0 27.6 11 54 30.5 73.5l91.9 91.9c3.1 3.1 8.2 3.1 11.3 0s3.1-8.2 0-11.3L41.8 406.5C25.3 390 16 367.6 16 344.2V112c0-17.7 14.3-32 32-32s32 14.3 32 32V259c0 20.7 8.2 40.6 22.9 55.2l19.5 19.5 55.9 55.9 0 0 8 8c3.1 3.1 8.2 3.1 11.3 0s3.1-8.2 0-11.3l-8-8 0 0-55.9-55.9 0 0c-10.6-10.6-11.3-27.6-1.5-39.1c10.9-12.7 30.3-13.5 42.2-1.6l92.8 92.7c13.3 13.3 20.8 31.4 20.8 50.3V504c0 4.4 3.6 8 8 8s8-3.6 8-8V424.8c0-23.1-9.2-45.3-25.5-61.6l-92.8-92.8c-18.4-18.4-48.7-17.3-65.6 2.5c-6.2 7.2-9.7 15.9-10.6 24.7C100.8 286.7 96 273.1 96 259V112zM592 64c-26.5 0-48 21.5-48 48V259c0 14.1-4.8 27.8-13.5 38.7c-.9-8.8-4.4-17.5-10.6-24.7c-17-19.8-47.2-21-65.6-2.5l-92.7 92.8c-16.3 16.3-25.5 38.5-25.5 61.6V504c0 4.4 3.6 8 8 8s8-3.6 8-8V424.8c0-18.9 7.5-37 20.8-50.3l92.8-92.7c11.8-11.9 31.3-11.1 42.2 1.6c9.8 11.4 9.1 28.4-1.5 39.1l0 0-55.9 55.9 0 0-8 8c-3.1 3.1-3.1 8.2 0 11.3s8.2 3.1 11.3 0l8-8 55.9-55.9 19.5-19.5C551.8 299.5 560 279.7 560 259V112c0-17.7 14.3-32 32-32s32 14.3 32 32V344.2c0 23.3-9.3 45.7-25.8 62.2l-91.9 91.9c-3.1 3.1-3.1 8.2 0 11.3s8.2 3.1 11.3 0l91.9-91.9c19.5-19.5 30.5-46 30.5-73.5V112c0-26.5-21.5-48-48-48z"></path></svg></div><div aria-label="Immersion" class="info-btn "><svg aria-hidden="true" focusable="false" data-prefix="fat" data-icon="droplet" class="svg-inline--fa fa-droplet " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path fill="currentColor" d="M192 496C94.8 496 16 417.2 16 320c0-19.5 7.1-44.9 19.6-73.8c12.4-28.6 29.3-59.2 47.7-88.8c36.6-59.2 77.9-112.9 95.9-135.7c2.8-3.5 7-5.6 11.9-5.6h1.8c4.9 0 9.1 2.1 11.9 5.6c18.1 22.8 59.3 76.6 95.9 135.7c18.3 29.6 35.3 60.2 47.7 88.8C360.9 275.1 368 300.5 368 320c0 97.2-78.8 176-176 176zM0 320C0 426 86 512 192 512s192-86 192-192c0-91.2-130.2-262.3-166.6-308.3C211.4 4.2 202.5 0 192.9 0h-1.8c-9.6 0-18.5 4.2-24.5 11.7C130.2 57.7 0 228.8 0 320zm104 0c0-4.4-3.6-8-8-8s-8 3.6-8 8c0 57.4 46.6 104 104 104c4.4 0 8-3.6 8-8s-3.6-8-8-8c-48.6 0-88-39.4-88-88z"></path></svg></div><div aria-label="Spirit-led Living" class="info-btn "><svg aria-hidden="true" focusable="false" data-prefix="fat" data-icon="wind" class="svg-inline--fa fa-wind " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M288 8c0 4.4 3.6 8 8 8h64c39.8 0 72 32.2 72 72s-32.2 72-72 72H8c-4.4 0-8 3.6-8 8s3.6 8 8 8H360c48.6 0 88-39.4 88-88s-39.4-88-88-88H296c-4.4 0-8 3.6-8 8zm64 400c0 4.4 3.6 8 8 8h68c46.4 0 84-37.6 84-84s-37.6-84-84-84H8c-4.4 0-8 3.6-8 8s3.6 8 8 8H428c37.6 0 68 30.4 68 68s-30.4 68-68 68H360c-4.4 0-8 3.6-8 8zM104 512h64c48.6 0 88-39.4 88-88s-39.4-88-88-88H8c-4.4 0-8 3.6-8 8s3.6 8 8 8H168c39.8 0 72 32.2 72 72s-32.2 72-72 72H104c-4.4 0-8 3.6-8 8s3.6 8 8 8z"></path></svg></div><div aria-label="Telling Others About Christ" class="info-btn "><svg aria-hidden="true" focusable="false" data-prefix="fat" data-icon="comments" class="svg-inline--fa fa-comments " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M16 176C16 90 99.4 16 208 16s192 74 192 160s-83.4 160-192 160c-35.3 0-69.6-8.4-101.3-24c-2.3-1.1-5-1.1-7.3 .1C73.3 325.9 44.8 336 16 336l.1-.1c18.7-14.2 32.2-33.9 40.2-55.4c1-2.7 .5-5.8-1.4-8C31.1 244.8 16 212.1 16 176zM208 0C93.1 0 0 78.8 0 176c0 39.2 15.7 74.1 39.6 103.2C32.4 296.5 21.2 312 6.5 323.1C1 327.2-1.3 334.4 .8 340.9C2.9 347.5 9.1 352 16 352c31 0 60.8-10.3 87.3-23.9C136.1 343.6 171.5 352 208 352c114.9 0 208-78.8 208-176S322.9 0 208 0zM448 176.5c100.7 6.8 176 77.8 176 159.5c0 36.1-15.1 68.9-38.9 96.5c-1.9 2.2-2.4 5.3-1.4 8c8 21.5 21.4 41.2 40.2 55.4l.1 .1c-28.8 0-57.3-10.1-83.4-23.9c-2.3-1.2-5-1.2-7.3-.1c-31.7 15.7-65.9 24-101.3 24c-89 0-161-49.7-184.2-114.9c-5.4 .8-10.8 1.4-16.3 1.9C255.8 457.4 336.3 512 432 512c36.5 0 71.9-8.4 104.7-23.9C563.2 501.7 593 512 624 512c6.9 0 13.1-4.5 15.2-11.1c2.1-6.6-.2-13.7-5.7-17.8c-14.7-11.2-25.9-26.6-33.1-43.9C624.3 410.1 640 375.2 640 336c0-92.8-84.9-168.9-192.6-175.5c.4 5.1 .6 10.3 .6 15.5l0 .5z"></path></svg></div></div><div><h3>Bible As Our Sole Authority</h3><div class="verse">“All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the man of God may be thoroughly equipped for every good work.”<div class="verse-ref">2 Timothy 3:16–17 (NIV)</div></div><p>Since God’s Word is the only completely reliable and truthful authority, we accept the Bible as our manual for living. Our first question when faced with a decision is “What does the Bible say?” We practise daily Bible reading, Bible study and Bible memorization. The Bible is the basis for all we believe.</p></div></div></div><div class="bottom-text">For further reading, please refer to “Bethesda (Frankel Estate) Church Faith &amp; Practices” Chapter 4 &amp; 5 on “Doctrine of the Triune God &amp; Doctrine of the Church”.</div></div></main><footer><section class="footer-top"><aside id="contact-info"><h2>Contact Info</h2><div id="contact-info-content"><div class="footer-address"><h3>Address</h3><p>4 La Salle Street Singapore (456930)</p></div><div class="footer-phone"><h3>Phone Number</h3><p><a href="obfuscated" style="unicode-bidi: bidi-override; direction: rtl;">0081 8446 56+</a></p></div><div class="footer-email"><h3>Email Address</h3><p><a href="obfuscated" style="unicode-bidi: bidi-override; direction: rtl;">gs.gro.cefb@cefb</a></p></div><div class="footer-social-media-btns"><a href="https://www.facebook.com/bfecsg/"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook" class="svg-inline--fa fa-facebook " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256C0 376 82.7 476.8 194.2 504.5V334.2H141.4V256h52.8V222.3c0-87.1 39.4-127.5 125-127.5c16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1c-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287V510.1C413.8 494.8 512 386.9 512 256h0z"></path></svg></a><a href="https://www.instagram.com/bfecsg/"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" class="svg-inline--fa fa-instagram " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></a><a href="https://www.youtube.com/channel/UCLHNZTe5qfFFN3u7EcqgxaQ"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" class="svg-inline--fa fa-youtube " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg></a></div></div></aside></section><section id="privacy-notice"><p>© 2024 All Rights Reserved. Bethesda Frankel Estate Church.</p><p>By providing your personal data to Bethesda Frankel Estate Church in our worship services, activities or events organized by BFEC and her ministries, you consent to BFEC’s collection, use and disclosure of your personal data (and/or the personal data of any person on whose behalf you are validly acting for or authorised to provide consent) for our church activities, programs planning and administration purposes in accordance with our Personal Data Protection Policy.</p><p>Click <span><a href="https://uploads.bfec.org.sg/BFEC%20PDPP.pdf" target="_blank" rel="noreferrer">here</a></span> to access our Personal Data Protection Policy. If you wish to withdraw or limit your consent, please write to our Data Protection Officer at the address below:</p><p>Data Protection Officer (email: <a href="obfuscated" style="unicode-bidi: bidi-override; direction: rtl;">gs.gro.cefb@cefb</a>; tel: <a href="obfuscated" style="unicode-bidi: bidi-override; direction: rtl;">0081 8446 56+</a>)</p></section></footer></div></div><script type="text/javascript" async="" src="https://api.reftagger.com/v2/RefTagger.js"></script></body></html>

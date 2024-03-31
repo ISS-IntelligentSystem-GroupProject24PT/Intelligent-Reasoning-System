@@ -1,0 +1,233 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Ramakrishna Mission Sarada Kindergarten</title>
+<link href="css/school.css" rel="stylesheet" type="text/css">
+<link href="css/pagination.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="js/jquery-1.5.1.js"></script>
+<script src="BaseJS/jquery.js" type="text/javascript"></script>
+<script src="BaseJS/Public.js" type="text/javascript"></script>
+<script src="js/custom.js" type="text/javascript"></script>
+
+<style type="text/css">
+  *{white-space:normal;}
+</style>
+
+  <!-- <SCRIPT type=text/javascript src="js/lan_index.js"></SCRIPT> -->
+  <script src="js/No_rightClick.html" type="text/javascript"></script>
+  <script type="text/javascript">
+  <!--
+  function MM_showHideLayers() { //v9.0
+    var i,p,v,obj,args=MM_showHideLayers.arguments;
+    for (i=0; i<(args.length-2); i+=3) 
+    with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2];
+      if (obj.style) { obj=obj.style; v=(v=="show")?"visible":(v=="hide")?"hidden":v; }
+      obj.visibility=v; }
+  }
+  //-->
+  </script>
+
+</head>
+
+<body>
+
+
+<div style="height:" 800px""=""></div>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="20">&nbsp;</td>
+  </tr>
+</tbody></table>
+<table width="931" border="0" align="center" cellpadding="0" cellspacing="0">
+  
+  <tbody><tr>
+    <td><a href="index.html"><img src="images/bg_03.jpg" width="128" height="44"></a></td>
+    <td><img src="images/bg_04.jpg" width="116" height="44" onmouseover="MM_showHideLayers(&quot;menuDiv1&quot;,&quot;&quot;,&quot;show&quot;)" onmouseout="MM_showHideLayers(&quot;menuDiv1&quot;,&quot;&quot;,&quot;hide&quot;)"></td>
+    <td><a href="sknow.html"><img src="images/bg_05.jpg" width="115" height="44"></a></td>
+    <td><a href="contactus.html"><img src="images/bg_06.jpg" width="115" height="44"></a></td>
+    <td><a href="Alumni.html"><img src="images/bg_071.jpg" width="115" height="44"></a></td>
+    <td><a href="links.html"><img src="images/bg_07.jpg" width="115" height="44"></a></td>
+    <td><a href="https://portal.sarada.edu.sg/login" target="_blank"><img src="images/bg_08.jpg" width="115" height="44"></a></td>
+    <td><a href="https://www.facebook.com/SaradaKG" target="_blank"><img src="images/Kindergarten_face.jpg" width="53" height="44"></a></td>
+    <td><a href="http://www.twitter.com/SaradaKg" target="_blank"><img src="images/Kindergarten_twitter.jpg" width="57" height="44"></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><div id="menuDiv1" style="width:116px;" onmouseover="MM_showHideLayers(&quot;menuDiv1&quot;,&quot;&quot;,&quot;show&quot;)" onmouseout="MM_showHideLayers(&quot;menuDiv1&quot;,&quot;&quot;,&quot;hide&quot;)">
+        <table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF" class="menubg01">
+  <tbody><tr>
+    <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02" width="119"><a href="about.html">Our Philosophy</a></td>
+  </tr>
+  <tr>
+    <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02" width="119"><a href="condition.html">School Tour</a></td>
+  </tr>
+  <tr>
+    <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02"><a href="Learning.html">Learning Goals</a></td>
+  </tr>
+  <tr>
+    <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02"><a href="General.html">General Info</a></td>
+  </tr>
+  <tr>
+    <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02"><a href="History.html">History</a></td>
+  </tr>
+  <tr>
+    <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02"><a href="handbook.html">Handbook</a></td>
+  </tr>
+</tbody></table>
+    </div></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+      <div id="menuDiv2" style="width:116px;" onmouseover="MM_showHideLayers(&quot;menuDiv2&quot;,&quot;&quot;,&quot;show&quot;)" onmouseout="MM_showHideLayers(&quot;menuDiv2&quot;,&quot;&quot;,&quot;hide&quot;)">
+        <table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF" class="menubg01">
+          <tbody><tr>
+            <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02" width="119"><a href="http://www.ichild2.com/Login/login.aspx" target="_blank">Parents Login</a></td>
+          </tr>
+          <tr>
+            <td onmouseover="this.style.backgroundColor=&quot;#284972&quot;" onmouseout="this.style.backgroundColor=&quot;&quot;" class="menubg02"><a href="http://ichild.ichild.com.sg" target="_blank">Admin Login</a></td>
+          </tr>
+        </tbody></table>
+      </div>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+<table width="931" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="210"><img src="images/banner.jpg" width="931" height="210" border="0" usemap="#Map2"></td>
+  </tr>
+</tbody></table>
+
+<table width="931" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="32" valign="top" background="images/about_28.jpg"><table width="100%" height="62" border="0" cellpadding="0" cellspacing="0" class="aboutbg">
+      <tbody><tr>
+        <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td>&nbsp;</td>
+          </tr>
+        </tbody></table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="10">
+            <tbody><tr>
+              <td align="left" valign="top">
+                <h2 id="strtitleh2" style="color:#000080;font-size:15px;text-align: center;"></h2>
+            <div class="date" id="strDatediv" style="color:#000080;font-size:12px;text-align: center;"></div>
+            <div id="Newscontent" style="color:#000080;"><style type="text/css">
+<!--
+.STYLE1 {	color: #000080;
+	font-weight: bold;
+}
+.STYLE2 {color: #000080}
+--></style>
+<div align="center">
+	<h2>
+		<span style="color: rgb(0,0,128)">Past &nbsp;Events</span></h2>
+</div>
+<table bgcolor="#cccccc" border="0" cellpadding="8" cellspacing="1" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#ecf4ff">
+				<span class="STYLE1"><span style="color: rgb(0,0,128)">Month</span></span></td>
+			<td align="center" bgcolor="#ecf4ff">
+				<span style="color: rgb(0,0,128)"><span class="STYLE1">Date</span></span></td>
+			<td align="center" bgcolor="#ecf4ff">
+				<span style="color: rgb(0,0,128)"><span class="STYLE1">Events</span></span></td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffffff">
+				<span style="color:#0000cd;"><span style="text-align: center"><strong>2023</strong></span></span></td>
+			<td align="center" bgcolor="#ffffff">
+				&nbsp;</td>
+			<td align="center" bgcolor="#ffffff">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffffff">
+				<span style="color:#0000cd;"><strong>January</strong></span></td>
+			<td align="center" bgcolor="#ffffff">
+				<strong><span style="color:#000080;">20</span></strong></td>
+			<td bgcolor="#ffffff" style="text-align: center;">
+				<strong><a href="https://youtu.be/qBNLwbN2uJQ"><span style="color:#0000cd;">Chinese New Year Celebration</span></a></strong></td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffffff">
+				<span style="color:#0000cd;"><strong style="color: rgb(0, 0, 205);">February</strong></span></td>
+			<td align="center" bgcolor="#ffffff">
+				<span style="color:#0000cd;"><strong>17</strong></span></td>
+			<td bgcolor="#ffffff" style="text-align: center;">
+				<a href="https://youtu.be/GEFNC1dHBro"><span style="color:#0000cd;"><strong>Celebration of Great Holy People</strong></span></a>&nbsp;<a href="https://youtu.be/IZYzio-c30Q">am</a>&nbsp;<a href="https://youtu.be/k83SocN56j0">pm</a></td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffffff">
+				<font color="#0000cd"><b>April</b></font></td>
+			<td align="center" bgcolor="#ffffff">
+				<strong style="color: rgb(0, 0, 205);">15</strong></td>
+			<td bgcolor="#ffffff" style="text-align: center;">
+				<strong><a href="https://www.youtube.com/watch?v=Oh5T09tOKBs"><span style="color:#0000cd;">TAPAS Nature Walk</span></a></strong></td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffffff">
+				&nbsp;</td>
+			<td align="center" bgcolor="#ffffff">
+				&nbsp;</td>
+			<td bgcolor="#ffffff" style="text-align: center;">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffffff">
+				&nbsp;</td>
+			<td align="center" bgcolor="#ffffff">
+				&nbsp;</td>
+			<td bgcolor="#ffffff" style="text-align: center;">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffffff">
+				&nbsp;</td>
+			<td align="center" bgcolor="#ffffff">
+				&nbsp;</td>
+			<td bgcolor="#ffffff" style="text-align: center;">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#ffffff">
+				&nbsp;</td>
+			<td align="center" bgcolor="#ffffff">
+				&nbsp;</td>
+			<td bgcolor="#ffffff" style="text-align: center;">
+				&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+</div>
+              </td>
+            </tr>
+          </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td><img src="images/about_16.jpg" width="931" height="14"></td>
+  </tr>
+</tbody></table>
+<table width="931" border="0" align="center" cellpadding="0" cellspacing="0" background="images/bg_29-30.jpg">
+  <tbody><tr>
+    <td height="90">&nbsp;</td>
+  </tr>
+</tbody></table>
+<map name="Map" id="Map">
+  <area shape="rect" coords="16,10,175,42" href="Achievements.html">
+  <area shape="rect" coords="13,48,172,78" href="Volunteering.html">
+<area shape="rect" coords="16,83,127,117" href="Career.html">
+<area shape="rect" coords="17,123,193,152" href="Parenting.html">
+</map>
+<map name="Map2" id="Map2"><area shape="rect" coords="721,40,895,175" href="http://www.ecda.gov.sg/sparkinfo/Pages/Home.aspx" target="_blank">
+</map>
+
+
+
+</body></html>

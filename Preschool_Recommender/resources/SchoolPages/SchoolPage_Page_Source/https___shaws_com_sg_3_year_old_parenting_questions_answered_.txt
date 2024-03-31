@@ -1,0 +1,987 @@
+<html lang="en-US" prefix="og: https://ogp.me/ns#" class="js"><head>
+	<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://shaws.com.sg/xmlrpc.php">
+
+	
+	
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KW27VTQ"></script><script src="https://connect.facebook.net/signals/config/566350953921183?v=2.9.151&amp;r=stable&amp;domain=shaws.com.sg&amp;hme=8ce74e881727851b4427183947937854816d72704925561b9de6420cd43214ee&amp;ex_m=66%2C111%2C98%2C102%2C57%2C3%2C92%2C65%2C15%2C90%2C83%2C48%2C50%2C157%2C160%2C171%2C167%2C168%2C170%2C28%2C93%2C49%2C72%2C169%2C152%2C155%2C164%2C165%2C172%2C120%2C14%2C47%2C176%2C175%2C122%2C17%2C32%2C36%2C1%2C40%2C61%2C62%2C63%2C67%2C87%2C16%2C13%2C89%2C86%2C85%2C99%2C101%2C35%2C100%2C29%2C25%2C153%2C156%2C129%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C53%2C58%2C60%2C70%2C94%2C26%2C71%2C8%2C7%2C75%2C45%2C20%2C96%2C95%2C9%2C19%2C18%2C77%2C82%2C44%2C43%2C81%2C37%2C39%2C80%2C52%2C78%2C31%2C41%2C34%2C69%2C0%2C88%2C4%2C84%2C76%2C79%2C2%2C33%2C59%2C38%2C97%2C42%2C74%2C64%2C103%2C56%2C55%2C30%2C91%2C54%2C51%2C46%2C73%2C68%2C23%2C104" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" defer="" src="https://stats.wpmucdn.com/analytics.js"></script><script id="diviarea-loader">window.DiviPopupData=window.DiviAreaConfig={"zIndex":1000000,"animateSpeed":400,"triggerClassPrefix":"show-popup-","idAttrib":"data-popup","modalIndicatorClass":"is-modal","blockingIndicatorClass":"is-blocking","defaultShowCloseButton":true,"withCloseClass":"with-close","noCloseClass":"no-close","triggerCloseClass":"close","singletonClass":"single","darkModeClass":"dark","noShadowClass":"no-shadow","altCloseClass":"close-alt","popupSelector":".et_pb_section.popup","initializeOnEvent":"et_pb_after_init_modules","popupWrapperClass":"area-outer-wrap","fullHeightClass":"full-height","openPopupClass":"da-overlay-visible","overlayClass":"da-overlay","exitIndicatorClass":"on-exit","hoverTriggerClass":"on-hover","clickTriggerClass":"on-click","onExitDelay":2000,"notMobileClass":"not-mobile","notTabletClass":"not-tablet","notDesktopClass":"not-desktop","baseContext":"body","activePopupClass":"is-open","closeButtonClass":"da-close","withLoaderClass":"with-loader","debug":false,"ajaxUrl":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","sys":[]};var divimode_loader=function(){"use strict";!function(t){t.DiviArea=t.DiviPopup={loaded:!1};var n=t.DiviArea,i=n.Hooks={},o={};function r(t,n,i){var r,e,c;if("string"==typeof t)if(o[t]){if(n)if((r=o[t])&&i)for(c=r.length;c--;)(e=r[c]).callback===n&&e.context===i&&(r[c]=!1);else for(c=r.length;c--;)r[c].callback===n&&(r[c]=!1)}else o[t]=[]}function e(t,n,i,r){if("string"==typeof t){var e={callback:n,priority:i,context:r},c=o[t];c?(c.push(e),c=function(t){var n,i,o,r,e=t.length;for(r=1;r<e;r++)for(n=t[r],i=r;i>0;i--)(o=t[i-1]).priority>n.priority&&(t[i]=o,t[i-1]=n);return t}(c)):c=[e],o[t]=c}}function c(t,n,i){"string"==typeof n&&(n=[n]);var r,e,c=[];for(r=0;r<n.length;r++)Array.prototype.push.apply(c,o[n[r]]);for(e=0;e<c.length;e++){var a=void 0;c[e]&&"function"==typeof c[e].callback&&("filter"===t?void 0!==(a=c[e].callback.apply(c[e].context,i))&&(i[0]=a):c[e].callback.apply(c[e].context,i))}if("filter"===t)return i[0]}i.silent=function(){return i},n.removeFilter=i.removeFilter=function(t,n){r(t,n)},n.removeAction=i.removeAction=function(t,n){r(t,n)},n.applyFilters=i.applyFilters=function(t){for(var n=[],i=arguments.length-1;i-- >0;)n[i]=arguments[i+1];return c("filter",t,n)},n.doAction=i.doAction=function(t){for(var n=[],i=arguments.length-1;i-- >0;)n[i]=arguments[i+1];c("action",t,n)},n.addFilter=i.addFilter=function(n,i,o,r){e(n,i,parseInt(o||10,10),r||t)},n.addAction=i.addAction=function(n,i,o,r){e(n,i,parseInt(o||10,10),r||t)},n.addActionOnce=i.addActionOnce=function(n,i,o,c){e(n,i,parseInt(o||10,10),c||t),e(n,(function(){r(n,i)}),1+parseInt(o||10,10),c||t)}}(window);return{}}();
+</script><style id="et-builder-googlefonts-cached-inline">/* Original: https://fonts.googleapis.com/css?family=Quicksand:300,regular,500,600,700|Montserrat:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;subset=latin,latin-ext&#038;display=swap *//* User Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aX8.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58i-xw.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58i-xw.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58i-xw.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58i-xw.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58i-xw.ttf) format('truetype');}/* User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXw.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58i-xA.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58i-xA.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58i-xA.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58i-xA.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58i-xA.woff) format('woff');}/* User Agent: Mozilla/5.0 (Windows NT 6.3; rv:39.0) Gecko/20100101 Firefox/39.0 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXo.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58i-wg.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58i-wg.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58i-wg.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58i-wg.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58i-wg.woff2) format('woff2');}</style><link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/social-warfare/assets/js/post-editor/dist/social-warfare-block-css.min.css?ver=6.4.3" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/ladda.min.css?ver=23.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/bookly-picker.classic.css.min.css?ver=23.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/bookly-picker.classic.date.css.min.css?ver=23.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/bookly-intlTelInput.css.min.css?ver=23.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/bookly-bookly-main.css.min.css?ver=23.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/popups-for-divi/styles/front.min.css?ver=3.0.5" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/social-warfare/assets/css/style.min.css?ver=4.4.6.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/image-carousel-divi/styles/style.min.css?ver=1.0" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/themes/Divi/style-static.min.css?ver=4.21.0" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/themes/Divi-Child/divi-style-pum.min.css?ver=4.21.0" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/spin.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/ladda.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/moment.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/hammer.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/jquery.hammer.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/bookly-picker.js.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/bookly-picker.date.js.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/bookly.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/intlTelInput.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/popups-for-divi/scripts/ie-compat.min.js?ver=3.0.5" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/popups-for-divi/scripts/front.min.js?ver=3.0.5" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/social-warfare/assets/js/script.min.js?ver=4.4.6.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/themes/Divi/js/scripts.min.js?ver=4.21.0" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/fitvids.min.js?ver=4.21.0" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/image-carousel-divi/scripts/frontend-bundle.min.js?ver=1.0" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/et-core-common.min.js?ver=4.21.0" data-wpacu-preload-js="1">
+
+<!-- Social Warfare v4.4.6.1 https://warfareplugins.com - BEGINNING OF OUTPUT -->
+<style>
+	@font-face {
+		font-family: "sw-icon-font";
+		src:url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.4.6.1");
+		src:url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.4.6.1#iefix") format("embedded-opentype"),
+		url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.woff?ver=4.4.6.1") format("woff"),
+		url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.ttf?ver=4.4.6.1") format("truetype"),
+		url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.svg?ver=4.4.6.1#1445203416") format("svg");
+		font-weight: normal;
+		font-style: normal;
+		font-display:block;
+	}
+</style>
+<!-- Social Warfare v4.4.6.1 https://warfareplugins.com - END OF OUTPUT -->
+
+
+<!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
+<title>3 Year Old Parenting Questions Answered</title><link rel="stylesheet" id="siteground-optimizer-combined-css-6e1bdca33febce9fed708591e1aadc8e" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-6e1bdca33febce9fed708591e1aadc8e.css" media="all"> <link rel="preload" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-6e1bdca33febce9fed708591e1aadc8e.css" as="style">
+<meta name="description" content="Need help as a parent of a 3-year-old? Here are the answers to your most frequently asked questions!">
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+<link rel="canonical" href="https://shaws.com.sg/3-year-old-parenting-questions-answered/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="3 Year Old Parenting Questions Answered">
+<meta property="og:description" content="Need help as a parent of a 3-year-old? Here are the answers to your most frequently asked questions!">
+<meta property="og:url" content="https://shaws.com.sg/3-year-old-parenting-questions-answered/">
+<meta property="og:site_name" content="Shaws Preschool">
+<meta property="article:tag" content="3-year-olds">
+<meta property="article:tag" content="parenting FAQs">
+<meta property="article:tag" content="toddler parenting">
+<meta property="article:section" content="Articles">
+<meta property="og:updated_time" content="2023-06-26T23:15:29+08:00">
+<meta property="og:image" content="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-cover2.jpg">
+<meta property="og:image:secure_url" content="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-cover2.jpg">
+<meta property="og:image:width" content="795">
+<meta property="og:image:height" content="464">
+<meta property="og:image:alt" content="3-year-olds">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="article:published_time" content="2023-06-26T21:19:03+08:00">
+<meta property="article:modified_time" content="2023-06-26T23:15:29+08:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="3 Year Old Parenting Questions Answered">
+<meta name="twitter:description" content="Need help as a parent of a 3-year-old? Here are the answers to your most frequently asked questions!">
+<meta name="twitter:image" content="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-cover2.jpg">
+<meta name="twitter:label1" content="Written by">
+<meta name="twitter:data1" content="Julius">
+<meta name="twitter:label2" content="Time to read">
+<meta name="twitter:data2" content="21 minutes">
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://shaws.com.sg/#person","name":"Shaws Preschool"},{"@type":"WebSite","@id":"https://shaws.com.sg/#website","url":"https://shaws.com.sg","name":"Shaws Preschool","publisher":{"@id":"https://shaws.com.sg/#person"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-cover2.jpg","url":"https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-cover2.jpg","width":"795","height":"464","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://shaws.com.sg/3-year-old-parenting-questions-answered/#webpage","url":"https://shaws.com.sg/3-year-old-parenting-questions-answered/","name":"3 Year Old Parenting Questions Answered","datePublished":"2023-06-26T21:19:03+08:00","dateModified":"2023-06-26T23:15:29+08:00","isPartOf":{"@id":"https://shaws.com.sg/#website"},"primaryImageOfPage":{"@id":"https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-cover2.jpg"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://shaws.com.sg/author/julius-cooler-insights/","name":"Julius","url":"https://shaws.com.sg/author/julius-cooler-insights/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/e30345e089c054fc3b9ffa0d4b4168ee?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/e30345e089c054fc3b9ffa0d4b4168ee?s=96&amp;d=mm&amp;r=g","caption":"Julius","inLanguage":"en-US"}},{"@type":"BlogPosting","headline":"3 Year Old Parenting Questions Answered","keywords":"3-year-olds,toddler parenting,parenting FAQs","datePublished":"2023-06-26T21:19:03+08:00","dateModified":"2023-06-26T23:15:29+08:00","articleSection":"Articles","author":{"@id":"https://shaws.com.sg/author/julius-cooler-insights/","name":"Julius"},"publisher":{"@id":"https://shaws.com.sg/#person"},"description":"Need help as a parent of a 3-year-old? Here are the answers to your most frequently asked questions!","name":"3 Year Old Parenting Questions Answered","@id":"https://shaws.com.sg/3-year-old-parenting-questions-answered/#richSnippet","isPartOf":{"@id":"https://shaws.com.sg/3-year-old-parenting-questions-answered/#webpage"},"image":{"@id":"https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-cover2.jpg"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://shaws.com.sg/3-year-old-parenting-questions-answered/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel="dns-prefetch" href="//use.fontawesome.com">
+<link rel="alternate" type="application/rss+xml" title=" » Feed" href="https://shaws.com.sg/feed/">
+<link rel="alternate" type="application/rss+xml" title=" » Comments Feed" href="https://shaws.com.sg/comments/feed/">
+<meta content="Bare bones for Divi v.1.0" name="generator">
+<style id="wp-block-library-theme-inline-css" type="text/css">
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id="rank-math-toc-block-style-inline-css" type="text/css">
+.wp-block-rank-math-toc-block nav ol{counter-reset:item}.wp-block-rank-math-toc-block nav ol li{display:block}.wp-block-rank-math-toc-block nav ol li:before{content:counters(item, ".") ". ";counter-increment:item}
+
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+
+
+
+
+
+<link data-wpacu-to-be-preloaded-basic="1" rel="stylesheet" id="css-divi-area-css" href="https://shaws.com.sg/wp-content/plugins/popups-for-divi/styles/front.min.css?ver=3.0.5" type="text/css" media="all">
+<style id="css-divi-area-inline-css" type="text/css">
+.et_pb_section.popup{display:none}
+</style>
+
+
+<link rel="stylesheet" id="font-awesome-official-css" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" type="text/css" media="all" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+<link data-wpacu-to-be-preloaded-basic="1" rel="stylesheet" id="divi-style-parent-css" href="https://shaws.com.sg/wp-content/themes/Divi/style-static.min.css?ver=4.21.0" type="text/css" media="all">
+<link data-wpacu-to-be-preloaded-basic="1" rel="stylesheet" id="divi-style-pum-css" href="https://shaws.com.sg/wp-content/themes/Divi-Child/divi-style-pum.min.css?ver=4.21.0" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-official-v4shim-css" href="https://use.fontawesome.com/releases/v5.15.1/css/v4-shims.css" type="text/css" media="all" integrity="sha384-WCuYjm/u5NsK4s/NfnJeHuMj6zzN2HFyjhBu/SnZJj7eZ6+ds4zqIM3wYgL59Clf" crossorigin="anonymous">
+<style id="font-awesome-official-v4shim-inline-css" type="text/css">
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.svg#fontawesome") format("svg");
+unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
+}
+</style>
+<script type="text/javascript" src="https://shaws.com.sg/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+
+
+<script type="text/javascript" id="bookly-globals-js-extra">
+/* <![CDATA[ */
+var BooklyL10nGlobal = {"csrf_token":"fb56edf77b","ajax_url_backend":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","ajax_url_frontend":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","mjsTimeFormat":"h:mm A","datePicker":{"format":"MMMM D, YYYY","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"daysOfWeek":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"firstDay":0,"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"meridiem":{"am":"am","pm":"pm","AM":"AM","PM":"PM"}},"dateRange":{"format":"MMMM D, YYYY","applyLabel":"Apply","cancelLabel":"Cancel","fromLabel":"From","toLabel":"To","customRangeLabel":"Custom range","tomorrow":"Tomorrow","today":"Today","anyTime":"Any time","yesterday":"Yesterday","last_7":"Last 7 days","last_30":"Last 30 days","next_7":"Next 7 days","next_30":"Next 30 days","thisMonth":"This month","nextMonth":"Next month","lastMonth":"Last month","firstDay":0},"l10n":{"apply":"Apply","cancel":"Cancel","areYouSure":"Are you sure?"},"addons":[],"cloud_products":[],"data":{}};
+/* ]]> */
+</script>
+
+
+
+
+
+
+<script type="text/javascript" id="bookly-bookly.min.js-js-extra">
+/* <![CDATA[ */
+var BooklyL10n = {"ajaxurl":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","csrf_token":"fb56edf77b","today":"Today","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"days":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"daysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextMonth":"Next month","prevMonth":"Previous month","show_more":"Show more","sessionHasExpired":"Your session has expired. Please press \"Ok\" to refresh the page"};
+/* ]]> */
+</script>
+
+
+
+<link rel="https://api.w.org/" href="https://shaws.com.sg/wp-json/"><link rel="alternate" type="application/json" href="https://shaws.com.sg/wp-json/wp/v2/posts/14028"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://shaws.com.sg/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.4.3">
+<link rel="shortlink" href="https://shaws.com.sg/?p=14028">
+<link rel="alternate" type="application/json+oembed" href="https://shaws.com.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://shaws.com.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F&amp;format=xml">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7N98SHQYND"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7N98SHQYND');
+</script>
+
+<!--Wrap Rows-->
+
+
+<!-- Slick Slider -->
+<link rel="icon" href="https://shaws.com.sg/wp-content/uploads/2019/12/cropped-Shaws_Preschool_FAVIcon_Transparent-2-32x32.png" sizes="32x32">
+<link rel="icon" href="https://shaws.com.sg/wp-content/uploads/2019/12/cropped-Shaws_Preschool_FAVIcon_Transparent-2-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://shaws.com.sg/wp-content/uploads/2019/12/cropped-Shaws_Preschool_FAVIcon_Transparent-2-180x180.png">
+<meta name="msapplication-TileImage" content="https://shaws.com.sg/wp-content/uploads/2019/12/cropped-Shaws_Preschool_FAVIcon_Transparent-2-270x270.png">
+<link rel="stylesheet" id="et-core-unified-tb-14836-14028-cached-inline-styles" href="https://shaws.com.sg/wp-content/et-cache/14028/et-core-unified-tb-14836-14028.min.css?ver=1710105252"><link rel="stylesheet" id="et-core-unified-14028-cached-inline-styles" href="https://shaws.com.sg/wp-content/et-cache/14028/et-core-unified-14028.min.css?ver=1710105252"><link rel="stylesheet" id="et-core-unified-tb-14836-deferred-14028-cached-inline-styles" href="https://shaws.com.sg/wp-content/et-cache/14028/et-core-unified-tb-14836-deferred-14028.min.css?ver=1710105252"><style type="text/css"></style><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+<body class="post-template-default single single-post postid-14028 single-format-standard et-tb-has-template et-tb-has-footer et_pb_button_helper_class et_fixed_nav et_show_nav et_hide_fixed_logo et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_cover_background et_pb_gutter windows et_pb_gutters3 et_pb_pagebuilder_layout et_right_sidebar et_divi_theme et-db chrome" style="padding-top: 0px; padding-bottom: 0px;">
+	<div id="page-container" style="padding-top: 79px;">
+<div id="et-boc" class="et-boc">
+			
+		
+
+	<header id="main-header" data-height-onload="85" data-fixed-height-onload="0" style="top: 0px;">
+		<div class="container clearfix et_menu_container">
+					<div class="logo_container">
+				<span class="logo_helper"></span>
+				<a href="https://shaws.com.sg/">
+				<img src="https://shaws.com.sg/wp-content/uploads/2018/10/Shaws_Preschool_Logo-297x300.png" width="297" height="300" alt="" id="logo" data-height-percentage="100" data-actual-width="297" data-actual-height="300">
+				</a>
+			</div>
+					<div id="et-top-navigation" data-height="85" data-fixed-height="40" style="padding-left: 72px;">
+									<nav id="top-menu-nav">
+					<ul id="top-menu" class="nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-11271"><a href="https://shaws.com.sg/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8273"><a href="https://shaws.com.sg/about-shaws-singapore/">About Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10369"><a href="https://shaws.com.sg/shaws-recruitment/">Join Our Team</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14449"><a href="https://shaws.com.sg/curriculum/">Curriculum</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9353"><a href="#">Resources</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8883"><a href="https://shaws.com.sg/frequently-asked-questions/">FAQs</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9310"><a href="https://shaws.com.sg/ready-for-preschool/">Ready for School</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11272"><a href="https://shaws.com.sg/articles/">Articles</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11273"><a href="https://shaws.com.sg/parenting-guides/">Parenting Guides</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11276"><a href="https://shaws.com.sg/free-downloadable-eguides/">Free Downloadable eGuides</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11275"><a href="https://shaws.com.sg/videos/">Videos</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11274"><a href="https://shaws.com.sg/events/">Events</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13459"><a href="https://shaws.com.sg/play-based-learning/">Play-Based Learning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13458"><a href="https://shaws.com.sg/executive-function/">Executive Function</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13457"><a href="https://shaws.com.sg/life-skills/">Life Skills</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-135"><a href="#">Campuses</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8581"><a href="https://shaws.com.sg/preschool-serangoon/">Serangoon Area</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11687"><a href="https://shaws.com.sg/shaws-braddell-heights/">Shaws Braddell Heights</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11686"><a href="https://shaws.com.sg/shaws-lorong-chuan/">Shaws Lorong Chuan</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8582"><a href="https://shaws.com.sg/preschool-east-coast/">East Coast Area</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14778"><a href="https://shaws.com.sg/shaws-open-house/">SHAWS Open House</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8580"><a href="https://shaws.com.sg/testimonials/">Testimonials</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12978"><a href="https://shaws.com.sg/shaws-recruitment/">Join Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8575"><a href="https://shaws.com.sg/contact-us/">Contact Us</a></li>
+</ul>					</nav>
+				
+				
+				
+				
+				<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				<ul id="mobile_menu" class="et_mobile_menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-11271 et_first_mobile_item"><a href="https://shaws.com.sg/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8273"><a href="https://shaws.com.sg/about-shaws-singapore/">About Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10369"><a href="https://shaws.com.sg/shaws-recruitment/">Join Our Team</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14449"><a href="https://shaws.com.sg/curriculum/">Curriculum</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9353"><a href="#">Resources</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8883"><a href="https://shaws.com.sg/frequently-asked-questions/">FAQs</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9310"><a href="https://shaws.com.sg/ready-for-preschool/">Ready for School</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11272"><a href="https://shaws.com.sg/articles/">Articles</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11273"><a href="https://shaws.com.sg/parenting-guides/">Parenting Guides</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11276"><a href="https://shaws.com.sg/free-downloadable-eguides/">Free Downloadable eGuides</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11275"><a href="https://shaws.com.sg/videos/">Videos</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11274"><a href="https://shaws.com.sg/events/">Events</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13459"><a href="https://shaws.com.sg/play-based-learning/">Play-Based Learning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13458"><a href="https://shaws.com.sg/executive-function/">Executive Function</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13457"><a href="https://shaws.com.sg/life-skills/">Life Skills</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-135"><a href="#">Campuses</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8581"><a href="https://shaws.com.sg/preschool-serangoon/">Serangoon Area</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11687"><a href="https://shaws.com.sg/shaws-braddell-heights/">Shaws Braddell Heights</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11686"><a href="https://shaws.com.sg/shaws-lorong-chuan/">Shaws Lorong Chuan</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8582"><a href="https://shaws.com.sg/preschool-east-coast/">East Coast Area</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14778"><a href="https://shaws.com.sg/shaws-open-house/">SHAWS Open House</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8580"><a href="https://shaws.com.sg/testimonials/">Testimonials</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12978"><a href="https://shaws.com.sg/shaws-recruitment/">Join Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8575"><a href="https://shaws.com.sg/contact-us/">Contact Us</a></li>
+</ul></div>
+			</div>			</div> <!-- #et-top-navigation -->
+		</div> <!-- .container -->
+			</header> <!-- #main-header -->
+<div id="et-main-area">
+	
+<div id="main-content">
+		<div class="container">
+		<div id="content-area" class="clearfix">
+			<div id="left-area">
+											<article id="post-14028" class="et_pb_post post-14028 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-3-year-olds tag-parenting-faqs tag-toddler-parenting">
+					
+					<div class="entry-content">
+					<div class="swp_social_panel swp_horizontal_panel swp_flat_fresh  swp_default_full_color swp_individual_full_color swp_other_full_color scale-100  scale-" data-min-width="1100" data-float-color="#ffffff" data-float="left" data-float-mobile="none" data-transition="slide" data-post-id="14028"><div class="nc_tweetContainer swp_share_button swp_twitter" data-network="twitter"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=3+Year+Old+Parenting+Questions+Answered&amp;url=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F" data-link="https://twitter.com/intent/tweet?text=3+Year+Old+Parenting+Questions+Answered&amp;url=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_facebook" data-network="facebook"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_linkedin" data-network="linkedin"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F" data-link="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_linkedin_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_pinterest" data-network="pinterest"><a rel="nofollow noreferrer noopener" class="nc_tweet swp_share_link noPop" onclick="var e=document.createElement('script');
+							e.setAttribute('type','text/javascript');
+							e.setAttribute('charset','UTF-8');
+							e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+							document.body.appendChild(e);
+						"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_pinterest_icon"></i><span class="swp_share">Pin</span></span></span></span></a></div></div><div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h1><span id="3-Year-Old_Parenting_Questions_Answered"> 3-Year-Old Parenting Questions Answered</span></h1></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img fetchpriority="high" decoding="async" width="795" height="464" src="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-cover2.jpg" data-src="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-cover2.jpg" alt="How to Choose Healthy Food" title="Shaws_3-Yr-Old-Parenting-cover2" data-srcset="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-cover2.jpg 795w, https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-cover2-480x280.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 795px, 100vw" class="wp-image-14032 ls-is-cached lazyloaded" srcset="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-cover2.jpg 795w, https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-cover2-480x280.jpg 480w"><noscript><img fetchpriority="high" decoding="async" width="795" height="464" src="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-cover2.jpg" alt="How to Choose Healthy Food" title="Shaws_3-Yr-Old-Parenting-cover2" srcset="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-cover2.jpg 795w, https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-cover2-480x280.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 795px, 100vw" class="wp-image-14032 lazyload"></noscript></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p style="margin-bottom: 16px;">Hooray! Your little one is now a big three! As the parent of an energetic (and chatty) bundle of fun, you are likely to have a whole new set of three-year-old parenting questions.</p>
+<p style="margin-bottom: 16px;">When your child joyfully jumps into the lively age of three, it’s normal for you to wish to nurture their growth and progress during this thrilling time. Things are sure to be a bit wilder now that your young explorer is confidently walking, possibly even running, and getting into everything!</p>
+<p style="margin-bottom: 16px;">This article will delve into the most frequently asked questions regarding parenting a three-year-old. We’ll discuss key developmental milestones, the best books, toys and activities for this age, healthy eating habits, reading and writing, as well as how to handle the occasional (and sometimes more than occasional) tantrums.</p>
+<p style="margin-bottom: 16px;">So, buckle up and get ready for an exciting journey through three-year-old toddlerhood!</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div id="how-to-help-children-enjoy-learning-chinese" class="et_pb_section et_pb_section_1 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div id="signs-parent-ready" class="et_pb_module et_pb_divider et_pb_divider_0 et_pb_divider_position_bottom et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><span id="What_Milestones_to_Look_For_in_a_3-year-old">What Milestones to Look For in a 3-year-old</span></h2></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p><img decoding="async" class="wp-image-11047 aligncenter size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-1.jpg" alt="" width="650" height=""><noscript><img decoding="async" class="wp-image-11047 aligncenter size-full lazyload" src="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-1.jpg" alt="" width="650" height=""></noscript></p>
+<p style="font-weight: 500; margin-bottom: 16px; margin-top: 16px;">As your child embarks on the thrilling journey of being three (some call this the “Trusting 3s”), look out for several developmental milestones across various areas. These can be grouped as follows:</p>
+<h3><span id="1_Movement_Skills">1. Movement Skills</span></h3>
+<p style="font-weight: 500;">At this age, your child may be able to balance briefly on one foot, walk up the stairs alternating feet (without the need to hold onto the rail), and even pedal a tricycle! This is a busy time for your child, filled with lots of running, jumping, and exploring.</p>
+<h3><span id="2_Hand_and_Finger_Development_Skills">2. Hand and Finger Development Skills</span></h3>
+<p style="font-weight: 500;">Your three-year-old is likely to be an aspiring artist, capable of copying a circle, imitating a cross, and drawing a person when asked.</p>
+<p style="font-weight: 500;">Building a tower of eight cubes? No problem for your toddler. Reasonable pencil control, snipping strips of paper with scissors, and threading large beads onto a string are among other talents you might spot.</p>
+<h3><span id="3_Language_Skills">3. Language Skills</span></h3>
+<p style="font-weight: 500;">Prepare for a chatterbox! Your child will have a vocabulary of hundreds of words, can create three to four-word sentences and use plurals and pronouns (he/she). They’ll also understand the concept of “mine” and “his/hers”, frequently asking questions to satisfy their curiosity.</p>
+<p style="font-weight: 500;">Most of their words can be understood by strangers at this age, showcasing how far they’ve come!</p>
+<h3><span id="4_Socio-emotional_Skills">4. Socio-emotional Skills</span></h3>
+<p style="font-weight: 500;">By now, your three-year-old should know their name, age, and gender. Their eagerness to please you and obey rules will become apparent. Their interest in other people develops further; they enjoy cooperation, following instructions, and even sharing! They are also capable of forming short-lived friendships.</p>
+<p style="font-weight: 500;">As your child gains confidence, dressing themselves and feeding without difficulty become proud achievements. Some kids might also have control over their bowel and bladder functions during the day (and possibly at night). However, don’t fret if they need more time to get comfortable with toilet training.</p>
+<h3><span id="5_Learning_and_Thinking_Skills">5. Learning and Thinking Skills</span></h3>
+<p style="font-weight: 500;">At three, your little one can sort objects into simple categories, and identify everyday objects and pictures. They are very energetic at this age—and their imagination is often full throttle!</p>
+<p style="font-weight: 500;">One of the most charming (and precious) aspects of this age is their fascination with make-believe, even though they sometimes struggle to distinguish between the real and the imaginary.</p>
+<p style="font-weight: 500;">Your child will likely be an unstoppable bundle of energy, filled with curiosity and excitement about the world. As they continue to learn and grow, engaging them in activities that can further encourage their development</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div id="how-to-help-children-enjoy-learning-chinese" class="et_pb_section et_pb_section_2 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_3">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div id="signs-parent-ready" class="et_pb_module et_pb_divider et_pb_divider_1 et_pb_divider_position_bottom et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><span id="What_should_Your_3-year-old_be_Learning">What should Your 3-year-old be Learning</span></h2></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-2.jpg" width="650" height="" alt="" class="wp-image-11024 aligncenter size-full lazyload"><noscript><img decoding="async" src="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-2.jpg" width="650" height="" alt="" class="wp-image-11024 aligncenter size-full lazyload"></noscript>
+<p style="font-weight: 500; margin-bottom: 16px; margin-top: 16px;">As your little one blossoms into a three-year-old, they’re ready to rock the world! Give them a wide variety of learning experiences to influence their development.</p>
+<p style="font-weight: 500; margin-bottom: 16px;">Here are some of the top <strong>learning activities for three-year-olds</strong> that parents can do with their children:</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Problem-Solving Skills</strong>: Foster your child’s ability to solve problems independently, with your guidance when necessary. Ask questions that help them understand the problem and assist them in brainstorming solutions. Encourage them to try different approaches until they succeed.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Emotional Understanding</strong>: Discuss emotions with your child, helping them develop the vocabulary to express their feelings. Teach calming techniques like taking deep breaths, hugging a favourite toy, or retreating to a quiet, safe place when upset.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Rules and Behaviour</strong>: Establish simple, clear rules for your child, such as using gentle hands when playing. Reinforce good behaviour by recognising and celebrating their adherence to regulations.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Language Skills</strong>: Enhance your child’s language skills by conversing with them using longer sentences than they currently do and introducing new words. For instance, repeat their short sentences (“need nana”) with more comprehensive phrases (“I want a banana”).</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Reading and Counting</strong>: Regularly read with your child and engage them by asking questions about the story. Incorporate counting games into daily activities, as they’re just beginning to grasp numbers and counting.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Life Skills</strong>: Involve your child in meal preparation, assigning them simple tasks like washing fruits and vegetables or stirring ingredients. Providing instructions with two or three steps, such as “go to your room and get your shoes and jacket,” can help improve their comprehension and execution skills.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Social Interaction</strong>: Encourage your child to interact with peers to help them understand the value of friendship and cooperation. At the same time, it is important to respect your child’s wish to be alone, or to not give away his/her favourite toys.  Prepare them for new places and people through storytelling or pretend play. This can help to ease their transition into unfamiliar situations. </p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Fine Motor Skills</strong>: Provide your child with an “activity box” filled with materials like paper, crayons, and colouring books. Create opportunities for them to draw scribble, form lines and shapes and manipulate playdough, which can strengthen their hand and finger muscles for future tasks like writing and buttoning clothes.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Conceptual Learning</strong>: Introduce your child to simple songs, rhymes, and games that teach concepts like opposites and matching. This can also be an excellent way to enhance their memory and cognitive skills.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Physical Activity</strong>: Schedule regular outdoor play sessions, allowing your child to choose their preferred activities. Join them in their games and follow their lead.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Screen Time</strong>: Limit screen time to no more than one hour per day, with your active participation. Emphasise interaction through talking, playing, and engaging with others for optimal learning. Note that Shaws’ kids do not use screens in school.<br>
+Remember that every child is unique, and these guidelines should be adapted to your child’s needs and pace.
+</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_0 et_pb_bg_layout_light" href="https://shaws.com.sg/book-a-tour/">Want to find out what Shaws Preschool is like? Book a tour!</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div id="how-to-help-children-enjoy-learning-chinese" class="et_pb_section et_pb_section_3 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_5">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div id="signs-parent-ready" class="et_pb_module et_pb_divider et_pb_divider_2 et_pb_divider_position_bottom et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><span id="What_are_the_Best_Books_for_3-year-olds">What are the Best Books for 3-year-olds</span></h2></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><img decoding="async" class="wp-image-11047 aligncenter size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-6.jpg" alt="" width="650" height=""><noscript><img decoding="async" class="wp-image-11047 aligncenter size-full lazyload" src="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-6.jpg" alt="" width="650" height=""></noscript>
+<p style="font-weight: 500; margin-bottom: 16px; margin-top: 16px;">As your three-year-old wanders into the magical realm of words and stories, selecting the right engaging, age-appropriate books becomes critical. Opt for books that offer vibrant illustrations, straightforward narratives, and rhythmic patterns. These can stimulate your child’s curiosity, imagination, and linguistic development.</p>
+<p style="font-weight: 500; margin-bottom: 16px;">Here are some timeless book recommendations to consider:</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>“Green Eggs and Ham” by Dr. Seuss</strong> – This rhyming classic uses just 50 different words, making it a delightful and accessible read for three-year-olds. It teaches about trying new things and not being afraid of the unknown.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>“Where’s Spot?” by Eric Hill</strong> – This playful, interactive book with flaps to lift and discoveries to make, features the lovable dog Spot. It’s perfect for little hands exploring reading for the first time.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>“The Gruffalo” by Julia Donaldson</strong> – This imaginative tale about a little mouse and a make-believe monster called the Gruffalo is suspenseful and heart-warming. It’s full of rhythmic, repetitive text that will captivate your child’s attention.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>“Corduroy” by Don Freeman</strong> – This sweet story about a teddy bear waiting to be taken home from a department store pulls at the heartstrings while teaching children about friendship and love.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>“Moo Baa La La La” by Sandra Boynton</strong> – This wonderfully whimsical book is perfect for three-year-olds. It introduces animals and their sounds in a fun and engaging way with its catchy rhythm and bright illustrations.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>“Goodnight Moon” by Margaret Wise Brown</strong> – This bedtime classic uses rhyming text and cosy illustrations to depict the process of saying goodnight to everything around. It’s a comforting, calming read for your three-year-old.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>“Pete the Cat: I Love My White Shoes” by Eric Litwin</strong> – This book features the groovy cat Pete who turns everyday challenges into positive experiences. It’s a great tool for teaching children about optimism and resilience.</p>
+<p style="font-weight: 500; margin-bottom: 16px;">Reading these stories with your three-year-old not only helps foster language development and a lifelong love for reading — it also strengthens your bond with them.</p>
+<p style="font-weight: 500; margin-bottom: 16px;">To make the stories more enjoyable and memorable, add fun elements such as voice impersonations, facial expressions, or even a little dramatisation. Happy reading!</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div id="how-to-help-children-enjoy-learning-chinese" class="et_pb_section et_pb_section_4 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_6">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div id="signs-parent-ready" class="et_pb_module et_pb_divider et_pb_divider_3 et_pb_divider_position_bottom et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><span id="What_should_3-year-olds_eat">What should 3-year-olds eat?</span></h2></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><img decoding="async" class="wp-image-11047 aligncenter size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-4.jpg" alt="" width="650" height="520"><noscript><img decoding="async" class="wp-image-11047 aligncenter size-full lazyload" src="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-4.jpg" alt="" width="650" height="520"></noscript>
+<p style="font-weight: 500; margin-bottom: 16px; margin-top: 16px;">Feeding your 3-year-old can sometimes feel like navigating a culinary minefield! Children at this age can have specific tastes and a heightened sense of independence. However, with patience and creativity, you can guide your child towards a varied and healthy diet.</p>
+<p style="font-weight: 500; margin-bottom: 16px;">Here are some tips to consider, adapted from <a href="https://www.healthhub.sg/live-healthy/2033/nutrition-for-pre-schoolers-month37-48" target="_blank" rel="noopener">Health Hub’s website</a>.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Stick to a schedule</strong>: Regularly timed meals and snacks can help your child understand the concept of routine and anticipate meal times. Consistency is key.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Offer a wide range of foods</strong>: Expose your child to a diverse tastes, textures, and colours. The more variety, the better the chance your child will find new foods they enjoy.</p>
+<p style="font-weight: 500; margin-bottom: 0px;"><strong>Ensure the right balance</strong>: Provide the right balance of whole grains, fruits, vegetables, meat and dairy (or equivalent plant-based options if you are a vegetarian or vegan). Here are the daily recommendations (number of servings) for a 3-year-old to 4-year-old child:</p>
+<ul>
+<li><span style="font-weight: 500;">Whole Grains – 3-4</span></li>
+<li><span style="font-weight: 500;">Fruits – 1</span></li>
+<li><span style="font-weight: 500;">Vegetables – 1</span></li>
+<li><span style="font-weight: 500;">Meat and Dairy – 1</span></li>
+</ul>
+<p style="font-weight: 500; margin-bottom: 0px;">Examples of a single serving from each group include:</p>
+<ul>
+<li><span style="font-weight: 500;">Whole Grains: 2 slices of wholemeal bread, ½ bowl of brown rice, or 1 thosai</span></li>
+<li><span style="font-weight: 500;">Vegetables: ¾ mug of cooked leafy vegetables or ¼ round plate of cooked vegetables</span></li>
+<li><span style="font-weight: 500;">Fruits: 1 small apple, orange, or 10 grapes</span></li>
+<li><span style="font-weight: 500;">Meat and Dairy: 1 palm-sized piece of fish or lean meat, or 2 glasses of milk</span></li>
+</ul>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Make meals fun</strong>: Use cookie cutters to create fun shapes or arrange food into smiley faces or animals on the plate. A visually appealing meal can stimulate your child’s interest.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Persistence is essential</strong>: It’s normal for a child to reject new foods initially. Don’t be discouraged; it may take a few tries before your child warms up to a new taste.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Promote self-feeding</strong>: By age three, your child should be mastering using utensils. This autonomy can boost their self-confidence and make mealtime more enjoyable.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Avoid pre-meal snacking</strong>: Try to limit heavy snacks and drinks before meals. A hungry child is more likely to be receptive to trying new foods.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Be careful with alternatives</strong>: While it’s important to cater to your child’s preferences to some extent, try to offer only a few other options to the main meal. This could discourage them from trying what’s initially served.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Include them in the kitchen</strong>: Whether washing vegetables or stirring ingredients, involving your three-year-old in meal preparation can excite them about the end product.</p>
+<p style="font-weight: 500; margin-bottom: 16px;">Lastly, avoid associating food with reward or punishment. It’s important to remember that at three, your child is still exploring their likes and dislikes when it comes to food. Their tastes are continually evolving, so maintain a supportive and patient approach to their food journey.</p>
+<h3><span id="How_often_should_3-year-olds_eat">How often should 3-year-olds eat?</span></h3>
+<p style="font-weight: 500; margin-bottom: 16px;">According to the <a href="https://www.healthhub.sg/live-healthy/2033/nutrition-for-pre-schoolers-month37-48" target="_blank" rel="noopener">Health Hub website</a>, three-year-olds should eat three main meals (breakfast, lunch, dinner) and another two to three healthy snacks a day.</p>
+<p style="font-weight: 500; margin-bottom: 16px;">Here’s a sample menu of what a three-year-old’s diet may look like in a day.</p></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><table class="post--table">
+<tbody>
+<tr>
+<td rowspan="1" style="width: 33%; border: 1px solid; vertical-align: text-top;"><strong>Breakfast</strong>
+<ul style="text-align: left;">
+<li><span style="font-weight: 500;">Cheese sandwich: Slice of whole grain bread</span></li>
+<li><span style="font-weight: 500;">Egg, sunny side up</span></li>
+<li><span style="font-weight: 500;">Slice of low-fat cheese</span></li>
+<li><span style="font-weight: 500;">Milk</span></li>
+</ul>
+</td>
+<td rowspan="1" style="width: 33%; border: 1px solid; vertical-align: text-top;"><strong>Morning Snack</strong>
+<ul style="text-align: left;">
+<li><span style="font-weight: 500;">Banana and berries</span></li>
+<li><span style="font-weight: 500;">Plain low-fat yoghurt</span></li>
+</ul>
+</td>
+<td rowspan="1" style="width: 33%; border: 1px solid; vertical-align: text-top;"><strong>Lunch</strong>
+<ul style="text-align: left;">
+<li><span style="font-weight: 500;">Corn, carrot and chicken soup</span></li>
+<li><span style="font-weight: 500;">Brown rice</span></li>
+<li><span style="font-weight: 500;">Water</span></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" style="width: 33%; border: 1px solid; vertical-align: text-top;"><strong>Afternoon Snack</strong>
+<ul style="text-align: left;">
+<li><span style="font-weight: 500;">Apple slices thinly spread with peanut butter</span></li>
+<li><span style="font-weight: 500;">Water</span></li>
+</ul>
+</td>
+<td rowspan="1" style="width: 33%; border: 1px solid; vertical-align: text-top;"><strong>Dinner</strong>
+<ul style="text-align: left;">
+<li><span style="font-weight: 500;">Wholegrain pasta</span></li>
+<li><span style="font-weight: 500;">Tomato, onion and minced meat pasta sauce</span></li>
+<li><span style="font-weight: 500;">Milk</span></li>
+</ul>
+</td>
+<td rowspan="1" style="width: 33%; border: 1px solid; vertical-align: text-top;"><strong>Bedtime Snack (if needed)</strong>
+<ul style="text-align: left;">
+<li><span style="font-weight: 500;">Cheese cubes</span></li>
+<li><span style="font-weight: 500;">Rockmelon</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_7">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_1 et_pb_bg_layout_light" href="https://shaws.com.sg/book-a-tour/">Want to find out what Shaws Preschool is like? Book a tour!</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div id="how-to-help-children-enjoy-learning-chinese" class="et_pb_section et_pb_section_5 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_8">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div id="signs-parent-ready" class="et_pb_module et_pb_divider et_pb_divider_4 et_pb_divider_position_bottom et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_11  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><span id="Your_3-year-old_is_not_talking_Heres_what_you_can_do">Your 3-year-old is not talking? Here’s what you can do.</span></h2></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_12  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><img decoding="async" class="wp-image-11047 aligncenter size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-5.jpg" alt="" width="650" height=""><noscript><img decoding="async" class="wp-image-11047 aligncenter size-full lazyload" src="https://shaws.com.sg/wp-content/uploads/2023/06/Shaws_3-Yr-Old-Parenting-5.jpg" alt="" width="650" height=""></noscript>
+<p style="font-weight: 500; margin-bottom: 16px; margin-top: 16px;">If your three-year-old child is not expressing themselves verbally, you may be concerned. However, do remember that children develop at their own pace.</p>
+<p style="font-weight: 500; margin-bottom: 16px;">To encourage speech development in your kid, practise the following:</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Communicate Regularly</strong>: Talk to your child throughout the day about anything and everything. Narrate your activities, ask questions, and encourage them to respond. The more words they’re exposed to, the better.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Read Together</strong>: Books are a great tool for language development. Use picture books to name objects and describe what’s happening in the story. Ask your child questions about the pictures and characters to encourage their speech.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Play Interactive Games</strong>: Games that require verbal interaction can be very helpful. Simple games like ‘I Spy’ or ‘Simon Says’ encourage listening and verbal skills.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Use Simple Sentences</strong>: Speak clearly and use short sentences. This makes it easier for your child to understand and replicate.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Encourage Imitation</strong>: If your child is silent, start with getting them to imitate sounds and gestures. Applaud their efforts, and gradually they’ll start associating sounds with objects and actions.</p>
+<p style="font-weight: 500; margin-bottom: 16px;"><strong>Seek Professional Help</strong>: If you’re really concerned about your child’s speech development, it’s a good idea to seek professional help. Speech therapists can provide expert guidance and suggest specific strategies tailored to your child’s needs.</p>
+<p style="font-weight: 500; margin-bottom: 16px;">Remember, every child is unique and develops at their own pace. Patience, encouragement, and a positive environment are key to supporting your child’s speech and language development.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div id="how-to-help-children-enjoy-learning-chinese" class="et_pb_section et_pb_section_6 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_9">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div id="signs-parent-ready" class="et_pb_module et_pb_divider et_pb_divider_5 et_pb_divider_position_bottom et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_13  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><span id="How_to_Manage_3-year-olds_Temper_Tantrums">How to Manage 3-year-old’s Temper Tantrums</span></h2></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_14  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p style="font-weight: 500; margin-bottom: 16px; margin-top: 16px;">As your child grows to become a three-year-old toddler, tantrums might still be a part of your everyday life. They’re asserting their independence more, which can sometimes cause these tantrums.</p>
+<p style="font-weight: 500; margin-bottom: 16px; margin-top: 16px;">Here’s how you can better manage your three-year-old’s tantrums.</p>
+<p style="font-weight: 500; margin-bottom: 16px; margin-top: 16px;">First, prevention is key. Identify potential triggers for tantrums. If your child is hungry, tired, or overstimulated, address those issues promptly to prevent a meltdown.</p>
+<p style="font-weight: 500; margin-bottom: 16px; margin-top: 16px;">When a tantrum does occur, keep your cool. This is the golden rule at any age. Speak in calm and measured tones. Remember, your three-year-old is still learning to manage their feelings and are looking to you for cues on how to do it.</p>
+<p style="font-weight: 500; margin-bottom: 16px; margin-top: 16px;">As their language skills improve, a three-year-old can understand why certain behaviours are not acceptable. For example, “When you throw your toys, it can break them, and then you won’t be able to play with them anymore.”</p>
+<p style="font-weight: 500; margin-bottom: 16px; margin-top: 16px;">While it might be tempting to give in to end the tantrum, try to hold your ground without losing your temper. At this age, children start understanding the concept of rules. Ensure they know tantrums aren’t a way to bend them.</p>
+<p style="font-weight: 500; margin-bottom: 16px; margin-top: 16px;">At this age, your three-year-old should start developing some problem-solving skills. Thus, discuss what they could have done differently after the tantrum has subsided. Encourage them to use their words to express their feelings. Praise them when they can communicate their emotions.</p>
+<p style="font-weight: 500; margin-bottom: 16px; margin-top: 16px;">Remember, consistency is crucial. If your three-year-old learns that tantrums result in getting their way sometimes but not always, they might keep trying in hopes of those times when it does work. Consistent parenting helps them understand that tantrums are not effective.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_10">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_2 et_pb_bg_layout_light" href="https://shaws.com.sg/book-a-tour/">Book a tour of Shaws Preschool today!</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</div>
+	<div class="swp_social_panel swp_horizontal_panel swp_flat_fresh  swp_default_full_color swp_individual_full_color swp_other_full_color scale-100  scale-" data-min-width="1100" data-float-color="#ffffff" data-float="left" data-float-mobile="none" data-transition="slide" data-post-id="14028"><div class="nc_tweetContainer swp_share_button swp_twitter" data-network="twitter"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=3+Year+Old+Parenting+Questions+Answered&amp;url=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F" data-link="https://twitter.com/intent/tweet?text=3+Year+Old+Parenting+Questions+Answered&amp;url=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_facebook" data-network="facebook"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_linkedin" data-network="linkedin"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F" data-link="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_linkedin_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_pinterest" data-network="pinterest"><a rel="nofollow noreferrer noopener" class="nc_tweet swp_share_link noPop" onclick="var e=document.createElement('script');
+							e.setAttribute('type','text/javascript');
+							e.setAttribute('charset','UTF-8');
+							e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+							document.body.appendChild(e);
+						"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_pinterest_icon"></i><span class="swp_share">Pin</span></span></span></span></a></div></div><div class="swp-content-locator"></div>					</div>
+					<div class="et_post_meta_wrapper">
+										</div>
+				</article>
+
+						</div>
+
+				<div id="sidebar">
+		<div id="archives-2" class="et_pb_widget widget_archive"><h4 class="widgettitle">Archives</h4>
+			<ul>
+					<li><a href="https://shaws.com.sg/2024/03/">March 2024</a></li>
+	<li><a href="https://shaws.com.sg/2024/01/">January 2024</a></li>
+	<li><a href="https://shaws.com.sg/2023/08/">August 2023</a></li>
+	<li><a href="https://shaws.com.sg/2023/07/">July 2023</a></li>
+	<li><a href="https://shaws.com.sg/2023/06/">June 2023</a></li>
+	<li><a href="https://shaws.com.sg/2023/05/">May 2023</a></li>
+	<li><a href="https://shaws.com.sg/2023/04/">April 2023</a></li>
+	<li><a href="https://shaws.com.sg/2023/02/">February 2023</a></li>
+	<li><a href="https://shaws.com.sg/2023/01/">January 2023</a></li>
+	<li><a href="https://shaws.com.sg/2022/11/">November 2022</a></li>
+	<li><a href="https://shaws.com.sg/2022/08/">August 2022</a></li>
+	<li><a href="https://shaws.com.sg/2022/07/">July 2022</a></li>
+	<li><a href="https://shaws.com.sg/2022/05/">May 2022</a></li>
+	<li><a href="https://shaws.com.sg/2022/03/">March 2022</a></li>
+	<li><a href="https://shaws.com.sg/2022/01/">January 2022</a></li>
+	<li><a href="https://shaws.com.sg/2021/12/">December 2021</a></li>
+	<li><a href="https://shaws.com.sg/2021/10/">October 2021</a></li>
+	<li><a href="https://shaws.com.sg/2021/08/">August 2021</a></li>
+	<li><a href="https://shaws.com.sg/2021/06/">June 2021</a></li>
+	<li><a href="https://shaws.com.sg/2021/03/">March 2021</a></li>
+	<li><a href="https://shaws.com.sg/2021/02/">February 2021</a></li>
+	<li><a href="https://shaws.com.sg/2021/01/">January 2021</a></li>
+	<li><a href="https://shaws.com.sg/2020/12/">December 2020</a></li>
+	<li><a href="https://shaws.com.sg/2020/11/">November 2020</a></li>
+	<li><a href="https://shaws.com.sg/2020/09/">September 2020</a></li>
+	<li><a href="https://shaws.com.sg/2020/07/">July 2020</a></li>
+	<li><a href="https://shaws.com.sg/2020/05/">May 2020</a></li>
+	<li><a href="https://shaws.com.sg/2020/01/">January 2020</a></li>
+	<li><a href="https://shaws.com.sg/2019/11/">November 2019</a></li>
+	<li><a href="https://shaws.com.sg/2019/10/">October 2019</a></li>
+	<li><a href="https://shaws.com.sg/2019/08/">August 2019</a></li>
+	<li><a href="https://shaws.com.sg/2019/07/">July 2019</a></li>
+	<li><a href="https://shaws.com.sg/2018/11/">November 2018</a></li>
+	<li><a href="https://shaws.com.sg/2018/10/">October 2018</a></li>
+	<li><a href="https://shaws.com.sg/2018/08/">August 2018</a></li>
+	<li><a href="https://shaws.com.sg/2018/07/">July 2018</a></li>
+			</ul>
+
+			</div><div id="categories-2" class="et_pb_widget widget_categories"><h4 class="widgettitle">Categories</h4>
+			<ul>
+					<li class="cat-item cat-item-11"><a href="https://shaws.com.sg/category/articles/">Articles</a>
+</li>
+	<li class="cat-item cat-item-106"><a href="https://shaws.com.sg/category/downloadable-resources/">Downloadable Resources</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="https://shaws.com.sg/category/events/">Events</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="https://shaws.com.sg/category/parenting-guides/">Parenting Guides</a>
+</li>
+			</ul>
+
+			</div>	</div>
+		</div>
+	</div>
+	</div>
+
+	<footer class="et-l et-l--footer">
+			<div class="et_builder_inner_content et_pb_gutters3"><div class="et_pb_section et_pb_section_0_tb_footer et_pb_with_background et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0_tb_footer et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0_tb_footer  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner">Copyright © Shaws Preschool 2023. All rights reserved. | <a href="/privacy-policy/">PDPA</a></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_1_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<ul class="et_pb_module et_pb_social_media_follow et_pb_social_media_follow_0_tb_footer clearfix  et_pb_text_align_right et_pb_text_align_center-tablet et_pb_bg_layout_light">
+				
+				
+				
+				
+				<li class="et_pb_social_media_follow_network_0_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-facebook"><a href="https://www.facebook.com/ShawsPreschool/" class="icon et_pb_with_border" title="Follow on Facebook" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li><li class="et_pb_social_media_follow_network_1_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-instagram"><a href="https://www.instagram.com/shawspreschool" class="icon et_pb_with_border" title="Follow on Instagram" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li><li class="et_pb_social_media_follow_network_2_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-tiktok et-pb-social-fa-icon"><a href="https://www.tiktok.com/@shawspreschool" class="icon et_pb_with_border" title="Follow on TikTok" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li><li class="et_pb_social_media_follow_network_3_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-linkedin"><a href="https://www.linkedin.com/company/shaws-preschool/" class="icon et_pb_with_border" title="Follow on LinkedIn" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li>
+			</ul>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</footer>
+		</div>
+
+			
+		</div>
+		<div id="et-boc" class="dm-base-context"><div class="et-l dm-base-context"></div></div></div>
+
+			
+			<script type="text/javascript">
+				var _paq = _paq || [];
+					_paq.push(['setCustomDimension', 1, '{"ID":29,"name":"Julius","avatar":"e30345e089c054fc3b9ffa0d4b4168ee"}']);
+				_paq.push(['trackPageView']);
+								(function () {
+					var u = "https://stats1.wpmudev.com/";
+					_paq.push(['setTrackerUrl', u + 'track/']);
+					_paq.push(['setSiteId', '104426']);
+					var d   = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+					g.type  = 'text/javascript';
+					g.async = true;
+					g.defer = true;
+					g.src   = 'https://stats.wpmucdn.com/analytics.js';
+					s.parentNode.insertBefore(g, s);
+				})();
+			</script>
+			<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KW27VTQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<meta name="facebook-domain-verification" content="0o3k381n2p456ddv7u9u8uf9nceeo3">
+
+
+
+
+<!-- Facebook Pixel Code -->
+
+<script>
+
+!function(f,b,e,v,n,t,s)
+
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];
+
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+
+'https://connect.facebook.net/en_US/fbevents.js');
+
+
+fbq('init', '566350953921183'); 
+
+fbq('track', 'PageView');
+
+</script>
+
+<noscript>
+
+<img height="1" width="1" alt="Pixel" src="https://www.facebook.com/tr?id=600739550426159&amp;ev=PageView%0D%0A%0D%0A&amp;noscript=1">
+
+</noscript>
+
+<!-- End Facebook Pixel Code -->
+
+<!-- Page Scroll to ID -->
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KW27VTQ');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" id="social_warfare_script-js-extra">
+/* <![CDATA[ */
+var socialWarfare = {"addons":[],"post_id":"14028","variables":{"emphasizeIcons":false,"powered_by_toggle":false,"affiliate_link":"https:\/\/warfareplugins.com"},"floatBeforeContent":""};
+/* ]]> */
+</script>
+
+<script type="text/javascript" id="divi-custom-script-js-extra">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/shaws.com.sg\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/shaws.com.sg\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"49f611926d","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"94a4c19c05","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"14028","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":"https:\/\/shaws.com.sg\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#7EBEC5","waypoints_options":{"context":[".pum-overlay"]}};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+
+
+
+
+<div class="swp_social_panelSide swp_floating_panel swp_social_panel swp_ swp_default_full_color swp_individual_full_color swp_other_full_color slide swp_float_left" data-min-width="1100" data-float-color="#ffffff" data-float="left" data-float-mobile="none" data-transition="slide" data-post-id="14028" style="top: 224px; display: none;"><div class="nc_tweetContainer swp_share_button swp_twitter" data-network="twitter"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=3+Year+Old+Parenting+Questions+Answered&amp;url=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F" data-link="https://twitter.com/intent/tweet?text=3+Year+Old+Parenting+Questions+Answered&amp;url=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_facebook" data-network="facebook"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_linkedin" data-network="linkedin"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F" data-link="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2F3-year-old-parenting-questions-answered%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_linkedin_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_pinterest" data-network="pinterest"><a rel="nofollow noreferrer noopener" class="nc_tweet swp_share_link noPop" onclick="var e=document.createElement('script');
+							e.setAttribute('type','text/javascript');
+							e.setAttribute('charset','UTF-8');
+							e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+							document.body.appendChild(e);
+						"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_pinterest_icon"></i><span class="swp_share">Pin</span></span></span></span></a></div></div><script type="text/javascript"> var swp_nonce = "598972eb89";function parentIsEvil() { var html = null; try { var doc = top.location.pathname; } catch(err){ }; if(typeof doc === "undefined") { return true } else { return false }; }; if (parentIsEvil()) { top.location = self.location.href; };var url = "https://shaws.com.sg/3-year-old-parenting-questions-answered/";if(url.indexOf("stfi.re") != -1) { var canonical = ""; var links = document.getElementsByTagName("link"); for (var i = 0; i < links.length; i ++) { if (links[i].getAttribute("rel") === "canonical") { canonical = links[i].getAttribute("href")}}; canonical = canonical.replace("?sfr=1", "");top.location = canonical; console.log(canonical);};var swpFloatBeforeContent = false; var swp_ajax_url = "https://shaws.com.sg/wp-admin/admin-ajax.php"; var swp_post_id = "14028";var swpClickTracking = false;</script>	
+			<span class="et_pb_scroll_top et-pb-icon"></span>
+	<script defer="" src="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-43ceda1e609e8dd941ef71defd3eae56.js"></script>
+
+</body></html>

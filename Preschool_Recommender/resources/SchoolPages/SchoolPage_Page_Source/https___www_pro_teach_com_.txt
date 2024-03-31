@@ -1,0 +1,230 @@
+<html lang="en-GB" dir="ltr" style="" class=" js no-touch"><head>
+		<title>Most trusted Student Care in Singapore | Pro-Teach Student Care Group</title>
+		<meta charset="utf-8">
+		<meta name="description" content="At Pro-Teach, we awaken possibilities through nurturing cognitive growth, emotional wisdom and physical wellness. We ensure that our students are constantly stimulated, constantly interested and constantly growing.">
+<meta name="google-site-verification" content="9PxCecFTDvceqBcLzgTvKpfTVWS1S7fX-5l-I80J13I">
+  		<script type="text/javascript" src="script/modernizr.js"></script>
+		<script>
+		if (Modernizr.touch) {
+			window.location.replace("home.php");
+		}
+		</script>
+
+		<link href="css/ui-lightness/jquery-ui-1.10.3.custom.css" rel="stylesheet" media="screen">
+		<link href="css/jquery.videobackground.css" rel="stylesheet" media="screen">
+		<link href="css/landing.css" rel="stylesheet" media="screen">
+
+  		<script type="text/javascript" src="script/jquery-1.9.1.js"></script>
+  		<script type="text/javascript" src="script/jquery-ui-1.10.3.custom.js"></script>
+  		<script type="text/javascript" src="script/jquery.jplayer.min.js"></script>
+  		<script type="text/javascript" src="script/jquery.videobackground.js"></script>
+
+		<script>
+
+			var videoDom;
+			var percent = 0;
+			var videoLoaded = false;
+
+			function updateVideoLoadStatus() {
+				if (videoDom) {
+					if((typeof videoDom.buffered === "object") && (videoDom.buffered.length > 0)) {
+						if(videoDom.duration > 0) {
+							var bufferTime = 0;
+							for(var i = 0; i < videoDom.buffered.length; i++) {
+								bufferTime += videoDom.buffered.end(i) - videoDom.buffered.start(i);
+							}
+							percent = 100 * bufferTime / videoDom.duration;
+						} 
+					} else { 
+						percent = 0;
+					}
+					var displayPercent = Math.max(0, Math.ceil(percent)) + "%";
+					$('.loadingPercent').text(displayPercent);
+					if (!videoLoaded) {
+						setTimeout(updateVideoLoadStatus, 100);
+					}
+				}else{
+					$('.loadingPercent').hide();
+				}
+			}
+
+			$(document).ready(function() {
+
+				$('.video-background').videobackground({
+					videoSource: [
+						['http://dev2.theworkinghome.com/pro-teach/video/Pro-TeachLandingVid_1024x576.mp4', 'video/mp4'],
+						['video/Pro-TeachLandingVid_1024x576.webm', 'video/webm'], 
+						['video/Pro-TeachLandingVid_1024x576.ogv', 'video/ogg']
+					], 
+					controlPosition: '#mainhide',
+					muted: true, 
+					poster: '',
+					loadedCallback: function() {
+						$(this).videobackground('mute');
+						videoLoaded = true;
+						$('#loadingScreen').fadeOut();
+					},
+					preloadCallback: function(){
+						$('#loadingScreen').fadeIn();
+						videoDom = $('.video-background').find('video').get(0);
+						updateVideoLoadStatus();
+					}
+				});
+
+				var myPlayer = $("#musicPlayer"),
+					myPlayerData,
+					fixFlash_mp4, // Flag: The m4a and m4v Flash player gives some old currentTime values when changed.
+					fixFlash_mp4_id, // Timeout ID used with fixFlash_mp4
+					ignore_timeupdate, // Flag used with fixFlash_mp4
+					options = {
+						ready: function (event) {
+							// Hide the volume slider on mobile browsers. ie., They have no effect.
+							if(event.jPlayer.status.noVolume) {
+								// Add a class and then CSS rules deal with it.
+								$(".jp-gui").addClass("jp-no-volume");
+							}
+							// Determine if Flash is being used and the mp4 media type is supplied. BTW, Supplying both mp3 and mp4 is pointless.
+							fixFlash_mp4 = event.jPlayer.flash.used && /m4a|m4v/.test(event.jPlayer.options.supplied);
+							// Setup the player with media.
+							$(this).jPlayer("setMedia", {
+								mp3: "video/bgmusic.mp3"
+							}).jPlayer("play");
+
+							$(this).jPlayer("option", "muted", true);
+						},
+						volumechange: function(event) {
+							if(event.jPlayer.options.muted) {
+								myControl.volume.slider("value", 0);
+							} else {
+								myControl.volume.slider("value", event.jPlayer.options.volume);
+							}
+						},
+						swfPath: "js",
+						supplied: "mp3",
+						cssSelectorAncestor: "#jp_container_1",
+						wmode: "window",
+						keyEnabled: true
+					},
+					myControl = {
+						volume: $(options.cssSelectorAncestor + " .jp-volume-slider")
+					};
+
+				// Instance jPlayer
+				myPlayer.jPlayer(options);
+
+				// Define hover states of the buttons
+				$('.jp-gui ul li').hover(
+					function() { $(this).addClass('ui-state-hover'); },
+					function() { $(this).removeClass('ui-state-hover'); }
+				);
+
+				// Create the volume slider control
+				myControl.volume.slider({
+					animate: "fast",
+					max: 1,
+					range: "min",
+					step: 0.01,
+					value : $.jPlayer.prototype.options.volume,
+					slide: function(event, ui) {
+						myPlayer.jPlayer("option", "muted", true);
+						myPlayer.jPlayer("option", "volume", ui.value);
+					}
+				});
+
+		    });
+
+			function MM_swapImgRestore() { //v3.0
+			  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+			}
+			function MM_preloadImages() { //v3.0
+			  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+			    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+			    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+			}
+
+			function MM_findObj(n, d) { //v4.01
+			  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+			    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+			  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+			  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+			  if(!x && d.getElementById) x=d.getElementById(n); return x;
+			}
+
+			function MM_swapImage() { //v3.0
+			  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+			   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+			}
+    </script>
+		
+    </head>
+    <body onload="MM_preloadImages('img/startbtn_over.png','img/startstrip_over.png')">
+
+		<div id="loadingScreen" style="position: fixed; width: 100%; height: 100%; background-image: url(&quot;video/Pro-Teach.jpg&quot;); background-size: 100%; z-index: 5; padding-top: 300px; text-align: center;">
+			<div class="loadingContent">
+				<img src="img/loading6.gif">
+				<div class="loadingPercent">0%</div>
+			</div>
+		</div>
+
+		<div class="video-background" style="height: 600px;"><video preload="auto" autoplay="autoplay" muted="muted"><source src="http://dev2.theworkinghome.com/pro-teach/video/Pro-TeachLandingVid_1024x576.mp4" type="video/mp4"><source src="video/Pro-TeachLandingVid_1024x576.webm" type="video/webm"><source src="video/Pro-TeachLandingVid_1024x576.ogv" type="video/ogg"></video></div>
+    	<div id="musicPlayer" style="width: 0px; height: 0px;"><img id="jp_poster_0" style="width: 0px; height: 0px; display: none;"><audio id="jp_audio_0" preload="metadata" src="https://www.pro-teach.com/video/bgmusic.mp3"></audio></div>
+
+		<div id="page">
+			<div id="page-group" style="height:100%">
+				<div id="header" class="header" role="banner"></div>
+				<div id="content" style="height:100%">
+					<div id="main" role="main">
+
+						<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+						  <tbody><tr>
+						    <td width="50" height="40">&nbsp;</td>
+						    <td>&nbsp;</td>
+						    <td width="50">&nbsp;</td>
+						  </tr>
+						  <tr>
+						    <td height="85">&nbsp;</td>
+						    <td align="left" valign="top"><img src="img/logo_landing.png" width="169" height="67" alt="Pro-Teach Logo"></td>
+						    <td>&nbsp;</td>
+						  </tr>
+						  <tr>
+						    <td>&nbsp;</td>
+						    <td align="right" valign="middle"><a href="home.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('startbtn','','img/startbtn_over.png',1)"></a></td>
+						    <td>&nbsp;</td>
+						  </tr>
+						  <tr>
+						    <td height="125">&nbsp;</td>
+						    <td colspan="2" align="right" valign="bottom"><a href="home.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('startbtn','','img/startstrip_over.png',1)"><img src="img/startstrip.png" vspace="15" alt="" name="startbtn" width="400" height="39" border="0"></a></td>
+						    </tr>
+						</tbody></table>
+					
+					</div>
+                    <div id="mainhide" role="main"><div class="ui-video-background ui-widget ui-widget-content ui-corner-all"></div></div>
+					<div id="aside" class="aside" role="complementary">
+					</div>
+				</div>
+			</div>
+			<div id="footer" class="footer" role="contentinfo"></div>
+		</div>
+
+		<div id="jp_container_1">
+			<div class="jp-gui">
+				<ul>
+					<li class="jp-play ui-state-default ui-corner-all"><a href="javascript:;" class="jp-play ui-icon ui-icon-play" tabindex="1" title="play">play</a></li>
+					<li class="jp-pause ui-state-default ui-corner-all" style="display: none;"><a href="javascript:;" class="jp-pause ui-icon ui-icon-pause" tabindex="1" title="pause" style="display: none;">pause</a></li>
+					<li class="jp-stop ui-state-default ui-corner-all"><a href="javascript:;" class="jp-stop ui-icon ui-icon-stop" tabindex="1" title="stop">stop</a></li>
+					<li class="jp-mute ui-state-default ui-corner-all" style="display: none;"><a href="javascript:;" class="jp-mute ui-icon ui-icon-volume-off" tabindex="1" title="mute" style="display: none;">mute</a></li>
+					<li class="jp-unmute ui-state-default ui-state-active ui-corner-all" style="display: list-item;"><a href="javascript:;" class="jp-unmute ui-icon ui-icon-volume-off" tabindex="1" title="unmute" style="display: block;">unmute</a></li>
+					<li class="jp-volume-max ui-state-default ui-corner-all"><a href="javascript:;" class="jp-volume-max ui-icon ui-icon-volume-on" tabindex="1" title="max volume">max volume</a></li>
+				</ul>
+				<div class="jp-volume-slider ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all" aria-disabled="false"><div class="ui-slider-range ui-widget-header ui-corner-all ui-slider-range-min" style="width: 0%;"></div><a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 0%;"></a></div>
+				<div class="jp-clearboth"></div>
+			</div>
+			<div class="jp-no-solution" style="display: none;">
+				<span>Update Required</span>
+				To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+			</div>
+		</div>
+
+    
+
+</body></html>

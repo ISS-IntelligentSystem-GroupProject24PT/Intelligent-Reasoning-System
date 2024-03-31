@@ -1,0 +1,732 @@
+<html class="no-js k-webkit k-webkit123" lang="en"><!--<![endif]--><head id="head">
+<!-- Google Tag Manager -->
+<script src="https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.Oh6mNxd5OYM.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AAAC/rs=AHpOoo8ivBPi_9I5G7qxoBeYV5pO1OVdmQ/cb=gapi.loaded_1?le=scs" async=""></script><script src="https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.Oh6mNxd5OYM.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AAAC/rs=AHpOoo8ivBPi_9I5G7qxoBeYV5pO1OVdmQ/cb=gapi.loaded_0?le=scs" async=""></script><script async="" src="//cse.google.com/adsense/search/async-ads.js"></script><script src="https://connect.facebook.net/signals/config/689046139014896?v=2.9.151&amp;r=stable&amp;domain=www.touch.org.sg&amp;hme=8ce74e881727851b4427183947937854816d72704925561b9de6420cd43214ee&amp;ex_m=66%2C111%2C98%2C102%2C57%2C3%2C92%2C65%2C15%2C90%2C83%2C48%2C50%2C157%2C160%2C171%2C167%2C168%2C170%2C28%2C93%2C49%2C72%2C169%2C152%2C155%2C164%2C165%2C172%2C120%2C14%2C47%2C176%2C175%2C122%2C17%2C32%2C36%2C1%2C40%2C61%2C62%2C63%2C67%2C87%2C16%2C13%2C89%2C86%2C85%2C99%2C101%2C35%2C100%2C29%2C25%2C153%2C156%2C129%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C53%2C58%2C60%2C70%2C94%2C26%2C71%2C8%2C7%2C75%2C45%2C20%2C96%2C95%2C9%2C19%2C18%2C77%2C82%2C44%2C43%2C81%2C37%2C39%2C80%2C52%2C78%2C31%2C41%2C34%2C69%2C0%2C88%2C4%2C84%2C76%2C79%2C2%2C33%2C59%2C38%2C97%2C42%2C74%2C64%2C103%2C56%2C55%2C30%2C91%2C54%2C51%2C46%2C73%2C68%2C23%2C104" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//tag.getdrip.com/6649301.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-LLJZZN5G1Q&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=003160911585029599002:xc7tjvk0yhk"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PSFBXJW"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSFBXJW');</script>
+<!-- End Google Tag Manager -->
+
+    <meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="shortcut icon" href="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/Images/favicon.png"><link rel="stylesheet" href="/Sitefinity/WebsiteTemplates/Touch/Kendo/styles/kendo.common.min.css"><link rel="stylesheet" href="/Sitefinity/WebsiteTemplates/Touch/Kendo/styles/kendo.default.min.css">
+	<script src="/Sitefinity/WebsiteTemplates/Touch/Kendo/js/jquery.min.js"></script>
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-74882030-1', 'auto');
+	ga('send', 'pageview');
+	</script>
+	
+	<script type="text/javascript">
+$(document).ready(function () {
+ $('.email-obfuscation').each(function() {
+  // this.href = this.href.replace('(at)', '@').replace(/\(dot\)/g, '.');
+  // Remove this line if you don't want to set the email address as link text:
+  this.innerHTML = this.innerHTML.replace('(at)', '@').replace(/\(dot\)/g, '.');
+ });
+});
+</script><script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=AW-852620228"></script><script type="text/javascript">
+<!-- Global site tag (gtag.js) - Google Ads: 852620228 -->
+window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-852620228');
+</script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/852620228/?random=1711818654725&amp;cv=11&amp;fst=1711818654725&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0v9180717331za200&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fwww.touch.org.sg%2Fabout-touch%2Fabout-us-overview&amp;hn=www.googleadservices.com&amp;frm=0&amp;npa=0&amp;pscdl=noapi&amp;auid=116142394.1711818618&amp;fdr=QA&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=AW-723097352"></script><script type="text/javascript">
+<!-- Global site tag (gtag.js) - Google Ads: 723097352 -->
+window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-723097352');
+</script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/723097352/?random=1711818654772&amp;cv=11&amp;fst=1711818654772&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0za200&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fwww.touch.org.sg%2Fabout-touch%2Fabout-us-overview&amp;hn=www.googleadservices.com&amp;frm=0&amp;npa=0&amp;pscdl=noapi&amp;auid=116142394.1711818618&amp;fdr=QA&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script><style type="text/css" media="all">/* Change the background-image url to your desired banner background. */
+body{
+  background-image:url(/images/default-source/About-Us-Overview/image-banner.jpg)
+}</style><meta name="Generator" content="Sitefinity 10.1.6544.0 OME"><link rel="canonical" href="https://www.touch.org.sg/about-touch/about-us-overview"><meta name="viewport" content="width=device-width, initial-scale=1.0"><script type="text/javascript">
+	(function() {var _rdDeviceWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;var _rdDeviceHeight = (window.innerHeight > 0) ? window.innerHeight : screen.height;var _rdOrientation = (window.width > window.height) ? 'landscape' : 'portrait';})();
+</script><link href="/Telerik.Web.UI.WebResource.axd?d=bDQQxc2IhCMyBPlV7TgYKIihvXgEmGf-W-97cuWN2IFDNXDRD86UCcakF957LU0eWrJKA0xI5FW0Fsc3c66_zfMfKCBPyz0K7qkPJlZ1bnjOQT1IqMkqMZ_EGlgMnv3MXo8AN3E7-IlEB16vyg0BuQ2&amp;t=637564863579089091&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Sitefinity.Resources%2c+Version%3d10.1.6544.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3a111ce604-9da6-48e0-ab2f-2a63ab97e78c%3a7a90d6a%3bTelerik.Web.UI%2c+Version%3d2017.2.621.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen%3ae0add335-49c5-47a8-829e-e7aa813f8ea6%3ad7e35272%3ab7acb766%3a6cd7c4a8" type="text/css" rel="stylesheet"><link href="/Sitefinity/Public/ResponsiveDesign/layout_transformations.css?pageDataId=77b80c41-fe39-6db2-95ac-ff000094aea7&amp;pageSiteNode=76B80C41-FE39-6DB2-95AC-FF000094AEA7/3d8cd896-8aaf-4a2d-9060-638a1f151aec/SitefinitySiteMap" type="text/css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/global/bootstrap.min.css?v=637447673140000000" type="text/css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/global/slick.min.css?v=637434790440000000" type="text/css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/global/owl.carousel.min.css?v=637388383800000000" type="text/css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/global/themify-icons.css?v=637388383800000000" type="text/css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/global/style.css?v=638246236663897964" type="text/css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/global/flexslider.css?v=637447673140000000" type="text/css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/global/fontawesome-all.min.css?v=637510412400000000" type="text/css" rel="stylesheet"><title>
+	TOUCH Community Services
+</title><script src="https://www.google.com/cse/static/element/8435450f13508ca1/cse_element__en.js?usqp=CAI%3D" type="text/javascript"></script><link type="text/css" href="https://www.google.com/cse/static/element/8435450f13508ca1/default+en.css" rel="stylesheet"><link type="text/css" href="https://www.google.com/cse/static/style/look/v4/default.css" rel="stylesheet"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style type="text/css">.gsc-control-cse{font-family:arial, sans-serif}.gsc-control-cse .gsc-table-result{font-family:arial, sans-serif}.gsc-refinementsGradient{background:linear-gradient(to left,rgba(255,255,255,1),rgba(255,255,255,0))}.gsc-control-cse{border-color:#FFFFFF;background-color:#FFFFFF}input.gsc-input,.gsc-input-box,.gsc-input-box-hover,.gsc-input-box-focus{border-color:#D9D9D9}.gsc-search-button-v2,.gsc-search-button-v2:hover,.gsc-search-button-v2:focus{border-color:#666666;background-color:#CECECE;background-image:none;filter:none}.gsc-search-button-v2 svg{fill:#FFFFFF}.gsc-tabHeader.gsc-tabhActive,.gsc-refinementHeader.gsc-refinementhActive{color:#CCCCCC;border-color:#CCCCCC;background-color:#FFFFFF}.gsc-tabHeader.gsc-tabhInactive,.gsc-refinementHeader.gsc-refinementhInactive{color:#CCCCCC;border-color:#CCCCCC;background-color:#FFFFFF}.gsc-webResult.gsc-result,.gsc-results .gsc-imageResult{border-color:#FFFFFF;background-color:#FFFFFF}.gsc-webResult.gsc-result:hover{border-color:#FFFFFF;background-color:#FFFFFF}.gs-webResult.gs-result a.gs-title:link,.gs-webResult.gs-result a.gs-title:link b,.gs-imageResult a.gs-title:link,.gs-imageResult a.gs-title:link b{color:#0000CC}.gs-webResult.gs-result a.gs-title:visited,.gs-webResult.gs-result a.gs-title:visited b,.gs-imageResult a.gs-title:visited,.gs-imageResult a.gs-title:visited b{color:#0000CC}.gs-webResult.gs-result a.gs-title:hover,.gs-webResult.gs-result a.gs-title:hover b,.gs-imageResult a.gs-title:hover,.gs-imageResult a.gs-title:hover b{color:#0000CC}.gs-webResult.gs-result a.gs-title:active,.gs-webResult.gs-result a.gs-title:active b,.gs-imageResult a.gs-title:active,.gs-imageResult a.gs-title:active b{color:#0000CC}.gsc-cursor-page{color:#0000CC}a.gsc-trailing-more-results:link{color:#0000CC}.gs-webResult:not(.gs-no-results-result):not(.gs-error-result) .gs-snippet,.gs-fileFormatType{color:#000000}.gs-webResult div.gs-visibleUrl{color:#008000}.gs-webResult div.gs-visibleUrl-short{color:#008000}.gsc-cursor-box{border-color:#FFFFFF}.gsc-results .gsc-cursor-box .gsc-cursor-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#CCCCCC}.gsc-results .gsc-cursor-box .gsc-cursor-current-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#CCCCCC}.gsc-webResult.gsc-result.gsc-promotion{border-color:#336699;background-color:#FFFFFF}.gsc-completion-title{color:#0000CC}.gsc-completion-snippet{color:#000000}.gs-promotion a.gs-title:link,.gs-promotion a.gs-title:link *,.gs-promotion .gs-snippet a:link{color:#0000CC}.gs-promotion a.gs-title:visited,.gs-promotion a.gs-title:visited *,.gs-promotion .gs-snippet a:visited{color:#0000CC}.gs-promotion a.gs-title:hover,.gs-promotion a.gs-title:hover *,.gs-promotion .gs-snippet a:hover{color:#0000CC}.gs-promotion a.gs-title:active,.gs-promotion a.gs-title:active *,.gs-promotion .gs-snippet a:active{color:#0000CC}.gs-promotion .gs-snippet,.gs-promotion .gs-title .gs-promotion-title-right,.gs-promotion .gs-title .gs-promotion-title-right *{color:#000000}.gs-promotion .gs-visibleUrl,.gs-promotion .gs-visibleUrl-short{color:#008000}.gcsc-find-more-on-google{color:#0000CC}.gcsc-find-more-on-google-magnifier{fill:#0000CC}</style><style type="text/css">.fancybox-margin{margin-right:0px;}</style><script async="true" type="text/javascript" src="//apis.google.com/js/plusone.js" gapi_processed="true"></script><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-webkit-user-select:none;white-space:nowrap}.gsst_e{vertical-align:middle;opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em;-webkit-appearance:button}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gssb_a{padding:0 9px}.gsib_a{padding:5px 9px 4px 9px}.gscb_a{line-height:27px}.gssb_e{border:0}.gssb_l{margin:5px 0}input.gsc-input::-webkit-input-placeholder{font-size:14px}input.gsc-input:-moz-placeholder{font-size:14px}input.gsc-input::-moz-placeholder{font-size:14px}input.gsc-input:-ms-input-placeholder{font-size:14px}input.gsc-input:focus::-webkit-input-placeholder{color:transparent}input.gsc-input:focus:-moz-placeholder{color:transparent}input.gsc-input:focus::-moz-placeholder{color:transparent}input.gsc-input:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style></head>
+<body class="tch">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PSFBXJW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!--[if lte IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+
+<div class="outdatedbanner" style="background:#B4053C;color:#fff">
+  <div class="container" style="height:50px;">
+    <div class="row">
+      <p class="text-center" style="line-height:50px"><span class="glyphicon glyphicon-info-sign"></span> You are using an outdated browser, click <a href="http://outdatedbrowser.com/en" title="Update Now" target="_blank" style="color:#00777F">here</a> to update</p>
+    </div>
+  </div>
+</div>
+<![endif]-->
+<form method="post" action="./about-us-overview" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="ctl06_TSM" id="ctl06_TSM" value=";;System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35:en-US:ba1d5018-bf9d-4762-82f6-06087a49b5f6:ea597d4b:b25378d2;Telerik.Web.UI, Version=2017.2.621.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en-US:e0add335-49c5-47a8-829e-e7aa813f8ea6:16e4e7cd:f7645509:24ee1bba:c128760b:874f8ea2:fd9da3ae">
+<input type="hidden" name="ctl07_TSSM" id="ctl07_TSSM" value=";Telerik.Sitefinity.Resources, Version=10.1.6544.0, Culture=neutral, PublicKeyToken=b28c218413bdf563:en:111ce604-9da6-48e0-ab2f-2a63ab97e78c:7a90d6a;Telerik.Web.UI, Version=2017.2.621.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en:e0add335-49c5-47a8-829e-e7aa813f8ea6:d7e35272:b7acb766:6cd7c4a8">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="KYDJW+02+Yr8LfOLHqBjo2RMbNKzS53Sac1/Ye7iMkQeV/UnrgXAqO/EkhBfkMaRr6GfTnGO0bhNrGtN1vRn5L5PkuWkeDoByFe3ffGF7yHc1idtDy9dF/EZ1y7Y2P9y8dCuBgEWpzsXuwwN88pQsTpii42m0Ysv6Fw72goRGAPG5wCWYIxrF5pRgkt0TJQB02y+mJ5eLCbkpo2QzdEJBg==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=kmonEut7Q22Opo4Gd97l4klWPhTNkQzlanBcjzZMEyPR_tfpQCIAMc5csRMz8ucxC0U-yfPqyAp3wIw0JbQ0xv1s997O1mOQIzdcTgB_WyU1&amp;t=637454356754849868" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+function socialButtonClickedHandler(sender, args){
+      if (window.DataIntelligenceSubmitScript) {
+            DataIntelligenceSubmitScript._client.sentenceClient.writeSentence({
+                predicate: 'Share on social media',
+                object: args._socialNetType,
+                objectMetadata: [
+											{
+											    'K': 'PageTitle',
+											    'V': document.title
+											},
+                                            {
+                                                'K': 'PageUrl',
+                                                'V': location.href
+                                            }
+                ]
+            });
+        }
+}function twitterButtonClickedHandler(sender, args){
+      if (window.DataIntelligenceSubmitScript) {
+            DataIntelligenceSubmitScript._client.sentenceClient.writeSentence({
+                predicate: 'Share on social media',
+                object: 'Twitter',
+                objectMetadata: [
+											{
+											    'K': 'PageTitle',
+											    'V': document.title
+											},
+                                            {
+                                                'K': 'PageUrl',
+                                                'V': location.href
+                                            }
+                ]
+            });
+        }
+}function googlePlusButtonClickedHandler(sender, args){
+      if (window.DataIntelligenceSubmitScript) {
+            DataIntelligenceSubmitScript._client.sentenceClient.writeSentence({
+                predicate: 'Share on social media',
+                object: 'Google+',
+                objectMetadata: [
+											{
+											    'K': 'PageTitle',
+											    'V': document.title
+											},
+                                            {
+                                                'K': 'PageUrl',
+                                                'V': location.href
+                                            }
+                ]
+            });
+        }
+}//]]>
+</script>
+
+<script src="/WebResource.axd?d=tO-_VEXYP-Ahd_4Qlr_Xuv1nw81ePIBz-3BSIIleQwjH1r6xRNzyDNBOepbmra_ZVUJIpi383KwuL2RTWTF64fGKV3rNgktS3FNZJ_9QFZpUDvMLa34DP1RbmVWNvkw9X87b_l-i_5L4n07QkGY-x_Xsnyot_vCivkD4kKWVu6I1&amp;t=637490739260000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = {"name":"en","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"$","NaNSymbol":"NaN","CurrencyNegativePattern":0,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-∞","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"∞","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"AM","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402271999999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"dddd, MMMM d, yyyy h:mm:ss tt","LongDatePattern":"dddd, MMMM d, yyyy","LongTimePattern":"h:mm:ss tt","MonthDayPattern":"MMMM d","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"M/d/yyyy","ShortTimePattern":"h:mm tt","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"ShortestDayNames":["Su","Mo","Tu","We","Th","Fr","Sa"],"DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"IsReadOnly":true,"NativeCalendarName":"Gregorian Calendar","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""]},"eras":[1,"A.D.",null,0]};//]]>
+</script>
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl06_TSM&amp;compress=2&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen%3aba1d5018-bf9d-4762-82f6-06087a49b5f6%3aea597d4b%3ab25378d2%3bTelerik.Web.UI%2c+Version%3d2017.2.621.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen%3ae0add335-49c5-47a8-829e-e7aa813f8ea6%3a16e4e7cd%3af7645509%3a24ee1bba%3ac128760b%3a874f8ea2%3afd9da3ae" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D520493E">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl06', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+<input type="hidden" name="ctl00$ctl06" id="ctl06">
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.setServerId("ctl06", "ctl00$ctl06");
+Sys.Application._enableHistoryInScriptManager();
+//]]>
+</script>
+
+	
+<!--start header-->
+<header id="main_header">
+	<div class="container">
+		<div class="row">
+			
+<div id="Content_Nav_T81990DB1038_Col00" class="sf_colsIn container touch-top-nav" data-sf-element="Container"><div class="sf_cols">
+    <div class="sf_colsOut sf_2cols_1_50">
+        <div id="Content_Nav_T81990DB1040_Col00" class="sf_colsIn sf_2cols_1in_50"><div id="LoginStatusSection" style="">    <div class="is-logged-out">
+        <!-- <a href="<%= this.CorporateSignUpUrl %>" title="Sign Up as Corporate Member">Sign Up as Corporate Member</a> -->
+        <div class="top-login"><a href="/account-management/log-in">LOG IN</a> / <a href="/account-management/sign-up-as-member">SIGN UP</a></div>
+    </div>
+
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var origUrl = window.location.href.split('?')[0];
+
+		if(window.location.pathname == '/giving') //explicit rewrite rule requested by client
+		{
+			origUrl = location.protocol + "//" + window.location.hostname + '/get-involved/donate';
+		}
+
+		if(window.location.pathname == '/') //default homepage URL
+		{
+			origUrl = location.protocol + "//" + window.location.hostname + '/home';
+		}
+
+        var callbackUrl = origUrl + "/Callback";
+        var triggerCallback = callbackUrl.indexOf("/Sitefinity") < 0 //not CMS
+            && callbackUrl.indexOf("/product/") < 0 //not product details
+            && callbackUrl.indexOf("/Action/Edit") < 0 //edit mode
+        if (triggerCallback == true) {
+            $.ajax({
+                type: "POST",
+                cache: false,
+                url: callbackUrl,
+                contentType: "application/json;charset=utf-8",
+                async: false,
+                success: function (result) {
+                    if (result.indexOf("is-logged-out") >= 0
+                        && origUrl.indexOf("/account-management/log-in") < 0
+                        && $("#IsLoginRequired").val().toLowerCase() == "true")
+                        window.location.href = "/account-management/log-in";
+                    else
+                        $("#LoginStatusSection").html(result);
+                },
+                error: function (error) {
+                    console.log("Callback Error:");
+                    console.log(error)
+                }
+            });
+        }
+
+        $("#LoginStatusSection").show();
+    });
+</script>
+            
+        </div>
+    </div>
+    <div class="sf_colsOut sf_2cols_2_50">
+        <div id="Content_Nav_T81990DB1040_Col01" class="sf_colsIn sf_2cols_2in_50">            
+        </div>
+    </div>
+</div>
+</div>
+
+    <nav class="navbar navbar-default" role="navigation">
+
+        <div class="container-fluid">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".tcs-navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="/"><img src="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/Images/touch-site-logo.png" alt="Touch" height="43"></a>
+            </div>
+
+            <div class="collapse navbar-collapse tcs-navbar-collapse" id="tcs-navbar-collapse">
+			
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="https://journeyspecial.com/" class="lnk-login" target="_blank">SHOP</a></li>
+                    <li><a href="#" class="lnk-donate">DONATE</a></li>
+                    
+                    <li class="custom-search">
+                        <a href="#" class="lnk-search" id="lnk-search">
+                            <i class="fa fa-search">&nbsp;</i>
+                        </a>
+                        <div class="csearch-wrap">
+                            <script>
+                                (function () {
+                                    var cx = '003160911585029599002:xc7tjvk0yhk';
+                                    var gcse = document.createElement('script');
+                                    gcse.type = 'text/javascript';
+                                    gcse.async = true;
+                                    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                                    var s = document.getElementsByTagName('script')[0];
+                                    s.parentNode.insertBefore(gcse, s);
+                                })();
+
+                                $(".lnk-donate").click(function (e) {
+                                    e.preventDefault();
+                                    $.ajax({
+                                        url: '/ProfileHome/ProfileEncryption',
+                                        type: "GET",
+                                        success: function (data) {
+                                            var encryptedArray = data.slice(1, -1).split(", ");
+                                            //console.log(data);
+                                            //var url = "https://publish-p111967-e1165981.adobeaemcloud.com/sg/donation-form.html?email=" + encryptedArray[0] + "&name=" + encryptedArray[1] + "&loginstatus=" + encryptedArray[2];
+                                            var url = "/donation?email=" + encryptedArray[0] + "&name=" + encryptedArray[1] + "&loginstatus=" + encryptedArray[2];
+                                            //console.log(url);
+                                            window.location.href = url;
+                                        },
+                                        error: function () {
+                                            console.log("Error");
+                                        }
+                                    });
+                                });
+                            </script>
+                            <div id="___gcse_0"><div class="gsc-control-cse gsc-control-cse-en"><div class="gsc-control-wrapper-cse" dir="ltr"><form class="gsc-search-box gsc-search-box-tools" accept-charset="utf-8"><table cellspacing="0" cellpadding="0" role="presentation" class="gsc-search-box"><tbody><tr><td class="gsc-input"><div class="gsc-input-box" id="gsc-iw-id1"><table cellspacing="0" cellpadding="0" role="presentation" id="gs_id50" class="gstl_50 gsc-input" style="width: 100%; padding: 0px;"><tbody><tr><td id="gs_tti50" class="gsib_a"><input autocomplete="off" type="text" size="10" class="gsc-input" name="search" title="search" aria-label="search" id="gsc-i-id1" dir="ltr" spellcheck="false" style="width: 100%; padding: 0px; border: none; margin: 0px; height: auto; background: url(&quot;https://www.google.com/cse/static/images/1x/en/branding.png&quot;) left center no-repeat rgb(255, 255, 255); outline: none;"></td><td class="gsib_b"><div class="gsst_b" id="gs_st50" dir="ltr"><a class="gsst_a" href="javascript:void(0)" title="Clear search box" role="button" style="display: none;"><span class="gscb_a" id="gs_cb50" aria-hidden="true">×</span></a></div></td></tr></tbody></table></div></td><td class="gsc-search-button"><button class="gsc-search-button gsc-search-button-v2"><svg width="13" height="13" viewBox="0 0 13 13"><title>search</title><path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path></svg></button></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="clear results">&nbsp;</div></td></tr></tbody></table></form><div class="gsc-results-wrapper-overlay"><div class="gsc-results-close-btn" tabindex="0"></div><div class="gsc-positioningWrapper"><div class="gsc-tabsAreaInvisible"><div aria-label="refinement" role="tab" class="gsc-tabHeader gsc-inline-block gsc-tabhActive">Custom Search</div><span class="gs-spacer"> </span></div></div><div class="gsc-positioningWrapper"><div class="gsc-refinementsAreaInvisible"></div></div><div class="gsc-above-wrapper-area-invisible"><div class="gsc-above-wrapper-area-backfill-container"></div><table cellspacing="0" cellpadding="0" role="presentation" class="gsc-above-wrapper-area-container"><tbody><tr><td class="gsc-result-info-container"><div class="gsc-result-info-invisible"></div></td><td class="gsc-orderby-container"><div class="gsc-orderby-invisible"><div class="gsc-orderby-label gsc-inline-block">Sort by:</div><div class="gsc-option-menu-container gsc-inline-block"><div class="gsc-selected-option-container gsc-inline-block"><div class="gsc-selected-option">Relevance</div><div class="gsc-option-selector"></div></div><div class="gsc-option-menu-invisible"><div class="gsc-option-menu-item gsc-option-menu-item-highlighted"><div class="gsc-option">Relevance</div></div><div class="gsc-option-menu-item"><div class="gsc-option">Date</div></div></div></div></div></td></tr></tbody></table></div><div class="gsc-adBlockInvisible"></div><div class="gsc-wrapper"><div class="gsc-adBlockInvisible"></div><div class="gsc-resultsbox-invisible"><div class="gsc-resultsRoot gsc-tabData gsc-tabdActive"><div><div class="gsc-expansionArea"></div></div></div></div></div></div><div class="gsc-modal-background-image" tabindex="0"></div></div></div></div>
+                        </div>
+                    </li>
+                </ul>
+				<ul class="nav navbar-nav navbar-main">
+        <li class="dropdown">
+            <a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="sprt"></i> About TOUCH
+                <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+                            <li class="active">
+                <a href="/about-touch/about-us-overview" target="_self">Overview</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/our-services" target="_self">Our Services</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/awards-accolades" target="_self">Awards &amp; Accolades</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/financial-information" target="_self">Financial Information</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/non-financial-information" target="_self">Non-Financial Information</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/touch-report" target="_self">TOUCH Report</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/executive-leadership" target="_self">Executive Leadership</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/press-room" target="_self">Press Room</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/tips-and-resources" target="_self">Tips and Resources</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/news" target="_self">News</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/our-impact-overview" target="_self">Our Impact Overview</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/stories" target="_self">Stories</a>
+            </li>
+
+            </ul>
+        </li>
+        <li class="dropdown">
+            <a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="sprt"></i> Get Involved
+                <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+                            <li class="">
+                <a href="/get-involved/overview" target="_self">Overview</a>
+            </li>
+            <li class="">
+                <a href="https://touch.org.sg/donation" target="_self">Donate Now</a>
+            </li>
+            <li class="">
+                <a href="/get-involved/monthly-donation" target="_self">Donate Monthly</a>
+            </li>
+            <li class="">
+                <a href="https://touch.org.sg/getinvolved/volunteer" target="_self">Volunteer</a>
+            </li>
+            <li class="">
+                <a href="https://touch.org.sg/getinvolved/fundraise" target="_self">Fundraise</a>
+            </li>
+            <li class="">
+                <a href="/get-involved/legacy-giving" target="_self">Legacy Giving</a>
+            </li>
+            <li class="">
+                <a href="/get-involved/professional-deputies-donees" target="_self">Professional Deputies and Donees</a>
+            </li>
+            <li class="">
+                <a href="/get-involved/school-partner" target="_self">School Partner</a>
+            </li>
+            <li class="">
+                <a href="/get-involved/corporate-partner" target="_self">Corporate Partner</a>
+            </li>
+            <li class="">
+                <a href="/get-involved/join-us" target="_self">Join Us</a>
+            </li>
+
+            </ul>
+        </li>
+        <li class=""><a href="/workshop" target="_self"><i class="sprt"></i> Workshops</a></li>
+        <li class="dropdown">
+            <a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="sprt"></i> Find Help
+                <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+                            <li class="">
+                <a href="/find-help/find-professional-services" target="_self">Find Professional Services</a>
+            </li>
+            <li class="">
+                <a href="/find-help/search" target="_self">Search</a>
+            </li>
+
+            </ul>
+        </li>
+				</ul>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+    </nav>
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+    </div>
+</header>
+<!--end header-->
+
+<!--start content-->
+<div class="content-wrap" id="main_content">
+  
+<div id="Main_Content_C032_Col00" class="sf_colsIn container" data-sf-element="Container"><div class="sf_cols">
+    <div class="sf_colsOut sf_2cols_1_67">
+        <div id="Main_Content_C035_Col00" class="sf_colsIn sf_2cols_1in_67"><div class="sfContentBlock banner-text"><h1>Strong <span class="hlight_r">Families.</span><br>
+Caring Generations.<br>
+Enabled Communities.</h1>
+<br>
+<p><a style="padding:5px 20px;" href=" https://www.youtube.com/embed/9RtHGfedTPs " class="video btn btn-danger btn-lg rds">TOUCH Heartbeat</a></p>
+
+
+</div>
+            
+        </div>
+    </div>
+    <div class="sf_colsOut sf_2cols_2_33">
+        <div id="Main_Content_C035_Col01" class="sf_colsIn sf_2cols_2in_33">
+            
+        </div>
+    </div>
+</div>
+</div>
+<div id="Main_Content_C031_Col00" class="sf_colsIn container" data-sf-element="Container"><div class="sf_cols top">
+    <div class="sf_colsOut sf_2cols_1_50" style="width: 50%;">
+        <div id="Main_Content_C014_Col00" class="sf_colsIn sf_2cols_1in_50" style="margin: 0px 30px 0px 180px;"><div class="sfContentBlock boxed-img bred">
+	        
+<img id="Main_Content_C018_ctl00_ctl00_imageItem" title="Main Photo" src="/images/default-source/About-Us-Overview/main-photo.jpg?sfvrsn=7b3f6354_4" alt="Main Photo">
+
+
+</div><div class="sfContentBlock boxed-content bred"><h2 style="text-align: center;"><strong>Mission</strong></h2>
+<p style="text-align: center;">To inspire hope<br>
+and impact lives<br>
+because people matter</p>
+
+
+</div>
+            
+        </div>
+    </div>
+    <div class="sf_colsOut sf_2cols_2_50" style="width: 50%;">
+        <div id="Main_Content_C014_Col01" class="sf_colsIn sf_2cols_2in_50" style="margin: 0px 180px 0px 30px;"><div class="sfContentBlock boxed-img bred">
+	        
+<img id="Main_Content_C020_ctl00_ctl00_imageItem" title="Vision 2030" src="/images/default-source/About-Us-Overview/vision-2030.jpg?sfvrsn=ca316354_0" alt="Vision 2030" style="margin-bottom:0px;">
+
+
+</div><div class="sfContentBlock boxed-content bred"><h2 style="text-align: center;"><strong>Vision 2030</strong></h2>
+<p style="text-align: center;">Strong Families&nbsp;<br>
+Caring Generations&nbsp;<br>
+Enabled Communities</p>
+
+
+</div>            
+        </div>
+    </div>
+</div><div class="sfContentBlock"><h3 style="text-align: center;">
+TOUCH Community Services is a not-for-profit charity organisation in Singapore. We were officially registered in 1992 and have been a member of the National Council of&nbsp;Social Service since 1994.</h3>
+<p>&nbsp;</p>
+
+
+</div><div class="sfContentBlock"><h2 style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9RtHGfedTPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></h2>
+
+<div class="sfRadSocialShareWrp"><div id="ctl00_Main_Content_C039_ctl00_ctl00_ctl01" class="RadSocialShare RadSocialShare_Default">
+	<!-- 2017.2.621.40 --><ul class="sshContent">
+		<li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on Facebook"><span class="sshIcon sshShareOnFacebook "></span></a></li><li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Tweet this"><span class="sshIcon sshShareOnTwitter "></span></a></li><li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on LinkedIn"><span class="sshIcon sshLinkedIn "></span></a></li><li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" style="display: none;"></a><div style="position: absolute; width: 450px; left: -10000px;" id="___plusone_0"><iframe ng-non-bindable="" frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position:absolute;top:-10000px;width:450px;margin:0px;border-style:none" tabindex="0" vspace="0" width="100%" id="I0_1711818655650" name="I0_1711818655650" src="https://apis.google.com/u/0/se/0/_/+1/fastbutton?usegapi=1&amp;size=small&amp;annotation=none&amp;width=&amp;hl=en-US&amp;origin=https%3A%2F%2Fwww.touch.org.sg&amp;url=http%3A%2F%2Fwww.touch.org.sg%2Fabout-touch%2Fabout-us-overview&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.Oh6mNxd5OYM.O%2Fam%3DAAAC%2Fd%3D1%2Frs%3DAHpOoo8ivBPi_9I5G7qxoBeYV5pO1OVdmQ%2Fm%3D__features__#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh&amp;id=I0_1711818655650&amp;_gfid=I0_1711818655650&amp;parent=https%3A%2F%2Fwww.touch.org.sg&amp;pfname=&amp;rpctoken=26539961" data-gapiattached="true"></iframe></div><g:plusone callback="ctl00_Main_Content_C039_ctl00_ctl00_ctl01plusoneHandler" href="http://www.touch.org.sg/about-touch/about-us-overview" size="small" annotation="none" width="" data-gapiscan="true" data-onload="true" data-gapistub="true"></g:plusone></li>
+	</ul><input id="ctl00_Main_Content_C039_ctl00_ctl00_ctl01_ClientState" name="ctl00_Main_Content_C039_ctl00_ctl00_ctl01_ClientState" type="hidden" autocomplete="off">
+</div></div>
+</div><div class="sfContentBlock"><h3><strong>Who We Are</strong></h3>
+We are TOUCH.<br>
+<br>
+We are here to create a progressive community where everyone is valued and empowered. <br>
+<br>
+Over the years, we have reached out to individuals from all backgrounds, including children, youth, families, seniors, and persons with special and healthcare needs.&nbsp;<br>
+<br>
+<br>
+
+
+</div><div class="sf_cols">
+    <div class="sf_colsOut sf_2cols_1_50">
+        <div id="Main_Content_C023_Col00" class="sf_colsIn sf_2cols_1in_50"><div class="sfContentBlock"><h3><strong>How We Started</strong></h3>
+The work of TOUCH started in 1986 as a service for latch-key children in the neighbourhoods of Clementi and Jurong. <br>
+<br>
+Touched by the obvious need of low-income and single-parent families with difficulties making ends meet, much less raising their children in a positive environment, a group of seven volunteers in their 20s organised activities to help the children. <br>
+<br>
+This small attempt has today become a multi-service organisation with an integrated network of services located at different parts of Singapore, including Bukit Merah, Clementi, Geylang Bahru, Hougang, Serangoon, Toa Payoh, Ubi and Yishun.
+
+
+</div>
+            
+        </div>
+    </div>
+    <div class="sf_colsOut sf_2cols_2_50">
+        <div id="Main_Content_C023_Col01" class="sf_colsIn sf_2cols_2in_50"><div class="sfContentBlock"><p style="text-align: left;">
+<img src="/images/default-source/About-Us-Overview/how-we-started.jpg?sfvrsn=cc336354_0" data-displaymode="Original" alt="How We Started" title="How We Started" style="vertical-align: middle;" class="img-responsive center" width="550"></p>
+
+
+</div>            
+        </div>
+    </div>
+</div><div class="sfContentBlock"><br>
+<h3><strong>We Are Part of a Global Blueprint</strong></h3>
+The United Nations' Sustainable Development Goals (SDGs) are at the core of a shared global blueprint for peace and prosperity. <br>
+<br>
+As stakeholders of the global community, TOUCH supports the SDGs of "Good Health and Well-being" through the&nbsp;<a href="https://www.touch.org.sg/about-touch/our-services/community-enablement-project-homepage">Community Enablement Project</a>,&nbsp;"Quality Education" through&nbsp;<a href="https://www.touch.org.sg/about-touch/our-services/touch-young-arrows-homepage">TOUCH Young Arrows</a>,&nbsp;and&nbsp;"Reduced Inequality" through&nbsp;<a href="https://www.touch.org.sg/about-touch/our-services/touch-centre-for-independent-living-homepage">TOUCH Centre for Independent Living</a>&nbsp;and&nbsp;<a href="https://www.touch.org.sg/about-touch/our-services/touch-family-support-homepage">TOUCH Family Support</a>&nbsp;among others, in our work with vulnerable groups in our local community. <br>
+<br>
+At TOUCH, we do our best to ensure that those under our care are not left behind.
+
+
+</div><div class="sf_cols">
+    <div class="sf_colsOut sf_2cols_1_50">
+        <div id="Main_Content_C027_Col00" class="sf_colsIn sf_2cols_1in_50">
+            
+        </div>
+    </div>
+    <div class="sf_colsOut sf_2cols_2_50">
+        <div id="Main_Content_C027_Col01" class="sf_colsIn sf_2cols_2in_50">            
+        </div>
+    </div>
+</div>
+</div>
+
+</div>
+<!--end content-->
+
+
+<!--start footer-->
+<footer id="main_footer">
+	
+<div id="Main_Footer_T81990DB1018_Col00" class="sf_colsIn container footer_top" data-sf-element="Container" data-placeholder-label="Footer Top"><div class="sf_cols">
+    <div class="sf_colsOut sf_4cols_1_25" style="" data-placeholder-label="Footer Logo">
+        <div id="Main_Footer_T81990DB1022_Col00" class="sf_colsIn sf_4cols_1in_25"> 
+    <img class="footer-logo" src="/images/default-source/default-album/touch-footer-logo.png?sfvrsn=e2f96154_4" title="touch-footer-logo" alt="touch-footer-logo"> 
+ 
+            
+        </div>
+    </div>
+    <div class="sf_colsOut sf_4cols_2_25" style="" data-placeholder-label="Footer Info">
+        <div id="Main_Footer_T81990DB1022_Col01" class="sf_colsIn sf_4cols_2in_25"><div class="sfContentBlock"><ul class="list-unstyled">
+    <li><em class="sprt spr-phone"></em> (65) 6377 0122</li>
+    <li><em class="sprt spr-fax"></em> (65) 6377 0121</li>
+    <li><em class="sprt spr-mail"></em>
+    <span class="email-obfuscation">tcs@touch.org.sg
+    </span>
+    </li>
+</ul>
+
+
+</div>
+            
+        </div>
+    </div>
+    <div class="sf_colsOut sf_4cols_3_25" style="" data-placeholder-label="Footer Address">
+        <div id="Main_Footer_T81990DB1022_Col02" class="sf_colsIn sf_4cols_3in_25"><div class="sfContentBlock"><address>
+<em class="sprt spr-marker"></em> <span>Blk 162 Bukit Merah Central<br>
+#05-3545 Singapore 150162</span></address>
+
+
+</div>
+            
+        </div>
+    </div>
+    <div class="sf_colsOut sf_4cols_4_25 text-right footer_social" style="" data-placeholder-label="Footer Social">
+        <div id="Main_Footer_T81990DB1022_Col03" class="sf_colsIn sf_4cols_4in_25"><div class="sfContentBlock"><a href="https://www.facebook.com/pages/TOUCH-Community-Services/114197502987" target="_blank"><em class="fa fa-facebook fa-lg"></em></a>
+<a href="https://instagram.com/touchcommunityservices" target="_blank"><em class="fa fa-instagram fa-lg"></em></a>
+<a href="https://www.linkedin.com/company/touch-community-services" target="_blank"><em class="fa fa-linkedin-square fa-lg"></em></a>
+<a href="https://www.youtube.com/c/touchcommunityservicestcs" target="_blank"><em class="fa fa-youtube-play fa-lg"></em></a>
+
+
+</div>
+            
+        </div>
+    </div>
+</div>
+</div>
+<div class="sf_cols footer_bottom">
+    <div class="sf_colsOut sf_1col_1_100" style="width: 100%;" data-placeholder-label="Footer Bottom">
+        <div id="Main_Footer_T81990DB1017_Col00" class="sf_colsIn sf_1col_1in_100"><div id="Main_Footer_T81990DB1019_Col00" class="sf_colsIn container" data-sf-element="Container"><div class="sf_cols">
+    <div class="sf_colsOut sf_2cols_1_50" style="" data-placeholder-label="Footer Copyright">
+        <div id="Main_Footer_T81990DB1020_Col00" class="sf_colsIn sf_2cols_1in_50"><div class="sfContentBlock">© TOUCH Community Services Ltd 2022. All rights reserved.
+
+
+</div>
+            
+        </div>
+    </div>
+    <div class="sf_colsOut sf_2cols_2_50 text-right" style="" data-placeholder-label="Footer Links">
+        <div id="Main_Footer_T81990DB1020_Col01" class="sf_colsIn sf_2cols_2in_50"><div class="sfContentBlock"><a href="/sitemap">Site Map</a> <a href="/terms-of-use">Terms of Use</a> <a href="/privacy-policy">Privacy Policy</a>
+
+
+</div>            
+        </div>
+    </div>
+</div>
+</div>
+
+            
+        </div>
+    </div>
+</div>
+</footer>
+<!--end footer-->   
+
+<div id="ScriptWrapper" title="Only place scripts and styles in this region">
+<script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/scripts.js"></script>
+    <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/client.min.js"></script>
+    <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/dropin.min.js"></script>
+    <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/pay.js"></script>
+    <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/paypal-checkout.min.js"></script>
+    <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/data-collector.min.js"></script>
+
+    <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/jquery.slicknav.min.js"></script>    
+     <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/slick.min.js"></script>
+
+    <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/jquery.scrollUp.min.js"></script>
+   
+       <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/specialevent.js"></script>
+   
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="/Sitefinity/WebsiteTemplates/Touch/Kendo/js/kendo.custom.min.js"></script>
+<script src="/Sitefinity/WebsiteTemplates/Touch/Kendo/js/kendo.pager.min.js"></script>
+
+<script src="/Sitefinity/WebsiteTemplates/Touch/Kendo/js/kendo.all.min.js"></script>
+    <script src="/Sitefinity/WebsiteTemplates/Touch/Kendo/js/kendo.aspnetmvc.min.js"></script>
+    <script src="/Sitefinity/WebsiteTemplates/Touch/Kendo/js/cultures/kendo.culture.en-GB.min.js"></script>
+
+
+
+
+</div>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+var sf_appPath='/';;(function() {
+                        function loadHandler() {
+                            var hf = $get('ctl07_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';Telerik.Sitefinity.Resources, Version=10.1.6544.0, Culture=neutral, PublicKeyToken=b28c218413bdf563:en:111ce604-9da6-48e0-ab2f-2a63ab97e78c:7a90d6a;Telerik.Web.UI, Version=2017.2.621.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en:e0add335-49c5-47a8-829e-e7aa813f8ea6:d7e35272:b7acb766:6cd7c4a8';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadSocialShare, {"_addFbScript":false,"_addGoogleScript":true,"_addLinkedInScript":false,"_addPinterestScript":false,"_addTwitterScript":false,"_addYammerScript":false,"_locale":"en_US","_uniqueId":"ctl00$Main_Content$C039$ctl00$ctl00$ctl01","clientStateFieldID":"ctl00_Main_Content_C039_ctl00_ctl00_ctl01_ClientState","mainButtons":"[['ShareOnFacebook','','', '470', '470', '', ''],['ShareOnTwitter','','', '470', '470', '', ''],['LinkedIn','','', '470', '470', '', ''],['GooglePlusOne','','', 'Small', 'None', '']]","urlToShare":"http://www.touch.org.sg/about-touch/about-us-overview"}, {"clicked":socialButtonClickedHandler,"onPlusone":googlePlusButtonClickedHandler,"tweet":twitterButtonClickedHandler}, null, $get("ctl00_Main_Content_C039_ctl00_ctl00_ctl01"));
+});
+//]]>
+</script>
+</form>
+<script type="text/javascript" id="">var _dcq=_dcq||[],_dcs=_dcs||{};_dcs.account="6649301";(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="//tag.getdrip.com/6649301.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script>
+
+
+<script type="text/javascript" id="" src="https://www.googletagmanager.com/gtag/js?id=AW-852620228"></script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","689046139014896");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=689046139014896&amp;ev=PageView&amp;noscript=1"></noscript>
+<iframe src="https://pay.google.com/gp/p/ui/payframe?origin=https%3A%2F%2Fwww.touch.org.sg&amp;mid=" height="0" width="0" allowpaymentrequest="true" style="display: none; visibility: hidden;"></iframe>
+<script type="text/javascript" id="">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date);gtag("config","AW-852620228");</script>
+
+<script type="text/javascript">
+	StatsClient.LogVisit('76b80c41-fe39-6db2-95ac-ff000094aea7', '456a4b12-e4f0-494f-b4ff-77e04841f2a3');
+</script>
+
+
+<script type="text/javascript">
+    /* 8. sildeBar scroll */
+    $.scrollUp({
+      scrollName: 'scrollUp', // Element ID
+      topDistance: '300', // Distance from top before showing element (px)
+      topSpeed: 300, // Speed back to top (ms)
+      animation: 'fade', // Fade, slide, none
+      animationInSpeed: 200, // Animation in speed (ms)
+      animationOutSpeed: 200, // Animation out speed (ms)
+      scrollText: '<i class="ti-arrow-up"></i>', // Text for element
+      activeOverlay: false, // Set CSS color to display scrollUp active point, e.g '#00FFFF'
+    });
+</script><a id="scrollUp" href="#top" style="display: none; position: fixed; z-index: 2147483647;"><i class="ti-arrow-up"></i></a>
+
+
+<script type="text/javascript">
+     //function DisableBackButton() {
+     //  window.history.forward()
+     // }
+     //DisableBackButton();
+     //window.onload = DisableBackButton;
+     //window.onpageshow = function(evt) { if (evt.persisted) DisableBackButton() }
+     //window.onunload = function() { void (0) }
+ </script>
+<table cellspacing="0" cellpadding="0" role="presentation" class="gstl_50 gssb_c" style="width: 2px; display: none; top: 3px; left: -1px; position: absolute;"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table><iframe name="oauth2relay1232172019" id="oauth2relay1232172019" src="https://accounts.google.com/o/oauth2/postmessageRelay?parent=https%3A%2F%2Fwww.touch.org.sg&amp;jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.Oh6mNxd5OYM.O%2Fam%3DAAAC%2Fd%3D1%2Frs%3DAHpOoo8ivBPi_9I5G7qxoBeYV5pO1OVdmQ%2Fm%3D__features__#rpctoken=1230588136&amp;forcesecure=1" tabindex="-1" aria-hidden="true" style="width: 1px; height: 1px; position: absolute; top: -100px;"></iframe></body></html>

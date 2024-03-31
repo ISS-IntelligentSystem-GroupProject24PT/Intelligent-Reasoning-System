@@ -1,0 +1,452 @@
+<html><head>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1.0, user-scalable=no">
+<title>Parent's Testimonials</title>
+
+<link rel="shortcut icon" href="/qws/slot/user/fn51/favicon50450.ico?v=1699506748">
+
+ 
+ 
+
+<link rel="stylesheet" type="text/css" href="/skin/qql/base.css">
+<link rel="stylesheet" type="text/css" href="/skin/qql/base-rwd.css">
+<link rel="stylesheet" type="text/css" href="/rs/css/ct-factor.css">
+
+<link rel="stylesheet" type="text/css" id="main_css" href="/qws/style/50450_001/main.css?1703238455"> 
+
+<script language="javascript" type="text/javascript" src="/site/ctx/js/menu.js"></script>
+<script language="javascript" type="text/javascript" src="/site/ctx/jquery/jquery.min.js"></script>
+<script language="javascript" type="text/javascript" src="/site/ctx/jquery/easing.js"></script>
+<script language="javascript" type="text/javascript" src="/site/ctx/jquery/ctjq.js"></script>
+<link rel="stylesheet" type="text/css" href="/site/ctx/jquery/ctjq.css">
+
+
+<script language="javascript" src="/skin/qql/admin.js"></script>
+<link rel="stylesheet" type="text/css" href="/skin/qql/menu.css">
+
+
+<script>
+// non-admin vars
+if (typeof ive_settings=='undefined') {
+  ive_settings={};
+  ive_settings.ptid=3042106;
+  ive_settings.url={
+    _head: '/cos/o.x?c=/qws/',
+    skin_path:'/skin/qql/' 
+  };
+  ive_settings.user={ fname: '', _id: '' , email:''};
+}
+</script>
+
+<!-- server extra head -->
+
+<!-- site extra head -->
+
+<!-- page extra head -->
+<style type="text/css">
+  .masthead2_area {
+    background: url('/qws/slot/u50450/subbanner/new banner1.jpg') center top no-repeat;
+    background-size: contain;
+  }
+  .sitebar_area{
+    display: none;
+  }
+  @media only screen and (max-width: 768px) {
+    .masthead2_area {
+      background-position-x: center !important;
+      background-position-y: 120px !important;
+      background-size: auto 67%!important;
+    }
+  }
+  
+</style>
+
+<style>
+  .lmm-testimonial .iveo_pipe_articles_show .latest-widget .article-item .article-item-body > A:before{
+    left: 5% !important;
+  }
+  .lmm-testimonial .iveo_pipe_articles_show .latest-widget .article-item .prop:after{
+    right: 5% !important;
+  }
+  
+</style> 
+<!-- END all extra head -->
+
+<script>
+
+if (typeof(coto)=='undefined') coto={ ive: { } };
+if (!coto.ive.Controller) coto.ive.Controller = function() { };
+
+coto.ive.Controller.prototype.build=function(dom,opts){
+  if (typeof(dom)=='function') return this.build_func=dom;
+  this.dom=dom;
+  if (!(this.options=$(this.dom).data('widget_options'))) this.options={ };
+  if (!(this.idata=$(this.dom).data('idata'))) this.idata={ };
+  this.idata.controller=this;
+  this.build_func.call(this,opts);
+  $(dom).data('widget_options',this.options);
+  $(dom).data('idata',this.idata);
+};
+coto.controllers={ }; // controllers list
+function ive_controller(wtype) {
+  return coto.controllers[wtype]||(coto.controllers[wtype]=new coto.ive.Controller());
+}
+
+ive_tunings={ };
+function ive_tuning(cat) { return ive_tunings[cat]||(ive_tunings[cat]={ }); }
+
+// ----- DROPMENU -----
+$(function() {
+
+
+
+
+
+
+
+  // old menu.js
+  $('.sitemenu_area ul.sitemenu li, .dropmenu a').bind('mouseover mouseleave',function(ev) {
+    var menuid='dropmenu_'+get_idnum(this.id),$menu=$('#'+menuid);
+    var isenter=(ev.type=='mouseover'||ev.type=='mouseenter');
+    ctmenu[isenter?'show':'hide'](menuid,this,$menu.hasClass('drop_right_')?'right':'bottom');
+  });
+});
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="PTP3041536 PTP3042049 pagelevel-3" topmargin="0" leftmargin="0">
+<img id="shade_img_ff" src="/pix/a/shadow5.png" style="visibility:hidden;position:absolute;z-index:1001;"> 
+<img id="shade_img_ie" src="/pix/a/shadow8.gif" style="visibility:hidden;position:absolute;z-index:1001;filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius=5,MakeShadow=true,ShadowOpacity=0.20);">
+
+<div id="netcontent"><div id="lo_whole" class="layout-single_col">
+  <div id="lo_panel">
+    <div id="lo_main"><div class="main_area" style="width:auto">
+
+  <div class="masthead_area"><header>
+  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+<script type="text/javascript" src="/qws/slot/u50450/lmm-sub/lmm-sub.js">
+</script>  
+  
+<script>
+$(function(){
+    $(window).ready(function() {
+      $("#totop").removeClass("active");
+      $("#whatsapp-btn").removeClass("active");
+    });
+    $(window).on("scroll",function(){ 
+      if ($(window).scrollTop()>parseInt($(window).height())) {
+        $("#whatsapp-btn").addClass("active");			
+      } else {
+        $("#whatsapp-btn").removeClass("active");
+      }
+    });
+});
+  
+</script>
+<a id="logo" href="/">little mighty me
+	</a>  
+<div id="right-header">
+	<a id="icon-ig" href="https://www.instagram.com/littlemightyme/?hl=en" target="_blank">IG Page</a>
+  <a id="register-button" href="/others/arrange-a-visit" target="_blank">Arrange a Visit</a>
+  <span id="menu">
+    <button type="button" class="hamburger" fdprocessedid="1waz19">
+      <span class="hamb-top"></span>
+      <span class="hamb-middle"></span>
+      <span class="hamb-bottom"></span>
+    </button>	
+  </span>
+</div>
+  
+   
+</header></div>
+<div class="sitemenu_area"><ul class="sitemenu">
+    <li id="PTID_3041536" class="PTSN_home first-item   "><a href="/" class="sitemenu">Home</a></li>
+    <li id="PTID_3042049" class="PTSN_about-us focus hasdm"><a href="/about-us" class="sitemenu sitemenulit">About&nbsp;Us</a><table id="dropmenu_3042049" class="dropmenu ">
+   
+        <tbody><tr class="lineEven ">
+      <td class="dmtrig" id="dmtrig_3041576">
+	<a id="subitem_3041576" href="/about-us/about-us"><span id="_ptmt_3041576">About Us</span></a>      	 
+	  </td>
+    </tr>
+   
+        <tr class="lineOdd ">
+      <td class="dmtrig" id="dmtrig_3042106">
+	<a id="subitem_3042106" href="/about-us/parents-testimonials"><span id="_ptmt_3042106">Parent's Testimonials</span></a>      	 
+	  </td>
+    </tr>
+   
+   
+        <tr class="lineEven ">
+      <td class="dmtrig" id="dmtrig_3042004">
+	<a id="subitem_3042004" href="/about-us/as-featured-in"><span id="_ptmt_3042004">As Featured In</span></a>      	 
+	  </td>
+    </tr>
+  </tbody></table>
+</li>
+    <li id="PTID_3041736" class="PTSN_curriculum    "><a href="/curriculum" class="sitemenu">Curriculum</a></li>
+    <li id="PTID_3041578" class="PTSN_our-facilities    "><a href="/our-facilities" class="sitemenu">Our&nbsp;Facilities</a></li>
+    <li id="PTID_3041579" class="PTSN_faq    "><a href="/faq" class="sitemenu">FAQ</a></li>
+  </ul>
+</div>
+  <div class="masthead2_area"></div>
+
+  <div class="content_area" style="clear:both; width:100%; ">
+    <div class="top"></div>
+    <div class="mid">
+            <div class="path_box">
+<a class="path" href="/">Home</a> &gt;
+About Us &gt;
+Parent's Testimonials 
+</div>
+         
+
+<div class="pagecontent_box">
+  <div class="tools_box">
+    </div>
+  
+    <h1 id="_ptoh_3042106" class="ive_editable">Parent's Testimonials</h1>
+      
+    
+    
+
+
+
+</div>
+
+
+      
+<div id="_ptoo_block_start" style="font-size:1px;border:1px solid transparent"></div>
+
+<div id="_ptoo_PTOID" class="pageblock_box " style="display:none">
+    <div id="_ptod_PTOID" class="ive_editable ive_ptod ive_content"></div>
+</div>
+
+  <div id="_ptoo_3042109" class="pageblock_box ">
+    <div id="_ptod_3042109" class="ive_editable ive_ptod ive_content"><div class="lmm-testimonial">
+<div class="iveo_pipe_articles_show iveo_gencon" width="100%" style="width: 100%;"><script language="javascript" src="/skin/qql/jqmod/jshowoff/jquery.jshowoff.js"></script>
+<div class="jshowoff" style="position: relative;"><div class="slidelinks_"><div class="slidelink_0_ active_">1</div><div class="slidelink_1_">2</div><div class="slidelink_2_">3</div><div class="slidelink_3_">4</div><div class="slidelink_4_">5</div><div class="slidelink_5_">6</div><div class="slidelink_6_">7</div><div class="slidelink_7_">8</div><div class="slidelink_8_">9</div></div><div class="controls_"><div class="btn_ prev_">&lt;</div> <div class="btn_ next_">&gt;</div> <div class="btn_ play_">»</div> <div class="pageno_">1/9</div> </div><div class="latest-widget articles_3042107" style="position: relative;">
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+<div class="article-item">
+    <div class="article-item-body">
+        <img src="/qws/slot/articles/ig01/fb7b0eac2_950.png">          
+        <a href="#"><b>Preschool Years (N2, K1, K2)</b></a>
+                <div class="prop"><p><em>The teachers are dedicated and genuinely care for the children. My children love and adore their teachers. Thank for taking good care of Enoch and Elise<br></em>- Parents of Enoch &amp; Elise (K2, 2022 &amp; N2 2022)</p></div>
+    </div>
+  </div></div></div>
+<script type="text/javascript">
+  $(function(){
+  var $content=$('.articles_3042107');
+  var count=$content.children().length;
+  if (count>1) var pipe=$content.jshowoff({ "heading":true,"label":"","effect":"fade","speed":10000,"autoPlay":true,"controls":true,"links":true,"hoverPause":true });
+  if (count==0) $content.append('<div class="empty">-No items found-</div>');
+  });
+</script>
+<div class="iveo_pipe"><img width="100%" id="call://articles/show?3042107" class="pipeobj" alt="Slider" style="width: 100%;"></div></div></div></div>
+</div>
+  <div id="_ptoo_3042110" class="pageblock_box ">
+    <div id="_ptod_3042110" class="ive_editable ive_ptod ive_content"><div class="lmm-testimonial left-align">
+<div class="iveo_pipe_articles_show iveo_gencon" width="100%" style="width: 100%;"><script language="javascript" src="/skin/qql/jqmod/jshowoff/jquery.jshowoff.js"></script>
+<div class="jshowoff" style="position: relative;"><div class="slidelinks_"><div class="slidelink_0_ active_">1</div><div class="slidelink_1_">2</div><div class="slidelink_2_">3</div><div class="slidelink_3_">4</div><div class="slidelink_4_">5</div><div class="slidelink_5_">6</div><div class="slidelink_6_">7</div><div class="slidelink_7_">8</div></div><div class="controls_"><div class="btn_ prev_">&lt;</div> <div class="btn_ next_">&gt;</div> <div class="btn_ play_">»</div> <div class="pageno_">1/8</div> </div><div class="latest-widget articles_3042111" style="position: relative;">
+
+    
+    
+    
+    
+    
+    
+    
+    
+  
+<div class="article-item">
+    <div class="article-item-body">
+        <img src="/qws/slot/articles/ig01/5da996b5a_958.png">          
+        <a href="#"><b>Playgroup (PG)</b></a>
+                <div class="prop"><p><em>It has been wonderful time for Ananda at the centre. Really appreciate teachers’ care and attention towards Ananda. Keep up the good work!<br></em><span>- Parents of&nbsp;Ananda (PG 2022)</span></p></div>
+    </div>
+  </div></div></div>
+<script type="text/javascript">
+  $(function(){
+  var $content=$('.articles_3042111');
+  var count=$content.children().length;
+  if (count>1) var pipe=$content.jshowoff({ "heading":true,"label":"","effect":"fade","speed":10000,"autoPlay":true,"controls":true,"links":true,"hoverPause":true });
+  if (count==0) $content.append('<div class="empty">-No items found-</div>');
+  });
+</script>
+<div class="iveo_pipe"><img width="100%" id="call://articles/show?3042111" class="pipeobj" alt="Slider" style="width: 100%;"></div></div></div></div>
+</div>
+          </div>
+    <div class="bottom"></div>
+  </div>
+
+  <div class="sidebar_area" style="float:left; clear:both; width:100%;">
+    <div class="top"></div>
+    <div class="mid">
+        <div class="sidebar0_box"><div id="_ptosb0_3042106" class="ive_content"></div></div>
+      
+
+
+
+
+
+
+
+
+
+
+
+      	<div class="subpages_box">
+  
+  <!-- subpages -->
+  <ul class="mysubpages_">
+      </ul>
+  <!-- end subpages -->
+
+  
+</div>
+              <div class="sidebar1_box"><div id="_ptosb1_3042106" class="ive_content"></div></div>
+    </div>
+    <div class="bottom"></div>
+  </div>
+
+  <div class="footer_area"> 
+
+
+
+
+
+
+
+
+
+
+
+
+<span id="totop" class=""></span> 
+<a href="https://api.whatsapp.com/send/?phone=6588326148&amp;text&amp;type=phone_number"><span id="whatsapp-btn" class=""></span></a>
+  
+<br>
+<table style="width: 100%" class="ives_tab_kosong">
+<tbody>
+<tr>
+<td style="width: 25%;">
+  <a href="/"><br></a><a href="/"><img class="footer-logo" src="/qws/slot/u50450/footer/lmm-footer.png" alt="lmm-footer.png" style="width: 289px; height: 123px;"></a>
+</td>
+ 
+<td style="width: 55%;">
+  
+<div class="footer-sub">
+  <img style="width: 167px; height: 78px;" class="footer-sub-logo" src="/qws/slot/u50450/footer/NUS Co-op logo new.png">
+  <img style="width: 117px; height: 75px;" class="footer-sub-logo" src="/qws/slot/u50450/footer/HPB_HealthyPre-School_Logo_Colour-1-scaled 2.png">
+  <img class="footer-sub-logo" src="/qws/slot/u50450/footer/colour-ecda-logo.png" alt="colour-ecda-logo.png" style="width: 126px; height: 81px;">
+  <img class="footer-sub-logo" src="/qws/slot/u50450/footer/colour-spark-logo.png" alt="colour-spark-logo.png">
+</div>
+</td>
+<td style="width: 15%;">
+ <h4>
+    <a href="/about-us" target="">ABOUT US</a></h4>
+  <h4>
+  <a href="/curriculum">CURRICULUM</a></h4>
+  <h4>
+  <a href="/our-facilities">OUR FACILITIES</a></h4>
+	  <h4><a href="/faq">FAQ</a></h4>
+<h4><a href="/others/arrange-a-visit">ENQUIRIES</a></h4>
+  
+</td>
+<td style="width: 5%;"><br>
+</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center; display: block; padding-bottom:10px;">Little Mighty Me Pte Ltd 2023. All rights reserved
+<span class="center-dot"></span>
+Punggol Pl, #02-816 Blk 274B, Singapore 822274
+<!--<span class="center-dot"></span>
+    <a href="https://www.instagram.com/littlemightyme/">Instagram </a>
+    <span class="center-dot"></span>
+  <a href="mailto:littlemightyme@gmail.com">littlemightyme@gmail.com</a>
+</div>-->
+</div></div>
+
+</div>
+</div>
+  </div>
+</div>
+<!-- pagetree/a1/single_col_view.html -->
+</div>
+
+
+
+
+
+</body></html>

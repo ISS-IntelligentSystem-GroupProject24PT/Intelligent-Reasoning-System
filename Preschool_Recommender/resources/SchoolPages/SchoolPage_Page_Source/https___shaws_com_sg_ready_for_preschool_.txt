@@ -1,0 +1,1674 @@
+<html lang="en-US" prefix="og: https://ogp.me/ns#" class="js"><head><meta http-equiv="origin-trial" content="Az520Inasey3TAyqLyojQa8MnmCALSEU29yQFW8dePZ7xQTvSt73pHazLFTK5f7SyLUJSo2uKLesEtEa9aUYcgMAAACPeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZyIsImV4cGlyeSI6MTcyNTQwNzk5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=">
+	<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://shaws.com.sg/xmlrpc.php">
+
+	
+	
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/moV1mTgQ6S91nuTnmll4Y9yf/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-wEVSdqKc5hf9vkWC9kAmVRAEa11o8QNGecO6p5G2xGj+RmQhgDqFDCRdpfSr1VUf"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KW27VTQ"></script><script src="https://connect.facebook.net/signals/config/566350953921183?v=2.9.151&amp;r=stable&amp;domain=shaws.com.sg&amp;hme=8ce74e881727851b4427183947937854816d72704925561b9de6420cd43214ee&amp;ex_m=66%2C111%2C98%2C102%2C57%2C3%2C92%2C65%2C15%2C90%2C83%2C48%2C50%2C157%2C160%2C171%2C167%2C168%2C170%2C28%2C93%2C49%2C72%2C169%2C152%2C155%2C164%2C165%2C172%2C120%2C14%2C47%2C176%2C175%2C122%2C17%2C32%2C36%2C1%2C40%2C61%2C62%2C63%2C67%2C87%2C16%2C13%2C89%2C86%2C85%2C99%2C101%2C35%2C100%2C29%2C25%2C153%2C156%2C129%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C53%2C58%2C60%2C70%2C94%2C26%2C71%2C8%2C7%2C75%2C45%2C20%2C96%2C95%2C9%2C19%2C18%2C77%2C82%2C44%2C43%2C81%2C37%2C39%2C80%2C52%2C78%2C31%2C41%2C34%2C69%2C0%2C88%2C4%2C84%2C76%2C79%2C2%2C33%2C59%2C38%2C97%2C42%2C74%2C64%2C103%2C56%2C55%2C30%2C91%2C54%2C51%2C46%2C73%2C68%2C23%2C104" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" defer="" src="https://stats.wpmucdn.com/analytics.js"></script><script id="diviarea-loader">window.DiviPopupData=window.DiviAreaConfig={"zIndex":1000000,"animateSpeed":400,"triggerClassPrefix":"show-popup-","idAttrib":"data-popup","modalIndicatorClass":"is-modal","blockingIndicatorClass":"is-blocking","defaultShowCloseButton":true,"withCloseClass":"with-close","noCloseClass":"no-close","triggerCloseClass":"close","singletonClass":"single","darkModeClass":"dark","noShadowClass":"no-shadow","altCloseClass":"close-alt","popupSelector":".et_pb_section.popup","initializeOnEvent":"et_pb_after_init_modules","popupWrapperClass":"area-outer-wrap","fullHeightClass":"full-height","openPopupClass":"da-overlay-visible","overlayClass":"da-overlay","exitIndicatorClass":"on-exit","hoverTriggerClass":"on-hover","clickTriggerClass":"on-click","onExitDelay":2000,"notMobileClass":"not-mobile","notTabletClass":"not-tablet","notDesktopClass":"not-desktop","baseContext":"body","activePopupClass":"is-open","closeButtonClass":"da-close","withLoaderClass":"with-loader","debug":false,"ajaxUrl":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","sys":[]};var divimode_loader=function(){"use strict";!function(t){t.DiviArea=t.DiviPopup={loaded:!1};var n=t.DiviArea,i=n.Hooks={},o={};function r(t,n,i){var r,e,c;if("string"==typeof t)if(o[t]){if(n)if((r=o[t])&&i)for(c=r.length;c--;)(e=r[c]).callback===n&&e.context===i&&(r[c]=!1);else for(c=r.length;c--;)r[c].callback===n&&(r[c]=!1)}else o[t]=[]}function e(t,n,i,r){if("string"==typeof t){var e={callback:n,priority:i,context:r},c=o[t];c?(c.push(e),c=function(t){var n,i,o,r,e=t.length;for(r=1;r<e;r++)for(n=t[r],i=r;i>0;i--)(o=t[i-1]).priority>n.priority&&(t[i]=o,t[i-1]=n);return t}(c)):c=[e],o[t]=c}}function c(t,n,i){"string"==typeof n&&(n=[n]);var r,e,c=[];for(r=0;r<n.length;r++)Array.prototype.push.apply(c,o[n[r]]);for(e=0;e<c.length;e++){var a=void 0;c[e]&&"function"==typeof c[e].callback&&("filter"===t?void 0!==(a=c[e].callback.apply(c[e].context,i))&&(i[0]=a):c[e].callback.apply(c[e].context,i))}if("filter"===t)return i[0]}i.silent=function(){return i},n.removeFilter=i.removeFilter=function(t,n){r(t,n)},n.removeAction=i.removeAction=function(t,n){r(t,n)},n.applyFilters=i.applyFilters=function(t){for(var n=[],i=arguments.length-1;i-- >0;)n[i]=arguments[i+1];return c("filter",t,n)},n.doAction=i.doAction=function(t){for(var n=[],i=arguments.length-1;i-- >0;)n[i]=arguments[i+1];c("action",t,n)},n.addFilter=i.addFilter=function(n,i,o,r){e(n,i,parseInt(o||10,10),r||t)},n.addAction=i.addAction=function(n,i,o,r){e(n,i,parseInt(o||10,10),r||t)},n.addActionOnce=i.addActionOnce=function(n,i,o,c){e(n,i,parseInt(o||10,10),c||t),e(n,(function(){r(n,i)}),1+parseInt(o||10,10),c||t)}}(window);return{}}();
+</script><style id="et-builder-googlefonts-cached-inline">/* Original: https://fonts.googleapis.com/css?family=Quicksand:300,regular,500,600,700|Montserrat:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;subset=latin,latin-ext&#038;display=swap *//* User Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aX8.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58i-xw.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58i-xw.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58i-xw.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58i-xw.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58i-xw.ttf) format('truetype');}/* User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXw.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58i-xA.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58i-xA.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58i-xA.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58i-xA.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58i-xA.woff) format('woff');}/* User Agent: Mozilla/5.0 (Windows NT 6.3; rv:39.0) Gecko/20100101 Firefox/39.0 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXo.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58i-wg.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58i-wg.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58i-wg.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58i-wg.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58i-wg.woff2) format('woff2');}</style><link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/social-warfare/assets/js/post-editor/dist/social-warfare-block-css.min.css?ver=6.4.3" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/ladda.min.css?ver=23.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/bookly-picker.classic.css.min.css?ver=23.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/bookly-picker.classic.date.css.min.css?ver=23.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/bookly-intlTelInput.css.min.css?ver=23.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/bookly-bookly-main.css.min.css?ver=23.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/popups-for-divi/styles/front.min.css?ver=3.0.5" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/social-warfare/assets/css/style.min.css?ver=4.4.6.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/image-carousel-divi/styles/style.min.css?ver=1.0" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/themes/Divi/style-static.min.css?ver=4.21.0" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/themes/Divi-Child/divi-style-pum.min.css?ver=4.21.0" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/forminator-ui/css/forminator-icons.min.css?ver=1.29.2" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/forminator-ui/css/src/forminator-utilities.min.css?ver=1.29.2" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/forminator-ui/css/src/grid/forminator-grid.open.min.css?ver=1.29.2" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/forminator-ui/css/src/form/forminator-form-material.base.min.css?ver=1.29.2" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/forminator-ui/css/src/form/forminator-form-material.select2.min.css?ver=1.29.2" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/forminator-ui/css/src/form/forminator-form-material.full.min.css?ver=1.29.2" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/css/intlTelInput.min.css?ver=4.0.3" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/spin.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/ladda.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/moment.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/hammer.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/jquery.hammer.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/bookly-picker.js.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/bookly-picker.date.js.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/bookly.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/intlTelInput.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/popups-for-divi/scripts/ie-compat.min.js?ver=3.0.5" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/popups-for-divi/scripts/front.min.js?ver=3.0.5" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/social-warfare/assets/js/script.min.js?ver=4.4.6.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/themes/Divi/js/scripts.min.js?ver=4.21.0" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/image-carousel-divi/scripts/frontend-bundle.min.js?ver=1.0" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/et-core-common.min.js?ver=4.21.0" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/forminator-ui/js/select2.full.min.js?ver=1.29.2" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/js/library/jquery.validate.min.js?ver=1.29.2" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/forminator/build/front/front.multi.min.js?ver=1.29.2" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/js/library/intlTelInput.min.js?ver=1.29.2" data-wpacu-preload-js="1">
+
+<!-- Social Warfare v4.4.6.1 https://warfareplugins.com - BEGINNING OF OUTPUT -->
+<style>
+	@font-face {
+		font-family: "sw-icon-font";
+		src:url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.4.6.1");
+		src:url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.4.6.1#iefix") format("embedded-opentype"),
+		url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.woff?ver=4.4.6.1") format("woff"),
+		url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.ttf?ver=4.4.6.1") format("truetype"),
+		url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.svg?ver=4.4.6.1#1445203416") format("svg");
+		font-weight: normal;
+		font-style: normal;
+		font-display:block;
+	}
+</style>
+<!-- Social Warfare v4.4.6.1 https://warfareplugins.com - END OF OUTPUT -->
+
+
+<!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
+<title>Ready for Preschool - Download FREE Parent's Guide -</title><link rel="stylesheet" id="siteground-optimizer-combined-css-1a2c776707b3f4cb85389b67cace16f9" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-1a2c776707b3f4cb85389b67cace16f9.css" media="all"> <link rel="preload" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-1a2c776707b3f4cb85389b67cace16f9.css" as="style">
+<meta name="description" content="Parents, learn how to prepare your child for their first day of preschool. Includes FREE downloadable guide.">
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+<link rel="canonical" href="https://shaws.com.sg/ready-for-preschool/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Ready for Preschool - Download FREE Parent's Guide -">
+<meta property="og:description" content="Parents, learn how to prepare your child for their first day of preschool. Includes FREE downloadable guide.">
+<meta property="og:url" content="https://shaws.com.sg/ready-for-preschool/">
+<meta property="og:site_name" content="Shaws Preschool">
+<meta property="og:updated_time" content="2024-02-08T22:36:44+08:00">
+<meta property="og:image" content="https://shaws.com.sg/wp-content/uploads/2022/02/socia-dramatic.png">
+<meta property="og:image:secure_url" content="https://shaws.com.sg/wp-content/uploads/2022/02/socia-dramatic.png">
+<meta property="og:image:width" content="986">
+<meta property="og:image:height" content="1280">
+<meta property="og:image:alt" content="Ready for Preschool – Download FREE Parent’s Guide">
+<meta property="og:image:type" content="image/png">
+<meta property="article:published_time" content="2022-02-01T11:17:23+08:00">
+<meta property="article:modified_time" content="2024-02-08T22:36:44+08:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Ready for Preschool - Download FREE Parent's Guide -">
+<meta name="twitter:description" content="Parents, learn how to prepare your child for their first day of preschool. Includes FREE downloadable guide.">
+<meta name="twitter:image" content="https://shaws.com.sg/wp-content/uploads/2022/02/socia-dramatic.png">
+<meta name="twitter:label1" content="Time to read">
+<meta name="twitter:data1" content="47 minutes">
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://shaws.com.sg/#person","name":"Shaws Preschool"},{"@type":"WebSite","@id":"https://shaws.com.sg/#website","url":"https://shaws.com.sg","name":"Shaws Preschool","publisher":{"@id":"https://shaws.com.sg/#person"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://shaws.com.sg/wp-content/uploads/2022/02/socia-dramatic-231x300.png","url":"https://shaws.com.sg/wp-content/uploads/2022/02/socia-dramatic-231x300.png","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://shaws.com.sg/ready-for-preschool/#webpage","url":"https://shaws.com.sg/ready-for-preschool/","name":"Ready for Preschool - Download FREE Parent&#039;s Guide -","datePublished":"2022-02-01T11:17:23+08:00","dateModified":"2024-02-08T22:36:44+08:00","isPartOf":{"@id":"https://shaws.com.sg/#website"},"primaryImageOfPage":{"@id":"https://shaws.com.sg/wp-content/uploads/2022/02/socia-dramatic-231x300.png"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://shaws.com.sg/author/leona/","name":"Leona","url":"https://shaws.com.sg/author/leona/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/f9a4847718452769c8ab00d32742e044?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/f9a4847718452769c8ab00d32742e044?s=96&amp;d=mm&amp;r=g","caption":"Leona","inLanguage":"en-US"}},{"@type":"Article","headline":"Ready for Preschool - Download FREE Parent&#039;s Guide -","datePublished":"2022-02-01T11:17:23+08:00","dateModified":"2024-02-08T22:36:44+08:00","author":{"@id":"https://shaws.com.sg/author/leona/","name":"Leona"},"publisher":{"@id":"https://shaws.com.sg/#person"},"description":"Parents, learn how to prepare your child for their first day of preschool. Includes FREE downloadable guide.","name":"Ready for Preschool - Download FREE Parent&#039;s Guide -","@id":"https://shaws.com.sg/ready-for-preschool/#richSnippet","isPartOf":{"@id":"https://shaws.com.sg/ready-for-preschool/#webpage"},"image":{"@id":"https://shaws.com.sg/wp-content/uploads/2022/02/socia-dramatic-231x300.png"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://shaws.com.sg/ready-for-preschool/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel="dns-prefetch" href="//use.fontawesome.com">
+<link rel="alternate" type="application/rss+xml" title=" » Feed" href="https://shaws.com.sg/feed/">
+<link rel="alternate" type="application/rss+xml" title=" » Comments Feed" href="https://shaws.com.sg/comments/feed/">
+<meta content="Bare bones for Divi v.1.0" name="generator">
+<style id="wp-block-library-theme-inline-css" type="text/css">
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id="rank-math-toc-block-style-inline-css" type="text/css">
+.wp-block-rank-math-toc-block nav ol{counter-reset:item}.wp-block-rank-math-toc-block nav ol li{display:block}.wp-block-rank-math-toc-block nav ol li:before{content:counters(item, ".") ". ";counter-increment:item}
+
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+
+
+
+
+
+<link data-wpacu-to-be-preloaded-basic="1" rel="stylesheet" id="css-divi-area-css" href="https://shaws.com.sg/wp-content/plugins/popups-for-divi/styles/front.min.css?ver=3.0.5" type="text/css" media="all">
+<style id="css-divi-area-inline-css" type="text/css">
+.et_pb_section.popup{display:none}
+</style>
+
+
+<link rel="stylesheet" id="font-awesome-official-css" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" type="text/css" media="all" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+<link data-wpacu-to-be-preloaded-basic="1" rel="stylesheet" id="divi-style-parent-css" href="https://shaws.com.sg/wp-content/themes/Divi/style-static.min.css?ver=4.21.0" type="text/css" media="all">
+<link data-wpacu-to-be-preloaded-basic="1" rel="stylesheet" id="divi-style-pum-css" href="https://shaws.com.sg/wp-content/themes/Divi-Child/divi-style-pum.min.css?ver=4.21.0" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-official-v4shim-css" href="https://use.fontawesome.com/releases/v5.15.1/css/v4-shims.css" type="text/css" media="all" integrity="sha384-WCuYjm/u5NsK4s/NfnJeHuMj6zzN2HFyjhBu/SnZJj7eZ6+ds4zqIM3wYgL59Clf" crossorigin="anonymous">
+<style id="font-awesome-official-v4shim-inline-css" type="text/css">
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.svg#fontawesome") format("svg");
+unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
+}
+</style>
+<script type="text/javascript" src="https://shaws.com.sg/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+
+
+<script type="text/javascript" id="bookly-globals-js-extra">
+/* <![CDATA[ */
+var BooklyL10nGlobal = {"csrf_token":"fb56edf77b","ajax_url_backend":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","ajax_url_frontend":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","mjsTimeFormat":"h:mm A","datePicker":{"format":"MMMM D, YYYY","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"daysOfWeek":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"firstDay":0,"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"meridiem":{"am":"am","pm":"pm","AM":"AM","PM":"PM"}},"dateRange":{"format":"MMMM D, YYYY","applyLabel":"Apply","cancelLabel":"Cancel","fromLabel":"From","toLabel":"To","customRangeLabel":"Custom range","tomorrow":"Tomorrow","today":"Today","anyTime":"Any time","yesterday":"Yesterday","last_7":"Last 7 days","last_30":"Last 30 days","next_7":"Next 7 days","next_30":"Next 30 days","thisMonth":"This month","nextMonth":"Next month","lastMonth":"Last month","firstDay":0},"l10n":{"apply":"Apply","cancel":"Cancel","areYouSure":"Are you sure?"},"addons":[],"cloud_products":[],"data":{}};
+/* ]]> */
+</script>
+
+
+
+
+
+
+<script type="text/javascript" id="bookly-bookly.min.js-js-extra">
+/* <![CDATA[ */
+var BooklyL10n = {"ajaxurl":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","csrf_token":"fb56edf77b","today":"Today","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"days":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"daysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextMonth":"Next month","prevMonth":"Previous month","show_more":"Show more","sessionHasExpired":"Your session has expired. Please press \"Ok\" to refresh the page"};
+/* ]]> */
+</script>
+
+
+
+<link rel="https://api.w.org/" href="https://shaws.com.sg/wp-json/"><link rel="alternate" type="application/json" href="https://shaws.com.sg/wp-json/wp/v2/pages/7002"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://shaws.com.sg/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.4.3">
+<link rel="shortlink" href="https://shaws.com.sg/?p=7002">
+<link rel="alternate" type="application/json+oembed" href="https://shaws.com.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fshaws.com.sg%2Fready-for-preschool%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://shaws.com.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fshaws.com.sg%2Fready-for-preschool%2F&amp;format=xml">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7N98SHQYND"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7N98SHQYND');
+</script>
+
+<!--Wrap Rows-->
+
+
+<!-- Slick Slider -->
+<link rel="icon" href="https://shaws.com.sg/wp-content/uploads/2019/12/cropped-Shaws_Preschool_FAVIcon_Transparent-2-32x32.png" sizes="32x32">
+<link rel="icon" href="https://shaws.com.sg/wp-content/uploads/2019/12/cropped-Shaws_Preschool_FAVIcon_Transparent-2-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://shaws.com.sg/wp-content/uploads/2019/12/cropped-Shaws_Preschool_FAVIcon_Transparent-2-180x180.png">
+<meta name="msapplication-TileImage" content="https://shaws.com.sg/wp-content/uploads/2019/12/cropped-Shaws_Preschool_FAVIcon_Transparent-2-270x270.png">
+<link rel="stylesheet" id="et-core-unified-tb-14836-7002-cached-inline-styles" href="https://shaws.com.sg/wp-content/et-cache/7002/et-core-unified-tb-14836-7002.min.css?ver=1710069625"><link rel="stylesheet" id="et-core-unified-7002-cached-inline-styles" href="https://shaws.com.sg/wp-content/et-cache/7002/et-core-unified-7002.min.css?ver=1710069624"><link rel="stylesheet" id="et-core-unified-tb-14836-deferred-7002-cached-inline-styles" href="https://shaws.com.sg/wp-content/et-cache/7002/et-core-unified-tb-14836-deferred-7002.min.css?ver=1710069625"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style type="text/css"></style></head>
+<body class="page-template-default page page-id-7002 et-tb-has-template et-tb-has-footer et_pb_button_helper_class et_fixed_nav et_show_nav et_hide_fixed_logo et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_cover_background et_pb_gutter windows et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db et_pb_recaptcha_enabled chrome" style="padding-top: 0px; padding-bottom: 0px;">
+	<div id="page-container" style="padding-top: 79px;">
+<div id="et-boc" class="et-boc">
+			
+		
+
+	<header id="main-header" data-height-onload="85" data-fixed-height-onload="0" style="top: 0px;">
+		<div class="container clearfix et_menu_container">
+					<div class="logo_container">
+				<span class="logo_helper"></span>
+				<a href="https://shaws.com.sg/">
+				<img src="https://shaws.com.sg/wp-content/uploads/2018/10/Shaws_Preschool_Logo-297x300.png" width="297" height="300" alt="" id="logo" data-height-percentage="100" data-actual-width="297" data-actual-height="300">
+				</a>
+			</div>
+					<div id="et-top-navigation" data-height="85" data-fixed-height="40" style="padding-left: 72px;">
+									<nav id="top-menu-nav">
+					<ul id="top-menu" class="nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-11271"><a href="https://shaws.com.sg/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8273"><a href="https://shaws.com.sg/about-shaws-singapore/">About Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10369"><a href="https://shaws.com.sg/shaws-recruitment/">Join Our Team</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current_page_ancestor menu-item-has-children menu-item-14449"><a href="https://shaws.com.sg/curriculum/">Curriculum</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-9353"><a href="#">Resources</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8883"><a href="https://shaws.com.sg/frequently-asked-questions/">FAQs</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7002 current_page_item menu-item-9310"><a href="https://shaws.com.sg/ready-for-preschool/" aria-current="page">Ready for School</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11272"><a href="https://shaws.com.sg/articles/">Articles</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11273"><a href="https://shaws.com.sg/parenting-guides/">Parenting Guides</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11276"><a href="https://shaws.com.sg/free-downloadable-eguides/">Free Downloadable eGuides</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11275"><a href="https://shaws.com.sg/videos/">Videos</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11274"><a href="https://shaws.com.sg/events/">Events</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13459"><a href="https://shaws.com.sg/play-based-learning/">Play-Based Learning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13458"><a href="https://shaws.com.sg/executive-function/">Executive Function</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13457"><a href="https://shaws.com.sg/life-skills/">Life Skills</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-135"><a href="#">Campuses</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8581"><a href="https://shaws.com.sg/preschool-serangoon/">Serangoon Area</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11687"><a href="https://shaws.com.sg/shaws-braddell-heights/">Shaws Braddell Heights</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11686"><a href="https://shaws.com.sg/shaws-lorong-chuan/">Shaws Lorong Chuan</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8582"><a href="https://shaws.com.sg/preschool-east-coast/">East Coast Area</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14778"><a href="https://shaws.com.sg/shaws-open-house/">SHAWS Open House</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8580"><a href="https://shaws.com.sg/testimonials/">Testimonials</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12978"><a href="https://shaws.com.sg/shaws-recruitment/">Join Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8575"><a href="https://shaws.com.sg/contact-us/">Contact Us</a></li>
+</ul>					</nav>
+				
+				
+				
+				
+				<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				<ul id="mobile_menu" class="et_mobile_menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-11271 et_first_mobile_item"><a href="https://shaws.com.sg/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8273"><a href="https://shaws.com.sg/about-shaws-singapore/">About Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10369"><a href="https://shaws.com.sg/shaws-recruitment/">Join Our Team</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current_page_ancestor menu-item-has-children menu-item-14449"><a href="https://shaws.com.sg/curriculum/">Curriculum</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-9353"><a href="#">Resources</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8883"><a href="https://shaws.com.sg/frequently-asked-questions/">FAQs</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7002 current_page_item menu-item-9310"><a href="https://shaws.com.sg/ready-for-preschool/" aria-current="page">Ready for School</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11272"><a href="https://shaws.com.sg/articles/">Articles</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11273"><a href="https://shaws.com.sg/parenting-guides/">Parenting Guides</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11276"><a href="https://shaws.com.sg/free-downloadable-eguides/">Free Downloadable eGuides</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11275"><a href="https://shaws.com.sg/videos/">Videos</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11274"><a href="https://shaws.com.sg/events/">Events</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13459"><a href="https://shaws.com.sg/play-based-learning/">Play-Based Learning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13458"><a href="https://shaws.com.sg/executive-function/">Executive Function</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13457"><a href="https://shaws.com.sg/life-skills/">Life Skills</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-135"><a href="#">Campuses</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8581"><a href="https://shaws.com.sg/preschool-serangoon/">Serangoon Area</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11687"><a href="https://shaws.com.sg/shaws-braddell-heights/">Shaws Braddell Heights</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11686"><a href="https://shaws.com.sg/shaws-lorong-chuan/">Shaws Lorong Chuan</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8582"><a href="https://shaws.com.sg/preschool-east-coast/">East Coast Area</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14778"><a href="https://shaws.com.sg/shaws-open-house/">SHAWS Open House</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8580"><a href="https://shaws.com.sg/testimonials/">Testimonials</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12978"><a href="https://shaws.com.sg/shaws-recruitment/">Join Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8575"><a href="https://shaws.com.sg/contact-us/">Contact Us</a></li>
+</ul></div>
+			</div>			</div> <!-- #et-top-navigation -->
+		</div> <!-- .container -->
+			</header> <!-- #main-header -->
+<div id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-7002" class="post-7002 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h1><b>How To Prepare Your Child for Preschool</b></h1>
+<p>&nbsp;</p>
+<p><strong>A Shaws Preschool Guide for Parents</strong></p></div>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper  et_pb_module ">
+				<a class="et_pb_button et_pb_button_0 et_hover_enabled et_pb_bg_layout_dark" href="#Eguide-form">Download Guide</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_1 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><b>Get Your Child Ready for the First Day of Preschool</b></h2></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p><i><span style="font-weight: 400;">Starting preschool is an exciting time for the whole family! Your child is probably feeling excited, as well as a bit nervous about his or her first day in kindergarten, childcare or preschool. To help you along, we have put together a parent’s guide covering tips for the first day of preschool.</span></i></p>
+<p><i><span style="font-weight: 400;"><strong><em><span style="color: #d81921;">Click on topic to learn more.</span></em></strong></span></i></p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_2 et_pb_equal_columns et_pb_gutters1 et_pb_row_4col">
+				<div class="et_pb_column et_pb_column_1_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img fetchpriority="high" decoding="async" width="1366" height="980" src="https://shaws.com.sg/wp-content/uploads/2022/02/sand-play-1.png" data-src="https://shaws.com.sg/wp-content/uploads/2022/02/sand-play-1.png" alt="" title="sand-play" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/02/sand-play-1.png 1366w, https://shaws.com.sg/wp-content/uploads/2022/02/sand-play-1-1280x918.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/02/sand-play-1-980x703.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/sand-play-1-480x344.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1366px, 100vw" class="wp-image-7237 lazyloaded" srcset="https://shaws.com.sg/wp-content/uploads/2022/02/sand-play-1.png 1366w, https://shaws.com.sg/wp-content/uploads/2022/02/sand-play-1-1280x918.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/02/sand-play-1-980x703.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/sand-play-1-480x344.png 480w"><noscript><img fetchpriority="high" decoding="async" width="1366" height="980" src="https://shaws.com.sg/wp-content/uploads/2022/02/sand-play-1.png" alt="" title="sand-play" srcset="https://shaws.com.sg/wp-content/uploads/2022/02/sand-play-1.png 1366w, https://shaws.com.sg/wp-content/uploads/2022/02/sand-play-1-1280x918.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/02/sand-play-1-980x703.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/sand-play-1-480x344.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1366px, 100vw" class="wp-image-7237 lazyload" /></noscript></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h4><a href="#how-to-prepare-my-child"><span style="font-weight: 400;">1) How to Prepare My Child for Preschool</span></a></h4></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_1">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="1760" height="1917" src="https://shaws.com.sg/wp-content/uploads/2022/03/Packing_Bag.png" data-src="https://shaws.com.sg/wp-content/uploads/2022/03/Packing_Bag.png" alt="" title="Packing_Bag" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/03/Packing_Bag.png 1760w, https://shaws.com.sg/wp-content/uploads/2022/03/Packing_Bag-1280x1394.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/03/Packing_Bag-980x1067.png 980w, https://shaws.com.sg/wp-content/uploads/2022/03/Packing_Bag-480x523.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1760px, 100vw" class="wp-image-7586 lazyloaded" srcset="https://shaws.com.sg/wp-content/uploads/2022/03/Packing_Bag.png 1760w, https://shaws.com.sg/wp-content/uploads/2022/03/Packing_Bag-1280x1394.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/03/Packing_Bag-980x1067.png 980w, https://shaws.com.sg/wp-content/uploads/2022/03/Packing_Bag-480x523.png 480w"><noscript><img decoding="async" width="1760" height="1917" src="https://shaws.com.sg/wp-content/uploads/2022/03/Packing_Bag.png" alt="" title="Packing_Bag" srcset="https://shaws.com.sg/wp-content/uploads/2022/03/Packing_Bag.png 1760w, https://shaws.com.sg/wp-content/uploads/2022/03/Packing_Bag-1280x1394.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/03/Packing_Bag-980x1067.png 980w, https://shaws.com.sg/wp-content/uploads/2022/03/Packing_Bag-480x523.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1760px, 100vw" class="wp-image-7586 lazyload" /></noscript></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h4><a href="#what-to-pack"><span style="font-weight: 400;">2) What to Pack for Preschool</span></a></h4></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_2">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="1754" height="1240" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/03/12._Competitive_Play-copy.png" alt="" title="12._Competitive_Play copy" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/03/12._Competitive_Play-copy.png 1754w, https://shaws.com.sg/wp-content/uploads/2022/03/12._Competitive_Play-copy-1280x905.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/03/12._Competitive_Play-copy-980x693.png 980w, https://shaws.com.sg/wp-content/uploads/2022/03/12._Competitive_Play-copy-480x339.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1754px, 100vw" class="wp-image-7590 lazyload"><noscript><img decoding="async" width="1754" height="1240" src="https://shaws.com.sg/wp-content/uploads/2022/03/12._Competitive_Play-copy.png" alt="" title="12._Competitive_Play copy" srcset="https://shaws.com.sg/wp-content/uploads/2022/03/12._Competitive_Play-copy.png 1754w, https://shaws.com.sg/wp-content/uploads/2022/03/12._Competitive_Play-copy-1280x905.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/03/12._Competitive_Play-copy-980x693.png 980w, https://shaws.com.sg/wp-content/uploads/2022/03/12._Competitive_Play-copy-480x339.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1754px, 100vw" class="wp-image-7590 lazyload" /></noscript></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h4><a href="#what-to-wear-first-day"><span style="font-weight: 400;">3) What to Wear on First Day of Preschool</span></a></h4></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_3">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="2480" height="2824" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/03/What_you_eat.png" alt="" title="What_you_eat" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/03/What_you_eat.png 2480w, https://shaws.com.sg/wp-content/uploads/2022/03/What_you_eat-1280x1458.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/03/What_you_eat-980x1116.png 980w, https://shaws.com.sg/wp-content/uploads/2022/03/What_you_eat-480x547.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 2480px, 100vw" class="wp-image-7587 lazyload"><noscript><img decoding="async" width="2480" height="2824" src="https://shaws.com.sg/wp-content/uploads/2022/03/What_you_eat.png" alt="" title="What_you_eat" srcset="https://shaws.com.sg/wp-content/uploads/2022/03/What_you_eat.png 2480w, https://shaws.com.sg/wp-content/uploads/2022/03/What_you_eat-1280x1458.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/03/What_you_eat-980x1116.png 980w, https://shaws.com.sg/wp-content/uploads/2022/03/What_you_eat-480x547.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 2480px, 100vw" class="wp-image-7587 lazyload" /></noscript></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h4><a href="#what-will-my-child"><span style="font-weight: 400;">4) What Will My Child Eat in Preschool</span></a></h4></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_3 et_pb_equal_columns et_pb_gutters1 et_pb_row_4col">
+				<div class="et_pb_column et_pb_column_1_4 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_4">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="1366" height="980" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/02/calling-1.png" alt="" title="calling" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/02/calling-1.png 1366w, https://shaws.com.sg/wp-content/uploads/2022/02/calling-1-1280x918.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/02/calling-1-980x703.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/calling-1-480x344.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1366px, 100vw" class="wp-image-7233 lazyload"><noscript><img decoding="async" width="1366" height="980" src="https://shaws.com.sg/wp-content/uploads/2022/02/calling-1.png" alt="" title="calling" srcset="https://shaws.com.sg/wp-content/uploads/2022/02/calling-1.png 1366w, https://shaws.com.sg/wp-content/uploads/2022/02/calling-1-1280x918.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/02/calling-1-980x703.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/calling-1-480x344.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1366px, 100vw" class="wp-image-7233 lazyload" /></noscript></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h4><a href="#activities-schedule"><span style="font-weight: 400;">5) Activities/ Schedule on First Day of Preschool </span></a></h4></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_5">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="1366" height="980" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/02/play-pet.png" alt="" title="play-pet" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/02/play-pet.png 1366w, https://shaws.com.sg/wp-content/uploads/2022/02/play-pet-1280x918.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/02/play-pet-980x703.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/play-pet-480x344.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1366px, 100vw" class="wp-image-7239 lazyload"><noscript><img decoding="async" width="1366" height="980" src="https://shaws.com.sg/wp-content/uploads/2022/02/play-pet.png" alt="" title="play-pet" srcset="https://shaws.com.sg/wp-content/uploads/2022/02/play-pet.png 1366w, https://shaws.com.sg/wp-content/uploads/2022/02/play-pet-1280x918.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/02/play-pet-980x703.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/play-pet-480x344.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1366px, 100vw" class="wp-image-7239 lazyload" /></noscript></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h4><a href="#how-to-communicate"><span style="font-weight: 400;">6) How to Communicate with My Child’s Preschool Teacher</span></a></h4></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_6">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="2480" height="3072" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/03/Pickup_Dropoff.png" alt="" title="Pickup_Dropoff" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/03/Pickup_Dropoff.png 2480w, https://shaws.com.sg/wp-content/uploads/2022/03/Pickup_Dropoff-1280x1586.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/03/Pickup_Dropoff-980x1214.png 980w, https://shaws.com.sg/wp-content/uploads/2022/03/Pickup_Dropoff-480x595.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 2480px, 100vw" class="wp-image-7589 lazyload"><noscript><img decoding="async" width="2480" height="3072" src="https://shaws.com.sg/wp-content/uploads/2022/03/Pickup_Dropoff.png" alt="" title="Pickup_Dropoff" srcset="https://shaws.com.sg/wp-content/uploads/2022/03/Pickup_Dropoff.png 2480w, https://shaws.com.sg/wp-content/uploads/2022/03/Pickup_Dropoff-1280x1586.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/03/Pickup_Dropoff-980x1214.png 980w, https://shaws.com.sg/wp-content/uploads/2022/03/Pickup_Dropoff-480x595.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 2480px, 100vw" class="wp-image-7589 lazyload" /></noscript></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h4><a href="#transport-drop-pickup"><span style="font-weight: 400;">7) Transport, Drop Off and Pick up </span></a></h4>
+<ul></ul></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_7">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="1366" height="980" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/02/social-1.png" alt="" title="social" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/02/social-1.png 1366w, https://shaws.com.sg/wp-content/uploads/2022/02/social-1-1280x918.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/02/social-1-980x703.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/social-1-480x344.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1366px, 100vw" class="wp-image-7238 lazyload"><noscript><img decoding="async" width="1366" height="980" src="https://shaws.com.sg/wp-content/uploads/2022/02/social-1.png" alt="" title="social" srcset="https://shaws.com.sg/wp-content/uploads/2022/02/social-1.png 1366w, https://shaws.com.sg/wp-content/uploads/2022/02/social-1-1280x918.png 1280w, https://shaws.com.sg/wp-content/uploads/2022/02/social-1-980x703.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/social-1-480x344.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1366px, 100vw" class="wp-image-7238 lazyload" /></noscript></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h4><a href="#crying-settling"><span style="font-weight: 400;">8) Crying and Other Settling In Issues</span></a></h4></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div id="how-to-prepare-my-child" class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_11  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><span style="font-weight: 400;">1) How To Prepare My Child for Preschool</span></h2></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div id="is-there-anything-i-can-do" class="et_pb_row et_pb_row_5">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_12  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Is there anything I can do to prepare my child for preschool before their first day?</h3>
+<p>&nbsp;</p>
+<p><img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/02/socia-dramatic-231x300.png" width="231" height="300" alt="" class="wp-image-7261 alignright size-medium lazyload"><noscript><img decoding="async" src="https://shaws.com.sg/wp-content/uploads/2022/02/socia-dramatic-231x300.png" width="231" height="300" alt="" class="wp-image-7261 alignright size-medium lazyload" /></noscript></p>
+<p><span style="color: #d81f26;">✱ </span><span style="font-weight: 400;">Talk to your child about starting preschool. Talk your child through what the first day of preschool will </span><span style="font-weight: 400;">be like, including the many fun things they will be doing at preschool, for example playing in the playground. Mentally prepare them for this new and exciting experience.</span></p>
+<p><span style="color: #d81f26;">✱</span> <span style="font-weight: 400;">Take your child to visit the preschool. This will allow your child to become familiar with the </span><span style="font-weight: 400;">surroundings, and maybe even a few faces around the preschool. At Shaws Preschool, we encourage new children to come and play in the playground to familiarise them with the environment (subject to safe distancing measures at place at the time).</span></p>
+<p><span style="color: #d81f26;">✱ </span><span style="font-weight: 400;">Let your child choose their school bag and water bottle, and </span><span style="font-weight: 400;">involve him/her in packing these things.</span></p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_6 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_3_5 et_pb_column_12 center-items-div  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div id="potty-trained" class="et_pb_module et_pb_text et_pb_text_13  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Must my child be potty trained before starting school?</h3>
+<p><span style="font-weight: 400;">No, your child does not need to be potty trained. When you do start potty training your child, do remember to speak to the teachers so we can support you during the potty training.</span></p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_2_5 et_pb_column_13  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_8">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="980" height="1366" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/02/20.Adaptability-1.png" alt="" title="20.Adaptability" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/02/20.Adaptability-1.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/20.Adaptability-1-480x669.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 980px, 100vw" class="wp-image-7283 lazyload"><noscript><img decoding="async" width="980" height="1366" src="https://shaws.com.sg/wp-content/uploads/2022/02/20.Adaptability-1.png" alt="" title="20.Adaptability" srcset="https://shaws.com.sg/wp-content/uploads/2022/02/20.Adaptability-1.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/20.Adaptability-1-480x669.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 980px, 100vw" class="wp-image-7283 lazyload" /></noscript></span>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_7">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_14  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_1 et_hover_enabled et_pb_bg_layout_dark" href="#Eguide-form">DOWNLOAD GUIDE TO PREPARE YOUR CHILD FOR PRESCHOOL! </a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_3 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div id="what-to-pack" class="et_pb_row et_pb_row_8">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_15  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_15  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><span style="font-weight: 400;">2) What to Pack for Preschool</span></h2></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div id="what-should-pack" class="et_pb_row et_pb_row_9">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_16  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_16  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>What should I pack in my child’s bag?</h3></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_17  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Here is the list of things to pack in your child’s bag daily:</p>
+<p><img decoding="async" class="wp-image-7299 alignright size-medium lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/02/7._Symbolic_Play-copy-215x300.png" alt="" width="215" height="300"><noscript><img decoding="async" class="wp-image-7299 alignright size-medium lazyload" src="https://shaws.com.sg/wp-content/uploads/2022/02/7._Symbolic_Play-copy-215x300.png" alt="" width="215" height="300" /></noscript></p>
+<p><span style="color: #d81f26;">✱</span> Water bottle</p>
+<p><span style="color: #d81f26;">✱</span> Hat for outdoor play</p>
+<p><span style="color: #d81f26;">✱</span> Snack box(es) – optional and nut free, no pork/lard</p>
+<p><span style="color: #d81f26;">✱</span> Milk bottle(s) with powder packed in individual servings (if your child drinks milk during the day)</p>
+<p><span style="color: #d81f26;">✱</span> Diapers (for children who are not potty trained) – 2 (half-day), 4 (full day)</p>
+<p><span style="color: #d81f26;">✱</span> Change of clothes – recommended 1 set (half-day) / 2 sets (full-day)`</p>
+<p><span style="color: #d81f26;">✱</span> Small bath towel</p>
+<p><span style="color: #d81f26;">✱</span> Reusable laundry bags for soiled clothes</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_10">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_17  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_18  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>One bag per child, and please do keep size of school bag manageable – small enough for your child to carry on his back. Bags with wheels are strictly not allowed (for children’s safety.</p>
+<p>Your child may want to bring in something special and familiar. It could be your child’s favourite teddy, or a photo of Mum or Dad. Please let them pack it in their bag, but do let the teachers know.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_11 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_3_5 et_pb_column_18  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div id="what-should-i-pack" class="et_pb_module et_pb_text et_pb_text_19  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>What should I pack for a snack</h3>
+<p>At Shaws, we serve fruit for morning snack, and our afternoon snack varies depending on the menu (if you need a copy of the menu, do let us know). So it is not necessary to pack a snack from home. However if your child is new to school, we do encourage you to pack a small snack with food your child is familiar with. Any healthy snack which you know your child enjoys would be good. Please avoid chocolates and sugary items. Shaws is a nut free zone, so no nuts please.</p></div>
+			</div><div id="what-do-pack" class="et_pb_module et_pb_text et_pb_text_20  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>What do I pack for my child on Water Play (or Messy Play) day?</h3>
+<p>On Messy Play or Water Play day, children can come to school in their swim wear. Do put a small towel and a change of clothes for your child in the bag (as mentioned above in the section of things to pack for your child).</p>
+<p>They do not need to wear their uniform on this day. To find out which day your child has Messy Play or Water Play, refer to your child’s class timetable.</p>
+<p><span style="color: #d81f26;">*Note – Messy Play replaces Water Play on rainy days or when there are covid restrictions on waterplay.</span></p></div>
+			</div><div id="labeling-items" class="et_pb_module et_pb_text et_pb_text_21  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Labeling of items</h3>
+<p>We encourage parents to label all your child’s items, with stickers or with a marker pen. This includes water bottles, snack boxes, hats, bags (we will provide your child with a bag tag on their first week), uniforms, and shoes (you may want to label the bottom of the shoes). If anything does go missing for any reason, please let us know. We also have a Lost and Found at the front of the school.</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_2_5 et_pb_column_19 center-items-div  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_9">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="980" height="1366" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/02/Expressive-Art-copy-1.png" alt="" title="Expressive-Art-copy" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/02/Expressive-Art-copy-1.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/Expressive-Art-copy-1-480x669.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 980px, 100vw" class="wp-image-7284 lazyload"><noscript><img decoding="async" width="980" height="1366" src="https://shaws.com.sg/wp-content/uploads/2022/02/Expressive-Art-copy-1.png" alt="" title="Expressive-Art-copy" srcset="https://shaws.com.sg/wp-content/uploads/2022/02/Expressive-Art-copy-1.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/Expressive-Art-copy-1-480x669.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 980px, 100vw" class="wp-image-7284 lazyload" /></noscript></span>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_12">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_20  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_2 et_hover_enabled et_pb_bg_layout_dark" href="#Eguide-form">DOWNLOAD OUR PARENT GUIDE HERE!</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_4 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div id="what-to-wear-first-day" class="et_pb_row et_pb_row_13">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_21  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_22  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><span style="font-weight: 400;">3) What to Wear on First Day of Preschool</span></h2></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div id="must-wear" class="et_pb_row et_pb_row_14 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_22  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_23  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Must my child wear the school uniform?</h3>
+<p>Yes, Shaws has a uniform which is to be worn daily. This can be collected prior to starting or on the first day of school. If your child refuses to wear their uniform in the first few days, for any reason at all, don’t worry. Just let him/her come to school in his/her choice of clothes, and pop the uniform in the bag.</p>
+<p>There are so many new things going on when a child starts school, wearing a school uniform is not a priority at this time. If your child does wear any other clothes, be prepared to get a bit of paint on them.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div id="what-shoes-should-wear" class="et_pb_row et_pb_row_15 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_23  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_10">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="1240" height="1122" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/02/1._Pjysical_Play-scaled-1.png" alt="" title="1._Pjysical_Play-scaled" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/02/1._Pjysical_Play-scaled-1.png 1240w, https://shaws.com.sg/wp-content/uploads/2022/02/1._Pjysical_Play-scaled-1-980x887.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/1._Pjysical_Play-scaled-1-480x434.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1240px, 100vw" class="wp-image-7034 lazyload"><noscript><img decoding="async" width="1240" height="1122" src="https://shaws.com.sg/wp-content/uploads/2022/02/1._Pjysical_Play-scaled-1.png" alt="" title="1._Pjysical_Play-scaled" srcset="https://shaws.com.sg/wp-content/uploads/2022/02/1._Pjysical_Play-scaled-1.png 1240w, https://shaws.com.sg/wp-content/uploads/2022/02/1._Pjysical_Play-scaled-1-980x887.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/1._Pjysical_Play-scaled-1-480x434.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1240px, 100vw" class="wp-image-7034 lazyload" /></noscript></span>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_24 center-items-div  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_24  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>What shoes should my child wear to school?</h3>
+<p>For the safety of the children, they should wear covered shoes, especially on days where there is Shaws Little League Sports. If your child is wearing sandals, do ensure they are sporty sandals that are good for outdoor play.</p>
+<p>For the younger children, we recommend shoes that are easy to take on and off, which your child can learn to do by themselves. The teachers will be there to help, however we will also encourage the children to have a go on their own.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_5 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div id="what-will-my-child" class="et_pb_row et_pb_row_16">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_25  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_25  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><span style="font-weight: 400;">4) What Will My Child Eat in Preschool</span></h2></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div id="my-child-cant-eat" class="et_pb_row et_pb_row_17 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_3_5 et_pb_column_26  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_26  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>My child can’t eat by himself? Will someone help him?</h3>
+<p>Don’t worry. At school, if your child needs help or needs to be fed, we will help. Slowly we will teach your child to eat independently. You can work with us too, and encourage your child to eat by himself/herself too at home too. However, remembering that your child is going through so many new changes when starting school, we do not want to overwhelm your child.</p>
+<p>Your child will get there. Even if your child can eat by themselves, there may be days where your child is tired, and needs some help. We are always here to help!</p></div>
+			</div><div id="child-has-allergies" class="et_pb_module et_pb_text et_pb_text_27  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>What if my child has allergies or dietary restrictions?</h3>
+<p>Please let us know of any allergies or dietary restrictions, and we will take note of these. You would have filled out a form on this prior to starting at Shaws Preschool, and we ask all parents to complete a new form every year so we can update our records.</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_2_5 et_pb_column_27 center-items-div  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_11">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="1240" height="1754" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/02/10._Explorative_Play-copy.png" alt="" title="10._Explorative_Play copy" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/02/10._Explorative_Play-copy.png 1240w, https://shaws.com.sg/wp-content/uploads/2022/02/10._Explorative_Play-copy-980x1386.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/10._Explorative_Play-copy-480x679.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1240px, 100vw" class="wp-image-7053 lazyload"><noscript><img decoding="async" width="1240" height="1754" src="https://shaws.com.sg/wp-content/uploads/2022/02/10._Explorative_Play-copy.png" alt="" title="10._Explorative_Play copy" srcset="https://shaws.com.sg/wp-content/uploads/2022/02/10._Explorative_Play-copy.png 1240w, https://shaws.com.sg/wp-content/uploads/2022/02/10._Explorative_Play-copy-980x1386.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/10._Explorative_Play-copy-480x679.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1240px, 100vw" class="wp-image-7053 lazyload" /></noscript></span>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_18">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_28  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_3 et_hover_enabled et_pb_bg_layout_dark" href="#Eguide-form">Get a copy of our Ready for Preschool Guide here!</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_6 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div id="activities-schedule" class="et_pb_row et_pb_row_19">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_29  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_28  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><span style="font-weight: 400;">5) Activities/ Schedule on First Day of Preschool </span></h2></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_20 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_3_5 et_pb_column_30  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div id="does-not-want-to-join" class="et_pb_module et_pb_text et_pb_text_29  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>What if my child does not want to join the group?</h3>
+<p>When a child starts school, it is perfectly normal for your child not to want to join the group, and instead observe from a short distance away. Your child will join in over time.</p></div>
+			</div><div id="want-my-child-to-nap" class="et_pb_module et_pb_text et_pb_text_30  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>I want my child to have a nap. However what if my child does not want to sleep during nap time?</h3>
+<p>Some children are too stimulated to nap on the first few days of school. And some children fall asleep with exhaustion at the lunch table. It will take time for a new child to get used to a new routine. We will work with your child, and take it at his/her own pace.</p></div>
+			</div><div id="do-not-want-my-child-to-nap" class="et_pb_module et_pb_text et_pb_text_31  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>What if I do not want my child to nap in the afternoon?</h3>
+<p>For Nursery Two to Kindergarten Two, nap time is optional. Do let us know if your child will having a nap, or joining the ShawsPlay activities (refer to the timetable for details).</p>
+<p>Most Pre-Nursery and Nursery One children still do require a nap after the busy morning activities. However should you not wish for your child to nap, do let us know.</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_2_5 et_pb_column_31 center-items-div  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_12">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="980" height="1366" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/02/Langauge-Literacy-copy-1.png" alt="" title="Langauge-Literacy-copy" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/02/Langauge-Literacy-copy-1.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/Langauge-Literacy-copy-1-480x669.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 980px, 100vw" class="wp-image-7287 lazyload"><noscript><img decoding="async" width="980" height="1366" src="https://shaws.com.sg/wp-content/uploads/2022/02/Langauge-Literacy-copy-1.png" alt="" title="Langauge-Literacy-copy" srcset="https://shaws.com.sg/wp-content/uploads/2022/02/Langauge-Literacy-copy-1.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/Langauge-Literacy-copy-1-480x669.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 980px, 100vw" class="wp-image-7287 lazyload" /></noscript></span>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_21 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_32  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div id="should-i-choose-the-3-day" class="et_pb_module et_pb_text et_pb_text_32  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Should I choose the 3 day programme for my child?</h3>
+<p>Children work best with routine. Which is why we always recommend the 5-day programme. This allows children a full five days in a row to settle into a new routine. We are not saying that parents should absolutely not send your child for a 3-day programme. Just bear in mind that, especially if it is on alternate days, your child will likely take longer to settle into school.</p></div>
+			</div><div id="shaws-little-league" class="et_pb_module et_pb_text et_pb_text_33  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Will all the children have Shaws Little League sports?</h3>
+<p>Yes, Shaws Little League sport in the morning is for all children, including the Pre-Nursery children, twice a week (refer to the timetable for details). Children should come to school in sports shoes on these days.</p>
+<p>The Nursery One to Kindergarten Two children have Shaws Little League Specialised Sports once a week in the afternoons (refer to the ShawsPlay timetable for more details on this).</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_7 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div id="how-to-communicate" class="et_pb_row et_pb_row_22">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_33  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_34  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><span style="font-weight: 400;">6) How to Communicate with My Child’s Preschool Teacher</span></h2></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div id="find-information" class="et_pb_row et_pb_row_23">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_34  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_35  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3><img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/02/fantasy-300x300.png" width="300" height="300" alt="" class="wp-image-7272 alignright size-medium lazyload"><noscript><img decoding="async" src="https://shaws.com.sg/wp-content/uploads/2022/02/fantasy-300x300.png" width="300" height="300" alt="" class="wp-image-7272 alignright size-medium lazyload" /></noscript></h3>
+<h3>Where can I find all the information for my child’s class?</h3>
+<p>You can again access to your child’s class Information Pack Dashboard via Shaws Preschools online parent portal Little Lives. Little lives is available to our existing parents <a href="https://www.littlelives.com/signin" target="_blank" rel="noopener">here</a>, you will receive your unique password for the portal once your child has started school. This Information Pack Dashboard contains all important information including the calendar of events which include event dates, Parent Teacher Meetings and School Closure days for the year.</p>
+<p>It also includes curriculum information for each term, the menu, class timetables, the latest Covid19 safety measures and much more. Please do ensure you have access to this dashboard.</p>
+<p>&nbsp;</p></div>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_4_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_4 et_hover_enabled et_pb_bg_layout_dark" href="https://www.littlelives.com/signin" target="_blank" rel="noopener">CHECK OUT OUR INFORMATION PACK DASHBOARD</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_24">
+				<div class="et_pb_column et_pb_column_3_5 et_pb_column_35  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div id="how-do-log" class="et_pb_module et_pb_text et_pb_text_36  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>How do I log into the school communication portal?</h3>
+<p>We will send you the login details on or before your child’s first day of school. However do remember to give us a call for urgent matters as the portal is usually not checked during class time, when the teachers are with the children.</p></div>
+			</div><div id="how-will-i-know-my-child" class="et_pb_module et_pb_text et_pb_text_37  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>How will I know how my child is doing at school after I leave him for the first time?</h3>
+<p>The teachers and Principal will communicate with you directly to update you on how your child is doing. But if you’re worried, please give us a call, and we will give you an immediate update. After your child has settled in, the regular updates for all children will be on the school communication portal.</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_2_5 et_pb_column_36  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_13">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="980" height="1366" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/02/16.Initiative-_-Entrepreneurship.png" alt="" title="16.Initiative-_-Entrepreneurship" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/02/16.Initiative-_-Entrepreneurship.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/16.Initiative-_-Entrepreneurship-480x669.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 980px, 100vw" class="wp-image-7291 lazyload"><noscript><img decoding="async" width="980" height="1366" src="https://shaws.com.sg/wp-content/uploads/2022/02/16.Initiative-_-Entrepreneurship.png" alt="" title="16.Initiative-_-Entrepreneurship" srcset="https://shaws.com.sg/wp-content/uploads/2022/02/16.Initiative-_-Entrepreneurship.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/16.Initiative-_-Entrepreneurship-480x669.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 980px, 100vw" class="wp-image-7291 lazyload" /></noscript></span>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_8 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div id="transport-drop-pickup" class="et_pb_row et_pb_row_25">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_37  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_38  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><span style="font-weight: 400;">7) Transport, Drop Off and Pick up </span></h2></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div id="tips-for-drop-off" class="et_pb_row et_pb_row_26">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_38  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_39  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Tips for drop off</h3>
+<p>Here are some tips we have for drop off:</p>
+<p><img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/02/creative-thinking-225x300.png" width="225" height="300" alt="" class="wp-image-7266 alignright size-medium lazyload"><noscript><img decoding="async" src="https://shaws.com.sg/wp-content/uploads/2022/02/creative-thinking-225x300.png" width="225" height="300" alt="" class="wp-image-7266 alignright size-medium lazyload" /></noscript></p>
+<p><span style="color: #d81f26;">✱</span> Drop off early or on time – while the children are enjoying free play, and before the class starts. Most children love playing outdoors!</p>
+<p><span style="color: #d81f26;">✱</span> Drop off at the same time daily. Children love routine, so this is a great way to start the routine.</p>
+<p><span style="color: #d81f26;">✱</span> Keep your morning routine at home consistent. Again, children love routine, and this sets the tone for their day.</p>
+<p><span style="color: #d81f26;">✱</span> Be happy at drop off. Remind your child what a great day they are going to have at school. Remind your child that you will be pickng up your child at the end of the day and will want to hear all about their day.</p>
+<p><span style="color: #d81f26;">✱</span> Keep drop offs short. Children can sense any reluctance parents may have when leaving their child, so a quick goodbye lets your child settle in quickly without any</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div id="will-child-be-fine" class="et_pb_row et_pb_row_27 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_39  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_40  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Will my child be fine on the school bus?</h3>
+<p>Our wonderful school bus drivers and bus “aunties” are experienced with young children. They will ensure your child has a pleasant trip on the bus to and from school.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div id="can-i-come-along" class="et_pb_row et_pb_row_28">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_40  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_41  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Can I come along for the first few days?</h3>
+<p><img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/03/6._Mastery_Play-copy-300x212.png" width="300" height="212" alt="" class="wp-image-7592 alignright size-medium lazyload"><noscript><img decoding="async" src="https://shaws.com.sg/wp-content/uploads/2022/03/6._Mastery_Play-copy-300x212.png" width="300" height="212" alt="" class="wp-image-7592 alignright size-medium lazyload" /></noscript></p>
+<p>Most definitely! One parent is very welcome in the classroom for the first two mornings to help settle your child (this changes due to the safe distancing rules set by ECDA, and we will update you if there are any changes).</p>
+<p>Each child is different, and will have a different rate of assimilation. If your child<br>requires more than two days, the teachers will discuss this with you and work<br>out the best plan for your child.</p>
+<p>To help your child settle in as easily as possible, here are some useful tips.</p>
+<p><span style="color: #d81f26;">✱</span> Do arrive early, while the children are still in the outdoor playground. This is so your child has the opportunity to be comfortable in the outdoors, before moving indoors with the group.</p>
+<p><span style="color: #d81f26;">✱</span> Only 1 adult is needed to settle your child (any more may confuse or upset your child)</p>
+<p><span style="color: #d81f26;">✱</span> This person should ideally be the same person over the settling period.</p>
+<p><span style="color: #d81f26;">✱</span> Please allow your child to explore his/her new environment. It is fine if he/she does not join in all the activities with the rest of the children, and choose to explore the classroom. It is a new environment and we want new joiners to feel comfortable in.</p>
+<p><span style="color: #d81f26;">✱</span> Our teachers will not come too close to you and your child on your first day. Instead, they will observe parent and child behavior, which will help us get to know your child a little better.</p>
+<p><span style="color: #d81f26;">✱</span> Our teachers will take your child from you once you leave (we do not wish to come between a child and their parent). Please be sure to tell your child when you leave and tell them when you will be back.</p>
+<p><span style="color: #d81f26;">✱</span> During this time, the teachers and Principal will communicate with you, giving you updates and photos as to how your child is doing.</p>
+<p><span style="color: #d81f26;">✱</span> If after you have left your child continues to cry and the teachers are unable to settle your child, they will call you to come back earlier than planned.</p>
+<p><span style="color: #d81f26;">✱</span> It is not uncommon for it to take three weeks or more for a child to fully settle. Our teachers will do their best to encourage them to settle as quickly as possible, working closely with you.</p>
+<p><span style="color: #d81f26;">✱</span> At the one-month stage we email you with our observations as to how well your child is settling in and how they are progressing at school.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_29">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_41  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_5_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_5 et_hover_enabled et_pb_bg_layout_dark" href="#Eguide-form">DOWNLOAD OUR PARENT GUIDE HERE!</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div id="who-can-pick-up" class="et_pb_row et_pb_row_30">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_42  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_42  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Who can pick up my child?</h3>
+<p>The registering parent is the main person who can pick up any child. In the registration form, the registering parent would have indicated others who are allowed to pick up or drop off a child. You can add additional persons by letting us know – you will have to provide this in writing (via email, on the portal or over whatsapp) together with a photo of the person.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_31 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_3_5 et_pb_column_43  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div id="what-happens-when-goodbye" class="et_pb_module et_pb_text et_pb_text_43  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>What happens when it is time for me to say goodbye to my child at preschool?</h3>
+<p>On the second day, depending on how your child is at school, the teacher may suggest it is time for you to say goodbye, and leave for a little while. When this happens, there will be a teacher that will be dedicated to your child, to help him/her settle in. Your child may cry when you leave; this is normal. It is important that you say goodbye and let your child know when you will be coming back (e.g. after lunchtime).</p>
+<p>Once you leave, the teachers will do their best to settle and redirect your child. If your child continues to cry, we will give you a call to come back and we may try again the next day. When you do come back, do come back smiling. Your child can sense your energy and positivity. Talk about the exciting things your child did during the day.</p>
+<p>When you leave, and if you prefer to wait around the school vicinity, it is best to stay out of your child’s view. This will give him/her a chance to settle in better, without distractions or interruptions, especially if he/she is doing well, participating and is engaged. This will also give your child the chance to build trust and rapport with the teachers who are comforting him/her for a smoother transition in the coming days.</p></div>
+			</div><div id="iam-unable-to-come" class="et_pb_module et_pb_text et_pb_text_44  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>I am unable to come along for my child’s first day. Can my child still start school?</h3>
+<p>Yes, absolutely your child can start school. There will be one dedicated person to ensure your child settles in, and we will update you during the day. Please prepare your child (refer to the section above.) And ensure someone is available on the phone should we need to contact you for any reason, including to ask questions or clarification.</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_2_5 et_pb_column_44  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_14">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="980" height="1366" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/02/Social-Emotional-copy-1.png" alt="" title="Social-Emotional-copy" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/02/Social-Emotional-copy-1.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/Social-Emotional-copy-1-480x669.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 980px, 100vw" class="wp-image-7294 lazyload"><noscript><img decoding="async" width="980" height="1366" src="https://shaws.com.sg/wp-content/uploads/2022/02/Social-Emotional-copy-1.png" alt="" title="Social-Emotional-copy" srcset="https://shaws.com.sg/wp-content/uploads/2022/02/Social-Emotional-copy-1.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/Social-Emotional-copy-1-480x669.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 980px, 100vw" class="wp-image-7294 lazyload" /></noscript></span>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_32">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_45  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_6_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_6 et_hover_enabled et_pb_bg_layout_dark" href="#Eguide-form">DOWNLOAD GUIDE TO PREPARE YOUR CHILD FOR PRESCHOOL! </a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_9 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div id="crying-settling" class="et_pb_row et_pb_row_33">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_46  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_45  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><span style="font-weight: 400;">8) Crying and Other Settling In Issues</span></h2></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_34">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_47  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div id="what-if-child-cries" class="et_pb_module et_pb_text et_pb_text_46  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>What if my child cries at school?</h3>
+<p>If your child cries, and we are unable to pacify your child, we will give you a call. We will discuss with you whether to give your child more time to settle down, or whether you should come into school.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div id="what-happens-if-child-settles" class="et_pb_row et_pb_row_35 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_2_5 et_pb_column_48  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_15">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="980" height="1366" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/02/15.Eath-hero.png" alt="" title="15.Eath-hero" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/02/15.Eath-hero.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/15.Eath-hero-480x669.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 980px, 100vw" class="wp-image-7295 lazyload"><noscript><img decoding="async" width="980" height="1366" src="https://shaws.com.sg/wp-content/uploads/2022/02/15.Eath-hero.png" alt="" title="15.Eath-hero" srcset="https://shaws.com.sg/wp-content/uploads/2022/02/15.Eath-hero.png 980w, https://shaws.com.sg/wp-content/uploads/2022/02/15.Eath-hero-480x669.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 980px, 100vw" class="wp-image-7295 lazyload" /></noscript></span>
+			</div>
+			</div><div class="et_pb_column et_pb_column_3_5 et_pb_column_49  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_47  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>What happens if my child settles in well in the first week, but in the second week cries when I drop him/her off?</h3>
+<p>This is perfectly normal. In the first week, some children settle in well. In the second week, the novelty may have worn off, and they need some time to adjust. What is important is that your child stops crying shortly after drop off and enjoys the rest of the day at school. In a few days, most children will adjust.</p>
+<p>Do share with the teachers any concerns you may have or any changes in behaviour that may be observed at home so we can work together to help your child settle in quickly.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div id="why-my-child-taking-longer" class="et_pb_row et_pb_row_36">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_50  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_48  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Why is my child taking longer to settle in than the other children?</h3>
+<p>Some children have a harder time adjusting to change than others. Some may have a personality that is more cautious, or slower to open up to new situations. We will work with each child’s individual personality and needs. Generally, the older toddlers do take a little longer to settle in than the younger children.</p>
+<p>Again, share with the teachers any concerns you may have or any changes in behaviour that may be observed at home so we can work together to help your child settle in quickly.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div id="iam-still-concerned" class="et_pb_row et_pb_row_37">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_51  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_49  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>I am still concerned. What should I do?</h3>
+<p>Please call us <a href="tel:+65%209789 2255">+65 9772 4035</a> ! We are here to help, so please call us for any concern you may have, big or small.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div id="Eguide-form" class="et_pb_section et_pb_section_10 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_38">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_52  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_50  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><span style="font-weight: 400;">Need to Prepare Your Child for Preschool?&nbsp;</span></h2></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_51  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;">Download your E-Guide Now</p></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_52  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><form id="forminator-module-7279" class="forminator-ui forminator-custom-form forminator-custom-form-7279 forminator-design--material forminator_ajax forminator-size--small" method="post" data-forminator-render="0" data-form-id="7279" data-design="material" data-grid="open" style="" data-uid="660829a34fc52" novalidate="novalidate"><div role="alert" aria-live="polite" class="forminator-response-message forminator-error" aria-hidden="true"></div><div class="forminator-row"><div id="name-3" class="forminator-field-name forminator-col forminator-col-12 "><div class="forminator-field"><label for="forminator-field-name-3_660829a34fc52" id="forminator-field-name-3_660829a34fc52-label" class="forminator-label forminator-floating--input">Name Of Parent <span class="forminator-required">*</span></label><div class="forminator-input--wrap"><input type="text" name="name-3" value="" placeholder="E.g. John Doe" id="forminator-field-name-3_660829a34fc52" class="forminator-input forminator-name--field" aria-required="true"></div></div></div></div><div class="forminator-row"><div id="email-1" class="forminator-field-email forminator-col forminator-col-12 "><div class="forminator-field"><label for="forminator-field-email-1_660829a34fc52" id="forminator-field-email-1_660829a34fc52-label" class="forminator-label forminator-floating--input">Email Address <span class="forminator-required">*</span></label><div class="forminator-input--wrap"><input type="email" name="email-1" value="" placeholder="E.g. john@doe.com" id="forminator-field-email-1_660829a34fc52" class="forminator-input forminator-email--field" data-required="true" aria-required="true"></div></div></div></div><div class="forminator-row"><div id="phone-1" class="forminator-field-phone forminator-col forminator-col-12 "><div class="forminator-field"><label for="forminator-field-phone-1_660829a34fc52" id="forminator-field-phone-1_660829a34fc52-label" class="forminator-label forminator-floating--input">Phone <span class="forminator-required">*</span></label><div class="forminator-input--wrap"><input type="text" name="phone-1" value="" placeholder="Phone" id="forminator-field-phone-1_660829a34fc52" class="forminator-input forminator-field--phone" data-required="1" aria-required="true" autocomplete="off"></div></div></div></div><div class="forminator-row"><div id="text-1" class="forminator-field-text forminator-col forminator-col-12 "><div class="forminator-field"><label for="forminator-field-text-1_660829a34fc52" id="forminator-field-text-1_660829a34fc52-label" class="forminator-label forminator-floating--input">Year of Birth of Child <span class="forminator-required">*</span></label><div class="forminator-input--wrap"><input type="text" name="text-1" value="" placeholder="Separate with commas if more than one" id="forminator-field-text-1_660829a34fc52" class="forminator-input forminator-name--field" data-required="1"></div></div></div></div><div class="forminator-row"><div id="select-1" class="forminator-field-select forminator-col forminator-col-12 "><div class="forminator-field"><label for="forminator-form-7279__field--select-1_660829a34fc52" id="forminator-form-7279__field--select-1_660829a34fc52-label" class="forminator-label">How did you hear about us?</label><select id="forminator-form-7279__field--select-1_660829a34fc52" class="forminator-select--field forminator-select2 select2-hidden-accessible forminator-screen-reader-only" data-required="" name="select-1" data-default-value="" data-placeholder="" data-search="false" aria-labelledby="forminator-form-7279__field--select-1_660829a34fc52-label" aria-describedby="forminator-form-7279__field--select-1_660829a34fc52-description" data-select2-id="select2-data-forminator-form-7279__field--select-1_660829a34fc52" tabindex="-1" aria-hidden="true"><option value="friends-family" data-calculation="0" data-select2-id="select2-data-2-wvmr">Friends/ Family</option><option value="internet-search" data-calculation="0">Internet Search</option><option value="expat-living" data-calculation="0">Expat Living</option><option value="honeykids" data-calculation="0">HoneyKids</option><option value="sassymama" data-calculation="0">SassyMama</option><option value="mailshot" data-calculation="0">Mailshot</option><option value="facebook" data-calculation="0">Facebook</option><option value="instagram" data-calculation="0">Instagram</option><option value="wechat" data-calculation="0">WeChat</option><option value="other" data-calculation="0">Other</option></select><span class="select2 select2-container forminator-select" dir="ltr" data-select2-id="select2-data-1-cp2j" style="width: 135px;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-describedby="forminator-form-7279__field--select-1_660829a34fc52-description" aria-labelledby="select2-forminator-form-7279__field--select-1_660829a34fc52-container" aria-controls="select2-forminator-form-7279__field--select-1_660829a34fc52-container"><span class="select2-selection__rendered" id="select2-forminator-form-7279__field--select-1_660829a34fc52-container" role="textbox" aria-readonly="true" title="Friends/ Family">Friends/ Family</span><span class="select2-selection__arrow" role="presentation"><span class="forminator-icon-chevron-down" aria-hidden="true"></span></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span></div></div></div><div class="forminator-row forminator-hidden"><div id="text-2" class="forminator-field-text forminator-col forminator-col-12 forminator-hidden"><div class="forminator-field"><label for="forminator-field-text-2_660829a34fc52" id="forminator-field-text-2_660829a34fc52-label" class="forminator-label forminator-floating--input">if other, please specify</label><div class="forminator-input--wrap"><input type="text" name="text-2" value="" placeholder="" id="forminator-field-text-2_660829a34fc52" class="forminator-input forminator-name--field forminator-cleared-value" data-required=""></div></div></div></div><div class="forminator-row"><div id="checkbox-1" class="forminator-field-checkbox forminator-col forminator-col-12 "><div role="group" class="forminator-field required" aria-labelledby="forminator-checkbox-group-660829a34fc52-label"><label id="forminator-field-checkbox-1-1-660829a34fc52-label" for="forminator-field-checkbox-1-1-660829a34fc52" class="forminator-checkbox" title="By submitting your particulars, you consent that we may use your information to send you the latest news and tips on child development. Occasionally, you may receive relevant offers from us."><input type="checkbox" name="checkbox-1[]" value="consent" id="forminator-field-checkbox-1-1-660829a34fc52" aria-labelledby="forminator-field-checkbox-1-1-660829a34fc52-label" data-calculation="0" aria-describedby="forminator-field-checkbox-1-660829a34fc52-description"><span class="forminator-checkbox-box" aria-hidden="true"></span><span class="forminator-checkbox-label">By submitting your particulars, you consent that we may use your information to send you the latest news and tips on child development. Occasionally, you may receive relevant offers from us.</span></label></div></div></div><div class="forminator-row forminator-hidden"><input type="hidden" id="hidden-1_660829a34fc52" name="hidden-1" value="49.245.81.142"></div><div class="forminator-row forminator-hidden"><input type="hidden" id="hidden-2_660829a34fc52" name="hidden-2" value="https://shaws.com.sg/ready-for-preschool/"></div><div class="forminator-row forminator-hidden"><input type="hidden" id="hidden-3_660829a34fc52" name="hidden-3" value="https://shaws.com.sg/ready-for-preschool/"></div><div class="forminator-row"><div id="html-1" class="forminator-field-html forminator-col forminator-col-12 "><div class="forminator-field forminator-merge-tags" data-field="html-1"><p style="text-align: center"><a href="/privacy-policy/">Privacy Policy</a></p>
+<p style="text-align: center">You can unsubscribe anytime via our email link.</p></div></div></div><div class="forminator-row"><div id="captcha-1" class="forminator-field-captcha forminator-col forminator-col-12 "><div class="forminator-g-recaptcha recaptcha-invisible" data-theme="light" data-badge="inline" data-sitekey="6LdhYx4gAAAAAHpz_NhHfTEwLk7YG7DzukQB2NuM" data-size="invisible" style="transform: scale(1); transform-origin: 0px 0px;"></div> </div></div><input type="hidden" name="referer_url" value=""><div class="forminator-row forminator-row-last"><div class="forminator-col"><div class="forminator-field"><button class="forminator-button forminator-button-submit preschool-guide-button"><span>Submit</span><span aria-hidden="true"></span></button></div></div></div><input type="hidden" id="forminator_nonce" name="forminator_nonce" value="90b33dc07f"><input type="hidden" name="_wp_http_referer" value="/ready-for-preschool/"><input type="hidden" name="form_id" value="7279"><input type="hidden" name="page_id" value="7002"><input type="hidden" name="form_type" value=""><input type="hidden" name="current_url" value="https://shaws.com.sg/ready-for-preschool/"><input type="hidden" name="render_id" value="0"><input type="hidden" name="action" value="forminator_submit_form_custom-forms"></form></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</div>
+	<div class="swp_social_panel swp_horizontal_panel swp_flat_fresh  swp_default_full_color swp_individual_full_color swp_other_full_color scale-100  scale-" data-min-width="1100" data-float-color="#ffffff" data-float="left" data-float-mobile="none" data-transition="slide" data-post-id="7002"><div class="nc_tweetContainer swp_share_button swp_twitter" data-network="twitter"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=Ready+for+Preschool+-+Download+FREE+Parent%27s+Guide&amp;url=https%3A%2F%2Fshaws.com.sg%2Fready-for-preschool%2F" data-link="https://twitter.com/intent/tweet?text=Ready+for+Preschool+-+Download+FREE+Parent%27s+Guide&amp;url=https%3A%2F%2Fshaws.com.sg%2Fready-for-preschool%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_facebook" data-network="facebook"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2Fready-for-preschool%2F" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2Fready-for-preschool%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_linkedin" data-network="linkedin"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2Fready-for-preschool%2F" data-link="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2Fready-for-preschool%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_linkedin_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_pinterest" data-network="pinterest"><a rel="nofollow noreferrer noopener" class="nc_tweet swp_share_link noPop" onclick="var e=document.createElement('script');
+							e.setAttribute('type','text/javascript');
+							e.setAttribute('charset','UTF-8');
+							e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+							document.body.appendChild(e);
+						"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_pinterest_icon"></i><span class="swp_share">Pin</span></span></span></span></a></div></div><div class="swp-content-locator"></div>					</div>
+
+				
+				</article>
+
+			
+
+</div>
+
+	<footer class="et-l et-l--footer">
+			<div class="et_builder_inner_content et_pb_gutters3"><div class="et_pb_section et_pb_section_0_tb_footer et_pb_with_background et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0_tb_footer et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0_tb_footer  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner">Copyright © Shaws Preschool 2023. All rights reserved. | <a href="/privacy-policy/">PDPA</a></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_1_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<ul class="et_pb_module et_pb_social_media_follow et_pb_social_media_follow_0_tb_footer clearfix  et_pb_text_align_right et_pb_text_align_center-tablet et_pb_bg_layout_light">
+				
+				
+				
+				
+				<li class="et_pb_social_media_follow_network_0_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-facebook"><a href="https://www.facebook.com/ShawsPreschool/" class="icon et_pb_with_border" title="Follow on Facebook" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li><li class="et_pb_social_media_follow_network_1_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-instagram"><a href="https://www.instagram.com/shawspreschool" class="icon et_pb_with_border" title="Follow on Instagram" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li><li class="et_pb_social_media_follow_network_2_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-tiktok et-pb-social-fa-icon"><a href="https://www.tiktok.com/@shawspreschool" class="icon et_pb_with_border" title="Follow on TikTok" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li><li class="et_pb_social_media_follow_network_3_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-linkedin"><a href="https://www.linkedin.com/company/shaws-preschool/" class="icon et_pb_with_border" title="Follow on LinkedIn" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li>
+			</ul>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</footer>
+		</div>
+
+			
+		</div>
+		<div id="et-boc" class="dm-base-context"><div class="et-l dm-base-context"></div></div></div>
+
+			
+			<script type="text/javascript">
+				var _paq = _paq || [];
+								_paq.push(['trackPageView']);
+								(function () {
+					var u = "https://stats1.wpmudev.com/";
+					_paq.push(['setTrackerUrl', u + 'track/']);
+					_paq.push(['setSiteId', '104426']);
+					var d   = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+					g.type  = 'text/javascript';
+					g.async = true;
+					g.defer = true;
+					g.src   = 'https://stats.wpmucdn.com/analytics.js';
+					s.parentNode.insertBefore(g, s);
+				})();
+			</script>
+			<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KW27VTQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<meta name="facebook-domain-verification" content="0o3k381n2p456ddv7u9u8uf9nceeo3">
+
+
+
+
+<!-- Facebook Pixel Code -->
+
+<script>
+
+!function(f,b,e,v,n,t,s)
+
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];
+
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+
+'https://connect.facebook.net/en_US/fbevents.js');
+
+
+fbq('init', '566350953921183'); 
+
+fbq('track', 'PageView');
+
+</script>
+
+<noscript>
+
+<img height="1" width="1" alt="Pixel" src="https://www.facebook.com/tr?id=600739550426159&amp;ev=PageView%0D%0A%0D%0A&amp;noscript=1">
+
+</noscript>
+
+<!-- End Facebook Pixel Code -->
+
+<!-- Page Scroll to ID -->
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KW27VTQ');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" id="social_warfare_script-js-extra">
+/* <![CDATA[ */
+var socialWarfare = {"addons":[],"post_id":"7002","variables":{"emphasizeIcons":false,"powered_by_toggle":false,"affiliate_link":"https:\/\/warfareplugins.com"},"floatBeforeContent":""};
+/* ]]> */
+</script>
+
+<script type="text/javascript" id="divi-custom-script-js-extra">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/shaws.com.sg\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/shaws.com.sg\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"49f611926d","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"94a4c19c05","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"7002","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":"https:\/\/shaws.com.sg\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#7EBEC5","waypoints_options":{"context":[".pum-overlay"]}};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+
+
+
+
+
+
+<script type="text/javascript" id="forminator-front-scripts-js-extra">
+/* <![CDATA[ */
+var ForminatorFront = {"ajaxUrl":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","cform":{"processing":"Submitting form, please wait","error":"An error occurred while processing the form. Please try again","upload_error":"An upload error occurred while processing the form. Please try again","pagination_prev":"Previous","pagination_next":"Next","pagination_go":"Submit","gateway":{"processing":"Processing payment, please wait","paid":"Success! Payment confirmed. Submitting form, please wait","error":"Error! Something went wrong when verifying the payment"},"captcha_error":"Invalid CAPTCHA","no_file_chosen":"No file chosen","intlTelInput_utils_script":"https:\/\/shaws.com.sg\/wp-content\/plugins\/forminator\/assets\/js\/library\/intlTelInputUtils.js","process_error":"Please try again"},"poll":{"processing":"Submitting vote, please wait","error":"An error occurred saving the vote. Please try again"},"quiz":{"view_results":"View Results"},"select2":{"load_more":"Loading more results\u2026","no_result_found":"No results found","searching":"Searching\u2026","loaded_error":"The results could not be loaded."}};
+/* ]]> */
+</script>
+
+
+
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=en_US&amp;onload=forminator_render_captcha&amp;render=explicit&amp;ver=1.29.2" id="forminator-google-recaptcha-js"></script>
+<div class="swp_social_panelSide swp_floating_panel swp_social_panel swp_ swp_default_full_color swp_individual_full_color swp_other_full_color slide swp_float_left" data-min-width="1100" data-float-color="#ffffff" data-float="left" data-float-mobile="none" data-transition="slide" data-post-id="7002" style="top: 224px; display: none;"><div class="nc_tweetContainer swp_share_button swp_twitter" data-network="twitter"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=Ready+for+Preschool+-+Download+FREE+Parent%27s+Guide&amp;url=https%3A%2F%2Fshaws.com.sg%2Fready-for-preschool%2F" data-link="https://twitter.com/intent/tweet?text=Ready+for+Preschool+-+Download+FREE+Parent%27s+Guide&amp;url=https%3A%2F%2Fshaws.com.sg%2Fready-for-preschool%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_facebook" data-network="facebook"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2Fready-for-preschool%2F" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2Fready-for-preschool%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_linkedin" data-network="linkedin"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2Fready-for-preschool%2F" data-link="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2Fready-for-preschool%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_linkedin_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_pinterest" data-network="pinterest"><a rel="nofollow noreferrer noopener" class="nc_tweet swp_share_link noPop" onclick="var e=document.createElement('script');
+							e.setAttribute('type','text/javascript');
+							e.setAttribute('charset','UTF-8');
+							e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+							document.body.appendChild(e);
+						"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_pinterest_icon"></i><span class="swp_share">Pin</span></span></span></span></a></div></div><script type="text/javascript"> var swp_nonce = "598972eb89";function parentIsEvil() { var html = null; try { var doc = top.location.pathname; } catch(err){ }; if(typeof doc === "undefined") { return true } else { return false }; }; if (parentIsEvil()) { top.location = self.location.href; };var url = "https://shaws.com.sg/ready-for-preschool/";if(url.indexOf("stfi.re") != -1) { var canonical = ""; var links = document.getElementsByTagName("link"); for (var i = 0; i < links.length; i ++) { if (links[i].getAttribute("rel") === "canonical") { canonical = links[i].getAttribute("href")}}; canonical = canonical.replace("?sfr=1", "");top.location = canonical; console.log(canonical);};var swpFloatBeforeContent = false; var swp_ajax_url = "https://shaws.com.sg/wp-admin/admin-ajax.php"; var swp_post_id = "7002";var swpClickTracking = false;</script><script type="text/javascript">jQuery(function() {jQuery.ajax({url: 'https://shaws.com.sg/wp-admin/admin-ajax.php',type: "POST",data: {action: "forminator_get_nonce",},success: function (response) {jQuery('#forminator-module-7279 #forminator_nonce').val( response.data );}});})</script>        
+			
+			<span class="et_pb_scroll_top et-pb-icon"></span>
+	<script defer="" src="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-622a80b6ba0f8f8537961eea5d2050dc.js"></script>
+
+</body></html>

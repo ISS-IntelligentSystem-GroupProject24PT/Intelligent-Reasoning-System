@@ -1,0 +1,3592 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="pointer skrollr skrollr-desktop"><head>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style id="customRules"></style><script async="" src="//d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-731439664&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-7SMLTNQHWY&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T5SHD36"></script><script type="text/javascript">
+    window._currentDevice = 'desktop';
+    window.Parameters = window.Parameters || {
+        HomeUrl: 'http://www.kidzmeadow.com/',
+        AccountUUID: '8888ea8d05694cdcbdee75988907d5d0',
+        SystemID: 'US_DIRECT_PRODUCTION',
+        SiteAlias: 'bcf6e8b7',
+        SiteType: atob('RFVEQU9ORQ=='),
+        PublicationDate: 'Thu Mar 28 09:56:17 UTC 2024',
+        ExternalUid: null,
+        IsSiteMultilingual: false,
+        InitialPostAlias: '',
+        InitialDynamicItem: '',
+        DynamicPageInfo: {
+            isDynamicPage: false,
+            base64JsonRowData: 'null',
+        },
+        InitialPageAlias: 'little-bloom-early-years-curriculum',
+        InitialPageUuid: '8bd83a5d5d7e49a1a21669884c028f88',
+        InitialPageId: '1138415899',
+        InitialEncodedPageAlias: 'bGl0dGxlLWJsb29tLWVhcmx5LXllYXJzLWN1cnJpY3VsdW0=',
+        CurrentPageUrl: '',
+        IsCurrentHomePage: false,
+        AllowAjax: false,
+        AfterAjaxCommand: null,
+        HomeLinkText: 'Back To Home',
+        UseGalleryModule: false,
+        CurrentThemeName: 'Layout Theme',
+        ThemeVersion: '43110',
+        DefaultPageAlias: '',
+        RemoveDID: true,
+        WidgetStyleID: null,
+        IsHeaderFixed: false,
+        IsHeaderSkinny: false,
+        IsBfs: true,
+        StorePageAlias: 'null',
+        StorePagesUrls: 'e30=',
+        IsNewStore: 'false',
+        StorePath: '',
+        StoreId: 'null',
+        StoreVersion: 0,
+        StoreBaseUrl: '',
+        StoreCleanUrl: true,
+        StoreDisableScrolling: true,
+        IsStoreSuspended: false,
+        NotificationSubDomain: 'kidzmeadow9b04b699',
+        HasCustomDomain: true,
+        SimpleSite: false,
+        showCookieNotification: false,
+        cookiesNotificationMarkup: 'null',
+        translatedPageUrl: '',
+        isFastMigrationSite: false,
+        sidebarPosition: 'NA',
+        currentLanguage: 'en',
+        currentLocale: 'en',
+        NavItems: '{}',
+        errors: {
+            general: 'There was an error connecting to the page.<br/> Make sure you are not offline.',
+            password: 'Incorrect name/password combination',
+            tryAgain: 'Try again'
+        },
+        NavigationAreaParams: {
+            ShowBackToHomeOnInnerPages: true,
+            NavbarSize: -1,
+            NavbarLiveHomePage: 'http://www.kidzmeadow.com/',
+            BlockContainerSelector: '.dmBody',
+            NavbarSelector: '#dmNav:has(a)',
+            SubNavbarSelector: '#subnav_main'
+        },
+        hasCustomCode: true,
+        planID: '7',
+        customTemplateId: 'null',
+        siteTemplateId: 'null',
+        productId: 'DM_DIRECT',
+        disableTracking: false,
+        pageType: 'FROM_SCRATCH',
+        isRuntimeServer: true,
+        isInEditor: false,
+    };
+
+    window.Parameters.LayoutID = {};
+    window.Parameters.LayoutID[window._currentDevice] = 6;
+    window.Parameters.LayoutVariationID = {};
+    window.Parameters.LayoutVariationID[window._currentDevice] = 5;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Injecting site-wide to the head -->
+
+
+
+
+<!-- End Injecting site-wide to the head -->
+
+<!-- Inject secured cdn script -->
+
+
+<!-- ========= Meta Tags ========= -->
+<!-- PWA settings -->
+<script>
+    function toHash(str) {
+        var hash = 5381, i = str.length;
+        while (i) {
+            hash = hash * 33 ^ str.charCodeAt(--i)
+        }
+        return hash >>> 0
+    }
+</script>
+<script>
+    (function (global) {
+    //const cacheKey = global.cacheKey;
+    const isOffline = 'onLine' in navigator && navigator.onLine === false;
+    const hasServiceWorkerSupport = 'serviceWorker' in navigator;
+    if (isOffline) {
+        console.log('offline mode');
+    }
+    if (!hasServiceWorkerSupport) {
+        console.log('service worker is not supported');
+    }
+    if (hasServiceWorkerSupport && !isOffline) {
+        window.addEventListener('load', function () {
+            const serviceWorkerPath = '/runtime-service-worker.js?v=3';
+            navigator.serviceWorker
+                .register(serviceWorkerPath, { scope: './' })
+                .then(
+                    function (registration) {
+                        // Registration was successful
+                        console.log(
+                            'ServiceWorker registration successful with scope: ',
+                            registration.scope
+                        );
+                    },
+                    function (err) {
+                        // registration failed :(
+                        console.log('ServiceWorker registration failed: ', err);
+                    }
+                )
+                .catch(function (err) {
+                    console.log(err);
+                });
+        });
+
+        // helper function to refresh the page
+        var refreshPage = (function () {
+            var refreshing;
+            return function () {
+                if (refreshing) return;
+                // prevent multiple refreshes
+                var refreshkey = 'refreshed' + location.href;
+                var prevRefresh = localStorage.getItem(refreshkey);
+                if (prevRefresh) {
+                    localStorage.removeItem(refreshkey);
+                    if (Date.now() - prevRefresh < 30000) {
+                        return; // dont go into a refresh loop
+                    }
+                }
+                refreshing = true;
+                localStorage.setItem(refreshkey, Date.now());
+                console.log('refereshing page');
+                window.location.reload();
+            };
+        })();
+
+        function messageServiceWorker(data) {
+            return new Promise(function (resolve, reject) {
+                if (navigator.serviceWorker.controller) {
+                    var worker = navigator.serviceWorker.controller;
+                    var messageChannel = new MessageChannel();
+                    messageChannel.port1.onmessage = replyHandler;
+                    worker.postMessage(data, [messageChannel.port2]);
+                    function replyHandler(event) {
+                        resolve(event.data);
+                    }
+                } else {
+                    resolve();
+                }
+            });
+        }
+    }
+})(window);
+</script>
+<!-- Add manifest -->
+<!-- End PWA settings -->
+
+
+<meta http-equiv="Content-type" content="text/html;charset=utf-8">
+<meta charset="utf-8">
+
+<link rel="canonical" href="http://www.kidzmeadow.com/little-bloom-early-years-curriculum">
+
+<meta id="view" name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<!--Add favorites icons-->
+
+<link rel="icon" type="image/x-icon" href="https://irp.cdn-website.com/bcf6e8b7/site_favicon_16_1651198158833.ico">
+
+<!-- End favorite icons -->
+<link rel="preconnect" href="https://lirp.cdn-website.com/">
+
+
+
+<!-- render the required CSS and JS in the head section -->
+<script>
+    window.SystemID = 'US_DIRECT_PRODUCTION';
+
+    if(!window.dmAPI) {
+        window.dmAPI = {
+            registerExternalRuntimeComponent: function() {
+            },
+            getCurrentDeviceType: function() {
+                return window._currentDevice;
+            }
+        };
+    }
+
+    if (!window.requestIdleCallback) {
+        window.requestIdleCallback = function (fn) {
+            setTimeout(fn, 0);
+        }
+    }
+</script>
+
+<!-- loadCSS function header.jsp-->
+
+    
+    
+    
+
+
+<script id="d-js-load-css">
+/**
+ * There are a few <link> tags with CSS resource in them that are preloaded in the page
+ * in each of those there is a "onload" handler which invokes the loadCSS callback
+ * defined here.
+ * We are monitoring 3 main CSS files - the runtime, the global and the page.
+ * When each load we check to see if we can append them all in a batch. If threre
+ * is no page css (which may happen on inner pages) then we do not wait for it
+ */
+(function () {
+  let cssLinks = {};
+  function loadCssLink(link) {
+    link.onload = null;
+    link.rel = "stylesheet";
+    link.type = "text/css";
+  }
+  
+    function checkCss() {
+      const pageCssLink = document.querySelector("[id*='CssLink']");
+      const widgetCssLink = document.querySelector("[id*='widgetCSS']");
+
+        if (cssLinks && cssLinks.runtime && cssLinks.global && (!pageCssLink || cssLinks.page) && (!widgetCssLink || cssLinks.widget)) {
+            const storedRuntimeCssLink = cssLinks.runtime;
+            const storedPageCssLink = cssLinks.page;
+            const storedGlobalCssLink = cssLinks.global;
+            const storedWidgetCssLink = cssLinks.widget;
+
+            storedGlobalCssLink.disabled = true;
+            loadCssLink(storedGlobalCssLink);
+
+            if (storedPageCssLink) {
+                storedPageCssLink.disabled = true;
+                loadCssLink(storedPageCssLink);
+            }
+
+            if(storedWidgetCssLink) {
+                storedWidgetCssLink.disabled = true;
+                loadCssLink(storedWidgetCssLink);
+            }
+
+            storedRuntimeCssLink.disabled = true;
+            loadCssLink(storedRuntimeCssLink);
+
+            requestAnimationFrame(() => {
+                setTimeout(() => {
+                    storedRuntimeCssLink.disabled = false;
+                    storedGlobalCssLink.disabled = false;
+                    if (storedPageCssLink) {
+                      storedPageCssLink.disabled = false;
+                    }
+                    if (storedWidgetCssLink) {
+                      storedWidgetCssLink.disabled = false;
+                    }
+                    // (SUP-4179) Clear the accumulated cssLinks only when we're
+                    // sure that the document has finished loading and the document 
+                    // has been parsed.
+                    if(document.readyState === 'interactive') {
+                      cssLinks = null;
+                    }
+                }, 0);
+            });
+        }
+    }
+  
+
+  function loadCSS(link) {
+    try {
+      var urlParams = new URLSearchParams(window.location.search);
+      var noCSS = !!urlParams.get("nocss");
+      var cssTimeout = urlParams.get("cssTimeout") || 0;
+
+      if (noCSS) {
+        return;
+      }
+      if (link.href.includes("d-css-runtime")) {
+        cssLinks.runtime = link;
+        checkCss();
+      } else if (link.id === "siteGlobalCss") {
+        cssLinks.global = link;
+        checkCss();
+      } 
+      
+      else if (link.id.includes("CssLink")) {
+        cssLinks.page = link;
+        checkCss();
+      } else if (link.id.includes("widgetCSS")) {
+        cssLinks.widget = link;
+        checkCss();
+      }
+      
+      else {
+        requestIdleCallback(function () {
+          window.setTimeout(function () {
+            loadCssLink(link);
+          }, parseInt(cssTimeout, 10));
+        });
+      }
+    } catch (e) {
+      throw e
+    }
+  }
+  window.loadCSS = window.loadCSS || loadCSS;
+})();
+</script>
+
+
+
+<script data-role="deferred-init" type="text/javascript">
+    /* usage: window.getDeferred(<deferred name>).resolve() or window.getDeferred(<deferred name>).promise.then(...)*/
+    function Def(){this.promise=new Promise((function(a,b){this.resolve=a,this.reject=b}).bind(this))}
+    const defs={};
+    window.getDeferred=function(a){return null==defs[a]&&(defs[a]=new Def),defs[a]}
+    window.waitForDeferred = function (b, a, c) {
+      let d = window?.getDeferred?.(b);
+      d
+        ? d.promise.then(a)
+        : c && ["complete", "interactive"].includes(document.readyState)
+        ? setTimeout(a, 1)
+        : c
+        ? document.addEventListener("DOMContentLoaded", a)
+        : console.error(`Deferred  does not exist`);
+    };
+</script>
+<style id="forceCssIncludes">
+    /* This file is auto-generated from a `scss` file with the same name */
+
+.videobgwrapper{overflow:hidden;position:absolute;z-index:0;width:100%;height:100%;top:0;left:0;pointer-events:none;border-radius:inherit}.videobgframe{position:absolute;width:101%;height:100%;top:50%;left:50%;transform:translateY(-50%) translateX(-50%);object-fit:fill}#dm video.videobgframe{margin:0}@media (max-width:767px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}}@media (min-width:1025px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}@media (min-width:768px) and (max-width:1024px){.responsiveTablet .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}#dm [data-show-on-page-only]{display:none!important}#dmRoot div.stickyHeaderFix div.site_content{margin-top:0!important}#dmRoot div.stickyHeaderFix div.hamburger-header-container{position:relative}
+    
+</style>
+<style id="cssVariables" type="text/css">
+    
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google Fonts Include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- loadCSS function fonts.jsp-->
+
+
+
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/fonts/css2?family=Dosis:ital,wght@0,200..800;1,200..800&amp;family=Muli:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900&amp;family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;family=Montserrat:ital,wght@0,100..900;1,100..900&amp;family=Gloria+Hallelujah:ital,wght@0,400&amp;family=Jost:ital,wght@0,100..900;1,100..900&amp;subset=latin-ext&amp;display=swap">
+
+
+
+
+
+<!-- RT CSS Include d-css-runtime-desktop-one-package-structured-global-->
+<link rel="stylesheet" type="text/css" href="https://static.cdn-website.com/mnlt/production/4314/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-structured-global.min.css">
+
+<!-- End of RT CSS Include -->
+
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/WIDGET_CSS/9cb0e873b641d7dfbf12285ac9122149.css" id="widgetCSS">
+
+<!-- Support `img` size attributes -->
+<style>img[width][height] {
+  height: auto;
+}</style>
+
+<!-- Support showing sticky element on page only -->
+<style>
+  body[data-page-alias="little-bloom-early-years-curriculum"] #dm [data-show-on-page-only="little-bloom-early-years-curriculum"] {
+    display: block !important;
+  }
+</style>
+
+<!-- This is populated in Ajax navigation -->
+<style id="pageAdditionalWidgetsCss" type="text/css">
+</style>
+
+
+
+
+<!-- Site CSS -->
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/bcf6e8b7/files/bcf6e8b7_1.min.css?v=402" id="siteGlobalCss">
+
+
+
+<style id="customWidgetStyle" type="text/css">
+
+</style>
+<style id="innerPagesStyle" type="text/css">
+    
+</style>
+
+
+<style id="additionalGlobalCss" type="text/css">
+</style>
+
+<style id="pagestyle" type="text/css">
+    .new-centre{
+    display:none !important;
+}
+
+*#dm *.dmBody div.u_1440507117
+{
+	background-image:initial !important;
+	background-color:rgba(250,255,231,1) !important;
+}
+*#dm *.dmBody *.u_1735374258
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1532717776
+{
+	display:none !important;
+}
+*#dm *.dmBody div.u_1505838367 .color-overlay
+{
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody *.u_1627538264
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1284598454
+{
+	display:none !important;
+}
+*#dm *.dmBody div.u_1526042241 .color-overlay
+{
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody *.u_1605773848
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1451692516
+{
+	display:none !important;
+}
+*#dm *.dmBody div.u_1754048508 .color-overlay
+{
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody *.u_1274312302
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1221337366
+{
+	display:none !important;
+}
+*#dm *.dmBody div.u_1662261318 .color-overlay
+{
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody *.u_1877960728
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1125980979
+{
+	display:none !important;
+}
+*#dm *.dmBody div.u_1773110852 .color-overlay
+{
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody *.u_1867256184
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1450838181
+{
+	display:none !important;
+}
+*#dm *.dmBody div.u_1964530633 .color-overlay
+{
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody *.u_1728056270
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1813168929
+{
+	display:none !important;
+}
+*#dm *.dmBody div.u_1308169489 .color-overlay
+{
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody *.u_1571668491
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1311655458
+{
+	display:none !important;
+}
+*#dm *.dmBody div.u_1252578538 .color-overlay
+{
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody *.u_1863548049
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1058846457
+{
+	display:none !important;
+}
+*#dm *.dmBody div.u_1424415259 .color-overlay
+{
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody div.u_1643096390
+{
+	border-style:solid !important;
+	border-width:0 !important;
+	border-color:rgba(0,0,0,1) !important;
+}
+*#dm *.dmBody div.u_1643096390 .svg
+{
+	color:rgba(255,255,255,1) !important;
+	fill:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody a.u_1784488716 span.text
+{
+	text-decoration:none !important;
+}
+*#dm *.dmBody a.u_1784488716
+{
+	border-style:solid !important;
+	border-width:2px !important;
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody div.u_1488847663
+{
+	background-color:rgba(255,198,60,1) !important;
+}
+*#dm *.dmBody a.u_1784488716:hover
+{
+	background-color:rgba(255,181,0,1) !important;
+	background-image:none !important;
+	border-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody a.u_1784488716.hover
+{
+	background-color:rgba(255,181,0,1) !important;
+	background-image:none !important;
+	border-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody div.u_1989419319
+{
+	border-style:solid !important;
+	border-width:0 !important;
+	border-color:rgba(0,0,0,1) !important;
+}
+*#dm *.dmBody a.u_1716945842 span.text
+{
+	text-decoration:none !important;
+}
+*#dm *.dmBody div.u_1989419319 .svg
+{
+	color:rgba(255,255,255,1) !important;
+	fill:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody a.u_1716945842
+{
+	border-style:solid !important;
+	border-width:2px !important;
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody a.u_1716945842:hover
+{
+	background-color:rgba(255,181,0,1) !important;
+	background-image:none !important;
+	border-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody a.u_1716945842.hover
+{
+	background-color:rgba(255,181,0,1) !important;
+	background-image:none !important;
+	border-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody div.u_1639504161
+{
+	background-repeat:no-repeat !important;
+	background-image:none !important;
+	background-size:cover !important;
+	background-color:rgba(145,182,234,1) !important;
+}
+*#dm *.dmBody div.u_1876363646
+{
+	background-repeat:no-repeat !important;
+	background-image:none !important;
+	background-size:cover !important;
+	background-color:rgba(244,122,87,1) !important;
+}
+*#dm *.dmBody div.u_1375025053
+{
+	border-style:solid !important;
+	border-width:0 !important;
+	border-color:rgba(0,0,0,1) !important;
+}
+*#dm *.dmBody div.u_1375025053 .svg
+{
+	color:rgba(255,255,255,1) !important;
+	fill:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody a.u_1472842620 span.text
+{
+	text-decoration:none !important;
+}
+*#dm *.dmBody a.u_1472842620
+{
+	border-style:solid !important;
+	border-width:2px !important;
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody a.u_1472842620:hover
+{
+	background-color:rgba(255,181,0,1) !important;
+	background-image:none !important;
+	border-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody a.u_1472842620.hover
+{
+	background-color:rgba(255,181,0,1) !important;
+	background-image:none !important;
+	border-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody div.u_1329809216
+{
+	background-color:rgba(254,247,228,1) !important;
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2022094340IMG_8651-LittleBloom-Homepage-Square-2880w.JPG) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1643626813
+{
+	border-style:solid !important;
+	border-width:0 !important;
+	border-color:rgba(0,0,0,1) !important;
+}
+*#dm *.dmBody div.u_1643626813 .svg
+{
+	color:rgba(255,255,255,1) !important;
+	fill:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody a.u_1368459021 span.text
+{
+	text-decoration:none !important;
+}
+*#dm *.dmBody a.u_1368459021
+{
+	border-style:solid !important;
+	border-width:2px !important;
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody a.u_1368459021:hover
+{
+	background-color:rgba(255,181,0,1) !important;
+	background-image:none !important;
+	border-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody a.u_1368459021.hover
+{
+	background-color:rgba(255,181,0,1) !important;
+	background-image:none !important;
+	border-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody div.u_1665065246
+{
+	background-color:rgba(230,190,207,1) !important;
+}
+*#dm *.dmBody div.u_1912818891
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021160815IMG_9500-Bloom-homepage-square-5e1ca341-2880w.JPG) !important;
+	background-size:cover !important;
+}
+.u_1121864357
+{
+}
+*#dm *.dmBody div.u_1121864357
+{
+	background-color:rgba(254,247,228,1) !important;
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021160815IMG_9500-Bloom-homepage-square-2880w.JPG) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1759499351
+{
+	background-color:rgba(180,211,189,1) !important;
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021114832IMG_7970-Childcare-2880w.JPG) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1119603076
+{
+	background-color:rgba(180,211,189,1) !important;
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021150237IMG_8926-InfantCare-ba895894-2880w.JPG) !important;
+	background-size:cover !important;
+}
+.u_1176135552
+{
+}
+.u_1759499351
+{
+}
+.u_1329809216
+{
+}
+.u_1119603076
+{
+}
+.u_1876363646
+{
+}
+.u_1665065246
+{
+}
+.u_1639504161
+{
+}
+.u_1488847663
+{
+}
+.u_1794234859
+{
+}
+*#dm *.dmBody div.u_1074960266
+{
+	border-style:solid !important;
+	border-width:0 !important;
+	border-color:rgba(0,0,0,1) !important;
+}
+*#dm *.dmBody div.u_1074960266 .svg
+{
+	color:rgba(255,255,255,1) !important;
+	fill:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody a.u_1557519712 span.text
+{
+	text-decoration:none !important;
+}
+*#dm *.dmBody a.u_1557519712
+{
+	border-style:solid !important;
+	border-width:2px !important;
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody a.u_1557519712:hover
+{
+	background-color:rgba(255,181,0,1) !important;
+	background-image:none !important;
+	border-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody a.u_1557519712.hover
+{
+	background-color:rgba(255,181,0,1) !important;
+	background-image:none !important;
+	border-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody div.u_1200422096
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021160815IMG_9500-Bloom-homepage-square-5e1ca341-2880w.JPG) !important;
+	background-size:cover !important;
+}
+.u_1198302361
+{
+}
+.u_1850562332
+{
+}
+*#dm *.dmBody div.u_1850562332
+{
+	background-repeat:no-repeat !important;
+	background-image:none !important;
+	background-size:cover !important;
+	background-color:rgba(180,211,189,1) !important;
+}
+*#dm *.dmBody div.u_1198302361
+{
+	background-color:rgba(254,247,228,1) !important;
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021111741IMG_7614-kidz-nature1-2880w.JPG) !important;
+	background-size:cover !important;
+}
+.u_1348527056
+{
+}
+.u_1843689859
+{
+}
+*#dm *.dmBody div.u_1348527056:before
+{
+	background-color:rgba(235,238,255,0.44) !important;
+	opacity:1 !important;
+}
+*#dm *.dmBody div.u_1348527056.before
+{
+	background-color:rgba(235,238,255,0.44) !important;
+	opacity:1 !important;
+}
+*#dm *.dmBody div.u_1348527056>.bgExtraLayerOverlay
+{
+	background-color:rgba(235,238,255,0.44) !important;
+	opacity:1 !important;
+}
+*#dm *.dmBody *.u_1348527056:before
+{
+	opacity:0.5 !important;
+	background-color:rgba(235,238,255,0.44) !important;
+}
+*#dm *.dmBody *.u_1348527056.before
+{
+	opacity:0.5 !important;
+	background-color:rgba(235,238,255,0.44) !important;
+}
+*#dm *.dmBody *.u_1348527056>.bgExtraLayerOverlay
+{
+	opacity:0.5 !important;
+	background-color:rgba(235,238,255,0.44) !important;
+}
+*#dm *.dmBody div.u_1348527056
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/green-2880w.png) !important;
+	background-size:cover !important;
+	background-color:rgba(0,0,0,0) !important;
+}
+.u_1452003274
+{
+}
+.u_1432720391
+{
+}
+*#dm *.dmBody div.u_1452003274:before
+{
+	background-color:rgba(235,238,255,0.44) !important;
+	opacity:1 !important;
+}
+*#dm *.dmBody div.u_1452003274.before
+{
+	background-color:rgba(235,238,255,0.44) !important;
+	opacity:1 !important;
+}
+*#dm *.dmBody div.u_1452003274>.bgExtraLayerOverlay
+{
+	background-color:rgba(235,238,255,0.44) !important;
+	opacity:1 !important;
+}
+*#dm *.dmBody *.u_1452003274:before
+{
+	opacity:0.5 !important;
+	background-color:rgba(235,238,255,0.44) !important;
+}
+*#dm *.dmBody *.u_1452003274.before
+{
+	opacity:0.5 !important;
+	background-color:rgba(235,238,255,0.44) !important;
+}
+*#dm *.dmBody *.u_1452003274>.bgExtraLayerOverlay
+{
+	opacity:0.5 !important;
+	background-color:rgba(235,238,255,0.44) !important;
+}
+*#dm *.dmBody div.u_1452003274
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/green2-2880w.png) !important;
+	background-size:cover !important;
+	background-color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1718446324
+{
+	background-color:rgba(230,190,207,1) !important;
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021153059IMG_9174-Programme-Curriculum-2880w.JPG) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody *.u_1138409390
+{
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021144448IMG_8750-Routine-2880w.png) !important;
+}
+*#dm *.dmBody *.u_1053098541
+{
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021143947IMG_8675-MeaningfulExperiences-2880w.png) !important;
+}
+*#dm *.dmBody *.u_1566068627
+{
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2022102542IMG_6987-social-2880w.png) !important;
+}
+*#dm *.dmBody *.u_1265942023
+{
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021150426IMG_8945-Physical-2880w.png) !important;
+}
+*#dm *.dmBody *.u_1153693577
+{
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021165031IMG_9820-Intellectual-2880w.png) !important;
+}
+*#dm *.dmBody *.u_1387887701
+{
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021150945IMG_8995-CreativeExpression-2880w.png) !important;
+}
+*#dm *.dmBody *.u_1805602969
+{
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021145600IMG_8859-Emotional-2880w.png) !important;
+}
+*#dm *.dmBody *.u_1636723924
+{
+	background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2022152644IMG_7777-disposition-2880w.png) !important;
+}
+*#dm *.dmBody *.u_1698418094
+{
+	background-image:url("https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021122138IMG_8262-InterestAreas-2880w.png") !important;
+}
+
+</style>
+
+<style id="pagestyleDevice" type="text/css">
+    *#dm *.dmBody div.u_1758013753
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:68px !important;
+	margin-left:0 !important;
+	max-width:359.844px !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:start !important;
+	display:block !important;
+	height:auto !important;
+}
+*#dm *.dmBody div.u_1710432810
+{
+	padding-top:0 !important;
+	padding-right:0 !important;
+	margin-left:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1248903317
+{
+	margin-left:0 !important;
+	padding-top:0 !important;
+	padding-left:30px !important;
+	padding-bottom:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:0 !important;
+}
+*#dm *.dmBody div.u_1572973390
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+}
+*#dm *.dmBody div.u_1563483598
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	margin-right:0 !important;
+	margin-left:0 !important;
+	margin-top:0 !important;
+	margin-bottom:50px !important;
+}
+*#dm *.dmBody div.u_1130139266
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	margin-left:0 !important;
+	margin-top:8px !important;
+	margin-bottom:30px !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1505838367
+{
+	height:514px !important;
+	width:calc(100% - 0px) !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	position:relative !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:0 !important;
+	margin-left:0 !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:30px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1052065409
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	margin-left:0 !important;
+	margin-top:8px !important;
+	margin-bottom:30px !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1367655857
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+	margin-right:0 !important;
+	margin-left:0 !important;
+	margin-top:0 !important;
+	margin-bottom:50px !important;
+}
+*#dm *.dmBody div.u_1564646408
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+}
+*#dm *.dmBody div.u_1526042241
+{
+	height:514px !important;
+	width:calc(100% - 0px) !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	position:relative !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	margin-left:0 !important;
+	margin-top:0 !important;
+	margin-bottom:50px !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1050387324
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	margin-left:0 !important;
+	margin-top:8px !important;
+	margin-bottom:30px !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1754048508
+{
+	height:514px !important;
+	width:calc(100% - 0px) !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	position:relative !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	margin-left:0 !important;
+	margin-top:0 !important;
+	margin-bottom:30px !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1583730919
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	margin-left:0 !important;
+	margin-top:8px !important;
+	margin-bottom:30px !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1662261318
+{
+	height:514px !important;
+	width:calc(100% - 0px) !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	position:relative !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	margin-left:0 !important;
+	margin-top:0 !important;
+	margin-bottom:30px !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1497872319
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	margin-left:0 !important;
+	margin-top:8px !important;
+	margin-bottom:30px !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1773110852
+{
+	height:514px !important;
+	width:calc(100% - 0px) !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	position:relative !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	margin-left:0 !important;
+	margin-top:0 !important;
+	margin-bottom:30px !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1683880154
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	margin-left:0 !important;
+	margin-top:8px !important;
+	margin-bottom:30px !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1964530633
+{
+	height:514px !important;
+	width:calc(100% - 0px) !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	position:relative !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	margin-left:0 !important;
+	margin-top:0 !important;
+	margin-bottom:30px !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1958942158
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+}
+*#dm *.dmBody div.u_1308169489
+{
+	height:514px !important;
+	width:calc(100% - 0px) !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	position:relative !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1940548233
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	margin-left:0 !important;
+	margin-top:8px !important;
+	margin-bottom:20px !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1579580022
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+}
+*#dm *.dmBody div.u_1252578538
+{
+	height:514px !important;
+	width:calc(100% - 0px) !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	position:relative !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	margin-left:0 !important;
+	margin-top:0 !important;
+	margin-bottom:30px !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1424415259
+{
+	height:514px !important;
+	width:calc(100% - 0px) !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	position:relative !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	margin-left:0 !important;
+	margin-top:0 !important;
+	margin-bottom:50px !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1245988427
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	margin-left:0 !important;
+	margin-top:8px !important;
+	margin-bottom:30px !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1488847663
+{
+	margin-left:0 !important;
+	padding-top:50px !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:0 !important;
+}
+*#dm *.dmBody div.u_1643096390
+{
+	width:80px !important;
+	height:80px !important;
+}
+*#dm *.dmBody a.u_1784488716
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 34px) !important;
+	position:relative !important;
+	height:96px !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:231.312px !important;
+	margin-top:35.6719px !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	display:block !important;
+}
+*#dm *.dmBody a.u_1784488716 span.text
+{
+	font-size:18px !important;
+}
+*#dm *.dmBody div.u_1833975025
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 97px) !important;
+	position:relative !important;
+	height:300px !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:105px !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:start !important;
+}
+*#dm *.dmBody div.u_1759499351
+{
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	background-position:50% 50% !important;
+	background-repeat:no-repeat !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1639504161
+{
+	background-position:50% 50% !important;
+	padding-top:50px !important;
+	padding-left:0 !important;
+	padding-bottom:40px !important;
+	padding-right:0 !important;
+}
+*#dm *.dmBody a.u_1716945842
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 38px) !important;
+	position:relative !important;
+	height:100px !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:222px !important;
+	margin-top:33.4861px !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1989419319
+{
+	width:80px !important;
+	height:80px !important;
+}
+*#dm *.dmBody a.u_1716945842 span.text
+{
+	font-size:18px !important;
+}
+*#dm *.dmBody div.u_1255132629
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:auto !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+	text-align:start !important;
+	margin-left:0 !important;
+	margin-top:30px !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1329809216
+{
+	margin-left:0 !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:0 !important;
+	background-position:50% 50% !important;
+}
+*#dm *.dmBody div.u_1826922978
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 83px) !important;
+	position:relative !important;
+	height:300px !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:154px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:start !important;
+	margin-right:0 !important;
+	margin-left:83.5px !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+}
+*#dm *.dmBody div.u_1876363646
+{
+	background-position:50% 50% !important;
+	margin-left:0 !important;
+	padding-top:50px !important;
+	padding-left:9px !important;
+	padding-bottom:40px !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:9px !important;
+}
+*#dm *.dmBody a.u_1472842620
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 30px) !important;
+	position:relative !important;
+	height:100px !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:222px !important;
+	margin-top:27.0469px !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	display:block !important;
+}
+*#dm *.dmBody div.u_1375025053
+{
+	width:80px !important;
+	height:80px !important;
+}
+*#dm *.dmBody a.u_1472842620 span.text
+{
+	font-size:18px !important;
+}
+*#dm *.dmBody div.u_1665065246
+{
+	padding-top:50px !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+}
+*#dm *.dmBody a.u_1368459021
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 38px) !important;
+	position:relative !important;
+	height:100px !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:222px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+}
+*#dm *.dmBody a.u_1368459021 span.text
+{
+	font-size:18px !important;
+}
+*#dm *.dmBody div.u_1643626813
+{
+	width:calc(100% - 108px) !important;
+	height:89px !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	position:relative !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:84px !important;
+	margin-top:10px !important;
+	margin-bottom:10px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1121864357
+{
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	background-position:50% 50% !important;
+}
+*#dm *.dmBody div.u_1364225490
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 83px) !important;
+	position:relative !important;
+	height:300px !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:154px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:start !important;
+	margin-right:0 !important;
+	margin-left:83.5px !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+}
+*#dm *.dmBody div.u_1715389533
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 97px) !important;
+	position:relative !important;
+	height:300px !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:105px !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:start !important;
+}
+*#dm *.dmBody div.u_1119603076
+{
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	background-position:50% 50% !important;
+	background-repeat:no-repeat !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1377941485
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+}
+*#dm *.dmBody div.u_1198302361
+{
+	margin-left:0 !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:0 !important;
+	background-position:50% 50% !important;
+}
+*#dm *.dmBody div.u_1889533202
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 83px) !important;
+	position:relative !important;
+	height:300px !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:154px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:start !important;
+	margin-right:0 !important;
+	margin-left:83.5px !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+}
+*#dm *.dmBody div.u_1850562332
+{
+	background-position:50% 50% !important;
+	margin-left:0 !important;
+	padding-top:50px !important;
+	padding-left:9px !important;
+	padding-bottom:40px !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:9px !important;
+}
+*#dm *.dmBody a.u_1557519712
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 30px) !important;
+	position:relative !important;
+	height:100px !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:222px !important;
+	margin-top:27.0469px !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	display:block !important;
+}
+*#dm *.dmBody div.u_1074960266
+{
+	width:80px !important;
+	height:80px !important;
+}
+*#dm *.dmBody a.u_1557519712 span.text
+{
+	font-size:18px !important;
+}
+*#dm *.dmBody div.u_1200422096
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:auto !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0px !important;
+	padding-left:0px !important;
+	padding-bottom:0px !important;
+	max-width:100% !important;
+	padding-right:0px !important;
+	min-width:0 !important;
+	text-align:start !important;
+	background-repeat:no-repeat !important;
+	background-size:contain !important;
+	background-position:100% 50% !important;
+	margin-left:0px !important;
+	margin-top:0px !important;
+	margin-bottom:100px !important;
+	margin-right:0px !important;
+}
+*#dm *.dmBody div.u_1912818891
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:auto !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0px !important;
+	padding-left:0px !important;
+	padding-bottom:0px !important;
+	max-width:100% !important;
+	padding-right:0px !important;
+	min-width:0 !important;
+	text-align:start !important;
+	background-repeat:no-repeat !important;
+	background-size:contain !important;
+	background-position:100% 50% !important;
+	margin-left:0px !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	margin-right:0px !important;
+}
+*#dm *.dmBody div.u_1128201862
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:241px !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:calc(100% - 0px) !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1348527056
+{
+	padding-top:0px !important;
+	padding-left:0px !important;
+	padding-bottom:0px !important;
+	padding-right:0px !important;
+	background-position:50% 100% !important;
+	width:auto !important;
+	margin-left:0px !important;
+	margin-top:-230px !important;
+	margin-bottom:0px !important;
+	margin-right:0px !important;
+}
+*#dm *.dmBody div.u_1832596263
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:241px !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:calc(100% - 0px) !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1452003274
+{
+	padding-top:0px !important;
+	padding-left:0px !important;
+	padding-bottom:0px !important;
+	padding-right:0px !important;
+	background-position:50% 100% !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_1018001884
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0px !important;
+	padding-bottom:2px !important;
+	margin-right:183px !important;
+	margin-left:0px !important;
+	max-width:100% !important;
+	margin-top:150px !important;
+	margin-bottom:100px !important;
+	padding-right:0px !important;
+	min-width:25px !important;
+	display:block !important;
+}
+*#dm *.dmBody div.u_1718446324
+{
+	padding-top:100px !important;
+	padding-left:40px !important;
+	padding-bottom:200px !important;
+	padding-right:40px !important;
+	width:auto !important;
+	background-position:50% 100% !important;
+	margin-left:0px !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	margin-right:0px !important;
+}
+*#dm *.dmBody div.u_1440507117
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:auto !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:100px !important;
+	padding-left:40px !important;
+	padding-bottom:0px !important;
+	max-width:none !important;
+	padding-right:40px !important;
+	min-width:0 !important;
+	text-align:center !important;
+	margin-left:0px !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	margin-right:0px !important;
+}
+*#dm *.dmBody div.u_1176135552
+{
+	padding-top:50px !important;
+	padding-left:40px !important;
+	padding-bottom:100px !important;
+	padding-right:40px !important;
+	width:auto !important;
+	margin-left:0px !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	margin-right:0px !important;
+}
+
+</style>
+
+<!-- Flex Sections CSS -->
+
+
+
+
+
+<style id="globalFontSizeStyle" type="text/css">
+    .font-size-20, .size-20, .size-20 > font { font-size: 20px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-11, .size-11, .size-11 > font { font-size: 11px !important; }
+</style>
+<style id="pageFontSizeStyle" type="text/css">
+</style>
+
+
+
+
+<style id="hideAnimFix">
+  .dmDesktopBody:not(.editGrid) [data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) [data-anim-extended] {
+    visibility: hidden;
+  }
+  .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-extended] {
+    visibility: hidden !important;
+  }
+</style>
+
+
+
+
+<style id="fontFallbacks">
+    @font-face {
+  font-family: "Dosis Fallback";
+  src: local('Arial');
+  ascent-override: 120.565%;
+  descent-override: 27.8227%;
+  size-adjust: 85.1823%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Roboto Fallback";
+  src: local('Arial');
+  ascent-override: 92.6709%;
+  descent-override: 24.3871%;
+  size-adjust: 100.1106%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Montserrat Fallback";
+  src: local('Arial');
+  ascent-override: 84.9466%;
+  descent-override: 22.0264%;
+  size-adjust: 113.954%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Gloria Hallelujah Fallback";
+  src: local('Arial');
+  ascent-override: 122.386%;
+  descent-override: 50.2642%;
+  size-adjust: 114.823%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Jost Fallback";
+  src: local('Arial');
+  ascent-override: 111.656%;
+  descent-override: 39.1318%;
+  size-adjust: 95.8301%;
+  line-gap-override: 0%;
+ }
+</style>
+
+
+<!-- End render the required css and JS in the head section -->
+
+
+
+
+
+
+
+
+
+  <link type="application/rss+xml" rel="alternate" href="http://www.kidzmeadow.com//feed/rss2">
+  <link type="application/atom+xml" rel="alternate" href="http://www.kidzmeadow.com//feed/atom">
+  <meta property="og:type" content="website">
+  <title>
+    
+    Little Bloom Early Years Curriculum | Kidz Meadow Childcare
+  
+  </title>
+  <meta name="description" content="Kidz Meadow has been providing quality education to preschoolers since 1999. Today we have established 10 childcare centres, offering both infant and childcare services. We are appointed Partner Operators (POP) by Early Childhood Development Agency (ECDA) and have also been awarded the SPARK Certification from ECDA.">
+  <!-- Global site tag (gtag.js) - Google Ads -->  <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-731439664">
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </script>
+  <script>
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-731439664');
+  
+
+  
+
+  
+
+  
+
+  
+
+  </script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/731439664/?random=1711771512861&amp;cv=11&amp;fst=1711771512861&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0v880288650za200&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fwww.kidzmeadow.com%2Flittle-bloom-early-years-curriculum&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Little%20Bloom%20Early%20Years%20Curriculum%20%7C%20Kidz%20Meadow%20Childcare&amp;npa=0&amp;pscdl=noapi&amp;auid=1220266559.1711771381&amp;fdr=QA&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script>
+  <!-- Google Tag Manager -->  <script>
+
+
+
+
+
+
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T5SHD36');
+  
+
+  
+
+  
+
+  
+
+  
+
+  </script>
+  <!-- End Google Tag Manager -->  <script src="https://cdn.pagesense.io/js/heroesofdigital/cbfab9e4d99145f497839935745449d3.js">
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  </script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/731439664/?random=1711771512895&amp;cv=11&amp;fst=1711771512895&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0v880288650z8812483544za201&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fwww.kidzmeadow.com%2Flittle-bloom-early-years-curriculum&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Little%20Bloom%20Early%20Years%20Curriculum%20%7C%20Kidz%20Meadow%20Childcare&amp;npa=0&amp;pscdl=noapi&amp;auid=1220266559.1711771381&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B123.0.6312.86%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.86&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;fdr=QA&amp;rfmt=3&amp;fmt=4"></script>
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Little Bloom Early Years Curriculum | Kidz Meadow Childcare">
+  <meta name="twitter:description" content="Kidz Meadow has been providing quality education to preschoolers since 1999. Today we have established 10 childcare centres, offering both infant and childcare services. We are appointed Partner Operators (POP) by Early Childhood Development Agency (ECDA) and have also been awarded the SPARK Certification from ECDA.">
+  <meta name="twitter:image" content="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2022100435IMG_6800-MediaCoverage-1920w.JPG">
+  <meta property="og:description" content="Kidz Meadow has been providing quality education to preschoolers since 1999. Today we have established 10 childcare centres, offering both infant and childcare services. We are appointed Partner Operators (POP) by Early Childhood Development Agency (ECDA) and have also been awarded the SPARK Certification from ECDA.">
+  <meta property="og:title" content="Little Bloom Early Years Curriculum | Kidz Meadow Childcare">
+  <meta property="og:image" content="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2022100435IMG_6800-MediaCoverage-1920w.JPG">
+
+
+
+
+<!-- SYS- VVNfRElSRUNUX1BST0RVQ1RJT04= -->
+<script src="https://static.cdn-website.com/libs/bower-skrollr/skrollr.min.js"></script></head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="dmRoot" data-page-alias="little-bloom-early-years-curriculum" class="dmRoot dmDesktopBody fix-mobile-scrolling addCanvasBorder dmResellerSite dmLargeBody responsiveTablet pcCustomScrollbar d1SiteBody dmBodyNoIscroll" style="padding:0;margin:0;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ========= Site Content ========= -->
+<div id="dm" class="dmwr">
+    
+    <div class="dm_wrapper standard-var5 widgetStyle-3 standard">
+         <div dmwrapped="true" id="1785920551" desktop-global-classes="header-over-content" tablet-global-classes="header-over-content"> <div dmtemplateid="Hamburger" data-responsive-name="ResponsiveDesktopTopTabletHamburger" class="runtime-module-container dm-bfs dm-layout-sec hasAnimations hasStickyHeader inMiniHeaderMode rows-1200 hamburger-reverse header-over-content dmPageBody d-page-1125715846 dmFreeHeader" id="dm-outer-wrapper" data-page-class="1125715846" data-soch="true" data-background-parallax-selector=".dmHomeSection1, .dmSectionParallex"> <div id="dmStyle_outerContainer" class="dmOuter"> <div id="dmStyle_innerContainer" class="dmInner"> <div class="dmLayoutWrapper standard-var dmStandardDesktop"> <div id="site_content"> <div class="p_hfcontainer showOnMedium"> <div id="hamburger-drawer" class="hamburger-drawer layout-drawer" layout="5ff40d2f36ae4e5ea1bc96b2e2fcf67e===header" data-origin="top"> <div class="u_1012472647 dmRespRow" style="text-align: center;" id="1012472647"> <div class="dmRespColsWrapper" id="1932866735"> <div class="u_1531876797 dmRespCol small-12 medium-12 large-12 empty-column" id="1531876797"></div> 
+</div> 
+</div> 
+ <div class="u_1970920645 dmRespRow middleDrawerRow" style="text-align: center;" id="1970920645"> <div class="dmRespColsWrapper" id="1376610649"> <div class="dmRespCol small-12 u_1054262163 medium-12 large-12" id="1054262163"> <div class="u_1582630156 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1582630156" editablewidget="true"> <a href="/homebdc13411" id="1232973351" file="false"><img src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/KidzMeadowLogo-f232e8e9-1920w.png" id="1778704839" class="" data-dm-image-path="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/KidzMeadowLogo-f232e8e9-1920w.png" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <nav class="u_1037796618 unifiednav_vertical effect-background main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="vertical_nav_layout_2" layout-sub="" data-show-vertical-sub-items="HIDE" id="1037796618" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-logo-src="https://irp.cdn-website.com/md/dmtmpl/04908b51-a49d-489f-bc38-7c752c9305c0/dms3rep/multi/logo.svg" data-nav-structure="VERTICAL" wr="true" icon="true" surround="true" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/" class="unifiednav__item" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         HOME
+        " data-auto="page-text-style">HOME<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/programmes-and-curriculum" class="unifiednav__item unifiednav__item_has-sub-nav dmNavItemSelected" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         PROGRAMMES &amp; CURRICULUM
+        " data-auto="page-text-style">PROGRAMMES &amp; CURRICULUM<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/nature-magnified-programme" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Nature Magnified Programme
+          " data-auto="page-text-style">Nature Magnified Programme<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/infant-care" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Infant Care (2 months to 17 months)
+          " data-auto="page-text-style">Infant Care (2 months to 17 months)<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/childcare" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Childcare (18 months to 6 years old)
+          " data-auto="page-text-style">Childcare (18 months to 6 years old)<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/little-bloom-early-years-curriculum" class="unifiednav__item dmNavItemSelected" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Little Bloom Early Years Curriculum
+          " data-auto="page-text-style">Little Bloom Early Years Curriculum<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/bloom-curriculum" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Bloom Curriculum
+          " data-auto="page-text-style">Bloom Curriculum<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/for-parents" class="unifiednav__item unifiednav__item_has-sub-nav" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         FOR PARENTS
+        " data-auto="page-text-style">FOR PARENTS<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/for-parents#PartnershipwithParents" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Partnership with Parents" data-auto="page-text-style">Partnership with Parents<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/school-hours" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           School Hours
+          " data-auto="page-text-style">School Hours<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/newsletters" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Newsletters
+          " data-auto="page-text-style">Newsletters<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/faqs" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           FAQs
+          " data-auto="page-text-style">FAQs<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/for-parents#Registration" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Registration" data-auto="page-text-style">Registration<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/about-us" class="unifiednav__item unifiednav__item_has-sub-nav" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         ABOUT US
+        " data-auto="page-text-style">ABOUT US<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/about-us#OurStory" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Our Story" data-auto="page-text-style">Our Story<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/about-us#OurTeachers" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Our Teachers" data-auto="page-text-style">Our Teachers<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/about-us#OurAwards" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Our Awards" data-auto="page-text-style">Our Awards<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/testimonials" class="unifiednav__item" target="" popup_target="get-in-touch" link_type="popup" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Testimonials
+          " data-auto="page-text-style">Testimonials<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/about-us/media-coverage" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Media Coverage
+          " data-auto="page-text-style">Media Coverage<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/our-centres" class="unifiednav__item" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         OUR CENTRES
+        " data-auto="page-text-style">OUR CENTRES<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1179819903" style="text-align: center;" id="1179819903"> <div class="dmRespColsWrapper" id="1744073093"> <div class="u_1386439374 dmRespCol small-12 medium-12 large-12" id="1386439374"> <div class="u_1578961223 align-center text-align-center dmSocialHub" id="1578961223" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://www.facebook.com/kidzmeadow/" target="_blank" dm_dont_rewrite_url="true" aria-label="facebook" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Facebook')"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect="zoomout"></span> 
+</a> 
+ <a href="https://www.instagram.com/kidzmeadow" target="_blank" dm_dont_rewrite_url="true" aria-label="instagram" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Instagram')"> <span class="dmSocialInstagram dm-social-icons-instagram oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect="zoomout"></span> 
+</a> 
+ <a href="mailto:info@kidzmeadow.com" dm_dont_rewrite_url="true" aria-label="email" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Email')" target="_blank"> <span class="dmSocialEmail dm-social-icons-email oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect="zoomout"></span> 
+</a> 
+ <a href="https://www.youtube.com/channel/UCmtRZ8kZku7yIU5MlocxrUQ" target="_blank" dm_dont_rewrite_url="true" aria-label="youtube" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Youtube')"> <span class="dmSocialYoutube dm-social-icons-youtube oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect="zoomout"></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="layout-drawer-overlay" id="layout-drawer-overlay"></div> 
+</div> 
+ <div class="site_content"> <div id="hamburger-header-container" class="showOnMedium hamburger-header-container p_hfcontainer"> <div id="hamburger-header" class="hamburger-header p_hfcontainer" layout="44dc38f951e9489490b055748e10ba9f===header" data-scrollable-target="body" data-scroll-responder-id="hamburger-header"> <div class="dmRespRow u_1221304482" id="1221304482"> <div class="dmRespColsWrapper" id="1471260585"> <div class="dmRespCol large-12 medium-12 small-12" id="1034116851"> <div class="u_1895636450 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1895636450" background-image":""}"="" style="transition: none 0s ease 0s; text-align: left; display: block;"><p><span style="display: initial;">&nbsp;</span></p> <h3 class="text-align-center m-size-16 size-20"><span class="m-font-size-16 font-size-20" style="display: unset; color: rgb(255, 255, 0);">SCHOOL TOURS ARE HAPPENING IN NOV &amp; DEC -</span><span single-space="true" class="" style="display: initial;"> <span style="display: initial;"></span> 
+</span><a href="/find-out-more" runtime_url="/find-out-more" popup_target="find-out-more" type="popup" link_type="popup" class="m-font-size-16 font-size-20" style="display: unset; text-decoration: underline; color: rgb(255, 255, 0);">BOOK HERE</a></h3> 
+<p><span style="display: initial;">&nbsp;</span></p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1723329692 dmRespRow" style="text-align: center;" id="1723329692"> <div class="dmRespColsWrapper" id="1696270681"> <div class="dmRespCol small-12 u_1611526940 medium-4 large-4 content-removed" id="1611526940"> <div class="u_1692455093 align-center text-align-center dmSocialHub" id="1692455093" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://web.whatsapp.com/send?phone=6598525747" target="_blank" dm_dont_rewrite_url="true" aria-label="whatsapp" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Whatsapp')"> <span class="dmSocialWhatsapp dm-social-icons-whatsapp oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect="float"></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespCol small-12 medium-4 large-4" id="1059554669"> <div class="u_1203172384 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1203172384" editablewidget="true"> <a href="/homebdc13411" id="1997761453" file="false"><img src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/KidzMeadowLogo-f232e8e9-1920w.png" id="1641740269" class="" data-dm-image-path="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/KidzMeadowLogo-f232e8e9-1920w.png" onerror="handleImageLoadError(this)"></a> 
+</div> 
+</div> 
+ <div class="dmRespCol small-12 medium-4 large-4" id="1389306212"> <a data-display-type="block" class="u_1527791486 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="/interest-form" data-element-type="dButtonLinkId" id="1527791486" link_type="popup" popup_target="interest-form"> <span class="iconBg" id="1206816640"> <span class="icon hasFontIcon icon-star" id="1653119073"></span> 
+</span> 
+ <span class="text" id="1902721538">ENROL NOW</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmHeaderContainer fHeader d-header-wrapper showOnLarge"> <div id="hcontainer" class="u_hcontainer dmHeader p_hfcontainer" freeheader="true" headerlayout="b58ba5b5703b4cd7b5f5f7951565dc87===horizontal-layout-5" data-scrollable-target="body" data-scrollable-target-threshold="1" data-scroll-responder-id="1" preserve-sticky-header="true" logo-size-target="80%" layout="7621f7e0002549258c16efb7610abc8f===header"> <div dm:templateorder="85" class="dmHeaderResp dmHeaderStack noSwitch" id="1709005236"> <div class="dmRespRow u_1128906765 new-centre mini-header-hide-row" id="1128906765"> <div class="dmRespColsWrapper" id="1736521051"> <div class="u_1201056681 dmRespCol small-12 medium-12 large-12 has-one-widget-only" id="1201056681"> <div class="u_1580012140 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1580012140" background-image":""}"="" style="transition: none 0s ease 0s; text-align: left; display: block;"> <h3 class="text-align-center"><span class="" style="display: initial;"><span style="display: initial;">Centre Tour Happening!</span> 
+</span><a href="/find-out-more" runtime_url="/find-out-more" popup_target="find-out-more" type="popup" link_type="popup" style="display: initial; text-decoration: underline; color: rgb(17, 101, 48);">Find Out More</a></h3> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1326989279 lp-nav dmRespRow dmDefaultListContentRow fullBleedChanged fullBleedMode mini-header-show-row" style="text-align:center" id="1326989279"> <div class="dmRespColsWrapper" id="1365385050"> <div class="u_1931607305 dmRespCol small-12 hide-for-small hide-for-medium medium-12 large-12 has-one-widget-only" id="1931607305"> <nav class="u_1201999674 effect-background main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_7" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1201999674" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-logo-src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/KidzMeadowLogo-1920w.png" alt="" data-nav-structure="SPLIT" wr="true" icon="true" surround="true" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container left_nav " data-auto="navigation-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/enquiries#HOME" class="unifiednav__item" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="HOME" data-auto="page-text-style">HOME<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="#" class="unifiednav__item unifiednav__item_has-sub-nav" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="PROGRAMMES &amp; CURRICULUM" data-auto="page-text-style">PROGRAMMES &amp; CURRICULUM<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/enquiries#NatureMagnifiedProgramme" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Nature Magnified Programme" data-auto="page-text-style">Nature Magnified Programme<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/enquiries#BenefitsofNatureImmersedEducation" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Benefits of Nature Immersed Education" data-auto="page-text-style">Benefits of Nature Immersed Education<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/enquiries#InfantCare2Monthsto17Months" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Infant Care 2 Months to 17 Months" data-auto="page-text-style">Infant Care 2 Months to 17 Months<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/enquiries#Childcare18Monthsto6YearsOld" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Childcare 18 Months to 6 Years Old" data-auto="page-text-style">Childcare 18 Months to 6 Years Old<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/enquiries#EnrichmentProgramme" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Enrichment Programme" data-auto="page-text-style">Enrichment Programme<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/enquiries#LittleBloomEarlyYearsCurriculum" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Little Bloom Early Years Curriculum" data-auto="page-text-style">Little Bloom Early Years Curriculum<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/enquiries#BloomCurriculum" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Bloom Curriculum" data-auto="page-text-style">Bloom Curriculum<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/enquiries#OURSTORY" class="unifiednav__item unifiednav__item_has-sub-nav" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="OUR STORY" data-auto="page-text-style">OUR STORY<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/enquiries#ParentsTestimonials" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Parents Testimonials" data-auto="page-text-style">Parents Testimonials<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+ <a class="middleLogoLink" href="/home"><img class="navLogo" id="navLogo" src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/KidzMeadowLogo-1920w.png" alt="" onerror="handleImageLoadError(this)"></a> 
+ <ul role="menubar" class="unifiednav__container right_nav "> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/enquiries#OURCENTRES" class="unifiednav__item" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="OUR CENTRES" data-auto="page-text-style">OUR CENTRES<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/get-in-touch" class="unifiednav__item" target="" popup_target="get-in-touch" link_type="popup" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="GET IN TOUCH" data-auto="page-text-style">GET IN TOUCH<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1801201190 main-nav dmRespRow dmDefaultListContentRow fullBleedChanged fullBleedMode mini-header-show-row" style="text-align:center" id="1801201190"> <div class="dmRespColsWrapper" id="1298374214"> <div class="u_1458850074 dmRespCol small-12 hide-for-small hide-for-medium medium-12 large-12 has-one-widget-only" id="1458850074"> <nav class="u_1553919997 effect-background main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_7" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1553919997" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-logo-src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/KidzMeadowLogo-1920w.png" alt="" data-nav-structure="SPLIT" wr="true" icon="true" surround="true" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container left_nav " data-auto="navigation-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="https://www.kidzmeadow.com/enquiries" class="unifiednav__item" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="HOME" data-auto="page-text-style">HOME<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/programmes-and-curriculum" class="unifiednav__item unifiednav__item_has-sub-nav dmNavItemSelected" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         PROGRAMMES &amp; CURRICULUM
+        " data-auto="page-text-style">PROGRAMMES &amp; CURRICULUM<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/nature-magnified-programme" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Nature Magnified Programme
+          " data-auto="page-text-style">Nature Magnified Programme<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/infant-care" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Infant Care (2 months to 17 months)
+          " data-auto="page-text-style">Infant Care (2 months to 17 months)<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/childcare" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Childcare (18 months to 6 years old)
+          " data-auto="page-text-style">Childcare (18 months to 6 years old)<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/little-bloom-early-years-curriculum" class="unifiednav__item dmNavItemSelected" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Little Bloom Early Years Curriculum
+          " data-auto="page-text-style">Little Bloom Early Years Curriculum<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/bloom-curriculum" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Bloom Curriculum
+          " data-auto="page-text-style">Bloom Curriculum<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/for-parents" class="unifiednav__item unifiednav__item_has-sub-nav" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         FOR PARENTS
+        " data-auto="page-text-style">FOR PARENTS<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/for-parents#PartnershipwithParents" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Partnership with Parents" data-auto="page-text-style">Partnership with Parents<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/school-hours" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           School Hours
+          " data-auto="page-text-style">School Hours<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/newsletters" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Newsletters
+          " data-auto="page-text-style">Newsletters<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/blog-articles" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Blog Articles
+          " data-auto="page-text-style">Blog Articles<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/faqs" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           FAQs
+          " data-auto="page-text-style">FAQs<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/for-parents#Registration" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Registration" data-auto="page-text-style">Registration<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+ <a class="middleLogoLink" href="/home"><img class="navLogo" id="navLogo" src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/KidzMeadowLogo-1920w.png" alt="" onerror="handleImageLoadError(this)"></a> 
+ <ul role="menubar" class="unifiednav__container right_nav "> <li role="menuitem" aria-haspopup="true" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/about-us" class="unifiednav__item unifiednav__item_has-sub-nav" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         ABOUT US
+        " data-auto="page-text-style">ABOUT US<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/about-us#OurStory" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Our Story" data-auto="page-text-style">Our Story<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/careers" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+         Careers
+        " data-auto="page-text-style">Careers<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/about-us#OurTeachers" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Our Teachers" data-auto="page-text-style">Our Teachers<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/about-us#OurAwards" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Our Awards" data-auto="page-text-style">Our Awards<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/testimonials" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Testimonials
+          " data-auto="page-text-style">Testimonials<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/about-us/media-coverage" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Media Coverage
+          " data-auto="page-text-style">Media Coverage<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/annual-report" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Annual Report
+          " data-auto="page-text-style">Annual Report<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/our-centres" class="unifiednav__item" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         OUR CENTRES
+        " data-auto="page-text-style">OUR CENTRES<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/get-in-touch" class="unifiednav__item" target="" popup_target="get-in-touch" link_type="popup" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="GET IN TOUCH" data-auto="page-text-style">GET IN TOUCH<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="stickyHeaderSpacer" id="stickyHeaderSpacer" data-new="true"></div> 
+ <div dmwrapped="true" id="dmFirstContainer" desktop-global-classes="header-over-content" tablet-global-classes="header-over-content" class="dmBody u_dmStyle_template_little-bloom-early-years-curriculum"> <div id="allWrapper" class="allWrapper"> <div id="dm_content" class="dmContent"> <div dm:templateorder="1" class="dmDefaultRespTmpl" id="1125715846"> <div class="innerPageTmplBox dmDefaultPage dmRespRowsWrapper dmRespRowsWrapperSize1" id="1841797601"> <div class="dmRespRow dmDefaultListContentRow u_1718446324" style="text-align:center" id="1718446324" mode="1"> <div class="dmRespColsWrapper" id="1208760614"> <div class="u_1316363305 dmRespCol small-12 medium-12 large-12" id="1316363305"> <div class="u_1018001884 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1018001884" style="transition: none 0s ease 0s; text-align: left; display: block;"> <h1 class="m-text-align-center" style="line-height: 1;"><span style="display: initial; color: rgb(255, 255, 255);">Programmes &amp; Curriculum</span></h1> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1348527056 fullBleedChanged fullBleedMode" style="text-align: center;" id="1348527056"> <div class="dmRespColsWrapper" id="1215771587"> <div class="dmRespCol small-12 medium-12 large-12 u_1843689859" id="1843689859"> <div data-element-type="spacer" class="u_1128201862 dmSpacer" id="1128201862"></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1440507117 dmRespRow running-animation-8RBJ2W2P" style="text-align: center; visibility: hidden; opacity: 1; transition-delay: unset !important; transition-duration: unset !important; animation-delay: unset !important; animation-duration: unset !important; transition-property: none !important;" id="1440507117" data-anim-extended="eyJkZXNrdG9wIjp7InRyaWdnZXIiOiJlbnRyYW5jZSIsImFuaW1hdGlvbiI6ImZhZGVJbiIsInJldmVyc2UiOmZhbHNlfX0=" data-anim-desktop="fadeIn"> <div class="dmRespColsWrapper" id="1565125752"> <div class="u_1710432810 dmRespCol small-12 large-4 medium-4" id="1710432810"> <span id="1396985868"></span> 
+ <div class="u_1367655857 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1367655857" style="transition: opacity 1s ease-in-out 0s; text-align: left; display: block;"> <h2 class="text-align-left m-size-30 m-text-align-center" style="line-height: 1;"><span class="m-font-size-30" m-font-size-set="true" style="display: initial;">Little Bloom Early Years Curriculum</span></h2> 
+</div> 
+ <div class="u_1758013753 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1758013753" editablewidget="true"><img src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/LittleBloomEarlyYears-logo-1920w.png" alt="" id="1519712871" class="" data-dm-image-path="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/LittleBloomEarlyYears-logo.png" onerror="handleImageLoadError(this)"></div> 
+</div> 
+ <div class="u_1248903317 dmRespCol small-12 large-8 medium-8" id="1248903317"> <div class="u_1563483598 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1563483598" style="transition: none 0s ease 0s; text-align: left; display: block;"><p class="m-text-align-center" style="line-height: 1.5;"><span style="font-weight: bold; display: initial;">Little Bloom Early Years</span><span class="" style="font-weight: normal; display: initial;"> <span style="font-weight: normal; display: initial;">is a holistic programme for Infants to Nursery 1 children. It aims to create opportunities and experiences for children to learn in a safe and healthy environment. Through warm interactions, responsive care and meaningful experiences with the educarers, children will be ready to explore and discover with confidence.</span></span><span style="display: initial;"><br></span></p></div> 
+ <div class="u_1572973390 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1572973390" data-styletopreserve="{" background-image":""}"=""> <h3 class="m-size-24"><span style="display: initial;" class="m-font-size-24" m-font-size-set="true">Little Treasures</span></h3> 
+</div> 
+ <div class="u_1130139266 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1130139266" style="transition: none 0s ease 0s; text-align: left; display: block;"> <h4><span style="display: initial;">Routines</span></h4> 
+<p><span style="display: initial;">Personalised routine care and daily interactions stimulate children’s natural curiosity and provides a sense of security and comfort. Infants and toddlers will be eager to engage with the environment and people around them.&nbsp; <br></span></p></div> 
+ <div class="u_1505838367 flex-container dmImageSlider dmNoMargin dmNoMark" data-widget-type="imageSlider" dmle_volatile_widget="true" data-element-type="dSliderId" id="1505838367" editablewidget="true"> <div class="flexslider ed-version" sliderscriptparams="{'stretch':false,'animation':true,'randomize':false,'directionNav':true,'isAutoPlay':true,'isFade':true,'controlNav':false,'slideshowSpeed':7000,'animationDuration':600,'pausePlay':true}" id="1726389630"> <ul class="slides" id="1774144490"> <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1138409390" class="u_1138409390" show-caption="false"><img dm="true" src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021144448IMG_8750-Routine-1920w.png" id="1032714248" class="" onerror="handleImageLoadError(this)"> <div class="color-overlay" id="1599151567"></div> 
+ <div class="slide-inner" id="1340192413"> <div class="text-wrapper" id="1578602353"> <h3 class="slide-title u_1735374258" id="1735374258">Slide title</h3> 
+ <div class="slide-text richText u_1532717776" id="1532717776">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix slide-button-invisible" id="1298371710"> <span class="iconBg" id="1799694072"> <span class="icon hasFontIcon icon-star" id="1987420531"></span> 
+</span> 
+ <span class="text" id="1985802998">Button</span> 
+</div> 
+</div> 
+</li> 
+</ul> 
+</div> 
+</div> 
+ <div class="u_1052065409 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1052065409" data-styletopreserve="{" background-image":""}"=""> <h4><span style="display: initial;">Meaningful Experiences</span></h4> 
+<p><span style="display: initial;">Using appropriate materials, our educarers plan activities to support each child’s learning journey. Meaningful experiences are created based on their developing abilities and interests.&nbsp;<br></span></p></div> 
+ <div class="u_1526042241 flex-container dmImageSlider dmNoMargin dmNoMark" data-widget-type="imageSlider" dmle_volatile_widget="true" data-element-type="dSliderId" id="1526042241" editablewidget="true"> <div class="flexslider ed-version" sliderscriptparams="{'stretch':false,'animation':true,'randomize':false,'directionNav':true,'isAutoPlay':true,'isFade':true,'controlNav':false,'slideshowSpeed':7000,'animationDuration':600,'pausePlay':true}" id="1692658101"> <ul class="slides" id="1637865177"> <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1053098541" class="u_1053098541" show-caption="false"><img dm="true" src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021143947IMG_8675-MeaningfulExperiences-1920w.png" id="1947975883" class="" onerror="handleImageLoadError(this)"> <div class="color-overlay" id="1684726747"></div> 
+ <div class="slide-inner" id="1879589933"> <div class="text-wrapper" id="1301804925"> <h3 class="slide-title u_1627538264" id="1627538264">Slide title</h3> 
+ <div class="slide-text richText u_1284598454" id="1284598454">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix slide-button-invisible" id="1428819817"> <span class="iconBg" id="1323968770"> <span class="icon hasFontIcon icon-star" id="1976559983"></span> 
+</span> 
+ <span class="text" id="1677159746">Button</span> 
+</div> 
+</div> 
+</li> 
+</ul> 
+</div> 
+</div> 
+ <div class="u_1564646408 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1564646408" data-styletopreserve="{" background-image":""}"=""> <h3 class="m-size-24"><span style="display: initial;" class="m-font-size-24" m-font-size-set="true">Little Explorers</span></h3> 
+</div> 
+ <div class="u_1579580022 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1579580022" data-styletopreserve="{" background-image":""}"=""> <h4><span style="display: initial;">S.P.I.C.E.D</span></h4> 
+<p><span style="display: initial;">Children will develop holistically through our curriculum that emphasises on these six developmental domains:</span></p><p><span style="display: initial;"><br></span></p><p><span style="display: initial; font-weight: bold;">Social:</span><span class="" style="display: initial; font-weight: normal;"> <span style="display: initial; font-weight: normal;">Encourage children to play and interact with others around them through sensory play and thematic hands-on activities.&nbsp;</span></span><span style="display: initial;"><br></span></p></div> 
+ <div class="u_1754048508 flex-container dmImageSlider dmNoMargin dmNoMark" data-widget-type="imageSlider" dmle_volatile_widget="true" data-element-type="dSliderId" id="1754048508" editablewidget="true"> <div class="flexslider ed-version" sliderscriptparams="{'stretch':false,'animation':true,'randomize':false,'directionNav':true,'isAutoPlay':true,'isFade':true,'controlNav':false,'slideshowSpeed':7000,'animationDuration':600,'pausePlay':true}" id="1902320260"> <ul class="slides" id="1677465713"> <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1566068627" class="u_1566068627" show-caption="false"><img dm="true" src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2022102542IMG_6987-social-1920w.png" id="1914194237" class="" onerror="handleImageLoadError(this)"> <div class="color-overlay" id="1729585560"></div> 
+ <div class="slide-inner" id="1110135804"> <div class="text-wrapper" id="1136595980"> <h3 class="slide-title u_1605773848" id="1605773848">Slide title</h3> 
+ <div class="slide-text richText u_1451692516" id="1451692516">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix slide-button-invisible" id="1195658483"> <span class="iconBg" id="1673160583"> <span class="icon hasFontIcon icon-star" id="1323963587"></span> 
+</span> 
+ <span class="text" id="1613756579">Button</span> 
+</div> 
+</div> 
+</li> 
+</ul> 
+</div> 
+</div> 
+ <div class="u_1050387324 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1050387324" data-styletopreserve="{" background-image":""}"="" style=""><p><span style="display: initial; font-weight: bold;">Physical:</span><span class="" style="display: initial;"> <span style="display: initial;">Develop their gross and fine motor skills through indoor and outdoor activities.<br></span></span></p></div> 
+ <div class="u_1252578538 flex-container dmImageSlider dmNoMargin dmNoMark" data-widget-type="imageSlider" dmle_volatile_widget="true" data-element-type="dSliderId" id="1252578538" editablewidget="true"> <div class="flexslider ed-version" sliderscriptparams="{'stretch':false,'animation':true,'randomize':false,'directionNav':true,'isAutoPlay':true,'isFade':true,'controlNav':false,'slideshowSpeed':7000,'animationDuration':600,'pausePlay':true}" id="1039856039"> <ul class="slides" id="1824379108"> <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1265942023" class="u_1265942023" show-caption="false"><img dm="true" src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021150426IMG_8945-Physical-1920w.png" id="1873990811" class="" onerror="handleImageLoadError(this)"> <div class="color-overlay" id="1099667459"></div> 
+ <div class="slide-inner" id="1358124661"> <div class="text-wrapper" id="1898868727"> <h3 class="slide-title u_1571668491" id="1571668491">Slide title</h3> 
+ <div class="slide-text richText u_1311655458" id="1311655458">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix slide-button-invisible" id="1148179046"> <span class="iconBg" id="1233627329"> <span class="icon hasFontIcon icon-star" id="1137249826"></span> 
+</span> 
+ <span class="text" id="1812887575">Button</span> 
+</div> 
+</div> 
+</li> 
+</ul> 
+</div> 
+</div> 
+ <div class="u_1583730919 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1583730919" data-styletopreserve="{" background-image":""}"=""><p><span class="" style="font-weight: bold; display: initial;"><span style="font-weight: bold; display: initial;">Intellectual:</span> 
+</span><span style="font-weight: normal; display: initial;">Organise small group learning activities such as matching and sorting to enhance their reasoning and problem solving skills.</span><span style="display: initial;"><br></span></p></div> 
+ <div class="u_1662261318 flex-container dmImageSlider dmNoMargin dmNoMark" data-widget-type="imageSlider" dmle_volatile_widget="true" data-element-type="dSliderId" id="1662261318" editablewidget="true"> <div class="flexslider ed-version" sliderscriptparams="{'stretch':false,'animation':true,'randomize':false,'directionNav':true,'isAutoPlay':true,'isFade':true,'controlNav':false,'slideshowSpeed':7000,'animationDuration':600,'pausePlay':true}" id="1506029070"> <ul class="slides" id="1353510579"> <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1153693577" class="u_1153693577" show-caption="false"><img dm="true" src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021165031IMG_9820-Intellectual-1920w.png" id="1546493633" class="" onerror="handleImageLoadError(this)"> <div class="color-overlay" id="1557393086"></div> 
+ <div class="slide-inner" id="1758320928"> <div class="text-wrapper" id="1692958042"> <h3 class="slide-title u_1274312302" id="1274312302">Slide title</h3> 
+ <div class="slide-text richText u_1221337366" id="1221337366">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix slide-button-invisible" id="1619902144"> <span class="iconBg" id="1247049575"> <span class="icon hasFontIcon icon-star" id="1592105723"></span> 
+</span> 
+ <span class="text" id="1752972095">Button</span> 
+</div> 
+</div> 
+</li> 
+</ul> 
+</div> 
+</div> 
+ <div class="u_1497872319 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1497872319" data-styletopreserve="{" background-image":""}"=""><p><span class="" style="font-weight: bold; display: initial;"><span style="font-weight: bold; display: initial;">Creative Expressions:</span> 
+</span><span style="font-weight: normal; display: initial;">Allow children to express themselves creatively and openly through art, music and science.</span><span style="display: initial;"><br></span></p></div> 
+ <div class="u_1773110852 flex-container dmImageSlider dmNoMargin dmNoMark" data-widget-type="imageSlider" dmle_volatile_widget="true" data-element-type="dSliderId" id="1773110852" editablewidget="true"> <div class="flexslider ed-version" sliderscriptparams="{'stretch':false,'animation':true,'randomize':false,'directionNav':true,'isAutoPlay':true,'isFade':true,'controlNav':false,'slideshowSpeed':7000,'animationDuration':600,'pausePlay':true}" id="1020757570"> <ul class="slides" id="1709960855"> <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1387887701" class="u_1387887701" show-caption="false"><img dm="true" src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021150945IMG_8995-CreativeExpression-1920w.png" id="1058162940" class="" onerror="handleImageLoadError(this)"> <div class="color-overlay" id="1320326674"></div> 
+ <div class="slide-inner" id="1194986034"> <div class="text-wrapper" id="1362801769"> <h3 class="slide-title u_1877960728" id="1877960728">Slide title</h3> 
+ <div class="slide-text richText u_1125980979" id="1125980979">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix slide-button-invisible" id="1343460834"> <span class="iconBg" id="1818819812"> <span class="icon hasFontIcon icon-star" id="1897836882"></span> 
+</span> 
+ <span class="text" id="1590053640">Button</span> 
+</div> 
+</div> 
+</li> 
+</ul> 
+</div> 
+</div> 
+ <div class="u_1683880154 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1683880154" data-styletopreserve="{" background-image":""}"="" style=""><p><span class="" style="display: initial; font-weight: bold;"><span style="display: initial; font-weight: bold;">Emotional:</span> 
+</span><span style="display: initial; font-weight: normal;">Provide a safe environment by establishing a good rapport between educarer and children.</span><span style="display: initial;"><br></span></p></div> 
+ <div class="u_1964530633 flex-container dmImageSlider dmNoMargin dmNoMark" data-widget-type="imageSlider" dmle_volatile_widget="true" data-element-type="dSliderId" id="1964530633" editablewidget="true"> <div class="flexslider ed-version" sliderscriptparams="{'stretch':false,'animation':true,'randomize':false,'directionNav':true,'isAutoPlay':true,'isFade':true,'controlNav':false,'slideshowSpeed':7000,'animationDuration':600,'pausePlay':true}" id="1853145142"> <ul class="slides" id="1368459264"> <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1805602969" class="u_1805602969" show-caption="false"><img dm="true" src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021145600IMG_8859-Emotional-1920w.png" id="1887965983" class="" onerror="handleImageLoadError(this)"> <div class="color-overlay" id="1567725877"></div> 
+ <div class="slide-inner" id="1089322631"> <div class="text-wrapper" id="1605019998"> <h3 class="slide-title u_1867256184" id="1867256184">Slide title</h3> 
+ <div class="slide-text richText u_1450838181" id="1450838181">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix slide-button-invisible" id="1088472856"> <span class="iconBg" id="1113058498"> <span class="icon hasFontIcon icon-star" id="1418564063"></span> 
+</span> 
+ <span class="text" id="1693308036">Button</span> 
+</div> 
+</div> 
+</li> 
+</ul> 
+</div> 
+</div> 
+ <div class="u_1245988427 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1245988427" data-styletopreserve="{" background-image":""}"="" style=""><p><span class="" style="font-weight: bold; display: initial;"><span style="font-weight: bold; display: initial;">Disposition:</span> 
+</span><span style="font-weight: normal; display: initial; font-style: normal;">Nurture positive learning dispositions such as resilience, perseverance and patience.</span><span style="display: initial;"><br></span></p></div> 
+ <div class="u_1424415259 flex-container dmImageSlider dmNoMargin dmNoMark" data-widget-type="imageSlider" dmle_volatile_widget="true" data-element-type="dSliderId" id="1424415259" editablewidget="true"> <div class="flexslider ed-version" sliderscriptparams="{'stretch':false,'animation':true,'randomize':false,'directionNav':true,'isAutoPlay':true,'isFade':true,'controlNav':false,'slideshowSpeed':7000,'animationDuration':600,'pausePlay':true}" id="1413055145"> <ul class="slides" id="1177073758"> <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1636723924" class="u_1636723924" show-caption="false"><img dm="true" src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2022152644IMG_7777-disposition-1920w.png" id="1060476748" class="" onerror="handleImageLoadError(this)"> <div class="color-overlay" id="1180921609"></div> 
+ <div class="slide-inner" id="1019612493"> <div class="text-wrapper" id="1738425418"> <h3 class="slide-title u_1863548049" id="1863548049">Slide title</h3> 
+ <div class="slide-text richText u_1058846457" id="1058846457">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix slide-button-invisible" id="1335852849"> <span class="iconBg" id="1736202426"> <span class="icon hasFontIcon icon-star" id="1516247675"></span> 
+</span> 
+ <span class="text" id="1363244086">Button</span> 
+</div> 
+</div> 
+</li> 
+</ul> 
+</div> 
+</div> 
+ <div class="u_1958942158 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1958942158" data-styletopreserve="{" background-image":""}"=""> <h3 class="m-size-24"><span style="display: initial;" class="m-font-size-24" m-font-size-set="true">Interest Areas</span></h3> 
+</div> 
+ <div class="u_1940548233 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1940548233" data-styletopreserve="{" background-image":""}"=""><p><span style="display: initial; font-weight: normal;">Purposeful play areas are created based on the children’s interest. The interactive activities at these spaces encourage children to build their imagination, take initiative in exploring and gaining knowledge and skills.&nbsp;</span><span style="display: initial;"><br></span></p></div> 
+ <div class="u_1308169489 flex-container dmImageSlider dmNoMargin dmNoMark" data-widget-type="imageSlider" dmle_volatile_widget="true" data-element-type="dSliderId" id="1308169489" editablewidget="true"> <div class="flexslider ed-version" sliderscriptparams="{'stretch':false,'animation':true,'randomize':false,'directionNav':true,'isAutoPlay':true,'isFade':true,'controlNav':false,'slideshowSpeed':7000,'animationDuration':600,'pausePlay':true}" id="1557157625"> <ul class="slides" id="1988223858"> <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1698418094" class="u_1698418094" show-caption="false"><img dm="true" src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021122138IMG_8262-InterestAreas-1920w.png" id="1496423970" class="" onerror="handleImageLoadError(this)"> <div class="color-overlay" id="1126020527"></div> 
+ <div class="slide-inner" id="1916198873"> <div class="text-wrapper" id="1512491659"> <h3 class="slide-title u_1728056270" id="1728056270">Slide title</h3> 
+ <div class="slide-text richText u_1813168929" id="1813168929">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix slide-button-invisible" id="1398281515"> <span class="iconBg" id="1650895280"> <span class="icon hasFontIcon icon-star" id="1520994903"></span> 
+</span> 
+ <span class="text" id="1481521845">Button</span> 
+</div> 
+</div> 
+</li> 
+</ul> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1452003274 fullBleedChanged fullBleedMode" style="text-align: center;" id="1452003274"> <div class="dmRespColsWrapper" id="1243706729"> <div class="dmRespCol small-12 medium-12 large-12 u_1432720391" id="1432720391"> <div data-element-type="spacer" class="u_1832596263 dmSpacer" id="1832596263"></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1176135552 running-animation-8RDPW648" id="1176135552" data-anim-extended="eyJkZXNrdG9wIjp7InRyaWdnZXIiOiJ2aWV3cG9ydCIsImFuaW1hdGlvbiI6ImZhZGVJbiIsInJldmVyc2UiOmZhbHNlfX0=" data-anchor="Programs" style="opacity: 1; visibility: visible !important; transition-delay: unset !important; transition-duration: unset !important; animation-delay: unset !important; animation-duration: unset !important; transition-property: none !important;"> <div class="dmRespColsWrapper" id="1641349412"> <div class="dmRespCol large-12 medium-12 small-12 u_1794234859" id="1794234859"> <div class="u_1377941485 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1377941485" style="transition: opacity 1s ease-in-out 0s; text-align: left; display: block;"> <h2 class="text-align-center m-size-30" style="line-height: 1;"><span m-font-size-set="true" style="display: initial;" class="m-font-size-30">More Programmes &amp; Curriculum</span></h2> 
+</div> 
+ <div class="u_1255132629 dmRespRow fullBleedChanged fullBleedMode running-animation-8REOH5EW" id="1255132629" mode="1" data-anim-extended="eyJkZXNrdG9wIjp7InRyaWdnZXIiOiJlbnRyYW5jZSIsImFuaW1hdGlvbiI6ImZhZGVJbkNvbWJvIiwiZHVyYXRpb24iOjEsImRlbGF5IjowLCJpbnRlbnNpdHkiOjEsInJldmVyc2UiOmZhbHNlLCJkaXIiOiJpbi1wbGFjZSJ9fQ==" data-anim-desktop="fadeInCombo" style="visibility: hidden; opacity: 1; transition-delay: unset !important; transition-duration: unset !important; animation-delay: unset !important; animation-duration: unset !important; transition-property: none !important;"> <div class="dmRespColsWrapper" id="1347079848"> <div class="u_1119603076 dmRespCol large-3 medium-3 small-12" id="1119603076"> <div data-element-type="spacer" class="u_1715389533 dmSpacer" id="1715389533"></div> 
+</div> 
+ <div class="dmRespCol u_1488847663 small-12 large-3 medium-3" id="1488847663"> <div class="graphicWidget u_1643096390" data-element-type="graphic" data-widget-type="graphic" id="1643096390"> <svg version="1.1" id="1800717912" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 444.783 444.783" style="enable-background:new 0 0 444.783 444.783;" xml:space="preserve" class="svg u_1800717912" data-hover-effect="float" data-icon-custom="true" data-icon-name="baby-svgrepo-com.svg"> <g> <circle cx="351.378" cy="352.474" r="52.509"></circle> 
+ <path d="M273.139,287.778c-1.85-14.522-15.123-24.798-29.643-22.946c-14.522,1.849-24.795,15.121-22.946,29.643l8.243,64.728
+		h-91.182l-54.203-83.295c-7.984-12.27-24.404-15.744-36.674-7.759c-12.27,7.984-15.744,24.404-7.759,36.674l50.246,77.213
+		c-3.149,5.96-4.939,12.747-4.939,19.957c0,23.632,19.157,42.79,42.789,42.79h120.408c23.632,0,42.79-19.157,42.79-42.79
+		c0-7.4-1.879-14.361-5.186-20.433L273.139,287.778z"></path> 
+ <path d="M430.165,58.598C367.608,20.263,295.76,0,222.391,0C149.022,0,77.175,20.263,14.617,58.598
+		c-5.886,3.608-7.734,11.303-4.127,17.189c3.607,5.887,11.304,7.733,17.189,4.127c21.42-13.126,43.77-23.899,66.711-32.343v60.687
+		c0,0.252,0.019,0.499,0.038,0.746l-7.801,15.806l-30.585,4.444c-1.716,0.249-3.141,1.451-3.677,3.1
+		c-0.536,1.649-0.089,3.459,1.153,4.67l22.131,21.573l-5.225,30.461c-0.293,1.709,0.409,3.436,1.812,4.455
+		c1.403,1.019,3.263,1.154,4.797,0.347l27.356-14.382l27.356,14.382c1.535,0.807,3.394,0.673,4.797-0.347
+		c1.403-1.019,2.105-2.746,1.812-4.455l-5.224-30.461l22.131-21.573c1.242-1.21,1.689-3.02,1.153-4.67
+		c-0.536-1.649-1.961-2.851-3.677-3.1l-30.585-4.444l-7.801-15.806c0.018-0.247,0.038-0.494,0.038-0.746V40.845
+		c36.395-11.1,74.012-16.465,111.592-16.099v125.513c0,0.055,0.007,0.107,0.008,0.162c-4.312,3.225-8.187,7.185-11.417,11.861
+		c-16.007,23.176-10.196,54.94,12.98,70.947c13.03,9,28.774,11.099,42.907,7.095c1.703-0.482,2.972-1.908,3.255-3.655
+		c0.283-1.747-0.472-3.501-1.936-4.495c-0.111-0.075-0.222-0.151-0.332-0.228c-23.176-16.007-28.987-47.771-12.98-70.947
+		c3.098-4.486,6.787-8.319,10.89-11.47c1.404-1.079,2.057-2.873,1.672-4.601c-0.385-1.728-1.736-3.075-3.465-3.458
+		c-7.159-1.584-14.523-1.577-21.582-0.087V25.479c40.318,2.579,80.33,11.769,118.467,27.582c-0.038,0.352-0.059,0.71-0.059,1.072v75
+		c0,0.252,0.019,0.499,0.038,0.746l-7.801,15.806l-30.585,4.444c-1.716,0.249-3.142,1.451-3.677,3.1
+		c-0.536,1.649-0.089,3.459,1.153,4.67l22.131,21.573l-5.225,30.461c-0.293,1.709,0.409,3.436,1.812,4.455
+		c1.403,1.019,3.263,1.154,4.797,0.347l27.356-14.382l27.356,14.382c1.535,0.807,3.395,0.673,4.797-0.347
+		c1.403-1.019,2.105-2.746,1.812-4.455l-5.225-30.461l22.131-21.573c1.242-1.21,1.689-3.02,1.153-4.67
+		c-0.536-1.649-1.961-2.851-3.677-3.1l-30.585-4.444l-7.801-15.806c0.018-0.247,0.038-0.494,0.038-0.746V62.029
+		c11.106,5.383,22.026,11.337,32.711,17.886c5.888,3.608,13.583,1.757,17.19-4.127C437.899,69.901,436.052,62.206,430.165,58.598z"></path> 
+</g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+</svg> 
+</div> 
+ <a data-display-type="block" class="u_1784488716 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="/infant-care" data-element-type="dButtonLinkId" id="1784488716"> <span class="iconBg" id="1505161502"> <span class="icon hasFontIcon icon-star" id="1263109974"></span> 
+</span> 
+ <span class="text" id="1816284242">Infant Care (2 months to 17 months)</span> 
+</a> 
+</div> 
+ <div class="u_1759499351 dmRespCol small-12 large-3 medium-3" id="1759499351"> <div data-element-type="spacer" class="u_1833975025 dmSpacer" id="1833975025"></div> 
+</div> 
+ <div class="u_1639504161 dmRespCol small-12 large-3 medium-3" id="1639504161"> <div class="graphicWidget u_1989419319" data-element-type="graphic" data-widget-type="graphic" id="1989419319"> <svg version="1.1" id="1512368996" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 289.208 289.208" style="enable-background:new 0 0 289.208 289.208;" xml:space="preserve" class="svg u_1512368996" data-hover-effect="float" data-icon-custom="true" data-icon-name="children-svgrepo-com.svg"> <g> <path d="M284.275,176.745c5.099-3.41,6.468-10.308,3.058-15.405l-38.876-58.124c-5.15-7.695-13.022-11.707-21.287-11.707h-16.658
+		c-9.588,0-17.229,5.802-22.101,13.327c-0.487,0.753,2.422-3.679-37.983,56.486c-3.42,5.092-2.063,11.991,3.028,15.411
+		c5.089,3.418,11.99,2.065,15.411-3.028l16.656-24.802l0.034,112.663c0,7.667,6.215,13.882,13.882,13.882
+		c7.667,0,13.882-6.215,13.882-13.882v-62.471h11.107v62.471c0,7.667,6.215,13.882,13.882,13.882
+		c7.667,0,13.882-6.215,13.882-13.882c0-119.736-0.033-111.963-0.033-112.865l16.712,24.986
+		C272.285,178.793,279.188,180.15,284.275,176.745z"></path> 
+ <path d="M218.874,80.75c14.696,0,26.615-11.908,26.615-26.614c0-9.582-5.076-17.983-12.686-22.668
+		c1.573-1.112,3.405-2.139,5.57-3.017c0.909-0.368,1.521-1.231,1.567-2.211c0.047-0.981-0.481-1.897-1.352-2.35
+		c-4.209-2.186-9.338-2.231-14.178-1.303c0.821-1.538,1.855-3.109,3.183-4.702c0.628-0.754,0.761-1.804,0.34-2.689
+		c-0.421-0.886-1.318-1.446-2.3-1.436c-9.728,0.111-18.649,9.972-22.203,15.869c-0.826,1.37-1.446,2.821-1.837,4.284
+		c-5.71,4.881-9.335,12.129-9.335,20.223C192.259,68.842,204.178,80.75,218.874,80.75z"></path> 
+ <path d="M100.382,104.202C95.588,96.932,87.96,91.509,78.63,91.509H61.971c-9.491,0-17.747,5.292-21.977,13.086
+		c-0.514,0.74-37.605,55.979-38.107,56.728c-3.42,5.092-2.063,11.991,3.028,15.411c5.089,3.418,11.99,2.065,15.411-3.028
+		l16.656-24.802v0.307l-15.118,61.638c-0.706,2.875-0.051,5.915,1.776,8.244c1.828,2.33,4.624,3.69,7.585,3.69h5.791v38.784
+		c0,7.667,6.215,13.882,13.882,13.882s13.882-6.215,13.882-13.882v-38.784h11.106v38.784c0,7.667,6.215,13.882,13.882,13.882
+		c7.667,0,13.882-6.215,13.882-13.882v-38.784h5.726c2.961,0,5.757-1.36,7.585-3.69c1.827-2.329,2.482-5.369,1.776-8.244
+		l-15.119-61.642h-0.001v-0.403l16.724,24.902c3.421,5.094,10.323,6.445,15.411,3.028c5.092-3.42,6.448-10.319,3.028-15.411
+		C97.759,100.238,100.862,104.931,100.382,104.202z"></path> 
+ <path d="M17.233,88.896c0.978,0.081,1.912-0.414,2.396-1.268c7.311-12.904,18.78-11.81,21.349-16.575
+		c0.354-0.658,0.633-1.336,0.839-2.025c0.783,0.844,1.885,1.34,3.044,1.34c0.458,0,0.925-0.076,1.381-0.237
+		c0.77-0.271,1.401-0.751,1.873-1.347c4.763,7.21,12.935,11.967,22.221,11.967c9.285,0,17.458-4.757,22.22-11.967
+		c0.472,0.596,1.103,1.076,1.874,1.347c0.457,0.161,0.923,0.237,1.381,0.237c1.159,0,2.261-0.496,3.044-1.34
+		c0.206,0.689,0.484,1.367,0.839,2.025c2.568,4.765,14.037,3.671,21.348,16.575c0.483,0.854,1.418,1.349,2.396,1.268
+		c0.979-0.081,1.819-0.724,2.155-1.646c3.329-9.14-2.747-20.968-7.012-26.376c-3.668-4.653-9.315-7.166-14.532-4.355
+		c-0.186,0.1-0.357,0.215-0.534,0.323l0.043-0.122c0.763-2.17-0.378-4.547-2.548-5.31c-1.479-0.521-3.04-0.143-4.134,0.827
+		c-0.976-13.8-12.483-24.706-26.539-24.706c-14.058,0-25.565,10.907-26.54,24.707c-1.096-0.97-2.658-1.348-4.134-0.828
+		c-2.17,0.763-3.311,3.14-2.548,5.31l0.043,0.122c-0.177-0.109-0.349-0.224-0.533-0.323c-5.217-2.811-10.864-0.299-14.533,4.355
+		c-4.265,5.408-10.341,17.236-7.012,26.376C15.414,88.172,16.255,88.815,17.233,88.896z"></path> 
+</g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+</svg> 
+</div> 
+ <a data-display-type="block" class="u_1716945842 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="/childcare" data-element-type="dButtonLinkId" id="1716945842"> <span class="iconBg" id="1264511739"> <span class="icon hasFontIcon icon-star" id="1273037634"></span> 
+</span> 
+ <span class="text" id="1382132572">Childcare (18 months to 6 years old)</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1912818891 dmRespRow running-animation-8RH3LZEM" id="1912818891" mode="1" data-anim-extended="eyJkZXNrdG9wIjp7InRyaWdnZXIiOiJlbnRyYW5jZSIsImFuaW1hdGlvbiI6ImZhZGVJbkNvbWJvIiwiZHVyYXRpb24iOjIsImRlbGF5IjowLCJpbnRlbnNpdHkiOjEsInJldmVyc2UiOmZhbHNlLCJkaXIiOiJpbi1wbGFjZSJ9fQ==" data-anim-desktop="fadeInCombo" style="visibility: hidden; opacity: 1; transition-delay: unset !important; transition-duration: unset !important; animation-delay: unset !important; animation-duration: unset !important; transition-property: none !important;"> <div class="dmRespColsWrapper" id="1038313539"> <div class="dmRespCol u_1329809216 small-12 large-3 medium-3" id="1329809216"> <div data-element-type="spacer" class="u_1826922978 dmSpacer" id="1826922978"></div> 
+</div> 
+ <div class="u_1876363646 dmRespCol small-12 large-3 medium-3" id="1876363646"> <div class="graphicWidget u_1375025053" data-element-type="graphic" data-widget-type="graphic" id="1375025053"> <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve" id="1016030871" class="svg u_1016030871" data-hover-effect="float" data-icon-custom="true" data-icon-name="flower.svg"> <style type="text/css">.st0-1406767903{display:none;}
+	.st1-1406767903{display:inline;fill:#F6F6F6;}</style> 
+ <g id="Background" class="st0-1406767903"> <rect x="0.1" y="-0.5" class="st1-1406767903" width="800" height="800"></rect> 
+ <rect x="0" class="st1-1406767903" width="800" height="800"></rect> 
+</g> 
+ <g id="Objects"> <g> <path d="M572.2,412c-3-1.1-6-2.2-9.1-3.1c52.7-5.2,110.3-18.1,149.5-53.4c35.4-31.9,53.3-85.5,24.5-127.6
+			c-68.2-99.6-191.7-18.2-257.1,50c21.6-41.4,29.7-90.1,23.7-136.2C497,90.4,468.5,27,407.8,28.3c-54.6,1.1-91.2,50.7-98.9,100.6
+			c-5.3,34.3-1.3,70.6,8.6,105.5c-22.1-25.2-51-44.5-82.6-57.4c-48.4-19.7-119.7-31.4-154.9,17.9c-33.6,47-10.8,107.2,26.7,143.9
+			c38.9,38,91.9,58.9,145.6,58.4c-98.7,10.3-202.6,100.1-150.5,205.1c20.1,40.5,66.7,53.9,108.9,45c46.8-9.8,80.3-44.2,109-80.7
+			c-13.3,45.6-18,93.9-2.1,139.4c14.1,40.3,46.2,70.3,91,65.3c41.4-4.7,72.3-35.5,85.6-73.8c18.1-52.3,3.2-106.5-16.9-155.9
+			c52.9,67.6,165.9,139.2,233.1,67.3c32.3-34.6,17.6-83.1-7.8-117C670.9,449.7,623.4,422,572.2,412z M564.3,421.5
+			c4.4,1.6,8.8,3.4,13.1,5.5c34.6,16.9,68.3,58,45.6,98.2c-21.5,38-71.7,37.2-105.7,19.5C484,527.3,461.9,496.3,440,467
+			c3.1-0.9,6-2.4,8.3-4.7c5.7-5.5,6.4-13.7,3.6-20c9.9,6,16.8,14,24.3,22.7c1.8,2,4.6-0.6,3.5-2.7c-5-10.3-15.2-17.9-25.4-22.9
+			c3.9-1,7.5-3.2,9.7-6.7c1.1-1.7,1.6-3.6,1.8-5.5c11.2,9.3,25.8,13.7,40.6,10.7c3.1-0.6,2.4-5.6-0.7-5.5c-16,0.8-30.8-3.9-42-14.8
+			c-1.1-2.1-2.7-4-4.5-5.4c1.4-0.7,2.7-1.6,3.9-2.6c9.4,0.8,21.2,0.7,34.1-0.4c20.6,1.2,41.3,3.9,60.7,10.1c0.6,0.7,1.4,1.2,2.6,1.4
+			C561.8,420.9,563.1,421.2,564.3,421.5z M358.5,392.8c-1.3-0.1-2.6,0-3.8,0.2c-7-6.2-16.7-16.7-7.7-23.9c5.5-4.4,11.7-2,17.6,0.6
+			c2,2,4.5,3.4,7.4,4.2c-8,13.5-10.5,31.8-5,46.5c-0.3-0.2-0.7-0.4-1.1-0.4c-4.4,0-7.9,2-10.3,5.1c-4.1-0.5-8.1-3-9.7-6.9
+			c-4.2-10.1,6.9-16.4,14.2-19.8C363,397,361.2,393,358.5,392.8z M441.3,362.1c1.2-0.6,2.4-1.4,3.5-2c1.2,0.4,2.3,1,3.4,1.7
+			c3.3,2.4,5.2,6.1,4.1,10.2c-1.2,4.4-4.5,5.5-8.3,6.9c-0.6,0.2-1,0.6-1.4,1c-2.7-6.9-7.1-12.9-13.3-17.1c3.1-2,6.5-3.3,10-3.4
+			C437.9,360.6,439.3,363.1,441.3,362.1z M402.9,436.3c-45.5-0.7-37.9-70,0.9-74.9c0.5,1.5,1.7,2.8,3.7,2.9
+			C451.3,367.4,445,437,402.9,436.3z M400.2,464.3c-9.3-0.5-13.3-12.2-9.9-19.6c0.3-0.6,0.3-1.1,0.2-1.7c3,0.9,6.2,1.6,9.8,1.9
+			c3.8,0.3,7.4,0.2,10.8-0.4c0,0,0,0,0,0C415.7,452.3,409.9,464.8,400.2,464.3z M375.2,369c-1.9-2.4-4.4-4.5-7.2-6.2
+			c-2.9-5.1-3-12,2.2-15.5c3.5-2.4,8.4-1.8,12,0.1c4.5,2.3,5.1,6,7.3,10.1c0,0,0.1,0,0.1,0.1C383.9,360,379.1,364,375.2,369z
+			 M417.9,339.1c3.9,1.6,6.5,5.6,7.3,9.6c0.4,2,0.4,4.1-0.2,6.1c-0.5,1.8-1.5,2.9-1.7,4.6c-3.7-1.6-7.9-2.6-12.6-2.9
+			c-3.3-0.9-6.5-1.3-9.5-1.3C400,346.3,408.5,335.2,417.9,339.1z M433.4,432.2c0.1,0.5,0.4,1,0.7,1.5c-1.8,1.3-0.8,4.6,1.7,4.7
+			c11.7,0.6,14.5,15.4,3.6,19.9c-9.6,3.9-14.1-4.5-19-10.9c-0.8-1.1-2-1.4-3.1-1.4c-0.3-1-0.7-1.9-1.2-2.8
+			C423,441.2,428.8,437.3,433.4,432.2z M444.9,431.4c-3-1-4.9-3.4-7.8-3.9c3.1-4.6,5.4-9.8,6.9-15.2c0.6,0.4,1.4,0.7,2.2,1
+			c0.3,0.7,1.1,1.2,2,1.1c8.2-1.2,14.5,10.9,7.4,16C452.6,432.5,448.3,432.6,444.9,431.4z M456.8,404.9c-0.7,0.4-1.4,0.7-2.1,1
+			c-3.6,1.3-6.1-0.5-9.4-0.7c0.7-5.5,0.6-11.2-0.3-16.5c0.4,0,0.8,0,1.3-0.2c6.5-2.8,17,2.6,15.3,10.6c0,0.2-0.1,0.3-0.2,0.5
+			C457.8,399.2,456.4,402.2,456.8,404.9z M429.1,339c-2.5-3.6-6.1-6.4-10.4-7.5c-0.6-0.2-1.3-0.2-1.9-0.3c0.7-12.6,4.6-24.4,11.6-35
+			c1.8-2.7-2.4-4.9-4.3-2.5c-8.4,11-12.4,23.7-11.9,37.5c-10.8,1.6-18.7,13.6-15.2,24.2c-0.4,0.1-0.8,0.2-1.2,0.3
+			c0.3-1.4,0.2-2.9-0.2-4.3c0-0.1,0.1-0.2,0.1-0.4c-1.6-15.9-5.1-31.2-11.6-45.9c-1.3-3-6.5-0.9-5.4,2.3
+			c4.1,11.5,7.9,23.2,10.7,35.1c-1.4-1.2-2.9-2.1-4.3-2.8c-3.7-1.8-7.9-2.5-11.9-2c0.2-0.7,0.2-1.5-0.2-2.4
+			c-12.7-26.9-24.3-55.1-29-84.7c-7.3-46.7,12.1-106.9,71-98C508.6,166.7,457.7,287.8,429.1,339z M367.5,424.1
+			c0.4-0.3,0.5-0.6,0.6-1c3.4,7.4,8.9,13.8,16.9,17.7c-0.2,0.1-0.5,0.2-0.6,0.5c-3.7,8-16.6,11.7-22.8,4.2
+			C355.5,438.1,361.4,429.1,367.5,424.1z M379.3,455.3c0.5-0.9,0.5-1.8,0.4-2.6c0.5-0.4,1.1-0.7,1.6-1.1c0,7.1,4.1,14.3,10.3,17.9
+			c0.5,4.9-0.9,11.5-2,15.4c-1.8,6.3-5.6,11.3-9.9,16.1c-2.3,2.5,0.8,7.3,3.9,5c6.1-4.7,10-11,11.9-18.4c1-3.7,1.4-7.3,1.1-11.1
+			c-0.2-2.4-0.8-3.9-1.6-5.5c1.5,0.5,3,0.8,4.6,0.8c5.9,0.1,10.8-2.9,14.2-7.4c-0.8,15.9,3.2,31.4,11.3,45.4c2.4,4.1,9,0.3,6.4-3.8
+			c-8.8-13.9-12.6-29-12.1-45.1c2.4,2.4,5.3,4.4,8.2,5.5c0.5,0.2,1.1,0.3,1.6,0.5c0.1,0.7,0.3,1.4,0.8,2.1
+			c6.8,10,13.9,20.3,21.6,30.2c5,9.7,8.9,19.8,11.8,30.3c-1.1,1.2-1.6,2.8-0.9,4.6c1.5,3.8,3.1,7.9,4.6,12.2
+			c1.5,9.3,2.3,18.8,2.3,28.5c-0.2,49.9-30.7,113.3-91.6,82C295.8,614.8,350.4,511.6,379.3,455.3z M707.6,215.6
+			c54.7,41.4,31,113.3-20,145.8c-39.6,25.3-89.6,32.8-135.9,38c59.1-16.1,112.5-51.5,74.6-111.9c-18.9-30.1-58.6-40.2-91.9-33
+			c-8.9,1.9-17.4,5-25.5,8.8C568.1,214.7,637.9,162.8,707.6,215.6z M508.4,275.8c34.1-17.7,85-19.5,108.2,17.4
+			c51.3,81.6-91.6,107.7-147.8,106.7c0-0.1,0.1-0.2,0.1-0.3c0.8-6.7-3.4-12.7-9.1-15.7c0.3-0.1,0.7-0.3,1-0.6
+			c12.2-12.1,26.9-20.5,43.2-25.6c3-0.9,1.8-5.3-1.3-4.7c-17.7,3.8-33.1,13.1-45,26.7c3.6-6,3.8-14.7-0.6-20.2
+			c-1.3-1.6-2.8-2.9-4.3-4c9.6-6.1,18.5-13.2,26.6-21.4c2.1-2.1-1.1-5.3-3.3-3.3c-8.9,8-18.5,15.3-28.2,22.3
+			c-4.9-1.6-10.3-1.4-14.9,0.7c0.1-1.6,0.1-3.1-0.1-4.5c0.3-0.2,0.5-0.5,0.8-0.8c0.5-0.2,0.9-0.5,1.2-1
+			C454.4,319,477.3,291.9,508.4,275.8z M317.4,175.1c-4.3-55.8,15.5-122.2,77.8-135.2c70.1-14.6,99.4,71.2,101.1,125.3
+			c1.4,45.8-12.3,86.7-33.8,125.5c23.3-63.6,29.6-144.8-51.3-150c-76.6-4.9-84.9,64-71.4,125.6c-1-1.9-2-3.8-3.1-5.6
+			C326.8,233,319.6,204.5,317.4,175.1z M125.9,341.2c-40.5-33.5-73-97-33.1-143.8c38.4-45.2,111.4-24.6,156.5-1.5
+			c34.4,17.6,61.8,42.8,81,75c3.7,9,7.7,17.9,12.1,26.4c-21-29.2-49.1-53.9-81.6-68.5c-36-16.2-84.1-13.5-101.5,27.4
+			c-16.7,39.4,4.6,83.4,35.2,108.9c10.8,9,22.4,15.8,34.7,21C191.7,380.2,156.1,366.2,125.9,341.2z M222.6,370.6
+			c-35.4-19-66.9-59.9-55.7-102.2c8.1-30.3,42.4-43.2,70.9-36.3c16.3,4,31.6,12.7,45.3,22.2c32.4,22.4,55.7,53.1,73.8,87.7
+			c1.2,2.3,3.2,2.8,5,2.3c-3,4.2-3.9,9.5-2.9,14.5c-11.5-6.1-21.2-14.7-29-25.3c-1.9-2.6-6.2-0.4-4.5,2.6c5.6,9.9,13.8,17.5,23.4,23
+			c-3.5,0.8-6.6,2.5-9.2,5.5c-2.3,2.7-3.4,5.3-3.9,8c-12.6-4.2-26-4.7-38.8-0.6c-2.8,0.9-2.5,5.8,0.7,5.4
+			c13.1-1.7,25.7-1.4,38.5,1.8c1.1,4,3.6,7.8,6.8,11.1c-2.1,0.1-4.2,0.2-6.3,0.3c-6.7-0.4-13.9-0.3-21.3,0.4
+			C283.3,390.8,251.3,386,222.6,370.6z M342,400.4c0.3,0,0.6-0.1,0.9-0.2c-5.3,6.3-7.6,15.4-3.2,22.4c0.9,1.5,2.1,2.7,3.4,3.8
+			c-8,5.2-16.4,9.4-25.4,12.8c-3.7,1.4-2.3,7.3,1.7,6.1c10-2.9,19.1-8.1,27-14.8c0.5-0.4,0.7-1,0.8-1.6c1.7,0.8,3.5,1.3,5.4,1.6
+			c-1.4,4-1.6,8.6-0.6,12.7c-15.8,6.4-30.7,21.2-32.4,38.9c-0.4,4.1,5.3,4.1,6.6,0.9c6-15,13.2-26.7,28.2-34c0.5,0.8,1,1.7,1.7,2.4
+			c3.6,3.6,8.4,5.1,13.1,4.9C358.3,472.4,348,490,340,508.4c-8.8,11.4-18.7,22-30,31.4c-33.8,28.2-94.8,57.3-124.4,8
+			c-23.1-38.4-2.1-82,29.3-107.9C251.2,409.9,296.1,401.5,342,400.4z M228.6,628.7c-46.9,19.3-105.9,7.3-122.2-46.3
+			c-15-49.4,2.7-103.9,44.7-133.4c28.2-19.8,60.1-28.4,92-37.8c-60.5,28.3-108,82.7-65.4,146.2c24.4,36.4,65.5,34.3,101.1,16.3
+			c18-9.1,33.9-21.1,47.7-35.1C299.9,573.9,270.4,611.5,228.6,628.7z M479.9,589.6c16.6,71.5,15.2,160.2-72.1,169.6
+			c-60.6,6.5-86.1-52.3-89.5-103.6c-1.6-24.1,1.2-48.2,5.9-72.1c0.2,4.6,0.7,9.3,1.4,13.9c6.4,39.6,36.3,76.6,78.8,78.5
+			C458.9,678.4,479.4,637.2,479.9,589.6z M684.9,614.6c-74.3,42.9-160.5-30.8-209.5-88.2c18.8,18.7,40.7,33.7,67.2,39.5
+			c33.4,7.4,72.5-4,90.2-35c18.1-31.6,5-70.5-19.9-94.1c21.6,9.4,41.7,22,59.3,38.7C710.4,511.2,744.2,580.3,684.9,614.6z"></path> 
+</g> 
+</g> 
+</svg> 
+</div> 
+ <a data-display-type="block" class="u_1472842620 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="/little-bloom-early-years-curriculum" data-element-type="dButtonLinkId" id="1472842620"> <span class="iconBg" id="1615636597"> <span class="icon hasFontIcon icon-star" id="1041664693"></span> 
+</span> 
+ <span class="text" id="1679723229">Little Bloom Early Years Curriculum</span> 
+</a> 
+</div> 
+ <div class="dmRespCol u_1121864357 small-12 large-3 medium-3" id="1121864357"> <div data-element-type="spacer" class="u_1364225490 dmSpacer" id="1364225490"></div> 
+</div> 
+ <div class="u_1665065246 dmRespCol small-12 large-3 medium-3" id="1665065246"> <div class="u_1643626813 graphicWidget" data-element-type="graphic" data-widget-type="graphic" id="1643626813"> <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve" id="1551226595" class="svg u_1551226595" data-hover-effect="float" data-icon-custom="true" data-icon-name="flower2.svg"> <style type="text/css">.st0-1566924929{display:none;}
+	.st1-1566924929{display:inline;fill:#F6F6F6;}</style> 
+ <g id="Background" class="st0-1566924929"> <rect x="0.1" y="-0.5" class="st1-1566924929" width="800" height="800"></rect> 
+ <rect x="0" class="st1-1566924929" width="800" height="800"></rect> 
+</g> 
+ <g id="Objects"> <g> <path d="M773.5,392c-54.6-14.4-114.6-38.3-172-39.3c47.3-38.2,70.7-97.2,116.3-137.2c4.2-3.7-0.2-11.4-5.5-9.5
+			c-48.2,16.5-97.8,10.2-145.9,18.4c-2.9-49.3,3.2-97.9,19.9-144.6c1.9-5.4-6.2-8.5-9-3.8c-29.1,48.3-87.3,58.5-127.4,94.3
+			c-11.3-52.5-45.9-97.3-55.1-150.7c-1-5.9-9.2-4.7-10.8,0C368,66.4,345,117.1,336,167.7c-17.3-18.2-39.8-27.2-61.3-39.8
+			c-28.4-16.6-52.6-38-73.8-62.9c-4.2-4.9-10.5,1.4-8.3,6.4c15.4,35.1,19.8,69.3,24.3,107c2.3,19.1,6.4,36.9,15.2,53.8
+			c-52-12.4-106.5-5.8-158.9-19.7c-6.5-1.7-11.1,8-4.7,11.2c50.8,25.3,81.4,72.5,120.8,111.1c-22.7,0.9-41.3,9-61.5,18.9
+			c-32.5,15.9-63.1,26.7-99.5,29.5c-6.5,0.5-8,9.3-1.6,11.5c31.3,10.5,62.9,21,92.6,35.6c21,10.3,40.1,24,62,32
+			C133.2,500.8,90.7,547.8,46.7,591c-4.3,4.2,0.1,11.3,5.8,9.9c39.9-10,79.8-21.7,120.1-29.7c18.2-3.6,36.9-4.6,55.5-6.1
+			c-9.3,18.5-11.5,37.9-12.9,59.5c-2.6,42.5-7.8,78.9-28.3,117.1c-3.2,6,4,10.6,8.8,6.8c45.6-35.3,92.8-68.4,138.6-103.4
+			c0.6-0.4,1-0.9,1.3-1.5c3.5,12.1,8.1,23.9,13.4,35.6c15.7,34.7,27.3,68.8,37.2,105.5c1.4,5.3,9.2,4.1,9.4-1.3
+			c2-56.7,38.8-105.8,51.8-161.4c8.3,18.9,31.9,27.8,48.8,37.6c29.5,17.2,58.1,34.8,82.2,59.3c3.4,3.5,9.5-0.1,8.2-4.7
+			c-13-45.1-18.7-91.4-18.3-138.2c52.8,12.6,112.6,11.9,163.6,17.6c6.9,0.8,7-9.1,1.5-11.2c-55.7-21.7-79.4-79-117-121.9
+			c55.6-10.4,96.3-63.4,155.7-57.5C778.4,403.6,779.5,393.6,773.5,392z M712.5,387.4c-68.4-2.7-137.7,2.3-205.7,9.1
+			c-1.7-0.4-3.4-0.8-5.2-1.2c31.4-4.4,61.7-15.8,88.5-34.1c0.4,0.2,0.8,0.4,1.2,0.5C632.5,367.7,672.6,377.1,712.5,387.4z
+			 M607.5,331.5c-44.4,41.5-103.7,58.1-163.3,52.6c-0.2-2.2-0.9-4.5-2.3-6.7c-0.4-0.6-0.8-1.1-1.2-1.6
+			c84.6-43,166.5-94.6,247.3-144.5C660.6,264.3,639,302.1,607.5,331.5z M631.8,233.1c16,0.2,30.2-1.4,44.3-4.4
+			c-80.4,45.8-162.5,91.9-238.6,144.2c-4.3-2.6-9.9-2.5-14,0c0.8-3.5,0.1-7.3-1.7-10.4c0.8-0.5,1.5-1.2,2-2.2
+			c23.1-55.7,65.6-100.5,123.8-119.4C576,231.7,602.5,232.8,631.8,233.1z M434.2,391.8c-2,2.8-5.4,4.7-8.9,5.8
+			c-1.7,0.1-3.4,0.5-4.7,1.8c-1.5,1.4-0.6,3.8,1.2,4.4c3.3,1.1,6.1,0.3,8.8,3.1c2.2,2.2,3.6,5.5,2.5,8.6c0,0,0,0,0,0
+			c-2-0.6-3.4,1.6-2.7,3.3c-3.2,2.3-8.2,2.6-11.2-0.1c-2.7-2.4-6.6,1.4-4,4c0.3,0.3,0.7,0.5,1,0.7c-0.2,3.4-0.1,7.1-1.6,10.2
+			c-2.5-0.1-5,1.6-5.5,4c-3.4-0.2-7.1-3.8-5.3-7c1.4-2.5-1.9-5-3.9-3c-1.2,1.1-2,2.4-2.4,3.7c-0.7,0.4-1.3,1-1.4,2.1
+			c-0.1,3.1-2.7,6.6-5.9,8.2c-0.5-1.4-1.7-2.5-3-3.1c-0.1-2.4-3.3-3.1-4.3-0.6c-0.1,0.2-0.1,0.3-0.2,0.4c-0.4,0.1-0.8,0.2-1.1,0.4
+			c-1.1-2.3-0.9-5.2,0.2-7.7c0.7-0.8,1.2-1.6,1.6-2.7c0.8-1,1.8-1.9,2.9-2.4c2.1-1,0.6-4.2-1.5-3.7c-0.6,0.2-1.2,0.5-1.8,0.8
+			c-1.4-1.3-3.8-1.5-4.8,0.5c-3.1,6.2-9.6,1.9-9.5-3.8c0-3.4,1.8-6.7,4-9.7c3.1-0.7,5.5-2.9,6-6.7c0.1-0.3,0.2-0.5,0.1-0.8
+			c0-0.1,0-0.2,0-0.4c0.1-2.3-3.1-3.7-4.7-1.9c-2.8,3-9.7,3.9-11.3-1c-0.1-0.2-0.1-0.3-0.1-0.5c2.7-0.7,3.5-3.8,2.3-5.7
+			c1.4-1.1,3.2-1.9,5-2.3c3.2,1.9,6.8,2.6,9.6-0.1c1.3-1.3,1.3-3.6,0-4.9c-2-2-5.1-1.9-6.9-4.2c-0.3-0.4-0.7-0.9-0.9-1.4
+			c0,0,0,0,0,0c-0.8-1.6-1.1-3.5-0.4-5c2.1-4.3,9.5-3.5,11.9,0c1.9,2.9,7.3,1,5.9-2.5c-0.4-0.9-1-1.7-1.5-2.5
+			c-0.8-3.4-0.4-7.7,3.8-8.4c3.5-0.6,5.8,2.7,6,5.8c-0.1,0.7-0.2,1.4-0.2,2.1c-0.1,0.4-0.3,0.9-0.5,1.3c-1,1.7,0.2,3.1,1.7,3.3
+			c1.2,2,4.4,0.7,4.5-1.5c0.2-4.5,4-11.1,9-10.1c0.1,0,0.1,0,0.2,0.1c0.7,0.2,1.4,0.4,2.1,0.9c4.2,2.7,5,9.2,1.7,12.9
+			c-1.6,1.9,0.4,5.3,2.7,4c-0.1,0.7-0.4,1.3-0.4,2.1c0,2.5,4.1,3.3,4.6,0.6c1.4-8.2,11.9-6.6,13.3,0.8c0,0.2,0,0.4,0,0.7
+			C434.1,386.4,433.4,389.4,434.2,391.8z M568.3,106.5c-9.9,39.2-14.1,78.6-11.5,119.8c-14.6,3.1-29.1,7.8-43.2,15.2
+			c-29.4,15.3-54.7,37.5-73.2,64.4C474.6,233.4,517.4,168.3,568.3,106.5z M452,182.6c-0.3-2.5-0.8-5-1.3-7.5
+			c27.8-18.4,62-29.8,90.4-47.7c-42.8,52.6-77.7,111.7-104.5,173.9C448.4,262.3,457.4,221.8,452,182.6z M391.2,50.2
+			c13.2,40.2,36.5,76.3,46.5,117.8c14.9,61.8-10.5,129.9-29.1,188.6c-3,0.7-5.7,2.3-7.8,4.5c-1.6-2.8-4.3-4.8-7.5-5.3
+			c1.1-0.5,1.9-1.4,1.9-2.8C389.5,251.3,386.2,151.9,391.2,50.2z M345.4,183.6c7-46.3,25.4-92.1,41.1-137
+			c-10.3,100.9-11.6,206.8,2.2,307.2c0.1,1,0.7,1.6,1.5,2c-3.6,0.6-6.8,3.5-8.4,7.1c0-0.1-0.1-0.1-0.1-0.2c0.4-1,0.4-2.2-0.1-3.4
+			c-3.6-8.1-7.8-15.9-12.3-23.5C349.9,288.3,338.4,230.3,345.4,183.6z M250.6,125.6c26.3,18.3,57.6,27.9,81.2,49.9
+			c0.9,0.8,1.9,1.2,2.8,1.2c-1.5,10.5-2.4,21.1-2.4,31.5c0,24.8,3.5,53,10.5,80.3c-38.9-61.9-80.6-122.1-118.8-184.5
+			C232.3,111.8,241.1,119,250.6,125.6z M223.3,139.3c-2.2-16.1-6.3-31.5-11.4-46.7c0.4,0.4,0.8,0.8,1.2,1.1
+			c40.4,71.7,82.7,144.5,133.7,209.3c0.2,0.6,0.3,1.1,0.5,1.7c-22-26.1-49.7-47.2-81.3-61.3c-8.5-3.8-17.2-6.8-25.9-9.3
+			C227.5,203.5,227.8,171.7,223.3,139.3z M241.1,246.2c59.2,19.4,104.8,62.6,133.1,117.3c0.1,0.3,0.3,0.4,0.5,0.6
+			c-4.2,0.2-8.3,2.1-10.8,6.2c-0.4,0.7-0.6,1.5-0.9,2.2C288.1,310.8,202.7,263,111,231.2C154.6,235.4,199,232.4,241.1,246.2z
+			 M185.3,313.4c-25.1-27.1-48.1-55.7-76.6-78.2c91.9,35.5,176.1,83.5,253.7,144.4c0.4,2.2,1.1,4.4,2.3,6.2c-1,0.4-2.1,0.8-3,1.4
+			c-1.8,1.2-3.3,2.7-4.4,4.4C289.1,391.4,231.5,363.3,185.3,313.4z M103.6,378.1c28.8-11.6,53.7-30.4,85.7-32.2
+			c3.6-0.2,5.4-3.2,5.4-6c4.6,4.3,9.3,8.6,14.3,12.6c36.6,29.9,79.4,45.3,125.1,47.1c-7.5,1.2-15,2.6-22.3,4.1
+			c-0.5-0.5-1.2-0.9-2.2-0.9c-84.3-0.9-167.9-3.5-251.7-11.7C73.4,388.2,88.6,384.1,103.6,378.1z M109.9,413.2
+			c-12.4-5.6-25-10.5-37.8-15.2c71.2,8.6,143.2,13.2,214.9,11.5c-35.5,9.4-68.6,23.8-99.4,47.6C161.6,442.4,137.2,425.5,109.9,413.2
+			z M70.5,584.1c37-36.9,73.5-75.1,113.6-108.5c50-41.6,107.1-57.3,170.3-66.5c2.3-0.3,3.6-1.7,4.2-3.3c1.9,1.8,4.4,3.2,7,4
+			c-1,1.2-1.8,2.5-2.5,4c-0.7,1.5-1.1,3.2-1.3,4.9C270.4,483,168.1,524.7,73.9,583.3C72.7,583.6,71.6,583.8,70.5,584.1z
+			 M227.9,552.8c-45.1,4-88.4,14-131.9,24.9c42.8-19.2,84.5-42.1,126-63.5c48.8-25.1,98.8-51.3,140.9-87c0.3,0.6,0.5,1.3,0.9,1.9
+			c2.3,3.5,6.7,5.1,10.8,4.9c-0.7,3.9,0.1,7.9,2.6,11.1c-8.2,13.8-15.9,28.1-22.7,42.9C324.5,526.3,281.7,548.1,227.9,552.8z
+			 M328.8,635.5c-38.5,26-75.4,54.4-112.3,82.9c43.1-50.9,81.3-106.1,116-163.1c-3,16-4.4,32.3-3.6,48.8c0.5,10.6,2.1,20.8,4.5,30.8
+			C332,634.4,330.5,634.4,328.8,635.5z M209.1,720.7c6.1-15,10.7-30.5,13.2-47c5.6-37.3,0.2-74.1,14.8-109.4
+			c16.7-1.6,33.3-4.1,49.2-9.9c20.7-7.6,39.6-19.4,55.4-34.3c-1.3,3.9-2.5,7.8-3.7,11.8C298,596.9,254.1,658.9,209.1,720.7z
+			 M386.5,748c-4-14.3-8.5-28.5-14-42.4c-10.5-26.4-25.2-51-30.4-79.2c-8.3-44.9,2.3-89.7,20.8-130.8c7.9-11.3,14.4-23.7,19-36.9
+			c1.7-3,3.5-6,5.3-8.9c2.3,0,4.6-0.7,6.8-1.7C377.2,544.8,375.7,650.1,386.5,748z M434.9,627.7c-9,42.7-33.7,80.1-44.1,121.7
+			c-2.6-102.2,1-201.6,7.7-303.8c0-0.2-0.1-0.3-0.2-0.4c1-1,1.9-2.1,2.5-3.3c2.8,2.6,6.6,4.2,10.3,3.8c0.3,0,0.5-0.2,0.8-0.2
+			c1.1,1.8,2.1,3.6,3.2,5.4c4.6,12.5,8.7,25,12.2,37.5c-0.6,0.6-0.8,1.5-0.1,2.3c0.4,0.4,0.7,0.8,1.1,1.2
+			C440.3,535.9,444.9,580.4,434.9,627.7z M528.6,666.9c-20.7-12.7-66.7-27-76.6-50.1c-0.6-1.4-1.9-1.7-3.2-1.5
+			c1.1-5.4,2-10.8,2.5-16.3c2.7-28.5,1.3-58.1-4.9-86.6c45,54.3,79.2,116.5,114.9,177.3C551,681.6,540,674,528.6,666.9z
+			 M571.3,692.4c-38.4-65.2-75.5-133-127-188.8c-1.3-5.2-2.8-10.4-4.5-15.4c22.5,30.1,49.8,56.7,83.9,72.7
+			c11.1,5.2,22.9,9.4,35.1,12.7c-0.4,0.7-0.6,1.4-0.6,2.3C558.1,615.7,562.7,654.1,571.3,692.4z M529.7,550.7
+			C480.8,528,448.2,483.3,420.3,439c2.2-3.7,3.1-8.3,2.3-12.4c4.7,0.9,9.8-0.3,13.5-3.2c45,32.3,91.3,63,137.5,93.5
+			c37,24.4,75,47.6,117,61.9C635.9,575,576.4,572.4,529.7,550.7z M627.6,493c21.2,28.5,40.1,58,66.8,79.4
+			c-92.6-35-171.6-100.9-255-153.1c0.3-0.6,0.6-1.2,0.8-1.8c1.9-5.5-0.1-11.5-4.2-15.4c-0.4-0.4-0.9-0.8-1.4-1.2
+			c2-1.2,3.6-2.7,5.1-4.3c0.3,1.4,1.4,2.7,3.4,2.7C518.5,400.5,582.5,432.3,627.6,493z M609.9,453.4c-5.3-5.5-10.8-10.8-16.8-15.6
+			c-21.9-17.5-46.7-30.2-73-37.9c72.2-4.1,144.2-3.4,216.6-5.1C692.1,406.3,656.3,443.8,609.9,453.4z"></path> 
+</g> 
+</g> 
+</svg> 
+</div> 
+ <a data-display-type="block" class="u_1368459021 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="/bloom-curriculum" data-element-type="dButtonLinkId" id="1368459021"> <span class="iconBg" id="1083345115"> <span class="icon hasFontIcon icon-star" id="1610617913"></span> 
+</span> 
+ <span class="text" id="1622612419">Bloom Curriculum</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1200422096 dmRespRow running-animation-8RLAU2YS" id="1200422096" mode="1" data-anim-extended="eyJkZXNrdG9wIjp7InRyaWdnZXIiOiJlbnRyYW5jZSIsImFuaW1hdGlvbiI6ImZhZGVJbkNvbWJvIiwiZHVyYXRpb24iOjIsImRlbGF5IjowLCJpbnRlbnNpdHkiOjEsInJldmVyc2UiOmZhbHNlLCJkaXIiOiJpbi1wbGFjZSJ9fQ==" data-anim-desktop="fadeInCombo" style="visibility: hidden; opacity: 1; transition-delay: unset !important; transition-duration: unset !important; animation-delay: unset !important; animation-duration: unset !important; transition-property: none !important;"> <div class="dmRespColsWrapper" id="1502314803"> <div class="dmRespCol u_1198302361 small-12 medium-6 large-6" id="1198302361"> <div data-element-type="spacer" class="u_1889533202 dmSpacer" id="1889533202"></div> 
+</div> 
+ <div class="u_1850562332 dmRespCol small-12 medium-6 large-6" id="1850562332"> <div class="graphicWidget u_1074960266" data-element-type="graphic" data-widget-type="graphic" id="1074960266"> <svg version="1.1" id="1165302874" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="458.672px" height="458.672px" viewBox="0 0 458.672 458.672" style="enable-background:new 0 0 458.672 458.672;" xml:space="preserve" class="svg u_1165302874" data-hover-effect="float" data-icon-custom="true" data-icon-name="nature-magnifying-glass-svgrepo-com.svg"> <g> <g> <path d="M389.079,405.231l-91.311-91.31c-5.611-5.611-12.827-8.638-20.169-9.1l-22.127-22.129
+			c21.211-33.726,21.515-76.912,0.938-110.924c58.443-6.07,86.809-67.485,93.496-83.384c0.736-1.753-0.014-2.44-1.193-1.578
+			c-3.565,2.605-10.754,6.651-21.533,7.401c-16.107,1.122-47.29-8.422-78.816,0.276c-7.023,1.938-12.798,4.744-17.541,8.034
+			c-0.514-5.114-1.824-10.611-4.236-16.452c-12.477-30.227-39.146-48.991-48.145-62.396c-6.73-10.027-7.447-19.038-7.383-22.944
+			c0.01-0.531-0.326-1.354-1.164,0.055c-6.988,11.721-38.844,70.104-12.648,120.436c-24.061,1.99-47.563,12.159-65.93,30.526
+			c-41.193,41.194-41.193,108.221,0.002,149.417c35.49,35.49,90.15,40.399,130.949,14.738l22.128,22.127
+			c0.461,7.343,3.487,14.558,9.101,20.168l91.309,91.31c12.227,12.227,32.047,12.225,44.273-0.002
+			C401.304,437.279,401.306,417.456,389.079,405.231z M181.054,50.831c2.848,4.949,6.215,9.472,9.479,13.55
+			c3.143,4.101,5.67,7.707,6.965,9.808c2.348,4.016,17.811,26.425,12.727,53.141c-0.23,0.954-0.49,1.889-0.762,2.817
+			c-2.152-0.968-4.33-1.863-6.533-2.682c0.201-0.617,0.395-1.24,0.574-1.867c1.523-5.342,2.004-10.941,1.137-16.096
+			c-0.738-5.888-1.82-10.859-3.271-15.436c-2.895-9.014-6.859-15.239-8.063-17.27c-1.244-2.019-3.439-5.687-6.186-10.025
+			c-2.809-4.233-6.004-9.611-8.244-14.77c-4.809-10.321-7.877-19.962-7.865-19.952C170.997,32.037,175.228,41.23,181.054,50.831z
+			 M218.6,279.025c-28.988,28.986-76.154,28.986-105.143,0c-28.99-28.99-28.99-76.157,0-105.145
+			c28.986-28.988,76.152-28.988,105.143,0.002C247.587,202.871,247.587,250.036,218.6,279.025z M243.337,126.194
+			c-4.602,2.478-8.731,6.294-12.014,10.774c-1.012,1.386-1.949,2.815-2.82,4.271c-2.031-1.49-4.107-2.897-6.219-4.228
+			c1.133-1.47,2.301-2.938,3.549-4.29c17.972-20.408,45.158-21.95,49.767-22.559c2.452-0.267,6.853-0.482,12.021-0.519
+			c5.223,0.073,10.857-0.044,16.518-0.83c11.154-1.286,21.006-3.588,20.988-3.596c0.014,0.006-9.478,3.496-20.58,6.031
+			c-5.449,1.397-11.654,2.177-16.721,2.555c-5.109,0.496-9.354,1.014-11.709,1.271c-2.343,0.293-9.693,0.985-18.584,4.229
+			C253.026,120.964,248.44,123.165,243.337,126.194z"></path> 
+</g> 
+</g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+ <g></g> 
+</svg> 
+</div> 
+ <a data-display-type="block" class="u_1557519712 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="/nature-magnified-programme" data-element-type="dButtonLinkId" id="1557519712"> <span class="iconBg" id="1388395542"> <span class="icon hasFontIcon icon-star" id="1100089481"></span> 
+</span> 
+ <span class="text" id="1607563226">Nature Magnified Programme</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="sticky-widgets-container-global" id="1396055384"> <div class="u_1478459675 align-center text-align-center sticky-mobile-position-bottom-right sticky-desktop-position-top-right hide-for-small hide-for-medium dmSocialHub" id="1478459675" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://web.whatsapp.com/send?phone=6598525747" target="_blank" dm_dont_rewrite_url="true" aria-label="whatsapp" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Whatsapp')"> <span class="dmSocialWhatsapp dm-social-icons-whatsapp oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect="float"></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+ <a data-display-type="block" class="u_1837088055 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient sticky-desktop-position-bottom-right sticky-mobile-position-bottom-right hide-for-large hide-for-small" file="false" href="/interest-form" data-element-type="dButtonLinkId" id="1837088055" link_type="popup" popup_target="interest-form"> <span class="iconBg" id="1009269367"> <span class="icon hasFontIcon icon-star" id="1981762831"></span> 
+</span> 
+ <span class="text" id="1181770577">ENROL NOW</span> 
+</a> 
+</div> 
+ <div class="dmFooterContainer"> <div id="fcontainer" class="u_fcontainer f_hcontainer dmFooter p_hfcontainer"> <div dm:templateorder="250" class="dmFooterResp generalFooter" id="1943048428"> <div class="dmRespRow" id="1710600076"> <div class="dmRespColsWrapper" id="1356507897"> <div class="dmRespCol empty-column large-12 medium-12 small-12" id="1655598078"></div> 
+</div> 
+</div> 
+ <div class="u_1367569236 dmRespRow fullBleedChanged fullBleedMode" id="1367569236"> <div class="dmRespColsWrapper" id="1689393156"> <div class="dmRespCol empty-column large-12 medium-12 small-12 u_1275787312" id="1275787312"></div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1611992228" id="1611992228"> <div class="dmRespColsWrapper" id="1829762082"> <div class="u_1680159815 dmRespCol small-12 large-3 medium-3" id="1680159815"> <div class="u_1790143398 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1790143398" style="transition: none 0s ease 0s; text-align: left; display: block;"> <h5 style="line-height: initial;" class="text-align-center"><span style="display: initial; color: rgb(255, 255, 255);">HEADQUARTERS</span></h5> 
+</div> 
+ <div class="u_1963871810 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1963871810" style="transition: none 0s ease 0s; text-align: left; display: block;"><p class="text-align-center size-16 m-size-13"><span class="font-size-16 m-font-size-13" m-font-size-set="true" style="color: rgb(255, 255, 255); display: initial;">175A Bencoolen Street</span></p><p class="text-align-center size-16 m-size-13"><span class="font-size-16 m-font-size-13" m-font-size-set="true" style="color: rgb(255, 255, 255); display: initial;">#07-03 Burlington Square</span></p><p class="text-align-center size-16 m-size-13" style="line-height: 1.5;"><span class="font-size-16 m-font-size-13" m-font-size-set="true" style="color: rgb(255, 255, 255); display: initial;">S (189650)</span><span style="display: initial;"><br></span></p></div> 
+ <div class="u_1414218894 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1414218894" style="transition: none 0s ease 0s; text-align: left;"><p class="text-align-center size-16 m-size-13"><a href="tel:6235 7758" target="_blank" type="call" class="font-size-16 m-font-size-13" m-font-size-set="true" style="color: rgb(255, 255, 255); text-decoration: none; display: initial;">6235 7758</a></p></div> 
+ <div class="u_1863873775 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1863873775" style="transition: none 0s ease 0s; text-align: left;"><p class="text-align-center size-16 m-size-13"><a href="mailto:info@kidzmeadow.com" target="_blank" type="email" class="font-size-16 m-font-size-13" m-font-size-set="true" style="display: initial; color: rgb(255, 255, 255); text-decoration: none;">info@kidzmeadow.com</a></p></div> 
+</div> 
+ <div class="u_1006452626 dmRespCol small-12 large-5 medium-5" id="1006452626"> <nav class="u_1516926063 effect-bottom2 main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_1" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1516926063" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-logo-src="https://irp.cdn-website.com/md/dmtmpl/04908b51-a49d-489f-bc38-7c752c9305c0/dms3rep/multi/logo.svg" alt="" data-nav-structure="HORIZONTAL" wr="true" icon="true" surround="true" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="https://www.kidzmeadow.com/careers" class="unifiednav__item" target="_blank" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="CAREERS" data-auto="page-text-style">CAREERS<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/faqs" class="unifiednav__item" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+           FAQs
+          " data-auto="page-text-style">FAQs<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="https://www.kidzmeadow.com/blog-articles" class="unifiednav__item" target="_blank" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="BLOG ARTICLES" data-auto="page-text-style">BLOG ARTICLES<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+ <div class="dmRespCol small-12 medium-4 large-4" id="1951593247"> <a data-display-type="block" class="u_1129166607 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="/get-in-touch" data-element-type="dButtonLinkId" id="1129166607" link_type="popup" popup_target="get-in-touch"> <span class="iconBg" id="1715598121"> <span class="icon hasFontIcon icon-star" id="1572535481"></span> 
+</span> 
+ <span class="text" id="1594826219">GET IN TOUCH WITH US</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1632155419 fullBleedChanged fullBleedMode" style="text-align: center;" id="1632155419" mode="1"> <div class="dmRespColsWrapper" id="1253858808"> <div class="u_1940561751 dmRespCol small-12 medium-12 large-12" id="1940561751"> <div class="u_1222712997 dmRespRow" id="1222712997"> <div class="dmRespColsWrapper" id="1396175621"> <div class="dmRespCol small-12 medium-12 large-12" id="1616116791"> <div class="u_1076808704 dmDividerWrapper clearfix" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1076808704"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1487903668"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1794965839" id="1794965839"> <div class="dmRespColsWrapper" id="1233350599"> <div class="u_1328120665 dmRespCol small-12 large-7 medium-7" id="1328120665"> <div class="u_1888852315 widget-1f5975 dmCustomWidget" data-lazy-load="" data-title="" id="1888852315" dmle_extension="custom_extension" data-element-type="custom_extension" icon="false" surround="false" data-widget-id="1f5975986930429f819d4cd2154b5c4a" data-widget-version="22" data-widget-config="eyJjb3B5cmlnaHRUZXh0IjoiPHAgY2xhc3M9XCJydGVCbG9ja1wiPktpZHogTWVhZG93LiBBbGwgUmlnaHRzIFJlc2VydmVkLiBXZWJzaXRlIERlc2lnbmVkIGJ5IDxzcGFuIHN0eWxlPVwiY29sb3I6cmdiYSgyNTUsIDI1NSwgMjU1LCAxKVwiPjxhIHZhbHVlPVwiaHR0cHM6Ly93d3cuaGVyb2Vzb2ZkaWdpdGFsLmNvbS9cIiBsYWJlbD1cIlwiIHR5cGU9XCJ1cmxcIiB0YXJnZXQ9XCJfYmxhbmtcIiBocmVmPVwiaHR0cHM6Ly93d3cuaGVyb2Vzb2ZkaWdpdGFsLmNvbS9cIiBkYXRhLXJ1bnRpbWUtdXJsPVwiaHR0cHM6Ly93d3cuaGVyb2Vzb2ZkaWdpdGFsLmNvbS9cIj5IZXJvZXMgT2YgRGlnaXRhbDwvYT48L3NwYW4+LjwvcD4ifQ==" data-widget-initialized=""> <div class="copyright"> <div>© 2024&nbsp;</div> 
+ <div><p class="rteBlock">Kidz Meadow. All Rights Reserved. Website Designed by <span style="color:rgba(255, 255, 255, 1)"><a value="https://www.heroesofdigital.com/" label="" type="url" target="_blank" href="https://www.heroesofdigital.com/" data-runtime-url="https://www.heroesofdigital.com/">Heroes Of Digital</a></span>.</p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1159294759 dmRespCol small-12 large-3 medium-3" id="1159294759"> <div class="dmNewParagraph u_1571245377" data-element-type="paragraph" data-version="5" id="1571245377" style="transition: none 0s ease 0s; text-align: left;"><p class="text-align-right m-size-9 size-11 m-text-align-center"><a href="https://my.duda.co/terms-and-conditions" runtime_url="https://my.duda.co/terms-and-conditions" type="page" class="font-size-11 m-font-size-9" style="display: unset; color: rgb(255, 255, 255); font-weight: bold; text-decoration: none;">Terms &amp; Conditions</a><span class="font-size-11 m-font-size-9" style="display: unset; color: rgb(255, 255, 255); font-weight: bold; text-decoration: none;"> <span class="font-size-11 m-font-size-9" style="display: unset; color: rgb(255, 255, 255); font-weight: bold; text-decoration: none;">| &nbsp;</span></span><a href="https://my.duda.co/privacy-policy" runtime_url="https://my.duda.co/privacy-policy" type="page" class="font-size-11 m-font-size-9" style="display: unset; color: rgb(255, 255, 255); font-weight: bold; text-decoration: none;">Privacy Policy</a></p></div> 
+</div> 
+ <div class="u_1086016996 dmRespCol small-12 large-2 medium-2" id="1086016996"> <div class="u_1611298254 align-center text-align-center dmSocialHub" id="1611298254" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://www.facebook.com/kidzmeadow/" target="_blank" dm_dont_rewrite_url="true" aria-label="facebook" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Facebook')"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style9" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://www.instagram.com/kidzmeadow" target="_blank" dm_dont_rewrite_url="true" aria-label="instagram" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Instagram')"> <span class="dmSocialInstagram dm-social-icons-instagram oneIcon socialHubIcon style9" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://www.youtube.com/channel/UCmtRZ8kZku7yIU5MlocxrUQ" target="_blank" dm_dont_rewrite_url="true" aria-label="youtube" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Youtube')"> <span class="dmSocialYoutube dm-social-icons-youtube oneIcon socialHubIcon style9" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div id="1236746004" dmle_extension="powered_by" data-element-type="powered_by" icon="true" surround="false"></div> 
+</div> 
+</div> 
+</div> 
+ <div class="showOnMedium layout-drawer-hamburger hamburger-on-header" id="layout-drawer-hamburger" role="button" aria-label="menu opener" tabindex="0"> <span class="hamburger__slice"></span> 
+ <span class="hamburger__slice"></span> 
+ <span class="hamburger__slice"></span> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+
+    </div>
+</div>
+<!--  Add full CSS and Javascript before the close tag of the body if needed -->
+<!-- ========= JS Section ========= -->
+
+<script>
+    var isWLR = true;
+
+    window.customWidgetsFunctions = {};
+    window.customWidgetsStrings = {};
+    window.collections = {};
+    window.currentLanguage = "ENGLISH"
+    window.isSitePreview = false;
+</script>
+<script>
+    window.customWidgetsFunctions["1f5975986930429f819d4cd2154b5c4a~22"] = function (element, data, api) {
+        null
+    };
+</script>
+<script type="text/javascript">
+
+    var d_version = "production_4314";
+    var build = "2024-03-28T13_49_51";
+    window['v' + 'ersion'] = d_version;
+
+    function buildEditorParent() {
+        window.isMultiScreen = true;
+        window.editorParent = {};
+        window.previewParent = {};
+        window.assetsCacheQueryParam = "?version=2024-03-28T13_49_51";
+        try {
+            var _p = window.parent;
+            if (_p && _p.document && _p.$ && _p.$.dmfw) {
+                window.editorParent = _p;
+            } else if (_p.isSitePreview) {
+                window.previewParent = _p;
+            }
+        } catch (e) {
+
+        }
+    }
+
+    buildEditorParent();
+</script>
+
+<!-- Load jQuery -->
+    <script type="text/javascript" id="d-js-jquery" src="https://static.cdn-website.com/libs/jquery/jquery-3.7.0.min.js"></script>
+    <!-- End Load jQuery -->
+<!-- Injecting site-wide before scripts -->
+<!-- End Injecting site-wide to the head -->
+
+
+<script>
+    var _jquery = window.$;
+
+    var jqueryAliases = ['$', 'jquery', 'jQuery'];
+
+    jqueryAliases.forEach((alias) => {
+        Object.defineProperty(window, alias, {
+            get() {
+                return _jquery;
+            },
+            set() {
+                console.warn("Trying to over-write the global jquery object!");
+            }
+        });
+    });
+    window.jQuery.migrateMute = true;
+</script>
+<script type="text/javascript">
+    window.popups =
+    [{"title":"INTEREST FORM","url":"/interest-form","options":{"backgroundColor":"#FFFFFF","borderRadius":"5","width":"914","overlayColor":"rgba(0, 0, 0, 0.5)","height":"1240","animation":"fadeIn"},"name":"interest-form"},{"title":"GET IN TOUCH","url":"/get-in-touch","options":{"backgroundColor":"#FFFFFF","borderRadius":"5","width":"902","overlayColor":"rgba(0, 0, 0, 0.5)","height":"1260","animation":"fadeIn"},"name":"get-in-touch"},{"title":"Centre Tour Interest Form","url":"/find-out-more","options":{"backgroundColor":"#FFFFFF","borderRadius":"5","width":"580.0152499999998","overlayColor":"rgba(0, 0, 0, 0.5)","height":"598","animation":"fadeIn"},"name":"find-out-more"}]</script>
+<script>
+    window.cookiesNotificationMarkupPreview = 'null';
+</script>
+
+<!-- HEAD RT JS Include -->
+<script id="d-js-params">
+    window.INSITE = window.INSITE || {};
+    window.INSITE.device = "desktop";
+
+    window.rtCommonProps = {};
+    rtCommonProps["rt.ajax.ajaxScriptsFix"] =true;
+    rtCommonProps["rt.pushnotifs.sslframe.encoded"] = 'aHR0cHM6Ly97c3ViZG9tYWlufS5wdXNoLW5vdGlmcy5jb20=';
+    rtCommonProps["runtimecollector.url"] = 'https://rtc.multiscreensite.com';
+    rtCommonProps["performance.tabletPreview.removeScroll"] = 'false';
+    rtCommonProps["inlineEditGrid.snap"] =true;
+    rtCommonProps["popup.insite.cookie.ttl"] = '0.5';
+    rtCommonProps["rt.pushnotifs.force.button"] =true;
+    rtCommonProps["common.mapbox.token"] = 'pk.eyJ1IjoiZGFubnliMTIzIiwiYSI6ImNqMGljZ256dzAwMDAycXBkdWxwbDgzeXYifQ.Ck5P-0NKPVKAZ6SH98gxxw';
+    rtCommonProps["common.mapbox.js.override"] =false;
+    rtCommonProps["common.here.appId"] = 'iYvDjIQ2quyEu0rg0hLo';
+    rtCommonProps["common.here.appCode"] = '1hcIxLJcbybmtBYTD9Z1UA';
+    rtCommonProps["isCoverage.test"] =false;
+    rtCommonProps["ecommerce.ecwid.script"] = 'https://app.multiscreenstore.com/script.js';
+    rtCommonProps["feature.flag.mappy.kml"] =false;
+    rtCommonProps["common.resources.dist.cdn"] =true;
+    rtCommonProps["common.build.dist.folder"] = 'production/4314';
+    rtCommonProps["common.resources.cdn.host"] = 'https://static.cdn-website.com';
+    rtCommonProps["common.resources.folder"] = 'https://static.cdn-website.com/mnlt/production/4314';
+    rtCommonProps["feature.flag.runtime.backgroundSlider.preload.slowly"] =true;
+    rtCommonProps["feature.flag.runtime.photoswipe.fix"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.respectCssAnimationProps.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.jitAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.sites.google.analytics.gtag"] =true;
+    rtCommonProps["feature.flag.runOnReadyNewTask"] =true;
+    rtCommonProps["isAutomation.test"]=false;
+
+
+    
+    rtCommonProps['common.mapsProvider'] = 'mapbox';
+    
+    rtCommonProps['common.mapsProvider.version'] = '0.52.0';
+    rtCommonProps['common.geocodeProvider'] = 'here';
+    rtCommonProps['common.map.defaults.radiusSize'] = '1500';
+    rtCommonProps['common.map.defaults.radiusBg'] = 'rgba(255, 255, 255, 0.4)';
+    rtCommonProps['common.map.defaults.strokeColor'] = 'rgba(255, 255, 255, 1)';
+    rtCommonProps['common.map.defaults.strokeSize'] = '2';
+    rtCommonProps['server.for.resources'] = '';
+    rtCommonProps['feature.flag.lazy.widgets'] = true;
+    rtCommonProps['feature.flag.single.wow'] = false;
+    rtCommonProps['feature.flag.disallowPopupsInEditor'] = true;
+    rtCommonProps['feature.flag.mark.anchors'] = true;
+    rtCommonProps['captcha.public.key'] = '6LffcBsUAAAAAMU-MYacU-6QHY4iDtUEYv_Ppwlz';
+    rtCommonProps['captcha.invisible.public.key'] = '6LeiWB8UAAAAAHYnVJM7_-7ap6bXCUNGiv7bBPME';
+    rtCommonProps["images.sizes.small"] =160;
+    rtCommonProps["images.sizes.mobile"] =640;
+    rtCommonProps["images.sizes.tablet"] =1280;
+    rtCommonProps["images.sizes.desktop"] =1920;
+    rtCommonProps["modules.resources.cdn"] =true;
+    rtCommonProps["import.images.storage.imageCDN"] = 'https://lirp.cdn-website.com/';
+    rtCommonProps["facebook.api.version"] = '7.0';
+    rtCommonProps["feature.flag.runtime.inp.threshold"] =150;
+    rtCommonProps["feature.flag.performance.logs"] =true;
+    rtCommonProps["site.widget.form.captcha.type"] = 'g_recaptcha';
+    rtCommonProps["friendly.captcha.site.key"] = 'FCMGSQG9GVNMFS8K';
+
+    // feature flags that's used out of runtime module (in  legacy files)
+    rtCommonProps["site.runtime.video.background.ssr"] =true;
+
+    // no usages
+    rtCommonProps["run.imageCount.script.enabled"] =false;
+
+    window.rtFlags = {};
+    rtFlags["unsuspendEcwidStoreOnRuntime.enabled"] =true;
+    rtFlags["keyboard.navigation.enabled"] =true;
+    rtFlags["scripts.widgetCount.enabled"] =true;
+    rtFlags["maps.cookiebot.enabled"] =true;
+    rtFlags["ecom.ecwid.categoryPage.modifyLinks"] = true;
+    rtFlags["ecom.ecwidNewUrlStructure.enabled"] = false;
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.enabled"] = true;
+    rtFlags["ecom.ecwid.old.store.fix.facebook.share"] = true;
+    rtFlags["ecom.ecwid.fallBackInCaseLinksNotFound.enabled"] = true;
+    rtFlags["feature.flag.photo.gallery.exact.size"] =false;
+    rtFlags["new.store.fix.ecwid.back.bug"] =true;
+    rtFlags["facebook.runtime.widgets.upgrade"] =true;
+    rtFlags["ecom.ecwid.solve.url.modifications"] = true;
+    rtFlags["ecom.ecwid.configOptions"] = true;
+    rtFlags["geocode.search.localize"] =false;
+    rtFlags["feature.flag.runtime.newAnimation.asyncInit.setTimeout.enabled"] =false;
+    rtFlags["site.contact.form.fix.for.attribute"] =true;
+    rtFlags["contact.form.date.format.enabled"] = true;
+    rtFlags["twitter.heightLimit.enabled"] = true;
+    rtFlags["ecom.ecwid.fixTranslations.enabled"] = true;
+    rtFlags["runtime.load.script.native"]=true;
+    rtFlags["editor.classicHybrid.photogallery.fix"]=true;
+</script>
+<script src="https://static.cdn-website.com/mnlt/production/4314/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js" id="d-js-core"></script>
+<!-- End of HEAD RT JS Include -->
+<script src="https://static.cdn-website.com/mnlt/production/4314/_dm/s/rt/dist/scripts/d-js-jquery-migrate.min.js"></script>
+<script>
+
+$(window).bind("orientationchange", function (e) {
+    $.layoutManager.initLayout();
+    
+});
+$(document).resize(function () {
+    
+});
+</script>
+<script type="text/javascript" id="d_track_campaign">
+(function() {
+ 	var campaign = (/utm_campaign=([^&]*)/).exec(window.location.search);
+
+ 	if (campaign && campaign != null && campaign.length > 1) {
+ 		campaign = campaign[1];
+ 		document.cookie = "_dm_rt_campaign=" + campaign + ";expires=" + new Date().getTime() + 24*60*60*1000 + ";domain=" + window.location.hostname + ";path=/";
+ 	}
+}());
+</script>
+<script type="text/javascript">
+  var _dm_gaq = {};
+  var _gaq = _gaq || [];
+  var _dm_insite = [];
+</script>
+
+  
+<script type="text/javascript" id="d_track_sp">
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js","snowplow"));
+window.dmsnowplow  = window.snowplow;
+
+dmsnowplow('newTracker', 'cf', 'd32hwlnfiv2gyn.cloudfront.net', { // Initialise a tracker
+  appId: 'bcf6e8b7'
+});
+
+// snowplow queries element styles so we wait until CSS calculations are done.
+requestAnimationFrame(() => {
+	dmsnowplow('trackPageView');
+	_dm_insite.forEach((rule) => {
+		// Specifically in popup only the client knows if it is shown or not so we don't always want to track its impression here
+		// the tracking is in popup.js
+		if (rule.actionName !== "popup") {
+			dmsnowplow('trackStructEvent', 'insite', 'impression', rule.ruleType, rule.ruleId);
+		}
+		window?.waitForDeferred?.('dmAjax', () => {
+			$.DM.events.trigger('event-ruleTriggered', {value: rule});
+		});
+	});
+});
+</script>
+   <div style="display:none;" id="P6iryBW0Wu"></div>
+
+<!-- photoswipe markup -->
+
+
+
+
+
+
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<div id="fb-root" data-locale="en"></div>
+<!-- Alias: bcf6e8b7 -->
+<div class="dmPopupMask" id="dmPopupMask"></div>
+<div id="dmPopup" class="dmPopup">
+	<div class="dmPopupCloseWrapper"> <div class="dmPopupClose dm-common-icons-close oneIcon" onclick="dmHidePopup(event);"></div> </div>
+ 	<div class="dmPopupTitle"> <span></span> Share by:</div> 
+	<div class="data"></div>
+</div><script id="d_track_personalization">
+	window?.waitForDeferred?.('dmAjax', () => {
+		// Collects client data and updates cookies used by smart sites
+		window.expireDays = 365;
+		window.visitLength = 30 * 60000;
+		$.setCookie("dm_timezone_offset", (new Date()).getTimezoneOffset(), window.expireDays);
+			setSmartSiteCookiesInternal("dm_this_page_view","dm_last_page_view","dm_total_visits","dm_last_visit");
+	});
+</script>
+<script type="text/javascript">
+    
+    Parameters.NavigationAreaParams.MoreButtonText = 'MORE';
+    
+    Parameters.NavigationAreaParams.LessButtonText = 'LESS';
+    Parameters.HomeLinkText = 'Home';
+    </script>
+<!--  End Script tags -->
+
+<!--  Begin Body End Markup -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5SHD36"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!--  End Body End Markup -->
+
+<!--  Site Wide Html Markup -->
+<!--  Site Wide Html Markup -->
+
+
+<script type="text/javascript" id="" src="https://cdn.pagesense.io/js/heroesofdigital/cbfab9e4d99145f497839935745449d3.js"></script></body></html>

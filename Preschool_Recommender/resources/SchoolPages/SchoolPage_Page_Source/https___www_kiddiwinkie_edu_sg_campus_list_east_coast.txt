@@ -1,0 +1,2095 @@
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class=" js"><head><style>.ssQIHO-checkbox-menu-item>span>span{background-color:#000;display:inline-block}@media (forced-colors:active),(prefers-contrast:more){.ssQIHO-checkbox-menu-item>span>span{background-color:ButtonText}}
+</style><style>.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}.gm-style .gm-style-mtc ul,.gm-style .gm-style-mtc li{-webkit-box-sizing:border-box;box-sizing:border-box}.gm-style-mtc-bbw{display:-webkit-box;display:-webkit-flex;display:flex}.gm-style-mtc-bbw .gm-style-mtc:first-of-type>button{border-start-start-radius:2px;border-end-start-radius:2px}.gm-style-mtc-bbw .gm-style-mtc:last-of-type>button{border-start-end-radius:2px;border-end-end-radius:2px}sentinel{}
+</style><style>.LGLeeN-keyboard-shortcuts-view{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex}.LGLeeN-keyboard-shortcuts-view table,.LGLeeN-keyboard-shortcuts-view tbody,.LGLeeN-keyboard-shortcuts-view td,.LGLeeN-keyboard-shortcuts-view tr{background:inherit;border:none;margin:0;padding:0}.LGLeeN-keyboard-shortcuts-view table{display:table}.LGLeeN-keyboard-shortcuts-view tr{display:table-row}.LGLeeN-keyboard-shortcuts-view td{-moz-box-sizing:border-box;box-sizing:border-box;display:table-cell;color:#000;padding:6px;vertical-align:middle;white-space:nowrap}.LGLeeN-keyboard-shortcuts-view td:first-child{text-align:end}.LGLeeN-keyboard-shortcuts-view td kbd{background-color:#e8eaed;border-radius:2px;border:none;-moz-box-sizing:border-box;box-sizing:border-box;color:inherit;display:inline-block;font-family:Google Sans Text,Roboto,Arial,sans-serif;line-height:16px;margin:0 2px;min-height:20px;min-width:20px;padding:2px 4px;position:relative;text-align:center}
+</style><style>.gm-control-active>img{-webkit-box-sizing:content-box;box-sizing:content-box;display:none;left:50%;pointer-events:none;position:absolute;top:50%;-webkit-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.gm-control-active>img:nth-child(1){display:block}.gm-control-active:focus>img:nth-child(1),.gm-control-active:hover>img:nth-child(1),.gm-control-active:active>img:nth-child(1),.gm-control-active:disabled>img:nth-child(1){display:none}.gm-control-active:focus>img:nth-child(2),.gm-control-active:hover>img:nth-child(2){display:block}.gm-control-active:active>img:nth-child(3){display:block}.gm-control-active:disabled>img:nth-child(4){display:block}sentinel{}
+</style><link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400&amp;lang=en"><link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google+Sans+Text:400&amp;text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&amp;lang=en"><style>.gm-ui-hover-effect{opacity:.6}.gm-ui-hover-effect:hover{opacity:1}.gm-ui-hover-effect>span{background-color:#000}@media (forced-colors:active),(prefers-contrast:more){.gm-ui-hover-effect>span{background-color:ButtonText}}sentinel{}
+</style><style>.gm-style .gm-style-cc a,.gm-style .gm-style-cc button,.gm-style .gm-style-cc span,.gm-style .gm-style-mtc div{font-size:10px;-webkit-box-sizing:border-box;box-sizing:border-box}.gm-style .gm-style-cc a,.gm-style .gm-style-cc button,.gm-style .gm-style-cc span{outline-offset:3px}sentinel{}
+</style><style>@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style>.gm-style-moc{background-color:rgba(0,0,0,.45);pointer-events:none;text-align:center;-webkit-transition:opacity ease-in-out;transition:opacity ease-in-out}.gm-style-mot{color:white;font-family:Roboto,Arial,sans-serif;font-size:22px;margin:0;position:relative;top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%)}sentinel{}
+</style><style>.gm-style img{max-width: none;}.gm-style {font: 400 11px Roboto, Arial, sans-serif; text-decoration: none;}</style>
+      <!-- Google Tag Manager -->
+      <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-11464022261&amp;l=dataLayer&amp;cx=c"></script><script src="https://connect.facebook.net/signals/config/736279291167738?v=2.9.151&amp;r=stable&amp;domain=www.kiddiwinkie.edu.sg&amp;hme=8ce74e881727851b4427183947937854816d72704925561b9de6420cd43214ee&amp;ex_m=66%2C111%2C98%2C102%2C57%2C3%2C92%2C65%2C15%2C90%2C83%2C48%2C50%2C157%2C160%2C171%2C167%2C168%2C170%2C28%2C93%2C49%2C72%2C169%2C152%2C155%2C164%2C165%2C172%2C120%2C14%2C47%2C176%2C175%2C122%2C17%2C32%2C36%2C1%2C40%2C61%2C62%2C63%2C67%2C87%2C16%2C13%2C89%2C86%2C85%2C99%2C101%2C35%2C100%2C29%2C25%2C153%2C156%2C129%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C53%2C58%2C60%2C70%2C94%2C26%2C71%2C8%2C7%2C75%2C45%2C20%2C96%2C95%2C9%2C19%2C18%2C77%2C82%2C44%2C43%2C81%2C37%2C39%2C80%2C52%2C78%2C31%2C41%2C34%2C69%2C0%2C88%2C4%2C84%2C76%2C79%2C2%2C33%2C59%2C38%2C97%2C42%2C74%2C64%2C103%2C56%2C55%2C30%2C91%2C54%2C51%2C46%2C73%2C68%2C23%2C104" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MWIzOGRhOGZjMQ.js" data-id="CBP15LRC77UB6N07UA90"></script><script src="https://js.hs-banner.com/v2/6034113/banner.js" type="text/javascript" id="cookieBanner-6034113" data-cookieconsent="ignore" data-hs-ignore="true" data-loader="hs-scriptloader" data-hsjs-portal="6034113" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script src="https://js.hs-analytics.net/analytics/1711770900000/6034113.js" type="text/javascript" id="hs-analytics"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CBP15LRC77UB6N07UA90&amp;lib=ttq"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" id="a30132285560b88d6e6e" async="" src="https://cdn.brand-display.com/tr/knx115469/a30132285560b88d6e6ec211bc5efc27594c6a83.js?v1=%%CONTENT_IDS%%&amp;v2=%%CONTENT_CATEGORY%%&amp;v3=%%CONTENT_NAME%%&amp;v4=%%NUM_ITEMS%%&amp;v5=%%SEARCH_STRING%%&amp;v6=%%VALUE%%&amp;v7=%%CURRENCY%%&amp;v8=%%STATUS%%&amp;_t=1711771012642"></script><script id="spcloader" type="text/javascript" async="" src="https://sdk.privacy-center.org/82e3b1e3-89dd-4a25-937a-674e52d6a3cb/loader.js?target=www.kiddiwinkie.edu.sg" charset="utf-8"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-58FM36S"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-K3HKVFN"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-K3HKVFN');</script>
+      <!-- End Google Tag Manager -->
+      <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-58FM36S');</script>
+      <!-- End Google Tag Manager -->
+
+    <meta name="google-site-verification" content="w-3Rcw4zDuAG-N-nMcHA-DIaz7Nc57-WQjtmjcO7KmI">
+          <meta charset="utf-8">
+<noscript><meta http-equiv="Refresh" content="0; URL=/big_pipe/no-js?destination=/campus-list/east-coast" />
+</noscript><script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"SG","siteName":"KiddiWinkie Schoolhouse","entityUid":"1","entityType":"node","entityBundle":"nursery","entityId":"288","entityTitle":"East Coast","entityTaxonomy":{"tags":{"2":"EDUCATION","3":"CENTRE ACTIVITIES"}},"userUid":0});</script>
+<link rel="canonical" href="https://www.kiddiwinkie.edu.sg/campus-list/east-coast">
+<link rel="image_src" href="https://www.kiddiwinkie.edu.sg/sites/default/files/styles/large/public/2024-02/Music%20Area_2.jpg?itok=7t4AJIaj">
+<meta name="description" content="Embark on a journey of exploration at our preschool nestled in the heart of the East, where the experience brings you closer to nature and fosters a sense of growth and curiosity. Our nature-inspired centre embraces the outdoors, offering an immersive environment that captures the essence of a garden. Here at KiddiWinkie Schoolhouse @ East Coast, children are encouraged to connect with their surroundings, bringing the learning experience beyond the confines of classrooms.">
+<meta property="og:site_name" content="KiddiWinkie Schoolhouse">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.kiddiwinkie.edu.sg/campus-list/east-coast">
+<meta property="og:title" content="East Coast">
+<meta property="og:description" content="Embark on a journey of exploration at our preschool nestled in the heart of the East, where the experience brings you closer to nature and fosters a sense of growth and curiosity. Our nature-inspired centre embraces the outdoors, offering an immersive environment that captures the essence of a garden. Here at KiddiWinkie Schoolhouse @ East Coast, children are encouraged to connect with their surroundings, bringing the learning experience beyond the confines of classrooms.">
+<meta property="og:image" content="https://www.kiddiwinkie.edu.sg/sites/default/files/styles/large/public/2024-02/Music%20Area_2.jpg?itok=7t4AJIaj">
+<meta property="og:image:url" content="https://www.kiddiwinkie.edu.sg/sites/default/files/styles/large/public/2024-02/Music%20Area_2.jpg?itok=7t4AJIaj">
+<meta property="article:published_time" content="2021-11-19T15:33:50+0800">
+<meta property="article:modified_time" content="2024-03-28T10:33:53+0800">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Embark on a journey of exploration at our preschool nestled in the heart of the East, where the experience brings you closer to nature and fosters a sense of growth and curiosity. Our nature-inspired centre embraces the outdoors, offering an immersive environment that captures the essence of a garden. Here at KiddiWinkie Schoolhouse @ East Coast, children are encouraged to connect with their surroundings, bringing the learning experience beyond the confines of classrooms.">
+<meta name="twitter:title" content="East Coast">
+<meta name="twitter:creator" content="@babilou">
+<meta name="twitter:url" content="https://www.kiddiwinkie.edu.sg/campus-list/east-coast">
+<meta name="twitter:image" content="https://www.kiddiwinkie.edu.sg/sites/default/files/styles/large/public/2024-02/Music%20Area_2.jpg?itok=7t4AJIaj">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="/sites/default/files/KW%20Socials%20Logo.png" type="image/png">
+<link rel="alternate" hreflang="en" href="https://www.kiddiwinkie.edu.sg/campus-list/east-coast">
+<link rel="revision" href="https://www.kiddiwinkie.edu.sg/campus-list/east-coast">
+
+    <title>East Coast | KiddiWinkie Schoolhouse</title>
+    <link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/controlgroup.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/checkboxradio.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/resizable.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/button.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/dialog.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/ajax-progress.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/autocomplete-loading.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tabledrag.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/modules/contrib/responsive_table_filter/css/responsive-table-filter.css?sb05qw">
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/css/webform.form.css?sb05qw">
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/css/webform.element.details.toggle.css?sb05qw">
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/css/webform.element.message.css?sb05qw">
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?sb05qw">
+<link rel="stylesheet" media="all" href="/modules/contrib/anchor_link/css/anchor_link.css?sb05qw">
+<link rel="stylesheet" media="all" href="/modules/contrib/office_hours/css/office_hours.css?sb05qw">
+<link rel="stylesheet" media="all" href="/themes/custom/jv/assets/css/messages.css?sb05qw">
+<link rel="stylesheet" media="all" href="/themes/custom/jv/assets/css/toolbar.css?sb05qw">
+<link rel="stylesheet" media="all" href="/themes/custom/bab/assets/css/critical.css?sb05qw">
+<link rel="stylesheet" media="all" href="/themes/custom/bab/assets/css/common.css?sb05qw">
+<link rel="stylesheet" media="all" href="/themes/custom/bab/assets/css/features.css?sb05qw">
+<link rel="stylesheet" media="all" href="/themes/custom/bab/assets/css/ie11.css?sb05qw">
+<link rel="stylesheet" media="all" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
+<link rel="stylesheet" media="all" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+<link rel="stylesheet" media="all" href="/themes/custom/bab/assets/css/main.css?sb05qw">
+<link rel="stylesheet" media="all" href="/themes/custom/bab/assets/css/custom_css.css?sb05qw">
+<link rel="stylesheet" media="all" href="/themes/custom/bab/assets/css/slider.css?sb05qw">
+<link rel="stylesheet" media="all" href="/themes/custom/bab/assets/css/colorbox.css?sb05qw">
+
+    
+    <script type="text/javascript">
+      window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+      else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+      var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+      if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+      var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("82e3b1e3-89dd-4a25-937a-674e52d6a3cb")})();
+    </script>
+<script type="text/javascript">
+
+(function() {
+
+  var encode = window.encodeURIComponent;
+
+  var ka = document.createElement('script');
+
+  ka.type = 'text/javascript';
+
+  ka.id = 'a30132285560b88d6e6e';
+
+  ka.async = true;
+
+  ka.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//cdn.brand-display.com/tr/knx115469/a30132285560b88d6e6ec211bc5efc27594c6a83.js?v1=%%CONTENT_IDS%%&v2=%%CONTENT_CATEGORY%%&v3=%%CONTENT_NAME%%&v4=%%NUM_ITEMS%%&v5=%%SEARCH_STRING%%&v6=%%VALUE%%&v7=%%CURRENCY%%&v8=%%STATUS%%&_t=' + new Date().getTime();
+
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ka, s);
+
+})();
+
+</script>
+<style>
+.faq-contact-confirm-form .title-content:after {
+    background: url(/sites/default/files/2024-03/kiddihappy.png) no-repeat !important;
+    content: '';
+    display: block;
+    width: 255px;
+    height: 127px;
+    background-size: contain !important;
+}
+
+.path-node-228 .image-slider .slick-list .slick-track {
+width:100vw !important;
+transform: translate3d(0, 0, 0)!important;
+justify-content:center;
+}
+</style> 
+  <script type="text/javascript" async="" src="https://sdk.privacy-center.org/sdk/e6f9f80fe8cc8a77f24c2975076fb8b791b20d15/modern/sdk.e6f9f80fe8cc8a77f24c2975076fb8b791b20d15.js" charset="utf-8"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/6/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/6/util.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/6/map.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/6/marker.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/6/onion.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps/vt?pb=!1m4!1m3!1i16!2i51683!3i32528!1m4!1m3!1i16!2i51683!3i32529!1m4!1m3!1i16!2i51683!3i32530!1m4!1m3!1i16!2i51684!3i32528!1m4!1m3!1i16!2i51684!3i32529!1m4!1m3!1i16!2i51685!3i32528!1m4!1m3!1i16!2i51685!3i32529!1m4!1m3!1i16!2i51684!3i32530!1m4!1m3!1i16!2i51685!3i32530!2m3!1e4!2st!3i686!2m3!1e0!2sr!3i686431601!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjR8cy5lOmwuaXxwLnY6b24!4e3!12m1!5b1&amp;callback=_xdc_._eqtffe&amp;key=AIzaSyC1BL1JGQ22-J_qTEW51rfuGK02IscxthE&amp;token=81744"></script><script charset="utf-8" src="https://analytics.tiktok.com/i18n/pixel/static/identify_05ea2.js"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/6/controls.js"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+  <body class="path-node-288 path-node page-node-type-nursery"><div id="didomi-host" data-nosnippet="true" aria-hidden="true"></div><iframe name="__tcfapiLocator" title="__tcfapiLocator" style="display: none;"></iframe>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3HKVFN"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58FM36S"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-MD5W1S20VC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-74238454-1');
+  gtag('config', 'G-MD5W1S20VC');
+</script>
+
+
+
+        <div class="outer-wrap" id="top">
+      
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'off_canvas_page_wrapper' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page' -->
+<!-- FILE NAME SUGGESTIONS:
+   * page--node--nursery.html.twig
+   * page--node--288.html.twig
+   * page--node--%.html.twig
+   * page--node.html.twig
+   x page.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/page/page.html.twig' -->
+
+
+
+
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   x region--header.html.twig
+   * region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/system/region--header.html.twig' -->
+<meta name="google-site-verification" content="w-3Rcw4zDuAG-N-nMcHA-DIaz7Nc57-WQjtmjcO7KmI">
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-74238454-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){window.dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-74238454-1');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-MD5W1S20VC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-74238454-1');
+  gtag('config', 'G-MD5W1S20VC');
+</script>
+
+        <header>
+        <nav class="navbar navbar-expand-xl fixed-top navbar-light bg-light">
+            <div class="container">
+                <a class="navbar-brand" href="https://www.kiddiwinkie.edu.sg/">
+                    <img src="https://www.kiddiwinkie.edu.sg/sites/default/files/my_files/KW-New-Logo-1_0.png " width="294" alt="Kiddie Winkie logo">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                   
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--system-menu-block:main--entitynodecanonical.html.twig
+   * block--bab-main-menu-burger.html.twig
+   x block--system-menu-block--main.html.twig
+   * block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/block/block--system-menu-block--main.html.twig' -->
+<nav role="navigation" aria-labelledby="block-bab-main-menu-burger-menu" class="block-bab-main-menu-burger navbar-nav ms-auto mb-2 mb-lg-0">
+
+  
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__main' -->
+<!-- FILE NAME SUGGESTIONS:
+   x menu--main.html.twig
+   x menu--main.html.twig
+   * menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/system/menu--main.html.twig' -->
+
+              <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+    
+          <li class="nav-item dropdown ui-add-image-icon">
+  
+                            <a href="/our-curriculum" class="nav-link" title="" data-drupal-link-system-path="node/90">
+         OUR CURRICULUM
+         
+          </a>
+                                        <ul class="dropdown-menu">
+    
+          <li class="nav-item dropdown">
+  
+                            <a href="/our-curriculum/infant-care" class="dropdown-item" title="" data-drupal-link-system-path="node/154">             
+             Infant Care (2 to 17 months)
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/our-curriculum/early-preschool-years" class="dropdown-item" title="" data-drupal-link-system-path="node/189">             
+             Early &amp; Preschool Years (18 months to 6 years old)
+             
+          </a>
+                
+      </li>
+            </ul>
+  
+          <span class="ui-menu-hover"><img src="https://www.kiddiwinkie.edu.sg/themes/custom/bab/assets/images/dropdown_down_arrow.svg" alt=""></span>
+        
+      </li>
+          <li class="nav-item dropdown ui-add-image-icon">
+  
+                            <a href="/centres-list" class="nav-link" title="" data-drupal-link-system-path="centres-list">
+         OUR CENTRES
+         
+          </a>
+                                        <ul class="dropdown-menu">
+    
+          <li class="nav-item dropdown">
+  
+                            <a href="/campus-list/cactus-yio-chu-kang" class="dropdown-item" title="" data-drupal-link-system-path="node/193">             
+             Cactus (Yio Chu Kang)
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/campus-list/east-coast" class="dropdown-item is-active" title="" data-drupal-link-system-path="node/288">             
+             East Coast
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/campus-list/harbourfront" class="dropdown-item" title="" data-drupal-link-system-path="node/87">             
+             Harbourfront
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/campus-list/jurong-gateway" class="dropdown-item" title="" data-drupal-link-system-path="node/262">             
+             Jurong Gateway
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/campus-list/katong" class="dropdown-item" title="" data-drupal-link-system-path="node/80">             
+             Katong
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/campus-list/macritchie-park" class="dropdown-item" title="" data-drupal-link-system-path="node/81">             
+             MacRitchie Park
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/campus-list/mountbatten" class="dropdown-item" title="" data-drupal-link-system-path="node/289">             
+             Mountbatten
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/campus-list/newton" class="dropdown-item" title="" data-drupal-link-system-path="node/82">             
+             Newton
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/campus-list/novena" class="dropdown-item" title="" data-drupal-link-system-path="node/83">             
+             Novena
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/campus-list/upper-bukit-timah" class="dropdown-item" title="" data-drupal-link-system-path="node/86">             
+             Upper Bukit Timah
+             
+          </a>
+                
+      </li>
+            </ul>
+  
+          <span class="ui-menu-hover"><img src="https://www.kiddiwinkie.edu.sg/themes/custom/bab/assets/images/dropdown_down_arrow.svg" alt=""></span>
+        
+      </li>
+          <li class="nav-item dropdown ui-add-image-icon">
+  
+                            <a href="/admission-info-fees" class="nav-link" title="" data-drupal-link-system-path="node/156">
+          ADMISSION INFO &amp; FEES
+         
+          </a>
+                                        <ul class="dropdown-menu">
+    
+          <li class="nav-item dropdown">
+  
+                            <a href="/admission-info-fees#school_fee" class="dropdown-item" title="" data-drupal-link-system-path="node/156">             
+             School Fees
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/admission-info-fees#childcare_subsidies" class="dropdown-item" title="" data-drupal-link-system-path="node/156">             
+             Subsidies
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="https://kiddiwinkie.edu.sg/frequently-asked-questions" class="dropdown-item" title="">             
+             FAQ
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/admission-info-fees#corporate-partnerships" class="dropdown-item" title="" data-drupal-link-system-path="node/156">             
+             Corporate Partnerships
+             
+          </a>
+                
+      </li>
+            </ul>
+  
+          <span class="ui-menu-hover"><img src="https://www.kiddiwinkie.edu.sg/themes/custom/bab/assets/images/dropdown_down_arrow.svg" alt=""></span>
+        
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/blog" class="nav-link" title="" data-drupal-link-system-path="blog">
+         BLOG
+         
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown ui-add-image-icon">
+  
+                            <a href="/contact-us" class="nav-link" title="" data-drupal-link-system-path="webform/contact_us">
+         CONTACT US
+         
+          </a>
+                                        <ul class="dropdown-menu">
+    
+          <li class="nav-item dropdown">
+  
+                            <a href="https://babilou-family.sg/" class="dropdown-item" title="">             
+             Careers
+             
+          </a>
+                
+      </li>
+            </ul>
+  
+          <span class="ui-menu-hover"><img src="https://www.kiddiwinkie.edu.sg/themes/custom/bab/assets/images/dropdown_down_arrow.svg" alt=""></span>
+        
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/book-a-tour" class="book_tour__link nav-link" title="" data-drupal-link-system-path="webform/book_a_tour">
+         BOOK A TOUR
+         
+          </a>
+                
+      </li>
+            <li class="nav-item ps-1">
+      <a class="nav-link call__link d-flex justify-content-center align-items-center" href="tel:+6568171394" title="+6568171394">
+          <img src="https://www.kiddiwinkie.edu.sg/themes/custom/bab/assets/images/footer-call.svg" alt="Contact button">
+      </a>
+    </li>
+        </ul>
+  
+
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/system/menu--main.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/block/block--system-menu-block--main.html.twig' -->
+
+
+                </div>
+            </div>
+        </nav>
+    </header>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/system/region--header.html.twig' -->
+
+
+ 
+   <style>
+    .header_banner{
+          background-image: url('/sites/default/files/2024-02/Music%20Area_2.jpg');
+      }
+  </style>
+    <style>
+    @media (max-width: 767px){ 
+      .header_banner{
+          background-image: url('/sites/default/files/2024-03/Music%20Area%20-%201920x420.jpg');
+      }
+    }
+  </style>
+  <div class="header_banner kw__header_banner__blogs" style="">
+
+    <div class="container">
+        <h1 class="banner_title">East Coast </h1>
+    </div>
+</div>
+
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--navigation.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/system/region.html.twig' -->
+  <div class="region region--navigation">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--system-breadcrumb-block--entitynodecanonical.html.twig
+   * block--bab-breadcrumb.html.twig
+   * block--system-breadcrumb-block.html.twig
+   * block--system.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/block/block.html.twig' -->
+
+
+  
+        
+
+
+<div class="block-bab-breadcrumb system-breadcrumb-block">
+
+  
+    
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'breadcrumb' -->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/system/breadcrumb.html.twig' -->
+<!-- BREADCRUMB -->
+<nav aria-label="breadcrumb" class="breadcrumb_nav">
+    <div class="container">
+        <ol class="breadcrumb">
+                                    <li class="breadcrumb-item"><a href="/">Home</a></li>
+                                                <li class="breadcrumb-item active" aria-current="page">East Coast</li>
+                                </ol>  
+    </div>
+</nav>
+
+
+  
+  
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/system/breadcrumb.html.twig' -->
+
+
+  
+</div>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/block/block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/system/region.html.twig' -->
+
+
+
+
+
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--highlighted.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/system/region.html.twig' -->
+  <div class="region region--highlighted">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--system-messages-block--entitynodecanonical.html.twig
+   * block--bab-messages.html.twig
+   x block--system-messages-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/block--system-messages-block.html.twig' -->
+<div data-drupal-messages-fallback="" class="hidden"></div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/block--system-messages-block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/system/region.html.twig' -->
+
+
+
+  
+
+      <div class="layout-content">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--content.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/system/region.html.twig' -->
+  <div class="region region--content">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   * node--288--full.html.twig
+   * node--288.html.twig
+   x node--nursery--full.html.twig
+   * node--nursery.html.twig
+   * node--full.html.twig
+   * node.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/node/node--nursery--full.html.twig' -->
+
+
+
+<article role="article" class="nursery nursery--full">
+  <!--  page content start here -->
+  <div class="container">
+        <!-- CAMPUS DETAILS -->
+        <div class="campus_details">
+                        <div class="text_content editor-content-campus_details">
+               
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--node--nursery--body--full.html.twig
+   * field--nursery--body--full.html.twig
+   * field--node--body--full.html.twig
+   * field--node--nursery--full.html.twig
+   * field--nursery--full.html.twig
+   x field--node--body--nursery.html.twig
+   * field--node--body.html.twig
+   * field--node--nursery.html.twig
+   * field--full.html.twig
+   * field--node.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/field/field--node--body--nursery.html.twig' -->
+
+
+
+
+
+
+
+
+
+    
+            
+
+
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+    
+        
+                  
+      <div class="nursery__body"><p>Embark on a journey of exploration at our preschool nestled in the heart of the East, where the experience brings you closer to nature and fosters a sense of growth and curiosity. Our nature-inspired centre embraces the outdoors, offering an immersive environment that captures the essence of a garden. Here at KiddiWinkie Schoolhouse @ East Coast, children are encouraged to connect with their surroundings, bringing the learning experience beyond the confines of classrooms.<br>
+<br>
+Our thoughtfully crafted learning environments aim to engage both the intellect and the senses, nurturing a comprehensive educational experience. We seamlessly integrate sustainability into our curriculum, incorporating features like an outdoor Explorer Playland, Tricycle Trail, and a Nature Harvest that allows children to connect with plants, flowers and vegetables. Through the farm-to-plate journey, children develop a genuine appreciation for nature and gain insights into the origins of the food they consume.<br>
+<br>
+In the Melody Enclave, children have the freedom to express themselves through various instruments amidst the tranquillity of the outdoors. A Sensory Trail is incorporated to enhance their perceptual abilities, while the Reading Nest serves as a cosy retreat for literary exploration. Introducing a hands-on learning component, our Mud Kitchen encourages activities that foster creativity and provide experiential understanding.<br>
+<br>
+Our focus goes beyond nurturing academic growth. We aspire to lay the groundwork for a lifetime of curiosity and a commitment to the well-being of our planet. Come join us in cultivating a love for learning and forging a deep connection with the world around us here at our East Coast centre!</p>
+</div>
+  
+
+
+        
+  
+  
+
+
+
+
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/field/field--node--body--nursery.html.twig' -->
+
+
+            </div>
+            <!-- campust address div -->
+            <div class="campus_details__address">
+                <div class="row">
+                    <div class="col-lg-6 col-sm-12">
+                        <div class="d-flex align-items-center campus_details__item">
+                            <div class="d-flex align-items-center campus_details__address_item__key">
+                                <img src="/themes/custom/bab/assets/images/Address.png" alt="address">
+                                <label>Address:</label>
+                            </div>
+                            <p class="campus_details__address_item__value mb-0 nursery__address">
+                                                                511 East Coast Road,
+                                
+                                
+                                                                
+                                
+                                                                Singapore
+                                
+                                                                429064
+                                                                
+                            </p>
+                        </div>
+                        <div class="d-flex align-items-center campus_details__item">
+                            <div class="d-flex align-items-center campus_details__address_item__key">
+                                
+                                <img src="/themes/custom/bab/assets/images/Programme.svg" alt="Programme">
+                                <label>Programme:</label>
+                            </div>
+                            <p class="campus_details__address_item__value mb-0">
+                                Infant Care (2 to 17 months)<br>
+Early Years (18 months to 3 years)<br>
+Preschool Years (4 to 6 years)
+                            </p>
+                        </div>
+                        <div class="d-flex align-items-center campus_details__item">
+                            <div class="d-flex align-items-center campus_details__address_item__key">
+                            
+                                <img src="/themes/custom/bab/assets/images/Fees.svg" alt="Fees">
+                                <label>Fees:</label>
+                            </div>
+                            <p class="campus_details__address_item__value mb-0">
+                                Infant Care Full Day: $2,400<br>
+Infant Care Half Day: $2,000<br>
+Early Preschool Years Full Day: $2,000<br>
+Early Preschool Years Half Day: $1,800<br>
+*Fees exclude GST
+                            </p>
+                            <p class="campus_details_latitude" style="display:none;">
+                                1.309836
+                            </p>
+                             <p class="campus_details_longitude" style="display:none;">
+                                103.911371
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-sm-12">                        
+                        <div class="d-flex align-items-center campus_details__item">
+                            <div class="d-flex align-items-center campus_details__address_item__key">
+                                <img src="/themes/custom/bab/assets/images/principal_icon.svg" alt="Principal/ Centre Manager">
+                                <label>Principal/Centre Manager:</label>
+                            </div>
+                            <p class="campus_details__address_item__value mb-0">
+                                 Ms Lim Chong Peng
+                            </p>
+                        </div>
+                        <div class="d-flex align-items-center campus_details__item">
+                            <div class="d-flex align-items-center campus_details__address_item__key">
+                                <img src="/themes/custom/bab/assets/images/bus.svg" alt="Principal/ Centre Manager">
+                                <label>School Bus:</label>
+                            </div>
+                            <p class="campus_details__address_item__value mb-0">
+                                Not Available  
+                            </p>
+                        </div>
+                        <div class="d-flex align-items-center campus_details__item">
+                            <div class="d-flex align-items-center campus_details__address_item__key">
+                               <img src="/themes/custom/bab/assets/images/clock.svg" alt="clock">
+                                <label>Opening Hours:</label>
+                            </div>
+                            <p class="campus_details__address_item__value mb-0">
+                                
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--node--nursery--field-office-hours--full.html.twig
+   * field--nursery--field-office-hours--full.html.twig
+   * field--node--field-office-hours--full.html.twig
+   * field--node--nursery--full.html.twig
+   * field--nursery--full.html.twig
+   * field--node--field-office-hours--nursery.html.twig
+   * field--node--field-office-hours.html.twig
+   * field--node--nursery.html.twig
+   * field--full.html.twig
+   * field--node.html.twig
+   * field--field-office-hours.html.twig
+   * field--office-hours.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/field/field.html.twig' -->
+
+
+
+
+
+
+
+
+
+    
+            
+
+
+
+  
+  
+  
+  
+
+  
+  
+    
+                </p><div class="nursery__office-hours-item-list">
+    
+              
+      <div class="nursery__office-hours-item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'office_hours' -->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/node/office-hours.html.twig' -->
+<div class="office-hours">
+
+  
+          <div class="office-hours__item">
+        <span class="office-hours__item-label" style="width: 11.4em;">Monday - Friday:  &nbsp; </span>
+        <span class="office-hours__item-slots"> 7:00 am-7:00 pm</span>
+        <span class="office-hours__item-comments"></span>
+      </div>
+          <div class="office-hours__item">
+        <span class="office-hours__item-label" style="width: 11.4em;">Saturday - Sunday:  &nbsp; </span>
+        <span class="office-hours__item-slots"> Closed</span>
+        <span class="office-hours__item-comments"></span>
+      </div>
+    
+  
+  
+</div>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/node/office-hours.html.twig' -->
+
+</div>
+  
+
+      
+          </div>    
+
+  
+  
+
+
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/field/field.html.twig' -->
+
+
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- end campus address div -->
+        </div><!--end campus details class-->
+        
+                   <div class="campus_photos">
+            <div class="campus_photos__header">            
+                <h1 class="main_title">Campus photos</h1> 
+                              
+                <a target="_blank" href="https://maps.app.goo.gl/rzGMefxCY8S9ETg97" class="btn btn-primary view_btn">
+                    <img src="/themes/custom/bab/assets/images/globe.svg" alt="VIEW IN 360°">
+                    <span>VIEW IN 360°</span>
+                </a>
+                            </div>
+                       <div class="banner_slider">
+                <div id="carouselCampusPhotos" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-indicators">
+                                                    <button type="button" data-bs-target="#carouselCampusPhotos" data-bs-slide-to="0" class=" active " aria-label="Slide 0" aria-current="true"></button>
+                                                    <button type="button" data-bs-target="#carouselCampusPhotos" data-bs-slide-to="1" class="" aria-label="Slide 1" aria-current="true"></button>
+                                                    <button type="button" data-bs-target="#carouselCampusPhotos" data-bs-slide-to="2" class="" aria-label="Slide 2" aria-current="true"></button>
+                                                    <button type="button" data-bs-target="#carouselCampusPhotos" data-bs-slide-to="3" class="" aria-label="Slide 3" aria-current="true"></button>
+                                                    <button type="button" data-bs-target="#carouselCampusPhotos" data-bs-slide-to="4" class="" aria-label="Slide 4" aria-current="true"></button>
+                                                    <button type="button" data-bs-target="#carouselCampusPhotos" data-bs-slide-to="5" class="" aria-label="Slide 5" aria-current="true"></button>
+                                                    <button type="button" data-bs-target="#carouselCampusPhotos" data-bs-slide-to="6" class="" aria-label="Slide 6" aria-current="true"></button>
+                                                    <button type="button" data-bs-target="#carouselCampusPhotos" data-bs-slide-to="7" class="" aria-label="Slide 7" aria-current="true"></button>
+                                            </div>
+                    <div class="carousel-inner">
+
+                                              
+                        <div class="carousel-item   active  view360" id="view360">
+                          <img src="/sites/default/files/2024-02/CENTRAL%20STAGE%202%20FINAL.png" class="d-block w-100" alt="campus image">
+                        </div>
+                                              
+                        <div class="carousel-item   view360" id="view360">
+                          <img src="/sites/default/files/2024-02/Cook%20and%20Bake_0.jpg" class="d-block w-100" alt="campus image">
+                        </div>
+                                              
+                        <div class="carousel-item   view360" id="view360">
+                          <img src="/sites/default/files/2024-02/Cycling%20Track_0.jpg" class="d-block w-100" alt="campus image">
+                        </div>
+                                              
+                        <div class="carousel-item   view360" id="view360">
+                          <img src="/sites/default/files/2024-02/Mud%20Kitchen_0.jpg" class="d-block w-100" alt="campus image">
+                        </div>
+                                              
+                        <div class="carousel-item   view360" id="view360">
+                          <img src="/sites/default/files/2024-02/Music%20Area_0.jpg" class="d-block w-100" alt="campus image">
+                        </div>
+                                              
+                        <div class="carousel-item   view360" id="view360">
+                          <img src="/sites/default/files/2024-02/RECEPTION%201%20FINAL_0.png" class="d-block w-100" alt="campus image">
+                        </div>
+                                              
+                        <div class="carousel-item   view360" id="view360">
+                          <img src="/sites/default/files/2024-02/SLEEPING%20ROOM_0.png" class="d-block w-100" alt="campus image">
+                        </div>
+                                              
+                        <div class="carousel-item   view360" id="view360">
+                          <img src="/sites/default/files/2024-02/Water%20Marking%20Area_0.jpg" class="d-block w-100" alt="campus image">
+                        </div>
+                                            </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselCampusPhotos" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true">
+                            <img src="/themes/custom/bab/assets/images/left_arrow.svg" alt="left arrow">
+                        </span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselCampusPhotos" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true">
+                            <img src="/themes/custom/bab/assets/images/right_arrow.svg" alt="right arrow">
+                        </span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>
+            <div class="campus__gallery d-flex">
+
+                 
+                <img src="/sites/default/files/2024-02/CENTRAL%20STAGE%202%20FINAL.png" data-bs-target="#carouselCampusPhotos" data-bs-slide-to="0" class=" active " aria-label="Slide 0" aria-current="true" alt="school">
+                 
+                <img src="/sites/default/files/2024-02/Cook%20and%20Bake_0.jpg" data-bs-target="#carouselCampusPhotos" data-bs-slide-to="1" class="" aria-label="Slide 1" aria-current="true" alt="school">
+                 
+                <img src="/sites/default/files/2024-02/Cycling%20Track_0.jpg" data-bs-target="#carouselCampusPhotos" data-bs-slide-to="2" class="" aria-label="Slide 2" aria-current="true" alt="school">
+                 
+                <img src="/sites/default/files/2024-02/Mud%20Kitchen_0.jpg" data-bs-target="#carouselCampusPhotos" data-bs-slide-to="3" class="" aria-label="Slide 3" aria-current="true" alt="school">
+                 
+                <img src="/sites/default/files/2024-02/Music%20Area_0.jpg" data-bs-target="#carouselCampusPhotos" data-bs-slide-to="4" class="" aria-label="Slide 4" aria-current="true" alt="school">
+                 
+                <img src="/sites/default/files/2024-02/RECEPTION%201%20FINAL_0.png" data-bs-target="#carouselCampusPhotos" data-bs-slide-to="5" class="" aria-label="Slide 5" aria-current="true" alt="school">
+                 
+                <img src="/sites/default/files/2024-02/SLEEPING%20ROOM_0.png" data-bs-target="#carouselCampusPhotos" data-bs-slide-to="6" class="" aria-label="Slide 6" aria-current="true" alt="school">
+                 
+                <img src="/sites/default/files/2024-02/Water%20Marking%20Area_0.jpg" data-bs-target="#carouselCampusPhotos" data-bs-slide-to="7" class="" aria-label="Slide 7" aria-current="true" alt="school">
+                            
+            </div>
+                    </div>
+  
+        <!-- start campus videos -->
+    
+
+        <!-- end campus videos -->
+        <!-- start campus directions -->
+        <div class="campus_direction">
+            <h1 class="main_title">How to get there</h1>
+            <div class="row">
+
+            <div class="col-lg-4 col-sm-6 col-xs-12 primary_link">
+                    <div class="campus_direction__content">
+                        <h3 class="campus_direction__title">Nearest MRT</h3>
+                                                <div class="campus_direction__text">
+                            Eunos (Stop ID: EW7)
+                        </div>
+                                            </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-xs-12 primary_link">
+                    <div class="campus_direction__content">
+                        <h3 class="campus_direction__title">Bus Services</h3>
+                                                <div class="campus_direction__text">
+                            10, 10e, 12, 14, 14e, 32, 40, 135, 155 (Alight @ Nafa Arts Kindergarten)
+                        </div>
+                                            </div>
+                </div>
+
+                <div class="col-lg-4 col-sm-6 col-xs-12 primary_link">
+                    <div class="campus_direction__content">
+                        <h3 class="campus_direction__title">Nearest Highway</h3>
+                                                <div class="campus_direction__text">
+                            ECP
+                        </div>
+                                           </div>
+                </div>
+
+
+               
+            </div>
+                        <div class="campus_direction__map">
+                 
+  <div class="nursery__localisation ">
+    <h2 class="nursery__localisation-title">Location</h2>
+    <!--<img src="https://maps.googleapis.com/maps/api/staticmap?center=1.309836,103.911371&zoom=13&size=300x300&maptype=roadmap&key=AIzaSyC1BL1JGQ22-J_qTEW51rfuGK02IscxthE">-->
+
+    <div class="nursery-map gmap" data-icon-nursery="/themes/custom/bab/assets/img/map/marker-nursery.png" data-icon-daycare="/themes/custom/bab/assets/img/map/marker-daycare.png" style="position: relative; overflow: hidden;"><div style="height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223);"><div><button draggable="false" aria-label="Keyboard shortcuts" title="Keyboard shortcuts" type="button" style="background: none transparent; display: block; border: none; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: absolute; cursor: pointer; user-select: none; z-index: 1000002; outline-offset: 3px; right: 0px; bottom: 0px; transform: translateX(100%);"></button></div><div tabindex="0" aria-label="Map" aria-roledescription="map" role="region" aria-describedby="BF40386C-2A9F-40CA-863A-60D9D8168AC9" style="position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px;"><div id="BF40386C-2A9F-40CA-863A-60D9D8168AC9" style="display: none;"><div class="LGLeeN-keyboard-shortcuts-view"><table><tbody><tr><td><kbd aria-label="Left arrow">←</kbd></td><td aria-label="Move left.">Move left</td></tr><tr><td><kbd aria-label="Right arrow">→</kbd></td><td aria-label="Move right.">Move right</td></tr><tr><td><kbd aria-label="Up arrow">↑</kbd></td><td aria-label="Move up.">Move up</td></tr><tr><td><kbd aria-label="Down arrow">↓</kbd></td><td aria-label="Move down.">Move down</td></tr><tr><td><kbd>+</kbd></td><td aria-label="Zoom in.">Zoom in</td></tr><tr><td><kbd>-</kbd></td><td aria-label="Zoom out.">Zoom out</td></tr><tr><td><kbd>Home</kbd></td><td aria-label="Jump left by 75%.">Jump left by 75%</td></tr><tr><td><kbd>End</kbd></td><td aria-label="Jump right by 75%.">Jump right by 75%</td></tr><tr><td><kbd>Page Up</kbd></td><td aria-label="Jump up by 75%.">Jump up by 75%</td></tr><tr><td><kbd>Page Down</kbd></td><td aria-label="Jump down by 75%.">Jump down by 75%</td></tr></tbody></table></div></div></div><div class="gm-style" style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px;"><div style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; cursor: url(&quot;https://maps.gstatic.com/mapfiles/openhand_8_8.cur&quot;), default; touch-action: pan-x pan-y;"><div style="z-index: 1; position: absolute; left: 50%; top: 50%; width: 100%; will-change: transform; transform: translate(0px, 0px);"><div style="position: absolute; left: 0px; top: 0px; z-index: 100; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; z-index: 984; transform: matrix(1, 0, 0, 1, -125, -136);"><div style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 0px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 0px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div></div></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 101; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 102; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 103; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: -1;"><div style="position: absolute; z-index: 984; transform: matrix(1, 0, 0, 1, -125, -136);"><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 0px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -256px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -256px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 0px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 256px; top: -256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 256px; top: 0px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 256px; top: 256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 0px; top: 256px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -256px; top: 256px;"></div></div></div><div style="width: 26px; height: 37px; overflow: hidden; position: absolute; left: -13px; top: -37px; z-index: 0;"><img alt="" src="https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi3.png" draggable="false" style="position: absolute; left: 0px; top: 0px; width: 26px; height: 37px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; z-index: 984; transform: matrix(1, 0, 0, 1, -125, -136);"><div style="position: absolute; left: 256px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i16!2i51685!3i32530!4i256!2m3!1e4!2st!3i686!2m3!1e0!2sr!3i686431541!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjR8cy5lOmwuaXxwLnY6b24!4e0&amp;key=AIzaSyC1BL1JGQ22-J_qTEW51rfuGK02IscxthE&amp;token=14531" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -256px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i16!2i51683!3i32528!4i256!2m3!1e4!2st!3i686!2m3!1e0!2sr!3i686431601!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjR8cy5lOmwuaXxwLnY6b24!4e0&amp;key=AIzaSyC1BL1JGQ22-J_qTEW51rfuGK02IscxthE&amp;token=17910" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 256px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i16!2i51685!3i32528!4i256!2m3!1e4!2st!3i686!2m3!1e0!2sr!3i686431601!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjR8cy5lOmwuaXxwLnY6b24!4e0&amp;key=AIzaSyC1BL1JGQ22-J_qTEW51rfuGK02IscxthE&amp;token=88495" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 0px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i16!2i51684!3i32528!4i256!2m3!1e4!2st!3i686!2m3!1e0!2sr!3i686431601!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjR8cy5lOmwuaXxwLnY6b24!4e0&amp;key=AIzaSyC1BL1JGQ22-J_qTEW51rfuGK02IscxthE&amp;token=118738" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i16!2i51684!3i32529!4i256!2m3!1e4!2st!3i686!2m3!1e0!2sr!3i686431541!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjR8cy5lOmwuaXxwLnY6b24!4e0&amp;key=AIzaSyC1BL1JGQ22-J_qTEW51rfuGK02IscxthE&amp;token=52655" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 256px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i16!2i51685!3i32529!4i256!2m3!1e4!2st!3i686!2m3!1e0!2sr!3i686431541!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjR8cy5lOmwuaXxwLnY6b24!4e0&amp;key=AIzaSyC1BL1JGQ22-J_qTEW51rfuGK02IscxthE&amp;token=22412" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: 0px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i16!2i51684!3i32530!4i256!2m3!1e4!2st!3i686!2m3!1e0!2sr!3i686431541!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjR8cy5lOmwuaXxwLnY6b24!4e0&amp;key=AIzaSyC1BL1JGQ22-J_qTEW51rfuGK02IscxthE&amp;token=44774" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -256px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i16!2i51683!3i32529!4i256!2m3!1e4!2st!3i686!2m3!1e0!2sr!3i686431517!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjR8cy5lOmwuaXxwLnY6b24!4e0&amp;key=AIzaSyC1BL1JGQ22-J_qTEW51rfuGK02IscxthE&amp;token=48408" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div><div style="position: absolute; left: -256px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i16!2i51683!3i32530!4i256!2m3!1e4!2st!3i686!2m3!1e0!2sr!3i686431541!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjR8cy5lOmwuaXxwLnY6b24!4e0&amp;key=AIzaSyC1BL1JGQ22-J_qTEW51rfuGK02IscxthE&amp;token=75017" style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"></div></div></div></div><div style="z-index: 3; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; touch-action: pan-x pan-y;"><div style="z-index: 4; position: absolute; left: 50%; top: 50%; width: 100%; will-change: transform; transform: translate(0px, 0px);"><div style="position: absolute; left: 0px; top: 0px; z-index: 104; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 105; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 106; width: 100%;"><span id="1B2BA92B-2D57-441C-8B93-3541649C49EC" style="display: none;">To navigate, press the arrow keys.</span><div tabindex="-1" style="width: 26px; height: 37px; overflow: hidden; position: absolute; left: -13px; top: -37px; z-index: 0;"><img alt="" src="https://maps.gstatic.com/mapfiles/transparent.png" draggable="false" usemap="#gmimap0" style="width: 26px; height: 37px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;"><map name="gmimap0" id="gmimap0"><area log="miw" coords="13,0,4,3.5,0,12,2.75,21,13,37,23.5,21,26,12,22,3.5" shape="poly" tabindex="-1" title="" style="display: inline; position: absolute; left: 0px; top: 0px; cursor: pointer; touch-action: none;"></map></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 107; width: 100%;"></div></div></div><div class="gm-style-moc" style="z-index: 4; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; opacity: 0;"><p class="gm-style-mot"></p></div></div><iframe aria-hidden="true" frameborder="0" tabindex="-1" style="z-index: -1; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px; border: none; opacity: 0;"></iframe><div style="pointer-events: none; width: 100%; height: 100%; box-sizing: border-box; position: absolute; z-index: 1000002; opacity: 0; border: 2px solid rgb(26, 115, 232);"></div><div><div class="gmnoprint gm-style-mtc-bbw" role="menubar" style="margin: 10px; z-index: 0; position: absolute; cursor: pointer; left: 0px; top: 0px;"><div class="gm-style-mtc" style="float: left; position: relative;"><button draggable="false" aria-label="Show street map" title="Show street map" type="button" role="menuitemradio" aria-checked="true" aria-haspopup="true" style="background: none padding-box rgb(255, 255, 255); display: table-cell; border: 0px; margin: 0px; padding: 0px 17px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; overflow: hidden; text-align: center; height: 40px; vertical-align: middle; color: rgb(0, 0, 0); font-family: Roboto, Arial, sans-serif; font-size: 18px; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; min-width: 35px; font-weight: 500;" id="AAF412AD-09C6-4484-9232-BF4C5E5DDF32">Map</button><ul role="menu" aria-labelledby="AAF412AD-09C6-4484-9232-BF4C5E5DDF32" style="background-color: white; list-style: none; padding: 2px; margin: 0px; z-index: -1; border-bottom-left-radius: 2px; border-bottom-right-radius: 2px; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; position: absolute; left: 0px; top: 40px; text-align: left; display: none;"><li tabindex="-1" role="menuitemcheckbox" aria-label="Terrain" draggable="false" title="Show street map with terrain" aria-checked="true" class="ssQIHO-checkbox-menu-item" style="color: black; font-family: Roboto, Arial, sans-serif; user-select: none; font-size: 18px; background-color: rgb(255, 255, 255); padding: 5px 8px 5px 5px; direction: ltr; text-align: left; white-space: nowrap;"><span><span style="mask-image: url(&quot;data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20d%3D%22M0%200h24v24H0z%22%20fill%3D%22none%22/%3E%3Cpath%20d%3D%22M19%203H5c-1.11%200-2%20.9-2%202v14c0%201.1.89%202%202%202h14c1.11%200%202-.9%202-2V5c0-1.1-.89-2-2-2zm-9%2014l-5-5%201.41-1.41L10%2014.17l7.59-7.59L19%208l-9%209z%22/%3E%3C/svg%3E&quot;); height: 1em; width: 1em; transform: translateY(0.15em);"></span><span style="mask-image: url(&quot;data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20d%3D%22M19%205v14H5V5h14m0-2H5c-1.1%200-2%20.9-2%202v14c0%201.1.9%202%202%202h14c1.1%200%202-.9%202-2V5c0-1.1-.9-2-2-2z%22/%3E%3Cpath%20d%3D%22M0%200h24v24H0z%22%20fill%3D%22none%22/%3E%3C/svg%3E&quot;); height: 1em; width: 1em; transform: translateY(0.15em); display: none;"></span></span><label style="cursor: inherit;">Terrain</label></li></ul></div><div class="gm-style-mtc" style="float: left; position: relative;"><button draggable="false" aria-label="Show satellite imagery" title="Show satellite imagery" type="button" role="menuitemradio" aria-checked="false" aria-haspopup="true" style="background: none padding-box rgb(255, 255, 255); display: table-cell; border: 0px; margin: 0px; padding: 0px 17px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; overflow: hidden; text-align: center; height: 40px; vertical-align: middle; color: rgb(86, 86, 86); font-family: Roboto, Arial, sans-serif; font-size: 18px; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; min-width: 64px;" id="F89ABE79-4E17-4DCF-B578-8B3329B2D2EB">Satellite</button><ul role="menu" aria-labelledby="F89ABE79-4E17-4DCF-B578-8B3329B2D2EB" style="background-color: white; list-style: none; padding: 2px; margin: 0px; z-index: -1; border-bottom-left-radius: 2px; border-bottom-right-radius: 2px; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; position: absolute; right: 0px; top: 40px; text-align: left; display: none;"><li tabindex="-1" role="menuitemcheckbox" aria-label="Labels" draggable="false" title="Show imagery with street names" aria-checked="true" class="ssQIHO-checkbox-menu-item" style="color: black; font-family: Roboto, Arial, sans-serif; user-select: none; font-size: 18px; background-color: rgb(255, 255, 255); padding: 5px 8px 5px 5px; direction: ltr; text-align: left; white-space: nowrap;"><span><span style="mask-image: url(&quot;data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20d%3D%22M0%200h24v24H0z%22%20fill%3D%22none%22/%3E%3Cpath%20d%3D%22M19%203H5c-1.11%200-2%20.9-2%202v14c0%201.1.89%202%202%202h14c1.11%200%202-.9%202-2V5c0-1.1-.89-2-2-2zm-9%2014l-5-5%201.41-1.41L10%2014.17l7.59-7.59L19%208l-9%209z%22/%3E%3C/svg%3E&quot;); height: 1em; width: 1em; transform: translateY(0.15em);"></span><span style="mask-image: url(&quot;data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20d%3D%22M19%205v14H5V5h14m0-2H5c-1.1%200-2%20.9-2%202v14c0%201.1.9%202%202%202h14c1.1%200%202-.9%202-2V5c0-1.1-.9-2-2-2z%22/%3E%3Cpath%20d%3D%22M0%200h24v24H0z%22%20fill%3D%22none%22/%3E%3C/svg%3E&quot;); height: 1em; width: 1em; transform: translateY(0.15em); display: none;"></span></span><label style="cursor: inherit;">Labels</label></li></ul></div></div></div><div></div><div></div><div></div><div><button draggable="false" aria-label="Toggle fullscreen view" title="Toggle fullscreen view" type="button" aria-pressed="false" class="gm-control-active gm-fullscreen-control" style="background: none rgb(255, 255, 255); border: 0px; margin: 10px; padding: 0px; text-transform: none; appearance: none; position: absolute; cursor: pointer; user-select: none; border-radius: 2px; height: 40px; width: 40px; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; overflow: hidden; top: 0px; right: 0px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%200v6h2V2h4V0H0zm16%200h-4v2h4v4h2V0h-2zm0%2016h-4v2h6v-6h-2v4zM2%2012H0v6h6v-2H2v-4z%22/%3E%3C/svg%3E" alt="" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%200v6h2V2h4V0H0zm16%200h-4v2h4v4h2V0h-2zm0%2016h-4v2h6v-6h-2v4zM2%2012H0v6h6v-2H2v-4z%22/%3E%3C/svg%3E" alt="" style="height: 18px; width: 18px;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%200v6h2V2h4V0H0zm16%200h-4v2h4v4h2V0h-2zm0%2016h-4v2h6v-6h-2v4zM2%2012H0v6h6v-2H2v-4z%22/%3E%3C/svg%3E" alt="" style="height: 18px; width: 18px;"></button></div><div></div><div></div><div></div><div></div><div><div class="gmnoprint gm-bundled-control gm-bundled-control-on-bottom" draggable="false" data-control-width="40" data-control-height="40" style="margin: 10px; user-select: none; position: absolute; bottom: 54px; right: 40px;"><button draggable="false" aria-label="Drag Pegman onto the map to open Street View" title="Drag Pegman onto the map to open Street View" type="button" class="gm-svpc" dir="ltr" data-control-width="40" data-control-height="40" style="background: rgb(255, 255, 255); border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: absolute; cursor: url(&quot;https://maps.gstatic.com/mapfiles/openhand_8_8.cur&quot;), default; user-select: none; --pegman-scaleX: 1; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px; border-radius: 2px; width: 40px; height: 40px; touch-action: none; left: 0px; top: 0px;"><div style="position: absolute; left: 50%; top: 50%; transform: scaleX(var(--pegman-scaleX));"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2023%2038%22%3E%3Cpath%20d%3D%22M16.6%2038.1h-5.5l-.2-2.9-.2%202.9h-5.5L5%2025.3l-.8%202a1.53%201.53%200%2001-1.9.9l-1.2-.4a1.58%201.58%200%2001-1-1.9v-.1c.3-.9%203.1-11.2%203.1-11.2a2.66%202.66%200%20012.3-2l.6-.5a6.93%206.93%200%20014.7-12%206.8%206.8%200%20014.9%202%207%207%200%20012%204.9%206.65%206.65%200%2001-2.2%205l.7.5a2.78%202.78%200%20012.4%202s2.9%2011.2%202.9%2011.3a1.53%201.53%200%2001-.9%201.9l-1.3.4a1.63%201.63%200%2001-1.9-.9l-.7-1.8-.1%2012.7zm-3.6-2h1.7L14.9%2020.3l1.9-.3%202.4%206.3.3-.1c-.2-.8-.8-3.2-2.8-10.9a.63.63%200%2000-.6-.5h-.6l-1.1-.9h-1.9l-.3-2a4.83%204.83%200%20003.5-4.7A4.78%204.78%200%200011%202.3H10.8a4.9%204.9%200%2000-1.4%209.6l-.3%202h-1.9l-1%20.9h-.6a.74.74%200%2000-.6.5c-2%207.5-2.7%2010-3%2010.9l.3.1L4.8%2020l1.9.3.2%2015.8h1.6l.6-8.4a1.52%201.52%200%20011.5-1.4%201.5%201.5%200%20011.5%201.4l.9%208.4zm-10.9-9.6zm17.5-.1z%22%20style%3D%22isolation%3Aisolate%22%20fill%3D%22%23333%22%20opacity%3D%22.7%22/%3E%3Cpath%20d%3D%22M5.9%2013.6l1.1-.9h7.8l1.2.9%22%20fill%3D%22%23ce592c%22/%3E%3Cellipse%20cx%3D%2210.9%22%20cy%3D%2213.1%22%20rx%3D%222.7%22%20ry%3D%22.3%22%20style%3D%22isolation%3Aisolate%22%20fill%3D%22%23ce592c%22%20opacity%3D%22.5%22/%3E%3Cpath%20d%3D%22M20.6%2026.1l-2.9-11.3a1.71%201.71%200%2000-1.6-1.2H5.699999999999999a1.69%201.69%200%2000-1.5%201.3l-3.1%2011.3a.61.61%200%2000.3.7l1.1.4a.61.61%200%2000.7-.3l2.7-6.7.2%2016.8h3.6l.6-9.3a.47.47%200%2001.44-.5h.06c.4%200%20.4.2.5.5l.6%209.3h3.6L15.7%2020.3l2.5%206.6a.52.52%200%2000.66.31l1.2-.4a.57.57%200%2000.5-.7z%22%20fill%3D%22%23fdbf2d%22/%3E%3Cpath%20d%3D%22M7%2013.6l3.9%206.7%203.9-6.7%22%20style%3D%22isolation%3Aisolate%22%20fill%3D%22%23cf572e%22%20opacity%3D%22.6%22/%3E%3Ccircle%20cx%3D%2210.9%22%20cy%3D%227%22%20r%3D%225.9%22%20fill%3D%22%23fdbf2d%22/%3E%3C/svg%3E" alt="Street View Pegman Control" style="height: 30px; width: 30px; position: absolute; transform: translate(-50%, -50%); pointer-events: none;"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2038%22%3E%3Cpath%20d%3D%22M22%2026.6l-2.9-11.3a2.78%202.78%200%2000-2.4-2l-.7-.5a6.82%206.82%200%20002.2-5%206.9%206.9%200%2000-13.8%200%207%207%200%20002.2%205.1l-.6.5a2.55%202.55%200%2000-2.3%202s-3%2011.1-3%2011.2v.1a1.58%201.58%200%20001%201.9l1.2.4a1.63%201.63%200%20001.9-.9l.8-2%20.2%2012.8h11.3l.2-12.6.7%201.8a1.54%201.54%200%20001.5%201%201.09%201.09%200%2000.5-.1l1.3-.4a1.85%201.85%200%2000.7-2zm-1.2.9l-1.2.4a.61.61%200%2001-.7-.3l-2.5-6.6-.2%2016.8h-9.4L6.6%2021l-2.7%206.7a.52.52%200%2001-.66.31l-1.1-.4a.52.52%200%2001-.31-.66l3.1-11.3a1.69%201.69%200%20011.5-1.3h.2l1-.9h2.3a5.9%205.9%200%20113.2%200h2.3l1.1.9h.2a1.71%201.71%200%20011.6%201.2l2.9%2011.3a.84.84%200%2001-.4.7z%22%20fill%3D%22%23333%22%20fill-opacity%3D%22.2%22/%3E%26quot%3B%3C/svg%3E" alt="Pegman is on top of the Map" style="height: 30px; width: 30px; position: absolute; transform: translate(-50%, -50%); pointer-events: none; display: none;"><img alt="Street View Pegman Control" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2040%2050%22%3E%3Cpath%20d%3D%22M34-30.4l-2.9-11.3a2.78%202.78%200%2000-2.4-2l-.7-.5a6.82%206.82%200%20002.2-5%206.9%206.9%200%2000-13.8%200%207%207%200%20002.2%205.1l-.6.5a2.55%202.55%200%2000-2.3%202s-3%2011.1-3%2011.2v.1a1.58%201.58%200%20001%201.9l1.2.4a1.63%201.63%200%20001.9-.9l.8-2%20.2%2012.8h11.3l.2-12.6.7%201.8a1.54%201.54%200%20001.5%201%201.09%201.09%200%2000.5-.1l1.3-.4a1.85%201.85%200%2000.7-2zm-1.2.9l-1.2.4a.61.61%200%2001-.7-.3L28.4-36l-.2%2016.8h-9.4L18.6-36l-2.7%206.7a.52.52%200%2001-.66.31l-1.1-.4a.52.52%200%2001-.31-.66l3.1-11.3a1.69%201.69%200%20011.5-1.3h.2l1-.9h2.3a5.9%205.9%200%20113.2%200h2.3l1.1.9h.2a1.71%201.71%200%20011.6%201.2l2.9%2011.3a.84.84%200%2001-.4.7zM34%2029.6l-2.9-11.3a2.78%202.78%200%2000-2.4-2l-.7-.5a6.82%206.82%200%20002.2-5%206.9%206.9%200%2000-13.8%200%207%207%200%20002.2%205.1l-.6.5a2.55%202.55%200%2000-2.3%202s-3%2011.1-3%2011.2v.1a1.58%201.58%200%20001%201.9l1.2.4a1.63%201.63%200%20001.9-.9l.8-2%20.2%2012.8h11.3l.2-12.6.7%201.8a1.54%201.54%200%20001.5%201%201.09%201.09%200%2000.5-.1l1.3-.4a1.85%201.85%200%2000.7-2zm-1.2.9l-1.2.4a.61.61%200%2001-.7-.3L28.4%2024l-.2%2016.8h-9.4L18.6%2024l-2.7%206.7a.52.52%200%2001-.66.31l-1.1-.4a.52.52%200%2001-.31-.66l3.1-11.3a1.69%201.69%200%20011.5-1.3h.2l1-.9h2.3a5.9%205.9%200%20113.2%200h2.3l1.1.9h.2a1.71%201.71%200%20011.6%201.2l2.9%2011.3a.84.84%200%2001-.4.7z%22%20fill%3D%22%23333%22%20fill-opacity%3D%22.2%22/%3E%3Cpath%20d%3D%22M15.4%2038.8h-4a1.64%201.64%200%2001-1.4-1.1l-3.1-8a.9.9%200%2001-.5.1l-1.4.1a1.62%201.62%200%2001-1.6-1.4L2.3%2015.4l1.6-1.3a6.87%206.87%200%2001-3-4.6A7.14%207.14%200%20012%204a7.6%207.6%200%20014.7-3.1A7.14%207.14%200%200112.2%202a7.28%207.28%200%20012.3%209.6l2.1-.1.1%201c0%20.2.1.5.1.8a2.41%202.41%200%20011%201s1.9%203.2%202.8%204.9c.7%201.2%202.1%204.2%202.8%205.9a2.1%202.1%200%2001-.8%202.6l-.6.4a1.63%201.63%200%2001-1.5.2l-.6-.3a8.93%208.93%200%2000.5%201.3%207.91%207.91%200%20001.8%202.6l.6.3v4.6l-4.5-.1a7.32%207.32%200%2001-2.5-1.5l-.4%203.6zm-10-19.2l3.5%209.8%202.9%207.5h1.6V35l-1.9-9.4%203.1%205.4a8.24%208.24%200%20003.8%203.8h2.1v-1.4a14%2014%200%2001-2.2-3.1%2044.55%2044.55%200%2001-2.2-8l-1.3-6.3%203.2%205.6c.6%201.1%202.1%203.6%202.8%204.9l.6-.4c-.8-1.6-2.1-4.6-2.8-5.8-.9-1.7-2.8-4.9-2.8-4.9a.54.54%200%2000-.4-.3l-.7-.1-.1-.7a4.33%204.33%200%2000-.1-.5l-5.3.3%202.2-1.9a4.3%204.3%200%2000.9-1%205.17%205.17%200%2000.8-4%205.67%205.67%200%2000-2.2-3.4%205.09%205.09%200%2000-4-.8%205.67%205.67%200%2000-3.4%202.2%205.17%205.17%200%2000-.8%204%205.67%205.67%200%20002.2%203.4%203.13%203.13%200%20001%20.5l1.6.6-3.2%202.6%201%2011.5h.4l-.3-8.2z%22%20fill%3D%22%23333%22/%3E%3Cpath%20d%3D%22M3.35%2015.9l1.1%2012.5a.39.39%200%2000.36.42h.14l1.4-.1a.66.66%200%2000.5-.4l-.2-3.8-3.3-8.6z%22%20fill%3D%22%23fdbf2d%22/%3E%3Cpath%20d%3D%22M5.2%2028.8l1.1-.1a.66.66%200%2000.5-.4l-.2-3.8-1.2-3.1z%22%20fill%3D%22%23ce592b%22%20fill-opacity%3D%22.25%22/%3E%3Cpath%20d%3D%22M21.4%2035.7l-3.8-1.2-2.7-7.8L12%2015.5l3.4-2.9c.2%202.4%202.2%2014.1%203.7%2017.1%200%200%201.3%202.6%202.3%203.1v2.9m-8.4-8.1l-2-.3%202.5%2010.1.9.4v-2.9%22%20fill%3D%22%23e5892b%22/%3E%3Cpath%20d%3D%22M17.8%2025.4c-.4-1.5-.7-3.1-1.1-4.8-.1-.4-.1-.7-.2-1.1l-1.1-2-1.7-1.6s.9%205%202.4%207.1a19.12%2019.12%200%20001.7%202.4z%22%20style%3D%22isolation%3Aisolate%22%20fill%3D%22%23cf572e%22%20opacity%3D%22.6%22/%3E%3Cpath%20d%3D%22M14.4%2037.8h-3a.43.43%200%2001-.4-.4l-3-7.8-1.7-4.8-3-9%208.9-.4s2.9%2011.3%204.3%2014.4c1.9%204.1%203.1%204.7%205%205.8h-3.2s-4.1-1.2-5.9-7.7a.59.59%200%2000-.6-.4.62.62%200%2000-.3.7s.5%202.4.9%203.6a34.87%2034.87%200%20002%206z%22%20fill%3D%22%23fdbf2d%22/%3E%3Cpath%20d%3D%22M15.4%2012.7l-3.3%202.9-8.9.4%203.3-2.7%22%20fill%3D%22%23ce592b%22/%3E%3Cpath%20d%3D%22M9.1%2021.1l1.4-6.2-5.9.5%22%20style%3D%22isolation%3Aisolate%22%20fill%3D%22%23cf572e%22%20opacity%3D%22.6%22/%3E%3Cpath%20d%3D%22M12%2013.5a4.75%204.75%200%2001-2.6%201.1c-1.5.3-2.9.2-2.9%200s1.1-.6%202.7-1%22%20fill%3D%22%23bb3d19%22/%3E%3Ccircle%20cx%3D%227.92%22%20cy%3D%228.19%22%20r%3D%226.3%22%20fill%3D%22%23fdbf2d%22/%3E%3Cpath%20d%3D%22M4.7%2013.6a6.21%206.21%200%20008.4-1.9v-.1a8.89%208.89%200%2001-8.4%202z%22%20fill%3D%22%23ce592b%22%20fill-opacity%3D%22.25%22/%3E%3Cpath%20d%3D%22M21.2%2027.2l.6-.4a1.09%201.09%200%2000.4-1.3c-.7-1.5-2.1-4.6-2.8-5.8-.9-1.7-2.8-4.9-2.8-4.9a1.6%201.6%200%2000-2.17-.65l-.23.15a1.68%201.68%200%2000-.4%202.1s2.3%203.9%203.1%205.3c.6%201%202.1%203.7%202.9%205.1a.94.94%200%20001.24.49l.16-.09z%22%20fill%3D%22%23fdbf2d%22/%3E%3Cpath%20d%3D%22M19.4%2019.8c-.9-1.7-2.8-4.9-2.8-4.9a1.6%201.6%200%2000-2.17-.65l-.23.15-.3.3c1.1%201.5%202.9%203.8%203.9%205.4%201.1%201.8%202.9%205%203.8%206.7l.1-.1a1.09%201.09%200%2000.4-1.3%2057.67%2057.67%200%2000-2.7-5.6z%22%20fill%3D%22%23ce592b%22%20fill-opacity%3D%22.25%22/%3E%3C/svg%3E" style="display: none; height: 40px; width: 40px; position: absolute; transform: translate(-60%, -45%); pointer-events: none;"></div></button></div></div><div><div style="margin: 0px 5px; z-index: 1000000; position: absolute; left: 0px; bottom: 0px;"><a target="_blank" rel="noopener" title="Open this area in Google Maps (opens a new window)" aria-label="Open this area in Google Maps (opens a new window)" href="https://maps.google.com/maps?ll=1.309836,103.911371&amp;z=16&amp;t=p&amp;hl=en-US&amp;gl=US&amp;mapclient=apiv3" style="display: inline;"><div style="width: 66px; height: 26px;"><img alt="Google" src="data:image/svg+xml,%3Csvg%20fill%3D%22none%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2069%2029%22%3E%3Cg%20opacity%3D%22.3%22%20fill%3D%22%23000%22%20stroke%3D%22%23000%22%20stroke-width%3D%221.5%22%3E%3Cpath%20d%3D%22M17.4706%207.33616L18.0118%206.79504%2017.4599%206.26493C16.0963%204.95519%2014.2582%203.94522%2011.7008%203.94522c-4.613699999999999%200-8.50262%203.7551699999999997-8.50262%208.395779999999998C3.19818%2016.9817%207.0871%2020.7368%2011.7008%2020.7368%2014.1712%2020.7368%2016.0773%2019.918%2017.574%2018.3689%2019.1435%2016.796%2019.5956%2014.6326%2019.5956%2012.957%2019.5956%2012.4338%2019.5516%2011.9316%2019.4661%2011.5041L19.3455%2010.9012H10.9508V14.4954H15.7809C15.6085%2015.092%2015.3488%2015.524%2015.0318%2015.8415%2014.403%2016.4629%2013.4495%2017.1509%2011.7008%2017.1509%209.04835%2017.1509%206.96482%2015.0197%206.96482%2012.341%206.96482%209.66239%209.04835%207.53119%2011.7008%207.53119%2013.137%207.53119%2014.176%208.09189%2014.9578%208.82348L15.4876%209.31922%2016.0006%208.80619%2017.4706%207.33616z%22/%3E%3Cpath%20d%3D%22M24.8656%2020.7286C27.9546%2020.7286%2030.4692%2018.3094%2030.4692%2015.0594%2030.4692%2011.7913%2027.953%209.39009%2024.8656%209.39009%2021.7783%209.39009%2019.2621%2011.7913%2019.2621%2015.0594c0%203.25%202.514499999999998%205.6692%205.6035%205.6692zM24.8656%2012.8282C25.8796%2012.8282%2026.8422%2013.6652%2026.8422%2015.0594%2026.8422%2016.4399%2025.8769%2017.2905%2024.8656%2017.2905%2023.8557%2017.2905%2022.8891%2016.4331%2022.8891%2015.0594%2022.8891%2013.672%2023.853%2012.8282%2024.8656%2012.8282z%22/%3E%3Cpath%20d%3D%22M35.7511%2017.2905v0H35.7469C34.737%2017.2905%2033.7703%2016.4331%2033.7703%2015.0594%2033.7703%2013.672%2034.7343%2012.8282%2035.7469%2012.8282%2036.7608%2012.8282%2037.7234%2013.6652%2037.7234%2015.0594%2037.7234%2016.4439%2036.7554%2017.2961%2035.7511%2017.2905zM35.7387%2020.7286C38.8277%2020.7286%2041.3422%2018.3094%2041.3422%2015.0594%2041.3422%2011.7913%2038.826%209.39009%2035.7387%209.39009%2032.6513%209.39009%2030.1351%2011.7913%2030.1351%2015.0594%2030.1351%2018.3102%2032.6587%2020.7286%2035.7387%2020.7286z%22/%3E%3Cpath%20d%3D%22M51.953%2010.4357V9.68573H48.3999V9.80826C47.8499%209.54648%2047.1977%209.38187%2046.4808%209.38187%2043.5971%209.38187%2041.0168%2011.8998%2041.0168%2015.0758%2041.0168%2017.2027%2042.1808%2019.0237%2043.8201%2019.9895L43.7543%2020.0168%2041.8737%2020.797%2041.1808%2021.0844%2041.4684%2021.7772C42.0912%2023.2776%2043.746%2025.1469%2046.5219%2025.1469%2047.9324%2025.1469%2049.3089%2024.7324%2050.3359%2023.7376%2051.3691%2022.7367%2051.953%2021.2411%2051.953%2019.2723v-8.8366zm-7.2194%209.9844L44.7334%2020.4196C45.2886%2020.6201%2045.878%2020.7286%2046.4808%2020.7286%2047.1616%2020.7286%2047.7866%2020.5819%2048.3218%2020.3395%2048.2342%2020.7286%2048.0801%2021.0105%2047.8966%2021.2077%2047.6154%2021.5099%2047.1764%2021.7088%2046.5219%2021.7088%2045.61%2021.7088%2045.0018%2021.0612%2044.7336%2020.4201zM46.6697%2012.8282C47.6419%2012.8282%2048.5477%2013.6765%2048.5477%2015.084%2048.5477%2016.4636%2047.6521%2017.2987%2046.6697%2017.2987%2045.6269%2017.2987%2044.6767%2016.4249%2044.6767%2015.084%2044.6767%2013.7086%2045.6362%2012.8282%2046.6697%2012.8282zM55.7387%205.22081v-.75H52.0788V20.4412H55.7387V5.22081z%22/%3E%3Cpath%20d%3D%22M63.9128%2016.0614L63.2945%2015.6492%2062.8766%2016.2637C62.4204%2016.9346%2061.8664%2017.3069%2061.0741%2017.3069%2060.6435%2017.3069%2060.3146%2017.2088%2060.0544%2017.0447%2059.9844%2017.0006%2059.9161%2016.9496%2059.8498%2016.8911L65.5497%2014.5286%2066.2322%2014.2456%2065.9596%2013.5589%2065.7406%2013.0075C65.2878%2011.8%2063.8507%209.39832%2060.8278%209.39832%2057.8445%209.39832%2055.5034%2011.7619%2055.5034%2015.0676%2055.5034%2018.2151%2057.8256%2020.7369%2061.0659%2020.7369%2063.6702%2020.7369%2065.177%2019.1378%2065.7942%2018.2213L66.2152%2017.5963%2065.5882%2017.1783%2063.9128%2016.0614zM61.3461%2012.8511L59.4108%2013.6526C59.7903%2013.0783%2060.4215%2012.7954%2060.9017%2012.7954%2061.067%2012.7954%2061.2153%2012.8161%2061.3461%2012.8511z%22/%3E%3C/g%3E%3Cpath%20d%3D%22M11.7008%2019.9868C7.48776%2019.9868%203.94818%2016.554%203.94818%2012.341%203.94818%208.12803%207.48776%204.69522%2011.7008%204.69522%2014.0331%204.69522%2015.692%205.60681%2016.9403%206.80583L15.4703%208.27586C14.5751%207.43819%2013.3597%206.78119%2011.7008%206.78119%208.62108%206.78119%206.21482%209.26135%206.21482%2012.341%206.21482%2015.4207%208.62108%2017.9009%2011.7008%2017.9009%2013.6964%2017.9009%2014.8297%2017.0961%2015.5606%2016.3734%2016.1601%2015.7738%2016.5461%2014.9197%2016.6939%2013.7454h-4.9931V11.6512h7.0298C18.8045%2012.0207%2018.8456%2012.4724%2018.8456%2012.957%2018.8456%2014.5255%2018.4186%2016.4637%2017.0389%2017.8434%2015.692%2019.2395%2013.9838%2019.9868%2011.7008%2019.9868zM29.7192%2015.0594C29.7192%2017.8927%2027.5429%2019.9786%2024.8656%2019.9786%2022.1884%2019.9786%2020.0121%2017.8927%2020.0121%2015.0594%2020.0121%2012.2096%2022.1884%2010.1401%2024.8656%2010.1401%2027.5429%2010.1401%2029.7192%2012.2096%2029.7192%2015.0594zM27.5922%2015.0594C27.5922%2013.2855%2026.3274%2012.0782%2024.8656%2012.0782S22.1391%2013.2937%2022.1391%2015.0594C22.1391%2016.8086%2023.4038%2018.0405%2024.8656%2018.0405S27.5922%2016.8168%2027.5922%2015.0594zM40.5922%2015.0594C40.5922%2017.8927%2038.4159%2019.9786%2035.7387%2019.9786%2033.0696%2019.9786%2030.8851%2017.8927%2030.8851%2015.0594%2030.8851%2012.2096%2033.0614%2010.1401%2035.7387%2010.1401%2038.4159%2010.1401%2040.5922%2012.2096%2040.5922%2015.0594zM38.4734%2015.0594C38.4734%2013.2855%2037.2087%2012.0782%2035.7469%2012.0782%2034.2851%2012.0782%2033.0203%2013.2937%2033.0203%2015.0594%2033.0203%2016.8086%2034.2851%2018.0405%2035.7469%2018.0405%2037.2087%2018.0487%2038.4734%2016.8168%2038.4734%2015.0594zM51.203%2010.4357v8.8366C51.203%2022.9105%2049.0595%2024.3969%2046.5219%2024.3969%2044.132%2024.3969%2042.7031%2022.7955%2042.161%2021.4897L44.0417%2020.7095C44.3784%2021.5143%2045.1997%2022.4588%2046.5219%2022.4588%2048.1479%2022.4588%2049.1499%2021.4487%2049.1499%2019.568V18.8617H49.0759C48.5914%2019.4612%2047.6552%2019.9786%2046.4808%2019.9786%2044.0171%2019.9786%2041.7668%2017.8352%2041.7668%2015.0758%2041.7668%2012.3%2044.0253%2010.1319%2046.4808%2010.1319%2047.6552%2010.1319%2048.5914%2010.6575%2049.0759%2011.2323H49.1499V10.4357H51.203zM49.2977%2015.084C49.2977%2013.3512%2048.1397%2012.0782%2046.6697%2012.0782%2045.175%2012.0782%2043.9267%2013.3429%2043.9267%2015.084%2043.9267%2016.8004%2045.175%2018.0487%2046.6697%2018.0487%2048.1397%2018.0487%2049.2977%2016.8004%2049.2977%2015.084zM54.9887%205.22081V19.6912H52.8288V5.22081H54.9887zM63.4968%2016.6854L65.1722%2017.8023C64.6301%2018.6072%2063.3244%2019.9869%2061.0659%2019.9869%2058.2655%2019.9869%2056.2534%2017.827%2056.2534%2015.0676%2056.2534%2012.1439%2058.2901%2010.1483%2060.8278%2010.1483%2063.3818%2010.1483%2064.6301%2012.1768%2065.0408%2013.2773L65.2625%2013.8357%2058.6843%2016.5623C59.1853%2017.5478%2059.9737%2018.0569%2061.0741%2018.0569%2062.1746%2018.0569%2062.9384%2017.5067%2063.4968%2016.6854zM58.3312%2014.9115L62.7331%2013.0884C62.4867%2012.4724%2061.764%2012.0454%2060.9017%2012.0454%2059.8012%2012.0454%2058.2737%2013.0145%2058.3312%2014.9115z%22%20fill%3D%22%23fff%22/%3E%3C/svg%3E" draggable="false" style="position: absolute; left: 0px; top: 0px; width: 66px; height: 26px; user-select: none; border: 0px; padding: 0px; margin: 0px;"></div></a></div></div><div></div><div><div style="display: inline-flex; position: absolute; right: 0px; bottom: 0px;"><div class="gmnoprint" style="z-index: 1000001;"><div draggable="false" class="gm-style-cc" style="user-select: none; position: relative; height: 14px; line-height: 14px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><button draggable="false" aria-label="Keyboard shortcuts" title="Keyboard shortcuts" type="button" style="background: none; display: inline-block; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; color: rgb(0, 0, 0); font-family: inherit; line-height: inherit;">Keyboard shortcuts</button></div></div></div><div class="gmnoprint" style="z-index: 1000001;"><div draggable="false" class="gm-style-cc" style="user-select: none; position: relative; height: 14px; line-height: 14px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><button draggable="false" aria-label="Map Data" title="Map Data" type="button" style="background: none; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; color: rgb(0, 0, 0); font-family: inherit; line-height: inherit; display: none;">Map Data</button><span style="">Map data ©2024 Google</span></div></div></div><div class="gmnoscreen"><div style="font-family: Roboto, Arial, sans-serif; font-size: 11px; color: rgb(0, 0, 0); direction: ltr; text-align: right; background-color: rgb(245, 245, 245);">Map data ©2024 Google</div></div><button draggable="false" aria-label="Map Scale: 100 m per 42 pixels" title="Map Scale: 100 m per 42 pixels" type="button" class="gm-style-cc" aria-describedby="FCDD9495-2925-47A1-A8C4-4598E8077233" style="background: none; display: none; border: 0px; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: relative; cursor: pointer; user-select: none; height: 14px; line-height: 14px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><span>100 m&nbsp;</span><div style="position: relative; display: inline-block; height: 8px; bottom: -1px; width: 46px;"><div style="width: 100%; height: 4px; position: absolute; left: 0px; top: 0px;"></div><div style="width: 4px; height: 8px; left: 0px; top: 0px; background-color: rgb(255, 255, 255);"></div><div style="width: 4px; height: 8px; position: absolute; background-color: rgb(255, 255, 255); right: 0px; bottom: 0px;"></div><div style="position: absolute; background-color: rgb(102, 102, 102); height: 2px; left: 1px; bottom: 1px; right: 1px;"></div><div style="position: absolute; width: 2px; height: 6px; left: 1px; top: 1px; background-color: rgb(102, 102, 102);"></div><div style="width: 2px; height: 6px; position: absolute; background-color: rgb(102, 102, 102); bottom: 1px; right: 1px;"></div></div></div><span id="FCDD9495-2925-47A1-A8C4-4598E8077233" style="display: none;">Click to toggle between metric and imperial units</span></button><div class="gmnoprint gm-style-cc" draggable="false" style="z-index: 1000001; user-select: none; position: relative; height: 14px; line-height: 14px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a href="https://www.google.com/intl/en-US_US/help/terms_maps.html" target="_blank" rel="noopener" style="text-decoration: none; cursor: pointer; color: rgb(0, 0, 0);">Terms</a></div></div><div draggable="false" class="gm-style-cc" style="user-select: none; position: relative; height: 14px; line-height: 14px;"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a target="_blank" rel="noopener" title="Report errors in the road map or imagery to Google" dir="ltr" href="https://www.google.com/maps/@1.309836,103.911371,16z/data=!5m1!1e4!10m1!1e1!12b1?source=apiv3&amp;rapsrc=apiv3" style="font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(0, 0, 0); text-decoration: none; position: relative;">Report a map error</a></div></div></div></div></div></div></div>
+  </div>
+
+
+            </div>
+                    </div>
+        <!-- end campus direction  -->
+
+        <!-- testinomial -->
+
+            <div class="testimonials">
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- FILE NAME SUGGESTIONS:
+   * container--view--testimonials--default.html.twig
+   * container--view--testimonials.html.twig
+   x container.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/system/container.html.twig' -->
+
+
+<div class="views-element-container">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view' -->
+<!-- FILE NAME SUGGESTIONS:
+   * views-view--testimonials--default.html.twig
+   * views-view--testimonials.html.twig
+   x views-view.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/views/views-view.html.twig' -->
+
+
+<div class="testimonials testimonials--default js-view-dom-id-157316954b7b1c07b9de3bbf9cd559a59126dfc8071454bced17d1aef8a3d8e0">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="testimonials__list">
+    
+  </div>
+
+  
+  
+
+  
+  
+
+  
+</div>
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/views/views-view.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/system/container.html.twig' -->
+
+
+        </div>
+            <!-- end testinomial -->
+    </div>
+
+
+<!-- end page content----->
+
+  
+<div class="page__layout map-item nursery--" id="node_nursery_288" data-nid="288" data-flag-url="/nursery-selection" data-flag-label="Choose" data-unflag-label="Online registration" data-claim-url="/nurseries/preregistration" data-map-icon="" data-map-lat="1.309836" data-map-lng="103.911371">
+</div>
+</article>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/node/node--nursery--full.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/system/region.html.twig' -->
+
+
+      </div>    
+    
+    
+          <div class="region--bottom">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--bottom-full.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/system/region.html.twig' -->
+  <div class="region region--bottom-full">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--block-content:32406f67-d4f7-4594-8368-4862bb4a0931--entitynodecanonical.html.twig
+   * block--bundle--block-info.html.twig
+   x block--bookatour.html.twig
+   * block--block-content--32406f67-d4f7-4594-8368-4862bb4a0931.html.twig
+   * block--block-content.html.twig
+   * block--block-content.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/block/block--bookatour.html.twig' -->
+<div class="banner_image">
+    <div class="card">
+                    <style>
+				.book-a-tour-card {
+					background-image: url('https://www.kiddiwinkie.edu.sg/sites/default/files/my_files/Book%20a%20tour%20%E2%80%93%20bottom%20banner.jpg') !important;
+				}
+			</style>
+							<style>
+					@media(max-width: 767px) {
+						.book-a-tour-card {
+							background-image: url('https://www.kiddiwinkie.edu.sg/sites/default/files/my_files/Mobile-blog-tour-bottom.jpg') !important;
+						}
+					}
+				</style>
+						<div class="card-body book-a-tour-card">
+                        <div class="container">
+                    <div class="banner_image__content">
+                        <h2 class="card-title">                       
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+    
+        
+                  
+      Want to Find Out More About Our Campuses?
+  
+
+
+        
+  
+  
+
+
+
+
+
+
+
+
+                        </h2>
+                        <div class="card-text">
+                                                       <p>Book a tour at your preferred campus to take a look at our learning environment and see our teachers and children in action.</p>
+
+  							                        </div>
+                        <a href="/book-a-tour?select_a_branch=288">Book A Tour</a>
+                                            </div>
+                </div>
+
+            </div>
+    </div>
+</div>
+<!-- END OUTPUT from 'themes/custom/bab/templates/block/block--bookatour.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/system/region.html.twig' -->
+
+
+    </div>
+  
+    
+    
+    
+  
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   x region--footer.html.twig
+   * region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/system/region--footer.html.twig' -->
+
+    <!-- NEWS LETTER -->
+
+
+    <div class="news_letter">
+        <div class="news_letter__container">
+            <div class="container">
+                <div class="news_letter__content d-flex">
+                    <h3 class="news_letter__title">Newsletter</h3>
+                    <p class="news_letter__text">For latest news and updates. <br> Subscribe now.</p>
+
+                    <div class="input-group">
+                        <span class="input-group-text"><img src="/themes/custom/bab/assets/images/subscribe-mail.svg" alt="subscribe mail"></span>
+                        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--webform-block--entitynodecanonical.html.twig
+   * block--webform.html.twig
+   x block--webform-block.html.twig
+   * block--webform.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/block/block--webform-block.html.twig' -->
+
+
+  
+        
+
+
+<div class="block-webform webform-block">
+
+  
+    
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'webform' -->
+<!-- FILE NAME SUGGESTIONS:
+   * webform--webform-submission-inscription-newsletter-node-288-add-form.html.twig
+   * webform--inscription-newsletter.html.twig
+   x webform.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/webform/templates/webform.html.twig' -->
+<form class="webform-submission-form webform-submission-add-form webform-submission-inscription-newsletter-form webform-submission-inscription-newsletter-add-form webform-submission-inscription-newsletter-node-288-form webform-submission-inscription-newsletter-node-288-add-form js-webform-submit-once js-webform-details-toggle webform-details-toggle" data-drupal-selector="webform-submission-inscription-newsletter-node-288-add-form" action="/campus-list/east-coast" method="post" id="webform-submission-inscription-newsletter-node-288-add-form" accept-charset="UTF-8" data-drupal-form-fields="edit-adresse-email,edit-actions-submit,edit-url">
+  
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'webform_submission_form' -->
+<!-- FILE NAME SUGGESTIONS:
+   * webform-submission-form--inscription-newsletter.html.twig
+   x webform-submission-form.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/webform/templates/webform-submission-form.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- FILE NAME SUGGESTIONS:
+   * form-element--edit-adresse-email.html.twig
+   * form-element--webform-email.html.twig
+   x form-element.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/form/form-element.html.twig' -->
+<div class="form__item form__item-adresse-email form__item-email js-form-item js-form-type-email js-form-item-adresse-email form__no-label">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__email' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--email.html.twig
+   * input--adresse-email.html.twig
+   * input--edit-adresse-email.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/input/input.html.twig' -->
+
+
+
+  <input data-webform-required-error="Enter your email address" data-drupal-selector="edit-adresse-email" type="email" id="edit-adresse-email" name="adresse_email" value="" maxlength="254" placeholder="Enter Email Address" class="required form__email" required="required" aria-required="true">
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/input/input.html.twig' -->
+
+
+          </div>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/form/form-element.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- FILE NAME SUGGESTIONS:
+   * container--edit-actions.html.twig
+   * container--webform-actions.html.twig
+   x container.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/system/container.html.twig' -->
+
+
+<div data-drupal-selector="edit-actions" class="form-actions webform-actions js-form-wrapper form-wrapper container--edit-actions" id="edit-actions">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'webform_actions' -->
+<!-- FILE NAME SUGGESTIONS:
+   * webform-actions--edit-actions.html.twig
+   x webform-actions.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/webform/templates/webform-actions.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__submit' -->
+<!-- FILE NAME SUGGESTIONS:
+   x input--submit.html.twig
+   * input--op.html.twig
+   * input--edit-actions-submit.html.twig
+   x input--submit.html.twig
+   * input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/input/input--submit.html.twig' -->
+
+
+
+  <button type="submit" class="webform-button--submit button-newsletter button button--primary js-form-submit form__submit" data-drupal-selector="edit-actions-submit" id="edit-actions-submit" name="op" value="Subscribe"><span>Subscribe</span></button>
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/input/input--submit.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'modules/contrib/webform/templates/webform-actions.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/system/container.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--hidden.html.twig
+   * input--form-build-id.html.twig
+   * input--webform-submission-inscription-newsletter-node-288-add-form--form-brnlivhf2subenztoqi2vxz9nza9dnugaeuph-sneie.html.twig
+   * input--webform-submission-inscription-newsletter-node-288-add-form--hidden.html.twig
+   * input--webform-submission-inscription-newsletter-node-288-add-form--form-bRnLIvhf2suBEnZtOQi2VXZ9NZa9dNUGAEUPH-SNEiE.html.twig
+   * input--form-brnlivhf2subenztoqi2vxz9nza9dnugaeuph-sneie.html.twig
+   * input--webform-submission-inscription-newsletter-node-288-add-form.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/input/input.html.twig' -->
+
+
+
+  <input autocomplete="off" data-drupal-selector="form-brnlivhf2subenztoqi2vxz9nza9dnugaeuph-sneie" type="hidden" name="form_build_id" value="form-bRnLIvhf2suBEnZtOQi2VXZ9NZa9dNUGAEUPH_SNEiE" class="form__hidden">
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/input/input.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--hidden.html.twig
+   * input--form-id.html.twig
+   * input--webform-submission-inscription-newsletter-node-288-add-form--edit-webform-submission-inscription-newsletter-node-288-add-form.html.twig
+   * input--webform-submission-inscription-newsletter-node-288-add-form--hidden.html.twig
+   * input--edit-webform-submission-inscription-newsletter-node-288-add-form.html.twig
+   * input--webform-submission-inscription-newsletter-node-288-add-form.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/input/input.html.twig' -->
+
+
+
+  <input data-drupal-selector="edit-webform-submission-inscription-newsletter-node-288-add-form" type="hidden" name="form_id" value="webform_submission_inscription_newsletter_node_288_add_form" class="form__hidden">
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/input/input.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- FILE NAME SUGGESTIONS:
+   * container--textfield--url.html.twig
+   x container.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/system/container.html.twig' -->
+
+
+<div class="url-textfield js-form-wrapper form-wrapper container--" style="display: none !important;">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- FILE NAME SUGGESTIONS:
+   * form-element--webform-submission-inscription-newsletter-node-288-add-form--edit-url.html.twig
+   * form-element--webform-submission-inscription-newsletter-node-288-add-form--textfield.html.twig
+   * form-element--edit-url.html.twig
+   * form-element--webform-submission-inscription-newsletter-node-288-add-form.html.twig
+   x form-element.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/form/form-element.html.twig' -->
+<div class="form__item form__item-url form__item-textfield js-form-item js-form-type-textfield js-form-item-url">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element_label' -->
+<!-- FILE NAME SUGGESTIONS:
+   * form-element-label--edit-url.html.twig
+   x form-element-label.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/form/form-element-label.html.twig' -->
+<label for="edit-url">Leave this field blank </label>
+<!-- END OUTPUT from 'themes/custom/jv/templates/form/form-element-label.html.twig' -->
+
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__textfield' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--textfield.html.twig
+   * input--url.html.twig
+   * input--webform-submission-inscription-newsletter-node-288-add-form--edit-url.html.twig
+   * input--webform-submission-inscription-newsletter-node-288-add-form--textfield.html.twig
+   * input--edit-url.html.twig
+   * input--webform-submission-inscription-newsletter-node-288-add-form.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/input/input.html.twig' -->
+
+
+
+  <input autocomplete="off" data-drupal-selector="edit-url" type="text" id="edit-url" name="url" value="" maxlength="128" class="form__text">
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/input/input.html.twig' -->
+
+
+          </div>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/form/form-element.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/system/container.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'modules/contrib/webform/templates/webform-submission-form.html.twig' -->
+
+
+  
+</form>
+
+<!-- END OUTPUT from 'modules/contrib/webform/templates/webform.html.twig' -->
+
+
+  
+</div>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/block/block--webform-block.html.twig' -->
+
+
+                    </div>
+                    <!--
+                <div class="input-group">
+                    <span class="input-group-text"><img src="/themes/custom/bab/assets/images/subscribe-mail.svg"
+                            alt="subscribe mail"></span>
+                    <input type="text" class="form-control" placeholder="Enter Email Address"
+                        aria-label="Enter Email Address" aria-describedby="newsLetterBtn">
+                    <button class="btn btn-outline-secondary" type="button" id="newsLetterBtn">SUBSCRIBE</button>
+
+                </div> -->
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- FOOTER -->
+    <footer>
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-sm-12">
+                        <div class="footer_logo">
+                            <img src="https://www.kiddiwinkie.edu.sg/sites/default/files/my_files/KW-New-Logo-1_0.png" alt="logo">
+                            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--block-content:55af5b40-a409-4137-8840-2a91143ef5d7--entitynodecanonical.html.twig
+   * block--bundle--block-info.html.twig
+   * block--footertextbelowlogo.html.twig
+   * block--block-content--55af5b40-a409-4137-8840-2a91143ef5d7.html.twig
+   * block--block-content.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/block/block.html.twig' -->
+
+
+  
+        
+
+
+<div class="block-footertextbelowlogo block-content55af5b40-a409-4137-8840-2a91143ef5d7">
+
+  
+    
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--block-info--field-block-info-title--full.html.twig
+   * field--block-info--field-block-info-title--full.html.twig
+   * field--block-content--field-block-info-title--full.html.twig
+   * field--block-content--block-info--full.html.twig
+   * field--block-info--full.html.twig
+   * field--block-content--field-block-info-title--block-info.html.twig
+   * field--block-content--field-block-info-title.html.twig
+   * field--block-content--block-info.html.twig
+   * field--full.html.twig
+   * field--block-content.html.twig
+   x field--field-block-info-title.html.twig
+   * field--string.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/field/field--field-block-info-title.html.twig' -->
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+    
+        
+                  
+      <h2 class="block-info-title">Footer About Us</h2>
+  
+
+
+        
+  
+  
+
+
+
+
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/field/field--field-block-info-title.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--block-info--body--full.html.twig
+   * field--block-info--body--full.html.twig
+   * field--block-content--body--full.html.twig
+   * field--block-content--block-info--full.html.twig
+   * field--block-info--full.html.twig
+   * field--block-content--body--block-info.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--block-info.html.twig
+   * field--full.html.twig
+   * field--block-content.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/field/field.html.twig' -->
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+
+  
+  
+  
+  
+
+  
+  
+    
+        
+                  
+      <div class="body"><p>KiddiWinkie Schoolhouse is a premium preschool brand offering Infant Care, Preschool and Childcare programmes under Babilou Family Singapore, a subsidiary of Babilou Family Group based in France.</p>
+</div>
+  
+
+
+        
+  
+  
+
+
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/field/field.html.twig' -->
+
+
+  
+</div>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/block/block.html.twig' -->
+
+                            
+                            <div class="social_group d-flex">
+                                <a target="_blank" href="https://www.facebook.com/kiddiwinkie"><img src="/themes/custom/bab/assets/images/social-facebook.svg" alt="facebook"></a>
+                                <a target="_blank" href="https://www.instagram.com/kiddiwinkie/ "><img src="/themes/custom/bab/assets/images/social-instagram.svg" alt="Instagram"></a>
+                                <a target="_blank" href="https://www.youtube.com/channel/UC5Qqg5EJpapPIZoAKq-eD8g "><img src="/themes/custom/bab/assets/images/social-youtube.svg" alt="youtube"></a>
+                                <a target="_blank" href="https://www.linkedin.com/company/babilou-family-singapore/"><img src="/themes/custom/bab/assets/images/social_linkedin.svg" alt="linkedin"></a>
+								<a target="_blank" href="https://www.tiktok.com/@kiddiwinkieschoolhouse"><img src="/themes/custom/bab/assets/images/social-tiktok.svg" alt="tiktok"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-sm-12">
+
+                        <div class="footer_menu__mobile footer_menu">
+                            <div class="accordion" id="accordionFooterMenuMobile">
+                                <div class="accordion-item">
+                                    <h4 class="accordion-header" id="headingOne">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                            ABOUT US
+                                        </button>
+                                    </h4>
+                                    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionFooterMenuMobile">
+                                        <div class="accordion-body">
+                                            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--system-menu-block:footer--entitynodecanonical.html.twig
+   * block--footer-menu.html.twig
+   * block--system-menu-block--footer.html.twig
+   x block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-footer-menu-menu" class="block-footer-menu">
+            
+  <h2 class="visually-hidden" id="block-footer-menu-menu">Footer menu</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__footer' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu--footer.html.twig
+   x menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/menu.html.twig' -->
+
+              <ul class="menu-footer">
+              <li>
+        <a href="/our-curriculum" data-drupal-link-system-path="node/90">Our Curriculum</a>
+                                <ul>
+              <li>
+        <a href="/infant-care" data-drupal-link-system-path="taxonomy/term/5">Infant Care</a>
+              </li>
+          <li>
+        <a href="/early-preschool-years" data-drupal-link-system-path="taxonomy/term/6">Early &amp; Preschool Years</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="/centres-list" data-drupal-link-system-path="centres-list">Our Centres</a>
+              </li>
+          <li>
+        <a href="/admission-info-fees" data-drupal-link-system-path="node/156">Admission Info &amp; Fees</a>
+              </li>
+          <li>
+        <a href="/blog" data-drupal-link-system-path="blog">Blog</a>
+              </li>
+        </ul>
+  
+
+
+<!-- END OUTPUT from 'core/modules/system/templates/menu.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/block/block--system-menu-block.html.twig' -->
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h4 class="accordion-header" id="headingTwo">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                            OUR CENTRES
+                                        </button>
+                                    </h4>
+                                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionFooterMenuMobile">
+                                        <div class="accordion-body">
+                                            <div class="d-flex">
+                                                <ul class="nav flex-column">
+
+
+                                                                                <li class="nav-item"><a class="nav-link" href="https://www.kiddiwinkie.edu.sg/campus-list?field_regions_value=north">
+                                North
+                            </a></li>
+                            
+                                                        <li class="nav-item"><a class="nav-link" href="https://www.kiddiwinkie.edu.sg/campus-list?field_regions_value=central">
+                                Central
+                            </a></li>
+                            
+                                                        <li class="nav-item"><a class="nav-link" href="https://www.kiddiwinkie.edu.sg/campus-list?field_regions_value=south">
+                                South
+                            </a></li>
+                            
+                                                        <li class="nav-item"><a class="nav-link" href="https://www.kiddiwinkie.edu.sg/campus-list?field_regions_value=east">
+                                East
+                            </a></li>
+                            
+                                                        <li class="nav-item"><a class="nav-link" href="https://www.kiddiwinkie.edu.sg/campus-list?field_regions_value=west">
+                                West
+                            </a></li>
+                            
+                                                                                                         
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h4 class="accordion-header" id="headingThree">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                            GET IN TOUCH
+                                        </button>
+                                    </h4>
+                                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionFooterMenuMobile">
+                                        <div class="accordion-body">
+                                            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--system-menu-block:footer-others--entitynodecanonical.html.twig
+   * block--footerothers.html.twig
+   * block--system-menu-block--footer-others.html.twig
+   x block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-footerothers-menu" class="block-footerothers">
+            
+  <h2 class="visually-hidden" id="block-footerothers-menu">Footer Others</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__footer_others' -->
+<!-- FILE NAME SUGGESTIONS:
+   x menu--footer-others.html.twig
+   x menu--footer-others.html.twig
+   * menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/system/menu--footer-others.html.twig' -->
+
+              <ul class="nav flex-column">
+    
+          <li class="nav-item">
+  
+                            <a href="/contact-us" class="nav-link" title="" data-drupal-link-system-path="webform/contact_us">
+         Contact Us
+         
+          </a>
+                
+      </li>
+          <li class="nav-item">
+  
+                            <a href="https://kiddiwinkie.edu.sg/book-a-tour" class="nav-link" title="">
+         Book a Tour
+         
+          </a>
+                
+      </li>
+          <li class="nav-item">
+  
+                            <a href="https://babilou-family.sg/careers" class="nav-link" target="_blank" title="">
+         Careers
+         
+          </a>
+                
+      </li>
+          <li class="nav-item">
+  
+                            <a href="/frequently-asked-questions" class="nav-link" title="" data-drupal-link-system-path="node/192">
+         FAQ
+         
+          </a>
+                
+      </li>
+          <li class="nav-item">
+  
+                            <a href="/privacy-policy" class="nav-link" title="" data-drupal-link-system-path="node/191">
+         Privacy Policy
+         
+          </a>
+                
+      </li>
+        </ul>
+  
+
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/system/menu--footer-others.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/block/block--system-menu-block.html.twig' -->
+
+
+                                            <ul class="nav flex-column">
+                                                <li class="nav-item">
+                                                    <a href="javascript:Didomi.preferences.show()">Consent choices</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer__copy_right">
+                <div class="container">
+                                                <p>Copyright © KiddiWinkie Schoolhouse 2024. All right reserved. KiddiWinkie Schoolhouse is an education brand of Babilou Family.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="ui-sticky-menu open">
+        <div class="fixed_side__menu_box">
+            <a class="menu_links" href="https://www.kiddiwinkie.edu.sg/centres-list">
+                <img src="/themes/custom/bab/assets/images/campus.svg" alt="Location link">
+                <span class="menu_link__item">Our Centres</span>
+            </a>
+            <a class="menu_links" href="https://www.kiddiwinkie.edu.sg/contact-us">
+                <img src="/themes/custom/bab/assets/images/Group_16730.svg" alt="Contact us link">
+                <span class="menu_link__item">Contact Us</span>
+            </a>
+            <a class="menu_links" href="https://www.kiddiwinkie.edu.sg/book-a-tour">
+                <img src="/themes/custom/bab/assets/images/Group_16628.svg" alt="Book a tour link">
+                <span class="menu_link__item">Book A Tour</span>
+            </a>
+            <a class="ui-click-arrow-anchor" href="javascript:void(0)">
+                <span>Hide</span>
+                <img src="/themes/custom/bab/assets/images/right_arrow_pink.svg" alt="Book a tour link">
+            </a>
+        </div>
+        <div class="ui-click-arrow">
+            <a href="javascript:void(0)" class="ui-click-arrow-anchor"> <img src="/themes/custom/bab/assets/images/arrow_left_pink.svg" alt="Arrow"></a>
+        </div>
+    </div>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/system/region--footer.html.twig' -->
+
+
+    
+  
+<!-- END OUTPUT from 'themes/custom/bab/templates/page/page.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+
+
+      
+    </div>
+
+        <div id="back-to-top" class="back-to-top">
+      <a href="#top"><span class="sr-only">Haut de page</span></a>
+    </div>
+
+    
+
+  <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/288","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"anchor_link\/drupal.anchor_link,bab\/global-styling,bab\/nursery,babilou_map\/babilou_map,babilou_nursery\/babilou_nursery,babilou_nursery_basket\/babilou_basket,big_pipe\/big_pipe,datalayer\/behaviors,jv\/messages,jv\/toolbar,office_hours\/office_hours_formatter,responsive_table_filter\/responsive-table,views\/views.module,webform\/webform.element.details.save,webform\/webform.element.details.toggle,webform\/webform.element.message,webform\/webform.form,webform\/webform.form.submit_once","theme":"bab","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"bigPipePlaceholderIds":{"callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder\u0026args%5B0%5D=bab_local_tasks\u0026args%5B1%5D=full\u0026args%5B2%5D\u0026token=5wPwVu8wr7saJrdTs3O7xiuXBy5EqKjHQvmuH4snfIE":true,"callback=Drupal%5CCore%5CRender%5CElement%5CStatusMessages%3A%3ArenderMessages\u0026args%5B0%5D\u0026token=_HAdUpwWmet0TOTe2PSiJuMntExoshbm1kh2wQzzzAA":true,"callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder\u0026args%5B0%5D=nursery_cart\u0026args%5B1%5D=full\u0026args%5B2%5D\u0026token=QzmAN9A3MTKkTe8sFGznsZO53GbnLoh6JLw4U0g_GkQ":true},"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":-10}}},"user":{"uid":0,"permissionsHash":"0819680935ee1fc149830aba4251958dcead15bb4d2c314191bab9afa81870ca"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.6.0"></script>
+<script src="/core/assets/vendor/css-escape/css.escape.js?v=1.5.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=9.2.5"></script>
+<script src="/core/misc/drupal.js?v=9.2.5"></script>
+<script src="/core/misc/drupal.init.js?v=9.2.5"></script>
+<script src="/core/misc/debounce.js?v=9.2.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/escape-selector-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-1-7-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/controlgroup-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-reset-mixin-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/mouse-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/checkboxradio-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/resizable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/draggable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/button-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/dialog-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=5.2.0"></script>
+<script src="/modules/contrib/datalayer/js/datalayer.js?v=1.x"></script>
+<script src="/themes/custom/bab/assets/js/contrib/jquery.toggle-panel.js?sb05qw"></script>
+<script src="/themes/custom/bab/assets/js/contrib/jquery.back-to-top.js?sb05qw"></script>
+<script src="/themes/custom/bab/assets/js/features/utils.js?sb05qw"></script>
+<script src="/themes/custom/bab/assets/js/features/nav.js?sb05qw"></script>
+<script src="/themes/custom/bab/assets/js/app.init.js?sb05qw"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"></script>
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script src="/themes/custom/bab/assets/js/rainbow.min.js?sb05qw"></script>
+<script src="/themes/custom/bab/assets/js/tikslus360.js?sb05qw"></script>
+<script src="/themes/custom/bab/assets/js/tikslus360.min.js?sb05qw"></script>
+<script src="/themes/custom/bab/assets/js/custom.js?sb05qw"></script>
+<script src="/core/misc/form.js?v=9.2.5"></script>
+<script src="/modules/contrib/webform/js/webform.behaviors.js?v=9.2.5"></script>
+<script src="/core/misc/states.js?v=9.2.5"></script>
+<script src="/modules/contrib/webform/js/webform.states.js?v=9.2.5"></script>
+<script src="/modules/contrib/webform/js/webform.form.js?v=9.2.5"></script>
+<script src="/core/misc/progress.js?v=9.2.5"></script>
+<script src="/core/modules/responsive_image/js/responsive_image.ajax.js?v=9.2.5"></script>
+<script src="/core/misc/ajax.js?v=9.2.5"></script>
+<script src="/modules/contrib/webform/js/webform.form.submit_once.js?v=9.2.5"></script>
+<script src="/modules/contrib/webform/js/webform.element.details.save.js?v=9.2.5"></script>
+<script src="/core/misc/announce.js?v=9.2.5"></script>
+<script src="/modules/contrib/webform/js/webform.element.details.toggle.js?v=9.2.5"></script>
+<script src="/modules/contrib/webform/js/webform.element.message.js?v=9.2.5"></script>
+<script src="/core/misc/jquery.tabbable.shim.js?v=9.2.5"></script>
+<script src="/core/assets/vendor/sortable/Sortable.min.js?v=1.13.0"></script>
+<script src="/core/misc/position.js?v=9.2.5"></script>
+<script src="/modules/custom/babilou_map/assets/js/markerclusterer.js?sb05qw"></script>
+<script src="/modules/custom/babilou_map/assets/js/babilou_map.js?sb05qw"></script>
+<script src="/modules/custom/babilou_nursery/assets/js/babilou_nursery.js?sb05qw"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC1BL1JGQ22-J_qTEW51rfuGK02IscxthE&amp;callback=initMap&amp;libraries=places" async="async" defer="defer"></script>
+<script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
+<script type="text/javascript" id="hs-script-loader" src="//js.hs-scripts.com/6034113.js"></script><script type="text/javascript" id="">window.addEventListener("message",function(a){"hsFormCallback"===a.data.type&&"onFormSubmitted"===a.data.eventName&&window.dataLayer.push({event:"hubspot-form-success","hs-form-guid":a.data.id})});</script><script type="text/javascript" id="" src="//210188.tctm.co/t.js"></script><script type="application/ld+json">
+
+{
+  "@context": "https://schema.org",
+  "@type": "ChildCare",
+  "name": "Kiddiwinkie Schoolhouse",
+  "image": "https://kiddiwinkie.edu.sg/sites/default/files/my_files/KW-web-220x50.jpg",
+  "@id": "https://kiddiwinkie.edu.sg/",
+  "url": "https://kiddiwinkie.edu.sg/",
+  "telephone": "+65 3165 0224",
+  "priceRange": "$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1 Novena Terrace",
+    "addressLocality": "Singapore",
+    "postalCode": "307903",
+    "addressCountry": "SG"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 1.3210943,
+    "longitude": 103.8402477
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "07:00",
+    "closes": "19:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/kiddiwinkie",
+    "https://www.instagram.com/kiddiwinkie/",
+    "https://www.youtube.com/channel/UC5Qqg5EJpapPIZoAKq-eD8g",
+    "https://www.linkedin.com/company/babilou-family-singapore/",
+    "https://www.tiktok.com/@kiddiwinkieschoolhouse",
+    "https://kiddiwinkie.edu.sg/"
+  ] 
+}
+</script><script type="text/javascript" id="">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";
+a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("CBP15LRC77UB6N07UA90");a.page()}(window,document,"ttq");</script>
+
+<script src="/themes/custom/bab/assets/js/contrib/slick.js?sb05qw"></script>
+<script src="/themes/custom/bab/assets/js/contrib/jquery.colorbox-min.js?sb05qw"></script>
+<script src="/themes/custom/bab/assets/js/features/slider.js?sb05qw"></script>
+<script src="/themes/custom/bab/assets/js/features/accordions.js?sb05qw"></script>
+<script src="/themes/custom/bab/assets/js/features/slider-nearest.js?sb05qw"></script>
+<script src="/themes/custom/bab/assets/js/features/nursery.js?sb05qw"></script>
+<script src="/modules/custom/babilou_nursery_basket/assets/js/babilou_basket.js?sb05qw"></script>
+<script src="/core/modules/big_pipe/js/big_pipe.js?v=9.2.5"></script>
+
+<script type="application/vnd.drupal-ajax" data-big-pipe-event="start"></script>
+    <script type="application/vnd.drupal-ajax" data-big-pipe-replacement-for-placeholder-with-id="callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder&amp;args%5B0%5D=bab_local_tasks&amp;args%5B1%5D=full&amp;args%5B2%5D&amp;token=5wPwVu8wr7saJrdTs3O7xiuXBy5EqKjHQvmuH4snfIE">
+    [{"command":"insert","method":"replaceWith","selector":"[data-big-pipe-placeholder-id=\u0022callback=Drupal%5Cblock%5CBlockViewBuilder%3A%3AlazyBuilder\u0026args%5B0%5D=bab_local_tasks\u0026args%5B1%5D=full\u0026args%5B2%5D\u0026token=5wPwVu8wr7saJrdTs3O7xiuXBy5EqKjHQvmuH4snfIE\u0022]","data":"","settings":null}]
+    </script>    <script type="application/vnd.drupal-ajax" data-big-pipe-replacement-for-placeholder-with-id="callback=Drupal%5CCore%5CRender%5CElement%5CStatusMessages%3A%3ArenderMessages&amp;args%5B0%5D&amp;token=_HAdUpwWmet0TOTe2PSiJuMntExoshbm1kh2wQzzzAA">
+    [{"command":"insert","method":"replaceWith","selector":"[data-big-pipe-placeholder-id=\u0022callback=Drupal%5CCore%5CRender%5CElement%5CStatusMessages%3A%3ArenderMessages\u0026args%5B0%5D\u0026token=_HAdUpwWmet0TOTe2PSiJuMntExoshbm1kh2wQzzzAA\u0022]","data":"","settings":null}]
+    </script>
+<script type="application/vnd.drupal-ajax" data-big-pipe-event="stop"></script>
+
+  
+
+
+
+
+<div id="drupal-live-announce" class="visually-hidden" aria-live="polite" aria-busy="false"></div><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button type="button" id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><div id="a30132285560b88d6e6e-tr-container" style="display: none;"><iframe src="https://cdn.brand-display.com/tr/tag/cfix.html?key=a30132285560b88d6e6ec211bc5efc27594c6a83" style="width: 1px; height: 1px; display: none;"></iframe><script src="https://tr.brand-display.com/tracking/api/remarketing?_t=1711771012997&amp;advertiserId=knx115469&amp;id=a30132285560b88d6e6ec211bc5efc27594c6a83&amp;v1=&amp;v2=&amp;v3=&amp;v4=&amp;v5=&amp;v6=&amp;v7=&amp;v8=&amp;_t=1711771012642&amp;url=https%3A%2F%2Fwww.kiddiwinkie.edu.sg%2Fcampus-list%2Feast-coast&amp;referer=&amp;aurl=&amp;areferer=&amp;required=0&amp;extra=%7B%22id%22%3A%22all%22%7D&amp;d=1&amp;r=0&amp;bf=d0bed374fcd5e6cc0ecd43bcbadc3c09"></script><!-- Facebook Pixel Code --> <script type="text/javascript"> !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n; n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');  var fbqid = fbqid || [];if (typeof fbq == 'undefined' || (fbqid.indexOf('736279291167738') < 0)) {fbq('init', '736279291167738'); fbqid.push('736279291167738');} fbq('track', "PageView");</script> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=736279291167738&amp;ev=PageView&amp;noscript=1" /></noscript> <!-- End Facebook Pixel Code --><!-- Google tag (gtag.js) --> <script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=AW-11464022261"></script> <script type="text/javascript">   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'AW-11464022261'); </script> </div><img style="display: none;" src="https://tr.brand-display.com/tracking/api/remarketing?_t=1711771012997&amp;advertiserId=knx115469&amp;id=a30132285560b88d6e6ec211bc5efc27594c6a83&amp;v1=&amp;v2=&amp;v3=&amp;v4=&amp;v5=&amp;v6=&amp;v7=&amp;v8=&amp;_t=1711771012642&amp;url=https%253A%252F%252Fwww.kiddiwinkie.edu.sg%252Fcampus-list%252Feast-coast&amp;referer=&amp;aurl=&amp;areferer=&amp;required=0&amp;extra=%257B%2522id%2522%253A%2522all%2522%257D&amp;d=1&amp;r=0&amp;bf=d0bed374fcd5e6cc0ecd43bcbadc3c09&amp;itp=false"></body><!-- Version : undefined --><iframe id="__JSBridgeIframe_1.0__" title="jsbridge___JSBridgeIframe_1.0__" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult_1.0__" title="jsbridge___JSBridgeIframe_SetResult_1.0__" style="display: none;"></iframe><iframe id="__JSBridgeIframe__" title="jsbridge___JSBridgeIframe__" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult__" title="jsbridge___JSBridgeIframe_SetResult__" style="display: none;"></iframe></html>

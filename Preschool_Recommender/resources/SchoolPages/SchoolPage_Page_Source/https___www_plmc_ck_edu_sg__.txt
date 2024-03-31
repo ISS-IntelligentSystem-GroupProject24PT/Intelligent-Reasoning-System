@@ -1,0 +1,613 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" prefix="og: http://ogp.me/ns#" class=""><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta charset="utf-8">
+<!--<meta name="Author" content="Determination" />-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+<meta name="keywords" content="plmc kindergarten, plmc covenant kindergarten, plmc, paya lebar methodist church covenant kindergarten, paya lebar methodist church kindergarten, paya lebar methodist church, covenant kindergarten, kindergarten Kovan, kindergarten Upper Serangoon, kindergarten Hougang, kindergarten Lor Ah Soo, kindergarten Serangoon,   church kindergarte, church kindergarten Serangoon, church kindergarten Upper Serangoon">
+
+<title>PLMC Paya Lebar Methodist Church Covenant Kindergarten</title>
+
+<!--<meta property="analytics-track" content="DETERMINATION - Index" />
+<meta property="analytics-s-channel" content="homepage" />
+<meta name="Description" content="Insert SOUL Here, You're filled with DETERMINATION." />
+<meta property="og:title" content="Determination" />
+<meta property="og:description" content="Insert SOUL Here, You're filled with DETERMINATION." />
+<meta property="og:url" content="http://site.cyberland.edu.sg/miku/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Determination" />-->
+
+<!-- STYLE LINKS -->
+
+<link rel="stylesheet" href="css/main.css" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Kalam" rel="stylesheet">
+	
+<!--Accordian-->
+<!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">-->
+<link href="css/homepage_accordian.css" rel="stylesheet" type="text/css">
+
+<!-- STYLE BLOCK -->
+
+<!-- SHOWS CURRENT PAGE -->
+
+<style>
+	#header nav ul #current-home a,
+	#header nav ul #current-home a:hover {
+		color: #FFFFFF;
+	}
+	#link1, #link1:hover {
+		/*background-color: #37bca5;*/
+		/*background-color: #2bb573;*/
+		color: #333333;
+		font-weight: bolder;	
+	}
+</style>
+
+<!-- SCRIPT LINKS -->
+
+<!-- SLIDESHOW LINK -->
+
+<script src="http://code.jquery.com/jquery.js"></script>
+
+<!-- MOBILE NAV SOURCE -->
+
+<script src="src/jquery-1.9.1.min.js"></script>
+<script src="src/jPushMenu.js"></script>
+
+<!-- SLIDESHOW SOURCE -->
+
+<script src="src/skdslider.min.js"></script>
+
+<!-- UPDATES/NEWS TICKER SOURCE -->
+
+<script type="text/javascript" src="src/jquery.totemticker.js"></script>
+
+<!-- SCRIPT BLOCK -->
+
+<script type="text/javascript">
+
+	<!-- TO THE TOP -->
+
+	$(document).on('click', '#tothetopIndex', function(){
+		$('html,body').animate({ scrollTop: 0 }, 500);
+	});
+
+	<!-- SLIDESHOW -->
+	
+	jQuery(document).ready(function(){
+			jQuery('#slideshow-content').skdslider({
+				delay: 3000, 
+				animationSpeed: 400,
+				showNextPrev: true,
+				showPlayButton: false,
+				autoSlide: true,
+				animationType: 'sliding'
+			});
+			
+			jQuery('#responsive').change(function() {
+				$('#responsive_wrapper').width(jQuery(this).val());
+				$(window).trigger('resize');
+			});
+		});
+		
+	<!-- UPDATES/NEWS TICKER -->
+	
+	//$(function(){
+	//	$('#vertical-ticker').totemticker({
+	//		row_height	:	'400px',
+	//		next		:	'#ticker-next',
+	//		previous	:	'#ticker-previous',
+	//		stop		:	'#stop',
+	//		start		:	'#start',
+	//		mousestop	:	true,
+	//	});
+	//});
+	
+	<!-- MOBILE NAV -->
+	
+	jQuery(document).ready(function($) {
+		$('.toggle-menu').jPushMenu();
+	});
+	
+</script>
+
+</head>
+<body class="push-body">
+		
+<!-- WRAPPER -->
+
+<div id="wrapper-outer">
+
+<!-- LOGO / MOBILE NAV 
+**Please copy and paste into each files instead of using php include as the mobile nav are linked to the javascript,
+  this is to prevent it from collision with other javascript -->
+
+<div id="Logo-wrapper">
+	<div id="container-logo">
+		<a href="index.php"><img src="img/PLMC-Logo-for-website-top.png" alt="Logo"></a>
+		<!--<a href="index.php"><img src="img/logo_plmc.png" alt="Logo" ></a>-->
+		<!--<h2 class="topbar_companyname">Paya Lebar Methodist Church Covenant Kindergarten</h2>-->
+	</div>
+	<div id="social-media">
+
+		<!--<a href="https://www.facebook.com/jollyseedseducare/" target="_blank"><div id="media01"><img src="img/logo_fb.png" alt="Facebook"></div></a>-->
+		
+
+		<!------------------------------Mobile version side vertical menu start------------------------------>
+    	<nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" style="background-color: #293789;">
+			<h3 style="background-color: #293789;">Menu</h3>
+			<ul>
+            	<li id="cbplink1"><a href="index.php">Home</a></li>
+				<li id="cbplink2"><a href="aboutus-history.php">About Us</a></li>
+                <!--<li id="cbplink3"><a href="aboutus-visionmission.php#vision">Vision, Mission, Philosophy</a></li>-->
+				<!--<li id="cbplink4"><a href="aboutus-visionmission.php#mission">Mission</a></li>
+				<li id="cbplink5"><a href="aboutus-visionmission.php#philosophy">Philosophy</a></li>-->
+				<li id="cbplink6"><a href="programme-curriculum.php">Our Curriculum</a></li>
+				<li id="cbplink7"><a href="programme-learning.php#learningjourneys">Learning Journeys</a></li>
+				<li id="cbplink8"><a href="programme-learning.php#enrichmentprogramme">Enrichment Programme</a></li>
+				<li id="cbplink9"><a href="parentinfo.php">Parent Info</a></li>
+				<li id="cbplink10"><a href="testimonials.php">Testimonials</a></li>
+				<li id="cbplink11"><a href="gallery.php">Gallery</a></li>
+				<li id="cbplink12"><a href="admission.php">Admission</a></li>
+				<li id="cbplink13"><a href="contactus.php">Contact Us</a></li>
+				<!--<li id="cbplink3">
+                	<a href="">Curriculum &nbsp;&#x25BC;</a>
+            		<ul>
+                		<li id="cbp2nd1">
+                        	<a href="seeds-programme.php">Seeds Programme</a>
+                        </li>
+                		<li id="cbp2nd2">
+                        	<a href="jolly-programme.php">Jolly Programme</a>
+                       	</li>
+                	</ul>
+                </li>-->
+
+<!-- Mobile menu with multi-level items
+<li id="cbplink3">
+                	<a href="curriculum.php">Curriculum &nbsp;&#x25BC;</a>
+            		<ul>
+                		<li id="cbp2nd1">
+                        	<a href="#">Pre-Care</a><div class="arrow">&#x25BC;</div>
+                            <ul>
+                            	<li id="cbp3rd1"><a href="#">Nursery</a></li>
+                            	<li id="cbp3rd2"><a href="#">Pre-K</a></li>
+                            </ul>
+                        </li>
+                		<li id="cbp2nd2">
+                        	<a href="#">Child Care</a><div class="arrow">&#x25BC;</div>
+                            <ul>
+                            	<li id="cbp3rd3"><a href="#">K1</a></li>
+                            	<li id="cbp3rd4"><a href="#">K2</a></li>
+                            </ul>
+                       	</li>
+                	</ul>
+                </li>
+
+-->				
+				
+				
+				
+				
+            </ul>
+            <button class="toggle-menu menu-right push-body jPushMenuBtn" style="background-color:#293789; border: thin solid white;">Close</button>
+		</nav><!------------------------------Mobile version side vertical menu end------------------------------>		
+		<div class="container">
+			<div class="main">
+				<button class="toggle-menu menu-right push-body jPushMenuBtn">Menu</button>
+			</div>
+		</div>
+        
+	</div>
+	
+    <div class="clear"></div>
+</div>
+
+<!-- INNER WRAPPER -->
+
+<div id="wrapper-inner" style="padding-bottom: 30px;">
+
+<!-- HEADER -->
+
+<div id="header">
+	<nav>
+    	<ul>
+        	<li>
+            	<a href="index.php"><div id="current-home"><div id="link1">
+                    	Home
+           	  </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="aboutus-history.php"><div id="current-about"><div id="link2">About Us
+              	</div></div></a>
+				
+            </li>
+            
+        	<li>
+            	<a href=""><div id="current-curriculum"><div id="link3">               	  Programme
+       	  		</div></div></a>
+    			<ul>
+      				<li>
+                    	<a href="programme-curriculum.php">
+                    	<div class="link2nd">Our Curriculum</div></a>
+                        
+                   	</li>
+      				<li>
+                    	<a href="programme-learning.php"><div class="link2nd">Learning Journeys</div></a>
+                    </li>
+					<li>
+                    	<a href="programme-learning.php#enrichmentprogramme"><div class="link2nd">Enrichment Programme</div></a>
+                    </li>
+    			</ul>
+                
+          	</li>
+            
+        	<li>
+            	<a href="parentinfo.php"><div id="current-gallery"><div id="link4">Parent Info
+            	</div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="testimonials.php"><div id="current-testimonies"><div id="link5">
+					Testimonials </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="gallery.php"><div id="current-career"><div id="link6">                    	Gallery
+           	  </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="admission.php"><div id="current-admission"><div id="link7">                    	Admission
+              	</div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="contactus.php"><div id="current-contact"><div id="link8">                    	Contact Us
+              	</div></div></a>
+            </li>
+        </ul>
+    </nav>
+</div>
+<div class="clear"></div>
+<div id="content-main">
+
+<!-- MAIN CONTENT -->
+
+	<!-- SLIDESHOW IMAGES, Please change CSS height if you replace the images under ".skdslider"
+    -Open photoshop, check height of first image accordingly to the slideshow width size for best performance -->
+
+	<div id="slideshow">
+  		<div class="skdslider" style="height: 181px;"><ul id="slideshow-content" class="slides" style="position: absolute; left: -694px; width: 3470px;">
+			<li style="float: left; display: block; position: relative; width: 694px; height: 181px;"><a href="admission.php"><img src="img/slides/S1.jpg" alt="Slide1"></a></li>
+    		<li style="float: left; display: block; position: relative; width: 694px; height: 181px;"><a href="admission.php"><img src="img/slides/S2.jpg" alt="Slide2"></a></li>
+    		<li style="float: left; display: block; position: relative; width: 694px; height: 181px;"><a href="aboutus-history.php"><img src="img/slides/S3.jpg" alt="Slide3"></a></li>
+    		<li style="float: left; display: block; position: relative; width: 694px; height: 181px;"><a href="programme-learning.php"><img src="img/slides/S4.jpg" alt="Slide4"></a></li>
+			<li style="float: left; display: block; position: relative; width: 694px; height: 181px;"><a href="gallery.php"><img src="img/slides/S5.jpg" alt="Slide5"></a></li>
+  		</ul><ul class="slide-navs" style="margin-left: -40px;"><li class="slide-nav-0"><a></a></li><li class="slide-nav-1 current-slide"><a></a></li><li class="slide-nav-2"><a></a></li><li class="slide-nav-3"><a></a></li><li class="slide-nav-4"><a></a></li></ul><a class="prev"></a><a class="next"></a></div>
+	</div>
+    
+    <!-- PHOTO FRAME (for Mobile Version) -->
+    
+    <!--<div id="photo">	
+    	<img src="img/photo.png" alt="Photo">
+    </div>-->
+	
+	<div id="container-welcome">
+		<!--<p style="padding-bottom: 0px; margin-bottom: 0px; color: #f687a4; font-weight: bolder; font-size: 28px;">OUR CORE VALUES</p>-->
+		<h2 class="title">OUR CORE VALUES</h2>
+		<hr>
+		<div class="corevalueboxes">
+	    <img src="img/home-corevalue-compassion.png" width="95%" alt="" style="margin: auto;">
+			<div class="corevalue_texts">
+				Love for people &amp; nature 
+			</div>
+		</div>
+		<div class="corevalueboxes">
+	    <img src="img/home-corevalue-confidence.png" width="95%" alt="" style="margin: auto;">
+			<div class="corevalue_texts">
+				Self-help skills &amp; performance 
+			</div>
+		</div>
+		<div class="corevalueboxes">
+	    <img src="img/home-corevalue-responsibility.png" width="95%" alt="" style="margin: auto;">
+			<div class="corevalue_texts">
+				Leadership &amp; problem-solving 
+			</div>
+		</div>
+			
+	  </div>
+	
+	</div>
+    
+    <!-- UPDATES/NEWS -->
+    
+    <div id="update">
+      	<div id="updateHeader">
+        	<h2 class="title">LATEST UPDATES</h2>
+       	</div>
+            
+		<div id="updateContainer">
+         <div id="HomeUpdatesContainer">   
+<!------------------------------ Insert Update Contents here START ------------------------------>	
+			
+	<link rel="stylesheet" type="text/css" href="css/totem-ticker-style.css">
+	<script type="text/javascript" src="js/jquery.totemticker.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$('#vertical-ticker').totemticker({
+				row_height	:	'200px',
+				next		:	'#ticker-next',
+				previous	:	'#ticker-previous',
+				stop		:	'#stop',
+				start		:	'#start',
+				mousestop	:	true,
+			});
+		});
+	</script>
+ <!------------------------------ Insert Update Contents here START ------------------------------>	
+
+  <div id="NewsTicker">
+
+	<ul id="vertical-ticker" style="overflow: hidden;">
+<li><span class="bodytexts">There are no updates at the moment.</span></li>
+  		 </ul>
+	   <!---------------------------------------newsticker controls---------------------------------------> 
+		<p align="center" style="color: #1E1E1E;">
+			<a href="#" id="ticker-previous" class="tickernav">Previous</a> | 
+			<a href="#" id="ticker-next" class="tickernav">Next</a> | 
+			<a id="stop" class="tickernav" href="#">Stop</a> | 
+			<a id="start" class="tickernav" href="#">Start</a>
+		</p>                          
+	   <!---------------------------------------newsticker controls---------------------------------------> 
+		 
+    </div>
+
+ <!------------------------------ Insert Update Contents here END ------------------------------>	
+
+             
+ <!------------------------------ Insert Update Contents here END ------------------------------>
+			</div>
+		</div>
+    </div>
+	
+    <div id="container-box">
+    <div id="container-text-2cols">
+		<h2 class="title-offer">WHAT WE OFFER</h2>
+		<hr>
+			<div id="container-text-1col">
+							
+				
+		</div>
+		
+		<div class="accordion">
+
+			<div>
+			<input type="checkbox" name="panel" id="panel-1">
+			<label for="panel-1">Value-Based Programme</label>
+			<div class="accordion__content">
+			<!--<h2 class="accordion__header">Header</h2>-->
+			<!--<img src="img/6domains-DicoveryWorld.jpg" alt=""/>-->
+			<p>At Covenant Kindergarten, Christian character is taught daily and integrated in all learning areas. We believe in instilling positive values from a young age as character development from young shapes a child’s decision-making skills for the future. It is our aim to see our children grow in their capabilities and talents, along with good character values.</p><br>
+
+			</div>
+			</div>
+
+			<div>
+			<input type="checkbox" name="panel" id="panel-2">
+			<label for="panel-2">Bilingual Core Curriculum</label>
+			<div class="accordion__content">
+			<!--<h2 class="accordion__header">Header</h2>-->
+			<p>Both our English and Chinese teachers work in partnership in each classroom. They plan and deliver lessons in a bilingual environment. This provides children with exposure to both languages, facilitating language acquisition at young age.</p><br>
+
+			</div>
+			</div>
+
+			<div>
+			<input type="checkbox" name="panel" id="panel-3">
+			<label for="panel-3">Play-Based Curriculum</label>
+			<div class="accordion__content">
+			
+			<p>Our curriculum integrates play as a way of learning. Through play, children can develop their exploratory, social and cognitive skills that makes learning both fun and enjoyable.</p><br>
+
+			</div>
+			</div>
+
+			<div>
+			<input type="checkbox" name="panel" id="panel-4">
+			<label for="panel-4">Signature Music Appreciation Programme</label>
+			<div class="accordion__content">
+			
+			<p>We are proud to offer our signature music appreciation programme* as part of our specially-designed curriculum. Exposure to music supports children in their development process. Our trained teachers are experienced in integrating music activities into learning areas to purposefully develop confidence and music appreciation in your child.</p>
+			<p><i>*The Enhanced Methodist Music Appreciation (EMMA) Programmeis developed by music specialists from Methodist preschools, as well as the Methodist School of Music.</i></p><br>
+
+				
+			</div>
+			</div>
+			
+			<div>
+			<input type="checkbox" name="panel" id="panel-5">
+			<label for="panel-5">Coding Programme</label>
+			<div class="accordion__content">
+			<p>In line with the Smart Nation initiative, we offer a 20-hour coding programme to all K2 classes. This is to expose them to the skills needed to embrace new opportunities in the digital economy.</p><br>
+
+			</div>
+			</div>
+			
+			<div>
+			<input type="checkbox" name="panel" id="panel-6">
+			<label for="panel-6">Caring &amp; Committed Teachers</label>
+			<div class="accordion__content">
+			<p>Our teachers are caring, nurturing and committed to early childhood education. We believe in bringing the best out of each child as he/she is precious and unique with different talents and gifts. Our teachers also seek to work in partnership with parents in bringing the best positive learning outcomes, through updates and regular feedback on the child’s progress.</p><br>
+
+			</div>
+			</div>
+			
+			<div>
+			<input type="checkbox" name="panel" id="panel-7">
+			<label for="panel-7">Spacious Premises</label>
+			<div class="accordion__content">
+			<p>Covenant Kindergarten is co-located at Paya Lebar Methodist Church. Our facilities, set within the grounds of a beautiful church compound, comprise spacious ground-level classrooms, outdoor playground, indoor play area and open spaces.</p><br>
+
+			</div>
+			</div>
+			
+			<div>
+			<input type="checkbox" name="panel" id="panel-8">
+			<label for="panel-8">Easy Access</label>
+			<div class="accordion__content">
+			<p>Our  premises are easily accessible by car, school bus or public transport. Drop off  and pick up is hassle-free with ample parking.</p><br>
+
+			</div>
+			</div>
+			
+			<div>
+			<input type="checkbox" name="panel" id="panel-9">
+			<label for="panel-9">Healthy Meals</label>
+			<div class="accordion__content">
+			<p>Covenant Kindergarten is certified as a Health Promoting Preschool by the Health Promotion Board. We promote healthy eating among our children as part of their holistic development, serving balanced and nutritious meals which are also tasty.</p><br>
+
+			</div>
+			</div>
+			
+			
+			
+			
+			
+			</div> <!--accordion-->
+			<!--<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>-->
+			<!--<script src="src/jquery-1.9.1.min.js"></script>-->
+		
+		<div class="clear"></div>
+		
+		</div>
+    
+
+        <div id="container-right">
+        	<div class="container-right-text">
+				
+                <img src="img/smallpict-homepage-2020-V2.png" alt="" class="homepage">
+				
+            </div>
+        </div>
+	</div>
+	<div class="clear"></div>
+
+		
+    <!-- BOTTOM CONTENT -->
+    
+    <div id="container-bottom">
+	    <!-- CAREER -->
+        
+        <!--<div id="container-career">
+        	<div id="careerHeader">
+            	<h3>Our Programme</h3>
+            </div>
+            <div id="careerContent">
+                <div id="careerText">
+					
+				  
+					
+					<p>Jolly Seeds Educare Programme is based on Recognised Singapore Child Development Curriculum. It is delivered by Qualified Nurse & Certified Early Childhood Teachers.</p>
+	                
+					
+				</div>
+            	
+            </div>
+        </div>-->
+    	
+        <!-- WELCOME SUMMARY.etc. -->
+        
+        <!--<div id="container-welcome">
+        	<h3><b>Jolly Seeds Educare</b></h3>
+            <p>
+            	Jolly Seeds Educare Programme is based on Worlds Recognised Singapore Child Development Curriculum. It is delivered by Qualified and Certified Early Childhood Teachers.
+       	  </p>
+			<p>
+				Jolly Seeds Educare provide programme from 2 months up to 6 years old children....<a href="about.php">read more</a> </p>
+        
+        	 
+            
+        </div> -->
+		
+		<div id="tothetopIndex"><img src="img/tothetop.png" alt="To The Top"></div>
+		<div id="callforaction1"> <a href="admission.php"><img src="img/call-for-action-registration.png" alt=""></a>
+		</div>
+		
+      
+		
+      <div class="clear"></div>
+        
+    </div>
+    
+    <!-- END OF BOTTOM CONTENT -->
+    
+</div>
+
+<!-- END OF MAIN CONTENT -->
+
+<!-- FOOTER -->
+
+<footer>
+	<h6 class="copyright-texts">© Paya Lebar Methodist Church Covenant Kindergarten</h6><br>
+
+	<div class="footer_container1a">
+		<div class="footer_container2">
+			<img src="img/footer-address-icon.png" alt="address">
+			<p>
+			<span class="footerheader">Address:</span><br>
+			<span class="footertexts">5 Boundary Road, Singapore 549954</span>	
+				
+			</p>
+		</div>	
+			
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-officehours-icon.png" alt="office hours">
+			<p>
+			<span class="footerheader">Office Hours:</span><br>
+			<span class="footertexts">Monday to Friday, 8am to 4pm</span>	
+				
+			</p>
+		</div>
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-telephone-icon.png" alt="telephone">
+			<p>
+			<span class="footerheader">Telephone:</span><br>
+			<span class="footertexts">6285 3730</span>	
+				
+			</p>
+		</div>
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-email-icon.png" alt="email">
+			<p>
+			<span class="footerheader">Email:</span><br>
+			<span class="footertexts">kindergarten@plmc.org </span>	
+				
+			</p>
+		</div>
+	</div>
+	<div class="clear"></div>
+</footer>
+</div>
+
+<!-- END OF INNER WRAPPER -->
+
+
+
+<!-- END OF WRAPPER -->
+
+<!-- TO THE TOP -->
+
+
+</body></html>

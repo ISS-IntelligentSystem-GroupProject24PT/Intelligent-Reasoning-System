@@ -1,0 +1,1433 @@
+<html class="no-js k-webkit k-webkit123" lang="en"><!--<![endif]--><head id="head">
+<!-- Google Tag Manager -->
+<script async="" src="//cse.google.com/adsense/search/async-ads.js"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=003160911585029599002:xc7tjvk0yhk"></script><script src="https://connect.facebook.net/signals/config/689046139014896?v=2.9.151&amp;r=stable&amp;domain=www.touch.org.sg&amp;hme=8ce74e881727851b4427183947937854816d72704925561b9de6420cd43214ee&amp;ex_m=66%2C111%2C98%2C102%2C57%2C3%2C92%2C65%2C15%2C90%2C83%2C48%2C50%2C157%2C160%2C171%2C167%2C168%2C170%2C28%2C93%2C49%2C72%2C169%2C152%2C155%2C164%2C165%2C172%2C120%2C14%2C47%2C176%2C175%2C122%2C17%2C32%2C36%2C1%2C40%2C61%2C62%2C63%2C67%2C87%2C16%2C13%2C89%2C86%2C85%2C99%2C101%2C35%2C100%2C29%2C25%2C153%2C156%2C129%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C53%2C58%2C60%2C70%2C94%2C26%2C71%2C8%2C7%2C75%2C45%2C20%2C96%2C95%2C9%2C19%2C18%2C77%2C82%2C44%2C43%2C81%2C37%2C39%2C80%2C52%2C78%2C31%2C41%2C34%2C69%2C0%2C88%2C4%2C84%2C76%2C79%2C2%2C33%2C59%2C38%2C97%2C42%2C74%2C64%2C103%2C56%2C55%2C30%2C91%2C54%2C51%2C46%2C73%2C68%2C23%2C104" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//tag.getdrip.com/6649301.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-LLJZZN5G1Q&amp;l=dataLayer&amp;cx=c"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PSFBXJW"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSFBXJW');</script>
+<!-- End Google Tag Manager -->
+
+    <meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="shortcut icon" href="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/Images/favicon.png"><link rel="stylesheet" href="/Sitefinity/WebsiteTemplates/Touch/Kendo/styles/kendo.common.min.css"><link rel="stylesheet" href="/Sitefinity/WebsiteTemplates/Touch/Kendo/styles/kendo.default.min.css">
+	<script src="/Sitefinity/WebsiteTemplates/Touch/Kendo/js/jquery.min.js"></script>
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-74882030-1', 'auto');
+	ga('send', 'pageview');
+	</script>
+	
+	<script type="text/javascript">
+$(document).ready(function () {
+ $('.email-obfuscation').each(function() {
+  // this.href = this.href.replace('(at)', '@').replace(/\(dot\)/g, '.');
+  // Remove this line if you don't want to set the email address as link text:
+  this.innerHTML = this.innerHTML.replace('(at)', '@').replace(/\(dot\)/g, '.');
+ });
+});
+</script><script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=AW-852620228"></script><script type="text/javascript">
+<!-- Global site tag (gtag.js) - Google Ads: 852620228 -->
+window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-852620228');
+</script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/852620228/?random=1711819190583&amp;cv=11&amp;fst=1711819190583&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0v9180717331za200&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fwww.touch.org.sg%2Fsitemap&amp;hn=www.googleadservices.com&amp;frm=0&amp;npa=0&amp;pscdl=noapi&amp;auid=116142394.1711818618&amp;fdr=QA&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=AW-723097352"></script><script type="text/javascript">
+<!-- Global site tag (gtag.js) - Google Ads: 723097352 -->
+window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-723097352');
+</script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/723097352/?random=1711819190594&amp;cv=11&amp;fst=1711819190594&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0za200&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fwww.touch.org.sg%2Fsitemap&amp;hn=www.googleadservices.com&amp;frm=0&amp;npa=0&amp;pscdl=noapi&amp;auid=116142394.1711818618&amp;fdr=QA&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script><style type="text/css" media="all">body{background-image:url(/images/default-source/main-banners/volunteer-details-banner.jpg)}</style><meta name="Generator" content="Sitefinity 10.1.6544.0 OME"><link rel="canonical" href="https://www.touch.org.sg/sitemap"><meta name="viewport" content="width=device-width, initial-scale=1.0"><script type="text/javascript">
+	(function() {var _rdDeviceWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;var _rdDeviceHeight = (window.innerHeight > 0) ? window.innerHeight : screen.height;var _rdOrientation = (window.width > window.height) ? 'landscape' : 'portrait';})();
+</script><link href="/Telerik.Web.UI.WebResource.axd?d=bDQQxc2IhCMyBPlV7TgYKIihvXgEmGf-W-97cuWN2IFDNXDRD86UCcakF957LU0eWrJKA0xI5FW0Fsc3c66_zfMfKCBPyz0K7qkPJlZ1bnjOQT1IqMkqMZ_EGlgMnv3MXo8AN3E7-IlEB16vyg0BuQ2&amp;t=637564863579089091&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Sitefinity.Resources%2c+Version%3d10.1.6544.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3a111ce604-9da6-48e0-ab2f-2a63ab97e78c%3a7a90d6a%3a83fa35c7%3a850288ef" type="text/css" rel="stylesheet"><link href="/Sitefinity/Public/ResponsiveDesign/layout_transformations.css?pageDataId=b15d0e41-fe39-6db2-95ac-ff000094aea7&amp;pageSiteNode=B05D0E41-FE39-6DB2-95AC-FF000094AEA7/3d8cd896-8aaf-4a2d-9060-638a1f151aec/SitefinitySiteMap" type="text/css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/global/bootstrap.min.css?v=637447673140000000" type="text/css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/global/slick.min.css?v=637434790440000000" type="text/css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/global/owl.carousel.min.css?v=637388383800000000" type="text/css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/global/themify-icons.css?v=637388383800000000" type="text/css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/global/style.css?v=638246236663897964" type="text/css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/global/flexslider.css?v=637447673140000000" type="text/css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/global/fontawesome-all.min.css?v=637510412400000000" type="text/css" rel="stylesheet"><title>
+	Sitemap
+</title><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://www.google.com/cse/static/element/8435450f13508ca1/cse_element__en.js?usqp=CAI%3D" type="text/javascript"></script><link type="text/css" href="https://www.google.com/cse/static/element/8435450f13508ca1/default+en.css" rel="stylesheet"><link type="text/css" href="https://www.google.com/cse/static/style/look/v4/default.css" rel="stylesheet"><style type="text/css">.gsc-control-cse{font-family:arial, sans-serif}.gsc-control-cse .gsc-table-result{font-family:arial, sans-serif}.gsc-refinementsGradient{background:linear-gradient(to left,rgba(255,255,255,1),rgba(255,255,255,0))}.gsc-control-cse{border-color:#FFFFFF;background-color:#FFFFFF}input.gsc-input,.gsc-input-box,.gsc-input-box-hover,.gsc-input-box-focus{border-color:#D9D9D9}.gsc-search-button-v2,.gsc-search-button-v2:hover,.gsc-search-button-v2:focus{border-color:#666666;background-color:#CECECE;background-image:none;filter:none}.gsc-search-button-v2 svg{fill:#FFFFFF}.gsc-tabHeader.gsc-tabhActive,.gsc-refinementHeader.gsc-refinementhActive{color:#CCCCCC;border-color:#CCCCCC;background-color:#FFFFFF}.gsc-tabHeader.gsc-tabhInactive,.gsc-refinementHeader.gsc-refinementhInactive{color:#CCCCCC;border-color:#CCCCCC;background-color:#FFFFFF}.gsc-webResult.gsc-result,.gsc-results .gsc-imageResult{border-color:#FFFFFF;background-color:#FFFFFF}.gsc-webResult.gsc-result:hover{border-color:#FFFFFF;background-color:#FFFFFF}.gs-webResult.gs-result a.gs-title:link,.gs-webResult.gs-result a.gs-title:link b,.gs-imageResult a.gs-title:link,.gs-imageResult a.gs-title:link b{color:#0000CC}.gs-webResult.gs-result a.gs-title:visited,.gs-webResult.gs-result a.gs-title:visited b,.gs-imageResult a.gs-title:visited,.gs-imageResult a.gs-title:visited b{color:#0000CC}.gs-webResult.gs-result a.gs-title:hover,.gs-webResult.gs-result a.gs-title:hover b,.gs-imageResult a.gs-title:hover,.gs-imageResult a.gs-title:hover b{color:#0000CC}.gs-webResult.gs-result a.gs-title:active,.gs-webResult.gs-result a.gs-title:active b,.gs-imageResult a.gs-title:active,.gs-imageResult a.gs-title:active b{color:#0000CC}.gsc-cursor-page{color:#0000CC}a.gsc-trailing-more-results:link{color:#0000CC}.gs-webResult:not(.gs-no-results-result):not(.gs-error-result) .gs-snippet,.gs-fileFormatType{color:#000000}.gs-webResult div.gs-visibleUrl{color:#008000}.gs-webResult div.gs-visibleUrl-short{color:#008000}.gsc-cursor-box{border-color:#FFFFFF}.gsc-results .gsc-cursor-box .gsc-cursor-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#CCCCCC}.gsc-results .gsc-cursor-box .gsc-cursor-current-page{border-color:#CCCCCC;background-color:#FFFFFF;color:#CCCCCC}.gsc-webResult.gsc-result.gsc-promotion{border-color:#336699;background-color:#FFFFFF}.gsc-completion-title{color:#0000CC}.gsc-completion-snippet{color:#000000}.gs-promotion a.gs-title:link,.gs-promotion a.gs-title:link *,.gs-promotion .gs-snippet a:link{color:#0000CC}.gs-promotion a.gs-title:visited,.gs-promotion a.gs-title:visited *,.gs-promotion .gs-snippet a:visited{color:#0000CC}.gs-promotion a.gs-title:hover,.gs-promotion a.gs-title:hover *,.gs-promotion .gs-snippet a:hover{color:#0000CC}.gs-promotion a.gs-title:active,.gs-promotion a.gs-title:active *,.gs-promotion .gs-snippet a:active{color:#0000CC}.gs-promotion .gs-snippet,.gs-promotion .gs-title .gs-promotion-title-right,.gs-promotion .gs-title .gs-promotion-title-right *{color:#000000}.gs-promotion .gs-visibleUrl,.gs-promotion .gs-visibleUrl-short{color:#008000}.gcsc-find-more-on-google{color:#0000CC}.gcsc-find-more-on-google-magnifier{fill:#0000CC}</style><style type="text/css">.fancybox-margin{margin-right:0px;}</style><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-webkit-user-select:none;white-space:nowrap}.gsst_e{vertical-align:middle;opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em;-webkit-appearance:button}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gssb_a{padding:0 9px}.gsib_a{padding:5px 9px 4px 9px}.gscb_a{line-height:27px}.gssb_e{border:0}.gssb_l{margin:5px 0}input.gsc-input::-webkit-input-placeholder{font-size:14px}input.gsc-input:-moz-placeholder{font-size:14px}input.gsc-input::-moz-placeholder{font-size:14px}input.gsc-input:-ms-input-placeholder{font-size:14px}input.gsc-input:focus::-webkit-input-placeholder{color:transparent}input.gsc-input:focus:-moz-placeholder{color:transparent}input.gsc-input:focus::-moz-placeholder{color:transparent}input.gsc-input:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style></head>
+<body class="tch">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PSFBXJW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!--[if lte IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+
+<div class="outdatedbanner" style="background:#B4053C;color:#fff">
+  <div class="container" style="height:50px;">
+    <div class="row">
+      <p class="text-center" style="line-height:50px"><span class="glyphicon glyphicon-info-sign"></span> You are using an outdated browser, click <a href="http://outdatedbrowser.com/en" title="Update Now" target="_blank" style="color:#00777F">here</a> to update</p>
+    </div>
+  </div>
+</div>
+<![endif]-->
+<form method="post" action="./sitemap" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="ctl06_TSM" id="ctl06_TSM" value="">
+<input type="hidden" name="ctl07_TSSM" id="ctl07_TSSM" value=";Telerik.Sitefinity.Resources, Version=10.1.6544.0, Culture=neutral, PublicKeyToken=b28c218413bdf563:en:111ce604-9da6-48e0-ab2f-2a63ab97e78c:7a90d6a:83fa35c7:850288ef">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="v5Spv29+Cve58BrrPEfkH69HTuyKyoARiRDsTU4qZn5HgUvt1VnaVrs7ValFB2+Tv7cJ93yiHOa/n1vETayOBrY66itynzZy1UwXgPIxxJA=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/WebForms.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+window.WebForm_PostBackOptions||document.write('<script type="text/javascript" src="/WebResource.axd?d=kmonEut7Q22Opo4Gd97l4klWPhTNkQzlanBcjzZMEyPR_tfpQCIAMc5csRMz8ucxC0U-yfPqyAp3wIw0JbQ0xv1s997O1mOQIzdcTgB_WyU1&amp;t=637454356754849868"><\/script>');//]]>
+</script>
+
+
+
+<script src="/WebResource.axd?d=tO-_VEXYP-Ahd_4Qlr_Xuv1nw81ePIBz-3BSIIleQwjH1r6xRNzyDNBOepbmra_ZVUJIpi383KwuL2RTWTF64fGKV3rNgktS3FNZJ_9QFZpUDvMLa34DP1RbmVWNvkw9X87b_l-i_5L4n07QkGY-x_Xsnyot_vCivkD4kKWVu6I1&amp;t=637490739260000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = {"name":"en","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"$","NaNSymbol":"NaN","CurrencyNegativePattern":0,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-∞","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"∞","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"AM","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402271999999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"dddd, MMMM d, yyyy h:mm:ss tt","LongDatePattern":"dddd, MMMM d, yyyy","LongTimePattern":"h:mm:ss tt","MonthDayPattern":"MMMM d","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"M/d/yyyy","ShortTimePattern":"h:mm tt","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"ShortestDayNames":["Su","Mo","Tu","We","Th","Fr","Sa"],"DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"IsReadOnly":true,"NativeCalendarName":"Gregorian Calendar","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""]},"eras":[1,"A.D.",null,0]};//]]>
+</script>
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjax.debug.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=Poe5Zx7FiBsyTrsNb-MUkyE0dVDHBLLc9GL32d7NqembrDEj2vu5ye5vpyN1u6cfIsvMm2Vh5c-2iW3ojRX8TB8uQnm94ABNGVnzx_JNp3uzJvhfpts6uFLG-W-uSgUMgH5khalnR-CkrW4q8bQHNCPjSLYEqWvkpCO3xIG7vJrv9wfJBkFdZa78vogS1w3o0&t=363be08"><\/script>');//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjaxWebForms.debug.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys.WebForms)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=0JcBdzbOxx-UGbKUDdOPLDXdQaZheziEsWvMaXecsUgD43yf_ZVxOlBBbZDbfn4a1Przj3MYAq60K6LL4WnjpFhpxXfCTqhB8tLVxuF4XFgsHR63NY5i2yMKWXCBXw2Drgsot6xNI08RMDkgoijuk2JLxku9c4yMvVpJuuMcN58B5FTKSRKCsLepFlaVQlvG0&t=363be08"><\/script>');//]]>
+</script>
+
+<script src="https://code.jquery.com/jquery-1.12.1.min.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+<script src="https://kendo.cdn.telerik.com/2016.1.112/js/kendo.all.min.js" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="DE9728ED">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl06', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+<input type="hidden" name="ctl00$ctl06" id="ctl06">
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.setServerId("ctl06", "ctl00$ctl06");
+Sys.Application._enableHistoryInScriptManager();
+//]]>
+</script>
+
+	
+<!--start header-->
+<header id="main_header">
+	<div class="container">
+		<div class="row">
+			
+<div id="Content_Nav_T81990DB1038_Col00" class="sf_colsIn container touch-top-nav" data-sf-element="Container"><div class="sf_cols">
+    <div class="sf_colsOut sf_2cols_1_50">
+        <div id="Content_Nav_T81990DB1040_Col00" class="sf_colsIn sf_2cols_1in_50"><div id="LoginStatusSection" style="">    <div class="is-logged-out">
+        <!-- <a href="<%= this.CorporateSignUpUrl %>" title="Sign Up as Corporate Member">Sign Up as Corporate Member</a> -->
+        <div class="top-login"><a href="/account-management/log-in">LOG IN</a> / <a href="/account-management/sign-up-as-member">SIGN UP</a></div>
+    </div>
+
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var origUrl = window.location.href.split('?')[0];
+
+		if(window.location.pathname == '/giving') //explicit rewrite rule requested by client
+		{
+			origUrl = location.protocol + "//" + window.location.hostname + '/get-involved/donate';
+		}
+
+		if(window.location.pathname == '/') //default homepage URL
+		{
+			origUrl = location.protocol + "//" + window.location.hostname + '/home';
+		}
+
+        var callbackUrl = origUrl + "/Callback";
+        var triggerCallback = callbackUrl.indexOf("/Sitefinity") < 0 //not CMS
+            && callbackUrl.indexOf("/product/") < 0 //not product details
+            && callbackUrl.indexOf("/Action/Edit") < 0 //edit mode
+        if (triggerCallback == true) {
+            $.ajax({
+                type: "POST",
+                cache: false,
+                url: callbackUrl,
+                contentType: "application/json;charset=utf-8",
+                async: false,
+                success: function (result) {
+                    if (result.indexOf("is-logged-out") >= 0
+                        && origUrl.indexOf("/account-management/log-in") < 0
+                        && $("#IsLoginRequired").val().toLowerCase() == "true")
+                        window.location.href = "/account-management/log-in";
+                    else
+                        $("#LoginStatusSection").html(result);
+                },
+                error: function (error) {
+                    console.log("Callback Error:");
+                    console.log(error)
+                }
+            });
+        }
+
+        $("#LoginStatusSection").show();
+    });
+</script>
+            
+        </div>
+    </div>
+    <div class="sf_colsOut sf_2cols_2_50">
+        <div id="Content_Nav_T81990DB1040_Col01" class="sf_colsIn sf_2cols_2in_50">            
+        </div>
+    </div>
+</div>
+</div>
+
+    <nav class="navbar navbar-default" role="navigation">
+
+        <div class="container-fluid">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".tcs-navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="/"><img src="/Sitefinity/WebsiteTemplates/Touch/App_Themes/Touch/Images/touch-site-logo.png" alt="Touch" height="43"></a>
+            </div>
+
+            <div class="collapse navbar-collapse tcs-navbar-collapse" id="tcs-navbar-collapse">
+			
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="https://journeyspecial.com/" class="lnk-login" target="_blank">SHOP</a></li>
+                    <li><a href="#" class="lnk-donate">DONATE</a></li>
+                    
+                    <li class="custom-search">
+                        <a href="#" class="lnk-search" id="lnk-search">
+                            <i class="fa fa-search">&nbsp;</i>
+                        </a>
+                        <div class="csearch-wrap">
+                            <script>
+                                (function () {
+                                    var cx = '003160911585029599002:xc7tjvk0yhk';
+                                    var gcse = document.createElement('script');
+                                    gcse.type = 'text/javascript';
+                                    gcse.async = true;
+                                    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                                    var s = document.getElementsByTagName('script')[0];
+                                    s.parentNode.insertBefore(gcse, s);
+                                })();
+
+                                $(".lnk-donate").click(function (e) {
+                                    e.preventDefault();
+                                    $.ajax({
+                                        url: '/ProfileHome/ProfileEncryption',
+                                        type: "GET",
+                                        success: function (data) {
+                                            var encryptedArray = data.slice(1, -1).split(", ");
+                                            //console.log(data);
+                                            //var url = "https://publish-p111967-e1165981.adobeaemcloud.com/sg/donation-form.html?email=" + encryptedArray[0] + "&name=" + encryptedArray[1] + "&loginstatus=" + encryptedArray[2];
+                                            var url = "/donation?email=" + encryptedArray[0] + "&name=" + encryptedArray[1] + "&loginstatus=" + encryptedArray[2];
+                                            //console.log(url);
+                                            window.location.href = url;
+                                        },
+                                        error: function () {
+                                            console.log("Error");
+                                        }
+                                    });
+                                });
+                            </script>
+                            <div id="___gcse_0"><div class="gsc-control-cse gsc-control-cse-en"><div class="gsc-control-wrapper-cse" dir="ltr"><form class="gsc-search-box gsc-search-box-tools" accept-charset="utf-8"><table cellspacing="0" cellpadding="0" role="presentation" class="gsc-search-box"><tbody><tr><td class="gsc-input"><div class="gsc-input-box" id="gsc-iw-id1"><table cellspacing="0" cellpadding="0" role="presentation" id="gs_id50" class="gstl_50 gsc-input" style="width: 100%; padding: 0px;"><tbody><tr><td id="gs_tti50" class="gsib_a"><input autocomplete="off" type="text" size="10" class="gsc-input" name="search" title="search" aria-label="search" id="gsc-i-id1" dir="ltr" spellcheck="false" style="width: 100%; padding: 0px; border: none; margin: 0px; height: auto; background: url(&quot;https://www.google.com/cse/static/images/1x/en/branding.png&quot;) left center no-repeat rgb(255, 255, 255); outline: none;"></td><td class="gsib_b"><div class="gsst_b" id="gs_st50" dir="ltr"><a class="gsst_a" href="javascript:void(0)" title="Clear search box" role="button" style="display: none;"><span class="gscb_a" id="gs_cb50" aria-hidden="true">×</span></a></div></td></tr></tbody></table></div></td><td class="gsc-search-button"><button class="gsc-search-button gsc-search-button-v2"><svg width="13" height="13" viewBox="0 0 13 13"><title>search</title><path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path></svg></button></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="clear results">&nbsp;</div></td></tr></tbody></table></form><div class="gsc-results-wrapper-overlay"><div class="gsc-results-close-btn" tabindex="0"></div><div class="gsc-positioningWrapper"><div class="gsc-tabsAreaInvisible"><div aria-label="refinement" role="tab" class="gsc-tabHeader gsc-inline-block gsc-tabhActive">Custom Search</div><span class="gs-spacer"> </span></div></div><div class="gsc-positioningWrapper"><div class="gsc-refinementsAreaInvisible"></div></div><div class="gsc-above-wrapper-area-invisible"><div class="gsc-above-wrapper-area-backfill-container"></div><table cellspacing="0" cellpadding="0" role="presentation" class="gsc-above-wrapper-area-container"><tbody><tr><td class="gsc-result-info-container"><div class="gsc-result-info-invisible"></div></td><td class="gsc-orderby-container"><div class="gsc-orderby-invisible"><div class="gsc-orderby-label gsc-inline-block">Sort by:</div><div class="gsc-option-menu-container gsc-inline-block"><div class="gsc-selected-option-container gsc-inline-block"><div class="gsc-selected-option">Relevance</div><div class="gsc-option-selector"></div></div><div class="gsc-option-menu-invisible"><div class="gsc-option-menu-item gsc-option-menu-item-highlighted"><div class="gsc-option">Relevance</div></div><div class="gsc-option-menu-item"><div class="gsc-option">Date</div></div></div></div></div></td></tr></tbody></table></div><div class="gsc-adBlockInvisible"></div><div class="gsc-wrapper"><div class="gsc-adBlockInvisible"></div><div class="gsc-resultsbox-invisible"><div class="gsc-resultsRoot gsc-tabData gsc-tabdActive"><div><div class="gsc-expansionArea"></div></div></div></div></div></div><div class="gsc-modal-background-image" tabindex="0"></div></div></div></div>
+                        </div>
+                    </li>
+                </ul>
+				<ul class="nav navbar-nav navbar-main">
+        <li class="dropdown">
+            <a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="sprt"></i> About TOUCH
+                <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+                            <li class="">
+                <a href="/about-touch/about-us-overview" target="_self">Overview</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/our-services" target="_self">Our Services</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/awards-accolades" target="_self">Awards &amp; Accolades</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/financial-information" target="_self">Financial Information</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/non-financial-information" target="_self">Non-Financial Information</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/touch-report" target="_self">TOUCH Report</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/executive-leadership" target="_self">Executive Leadership</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/press-room" target="_self">Press Room</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/tips-and-resources" target="_self">Tips and Resources</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/news" target="_self">News</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/our-impact-overview" target="_self">Our Impact Overview</a>
+            </li>
+            <li class="">
+                <a href="/about-touch/stories" target="_self">Stories</a>
+            </li>
+
+            </ul>
+        </li>
+        <li class="dropdown">
+            <a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="sprt"></i> Get Involved
+                <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+                            <li class="">
+                <a href="/get-involved/overview" target="_self">Overview</a>
+            </li>
+            <li class="">
+                <a href="https://touch.org.sg/donation" target="_self">Donate Now</a>
+            </li>
+            <li class="">
+                <a href="/get-involved/monthly-donation" target="_self">Donate Monthly</a>
+            </li>
+            <li class="">
+                <a href="https://touch.org.sg/getinvolved/volunteer" target="_self">Volunteer</a>
+            </li>
+            <li class="">
+                <a href="https://touch.org.sg/getinvolved/fundraise" target="_self">Fundraise</a>
+            </li>
+            <li class="">
+                <a href="/get-involved/legacy-giving" target="_self">Legacy Giving</a>
+            </li>
+            <li class="">
+                <a href="/get-involved/professional-deputies-donees" target="_self">Professional Deputies and Donees</a>
+            </li>
+            <li class="">
+                <a href="/get-involved/school-partner" target="_self">School Partner</a>
+            </li>
+            <li class="">
+                <a href="/get-involved/corporate-partner" target="_self">Corporate Partner</a>
+            </li>
+            <li class="">
+                <a href="/get-involved/join-us" target="_self">Join Us</a>
+            </li>
+
+            </ul>
+        </li>
+        <li class=""><a href="/workshop" target="_self"><i class="sprt"></i> Workshops</a></li>
+        <li class="dropdown">
+            <a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="sprt"></i> Find Help
+                <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+                            <li class="">
+                <a href="/find-help/find-professional-services" target="_self">Find Professional Services</a>
+            </li>
+            <li class="">
+                <a href="/find-help/search" target="_self">Search</a>
+            </li>
+
+            </ul>
+        </li>
+				</ul>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+    </nav>
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+    </div>
+</header>
+<!--end header-->
+
+<!--start content-->
+<div class="content-wrap" id="main_content">
+  
+<div id="Main_Content_T9B448C44004_Col00" class="sf_colsIn container general-header" data-sf-element="Container"><div class="sf_cols">
+    <div class="sf_colsOut sf_2cols_1_67" style="" data-placeholder-label="Breadcrumbs">
+        <div id="Main_Content_T9B448C44009_Col00" class="sf_colsIn sf_2cols_1in_67"><div class="container">
+    <div class="row">
+		<div class="btn-group btn-breadcrumb">
+					<a href="/" class="btn btn-default">TOUCH Community Services: Singapore Charity Organisation</a>
+					<span class="btn btn-default">Sitemap</span>
+        </div>
+	</div>
+</div>
+
+
+            
+        </div>
+    </div>
+    <div class="sf_colsOut sf_2cols_2_33" style="">
+        <div id="Main_Content_T9B448C44009_Col01" class="sf_colsIn sf_2cols_2in_33">
+            
+        </div>
+    </div>
+</div><div class="sf_cols">
+    <div class="sf_colsOut sf_1col_1_100" style="width: 100%;" data-placeholder-label="Header / Title">
+        <div id="Main_Content_T9B448C44008_Col00" class="sf_colsIn sf_1col_1in_100">
+<div>
+    <div><h1 style="text-align:center;"><strong>Site Map</strong></h1></div>    
+
+</div>
+            
+        </div>
+    </div>
+</div>
+</div>
+<div id="Main_Content_T9B448C44003_Col00" class="sf_colsIn container general-content" data-sf-element="Container" data-placeholder-label="Contents">
+
+
+<div class="block-sidenav-mvc">
+    
+
+      <ul>
+     <li class="">
+        <a href="/about-touch" target="_self">About TOUCH</a>
+
+            <ul class="group nav nav-pills nav-stacked">
+     <li class="">
+        <a href="/about-touch/about-us-overview" target="_self">Overview</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services" target="_self">Our Services</a>
+
+            <ul class="group nav nav-pills nav-stacked">
+     <li class="">
+        <a href="/about-touch/our-services/touch-cyber-wellness-homepage" target="_self">TOUCH Cyber Wellness Homepage</a>
+
+            <ul class="group nav nav-pills nav-stacked">
+     <li class="">
+        <a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes" target="_self">Our Programmes</a>
+
+            <ul class="group nav nav-pills nav-stacked">
+     <li class="">
+        <a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/preschool-level" target="_self">Preschool Level</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/primary-level" target="_self">Primary Level</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/secondary-level" target="_self">Secondary Level</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/post-secondary-level" target="_self">Post-Secondary Level</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/parents-youth-workers" target="_self">Parents &amp; Youth Workers</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/counselling" target="_self">Counselling</a>
+
+    </li>
+            </ul>
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-milestones" target="_self">Our Milestones</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-reach" target="_self">Our Reach</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-cyber-wellness-homepage/resources" target="_self">Resources</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-cyber-wellness-homepage/contact-us" target="_self">Contact Us</a>
+
+    </li>
+            </ul>
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-silent-club-homepage" target="_self">TOUCH Silent Club Homepage</a>
+
+            <ul class="group nav nav-pills nav-stacked">
+     <li class="">
+        <a href="/about-touch/our-services/touch-silent-club-homepage/about-us" target="_self">About Us</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-silent-club-homepage/our-services" target="_self">Our Services</a>
+
+            <ul class="group nav nav-pills nav-stacked">
+     <li class="">
+        <a href="/about-touch/our-services/touch-silent-club-homepage/our-services/sign-language-workshop" target="_self">Sign Language Workshop</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-silent-club-homepage/our-services/social-integration" target="_self">Social Integration</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-silent-club-homepage/our-services/social-service" target="_self">Social Service</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-silent-club-homepage/our-services/work-assistance-programme" target="_self">Work Assistance Programme</a>
+
+    </li>
+            </ul>
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-silent-club-homepage/contact-us" target="_self">Contact Us</a>
+
+    </li>
+            </ul>
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-adoption-homepage" target="_self">TOUCH Adoption Homepage</a>
+
+            <ul class="group nav nav-pills nav-stacked">
+     <li class="">
+        <a href="/about-touch/our-services/touch-adoption-homepage/adoption-service" target="_self">Adoption Service</a>
+
+    </li>
+            </ul>
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-adventures-homepage" target="_self">TOUCH Adventures Homepage</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-caregivers-support-homepage" target="_self">TOUCH Caregivers Support Homepage</a>
+
+            <ul class="group nav nav-pills nav-stacked">
+     <li class="">
+        <a href="/about-touch/our-services/touch-caregivers-support-homepage/about-tcg" target="_self">About TCG</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-caregivers-support-homepage/safe-home-scheme" target="_self">Safe Home Scheme</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-caregivers-support-homepage/care-line" target="_self">Care Line</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-caregivers-support-homepage/online-support-group" target="_self">Online Support Group</a>
+
+    </li>
+            </ul>
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-centre-for-independent-living-homepage" target="_self">TOUCH Centre for Independent Living Homepage</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-child-care-homepage" target="_self">TOUCH Child Care Homepage</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-cluster-support-homepage" target="_self">TOUCH Cluster Support Homepage</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-family-support-homepage" target="_self">TOUCH Family Support Homepage</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-marriage-support-homepage" target="_self">TOUCH Marriage Support Homepage</a>
+
+            <ul class="group nav nav-pills nav-stacked">
+     <li class="">
+        <a href="/about-touch/our-services/touch-marriage-support-homepage/preparing-for-marriage" target="_self">Preparing for Marriage </a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-marriage-support-homepage/strengthening-marriage" target="_self">Strengthening Marriage </a>
+
+    </li>
+     <li class="">
+        <a href="https://www.touch.org.sg/workshop" target="_self">Courses and Talks</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-marriage-support-homepage/supporting-marriages" target="_self">中文服务项目</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-marriage-support-homepage/contact-us" target="_self">Contact Us</a>
+
+    </li>
+            </ul>
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-home-care-homepage" target="_self">TOUCH Home Care Homepage</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-leadership-mentoring-homepage" target="_self">TOUCH Leadership &amp; Mentoring Homepage</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-active-ageing-homepage" target="_self">TOUCH Active Ageing Homepage</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-senior-group-home-homepage" target="_self">TOUCH Senior Group Home Homepage</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-ubi-hostel-homepage" target="_self">TOUCH Ubi Hostel Homepage</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-young-arrows-homepage" target="_self">TOUCH Young Arrows Homepage</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/touch-counselling-and-intervention-homepage" target="_self">TOUCH Counselling and Intervention Homepage</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/counselling-services" target="_self">Counselling Services</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-services/home-based-training" target="_self">Home-based Training</a>
+
+    </li>
+            </ul>
+    </li>
+     <li class="">
+        <a href="/about-touch/awards-accolades" target="_self">Awards &amp; Accolades</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/financial-information" target="_self">Financial Information</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/non-financial-information" target="_self">Non-Financial Information</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/touch-report" target="_self">TOUCH Report</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/executive-leadership" target="_self">Executive Leadership</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/press-room" target="_self">Press Room</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/tips-and-resources" target="_self">Tips and Resources</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/news" target="_self">News</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/our-impact-overview" target="_self">Our Impact Overview</a>
+
+    </li>
+     <li class="">
+        <a href="/about-touch/stories" target="_self">Stories</a>
+
+    </li>
+            </ul>
+    </li>
+     <li class="">
+        <a href="/get-involved" target="_self">Get Involved</a>
+
+            <ul class="group nav nav-pills nav-stacked">
+     <li class="">
+        <a href="/get-involved/overview" target="_self">Overview</a>
+
+    </li>
+     <li class="">
+        <a href="https://touch.org.sg/donation" target="_self">Donate Now</a>
+
+    </li>
+     <li class="">
+        <a href="/get-involved/monthly-donation" target="_self">Donate Monthly</a>
+
+    </li>
+     <li class="">
+        <a href="https://touch.org.sg/getinvolved/volunteer" target="_self">Volunteer</a>
+
+    </li>
+     <li class="">
+        <a href="https://touch.org.sg/getinvolved/fundraise" target="_self">Fundraise</a>
+
+    </li>
+     <li class="">
+        <a href="/get-involved/legacy-giving" target="_self">Legacy Giving</a>
+
+    </li>
+     <li class="">
+        <a href="/get-involved/professional-deputies-donees" target="_self">Professional Deputies and Donees</a>
+
+            <ul class="group nav nav-pills nav-stacked">
+     <li class="">
+        <a href="/get-involved/professional-deputies-donees/advance-care-planning-(acp)-services" target="_self">Advance Care Planning (ACP) Services</a>
+
+    </li>
+     <li class="">
+        <a href="/get-involved/professional-deputies-donees/frequently-asked-questions" target="_self">PDD Frequently Asked Questions </a>
+
+    </li>
+     <li class="">
+        <a href="/get-involved/professional-deputies-donees/acp-frequently-asked-questions" target="_self">ACP Frequently Asked Questions </a>
+
+    </li>
+            </ul>
+    </li>
+     <li class="">
+        <a href="/get-involved/school-partner" target="_self">School Partner</a>
+
+    </li>
+     <li class="">
+        <a href="/get-involved/corporate-partner" target="_self">Corporate Partner</a>
+
+            <ul class="group nav nav-pills nav-stacked">
+     <li class="">
+        <a href="/get-involved/corporate-partner/employee-led-engagements" target="_self">Employee-Led Engagements</a>
+
+    </li>
+     <li class="">
+        <a href="/get-involved/corporate-partner/corporate-level-engagements" target="_self">Corporate Level Engagements</a>
+
+    </li>
+     <li class="">
+        <a href="/get-involved/corporate-partner/enquiry-form" target="_self">Enquiry Form</a>
+
+    </li>
+            </ul>
+    </li>
+     <li class="">
+        <a href="/get-involved/join-us" target="_self">Join Us</a>
+
+    </li>
+            </ul>
+    </li>
+     <li class="">
+        <a href="/workshop" target="_self">Workshops</a>
+
+    </li>
+     <li class="">
+        <a href="/find-help" target="_self">Find Help</a>
+
+            <ul class="group nav nav-pills nav-stacked">
+     <li class="">
+        <a href="/find-help/find-professional-services" target="_self">Find Professional Services</a>
+
+    </li>
+     <li class="">
+        <a href="/find-help/search" target="_self">Search</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="sfNavWrp sfNavTreeviewWrp ">
+    
+    
+    
+    
+
+    <div class="k-widget k-treeview" tabindex="0"><ul id="Main_Content_C005_ctl00_ctl00_navigationUl" class="sfNavTreeview sfNavList k-group k-treeview-lines" data-role="treeview" role="tree">
+        
+                            <li class="k-item k-first" role="treeitem" data-uid="493d455a-328c-4ff1-a3c8-ba346c8d2f7e" data-expanded="true" aria-expanded="true"><div class="k-top"><span class="k-icon k-minus"></span><a href="/about-touch" class="k-in">About TOUCH</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl00_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="7014a895-bf37-450d-938e-4c35afd1ff91"><div class="k-top"><a href="/about-touch/about-us-overview" class="k-in">Overview</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="47118fb5-caaa-4151-8cc6-aa989c53d366" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services" class="k-in">Our Services</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl00_ctl02_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="107bbfe8-c328-4e2f-b4c9-cfe214ab20b1" data-expanded="true" aria-expanded="true"><div class="k-top"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-cyber-wellness-homepage" class="k-in">TOUCH Cyber Wellness Homepage</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl00_ctl02_ctl01_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="11f2827c-b6ac-4b8b-aa0d-27437f0328a3" data-expanded="true" aria-expanded="true"><div class="k-top"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes" class="k-in">Our Programmes</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl00_ctl02_ctl01_ctl01_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="1e36ee26-ba38-4c9a-a22b-a01e5a446ee2"><div class="k-top"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/preschool-level" class="k-in">Preschool Level</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="cd9d2338-b821-4a2d-9fcf-d08b6d909bdf"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/primary-level" class="k-in">Primary Level</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="c8488aca-ab36-4447-aa27-ff16280e670a"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/secondary-level" class="k-in">Secondary Level</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="930c2664-be8e-4b00-bddf-ceeeb5225960"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/post-secondary-level" class="k-in">Post-Secondary Level</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="c09be0e7-21a4-48c6-961d-6ee9ae307ffb"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/parents-youth-workers" class="k-in">Parents &amp; Youth Workers</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="23686fb2-56a5-4687-8d6d-1286bed06d2e"><div class="k-bot"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/counselling" class="k-in">Counselling</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="9daa6428-8fe9-4a6c-ab9d-e96ef15496d4"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-milestones" class="k-in">Our Milestones</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="5197be84-09d5-47ef-ba80-116b679fcd9f"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-reach" class="k-in">Our Reach</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="581dd069-b5da-4dcc-9c21-72939883a4b5"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/resources" class="k-in">Resources</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="1c0133dc-f2cc-47f9-b7c6-c2b2a811c210"><div class="k-bot"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/contact-us" class="k-in">Contact Us</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="7271ca2d-faf2-4171-af45-97d8e9802d2c" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-silent-club-homepage" class="k-in">TOUCH Silent Club Homepage</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl00_ctl02_ctl02_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="100045d7-7ee7-4d15-9508-71c6f7a57532"><div class="k-top"><a href="/about-touch/our-services/touch-silent-club-homepage/about-us" class="k-in">About Us</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="75984aa2-944e-4231-aaf5-6c144ab42d5f" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-silent-club-homepage/our-services" class="k-in">Our Services</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl00_ctl02_ctl02_ctl02_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="af7049da-ebc7-4eb2-b331-93c8a43db2ed"><div class="k-top"><a href="/about-touch/our-services/touch-silent-club-homepage/our-services/sign-language-workshop" class="k-in">Sign Language Workshop</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="a6904708-8da6-4ccf-9006-e5415f711082"><div class="k-mid"><a href="/about-touch/our-services/touch-silent-club-homepage/our-services/social-integration" class="k-in">Social Integration</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="cf913ef8-7bd0-4959-9a53-4ed50db827b4"><div class="k-mid"><a href="/about-touch/our-services/touch-silent-club-homepage/our-services/social-service" class="k-in">Social Service</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="f6db2c9d-bdd0-49d9-aa2b-63c7a413fc48"><div class="k-bot"><a href="/about-touch/our-services/touch-silent-club-homepage/our-services/work-assistance-programme" class="k-in">Work Assistance Programme</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="5dc00655-7845-4ab8-918a-c3d97fad18c5"><div class="k-bot"><a href="/about-touch/our-services/touch-silent-club-homepage/contact-us" class="k-in">Contact Us</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="810ae5cf-5595-41c3-b12b-d06c8b0125e4" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-adoption-homepage" class="k-in">TOUCH Adoption Homepage</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl00_ctl02_ctl03_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item k-last" role="treeitem" data-uid="895da7ea-c685-401a-b0a6-439ac0bedb83"><div class="k-bot"><a href="/about-touch/our-services/touch-adoption-homepage/adoption-service" class="k-in">Adoption Service</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="27cbd1dc-9572-40f7-91cc-6f50cbb45130"><div class="k-mid"><a href="/about-touch/our-services/touch-adventures-homepage" class="k-in">TOUCH Adventures Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="dfe41d9c-15bd-4013-9db1-2c6017cfaf16" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-caregivers-support-homepage" class="k-in">TOUCH Caregivers Support Homepage</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl00_ctl02_ctl05_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="49b36f10-9698-43fa-a78f-e40d693a9d94"><div class="k-top"><a href="/about-touch/our-services/touch-caregivers-support-homepage/about-tcg" class="k-in">About TCG</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="938030bb-34b7-447d-9066-3e65da522347"><div class="k-mid"><a href="/about-touch/our-services/touch-caregivers-support-homepage/safe-home-scheme" class="k-in">Safe Home Scheme</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="844b2649-4830-4897-a42a-95d348269f4b"><div class="k-mid"><a href="/about-touch/our-services/touch-caregivers-support-homepage/care-line" class="k-in">Care Line</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="7c4f269f-ba0d-491e-a0b3-ce6f7fe29160"><div class="k-bot"><a href="/about-touch/our-services/touch-caregivers-support-homepage/online-support-group" class="k-in">Online Support Group</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="d63707ae-6718-4a98-991a-e75b45a355a1"><div class="k-mid"><a href="/about-touch/our-services/touch-centre-for-independent-living-homepage" class="k-in">TOUCH Centre for Independent Living Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="7044695c-964c-49a5-980d-fef632ded04a"><div class="k-mid"><a href="/about-touch/our-services/touch-child-care-homepage" class="k-in">TOUCH Child Care Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="7dcae959-1bef-4fae-a202-e74c8b4dc677"><div class="k-mid"><a href="/about-touch/our-services/touch-cluster-support-homepage" class="k-in">TOUCH Cluster Support Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="a7d33077-d96f-4753-8800-d0f2f4cb6496"><div class="k-mid"><a href="/about-touch/our-services/touch-family-support-homepage" class="k-in">TOUCH Family Support Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="5a22819a-1cde-418f-a1d9-be2b5038513a" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-marriage-support-homepage" class="k-in">TOUCH Marriage Support Homepage</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl00_ctl02_ctl10_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="0d4a716f-f523-4f0f-b042-f44028ddc875"><div class="k-top"><a href="/about-touch/our-services/touch-marriage-support-homepage/family-life-education" class="k-in">Family Life Education</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="c255d282-fe99-40a9-89db-77946c704e00"><div class="k-mid"><a href="/about-touch/our-services/touch-marriage-support-homepage/preparing-for-marriage" class="k-in">Preparing for Marriage </a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="5acd2cd4-07db-4836-a763-09dbbb77ae0f"><div class="k-mid"><a href="/about-touch/our-services/touch-marriage-support-homepage/strengthening-marriage" class="k-in">Strengthening Marriage </a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="33636ff3-af91-4706-9984-a0942d1db5f1"><div class="k-mid"><a href="https://www.touch.org.sg/workshop" class="k-in">Courses and Talks</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="b061f719-bbd8-4e4e-aab2-b7b3e257dbf0"><div class="k-mid"><a href="/about-touch/our-services/touch-marriage-support-homepage/supporting-marriages" class="k-in">中文服务项目</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="78da581d-3893-4631-8490-13e95e1e8cd9"><div class="k-bot"><a href="/about-touch/our-services/touch-marriage-support-homepage/contact-us" class="k-in">Contact Us</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="36a033aa-5bf2-4c64-b0fc-76f7f9d8188c"><div class="k-mid"><a href="/about-touch/our-services/touch-home-care-homepage" class="k-in">TOUCH Home Care Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="cb3b1449-65a2-41ec-b550-0a3745e61579"><div class="k-mid"><a href="/about-touch/our-services/touch-leadership-mentoring-homepage" class="k-in">TOUCH Leadership &amp; Mentoring Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="c1907590-94e2-430f-8db7-a721f764ed03"><div class="k-mid"><a href="/about-touch/our-services/touch-active-ageing-homepage" class="k-in">TOUCH Active Ageing Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="1b40086e-c159-4f9c-ab27-f8cde7304732"><div class="k-mid"><a href="/about-touch/our-services/touch-senior-group-home-homepage" class="k-in">TOUCH Senior Group Home Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="c291340a-8299-403b-8192-986997a75bf6"><div class="k-mid"><a href="/about-touch/our-services/touch-ubi-hostel-homepage" class="k-in">TOUCH Ubi Hostel Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="71f2d7ec-56c6-4524-9254-7790a89ac743"><div class="k-mid"><a href="/about-touch/our-services/touch-young-arrows-homepage" class="k-in">TOUCH Young Arrows Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="44a3958d-841a-486b-8fdb-5bc96b1bf4b1"><div class="k-mid"><a href="/about-touch/our-services/touch-counselling-and-intervention-homepage" class="k-in">TOUCH Counselling and Intervention Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="842f5afe-d941-40bc-af17-2586f5db4c88"><div class="k-mid"><a href="/about-touch/our-services/counselling-services" class="k-in">Counselling Services</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="3d5a2ce6-aaeb-4cb8-9b03-203fd5a6788f"><div class="k-bot"><a href="/about-touch/our-services/home-based-training" class="k-in">Home-based Training</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="5e2309b8-1b81-4540-a1b8-306eca0e1ee6"><div class="k-mid"><a href="/about-touch/awards-accolades" class="k-in">Awards &amp; Accolades</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="7d845e5f-1954-41cb-bf78-64ad3f8926ee"><div class="k-mid"><a href="/about-touch/financial-information" class="k-in">Financial Information</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="dd43f593-d76f-4d9b-b415-37e296a5c3fb"><div class="k-mid"><a href="/about-touch/non-financial-information" class="k-in">Non-Financial Information</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="8e89f498-a63f-48b0-9d9f-8d651843ef4b"><div class="k-mid"><a href="/about-touch/touch-report" class="k-in">TOUCH Report</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="fbb07ecc-5a2e-4cbe-a9b1-116c04475d35"><div class="k-mid"><a href="/about-touch/executive-leadership" class="k-in">Executive Leadership</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="56fc4240-7b90-47ee-9c36-efd2f72a7f24"><div class="k-mid"><a href="/about-touch/press-room" class="k-in">Press Room</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="bf2e1772-4cef-4271-bdcd-4f99f578d70c"><div class="k-mid"><a href="/about-touch/tips-and-resources" class="k-in">Tips and Resources</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="76a788bf-3641-47bb-ab05-e3d6c1a8f90e"><div class="k-mid"><a href="/about-touch/news" class="k-in">News</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="139f8600-40fc-4b4f-b7f8-e9741a84fff1"><div class="k-mid"><a href="/about-touch/our-impact-overview" class="k-in">Our Impact Overview</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="f436bfe7-f596-46cf-be59-619187ac4502"><div class="k-bot"><a href="/about-touch/stories" class="k-in">Stories</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="7dce7851-4ff0-438c-9374-e31396261b48"><div class="k-mid"><a href="/about-touch/about-us-overview" class="k-in">Overview</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="f8eee35b-1b61-4819-9776-3807c1241b2b" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services" class="k-in">Our Services</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl02_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="c2c9ec6b-ad9d-4b9f-a1d0-f0010e0ad45e" data-expanded="true" aria-expanded="true"><div class="k-top"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-cyber-wellness-homepage" class="k-in">TOUCH Cyber Wellness Homepage</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl02_ctl01_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="875141d1-1f95-4779-8e9e-42ad921f3d40" data-expanded="true" aria-expanded="true"><div class="k-top"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes" class="k-in">Our Programmes</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl02_ctl01_ctl01_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="799b3acb-1bb4-42b4-8897-af46152be926"><div class="k-top"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/preschool-level" class="k-in">Preschool Level</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="7af5c9d8-5ca8-4b8f-bf5c-1803739890a0"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/primary-level" class="k-in">Primary Level</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="56bde452-07c3-42c8-994c-41f837d2070d"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/secondary-level" class="k-in">Secondary Level</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="f8c823d5-6cd9-40f6-af00-81581d67398e"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/post-secondary-level" class="k-in">Post-Secondary Level</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="42e9f382-2c64-4f7c-aa9a-b9056fb8b203"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/parents-youth-workers" class="k-in">Parents &amp; Youth Workers</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="88bd380c-8894-4152-b219-782b31bf3e8a"><div class="k-bot"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/counselling" class="k-in">Counselling</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="7bde8abb-595e-4ccb-9775-432348a00b73"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-milestones" class="k-in">Our Milestones</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="7c1cdc67-177d-4b51-ba01-b056b9b2e1d7"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-reach" class="k-in">Our Reach</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="95d34a29-42cb-4d8b-8d8e-91204ee77722"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/resources" class="k-in">Resources</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="a169f7fb-dd51-4fd4-aab0-07ad63b697c5"><div class="k-bot"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/contact-us" class="k-in">Contact Us</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="11d4632d-a101-415d-af82-0704d23a0834" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-silent-club-homepage" class="k-in">TOUCH Silent Club Homepage</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl02_ctl02_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="82ec2c13-54dc-4c0a-9939-3ae6fe9c04d3"><div class="k-top"><a href="/about-touch/our-services/touch-silent-club-homepage/about-us" class="k-in">About Us</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="4b5267c6-0a49-4fd7-8336-7c57a55a884e" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-silent-club-homepage/our-services" class="k-in">Our Services</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl02_ctl02_ctl02_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="3a55100f-6b10-413e-a6ec-d9962d80a318"><div class="k-top"><a href="/about-touch/our-services/touch-silent-club-homepage/our-services/sign-language-workshop" class="k-in">Sign Language Workshop</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="12051ee1-1f00-477c-ab4a-e375f41f0ff2"><div class="k-mid"><a href="/about-touch/our-services/touch-silent-club-homepage/our-services/social-integration" class="k-in">Social Integration</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="af9b9113-78c9-42a0-82ee-8859deb76935"><div class="k-mid"><a href="/about-touch/our-services/touch-silent-club-homepage/our-services/social-service" class="k-in">Social Service</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="a62c13ff-1236-4feb-98f7-3b30f457d0e1"><div class="k-bot"><a href="/about-touch/our-services/touch-silent-club-homepage/our-services/work-assistance-programme" class="k-in">Work Assistance Programme</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="34561c4c-c826-4aa1-84bd-26952ede9ef9"><div class="k-bot"><a href="/about-touch/our-services/touch-silent-club-homepage/contact-us" class="k-in">Contact Us</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="3dd549d5-917b-43de-83d6-34981d91011f" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-adoption-homepage" class="k-in">TOUCH Adoption Homepage</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl02_ctl03_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item k-last" role="treeitem" data-uid="d6ac29aa-e074-4777-a96a-73709d2cff2f"><div class="k-bot"><a href="/about-touch/our-services/touch-adoption-homepage/adoption-service" class="k-in">Adoption Service</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="211c99a8-b7df-48ff-817a-b7251bada63a"><div class="k-mid"><a href="/about-touch/our-services/touch-adventures-homepage" class="k-in">TOUCH Adventures Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="d5ce5532-2f23-456a-8cd5-8e887e95bb68" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-caregivers-support-homepage" class="k-in">TOUCH Caregivers Support Homepage</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl02_ctl05_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="370bca2b-2880-4a63-89f7-5df9af0c5910"><div class="k-top"><a href="/about-touch/our-services/touch-caregivers-support-homepage/about-tcg" class="k-in">About TCG</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="e2e83086-caf5-4184-b290-508da1cc8239"><div class="k-mid"><a href="/about-touch/our-services/touch-caregivers-support-homepage/safe-home-scheme" class="k-in">Safe Home Scheme</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="4d497752-619a-48fb-b0d5-1dde86f319cd"><div class="k-mid"><a href="/about-touch/our-services/touch-caregivers-support-homepage/care-line" class="k-in">Care Line</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="ddc5c6e3-4d0a-438a-8bb2-0d6194960e86"><div class="k-bot"><a href="/about-touch/our-services/touch-caregivers-support-homepage/online-support-group" class="k-in">Online Support Group</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="9a5722c3-8326-4e8b-a95a-ccabd69ce0d8"><div class="k-mid"><a href="/about-touch/our-services/touch-centre-for-independent-living-homepage" class="k-in">TOUCH Centre for Independent Living Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="ee9f4dba-175e-464e-b188-89ceee622db3"><div class="k-mid"><a href="/about-touch/our-services/touch-child-care-homepage" class="k-in">TOUCH Child Care Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="d8d9c3af-1cc5-4634-9af6-694e8fcf5244"><div class="k-mid"><a href="/about-touch/our-services/touch-cluster-support-homepage" class="k-in">TOUCH Cluster Support Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="4f80387c-000b-4cab-972c-793677ee4d07"><div class="k-mid"><a href="/about-touch/our-services/touch-family-support-homepage" class="k-in">TOUCH Family Support Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="f66c75e9-16ba-4de6-af07-9e983f165586" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-marriage-support-homepage" class="k-in">TOUCH Marriage Support Homepage</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl02_ctl10_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="6615549d-25c3-4df0-a716-5b17c46e6ef5"><div class="k-top"><a href="/about-touch/our-services/touch-marriage-support-homepage/family-life-education" class="k-in">Family Life Education</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="24ca3cd5-617b-47a0-ba2b-6d3987b1f0e7"><div class="k-mid"><a href="/about-touch/our-services/touch-marriage-support-homepage/preparing-for-marriage" class="k-in">Preparing for Marriage </a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="0d67fd78-a9ed-40e4-bcee-f61629ab53f5"><div class="k-mid"><a href="/about-touch/our-services/touch-marriage-support-homepage/strengthening-marriage" class="k-in">Strengthening Marriage </a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="ddde2f50-d38b-4e50-9381-7ef9895108f3"><div class="k-mid"><a href="https://www.touch.org.sg/workshop" class="k-in">Courses and Talks</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="9b7cc594-9445-4159-aa58-387bc17ebf8b"><div class="k-mid"><a href="/about-touch/our-services/touch-marriage-support-homepage/supporting-marriages" class="k-in">中文服务项目</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="0b584b8e-9d77-495b-aae6-4561db97e627"><div class="k-bot"><a href="/about-touch/our-services/touch-marriage-support-homepage/contact-us" class="k-in">Contact Us</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="32a2cedb-1b18-4c14-b424-2df1fcf1682a"><div class="k-mid"><a href="/about-touch/our-services/touch-home-care-homepage" class="k-in">TOUCH Home Care Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="7ba8cfc3-061b-42a8-bd47-6358c8ea401e"><div class="k-mid"><a href="/about-touch/our-services/touch-leadership-mentoring-homepage" class="k-in">TOUCH Leadership &amp; Mentoring Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="6674962f-939f-4da1-8592-d58877bdd8e9"><div class="k-mid"><a href="/about-touch/our-services/touch-active-ageing-homepage" class="k-in">TOUCH Active Ageing Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="ddadab1e-c156-4ee2-a9c0-acc47ba617b3"><div class="k-mid"><a href="/about-touch/our-services/touch-senior-group-home-homepage" class="k-in">TOUCH Senior Group Home Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="323a4b8a-4b70-44ca-af14-2c6c2b43fe89"><div class="k-mid"><a href="/about-touch/our-services/touch-ubi-hostel-homepage" class="k-in">TOUCH Ubi Hostel Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="76b285e0-51a2-4c20-a6b1-122f9655bf85"><div class="k-mid"><a href="/about-touch/our-services/touch-young-arrows-homepage" class="k-in">TOUCH Young Arrows Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="b64d54ac-f007-48c2-90f0-e5083f922149"><div class="k-mid"><a href="/about-touch/our-services/touch-counselling-and-intervention-homepage" class="k-in">TOUCH Counselling and Intervention Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="04f6640a-63f2-4005-9093-5ccfb274a58e"><div class="k-mid"><a href="/about-touch/our-services/counselling-services" class="k-in">Counselling Services</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="dd594164-aae2-48eb-8294-dc2a8b8de9d2"><div class="k-bot"><a href="/about-touch/our-services/home-based-training" class="k-in">Home-based Training</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="8329af94-69e0-49b3-a930-00fd3b4825e7" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-adoption-homepage" class="k-in">TOUCH Adoption Homepage</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl03_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item k-last" role="treeitem" data-uid="737cddb0-37e6-444c-8da8-655ab5bacdc6"><div class="k-bot"><a href="/about-touch/our-services/touch-adoption-homepage/adoption-service" class="k-in">Adoption Service</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="394c8687-57a8-4906-bd8d-fb9a35b8c0b8" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-caregivers-support-homepage" class="k-in">TOUCH Caregivers Support Homepage</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl04_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="e56b0567-fe30-4d81-975c-8c27dbe42fe1"><div class="k-top"><a href="/about-touch/our-services/touch-caregivers-support-homepage/about-tcg" class="k-in">About TCG</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="84ee6943-c630-4d61-b75e-3da4a6a77a5a"><div class="k-mid"><a href="/about-touch/our-services/touch-caregivers-support-homepage/safe-home-scheme" class="k-in">Safe Home Scheme</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="8a3c7219-32ef-41bf-adb8-d9cd4e4f6ca1"><div class="k-mid"><a href="/about-touch/our-services/touch-caregivers-support-homepage/care-line" class="k-in">Care Line</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="82fab795-b87b-46a6-9b75-5b502405f4dd"><div class="k-bot"><a href="/about-touch/our-services/touch-caregivers-support-homepage/online-support-group" class="k-in">Online Support Group</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="e558dfeb-c974-4237-ab23-46c1decaed8c"><div class="k-mid"><a href="/about-touch/our-services/touch-centre-for-independent-living-homepage" class="k-in">TOUCH Centre for Independent Living Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="71defc52-1dcf-4be7-ac9f-42f65c6dd26b"><div class="k-mid"><a href="/about-touch/our-services/touch-child-care-homepage" class="k-in">TOUCH Child Care Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="51d9c071-7c8d-4c75-9766-ff26ccd500a7"><div class="k-mid"><a href="/about-touch/our-services/touch-cluster-support-homepage" class="k-in">TOUCH Cluster Support Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="cdc01bc5-2b3e-42a5-a38c-5f37852641cb"><div class="k-mid"><a href="/about-touch/our-services/touch-family-support-homepage" class="k-in">TOUCH Family Support Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="068dcb18-689b-40f1-87c7-31d48e3bf0af" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-cyber-wellness-homepage" class="k-in">TOUCH Cyber Wellness Homepage</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl09_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="d9b41810-0616-4225-8e5d-d906570c0564" data-expanded="true" aria-expanded="true"><div class="k-top"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes" class="k-in">Our Programmes</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl09_ctl01_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="97e76512-37dc-4aa7-8e2d-839520838b5d"><div class="k-top"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/preschool-level" class="k-in">Preschool Level</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="5ddb71d5-4951-4569-80e6-2ee845a8b124"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/primary-level" class="k-in">Primary Level</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="e3d1d23e-857a-43ac-8609-79467dc9a996"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/secondary-level" class="k-in">Secondary Level</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="c3291f5c-4d6a-4473-a953-df9d53fb4aa5"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/post-secondary-level" class="k-in">Post-Secondary Level</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="8530696f-0eaf-4d98-98cb-cc137cff316b"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/parents-youth-workers" class="k-in">Parents &amp; Youth Workers</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="58c1c46b-1329-4aad-9e66-097c6e6a27c1"><div class="k-bot"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-programmes/counselling" class="k-in">Counselling</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="cb35f18a-d663-4bc7-a612-863618e4b367"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-milestones" class="k-in">Our Milestones</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="1827d0be-af46-42d4-9df3-505dad21bdf8"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/our-reach" class="k-in">Our Reach</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="1ea7871d-8909-4a4b-85d2-b9d2210aa0d4"><div class="k-mid"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/resources" class="k-in">Resources</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="c9af5e03-f386-4726-b0e2-0c9cfae47c42"><div class="k-bot"><a href="/about-touch/our-services/touch-cyber-wellness-homepage/contact-us" class="k-in">Contact Us</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="2a6b8108-0fd9-4a1c-8adc-8ca2b5ce06bb" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-marriage-support-homepage" class="k-in">TOUCH Marriage Support Homepage</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl10_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="2b3793c1-0877-4eab-8240-c4ee9971de2c"><div class="k-top"><a href="/about-touch/our-services/touch-marriage-support-homepage/family-life-education" class="k-in">Family Life Education</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="1ada72eb-0d66-4637-9187-daacc9d6aa0e"><div class="k-mid"><a href="/about-touch/our-services/touch-marriage-support-homepage/preparing-for-marriage" class="k-in">Preparing for Marriage </a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="d1191b2d-4780-4ac3-8892-28a2ad76f823"><div class="k-mid"><a href="/about-touch/our-services/touch-marriage-support-homepage/strengthening-marriage" class="k-in">Strengthening Marriage </a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="0832610f-f3ae-4058-9180-6502aa98cd16"><div class="k-mid"><a href="https://www.touch.org.sg/workshop" class="k-in">Courses and Talks</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="c172a869-1c0e-4c2b-8257-97be5c4a429b"><div class="k-mid"><a href="/about-touch/our-services/touch-marriage-support-homepage/supporting-marriages" class="k-in">中文服务项目</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="c5c6cf11-820a-4df2-9934-8d8038d64e54"><div class="k-bot"><a href="/about-touch/our-services/touch-marriage-support-homepage/contact-us" class="k-in">Contact Us</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="01654617-b282-4b6f-9f5d-71589f532a3a"><div class="k-mid"><a href="/about-touch/our-services/touch-home-care-homepage" class="k-in">TOUCH Home Care Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="d515cf9c-3841-40a4-ab63-379a3dcff488"><div class="k-mid"><a href="/about-touch/our-services/touch-leadership-mentoring-homepage" class="k-in">TOUCH Leadership &amp; Mentoring Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="3f0f25d9-d2d3-4036-b616-0378f0e2be09"><div class="k-mid"><a href="/about-touch/our-services/touch-active-ageing-homepage" class="k-in">TOUCH Active Ageing Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="59a8e138-17d0-4cde-9fb4-b9b683796216"><div class="k-mid"><a href="/about-touch/our-services/touch-senior-group-home-homepage" class="k-in">TOUCH Senior Group Home Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="d949155c-db25-42b1-9b1f-3f7bc63cbb44" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-silent-club-homepage" class="k-in">TOUCH Silent Club Homepage</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl15_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="ba06c8ff-24eb-4282-b3e5-86e712730238"><div class="k-top"><a href="/about-touch/our-services/touch-silent-club-homepage/about-us" class="k-in">About Us</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="b7099c0f-9ac2-4ab3-b490-e370025b3504" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/about-touch/our-services/touch-silent-club-homepage/our-services" class="k-in">Our Services</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl15_ctl02_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="e60a6799-ad5a-409c-bda5-605db9eed285"><div class="k-top"><a href="/about-touch/our-services/touch-silent-club-homepage/our-services/sign-language-workshop" class="k-in">Sign Language Workshop</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="3b6d7560-77e6-4d1e-9268-c11a0824691d"><div class="k-mid"><a href="/about-touch/our-services/touch-silent-club-homepage/our-services/social-integration" class="k-in">Social Integration</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="a745209d-3c24-4990-9512-fd66a0e13d13"><div class="k-mid"><a href="/about-touch/our-services/touch-silent-club-homepage/our-services/social-service" class="k-in">Social Service</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="30d79028-d9cc-4a91-b179-de3cfcc41893"><div class="k-bot"><a href="/about-touch/our-services/touch-silent-club-homepage/our-services/work-assistance-programme" class="k-in">Work Assistance Programme</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="8b15d9e7-a01b-4262-94cc-940898a4199a"><div class="k-bot"><a href="/about-touch/our-services/touch-silent-club-homepage/contact-us" class="k-in">Contact Us</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="1e0ce06f-b70c-4f8f-8caf-a09d18da4332"><div class="k-mid"><a href="/about-touch/our-services/touch-ubi-hostel-homepage" class="k-in">TOUCH Ubi Hostel Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="01850558-2a85-4ff3-addb-38065e055dc6"><div class="k-mid"><a href="/about-touch/our-services/touch-young-arrows-homepage" class="k-in">TOUCH Young Arrows Homepage</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="e53bd7ac-cc8a-4c89-81de-b626f0517963"><div class="k-mid"><a href="/about-touch/awards-accolades" class="k-in">Awards &amp; Accolades</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="c25c349d-ca22-4033-984a-725e4c5cbd78"><div class="k-mid"><a href="/about-touch/financial-information" class="k-in">Financial Information</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="c0bf41b6-149e-4e39-9bcf-7e82674b6036"><div class="k-mid"><a href="/about-touch/non-financial-information" class="k-in">Non-Financial Information</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="5c39fb88-ccc3-4f81-be4e-c778781a2441"><div class="k-mid"><a href="/about-touch/touch-report" class="k-in">TOUCH Report</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="fa4d11dc-b00a-4a40-9868-2900915d0b05"><div class="k-mid"><a href="/about-touch/executive-leadership" class="k-in">Executive Leadership</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="a1d37db1-9768-46fc-8dc9-0a6c445e2e64"><div class="k-mid"><a href="/about-touch/press-room" class="k-in">Press Room</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="643ccd10-0c27-43ae-a3ae-156b5a08803f"><div class="k-mid"><a href="/get-involved/join-us" class="k-in">Join Us</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="017e751a-9f55-4d84-9ee0-027fd1192379" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/get-involved" class="k-in">Get Involved</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl25_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="0a01802c-d57a-47f6-8060-8c67e2165e13"><div class="k-top"><a href="/get-involved/overview" class="k-in">Overview</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="1f490f4c-2efa-4177-9783-b9c98a6c6afe"><div class="k-mid"><a href="https://touch.org.sg/donation" class="k-in">Donate Now</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="9a2d9316-b8cb-43e3-921b-df4c4066c554"><div class="k-mid"><a href="/get-involved/monthly-donation" class="k-in">Donate Monthly</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="41491ef0-3309-438e-9d22-2e5298a087a2"><div class="k-mid"><a href="https://touch.org.sg/getinvolved/volunteer" class="k-in">Volunteer</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="e186d8db-f401-4065-8ee9-2c90b17029ef"><div class="k-mid"><a href="https://touch.org.sg/getinvolved/fundraise" class="k-in">Fundraise</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="c66c1724-8059-4d8e-898c-c8d3efab42ff"><div class="k-mid"><a href="/get-involved/legacy-giving" class="k-in">Legacy Giving</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="594b8123-3d2b-4e52-a650-45b58008fadf" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/get-involved/professional-deputies-donees" class="k-in">Professional Deputies and Donees</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl25_ctl07_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="32c5cc2d-f4d7-455d-abe3-648ad13b7f8c"><div class="k-top"><a href="/get-involved/professional-deputies-donees/advance-care-planning-(acp)-services" class="k-in">Advance Care Planning (ACP) Services</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="79670105-78a9-4a6c-b854-fdc930779bd5"><div class="k-mid"><a href="/get-involved/professional-deputies-donees/frequently-asked-questions" class="k-in">PDD Frequently Asked Questions </a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="f2572e83-9509-419b-b45c-318909282502"><div class="k-bot"><a href="/get-involved/professional-deputies-donees/acp-frequently-asked-questions" class="k-in">ACP Frequently Asked Questions </a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="187cfdf1-15e1-48cb-9b5a-152849099692"><div class="k-mid"><a href="/get-involved/school-partner" class="k-in">School Partner</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="edf0a458-357e-4f61-9b58-1801b4aaaa32" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/get-involved/corporate-partner" class="k-in">Corporate Partner</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl25_ctl09_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="41d18196-3445-419a-9d88-08a0aa07620a"><div class="k-top"><a href="/get-involved/corporate-partner/employee-led-engagements" class="k-in">Employee-Led Engagements</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="75e2dfa8-fcca-42d1-b9a7-9f783b9cdb3c"><div class="k-mid"><a href="/get-involved/corporate-partner/corporate-level-engagements" class="k-in">Corporate Level Engagements</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="48233fc0-70e9-4217-8177-6ecfc2d43b41"><div class="k-bot"><a href="/get-involved/corporate-partner/enquiry-form" class="k-in">Enquiry Form</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="37549d9b-e918-4424-a540-63ecff21e484"><div class="k-bot"><a href="/get-involved/join-us" class="k-in">Join Us</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="dbaec765-0cef-43a2-ba67-66f44bae1946"><div class="k-mid"><a href="/get-involved/overview" class="k-in">Overview</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="23c9a0bd-6fcd-444d-ab6f-fcab07e262d7"><div class="k-mid"><a href="/get-involved/school-partner" class="k-in">School Partner</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="3e3ff8ca-e3ac-4fae-bc9e-613899648449" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/get-involved/corporate-partner" class="k-in">Corporate Partner</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl28_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="3fd0128f-91d5-4516-ac4a-5a23386a3fb1"><div class="k-top"><a href="/get-involved/corporate-partner/employee-led-engagements" class="k-in">Employee-Led Engagements</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="dcc7a2a6-9c46-4301-8553-d08dc3570bcd"><div class="k-mid"><a href="/get-involved/corporate-partner/corporate-level-engagements" class="k-in">Corporate Level Engagements</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="ed7b9638-deba-42a2-acd4-c98b6516aba0"><div class="k-bot"><a href="/get-involved/corporate-partner/enquiry-form" class="k-in">Enquiry Form</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="feae0fde-2171-4c18-8cec-1f8c147a926a"><div class="k-mid"><a href="/get-involved/corporate-partner/employee-led-engagements" class="k-in">Employee-Led Engagements</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="113fe23b-25c2-4867-92aa-fc0acbc89da5"><div class="k-mid"><a href="/get-involved/corporate-partner/corporate-level-engagements" class="k-in">Corporate Level Engagements</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="7443773d-9c3f-446b-8936-7e840c3498fa" data-expanded="true" aria-expanded="true"><div class="k-mid"><span class="k-icon k-minus"></span><a href="/find-help" class="k-in">Find Help</a></div><ul id="Main_Content_C005_ctl00_ctl00_ctl03_ctl31_childNodesContainer" class="k-group" style="display: block;">
+                            <li class="k-item" role="treeitem" data-uid="34bd0200-c4ba-4987-82c0-9d2d3ce3782b"><div class="k-top"><a href="/find-help/find-professional-services" class="k-in">Find Professional Services</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="a945cc43-62c8-4fe1-a2dd-cb9a91315a04"><div class="k-bot"><a href="/find-help/search" class="k-in">Search</a></div></li>                                        
+                        </ul>
+                            </li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="7940b9a1-0024-438c-bcfb-d24b4de105eb"><div class="k-mid"><a href="/find-help/find-professional-services" class="k-in">Find Professional Services</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="a59573b8-3eda-48b9-8e08-c04f81a7da3c"><div class="k-mid"><a href="/find-help/search" class="k-in">Search</a></div></li>                                        
+                        
+                            <li class="k-item" role="treeitem" data-uid="3a15498d-3d6a-44e3-bea9-7ed7deedd122"><div class="k-mid"><a href="/about-touch/our-impact-overview" class="k-in">Our Impact Overview</a></div></li>                                        
+                        
+                            <li class="k-item k-last" role="treeitem" data-uid="61f8a0c5-0060-4d68-8eef-cb6db5f7173e"><div class="k-bot"><a href="/about-touch/stories" class="k-in">Stories</a></div></li>                                        
+                        
+    </ul></div>
+</div>
+
+
+
+<script type="text/javascript">
+    (function ($) {
+        var kendoTreeView = $('.sfNavTreeview').not('div.k-treeview .sfNavTreeview').kendoTreeView({
+            animation: false,
+            expand: function (e) {
+                if (window.DataIntelligenceSubmitScript) {
+                    DataIntelligenceSubmitScript._client.sentenceClient.writeSentence({
+                        predicate: "Toggle navigation",
+                        object: this.dataItem(e.node).text,
+                        objectMetadata: [
+                                                    {
+                                                        'K': 'PageTitle',
+                                                        'V': document.title
+                                                    },
+                                                    {
+                                                        'K': 'PageUrl',
+                                                        'V': location.href
+                                                    }
+                        ]
+                    });
+                }
+            }
+        }).data('kendoTreeView');
+        if (kendoTreeView) {
+            kendoTreeView.expand(kendoTreeView.element.find(".k-item"));
+        }
+    })(jQuery);
+</script><div class="sfContentBlock financial-info">
+
+
+</div>
+</div>
+
+</div>
+<!--end content-->
+
+
+<!--start footer-->
+<footer id="main_footer">
+	
+<div id="Main_Footer_T81990DB1018_Col00" class="sf_colsIn container footer_top" data-sf-element="Container" data-placeholder-label="Footer Top"><div class="sf_cols">
+    <div class="sf_colsOut sf_4cols_1_25" style="" data-placeholder-label="Footer Logo">
+        <div id="Main_Footer_T81990DB1022_Col00" class="sf_colsIn sf_4cols_1in_25"> 
+    <img class="footer-logo" src="/images/default-source/default-album/touch-footer-logo.png?sfvrsn=e2f96154_4" title="touch-footer-logo" alt="touch-footer-logo"> 
+ 
+            
+        </div>
+    </div>
+    <div class="sf_colsOut sf_4cols_2_25" style="" data-placeholder-label="Footer Info">
+        <div id="Main_Footer_T81990DB1022_Col01" class="sf_colsIn sf_4cols_2in_25"><div class="sfContentBlock"><ul class="list-unstyled">
+    <li><em class="sprt spr-phone"></em> (65) 6377 0122</li>
+    <li><em class="sprt spr-fax"></em> (65) 6377 0121</li>
+    <li><em class="sprt spr-mail"></em>
+    <span class="email-obfuscation">tcs@touch.org.sg
+    </span>
+    </li>
+</ul>
+
+
+</div>
+            
+        </div>
+    </div>
+    <div class="sf_colsOut sf_4cols_3_25" style="" data-placeholder-label="Footer Address">
+        <div id="Main_Footer_T81990DB1022_Col02" class="sf_colsIn sf_4cols_3in_25"><div class="sfContentBlock"><address>
+<em class="sprt spr-marker"></em> <span>Blk 162 Bukit Merah Central<br>
+#05-3545 Singapore 150162</span></address>
+
+
+</div>
+            
+        </div>
+    </div>
+    <div class="sf_colsOut sf_4cols_4_25 text-right footer_social" style="" data-placeholder-label="Footer Social">
+        <div id="Main_Footer_T81990DB1022_Col03" class="sf_colsIn sf_4cols_4in_25"><div class="sfContentBlock"><a href="https://www.facebook.com/pages/TOUCH-Community-Services/114197502987" target="_blank"><em class="fa fa-facebook fa-lg"></em></a>
+<a href="https://instagram.com/touchcommunityservices" target="_blank"><em class="fa fa-instagram fa-lg"></em></a>
+<a href="https://www.linkedin.com/company/touch-community-services" target="_blank"><em class="fa fa-linkedin-square fa-lg"></em></a>
+<a href="https://www.youtube.com/c/touchcommunityservicestcs" target="_blank"><em class="fa fa-youtube-play fa-lg"></em></a>
+
+
+</div>
+            
+        </div>
+    </div>
+</div>
+</div>
+<div class="sf_cols footer_bottom">
+    <div class="sf_colsOut sf_1col_1_100" style="width: 100%;" data-placeholder-label="Footer Bottom">
+        <div id="Main_Footer_T81990DB1017_Col00" class="sf_colsIn sf_1col_1in_100"><div id="Main_Footer_T81990DB1019_Col00" class="sf_colsIn container" data-sf-element="Container"><div class="sf_cols">
+    <div class="sf_colsOut sf_2cols_1_50" style="" data-placeholder-label="Footer Copyright">
+        <div id="Main_Footer_T81990DB1020_Col00" class="sf_colsIn sf_2cols_1in_50"><div class="sfContentBlock">© TOUCH Community Services Ltd 2022. All rights reserved.
+
+
+</div>
+            
+        </div>
+    </div>
+    <div class="sf_colsOut sf_2cols_2_50 text-right" style="" data-placeholder-label="Footer Links">
+        <div id="Main_Footer_T81990DB1020_Col01" class="sf_colsIn sf_2cols_2in_50"><div class="sfContentBlock"><a href="/sitemap">Site Map</a> <a href="/terms-of-use">Terms of Use</a> <a href="/privacy-policy">Privacy Policy</a>
+
+
+</div>            
+        </div>
+    </div>
+</div>
+</div>
+
+            
+        </div>
+    </div>
+</div>
+</footer>
+<!--end footer-->   
+
+<div id="ScriptWrapper" title="Only place scripts and styles in this region">
+<script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/scripts.js"></script>
+    <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/client.min.js"></script>
+    <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/dropin.min.js"></script>
+    <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/pay.js"></script>
+    <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/paypal-checkout.min.js"></script>
+    <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/data-collector.min.js"></script>
+
+    <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/jquery.slicknav.min.js"></script>    
+     <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/slick.min.js"></script>
+
+    <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/jquery.scrollUp.min.js"></script>
+   
+       <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Touch/js/specialevent.js"></script>
+   
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="/Sitefinity/WebsiteTemplates/Touch/Kendo/js/kendo.custom.min.js"></script>
+<script src="/Sitefinity/WebsiteTemplates/Touch/Kendo/js/kendo.pager.min.js"></script>
+
+<script src="/Sitefinity/WebsiteTemplates/Touch/Kendo/js/kendo.all.min.js"></script>
+    <script src="/Sitefinity/WebsiteTemplates/Touch/Kendo/js/kendo.aspnetmvc.min.js"></script>
+    <script src="/Sitefinity/WebsiteTemplates/Touch/Kendo/js/cultures/kendo.culture.en-GB.min.js"></script>
+
+
+
+
+</div>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+var sf_appPath='/';;(function() {
+                        function loadHandler() {
+                            var hf = $get('ctl07_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';Telerik.Sitefinity.Resources, Version=10.1.6544.0, Culture=neutral, PublicKeyToken=b28c218413bdf563:en:111ce604-9da6-48e0-ab2f-2a63ab97e78c:7a90d6a:83fa35c7:850288ef';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();//]]>
+</script>
+</form>
+<script type="text/javascript" id="">var _dcq=_dcq||[],_dcs=_dcs||{};_dcs.account="6649301";(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="//tag.getdrip.com/6649301.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script>
+
+
+<script type="text/javascript" id="" src="https://www.googletagmanager.com/gtag/js?id=AW-852620228"></script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","689046139014896");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=689046139014896&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date);gtag("config","AW-852620228");</script>
+
+<iframe src="https://pay.google.com/gp/p/ui/payframe?origin=https%3A%2F%2Fwww.touch.org.sg&amp;mid=" height="0" width="0" allowpaymentrequest="true" style="display: none; visibility: hidden;"></iframe><script type="text/javascript">
+	StatsClient.LogVisit('b05d0e41-fe39-6db2-95ac-ff000094aea7', 'c75f1d09-2775-419e-9db6-1d807ecd996b');
+</script>
+
+
+<script type="text/javascript">
+    /* 8. sildeBar scroll */
+    $.scrollUp({
+      scrollName: 'scrollUp', // Element ID
+      topDistance: '300', // Distance from top before showing element (px)
+      topSpeed: 300, // Speed back to top (ms)
+      animation: 'fade', // Fade, slide, none
+      animationInSpeed: 200, // Animation in speed (ms)
+      animationOutSpeed: 200, // Animation out speed (ms)
+      scrollText: '<i class="ti-arrow-up"></i>', // Text for element
+      activeOverlay: false, // Set CSS color to display scrollUp active point, e.g '#00FFFF'
+    });
+</script><a id="scrollUp" href="#top" style="display: none; position: fixed; z-index: 2147483647;"><i class="ti-arrow-up"></i></a>
+
+
+<script type="text/javascript">
+     //function DisableBackButton() {
+     //  window.history.forward()
+     // }
+     //DisableBackButton();
+     //window.onload = DisableBackButton;
+     //window.onpageshow = function(evt) { if (evt.persisted) DisableBackButton() }
+     //window.onunload = function() { void (0) }
+ </script>
+<table cellspacing="0" cellpadding="0" role="presentation" class="gstl_50 gssb_c" style="width: 2px; display: none; top: 3px; left: -1px; position: absolute;"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table></body></html>

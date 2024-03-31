@@ -1,0 +1,107 @@
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="KidsKingdom Childcare is always looking for new talent. Apply now to start your career!"><meta name="author">
+	<link href="favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+	<link href="favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+	<title>Start your career with KidsKingdom Childcare!</title>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" type="text/css"><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<link default-stylesheet="true" href="assets/css/sh-default.css" rel="stylesheet" type="text/css">
+</head>
+<body class="lower-bg" style="cursor: auto;">
+<div class="navbar mynavbar" data-widget-class="mynavbar" role="navigation">
+<div class="container">
+<div class="navbar-header"><button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span></button></div>
+
+<div class="collapse navbar-collapse">
+<ul class="nav navbar-nav" style=" margin: auto auto;">
+	<li><a href="./index.html">Home</a></li>
+	<li><a href="./about.html">About Us</a></li>
+	<li><a href="./services.html">Services</a></li>
+	<li><a href="./curriculum.html">Curriculum</a></li>
+	<li><a href="./career.html">Career</a></li>
+	<li><a href="./locateus.html">Locate Us</a></li>
+</ul>
+</div>
+<!--/.nav-collapse --></div>
+</div>
+
+<div class="container customcontainer">
+<div class="header-section curriculumpage careerpage">
+<div class="logo-container mynavbar mb"><img id="logo" src="./img/logo.png">
+<ul class="nav navbar-nav" style=" margin: auto auto;">
+	<li><a href="./index.html">Home</a></li>
+	<li><a href="./about.html">About Us</a></li>
+	<li><a href="./services.html">Services</a></li>
+	<li><a href="./curriculum.html">Curriculum</a></li>
+	<li><a href="./career.html">Career</a></li>
+	<li><a href="./locateus.html">Locate Us</a></li>
+</ul>
+</div>
+
+<div class="header-message"><img id="headermessage" src="./img/header-message.png"></div>
+
+<div class="header-kid"><img class="hidden-xs" id="headerkid" src="./img/kid.png"></div>
+
+<div class="header-image" style="position:relative;"><img class="transparency" id="headerimage" src="./img/light-shape.png">
+<div class="aboutus-content">
+<div class="row">
+<div class="col-sm-10 col-sm-push-2">
+<div class="text-content">
+<p class="about-heading"><img src="./img/career/career-heading.png"></p>
+
+<p>Love working with children and wish to make a difference in their lives?<br>
+We are constantly looking for new and dedicated talent to join our team!</p>
+
+<p>Email us your resume and your desired position to<br>
+<a href="mailto:enquiry@kidskingdom.edu.sg" target="_blank">enquiry@kidskingdom.edu.sg</a> to be a part of the KidsKingdom family!</p>
+
+<div class="career-thumbnail"><img src="./img/career/career-thumbnail.png"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="afterheader">
+<div class="semi-footer visible-xs">
+<div class="callandfb"><img src="./img/mobile/fbandcall.png" usemap="#image-maps-2015-12-22-054019"><map id="ImageMapsCom-image-maps-2015-12-22-054019" name="image-maps-2015-12-22-054019"><area alt="Call us at +65 6587 4771" coords="116,0,659,103" href="tel:+6565874771" shape="rect" style="outline:none;" target="_blank" title="Call us at +65 6587 4771"> <area alt="Visit us at Facebook" coords="0,0,99,103" href="https://www.facebook.com/kidskingdomgroup" shape="rect" style="outline:none;" target="_blank" title="Visit us at Facebook"></map></div>
+
+<div class="memberlogos"><img src="./img/mobile/memberlogos.png" usemap="#image-maps-2015-12-22-054438"><map id="ImageMapsCom-image-maps-2015-12-22-054438" name="image-maps-2015-12-22-054438"><area alt="Visit Al Najah Education Website" coords="75,56,268,156" href="http://www.alnajaheducation.com" shape="rect" style="outline:none;" target="_blank" title="Visit Al Najah Education Website"> <area alt="Visit Horizon Website" coords="287,62,611,180" href="http://www.alnajaheducation.com" shape="rect" style="outline:none;" target="_blank" title="Visit Horizon Website"></map></div>
+</div>
+
+<div class="row contact-details hidden-xs">
+<div class="col-md-12 contact-details">
+<div>
+<div class="row">
+<div class="col-sm-6 fb-details"><a href="https://www.facebook.com/kidskingdomgroup" target="_blank"><img src="./img/fb-logo.png"><span class="fb-message">Follow us for latest updates</span></a></div>
+
+<div class="col-sm-6 call-detail-container">Call&nbsp;6247 5036 (Bedok)&nbsp;/ 6382 3895 (Hougang)</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-12 hide">
+<div style="width: 760px;margin-left: -30px;">
+<div class="row">
+<div class="col-md-4 fb-details"><a href="https://www.facebook.com/kidskingdomgroup" target="_blank"><img src="./img/fb-logo.png"><span class="fb-message">Follow us for latest updates</span></a></div>
+
+<div class="col-md-4 call-detail-container"><span class="call-details"><span class="call-keyword">Call</span> +65 6587 4771</span></div>
+
+<div class="col-md-4 member-logos"><span><img alt="" border="0" height="73" id="Image-Maps-Com-image-maps-2015-11-21-120456" orgheight="73" orgwidth="228" src="./img/member-logos.png" usemap="#image-maps-2015-11-21-120456" width="228"><map id="ImageMapsCom-image-maps-2015-11-21-120456" name="image-maps-2015-11-21-120456"><span><area alt="Alnajah" coords="0,33,99,73" href="//www.alnajaheducation.com/" shape="rect" style="outline:none;" target="_blank" title="Alnajah"> <area alt="Horizon" coords="102,32,228,73" href="//www.alnajaheducation.com/" shape="rect" style="outline:none;" target="_blank" title="Horizon"></span></map></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="margin-bottom: 20px;text-align: center;">
+<p><font color="yellow">Managed By:</font><br>
+<a href="http://www.alnajaheducation.com" style="display: inline-block;" target="_blank"><img alt="" border="0" src="./img/about/HEAL-Logo.png"></a></p>
+</div>
+
+<div class="footer footer-section">
+<p><span>Our centres are licensed by the Early Childhood Development Agency (ECDA)</span> <span>© 2015 KidsKingdom Childcare, Singapore</span></p>
+</div>
+<!-- /.container --><!-- Bootstrap core JavaScript
+    ================================================== --><!-- Placed at the end of the document so the pages load faster --><script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+</body></html>

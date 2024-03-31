@@ -1,0 +1,403 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>My Little Gems Preschool  I  Little Gems, Shining Minds</title>
+<style type="text/css">
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #000;
+}
+body {
+	background-color: #6CF;
+	margin-top: 0px;
+	text-align: center;
+	background-image: url(images/backgroundgrad.gif);
+	background-repeat: repeat-x;
+}
+a:link {
+	color: #931d80;
+}
+a:hover {
+	color: #e40d7e;
+}
+a:active {
+	color: #e40d7e;
+}
+h1 {
+	font-size: 14pt;
+	color: #e40d7e;
+}
+h2 {
+	font-size: 12pt;
+	color: #931d80;
+}
+#container {
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #fff;
+	position: relative;
+	text-align: left;
+	height: 800px;
+}
+#header {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:1024px;
+	height:126px;
+	z-index:1;
+	background-color: #FFFFFF;
+	background-image: url(images/littlegems.gif);
+	background-repeat: no-repeat;
+	background-position: 680px 84px;
+}
+#container #header img {
+	margin-top: 26px;
+	margin-left: 36px;
+}
+#nav1 {
+	position:absolute;
+	left:0px;
+	top:126px;
+	width:39px;
+	height:40px;
+	z-index:2;
+	background-image: url(images/navbar_block1.gif);
+}
+#nav2home {
+	position:absolute;
+	left:39px;
+	top:126px;
+	width:40px;
+	height:40px;
+	z-index:3;
+	background-image: url(images/navbar_home.gif);
+}
+#nav3about {
+	position:absolute;
+	left:79px;
+	top:126px;
+	width:151px;
+	height:40px;
+	z-index:4;
+	background-image: url(images/navbarsliced_03.gif);
+}
+#nav4prog {
+	position:absolute;
+	left:230px;
+	top:126px;
+	width:151px;
+	height:40px;
+	z-index:5;
+	background-image: url(images/navbarsliced_04.gif);
+}
+#nav5curr {
+	position:absolute;
+	left:381px;
+	top:126px;
+	width:151px;
+	height:40px;
+	z-index:6;
+	background-image: url(images/navbarsliced_05.gif);
+}
+#nav6staff {
+	position:absolute;
+	left:532px;
+	top:126px;
+	width:151px;
+	height:40px;
+	z-index:7;
+	background-image: url(images/navbarsliced_06.gif);
+}
+#nav7contact {
+	position:absolute;
+	left:683px;
+	top:126px;
+	width:151px;
+	height:40px;
+	z-index:8;
+	background-image: url(images/navbarsliced_07.gif);
+}
+#nav8test {
+	position:absolute;
+	left:834px;
+	top:126px;
+	width:151px;
+	height:40px;
+	z-index:9;
+	background-image: url(images/navbarsliced_08.gif);
+}
+#nav9 {
+	position:absolute;
+	left:985px;
+	top:126px;
+	width:39px;
+	height:40px;
+	z-index:10;
+	background-image: url(images/navbarsliced_09.gif);
+}
+#mainpic {
+	position:absolute;
+	left:39px;
+	top:205px;
+	width:570px;
+	height:380px;
+	z-index:11;
+}
+#main {
+	position:absolute;
+	left:630px;
+	top:205px;
+	width:357px;
+	height:370px;
+	z-index:12;
+}
+#box1 {
+	position:absolute;
+	left:39px;
+	top:600px;
+	width:180px;
+	height:154px;
+	z-index:13;
+}
+#box2 {
+	position:absolute;
+	left:234px;
+	top:600px;
+	width:180px;
+	height:154px;
+	z-index:14;
+}
+#box3 {
+	position:absolute;
+	left:429px;
+	top:600px;
+	width:180px;
+	height:154px;
+	z-index:15;
+}
+#navrest {
+	position:absolute;
+	left:79px;
+	top:126px;
+	width:945px;
+	height:40px;
+	z-index:16;
+	background-image: url(images/navbar_blue.gif);
+}
+#speachbox1 img {
+	position: relative;
+}
+</style>
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-Y770P7Y3FY&amp;l=dataLayer&amp;cx=c"></script><script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<link href="SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+#speachbox1 {
+	position:relative;
+	left:0px;
+	top:0px;
+	width:355px;
+	height:231px;
+	z-index:17;
+	overflow: visible;
+}
+</style>
+<link href="mlgstyle.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+// Comma separated list of images to rotate 
+var imgs = new Array('images/home_main1.gif','images/home_main2.gif','images/home_main3.gif');
+// delay in milliseconds between image swaps 1000 = 1 second 
+var delay = 5000;
+var counter = 0;
+
+function preloadImgs(){
+  for(var i=0;i<imgs.length;i++){
+    MM_preloadImages(imgs[i]);
+  }
+}
+
+function randomImages(){
+  if(counter == (imgs.length)){
+    counter = 0;
+  }
+  MM_swapImage('rotator', '', imgs[counter++]);
+  setTimeout('randomImages()', delay);
+}
+</script>
+<style type="text/css">
+a:visited {
+	color: #1c9cd8;
+}
+#apDiv1 {
+	position:absolute;
+	left:39px;
+	top:775px;
+	width:352px;
+	height:25px;
+	z-index:17;
+}
+#apDiv2 {
+	position:absolute;
+	left:40px;
+	top:762px;
+	width:375px;
+	height:24px;
+	z-index:17;
+}
+#apDiv3 {
+	position:absolute;
+	left:922px;
+	top:16px;
+	width:50px;
+	height:50px;
+	z-index:1;
+}
+#apDiv4 {
+	position:absolute;
+	left:935px;
+	top:19px;
+	width:50px;
+	height:50px;
+	z-index:1;
+}
+#fbicon {
+	position:absolute;
+	left:936px;
+	top:19px;
+	width:50px;
+	height:50px;
+	z-index:1;
+}
+#apDiv5 {
+	position:absolute;
+	left:834px;
+	top:29px;
+	width:223px;
+	height:23px;
+	z-index:2;
+}
+#apDiv6 {
+	position:absolute;
+	left:736px;
+	top:31px;
+	width:93px;
+	height:16px;
+	z-index:2;
+}
+#apDiv7 {
+	position:absolute;
+	left:875px;
+	top:19px;
+	width:50px;
+	height:50px;
+	z-index:18;
+}
+#apDiv8 {
+	position:absolute;
+	left:775px;
+	top:53px;
+	width:93px;
+	height:16px;
+	z-index:19;
+}
+#apDiv9 {
+	position:absolute;
+	left:935px;
+	top:18px;
+	width:93px;
+	height:16px;
+	z-index:19;
+</style>
+<meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+
+<body onload="preloadImgs();randomImages();MM_preloadImages('images/home_box2_shade.gif','images/home_box1_shade.gif','images/home_box3_shade.gif','images/speachbox1_shade.gif')">
+  <div id="container">
+  <div id="header"><img src="images/mlg_logo.gif" alt="mlg logo" width="200" height="86" id="Image1"></div>
+  <div id="nav1"></div>
+  <div id="nav2home"></div>
+  <div id="mainpic"><img src="images/home_main1.gif" alt="homepic1" name="rotator" width="570" height="380" id="rotator"></div>
+  <div class="mlgpagetxt" id="main"> <strong class="mlgsubhead">My Little Gems Preschool</strong><br>
+ 
+    At My Little Gems, we believe that every child is a gem: precious and ready to shine. 
+    Through holistic development of their <strong>Character, Concentration and Competencies</strong>, we can bring out the <strong>Gems</strong> in them and transform them into highly motivated, confident and independent learners. <br>
+    <br>
+    Our educational philosophy is based on <strong>experiential learning</strong> intended to build strong character and competencies. 
+    At the same time, we take education a step further, by honing children’s concentration skills using child-appropriate meditation techniques so that they can focus and excel in learning and life. 
+    Our team of experienced educators act as facilitators and co-researchers so that they can be role-models to our students.<br>
+    <br>
+    Most importantly, we welcome parents in our school and highly encourage parent teacher partnership so as to reinforce our students learning.
+  <!--<div id="speachbox1"><a href="contact.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','images/speachbox1_shade.gif',1)"><img src="images/speachbox1.gif" name="Image10" width="355" height="231" border="0" id="Image10" /></a></div>-->
+  </div>
+  <div id="box1"><a href="character.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','images/home_box1_shade.gif',1)"><img src="images/home_box1.gif" alt="join kindergarten" name="Image8" width="180" height="154" border="0" id="Image8"></a></div>
+
+  <div id="box2"><a href="enrich.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','images/home_box2_shade.gif',1)"><img src="images/home_box2.gif" alt="enrichment classes" name="Image7" width="180" height="154" border="0" id="Image7"></a></div>
+  <div class="footer" id="apDiv2">Copyright 2011 © My Little Gems. All Rights Reserved</div>
+  <div id="apDiv9"><a href="https://wa.me/6590609660?text=I%20would%20like%20to%20enquiry%20for%20" target="_new"><img src="images/whatsapp_image.jpg" alt="waicon" width="50" height="50" border="0"></a></div>
+  <div id="apDiv7"><a href="http://www.facebook.com/pages/My-Little-Gems-Kindergarten/178730712188704" target="_new"><img src="images/facebook_icon.gif" alt="fbicon" width="50" height="50" border="0"></a></div>
+  <div id="apDiv8"><img src="images/joinuson.gif" alt="joinus" width="93" height="16" border="0"></div>
+  <a href="enrich.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('homebox2link','','images/home_box2_shade.gif',1)"><img src="images/home_box2.gif" name="homebox2link" width="180" height="154" border="0" id="homebox2link"></a>
+<div id="box3"><a href="http://www.facebook.com/pages/My-Little-Gems-Kindergarten/178730712188704" target="_new" onmouseover="MM_swapImage('Image9','','images/home_box3_shade.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/home_box3.gif" alt="upcoming events" name="Image9" width="180" height="154" border="0" id="Image9"></a></div>
+  <div id="navrest">
+    <ul id="MenuBar1" class="MenuBarHorizontal">
+      <li><a href="about_us.html">About Us</a>      </li>
+      <li><a href="core.html" class="MenuBarItemSubmenu">Our Programme</a>
+        <ul>
+<li><a href="core.html">Core</a></li>
+<li><a href="enrich.html">Enrichment</a></li>
+</ul>
+      </li>
+      <li><a href="character.html" class="MenuBarItemSubmenu">Our Curriculum</a>
+        <ul>
+          <li><a href="character.html">Character</a></li>
+          <li><a href="concentration.html">Concentration</a></li>
+          <li><a href="competency.html">Competency</a></li>
+        </ul>
+      </li>
+      <!--<li><a href="team.html">Our Team</a></li>-->
+      <li><a href="testimonials.html">Testimonials</a></li>
+      <li><a href="contact.html">Contact Us</a>      </li>
+      
+    </ul>
+  </div>
+
+  <div id="navigation"></div>
+</div> 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-171599340-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-171599340-1');
+</script>
+
+<script type="text/javascript">
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+</script>
+
+
+</body></html>

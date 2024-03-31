@@ -1,0 +1,541 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" prefix="og: http://ogp.me/ns#" class=""><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta charset="utf-8">
+<!--<meta name="Author" content="Determination" />-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>PLMC Paya Lebar Methodist Church Covenant Kindergarten - Contact Us</title>
+
+<!--<meta property="analytics-track" content="DETERMINATION - Index" />
+<meta property="analytics-s-channel" content="homepage" />
+<meta name="Description" content="Insert SOUL Here, You're filled with DETERMINATION." />
+<meta property="og:title" content="Determination" />
+<meta property="og:description" content="Insert SOUL Here, You're filled with DETERMINATION." />
+<meta property="og:url" content="http://site.cyberland.edu.sg/miku/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Determination" />-->
+
+<!-- STYLE LINKS -->
+
+<link rel="stylesheet" href="css/main.css" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Kalam" rel="stylesheet">
+<!-- STYLE BLOCK -->
+
+<!-- SHOWS CURRENT PAGE -->
+
+<style>
+	#header nav ul #current-about a,
+	#header nav ul #current-about a:hover {
+		color: #FFFFFF;
+	}
+	#link8, #link8:hover {
+		/*background-color: #31C3E7;*/
+		/*background-color: #37bca5;*/
+		color: black;
+		font-weight: bolder;
+	}
+</style>
+
+<!-- SCRIPT LINK -->
+
+<!-- MOBILE NAV SOURCE -->
+
+<script src="src/jquery-1.9.1.min.js"></script>
+<script src="src/jPushMenu.js"></script>
+
+<!-- SCRIPT BLOCK -->
+
+<script>
+
+
+
+	<!-- TO THE TOP -->
+
+
+
+	$(document).on('click', '#tothetop2', function(){
+
+		$('html,body').animate({ scrollTop: 0 }, 500);
+
+	});
+
+
+
+	<!-- MOBILE NAV -->
+
+
+
+	jQuery(document).ready(function($) {
+
+		$('.toggle-menu').jPushMenu();
+
+	});
+
+	
+
+	function ajaxCall(urlx,datax,divx) {
+		$.ajax({
+			type:	'POST',
+			url:	urlx,
+			data:	datax,
+			dataType:	'html',
+			timeout:	15000,
+			success: function(data){
+				$("#"+divx).html(data);
+				},
+			error: function(o,s,e){
+				//window.location = urlx;
+				}
+		});
+	};
+
+
+	function handleForm()
+
+	{
+
+		var name = $("#name").val();
+
+		//var company = $("#company").val();
+
+		var contactno = $("#contactno").val();
+
+		var email = $("#email").val();
+
+				
+
+		var enquiries = $("#enquiries").val();
+
+		
+
+		if (name=="" ){
+
+		alert("Please enter your name.");
+
+		return false;	
+
+		};
+
+
+		/*if (email=="" ){
+
+		alert("Please enter your email.");	
+
+		return false;	
+
+		};*/
+		
+		if(validateEmail(email)){
+			 //alert("Email is correct format");
+		} else {
+			 alert("Please enter a valid email.");
+			return false;
+		};
+		
+
+		if (contactno=="" ){
+
+		alert("Please enter your contact numnber.");
+
+		return false;	
+
+		};
+
+		
+
+
+
+
+		if (enquiries=="" ){
+
+		alert("Please enter your enquiry.");	
+
+		return false;	
+
+		};
+
+
+
+		
+
+		ajaxCall("emailsent.php","mode=enquiry&name="+encodeURIComponent(name)+"&contactno="+encodeURIComponent(contactno)+"&email="+encodeURIComponent(email)+"&enquiries="+encodeURIComponent(enquiries),"enquiryform-area");
+
+	};
+
+	function validateEmail(email){
+	var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+	var valid = emailReg.test(email);
+
+	if(!valid) {
+        return false;
+    } else {
+    	return true;
+    }
+
+
+	}
+
+</script>
+
+</head>
+<body class="push-body">
+
+<!-- WRAPPER -->
+
+<div id="wrapper-outer">
+
+<!-- LOGO / MOBILE NAV 
+**Please copy and paste into each files instead of using php include as the mobile nav are linked to the javascript,
+  this is to prevent it from collision with other javascript -->
+
+<div id="Logo-wrapper">
+	<div id="container-logo">
+		<a href="index.php"><img src="img/PLMC-Logo-for-website-top.png" alt="Logo"></a>
+		<!--<a href="index.php"><img src="img/logo_plmc.png" alt="Logo" ></a>-->
+		<!--<h2 class="topbar_companyname">Paya Lebar Methodist Church Covenant Kindergarten</h2>-->
+	</div>
+	<div id="social-media">
+
+		
+		
+    
+<!------------------------------Mobile version side vertical menu start------------------------------>
+    	<nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" style="background-color: #293789;">
+			<h3 style="background-color: #293789;">Menu</h3>
+			<ul>
+            	<li id="cbplink1"><a href="index.php">Home</a></li>
+				<li id="cbplink2"><a href="aboutus-history.php">About Us</a></li>
+                <!--<li id="cbplink3"><a href="aboutus-visionmission.php#vision">Vision, Mission, Philosophy</a></li>-->
+				<!--<li id="cbplink4"><a href="aboutus-visionmission.php#mission">Mission</a></li>
+				<li id="cbplink5"><a href="aboutus-visionmission.php#philosophy">Philosophy</a></li>-->
+				<li id="cbplink6"><a href="programme-curriculum.php">Our Curriculum</a></li>
+				<li id="cbplink7"><a href="programme-learning.php#learningjourneys">Learning Journeys</a></li>
+				<li id="cbplink8"><a href="programme-learning.php#enrichmentprogramme">Enrichment Programme</a></li>
+				<li id="cbplink9"><a href="parentinfo.php">Parent Info</a></li>
+				<li id="cbplink10"><a href="testimonials.php">Testimonials</a></li>
+				<li id="cbplink11"><a href="gallery.php">Gallery</a></li>
+				<li id="cbplink12"><a href="admission.php">Admission</a></li>
+				<li id="cbplink13"><a href="contactus.php">Contact Us</a></li>
+				<!--<li id="cbplink3">
+                	<a href="">Curriculum &nbsp;&#x25BC;</a>
+            		<ul>
+                		<li id="cbp2nd1">
+                        	<a href="seeds-programme.php">Seeds Programme</a>
+                        </li>
+                		<li id="cbp2nd2">
+                        	<a href="jolly-programme.php">Jolly Programme</a>
+                       	</li>
+                	</ul>
+                </li>-->
+
+<!-- Mobile menu with multi-level items
+<li id="cbplink3">
+                	<a href="curriculum.php">Curriculum &nbsp;&#x25BC;</a>
+            		<ul>
+                		<li id="cbp2nd1">
+                        	<a href="#">Pre-Care</a><div class="arrow">&#x25BC;</div>
+                            <ul>
+                            	<li id="cbp3rd1"><a href="#">Nursery</a></li>
+                            	<li id="cbp3rd2"><a href="#">Pre-K</a></li>
+                            </ul>
+                        </li>
+                		<li id="cbp2nd2">
+                        	<a href="#">Child Care</a><div class="arrow">&#x25BC;</div>
+                            <ul>
+                            	<li id="cbp3rd3"><a href="#">K1</a></li>
+                            	<li id="cbp3rd4"><a href="#">K2</a></li>
+                            </ul>
+                       	</li>
+                	</ul>
+                </li>
+
+-->				
+				
+				
+				
+				
+            </ul>
+            <button class="toggle-menu menu-right push-body jPushMenuBtn" style="background-color:#293789; border: thin solid white;">Close</button>
+		</nav><!------------------------------Mobile version side vertical menu end------------------------------>
+		
+		
+		<div class="container">
+			<div class="main">
+				<button class="toggle-menu menu-right push-body jPushMenuBtn">Menu</button>
+			</div>
+		</div>
+        
+	</div>
+	
+    <div class="clear"></div>
+</div>
+
+<!-- INNER WRAPPER -->
+
+<div id="wrapper-inner">
+
+<!-- HEADER -->
+
+<div id="header">
+	<nav>
+    	<ul>
+        	<li>
+            	<a href="index.php"><div id="current-home"><div id="link1">
+                    	Home
+           	  </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="aboutus-history.php"><div id="current-about"><div id="link2">About Us
+              	</div></div></a>
+				
+            </li>
+            
+        	<li>
+            	<a href=""><div id="current-curriculum"><div id="link3">               	  Programme
+       	  		</div></div></a>
+    			<ul>
+      				<li>
+                    	<a href="programme-curriculum.php">
+                    	<div class="link2nd">Our Curriculum</div></a>
+                        
+                   	</li>
+      				<li>
+                    	<a href="programme-learning.php"><div class="link2nd">Learning Journeys</div></a>
+                    </li>
+					<li>
+                    	<a href="programme-learning.php#enrichmentprogramme"><div class="link2nd">Enrichment Programme</div></a>
+                    </li>
+    			</ul>
+                
+          	</li>
+            
+        	<li>
+            	<a href="parentinfo.php"><div id="current-gallery"><div id="link4">Parent Info
+            	</div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="testimonials.php"><div id="current-testimonies"><div id="link5">
+					Testimonials </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="gallery.php"><div id="current-career"><div id="link6">                    	Gallery
+           	  </div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="admission.php"><div id="current-admission"><div id="link7">                    	Admission
+              	</div></div></a>
+            </li>
+            
+        	<li>
+            	<a href="contactus.php"><div id="current-contact"><div id="link8">                    	Contact Us
+              	</div></div></a>
+            </li>
+        </ul>
+    </nav>
+</div>
+<div class="clear"></div>
+<!-- MAIN CONTENT -->
+
+<div id="content-main">
+	
+    <!-- TITLE -->
+    
+    <div id="title-background" class="contactus-title-background-img">
+    	<!--<h1>About Us</h1>-->
+    </div>
+    
+    <!-- CONTAINER -->
+    
+    <div id="container-box">
+    	
+        <!-- TEXT Summary.etc. -->
+        <div id="container-text-contactus">
+        <!--<div id="container-text-contactus">-->
+			<a name="profile"></a> 
+			<h2 class="title-contactus">CONTACT US</h2>
+			<hr>
+			<a name="officehours"></a>
+			<h2 class="title2">Office Hours:</h2>
+            	<p>Monday to Friday 8am to 4pm</p>
+
+			<h2 class="title2">Address:</h2>
+				<p>Paya Lebar Methodist Church Covenant Kindergarten</p>
+				<p>5 Boundary Road, Singapore 549954</p>
+
+			<h2 class="title2">Tel:</h2>
+            	<p>62853730</p>
+			
+			<h2 class="title2">Email:</h2>
+            	<p>kindergarten@plmc.org</p>
+			
+			
+			<!--<h2 class="title2">How to get there:</h2>
+            	<p><b>Nearest MRT:</b>- Insert MRT station information</p>
+				
+			
+				<p><b>By Bus</b>- Insert Bus numbers information</p>-->
+				
+			
+            
+            <!--<div id="tothetop"><img src="img/tothetop.png" alt="To The Top"></div>-->
+    	</div>
+		
+        <div id="container-right-contactusmap">
+        	<!-- GOOGLE MAP -->
+
+            <!--<div style="width: 50%; float:left;">-->
+
+			<!--<div id="map-container">-->
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7057477056906!2d103.8732819504837!3d1.3531169990082923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da17a5bee54ddd%3A0x2e30855af074cdba!2sPaya+Lebar+Methodist+Church+Covenant+Kindergarten!5e0!3m2!1sen!2ssg!4v1555141126792!5m2!1sen!2ssg" width="100%" height="350px" frameborder="0" style="border:0" allowfullscreen=""></iframe>	
+				
+			<!--</div>-->
+        </div>
+		
+		<div id="subpage-content-fullwidth">
+			<div id="container-text2">
+			<a name="enquiryform"></a>
+			<h2 class="title2">Enquiry Form</h2>
+			<div class="container-form" id="enquiryform-area">
+					  <form id="enquiry" name="enquiry" method="post" action="" onsubmit="javascript:handleForm();return false;">
+						<div class="row">
+						  <div class="col-25">
+							<label for="name">Name : </label>
+						  </div>
+						  <div class="col-75">
+							<!--<input type="text" id="fname" name="firstname" placeholder="Your name..">-->
+							 <input name="name" type="text" id="name" style="width: 90%; border: 1px solid #e5e5e5; padding: 8px 2px;"><span class="requirefield">*</span>
+
+						  </div>
+							
+						</div><br>
+
+						<div class="row">
+						  <div class="col-25">
+							<label for="email">Email :</label>
+						  </div>
+						  <div class="col-75">
+							<input name="email" type="text" id="email" style="width: 90%; border: 1px solid #e5e5e5; padding: 8px 2px;"><span class="requirefield">*</span>
+						  </div>
+						</div><br>
+						<div class="row">
+						  <div class="col-25">
+							<label for="contactno">Phone No. :</label>
+						  </div>
+						  <div class="col-75">
+							<input name="contactno" type="text" id="contactno" style="width: 90%; border: 1px solid #e5e5e5; padding: 8px 2px;"><span class="requirefield">*</span>
+						  </div>
+						</div><br>
+						<div class="row">
+						  <div class="col-25">
+							<label for="enquiries">Enquiry :</label>
+						  </div>
+						  <div class="col-75">
+							<textarea name="enquiries" id="enquiries" style="height:200px; width: 95%; border: 1px solid #e5e5e5; padding: 8px 2px;"></textarea><span class="requirefield">*</span>
+							 <p class="smallprint"><span class="requirefield">*Required fields</span></p> 
+						  </div>
+						</div>
+						<!--<div class="col-25">
+							&nbsp;
+						  </div>
+						  <div class="col-75">
+							<input type="submit" value="Submit" >
+						  </div> --> 
+						<div class="row" style="width: 97%;">
+						
+						  <input type="submit" value="Submit" style="-webkit-appearance: none;">
+							<input type="reset" value="Reset" style="-webkit-appearance: none;">
+							
+						</div>
+					  </form>
+				
+						
+					</div> 
+			
+
+            <div class="clear"></div>
+		
+			
+            <div class="clear"></div>
+            <!--<div id="tothetop"><img src="img/tothetop.png" alt="To The Top"></div>-->
+    	</div>
+		</div>
+		
+    </div>
+    
+    <!-- END OF CONTAINER -->
+    
+    <div class="clear"></div>
+       <div id="tothetop2"><img src="img/tothetop.png" alt="To The Top"></div>
+ 
+</div>
+
+<!-- END OF MAIN CONTENT -->
+
+
+
+</div>
+
+<!-- END OF INNER WRAPPER -->
+<!-- FOOTER -->
+
+<footer>
+	<h6 class="copyright-texts">© Paya Lebar Methodist Church Covenant Kindergarten</h6><br>
+
+	<div class="footer_container1a">
+		<div class="footer_container2">
+			<img src="img/footer-address-icon.png" alt="address">
+			<p>
+			<span class="footerheader">Address:</span><br>
+			<span class="footertexts">5 Boundary Road, Singapore 549954</span>	
+				
+			</p>
+		</div>	
+			
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-officehours-icon.png" alt="office hours">
+			<p>
+			<span class="footerheader">Office Hours:</span><br>
+			<span class="footertexts">Monday to Friday, 8am to 4pm</span>	
+				
+			</p>
+		</div>
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-telephone-icon.png" alt="telephone">
+			<p>
+			<span class="footerheader">Telephone:</span><br>
+			<span class="footertexts">6285 3730</span>	
+				
+			</p>
+		</div>
+	</div>
+	
+	<div class="footer_container1b">
+		<div class="footer_container2">
+			<img src="img/footer-email-icon.png" alt="email">
+			<p>
+			<span class="footerheader">Email:</span><br>
+			<span class="footertexts">kindergarten@plmc.org </span>	
+				
+			</p>
+		</div>
+	</div>
+	<div class="clear"></div>
+</footer></div>
+
+<!-- END OF WRAPPER -->
+
+
+
+</body></html>

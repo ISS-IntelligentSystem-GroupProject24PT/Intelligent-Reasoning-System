@@ -1,0 +1,351 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>mylittlegems Kindergarten  I  Little Gems, Shining Minds</title>
+<style type="text/css">
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #000;
+}
+body {
+	background-color: #FFF;
+	margin-top: 0px;
+	text-align: center;
+	background-image: url(images/backgroundgrad.gif);
+	background-repeat: repeat-x;
+}
+a:link {
+	color: #931d80;
+}
+a:visited {
+	color: #1c9cd8;
+}
+a:hover {
+	color: #e40d7e;
+}
+a:active {
+	color: #e40d7e;
+}
+h1 {
+	font-size: 14pt;
+	color: #e40d7e;
+}
+h2 {
+	font-size: 12pt;
+	color: #931d80;
+}
+#container {
+	height: 1968px;
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #fff;
+	position: relative;
+	text-align: left;
+	border:solid 1px;
+}
+#header {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:1024px;
+	height:126px;
+	z-index:1;
+	background-color: #FFFFFF;
+	background-image: url(images/littlegems.gif);
+	background-repeat: no-repeat;
+	background-position: 680px 84px;
+}
+#container #header img {
+	margin-top: 26px;
+	margin-left: 36px;
+}
+#nav1 {
+	position:absolute;
+	left:0px;
+	top:126px;
+	width:39px;
+	height:40px;
+	z-index:2;
+	background-image: url(images/navbar_block1.gif);
+}
+#nav2home {
+	position:absolute;
+	left:39px;
+	top:126px;
+	width:40px;
+	height:40px;
+	z-index:3;
+	background-image: url(images/navbarsliced_02.gif);
+}
+#nav3about {
+	position:absolute;
+	left:79px;
+	top:126px;
+	width:151px;
+	height:40px;
+	z-index:4;
+	background-image: url(images/navbarsliced_03.gif);
+}
+#nav4prog {
+	position:absolute;
+	left:230px;
+	top:126px;
+	width:151px;
+	height:40px;
+	z-index:5;
+	background-image: url(images/navbarsliced_04.gif);
+}
+#nav5curr {
+	position:absolute;
+	left:381px;
+	top:126px;
+	width:151px;
+	height:40px;
+	z-index:6;
+	background-image: url(images/navbarsliced_05.gif);
+}
+#nav6staff {
+	position:absolute;
+	left:532px;
+	top:126px;
+	width:151px;
+	height:40px;
+	z-index:7;
+	background-image: url(images/navbarsliced_06.gif);
+}
+#nav7contact {
+	position:absolute;
+	left:683px;
+	top:126px;
+	width:151px;
+	height:40px;
+	z-index:8;
+	background-image: url(images/navbarsliced_07.gif);
+}
+#nav8test {
+	position:absolute;
+	left:834px;
+	top:126px;
+	width:151px;
+	height:40px;
+	z-index:9;
+	background-image: url(images/navbarsliced_08.gif);
+}
+#nav9 {
+	position:absolute;
+	left:985px;
+	top:126px;
+	width:39px;
+	height:40px;
+	z-index:10;
+	background-image: url(images/navbarsliced_09.gif);
+}
+#mainpic {
+	position:absolute;
+	left:630px;
+	top:166px;
+	width:355px;
+	height:543px;
+	z-index:11;
+	background-color: #FFFFFF;
+}
+#main {
+	position:absolute;
+	left:39px;
+	top:205px;
+	width:530px;
+	height:473px;
+	z-index:12;
+}
+#box1 {
+	position:absolute;
+	left:39px;
+	top:600px;
+	width:180px;
+	height:154px;
+	z-index:13;
+	background-color: #931d80;
+}
+#box2 {
+	position:absolute;
+	left:234px;
+	top:600px;
+	width:180px;
+	height:154px;
+	z-index:14;
+	background-color: #e40d7e;
+}
+#box3 {
+	position:absolute;
+	left:429px;
+	top:600px;
+	width:180px;
+	height:154px;
+	z-index:15;
+	background-color: #1c9cd8;
+}
+#navrest {
+	position:absolute;
+	left:79px;
+	top:126px;
+	width:945px;
+	height:40px;
+	z-index:16;
+	background-image: url(images/navbar_prog.gif);
+}
+#speachbox1 img {
+	position: relative;
+}
+</style>
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-Y770P7Y3FY&amp;l=dataLayer&amp;cx=c"></script><script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<link href="SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+#speachbox1 {
+	position:absolute;
+	left:630px;
+	top:478px;
+	width:355px;
+	height:276px;
+	z-index:17;
+}
+</style>
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+
+<link href="mlgstyle.css" rel="stylesheet" type="text/css">
+<meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+
+<body onload="MM_preloadImages('images/navbar_home.gif')">
+<div id="container">
+  <div id="header"><a href="index.html"><img src="images/mlg_logo.gif" alt="mlg logo" name="mlglogo" width="200" height="86" border="0" id="mlglogo"></a></div>
+  <div id="nav1"></div>
+  <div id="nav2home"><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','images/navbar_home.gif',1)"><img src="images/navbarsliced_02.gif" alt="home" name="Image6" width="40" height="40" border="0" id="Image6"></a></div>
+  <a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','images/navbar_home.gif',1)"><img src="images/navbarsliced_02.gif" alt="home" name="home" width="40" height="40" border="0" id="home"></a>  <a href="index_sprytest.html">home</a>
+<div id="mainpic"><img src="images/enrich_image.gif" width="355" height="543" alt="enrichimage"></div>
+  <div class="mlgpagetxt" id="main"> <strong class="mlgsubhead">Little Shaolin </strong><br>
+    Little Shaolin is a Wushu programme for preschoolers based on the Song San Shaolin tradition that focuses on developing a strong Body, Mind and Spirit. Classes are both fun and challenging as the children learn the basic Wushu self-defence techniques (locks, escapes, throwing, acupressure points, blocks, strikes and kicks etc) as well as discipline.    <br><br>
+    <span class="mlgstandfirst">Key benefits:</span>
+<ul>
+      <li>Improved motor skills</li>
+      <li>Improved mental focus</li>
+      <li>Greater confidence </li>
+      <li>Learn to be humble and respectful </li>
+      <li>More disciplined</li>
+    </ul>
+    <br>
+    <strong class="mlgsubhead">Speech and Drama</strong><br>
+    Our Speech and Drama programme offers a stimulating, fun-filled, imaginative and action based experience for young children to improve their language, speech and presentation skills in a supporting environment to boost their confidence and self-esteem. Very importantly, our programme is bilingual where a series of sessions will be carried out in either English or Chinese, so that young children can be masters of both languages.
+    <br><br>
+    To make the sessions come alive, our students will dress up, make-up, or use of various props to express their creative talents. Each series of sessions will conclude with a presentation and parents will be encouraged to attend to show support for their budding talents.
+    <br><br>
+    <span class="mlgstandfirst">Key benefits:</span>
+<ul>
+      <li>Improved positive self-esteem</li>
+      <li>Increased confidence to communicate</li>
+      <li>Love of languages and communication</li>
+      <li>Good pronuncation and voice control</li>
+      <li>Love for reading and stories</li>
+      <li>Increased confidence to perform and take part in performances</li>
+      <li>Voice control and projection</li>
+    </ul>
+    <br> 
+    <strong class="mlgsubhead">Phonics and Reading</strong><br>
+    A systematic phonics and reading programme is vital for young children to become a fluent reader and confident communicator. Our programme provides a structured approach to building literacy skills using quality graded readers, supplemented with fun and interactive age-appropriate activities. During the class, our students will learn to read with their peers or individually with their teachers. They will develop phonics skills, recognize sight words, vocabulary, and master language structure and grammar to support developing literacy skills. In addition, our programme includes well-crafted thinking questions and problem solving scenarios, crucial to develop children’s creative and critical thinking skills.
+    <br><br><br>
+    <strong class="mlgsubhead">Little Chinese Scholar</strong>    <br>
+   Throughout the history, every Chinese scholar strives to excel in four art forms: music, board game, calligraphy and painting. Little Chinese Scholar is a programme designed for preschoolers to spur and strengthen children’s interest in Chinese by exposing them to these four art forms:    <ul>
+   <li>Music –stories, songs, rhythms, poems</li>
+    <li>Board Games – games and mini projects to encourage participation and learning</li>
+    <li>Calligraphy – writing strokes and sequence of Chinese characters and Chinese word art to help young children relate to the words and meanings</li>
+    <li>Painting – creative expression and representation</li></ul>
+    <br>
+    <strong class="mlgsubhead">Little Picasso &nbsp;</strong>    <br>
+    Little Picasso is a platform to allow young children to express their feelings, ideas, imaginations and understanding of the world through different art forms. They will discover the use of basic shapes and objects to express their ideas and relate to the objects that they see around them. &nbsp;At the same time, they will learn creative colouring skills, drawing techniques as well as appreciate drawings and enjoy hands-on experiences on creating art pieces with oil pastel and water colour.<br><br>
+    <br> 
+    <strong class="mlgsubhead">Little Mozart</strong><br>
+    We are all born with a musical instrument - our voice. Our hands, feet and body are all possible percussion instruments. Through the Little Mozart pogramme, your child will learn the possibilities of music making, the rudiments and elements of music, paving the way for your child to take on formal music education.    <br><br>
+    <span class="mlgstandfirst">Key Activities:</span>
+    <ul>
+    <li>Recognizing beats and responding with movements</li>
+    <li>Solfege Singing</li>
+    <li>Developing steady pulse</li>
+    <li>Aural Awareness: Tempo, Pitch, Rhythm</li>
+    <li>Making simple instruments</li>
+    <li>Note recognition and note Reading</li>
+    <li>Understand and experiment how sounds are produced</li>
+    <li>Famous composers and their lives    </li>
+    </ul>
+    <br>
+    <span class="mlgsubhead">Little Yogi</span><br>
+    Little Yogi is a gentle &amp; gradual programme to improve preschooler’s concentration, focus &amp; awareness, breathing patterns, motor skills development, flexibility &amp; balance, confidence, and relaxation ability. <br>
+  &nbsp;<br>
+    <span class="mlgstandfirst">A typical Yoga session includes: </span><ul>
+    <li>Sound &amp; music therapy</li>
+    <li>Breathing exercises</li>
+    <li>Eye exercises</li>
+    <li>Yoga poses</li>
+    <li>Deep relaxation</li>
+  <li>Colour therapy/imagery    </li></ul>
+  <a href="core.html"><img src="images/previousimage.gif" alt="Previous" width="58" height="15" border="0" class="mlgprevious"></a><br><br> <div class="footer">Copyright 2011 © My Little Gems. All Rights Reserved</div></div>
+  <div id="navrest">
+    <ul id="MenuBar1" class="MenuBarHorizontal">
+      <li><a href="about_us.html">About Us</a>      </li>
+      <li><a href="core.html" class="MenuBarItemSubmenu">Our Programme</a>
+        <ul>
+<li><a href="core.html">Core</a></li>
+<li><a href="enrich.html">Enrichment</a></li>
+</ul>
+      </li>
+      <li><a href="character.html" class="MenuBarItemSubmenu">Our Curriculum</a>
+        <ul>
+          <li><a href="character.html">Character</a></li>
+          <li><a href="concentration.html">Concentration</a></li>
+          <li><a href="competency.html">Competency</a></li>
+        </ul>
+      </li>
+      <!--<li><a href="team.html">Our Team</a></li>-->
+      <li><a href="testimonials.html">Testimonials</a></li>
+      <li><a href="contact.html">Contact Us</a>      </li>
+      
+    </ul>
+  </div>
+  <div id="navigation"><img src="images/navbarsliced_01.gif" width="39" height="40" alt="navslice1"></div>
+</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-171599340-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-171599340-1');
+</script>
+
+<script type="text/javascript">
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+</script>
+
+
+</body></html>
