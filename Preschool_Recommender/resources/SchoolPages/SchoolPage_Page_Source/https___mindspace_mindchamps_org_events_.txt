@@ -256,7 +256,7 @@ unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F0
 <script src="https://mindspace.mindchamps.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" type="text/javascript"></script>
 <script src="https://mindspace.mindchamps.org/wp-content/plugins/mindchamps-plugins/js/featherlight.min.js?ver=220215-100126" id="custom_js-js" type="text/javascript"></script>
 <script src="https://mindspace.mindchamps.org/wp-content/plugins/duracelltomi-google-tag-manager/js/analytics-talk-content-tracking.js?ver=1.16" id="gtm4wp-scroll-tracking-js" type="text/javascript"></script>
-<script defer="defer" src="https://mindspace.mindchamps.org/wp-content/plugins/widget-google-reviews/assets/js/public-main.js?ver=2.6" id="grw-public-main-js-js" type="text/javascript"></script>
+<script defer="defer" src="https://mindspace.mindchamps.org/wp-content/plugins/widget-google-reviews/assets/js/public-main.js?ver=2.6" id="grw-public-main-js-js" type="d71842ebb8b78f6dd754df55-text/javascript"></script>
 <link rel="https://api.w.org/" href="https://mindspace.mindchamps.org/wp-json/"><link rel="alternate" type="application/json" href="https://mindspace.mindchamps.org/wp-json/wp/v2/pages/4722"><link rel="shortlink" href="https://mindspace.mindchamps.org/?p=4722">
 <link rel="alternate" type="application/json+oembed" href="https://mindspace.mindchamps.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmindspace.mindchamps.org%2Fevents%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://mindspace.mindchamps.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmindspace.mindchamps.org%2Fevents%2F&amp;format=xml">
@@ -3425,14 +3425,14 @@ table.std {
     /* End GeneratePress Site CSS */
 	
 		</style>
-<meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10851319302/?random=1711820337988&amp;cv=11&amp;fst=1711820337988&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0v873644460z8856768452za201&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmindspace.mindchamps.org%2Fevents%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Events%20-%20Mindspace&amp;npa=0&amp;pscdl=noapi&amp;auid=1729880574.1711820168&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B123.0.6312.86%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.86&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;fdr=QA&amp;rfmt=3&amp;fmt=4"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://mindspace.mindchamps.org/wp-includes/js/wp-emoji-release.min.js?ver=6.4.3" defer=""></script></head>
-<body class="page-template-default page page-id-4722 wp-custom-logo wp-embed-responsive post-image-aligned-center slideout-enabled slideout-mobile sticky-menu-fade sticky-enabled both-sticky-menu mobile-header mobile-header-logo mobile-header-sticky gutentor-active no-sidebar nav-below-header separate-containers header-aligned-left dropdown-hover generatepress full-width-content offside-js--init cookies-not-set">
+<meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10851319302/?random=1711897667773&amp;cv=11&amp;fst=1711897667773&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0v873644460z8856768452za201&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmindspace.mindchamps.org%2Fevents%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Events%20-%20Mindspace&amp;npa=0&amp;pscdl=noapi&amp;auid=629097098.1711897658&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B123.0.6312.86%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.86&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;fdr=QA&amp;rfmt=3&amp;fmt=4"></script><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/content-event-listing.min.js?ver=3.1.33"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/event-ajax-filters.min.js?ver=3.1.33"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/jquery-chosen/chosen.jquery.min.js?ver=1.1.0"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/jquery-deserialize/jquery.deserialize.js?ver=1.2.1"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/jquery.comiseo.daterangepicker.js?ver=3.1.33"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/gutentor/assets/js/gutentor.min.js?ver=3.2.3"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=2.2"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/popup-maker/assets/js/site.min.js?defer&amp;ver=1.18.0"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/cookie-notice/includes/../js/front.min.js?ver=2.3.1"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.1.3"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/ultimate-addons-for-contact-form-7/addons/multistep/assets/js/progressbar.js"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/ultimate-addons-for-contact-form-7/addons/multistep/assets/js/multistep.js"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.16"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-contact-form-7-tracker.js?ver=1.16"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/wpcf7-redirect/build/js/wpcf7r-fe.js?ver=1.1"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/jquery-timepicker/jquery.timepicker.min.js?ver=3.1.33"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/common.min.js?ver=3.1.33"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/responsive-accordion-and-collapse/js/accordion.js?ver=6.4.3"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/responsive-accordion-and-collapse/js/accordion-custom.js?ver=6.4.3"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/gp-premium/general/js/smooth-scroll.min.js?ver=2.1.2"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/gutentor/assets/library/magnific-popup/jquery.magnific-popup.min.js?ver=1.1.0"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/gp-premium/menu-plus/functions/js/offside.min.js?ver=2.1.2"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/gp-premium/menu-plus/functions/js/sticky.min.js?ver=2.1.2"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/widget-google-reviews/assets/js/public-main.js?ver=2.6"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/duracelltomi-google-tag-manager/js/analytics-talk-content-tracking.js?ver=1.16"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-content/plugins/mindchamps-plugins/js/featherlight.min.js?ver=220215-100126"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"><link rel="preload" as="script" href="https://mindspace.mindchamps.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></head>
+<body class="page-template-default page page-id-4722 wp-custom-logo wp-embed-responsive post-image-aligned-center slideout-enabled slideout-mobile sticky-menu-fade sticky-enabled both-sticky-menu mobile-header mobile-header-logo mobile-header-sticky gutentor-active no-sidebar nav-below-header separate-containers header-aligned-left dropdown-hover generatepress cookies-not-set full-width-content offside-js--init">
 
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=1" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
 
 
-<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a> <nav id="mobile-header" class="main-navigation mobile-header-navigation has-branding has-sticky-branding stuckElement">
+<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a> <nav id="mobile-header" class="main-navigation mobile-header-navigation has-branding has-sticky-branding">
 <div class="inside-navigation grid-container grid-parent">
 <div class="site-logo mobile-header-logo">
 <a href="https://mindspace.mindchamps.org/" title="Mindspace" rel="home">
@@ -3478,7 +3478,7 @@ table.std {
 </li>
 </ul></div> </div>
 </nav>
-<nav class="has-branding main-navigation nav-align-right sub-menu-right stuckElement" id="site-navigation" aria-label="Primary">
+<nav class="has-branding main-navigation nav-align-right sub-menu-right" id="site-navigation" aria-label="Primary">
 <div class="inside-navigation grid-container">
 <div class="navigation-branding"><div class="site-logo">
 <a href="https://mindspace.mindchamps.org/" title="Mindspace" rel="home">
@@ -3555,10 +3555,10 @@ table.std {
 <div class="wpem-col">
 <div class="wpem-form-group">
 <label for="search_categories" class="wpem-form-label">Category</label>
-<select name="search_categories[]" id="search_categories" class="event-manager-category-dropdown " data-placeholder="Choose a Category" data-no_results_text="No results match" data-multiple_text="Choose a Category" style="display: none;">
+<select name="search_categories[]" id="search_categories" class="event-manager-category-dropdown " data-placeholder="Choose a Category" data-no_results_text="No results match" data-multiple_text="Choose a Category">
 <option value="">Filter by</option> <option class="level-0" value="past-events">Past Events</option>
 <option class="level-0" value="upcoming-events">Upcoming Events</option>
-</select><div class="chosen-container chosen-container-single" style="width: 350px;" title="" id="search_categories_chosen"><a class="chosen-single" tabindex="-1"><span>Filter by</span><div><b></b></div></a><div class="chosen-drop"><div class="chosen-search"><input type="text" autocomplete="off"></div><ul class="chosen-results"></ul></div></div>
+</select>
 </div>
 </div>
 
@@ -3566,17 +3566,17 @@ table.std {
 <div class="wpem-col">
 <div class="wpem-form-group">
 <label for="search_event_types" class="wpem-form-label">Event Type</label>
-<select name="search_event_types[]" id="search_event_types" class="event-manager-category-dropdown " data-placeholder="Choose an event type" data-no_results_text="No results match" data-multiple_text="Choose an event type" style="display: none;">
+<select name="search_event_types[]" id="search_event_types" class="event-manager-category-dropdown " data-placeholder="Choose an event type" data-no_results_text="No results match" data-multiple_text="Choose an event type">
 <option value="">Type of Event</option> <option class="level-0" value="open-house">Open House</option>
 <option class="level-0" value="other">Other</option>
 <option class="level-0" value="webinar">Webinar</option>
-</select><div class="chosen-container chosen-container-single" style="width: 350px;" title="" id="search_event_types_chosen"><a class="chosen-single" tabindex="-1"><span>Type of Event</span><div><b></b></div></a><div class="chosen-drop"><div class="chosen-search"><input type="text" autocomplete="off"></div><ul class="chosen-results"></ul></div></div>
+</select>
 </div>
 </div>
 
 </div> 
 </div>
-<div class="showing_applied_filters" style="display: none;"></div></form>
+<div class="showing_applied_filters"></div></form>
 <noscript>Your browser does not support JavaScript, or it is disabled. JavaScript must be enabled in order to view listings.</noscript> <div class="wpem-main wpem-event-listings-header">
 <div class="wpem-row">
 <div class="wpem-col wpem-col-12 wpem-col-sm-6 wpem-col-md-6 wpem-col-lg-8">
@@ -3587,470 +3587,16 @@ table.std {
 <div class="wpem-col wpem-col-12 wpem-col-sm-6 wpem-col-md-6 wpem-col-lg-4">
 <div class="wpem-event-layout-action-wrapper">
 <div class="wpem-event-layout-action">
-<div class="wpem-event-layout-icon wpem-event-box-layout wpem-active-layout" title="Events Box View" id="wpem-event-box-layout"><i class="wpem-icon-stop2"></i></div>
-<div class="wpem-event-layout-icon wpem-event-list-layout" title="Events List View" id="wpem-event-list-layout"><i class="wpem-icon-menu"></i></div>
+<div class="wpem-event-layout-icon wpem-event-box-layout" title="Events Box View" id="wpem-event-box-layout"><i class="wpem-icon-stop2"></i></div>
+<div class="wpem-event-layout-icon wpem-event-list-layout wpem-active-layout" title="Events List View" id="wpem-event-list-layout"><i class="wpem-icon-menu"></i></div>
 </div>
 </div>
 </div>
 </div>
 </div>
 
-<div id="event-listing-view" class="wpem-main wpem-event-listings event_listings wpem-row wpem-event-listing-box-view">
-			
-				
-<div class="wpem-event-box-col wpem-col wpem-col-12 wpem-col-md-6 wpem-col-lg-4">
-    <!----- wpem-col-lg-4 value can be change by admin settings ------->
-    <div class="wpem-event-layout-wrapper">
-        <div class="event_listing event-type-open-house post-13791 type-event_listing status-expired has-post-thumbnail hentry event_listing_category-past-events event_listing_type-open-house no-featured-image-padding">
-            <a class="wpem-event-action-url event-style-color open-house">
-                <div class="wpem-event-banner">
-                    <div class="wpem-event-banner-img">
-                        <img src="https://mindspace.mindchamps.org/wp-content/uploads/2024/01/MicrosoftTeams-image-2024-01-08T163715.665.jpg">
-                    </div>
-                </div>
-
-                <div class="wpem-event-infomation">
-                    <div class="wpem-event-date">
-                        <div class="wpem-event-date-type">
-                                                            <div class="wpem-from-date">
-                                    <div class="wpem-date">20</div>
-                                    <div class="wpem-month">Jan</div>
-                                </div>
-                            
-                                                            <div class="wpem-to-date">
-                                    <div class="wpem-date-separator">-</div>
-                                    <div class="wpem-date">27</div>
-                                    <div class="wpem-month">Jan</div>
-                                </div>
-                                                    </div>
-                    </div>
-
-                    <div class="wpem-event-details">
-                                                <div class="wpem-event-title">
-							<div class="dateflex-title">
-							<div style=" margin-right: 10px; font-weight: 500; color: #ee5b54;" class="bt_bb_event_date">
-											<div class="bt_bb_event_date_month">Jan</div>
-											<div class="bt_bb_event_date_day">20</div>
-										</div>
-                            <h5 style="border-left: solid 1px; padding-left: 10px;" class="bt_bb_event_content_title">MindSpace @ Alexandra Open House</h5> </div> 
-							<div class="events-info">														
-						
-                                        <br><strong>Start date:</strong> January 20, 2024                                        <br><strong>End date:</strong> January 27, 2024                                                                                                                        <br><strong>Location:</strong> 2 Leng Kee Road, Thye Hong Centre, #03-02, Singapore 159086                                                                                								</div>
-</div>	
-                        
-                        
-                        <!-- Show in list View // Hide in Box View -->
-                                                <!-- Show in list View // Hide in Box View -->
-                                            </div>
-                </div>
-            </a>
-        </div>
-    </div>
-</div>
-			
-				
-<div class="wpem-event-box-col wpem-col wpem-col-12 wpem-col-md-6 wpem-col-lg-4">
-    <!----- wpem-col-lg-4 value can be change by admin settings ------->
-    <div class="wpem-event-layout-wrapper">
-        <div class="event_listing event-type-open-house post-13339 type-event_listing status-publish has-post-thumbnail hentry event_listing_category-past-events event_listing_type-open-house no-featured-image-padding">
-            <a class="wpem-event-action-url event-style-color open-house">
-                <div class="wpem-event-banner">
-                    <div class="wpem-event-banner-img">
-                        <img src="https://mindspace.mindchamps.org/wp-content/uploads/2023/09/MicrosoftTeams-image-2023-09-29T153835.png">
-                    </div>
-                </div>
-
-                <div class="wpem-event-infomation">
-                    <div class="wpem-event-date">
-                        <div class="wpem-event-date-type">
-                                                            <div class="wpem-from-date">
-                                    <div class="wpem-date">31</div>
-                                    <div class="wpem-month">Oct</div>
-                                </div>
-                            
-                                                    </div>
-                    </div>
-
-                    <div class="wpem-event-details">
-                                                <div class="wpem-event-title">
-							<div class="dateflex-title">
-							<div style=" margin-right: 10px; font-weight: 500; color: #ee5b54;" class="bt_bb_event_date">
-											<div class="bt_bb_event_date_month">Oct</div>
-											<div class="bt_bb_event_date_day">31</div>
-										</div>
-                            <h5 style="border-left: solid 1px; padding-left: 10px;" class="bt_bb_event_content_title">25 Years Campaign</h5> </div> 
-							<div class="events-info">														
-						
-                                        <br><strong>Start date:</strong> October 31, 2023                                        <br><strong>End date:</strong> October 31, 2023                                                                                                                        <br><strong>Location:</strong> -                                                                                								</div>
-</div>	
-                        
-                        
-                        <!-- Show in list View // Hide in Box View -->
-                                                <!-- Show in list View // Hide in Box View -->
-                                            </div>
-                </div>
-            </a>
-        </div>
-    </div>
-</div>
-			
-				
-<div class="wpem-event-box-col wpem-col wpem-col-12 wpem-col-md-6 wpem-col-lg-4">
-    <!----- wpem-col-lg-4 value can be change by admin settings ------->
-    <div class="wpem-event-layout-wrapper">
-        <div class="event_listing event-type-open-house post-13384 type-event_listing status-publish has-post-thumbnail hentry event_listing_category-past-events event_listing_type-open-house tag_centre-alexandra no-featured-image-padding">
-            <a class="wpem-event-action-url event-style-color open-house">
-                <div class="wpem-event-banner">
-                    <div class="wpem-event-banner-img">
-                        <img src="https://mindspace.mindchamps.org/wp-content/uploads/2023/10/MS-LNK-Sep-Open-House_WA_FB-Image_800x800_page-0001-1.jpg">
-                    </div>
-                </div>
-
-                <div class="wpem-event-infomation">
-                    <div class="wpem-event-date">
-                        <div class="wpem-event-date-type">
-                                                            <div class="wpem-from-date">
-                                    <div class="wpem-date">21</div>
-                                    <div class="wpem-month">Oct</div>
-                                </div>
-                            
-                                                            <div class="wpem-to-date">
-                                    <div class="wpem-date-separator">-</div>
-                                    <div class="wpem-date">04</div>
-                                    <div class="wpem-month">Nov</div>
-                                </div>
-                                                    </div>
-                    </div>
-
-                    <div class="wpem-event-details">
-                                                <div class="wpem-event-title">
-							<div class="dateflex-title">
-							<div style=" margin-right: 10px; font-weight: 500; color: #ee5b54;" class="bt_bb_event_date">
-											<div class="bt_bb_event_date_month">Oct</div>
-											<div class="bt_bb_event_date_day">21</div>
-										</div>
-                            <h5 style="border-left: solid 1px; padding-left: 10px;" class="bt_bb_event_content_title">MindSpace @ Alexandra Open House</h5> </div> 
-							<div class="events-info">														
-						
-                                        <br><strong>Start date:</strong> October 21, 2023                                        <br><strong>End date:</strong> November 4, 2023                                                                                                                        <br><strong>Location:</strong> 2 Leng Kee Road, Thye Hong Centre, #03-02, Singapore 159086                                                                                                                        <br><strong>Summary:</strong><p style="margin-top:-25px !important;"></p><p><!-- wp:paragraph --></p>
-<p>Join us for a meaningful weekend and discover all that we have to offer!</p>
-<p><!-- /wp:paragraph --></p>
-<p></p>
-                                        								</div>
-</div>	
-                        
-                        
-                        <!-- Show in list View // Hide in Box View -->
-                                                <!-- Show in list View // Hide in Box View -->
-                                            </div>
-                </div>
-            </a>
-        </div>
-    </div>
-</div>
-			
-				
-<div class="wpem-event-box-col wpem-col wpem-col-12 wpem-col-md-6 wpem-col-lg-4">
-    <!----- wpem-col-lg-4 value can be change by admin settings ------->
-    <div class="wpem-event-layout-wrapper">
-        <div class="event_listing event-type-other post-13122 type-event_listing status-publish has-post-thumbnail hentry event_listing_category-past-events event_listing_type-other no-featured-image-padding">
-            <a class="wpem-event-action-url event-style-color other">
-                <div class="wpem-event-banner">
-                    <div class="wpem-event-banner-img">
-                        <img src="https://mindspace.mindchamps.org/wp-content/uploads/2023/09/MicrosoftTeams-image-123.jpeg">
-                    </div>
-                </div>
-
-                <div class="wpem-event-infomation">
-                    <div class="wpem-event-date">
-                        <div class="wpem-event-date-type">
-                                                            <div class="wpem-from-date">
-                                    <div class="wpem-date">14</div>
-                                    <div class="wpem-month">Oct</div>
-                                </div>
-                            
-                                                    </div>
-                    </div>
-
-                    <div class="wpem-event-details">
-                                                <div class="wpem-event-title">
-							<div class="dateflex-title">
-							<div style=" margin-right: 10px; font-weight: 500; color: #ee5b54;" class="bt_bb_event_date">
-											<div class="bt_bb_event_date_month">Oct</div>
-											<div class="bt_bb_event_date_day">14</div>
-										</div>
-                            <h5 style="border-left: solid 1px; padding-left: 10px;" class="bt_bb_event_content_title">Secrets Revealed Workshop</h5> </div> 
-							<div class="events-info">														
-						
-                                        <br><strong>Start date:</strong> October 14, 2023                                        <br><strong>End date:</strong> October 14, 2023                                                                                                                        <br><strong>Location:</strong> Snyder Theatre, MindChamps Global HQ, 04-100, Marina Square, Singapore 039594                                                                                                                        <br><strong>Summary:</strong><p style="margin-top:-25px !important;"></p><p><!-- wp:paragraph --></p>
-<p>Join us for a meaningful weekend and discover all that we have to offer!</p>
-<p><!-- /wp:paragraph --></p>
-<p></p>
-                                        								</div>
-</div>	
-                        
-                        
-                        <!-- Show in list View // Hide in Box View -->
-                                                <!-- Show in list View // Hide in Box View -->
-                                            </div>
-                </div>
-            </a>
-        </div>
-    </div>
-</div>
-			
-				
-<div class="wpem-event-box-col wpem-col wpem-col-12 wpem-col-md-6 wpem-col-lg-4">
-    <!----- wpem-col-lg-4 value can be change by admin settings ------->
-    <div class="wpem-event-layout-wrapper">
-        <div class="event_listing event-type-open-house post-13232 type-event_listing status-publish has-post-thumbnail hentry event_listing_category-past-events event_listing_type-open-house tag_centre-serangoon no-featured-image-padding">
-            <a class="wpem-event-action-url event-style-color open-house">
-                <div class="wpem-event-banner">
-                    <div class="wpem-event-banner-img">
-                        <img src="https://mindspace.mindchamps.org/wp-content/uploads/2023/09/MS-SRG-Children-Day-Celebration-and-Open-House_FB-1-1-1.jpg">
-                    </div>
-                </div>
-
-                <div class="wpem-event-infomation">
-                    <div class="wpem-event-date">
-                        <div class="wpem-event-date-type">
-                                                            <div class="wpem-from-date">
-                                    <div class="wpem-date">07</div>
-                                    <div class="wpem-month">Oct</div>
-                                </div>
-                            
-                                                    </div>
-                    </div>
-
-                    <div class="wpem-event-details">
-                                                <div class="wpem-event-title">
-							<div class="dateflex-title">
-							<div style=" margin-right: 10px; font-weight: 500; color: #ee5b54;" class="bt_bb_event_date">
-											<div class="bt_bb_event_date_month">Oct</div>
-											<div class="bt_bb_event_date_day">7</div>
-										</div>
-                            <h5 style="border-left: solid 1px; padding-left: 10px;" class="bt_bb_event_content_title">MindSpace @ Serangoon (Lorong Chuan) Open House</h5> </div> 
-							<div class="events-info">														
-						
-                                        <br><strong>Start date:</strong> October 7, 2023                                        <br><strong>End date:</strong> October 7, 2023                                                                                                                        <br><strong>Location:</strong> 151 Lorong Chuan, #02-12, New Tech Park Singapore 556741                                                                                                                        <br><strong>Summary:</strong><p style="margin-top:-25px !important;"></p><p><!-- wp:paragraph --></p>
-<p>Join us for a meaningful weekend and discover all that we have to offer!</p>
-<p><!-- /wp:paragraph --></p>
-<p></p>
-                                        								</div>
-</div>	
-                        
-                        
-                        <!-- Show in list View // Hide in Box View -->
-                                                <!-- Show in list View // Hide in Box View -->
-                                            </div>
-                </div>
-            </a>
-        </div>
-    </div>
-</div>
-			
-				
-<div class="wpem-event-box-col wpem-col wpem-col-12 wpem-col-md-6 wpem-col-lg-4">
-    <!----- wpem-col-lg-4 value can be change by admin settings ------->
-    <div class="wpem-event-layout-wrapper">
-        <div class="event_listing event-type-open-house post-13120 type-event_listing status-publish has-post-thumbnail hentry event_listing_category-past-events event_listing_type-open-house tag_centre-link896-bukit-timah no-featured-image-padding">
-            <a class="wpem-event-action-url event-style-color open-house">
-                <div class="wpem-event-banner">
-                    <div class="wpem-event-banner-img">
-                        <img src="https://mindspace.mindchamps.org/wp-content/uploads/2023/09/Bukit-timah-open-house.jpg">
-                    </div>
-                </div>
-
-                <div class="wpem-event-infomation">
-                    <div class="wpem-event-date">
-                        <div class="wpem-event-date-type">
-                                                            <div class="wpem-from-date">
-                                    <div class="wpem-date">30</div>
-                                    <div class="wpem-month">Sep</div>
-                                </div>
-                            
-                                                    </div>
-                    </div>
-
-                    <div class="wpem-event-details">
-                                                <div class="wpem-event-title">
-							<div class="dateflex-title">
-							<div style=" margin-right: 10px; font-weight: 500; color: #ee5b54;" class="bt_bb_event_date">
-											<div class="bt_bb_event_date_month">Sep</div>
-											<div class="bt_bb_event_date_day">30</div>
-										</div>
-                            <h5 style="border-left: solid 1px; padding-left: 10px;" class="bt_bb_event_content_title">MindSpace @ Link@896 (Bukit Timah) Open House</h5> </div> 
-							<div class="events-info">														
-						
-                                        <br><strong>Start date:</strong> September 30, 2023                                        <br><strong>End date:</strong> September 30, 2023                                                                                                                        <br><strong>Location:</strong> 896 Dunearn Road #03-09 Link @ 896 Singapore 589472                                                                                                                        <br><strong>Summary:</strong><p style="margin-top:-25px !important;"></p><p><!-- wp:paragraph --></p>
-<p>Join us for a meaningful weekend and discover all that we have to offer!</p>
-<p><!-- /wp:paragraph --></p>
-<p></p>
-                                        								</div>
-</div>	
-                        
-                        
-                        <!-- Show in list View // Hide in Box View -->
-                                                <!-- Show in list View // Hide in Box View -->
-                                            </div>
-                </div>
-            </a>
-        </div>
-    </div>
-</div>
-			
-				
-<div class="wpem-event-box-col wpem-col wpem-col-12 wpem-col-md-6 wpem-col-lg-4">
-    <!----- wpem-col-lg-4 value can be change by admin settings ------->
-    <div class="wpem-event-layout-wrapper">
-        <div class="event_listing event-type-open-house post-13089 type-event_listing status-publish has-post-thumbnail hentry event_listing_category-past-events event_listing_type-open-house tag_centre-woodlands-close no-featured-image-padding">
-            <a class="wpem-event-action-url event-style-color open-house">
-                <div class="wpem-event-banner">
-                    <div class="wpem-event-banner-img">
-                        <img src="https://mindspace.mindchamps.org/wp-content/uploads/2023/09/MS-WLC-Open-House_WAFB-Image_800x800-1.png">
-                    </div>
-                </div>
-
-                <div class="wpem-event-infomation">
-                    <div class="wpem-event-date">
-                        <div class="wpem-event-date-type">
-                                                            <div class="wpem-from-date">
-                                    <div class="wpem-date">23</div>
-                                    <div class="wpem-month">Sep</div>
-                                </div>
-                            
-                                                    </div>
-                    </div>
-
-                    <div class="wpem-event-details">
-                                                <div class="wpem-event-title">
-							<div class="dateflex-title">
-							<div style=" margin-right: 10px; font-weight: 500; color: #ee5b54;" class="bt_bb_event_date">
-											<div class="bt_bb_event_date_month">Sep</div>
-											<div class="bt_bb_event_date_day">23</div>
-										</div>
-                            <h5 style="border-left: solid 1px; padding-left: 10px;" class="bt_bb_event_content_title">MindSpace @ Woodlands Close Open House</h5> </div> 
-							<div class="events-info">														
-						
-                                        <br><strong>Start date:</strong> September 23, 2023                                        <br><strong>End date:</strong> September 23, 2023                                                                                                                        <br><strong>Location:</strong> 11 Woodlands Close #01-36/37 Singapore 737853                                                                                                                        <br><strong>Summary:</strong><p style="margin-top:-25px !important;"></p><p><!-- wp:paragraph --></p>
-<p>Join us for a meaningful weekend and discover all that we have to offer!</p>
-<p><!-- /wp:paragraph --></p>
-<p></p>
-                                        								</div>
-</div>	
-                        
-                        
-                        <!-- Show in list View // Hide in Box View -->
-                                                <!-- Show in list View // Hide in Box View -->
-                                            </div>
-                </div>
-            </a>
-        </div>
-    </div>
-</div>
-			
-				
-<div class="wpem-event-box-col wpem-col wpem-col-12 wpem-col-md-6 wpem-col-lg-4">
-    <!----- wpem-col-lg-4 value can be change by admin settings ------->
-    <div class="wpem-event-layout-wrapper">
-        <div class="event_listing event-type-open-house post-12910 type-event_listing status-publish has-post-thumbnail hentry event_listing_category-past-events event_listing_type-open-house no-featured-image-padding">
-            <a class="wpem-event-action-url event-style-color open-house">
-                <div class="wpem-event-banner">
-                    <div class="wpem-event-banner-img">
-                        <img src="https://mindspace.mindchamps.org/wp-content/uploads/2023/08/MS-ONE-Open-House_Sept_WAFB-Image_800x800_page-0001-1.jpg">
-                    </div>
-                </div>
-
-                <div class="wpem-event-infomation">
-                    <div class="wpem-event-date">
-                        <div class="wpem-event-date-type">
-                                                            <div class="wpem-from-date">
-                                    <div class="wpem-date">02</div>
-                                    <div class="wpem-month">Sep</div>
-                                </div>
-                            
-                                                    </div>
-                    </div>
-
-                    <div class="wpem-event-details">
-                                                <div class="wpem-event-title">
-							<div class="dateflex-title">
-							<div style=" margin-right: 10px; font-weight: 500; color: #ee5b54;" class="bt_bb_event_date">
-											<div class="bt_bb_event_date_month">Sep</div>
-											<div class="bt_bb_event_date_day">2</div>
-										</div>
-                            <h5 style="border-left: solid 1px; padding-left: 10px;" class="bt_bb_event_content_title">MindSpace @ Galaxis (One-North) Open House</h5> </div> 
-							<div class="events-info">														
-						
-                                        <br><strong>Start date:</strong> September 2, 2023                                        <br><strong>End date:</strong> September 2, 2023                                                                                                                        <br><strong>Location:</strong> 1 Fusionopolis Place Galaxis #01-11/12 Singapore 138522                                                                                                                        <br><strong>Summary:</strong><p style="margin-top:-25px !important;"></p><p><!-- wp:paragraph --></p>
-<p>Join us for a meaningful weekend and discover all that we have to offer!</p>
-<p><!-- /wp:paragraph --></p>
-<p></p>
-                                        								</div>
-</div>	
-                        
-                        
-                        <!-- Show in list View // Hide in Box View -->
-                                                <!-- Show in list View // Hide in Box View -->
-                                            </div>
-                </div>
-            </a>
-        </div>
-    </div>
-</div>
-			
-				
-<div class="wpem-event-box-col wpem-col wpem-col-12 wpem-col-md-6 wpem-col-lg-4">
-    <!----- wpem-col-lg-4 value can be change by admin settings ------->
-    <div class="wpem-event-layout-wrapper">
-        <div class="event_listing event-type-open-house post-12907 type-event_listing status-publish has-post-thumbnail hentry event_listing_category-past-events event_listing_type-open-house tag_centre-midview-city no-featured-image-padding">
-            <a class="wpem-event-action-url event-style-color open-house">
-                <div class="wpem-event-banner">
-                    <div class="wpem-event-banner-img">
-                        <img src="https://mindspace.mindchamps.org/wp-content/uploads/2023/08/MS-MVC-Open-House_WAFB-Image_800x800-1.jpg">
-                    </div>
-                </div>
-
-                <div class="wpem-event-infomation">
-                    <div class="wpem-event-date">
-                        <div class="wpem-event-date-type">
-                                                            <div class="wpem-from-date">
-                                    <div class="wpem-date">26</div>
-                                    <div class="wpem-month">Aug</div>
-                                </div>
-                            
-                                                    </div>
-                    </div>
-
-                    <div class="wpem-event-details">
-                                                <div class="wpem-event-title">
-							<div class="dateflex-title">
-							<div style=" margin-right: 10px; font-weight: 500; color: #ee5b54;" class="bt_bb_event_date">
-											<div class="bt_bb_event_date_month">Aug</div>
-											<div class="bt_bb_event_date_day">26</div>
-										</div>
-                            <h5 style="border-left: solid 1px; padding-left: 10px;" class="bt_bb_event_content_title">MindSpace @ Midview City (Bishan) Open House</h5> </div> 
-							<div class="events-info">														
-						
-                                        <br><strong>Start date:</strong> August 26, 2023                                        <br><strong>End date:</strong> August 26, 2023                                                                                                                        <br><strong>Location:</strong> 18 Sin Ming Lane #01-14 Midview City Singapore 573960                                                                                                                        <br><strong>Summary:</strong><p style="margin-top:-25px !important;"></p><p><!-- wp:paragraph --></p>
-<p>Join us for a meaningful weekend and discover all that we have to offer!</p>
-<p><!-- /wp:paragraph --></p>
-<p></p>
-                                        								</div>
-</div>	
-                        
-                        
-                        <!-- Show in list View // Hide in Box View -->
-                                                <!-- Show in list View // Hide in Box View -->
-                                            </div>
-                </div>
-            </a>
-        </div>
-    </div>
-</div>
-			
-		</div>
-<div id="load_more_events_loader"><a class="load_more_events" id="load_more_events" href="#" style=""><strong>Load more events</strong></a></div></div>
+<div id="event-listing-view" class="wpem-main wpem-event-listings event_listings wpem-event-listing-list-view"></div>
+<div id="load_more_events_loader"><a class="load_more_events" id="load_more_events" href="#" style="display:none"><strong>Load more events</strong></a></div></div>
 </div></div>
 </div></div></div>
 </div></div>
@@ -4165,7 +3711,7 @@ h4, h5, h6 {
 </div>
 </footer>
 </div>
-<nav id="generate-slideout-menu" class="main-navigation slideout-navigation offside offside--left" style="">
+<nav id="generate-slideout-menu" class="main-navigation slideout-navigation offside offside--left" style="display: none;">
 <div class="inside-navigation grid-container grid-parent">
 <div class="main-nav"><ul id="menu-primary-2" class=" slideout-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3183"><a href="https://mindspace.mindchamps.org/about-mindspace/">ABOUT<br>MINDSPACE<span role="presentation" class="dropdown-menu-toggle"><span class="gp-icon icon-arrow"><svg viewBox="0 0 330 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M305.913 197.085c0 2.266-1.133 4.815-2.833 6.514L171.087 335.593c-1.7 1.7-4.249 2.832-6.515 2.832s-4.815-1.133-6.515-2.832L26.064 203.599c-1.7-1.7-2.832-4.248-2.832-6.514s1.132-4.816 2.832-6.515l14.162-14.163c1.7-1.699 3.966-2.832 6.515-2.832 2.266 0 4.815 1.133 6.515 2.832l111.316 111.317 111.316-111.317c1.7-1.699 4.249-2.832 6.515-2.832s4.815 1.133 6.515 2.832l14.162 14.163c1.7 1.7 2.833 4.249 2.833 6.515z"></path></svg></span></span></a>
 <ul class="sub-menu">
@@ -4299,10 +3845,10 @@ h4, h5, h6 {
 <div class="cf-col-12"><span class="wpcf7-form-control-wrap" data-name="promo-code"><input type="text" name="promo-code" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false"></span></div>
 <div class="cf-col-1"><span class="wpcf7-form-control-wrap" data-name="hereby-agree"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><input type="checkbox" name="hereby-agree" value="1" aria-invalid="false"></span></span></span></div>
 <div class="cf-col-11 lh-12"><span style="text-align: left;"><small>I consent to the collection, use and disclosure of my personal information and the personal information of my child by MindChamps Holdings Pte Limited, its related corporations and the franchisees of its related corporations (individually and collectively the “MindChamps Group”) for the purposes of (a) processing and responding to my enquiries; (b) providing services and sending you information on special events, promotions, offers and other marketing and promotional material; and (c) such other purposes as set out in section 2 of MindChamps’ Privacy Policy, which can be accessed at <a href="https://www.mindchamps.org/privacy-policy/"><span style="color:red"><u>https://www.mindchamps.org/privacy-policy/, </u></span></a> in accordance with the Personal Data Protection Act 2012 and MindChamps’ Privacy Policy.<br><br><span style="text-align: justify;">I acknowledge that I have read and consent to the above and you may contact me via my email account, telephone, SMS and/or other phone number-based messaging at the details provided in this form.</span></small> </span></div>
-<div class="cf-col-12"><input type="submit" value="SUBMIT" class="wpcf7-form-control has-spinner wpcf7-submit" disabled=""><span class="wpcf7-spinner"></span></div>
+<div class="cf-col-12"><input type="submit" value="SUBMIT" class="wpcf7-form-control has-spinner wpcf7-submit"></div>
 </div>
 </div>
-<input type="hidden" class="wpcf7-pum" value="{&quot;closepopup&quot;:false,&quot;closedelay&quot;:0,&quot;openpopup&quot;:false,&quot;openpopup_id&quot;:0}"><div class="wpcf7-response-output" aria-hidden="true"></div><input type="hidden" name="pum_form_popup_id" value="11037"></form></div>
+<input type="hidden" class="wpcf7-pum" value="{&quot;closepopup&quot;:false,&quot;closedelay&quot;:0,&quot;openpopup&quot;:false,&quot;openpopup_id&quot;:0}"><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
 </div>
 <button type="button" class="pum-close popmake-close" aria-label="Close">
 × </button>
@@ -4394,11 +3940,11 @@ h4, h5, h6 {
 <div class="cf-col-1"><span class="wpcf7-form-control-wrap" data-name="hereby-agree"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><input type="checkbox" name="hereby-agree" value="1" aria-invalid="false"></span></span></span></div>
 <div class="cf-col-11 lh-12"><span style="text-align: left;"><small>I consent to the collection, use and disclosure of my personal information and the personal information of my child by MindChamps Holdings Pte Limited, its related corporations and the franchisees of its related corporations (individually and collectively the “MindChamps Group”) for the purposes of (a) processing and responding to my enquiries; (b) providing services and sending you information on special events, promotions, offers and other marketing and promotional material; and (c) such other purposes as set out in section 2 of MindChamps’ Privacy Policy, which can be accessed at <a href="https://www.mindchamps.org/privacy-policy/"><span style="color:red"><u>https://www.mindchamps.org/privacy-policy/, </u></span></a> in accordance with the Personal Data Protection Act 2012 and MindChamps’ Privacy Policy.<br><br><span style="text-align: justify;">I acknowledge that I have read and consent to the above and you may contact me via my email account, telephone, SMS and/or other phone number-based messaging at the details provided in this form. </span></small></span></div>
 <div class="cf-col-12">
-<input type="submit" value="SUBMIT" class="wpcf7-form-control has-spinner wpcf7-submit" disabled=""><span class="wpcf7-spinner"></span>
+<input type="submit" value="SUBMIT" class="wpcf7-form-control has-spinner wpcf7-submit">
 </div>
 </div>
 </div>
-<input type="hidden" class="wpcf7-pum" value="{&quot;closepopup&quot;:false,&quot;closedelay&quot;:0,&quot;openpopup&quot;:false,&quot;openpopup_id&quot;:0}"><div class="wpcf7-response-output" aria-hidden="true"></div><input type="hidden" name="pum_form_popup_id" value="10933"></form></div>
+<input type="hidden" class="wpcf7-pum" value="{&quot;closepopup&quot;:false,&quot;closedelay&quot;:0,&quot;openpopup&quot;:false,&quot;openpopup_id&quot;:0}"><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
 </div>
 <button type="button" class="pum-close popmake-close" aria-label="Close">
 × </button>
@@ -4408,7 +3954,13 @@ h4, h5, h6 {
 <script type="text/javascript">
 var sbiajaxurl = "https://mindspace.mindchamps.org/wp-admin/admin-ajax.php";
 </script>
-<script id="generate-a11y" type="text/javascript">!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("mousedown",function(){e.classList.add("using-mouse")}),e.addEventListener("keydown",function(){e.classList.remove("using-mouse")})}}();</script><link rel="stylesheet" id="wp-event-manager-jquery-ui-daterangepicker-css" href="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/jquery.comiseo.daterangepicker.css?ver=6.4.3" media="all">
+<script id="generate-a11y" type="text/javascript">!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("mousedown",function(){e.classList.add("using-mouse")}),e.addEventListener("keydown",function(){e.classList.remove("using-mouse")})}}();</script><link rel="stylesheet" id="wp-event-manager-jquery-ui-daterangepicker-css" href="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/jquery.comiseo.daterangepicker.css?ver=6.4.3" media="all"><script type="text/javascript" id="">document.addEventListener("wpcf7submit",function(a){window.dataLayer.push({event:"formSubmit",formId:a.detail.contactFormId,response:a.detail.inputs})});</script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","989026388428676");fbq("set","agent","tmgoogletagmanager","989026388428676");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=989026388428676&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","242712388609777");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=242712388609777&amp;ev=PageView&amp;noscript=1"></noscript>
+
 <link rel="stylesheet" id="wp-event-manager-jquery-ui-daterangepicker-style-css" href="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/styles.css?ver=6.4.3" media="all">
 <script src="https://mindspace.mindchamps.org/wp-content/plugins/gp-premium/menu-plus/functions/js/sticky.min.js?ver=2.1.2" id="generate-sticky-js" type="text/javascript"></script>
 <script id="generate-offside-js-extra" type="text/javascript">
@@ -4441,7 +3993,7 @@ var wpcf7r = {"ajax_url":"https:\/\/mindspace.mindchamps.org\/wp-admin\/admin-aj
 <script src="https://mindspace.mindchamps.org/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-contact-form-7-tracker.js?ver=1.16" id="gtm4wp-contact-form-7-tracker-js" type="text/javascript"></script>
 <script src="https://mindspace.mindchamps.org/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.16" id="gtm4wp-form-move-tracker-js" type="text/javascript"></script>
 <script id="uacf7-multistep-js-extra" type="text/javascript">
-var uacf7_multistep_obj = {"ajax_url":"https:\/\/mindspace.mindchamps.org\/wp-admin\/admin-ajax.php","nonce":"9fe38e325b"};
+var uacf7_multistep_obj = {"ajax_url":"https:\/\/mindspace.mindchamps.org\/wp-admin\/admin-ajax.php","nonce":"9a22629775"};
 </script>
 <script src="https://mindspace.mindchamps.org/wp-content/plugins/ultimate-addons-for-contact-form-7/addons/multistep/assets/js/multistep.js" id="uacf7-multistep-js" type="text/javascript"></script>
 <script src="https://mindspace.mindchamps.org/wp-content/plugins/ultimate-addons-for-contact-form-7/addons/multistep/assets/js/progressbar.js" id="uacf7-progressbar-js" type="text/javascript"></script>
@@ -4453,7 +4005,7 @@ var generatepressMenu = {"toggleOpenedSubMenus":"1","openSubMenuLabel":"Open Sub
 </script>
 <script src="https://mindspace.mindchamps.org/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.1.3" id="generate-menu-js" type="text/javascript"></script>
 <script id="cookie-notice-front-js-extra" type="text/javascript">
-var cnArgs = {"ajaxUrl":"https:\/\/mindspace.mindchamps.org\/wp-admin\/admin-ajax.php","nonce":"999aa78b9e","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"0","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
+var cnArgs = {"ajaxUrl":"https:\/\/mindspace.mindchamps.org\/wp-admin\/admin-ajax.php","nonce":"c76a4d4762","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"0","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
 </script>
 <script async="" src="https://mindspace.mindchamps.org/wp-content/plugins/cookie-notice/includes/../js/front.min.js?ver=2.3.1" id="cookie-notice-front-js" type="text/javascript"></script>
 <script id="popup-maker-site-js-extra" type="text/javascript">
@@ -4467,39 +4019,33 @@ var wpcf7cf_global_settings = {"ajaxurl":"https:\/\/mindspace.mindchamps.org\/wp
 </script>
 <script src="https://mindspace.mindchamps.org/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=2.2" id="wpcf7cf-scripts-js" type="text/javascript"></script>
 <script id="gutentor-block-js-extra" type="text/javascript">
-var gutentorLS = {"fontAwesomeVersion":"5","restNonce":"519cfe39a4","restUrl":"https:\/\/mindspace.mindchamps.org\/wp-json\/"};
+var gutentorLS = {"fontAwesomeVersion":"5","restNonce":"133b910896","restUrl":"https:\/\/mindspace.mindchamps.org\/wp-json\/"};
 </script>
 <script src="https://mindspace.mindchamps.org/wp-content/plugins/gutentor/assets/js/gutentor.min.js?ver=3.2.3" id="gutentor-block-js" type="text/javascript"></script>
-<script src="https://mindspace.mindchamps.org/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2" id="jquery-ui-controlgroup-js" type="text/javascript"></script>
-<script src="https://mindspace.mindchamps.org/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2" id="jquery-ui-checkboxradio-js" type="text/javascript"></script>
-<script src="https://mindspace.mindchamps.org/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2" id="jquery-ui-button-js" type="text/javascript"></script>
-<script src="https://mindspace.mindchamps.org/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2" id="jquery-ui-datepicker-js" type="text/javascript"></script>
-<script src="https://mindspace.mindchamps.org/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2" id="jquery-ui-menu-js" type="text/javascript"></script>
-<script src="https://mindspace.mindchamps.org/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4" id="moment-js" type="text/javascript"></script>
-<script id="moment-js-after" type="text/javascript">
+<script src="https://mindspace.mindchamps.org/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2" id="jquery-ui-controlgroup-js" type="text/javascript"></script><!--<script src="https://mindspace.mindchamps.org/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2" id="jquery-ui-controlgroup-js" type="text/javascript"></script>-->
+<!--<script src="https://mindspace.mindchamps.org/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2" id="jquery-ui-checkboxradio-js" type="text/javascript"></script>-->
+<!--<script src="https://mindspace.mindchamps.org/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2" id="jquery-ui-button-js" type="text/javascript"></script>-->
+<!--<script src="https://mindspace.mindchamps.org/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2" id="jquery-ui-datepicker-js" type="text/javascript"></script>-->
+<!--<script src="https://mindspace.mindchamps.org/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2" id="jquery-ui-menu-js" type="text/javascript"></script>-->
+<!--<script src="https://mindspace.mindchamps.org/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4" id="moment-js" type="text/javascript"></script>-->
+<!--<script id="moment-js-after" type="text/javascript">
 moment.updateLocale( 'en_US', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":1},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"F j, Y","LLL":"F j, Y g:i a","LLLL":null}} );
-</script>
-<script src="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/jquery.comiseo.daterangepicker.js?ver=3.1.33" id="wp-event-manager-jquery-ui-daterangepicker-js" type="text/javascript"></script>
-<script src="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/jquery-deserialize/jquery.deserialize.js?ver=1.2.1" id="jquery-deserialize-js" type="text/javascript"></script>
-<script src="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/jquery-chosen/chosen.jquery.min.js?ver=1.1.0" id="chosen-js" type="text/javascript"></script>
-<script id="wp-event-manager-ajax-filters-js-extra" type="text/javascript">
+</script>-->
+<!--<script src="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/jquery.comiseo.daterangepicker.js?ver=3.1.33" id="wp-event-manager-jquery-ui-daterangepicker-js" type="text/javascript"></script>-->
+<!--<script src="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/jquery-deserialize/jquery.deserialize.js?ver=1.2.1" id="jquery-deserialize-js" type="text/javascript"></script>-->
+<!--<script src="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/jquery-chosen/chosen.jquery.min.js?ver=1.1.0" id="chosen-js" type="text/javascript"></script>-->
+<!--<script id="wp-event-manager-ajax-filters-js-extra" type="text/javascript">
 var event_manager_ajax_filters = {"ajax_url":"\/em-ajax\/%%endpoint%%\/","is_rtl":"0","lang":null};
-</script>
-<script src="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/event-ajax-filters.min.js?ver=3.1.33" id="wp-event-manager-ajax-filters-js" type="text/javascript"></script>
-<script id="wp-event-manager-content-event-listing-js-extra" type="text/javascript">
+</script>-->
+<!--<script src="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/event-ajax-filters.min.js?ver=3.1.33" id="wp-event-manager-ajax-filters-js" type="text/javascript"></script>-->
+<!--<script id="wp-event-manager-content-event-listing-js-extra" type="text/javascript">
 var event_manager_content_event_listing = {"i18n_datepicker_format":"yy-mm-dd","i18n_initialText":"Select Date Range","i18n_applyButtonText":"Apply","i18n_clearButtonText":"Clear","i18n_cancelButtonText":"Cancel","i18n_monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"i18n_today":"Today","i18n_tomorrow":"Tomorrow","i18n_thisWeek":"This Week","i18n_nextWeek":"Next Week","i18n_thisMonth":"This Month","i18n_nextMonth":"Next Month","i18n_thisYear":"This Year","i18n_nextYear":"Next Year"};
-</script>
-<script src="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/content-event-listing.min.js?ver=3.1.33" id="wp-event-manager-content-event-listing-js" type="text/javascript"></script>
+</script>-->
+<!--<script src="https://mindspace.mindchamps.org/wp-content/plugins/wp-event-manager/assets/js/content-event-listing.min.js?ver=3.1.33" id="wp-event-manager-content-event-listing-js" type="text/javascript"></script>-->
 
-<div id="cookie-notice" role="dialog" class="cookie-revoke-hidden cn-position-bottom cn-effect-fade cookie-notice-visible" aria-label="Cookie Notice" style="background-color: rgba(50,50,58,1);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button cn-button-custom button" aria-label="Ok">Ok</a><a href="https://www.mindchamps.org/privacy-policy/" target="_blank" id="cn-more-info" class="cn-more-info cn-button cn-button-custom button" aria-label="Privacy policy">Privacy policy</a></span><span id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" title="No"></span></div>
+<div id="cookie-notice" role="dialog" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(50,50,58,1);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button cn-button-custom button" aria-label="Ok">Ok</a><a href="https://www.mindchamps.org/privacy-policy/" target="_blank" id="cn-more-info" class="cn-more-info cn-button cn-button-custom button" aria-label="Privacy policy">Privacy policy</a></span><span id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" title="No"></span></div>
 </div>
 
 
 
-<script type="text/javascript" id="">document.addEventListener("wpcf7submit",function(a){window.dataLayer.push({event:"formSubmit",formId:a.detail.contactFormId,response:a.detail.inputs})});</script>
-<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","989026388428676");fbq("set","agent","tmgoogletagmanager","989026388428676");fbq("track","PageView");</script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=989026388428676&amp;ev=PageView&amp;noscript=1"></noscript>
-
-<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","242712388609777");fbq("track","PageView");</script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=242712388609777&amp;ev=PageView&amp;noscript=1"></noscript>
 </body></html>

@@ -125,13 +125,13 @@ flexibility(document.documentElement);
 				<div class="elementor-element elementor-element-4fc4b86 elementor-nav-menu--stretch elementor-hidden-tablet elementor-hidden-mobile elementor-nav-menu__align-right elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="4fc4b86" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-chevron-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 			<link rel="stylesheet" href="https://tungling.edu.sg/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
-				<ul id="menu-1-4fc4b86" class="elementor-nav-menu" data-smartmenus-id="17118194049159307"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-8 current_page_item menu-item-363"><a href="https://tungling.edu.sg/" aria-current="page" class="elementor-item elementor-item-active menu-link">Home</a></li>
+				<ul id="menu-1-4fc4b86" class="elementor-nav-menu" data-smartmenus-id="17118986924541658"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-8 current_page_item menu-item-363"><a href="https://tungling.edu.sg/" aria-current="page" class="elementor-item elementor-item-active menu-link">Home</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-364"><a href="https://tungling.edu.sg/#about-us" aria-current="" class="elementor-item elementor-item-anchor menu-link">About Us</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-365"><a href="https://tungling.edu.sg/#our-mission" aria-current="" class="elementor-item elementor-item-anchor menu-link">Our Mission &amp; Vision</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-366"><a href="https://tungling.edu.sg/#our-core" aria-current="location" class="elementor-item elementor-item-anchor menu-link elementor-item-active">Our Core Values</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-367"><a href="https://tungling.edu.sg/#testimonials" aria-current="page" class="elementor-item elementor-item-anchor menu-link">Testimonials</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-368"><a href="#" class="elementor-item elementor-item-anchor menu-link has-submenu" id="sm-17118194049159307-1" aria-haspopup="true" aria-controls="sm-17118194049159307-2" aria-expanded="false">Our Curriculum<span role="application" class="dropdown-menu-toggle ast-header-navigation-arrow" tabindex="0" aria-expanded="false" aria-label="Menu Toggle"></span><span class="sub-arrow"><i class="fas fa-chevron-down"></i></span></a>
-<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17118194049159307-2" role="group" aria-hidden="true" aria-labelledby="sm-17118194049159307-1" aria-expanded="false">
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-367"><a href="https://tungling.edu.sg/#testimonials" aria-current="" class="elementor-item elementor-item-anchor menu-link">Testimonials</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-368"><a href="#" class="elementor-item elementor-item-anchor menu-link has-submenu" id="sm-17118986924541658-1" aria-haspopup="true" aria-controls="sm-17118986924541658-2" aria-expanded="false">Our Curriculum<span role="application" class="dropdown-menu-toggle ast-header-navigation-arrow" tabindex="0" aria-expanded="false" aria-label="Menu Toggle"></span><span class="sub-arrow"><i class="fas fa-chevron-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17118986924541658-2" role="group" aria-hidden="true" aria-labelledby="sm-17118986924541658-1" aria-expanded="false">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-678"><a href="https://tungling.edu.sg/main-curriculum/" class="elementor-sub-item menu-link">MAIN CURRICULUM</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-804"><a href="https://tungling.edu.sg/embedded-enrichment/" class="elementor-sub-item menu-link">EMBEDDED ENRICHMENT</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-803"><a href="https://tungling.edu.sg/optional-enrichment/" class="elementor-sub-item menu-link">OPTIONAL ENRICHMENT</a></li>
@@ -142,13 +142,13 @@ flexibility(document.documentElement);
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true" style="width: 779px; left: 0px; top: 0px; --menu-height: 0;">
-				<ul id="menu-2-4fc4b86" class="elementor-nav-menu" data-smartmenus-id="1711819404919878"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-8 current_page_item menu-item-363"><a href="https://tungling.edu.sg/" aria-current="page" class="elementor-item elementor-item-active menu-link" tabindex="-1">Home</a></li>
+				<ul id="menu-2-4fc4b86" class="elementor-nav-menu" data-smartmenus-id="17118986924582805"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-8 current_page_item menu-item-363"><a href="https://tungling.edu.sg/" aria-current="page" class="elementor-item elementor-item-active menu-link" tabindex="-1">Home</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-364"><a href="https://tungling.edu.sg/#about-us" aria-current="page" class="elementor-item elementor-item-anchor menu-link" tabindex="-1">About Us</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-365"><a href="https://tungling.edu.sg/#our-mission" aria-current="page" class="elementor-item elementor-item-anchor menu-link" tabindex="-1">Our Mission &amp; Vision</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-366"><a href="https://tungling.edu.sg/#our-core" aria-current="page" class="elementor-item elementor-item-anchor menu-link" tabindex="-1">Our Core Values</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-367"><a href="https://tungling.edu.sg/#testimonials" aria-current="page" class="elementor-item elementor-item-anchor menu-link" tabindex="-1">Testimonials</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-368"><a href="#" class="elementor-item elementor-item-anchor menu-link has-submenu" tabindex="-1" id="sm-1711819404919878-1" aria-haspopup="true" aria-controls="sm-1711819404919878-2" aria-expanded="false">Our Curriculum<span role="application" class="dropdown-menu-toggle ast-header-navigation-arrow" tabindex="0" aria-expanded="false" aria-label="Menu Toggle"></span><span class="sub-arrow"><i class="fas fa-chevron-down"></i></span></a>
-<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-1711819404919878-2" role="group" aria-hidden="true" aria-labelledby="sm-1711819404919878-1" aria-expanded="false">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-368"><a href="#" class="elementor-item elementor-item-anchor menu-link has-submenu" tabindex="-1" id="sm-17118986924582805-1" aria-haspopup="true" aria-controls="sm-17118986924582805-2" aria-expanded="false">Our Curriculum<span role="application" class="dropdown-menu-toggle ast-header-navigation-arrow" tabindex="0" aria-expanded="false" aria-label="Menu Toggle"></span><span class="sub-arrow"><i class="fas fa-chevron-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17118986924582805-2" role="group" aria-hidden="true" aria-labelledby="sm-17118986924582805-1" aria-expanded="false">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-678"><a href="https://tungling.edu.sg/main-curriculum/" class="elementor-sub-item menu-link" tabindex="-1">MAIN CURRICULUM</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-804"><a href="https://tungling.edu.sg/embedded-enrichment/" class="elementor-sub-item menu-link" tabindex="-1">EMBEDDED ENRICHMENT</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-803"><a href="https://tungling.edu.sg/optional-enrichment/" class="elementor-sub-item menu-link" tabindex="-1">OPTIONAL ENRICHMENT</a></li>
@@ -163,13 +163,13 @@ flexibility(document.documentElement);
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true" style="width: 779px; left: -660.703px; top: 33px; --menu-height: 0;">
-				<ul id="menu-2-1e16ded" class="elementor-nav-menu" data-smartmenus-id="17118194049248418"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-8 current_page_item menu-item-385"><a href="https://tungling.edu.sg/" aria-current="page" class="elementor-item elementor-item-active menu-link" tabindex="-1">Home</a></li>
+				<ul id="menu-2-1e16ded" class="elementor-nav-menu" data-smartmenus-id="17118986924623025"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-8 current_page_item menu-item-385"><a href="https://tungling.edu.sg/" aria-current="page" class="elementor-item elementor-item-active menu-link" tabindex="-1">Home</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-388"><a href="https://tungling.edu.sg/#about-us" aria-current="page" class="elementor-item elementor-item-anchor menu-link" tabindex="-1">About Us</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-386"><a href="https://tungling.edu.sg/#our-mision" aria-current="page" class="elementor-item elementor-item-anchor menu-link" tabindex="-1">Our Mission &amp; Vision</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-387"><a href="https://tungling.edu.sg/#our-core" aria-current="page" class="elementor-item elementor-item-anchor menu-link" tabindex="-1">Our Core Values</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-390"><a href="https://tungling.edu.sg/#testimonials" aria-current="page" class="elementor-item elementor-item-anchor menu-link" tabindex="-1">Testimonials</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-389"><a class="elementor-item menu-link has-submenu" tabindex="-1" id="sm-17118194049248418-1" aria-haspopup="true" aria-controls="sm-17118194049248418-2" aria-expanded="false">Our Curiculum<span role="application" class="dropdown-menu-toggle ast-header-navigation-arrow" tabindex="0" aria-expanded="false" aria-label="Menu Toggle"></span><span class="sub-arrow"><i class="fas fa-angle-down"></i></span></a>
-<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17118194049248418-2" role="group" aria-hidden="true" aria-labelledby="sm-17118194049248418-1" aria-expanded="false">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-389"><a class="elementor-item menu-link has-submenu" tabindex="-1" id="sm-17118986924623025-1" aria-haspopup="true" aria-controls="sm-17118986924623025-2" aria-expanded="false">Our Curiculum<span role="application" class="dropdown-menu-toggle ast-header-navigation-arrow" tabindex="0" aria-expanded="false" aria-label="Menu Toggle"></span><span class="sub-arrow"><i class="fas fa-angle-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17118986924623025-2" role="group" aria-hidden="true" aria-labelledby="sm-17118986924623025-1" aria-expanded="false">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-809"><a href="https://tungling.edu.sg/main-curriculum/" class="elementor-sub-item menu-link" tabindex="-1">MAIN CURRICULUM</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-808"><a href="https://tungling.edu.sg/embedded-enrichment/" class="elementor-sub-item menu-link" tabindex="-1">EMBEDDED ENRICHMENT</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-807"><a href="https://tungling.edu.sg/optional-enrichment/" class="elementor-sub-item menu-link" tabindex="-1">OPTIONAL ENRICHMENT</a></li>
@@ -227,7 +227,7 @@ flexibility(document.documentElement);
 				<div class="elementor-widget-container">
 			<link rel="stylesheet" href="https://tungling.edu.sg/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css">		<div class="elementor-swiper">
 			<div class="elementor-main-swiper swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
-				<div class="swiper-wrapper" style="cursor: grab; transform: translate3d(-1578px, 0px, 0px); transition-duration: 0ms;" id="swiper-wrapper-e8519c7a67fb899b" aria-live="off"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="1" role="group" aria-label="2 / 2" style="width: 779px; margin-right: 10px;">
+				<div class="swiper-wrapper" style="cursor: grab; transform: translate3d(-789px, 0px, 0px); transition-duration: 0ms;" id="swiper-wrapper-5963f73c68105f5f5" aria-live="off"><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="1" role="group" aria-label="2 / 2" style="width: 779px; margin-right: 10px;">
 									<div class="elementor-testimonial">
 							<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
@@ -266,7 +266,7 @@ flexibility(document.documentElement);
 											</div>
 		</div>
 								</div>
-											<div class="swiper-slide swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="0" role="group" aria-label="1 / 2" style="width: 779px; margin-right: 10px;">
+											<div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" role="group" aria-label="1 / 2" style="width: 779px; margin-right: 10px;">
 									<div class="elementor-testimonial">
 							<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
@@ -305,7 +305,7 @@ flexibility(document.documentElement);
 											</div>
 		</div>
 								</div>
-											<div class="swiper-slide swiper-slide-active" data-swiper-slide-index="1" role="group" aria-label="2 / 2" style="width: 779px; margin-right: 10px;">
+											<div class="swiper-slide swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="1" role="group" aria-label="2 / 2" style="width: 779px; margin-right: 10px;">
 									<div class="elementor-testimonial">
 							<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
@@ -344,7 +344,7 @@ flexibility(document.documentElement);
 											</div>
 		</div>
 								</div>
-									<div class="swiper-slide swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="0" role="group" aria-label="1 / 2" style="width: 779px; margin-right: 10px;">
+									<div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group" aria-label="1 / 2" style="width: 779px; margin-right: 10px;">
 									<div class="elementor-testimonial">
 							<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
@@ -383,10 +383,10 @@ flexibility(document.documentElement);
 											</div>
 		</div>
 								</div></div>
-																				<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0" aria-label="Previous slide" aria-controls="swiper-wrapper-e8519c7a67fb899b">
+																				<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0" aria-label="Previous slide" aria-controls="swiper-wrapper-5963f73c68105f5f5">
 							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Previous</span>
 						</div>
-						<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0" aria-label="Next slide" aria-controls="swiper-wrapper-e8519c7a67fb899b">
+						<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0" aria-label="Next slide" aria-controls="swiper-wrapper-5963f73c68105f5f5">
 							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">Next</span>
 						</div>
 												<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -402,7 +402,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 				</div>
 				</div>
 				</div>
-		<div class="elementor-element elementor-element-a486104 e-con-full animated-slow e-flex e-con e-parent animated fadeInLeft" data-id="a486104" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;full&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}" data-core-v316-plus="true">
+		<div class="elementor-element elementor-element-a486104 e-con-full animated-slow e-flex elementor-invisible e-con e-parent" data-id="a486104" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;full&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}" data-core-v316-plus="true">
 		<div class="elementor-element elementor-element-1f4b18e e-con-full e-flex e-con e-child" data-id="1f4b18e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
 				<div class="elementor-element elementor-element-2fd45d4 elementor-widget elementor-widget-heading" data-id="2fd45d4" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -618,7 +618,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">Testimonials</h2>		</div>
 				</div>
-		<div class="elementor-element elementor-element-b64e4b8 e-flex e-con-boxed elementor-invisible e-con e-child" data-id="b64e4b8" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+		<div class="elementor-element elementor-element-b64e4b8 e-flex e-con-boxed e-con e-child animated fadeInUp" data-id="b64e4b8" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-312c59e e-flex e-con-boxed e-con e-child" data-id="312c59e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 					<div class="e-con-inner">
@@ -626,7 +626,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 				<div class="elementor-widget-container">
 					<div class="elementor-swiper">
 			<div class="elementor-main-swiper swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
-				<div class="swiper-wrapper" id="swiper-wrapper-37f41a46c25b45c9" aria-live="off" style="cursor: grab; transition-duration: 500ms; transform: translate3d(-3550px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="4" role="group" aria-label="5 / 5" style="width: 700px; margin-right: 10px;">
+				<div class="swiper-wrapper" id="swiper-wrapper-fbf4919e949b48103" aria-live="off" style="cursor: grab; transition-duration: 0ms; transform: translate3d(-710px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" role="group" aria-label="5 / 5" style="width: 700px; margin-right: 10px;">
 									<div class="elementor-testimonial">
 							<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
@@ -637,7 +637,7 @@ My family and I are extremely grateful to Tung Ling’s teachers and staff (past
 								<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Always grateful, Marianne’s and Melissa’s</span><span class="elementor-testimonial__title">Daddy and Mummy</span></cite>			</div>
 		</div>
 								</div>
-											<div class="swiper-slide swiper-slide-duplicate-next" data-swiper-slide-index="0" role="group" aria-label="1 / 5" style="width: 700px; margin-right: 10px;">
+											<div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" role="group" aria-label="1 / 5" style="width: 700px; margin-right: 10px;">
 									<div class="elementor-testimonial">
 							<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
@@ -648,7 +648,7 @@ Thank to all teaching and non-teaching staff for your hard and heart work in nur
 								<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Daniel’s</span><span class="elementor-testimonial__title">Daddy and Mummy</span></cite>			</div>
 		</div>
 								</div>
-											<div class="swiper-slide" data-swiper-slide-index="1" role="group" aria-label="2 / 5" style="width: 700px; margin-right: 10px;">
+											<div class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" role="group" aria-label="2 / 5" style="width: 700px; margin-right: 10px;">
 									<div class="elementor-testimonial">
 							<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
@@ -671,7 +671,7 @@ would like to thank all the staff and teachers for their love, patience and guid
 								<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Kathleen’s </span><span class="elementor-testimonial__title">Daddy and Mummy</span></cite>			</div>
 		</div>
 								</div>
-											<div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="3" role="group" aria-label="4 / 5" style="width: 700px; margin-right: 10px;">
+											<div class="swiper-slide" data-swiper-slide-index="3" role="group" aria-label="4 / 5" style="width: 700px; margin-right: 10px;">
 									<div class="elementor-testimonial">
 							<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
@@ -686,7 +686,7 @@ can give back to the school.					</div>
 								<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">With love, Alden and Anna’s</span><span class="elementor-testimonial__title">Daddy and Mummy</span></cite>			</div>
 		</div>
 								</div>
-											<div class="swiper-slide swiper-slide-active" data-swiper-slide-index="4" role="group" aria-label="5 / 5" style="width: 700px; margin-right: 10px;">
+											<div class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" role="group" aria-label="5 / 5" style="width: 700px; margin-right: 10px;">
 									<div class="elementor-testimonial">
 							<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
@@ -697,7 +697,7 @@ My family and I are extremely grateful to Tung Ling’s teachers and staff (past
 								<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Always grateful, Marianne’s and Melissa’s</span><span class="elementor-testimonial__title">Daddy and Mummy</span></cite>			</div>
 		</div>
 								</div>
-									<div class="swiper-slide swiper-slide-duplicate swiper-slide-next" data-swiper-slide-index="0" role="group" aria-label="1 / 5" style="width: 700px; margin-right: 10px;">
+									<div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group" aria-label="1 / 5" style="width: 700px; margin-right: 10px;">
 									<div class="elementor-testimonial">
 							<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
@@ -708,11 +708,11 @@ Thank to all teaching and non-teaching staff for your hard and heart work in nur
 								<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Daniel’s</span><span class="elementor-testimonial__title">Daddy and Mummy</span></cite>			</div>
 		</div>
 								</div></div>
-															<div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 5" aria-current="true"></span></div>
-																<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0" aria-label="Previous slide" aria-controls="swiper-wrapper-37f41a46c25b45c9">
+															<div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0" aria-label="Previous slide" aria-controls="swiper-wrapper-fbf4919e949b48103">
 							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Previous</span>
 						</div>
-						<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0" aria-label="Next slide" aria-controls="swiper-wrapper-37f41a46c25b45c9">
+						<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0" aria-label="Next slide" aria-controls="swiper-wrapper-fbf4919e949b48103">
 							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">Next</span>
 						</div>
 												<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -826,7 +826,7 @@ Thank to all teaching and non-teaching staff for your hard and heart work in nur
 								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
 					<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Message"></textarea>				</div>
 								<div class="elementor-field-type-recaptcha_v3 elementor-field-group elementor-column elementor-field-group-field_50bd576 elementor-col-100 recaptcha_v3-inline">
-					<div class="elementor-field" id="form-field-field_50bd576"><div class="elementor-g-recaptcha" data-sitekey="6LduBhApAAAAAFqwZtRPu5vjO70y-FtICV7_atOU" data-type="v3" data-action="Form" data-badge="inline" data-size="invisible"><div class="grecaptcha-badge" data-style="inline" style="width: 256px; height: 60px; box-shadow: gray 0px 0px 5px;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" width="256" height="60" role="presentation" name="a-xe84qfcdxyje" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LduBhApAAAAAFqwZtRPu5vjO70y-FtICV7_atOU&amp;co=aHR0cHM6Ly90dW5nbGluZy5lZHUuc2c6NDQz&amp;hl=en&amp;type=v3&amp;v=moV1mTgQ6S91nuTnmll4Y9yf&amp;size=invisible&amp;badge=inline&amp;sa=Form&amp;cb=qmlqdlml19q"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div></div>				</div>
+					<div class="elementor-field" id="form-field-field_50bd576"><div class="elementor-g-recaptcha" data-sitekey="6LduBhApAAAAAFqwZtRPu5vjO70y-FtICV7_atOU" data-type="v3" data-action="Form" data-badge="inline" data-size="invisible"><div class="grecaptcha-badge" data-style="inline" style="width: 256px; height: 60px; box-shadow: gray 0px 0px 5px;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" width="256" height="60" role="presentation" name="a-dza3xq8uf8zu" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LduBhApAAAAAFqwZtRPu5vjO70y-FtICV7_atOU&amp;co=aHR0cHM6Ly90dW5nbGluZy5lZHUuc2c6NDQz&amp;hl=en&amp;type=v3&amp;v=moV1mTgQ6S91nuTnmll4Y9yf&amp;size=invisible&amp;badge=inline&amp;sa=Form&amp;cb=ql9eltiypb4f"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div></div>				</div>
 								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-25 e-form__buttons">
 					<button type="submit" class="elementor-button elementor-size-sm">
 						<span>
@@ -921,7 +921,7 @@ var astra = {"break_point":"921","isRtl":"","is_scroll_to_id":"1","is_scroll_to_
 wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 </script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/tungling.edu.sg\/wp-admin\/admin-ajax.php","nonce":"f1a6b3a616","urls":{"assets":"https:\/\/tungling.edu.sg\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/tungling.edu.sg\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/tungling.edu.sg\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/tungling.edu.sg\/wp-admin\/admin-ajax.php","nonce":"8583544033","urls":{"assets":"https:\/\/tungling.edu.sg\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/tungling.edu.sg\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/tungling.edu.sg\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src="https://tungling.edu.sg/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.17.1" id="elementor-pro-frontend-js"></script>
 <script src="https://tungling.edu.sg/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>

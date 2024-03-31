@@ -38,7 +38,7 @@ page_source_files = get_page_source_files(PAGE_SOURCE_DIRECTORY_NAME)
 list_of_domains_skip = ['linkedin', 'facebook', 'google', 'yahoo', 'twitter', 'pinterest', 'nan', 'goo.gl', 'skoolopedia']
 
 print(len(df_href_refresh['href'].drop_duplicates()))
-for school_website in df_href_refresh['href'].drop_duplicates():
+for school_website in df_href_refresh['href'][::-1].drop_duplicates():
     if any(substring in school_website for substring in list_of_domains_skip):
         print(f"Not School Site: {school_website}")
     else:
