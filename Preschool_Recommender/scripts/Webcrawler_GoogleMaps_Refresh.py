@@ -24,11 +24,14 @@ OUTPUT_FILE_LINKS = 'Google_Links_Output.csv'
 OUTPUT_FILE_REVIEWS = 'Google_Reviews_Output.csv'
 OUTPUT_FILE_REVIEWS_TEXT = 'Google_Reviews_Output.txt'
 
-TEMP_FILES_DIRECTORY_NAME = "GoogleMaps_Refresh_Temp_Files"
-MAIN_FILES_DIRECTORY_NAME = "GoogleMaps_Refresh_Main_Files"
-ARCHIVES_DIRECTORY_NAME = "GoogleMaps_Refresh_Archives"
+TEMP_FILES_DIRECTORY_NAME = "..//resources//GoogleMaps//GoogleMaps_Refresh_Temp_Files"
+MAIN_FILES_DIRECTORY_NAME = "..//resources//GoogleMaps//GoogleMaps_Refresh_Main_Files"
+ARCHIVES_DIRECTORY_NAME = "..//resources//GoogleMaps//GoogleMaps_Refresh_Archives"
+COMPILED_DIRECTORY_NAME = "..//resources//GoogleMaps//GoogleMaps_Compiled_Files"
+INPUT_DIRECTORY_NAME = "..//resources//GoogleMaps//GoogleMaps_Input_Files"
 
-SEARCH_MAIN_FILES_DIRECTORY_NAME = "GoogleMaps_Search_Main_Files"
+SEARCH_MAIN_FILES_DIRECTORY_NAME = "..//resources//GoogleMaps//GoogleMaps_Search_Main_Files"
+PROCESSED_INPUT_DIRECTORY_NAME = "..//resources//ProcessedGoogleMaps//ProcessedGoogleMaps_Input_Files"
 
 if not os.path.exists(TEMP_FILES_DIRECTORY_NAME):
     os.mkdir(TEMP_FILES_DIRECTORY_NAME)
@@ -45,6 +48,8 @@ pd.set_option('display.max_columns', None)
 pd.set_option('display.width', None)
 pd.set_option('display.max_colwidth', None)
 
+input_file_refresh = os.path.join(INPUT_DIRECTORY_NAME, INPUT_FILE_REFRESH)
+
 output_file_reviews_search = os.path.join(SEARCH_MAIN_FILES_DIRECTORY_NAME, OUTPUT_FILE_REVIEWS_SEARCH)
 output_file_links_search = os.path.join(SEARCH_MAIN_FILES_DIRECTORY_NAME, OUTPUT_FILE_LINKS_SEARCH)
 output_file_reviews_text_search = os.path.join(SEARCH_MAIN_FILES_DIRECTORY_NAME, OUTPUT_FILE_REVIEWS_TEXT_SEARCH)
@@ -59,6 +64,13 @@ output_file_reviews_refresh_with_date = os.path.join(ARCHIVES_DIRECTORY_NAME, OU
 output_file_links_refresh_with_date = os.path.join(ARCHIVES_DIRECTORY_NAME, OUTPUT_FILE_LINKS_REFRESH_WITH_DATE)
 output_file_reviews_text_refresh_with_date = os.path.join(ARCHIVES_DIRECTORY_NAME, OUTPUT_FILE_REVIEWS_TEXT_REFRESH_WITH_DATE)
 
+output_file_links = os.path.join(COMPILED_DIRECTORY_NAME, OUTPUT_FILE_LINKS)
+output_file_reviews = os.path.join(COMPILED_DIRECTORY_NAME, OUTPUT_FILE_REVIEWS)
+output_file_reviews_text = os.path.join(COMPILED_DIRECTORY_NAME, OUTPUT_FILE_REVIEWS_TEXT)
+
+processed_input_file_links = os.path.join(PROCESSED_INPUT_DIRECTORY_NAME, OUTPUT_FILE_LINKS)
+processed_input_file_reviews = os.path.join(PROCESSED_INPUT_DIRECTORY_NAME, OUTPUT_FILE_REVIEWS)
+processed_input_file_reviews_text = os.path.join(PROCESSED_INPUT_DIRECTORY_NAME, OUTPUT_FILE_REVIEWS_TEXT)
 
 # Set chrome webdriver options
 options = Options()
@@ -86,7 +98,7 @@ except Exception as e:
     df_review_comments = pd.DataFrame(columns=['Preschool_Name', 'Review_Comments'])
     save_to_csv(df_review_comments, output_file_reviews_text_refresh)
 
-df = pd.read_csv(INPUT_FILE_REFRESH, encoding='latin-1')
+df = pd.read_csv(input_file_refresh, encoding='latin-1')
 
 for index, preschool in df["Preschool_Name"].items():
     driver.get(f"https://www.google.com/maps/search/{preschool}")  # Search preschool on Google
@@ -108,30 +120,26 @@ for index, preschool in df["Preschool_Name"].items():
         })
         try:
             google_reviews, google_star = save_google_reviews(chromedriver=driver, search_terms=preschool)
-        except Exception as e:
-            print(f"An error occurred for save_google_reviews: {e}")
-        try:
             df_review_comments = pd.read_csv(output_file_reviews_text_refresh, sep=',')
-            df_review_comments = pd.concat(objs=[df_review_comments, google_reviews], ignore_index=True).drop_duplicates(keep='last')
+            df_review_comments = pd.concat(objs=[convert_list_to_string(google_reviews), df_review_comments], ignore_index=True).drop_duplicates()
             save_to_csv(dataframe=df_review_comments, output_file_=output_file_reviews_text_refresh)
         except Exception as e:
             print(f"An error occurred for google_reviews: {e}")
         try:
-            new_row = pd.concat(objs=[google_overview, google_star], axis=1)
+            new_row = convert_list_to_string(pd.concat(objs=[google_overview, google_star], axis=1))
+            print(new_row)
         except Exception as e:
-            new_row = pd.concat(objs=[google_overview], axis=1)
+            new_row = convert_list_to_string(pd.concat(objs=[google_overview], axis=1))
             print(f"An error occurred for google_overview or google_star: {e}")
         try:
             df_review = convert_list_to_string(df_review)
-            df_review = pd.concat(objs=[df_review, new_row], ignore_index=True).drop_duplicates(keep='last')
+            df_review = pd.concat(objs=[new_row, df_review], ignore_index=True).drop_duplicates()
             save_to_csv(dataframe=df_review, output_file_=output_file_reviews_refresh)
         except Exception as e:
             print(f"An error occurred for save_to_csv_extracted_review_results: {e}")
-    print(df_review)
-    print(df_review_comments)
 
 # Save Results with Timestamp
-df = pd.read_csv(INPUT_FILE_REFRESH, encoding='latin-1')
+df = pd.read_csv(input_file_refresh, encoding='latin-1')
 save_to_csv(df, output_file_=input_file_refresh_with_date)
 
 df_review = pd.read_csv(output_file_reviews_refresh)
