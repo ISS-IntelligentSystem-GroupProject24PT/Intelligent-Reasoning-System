@@ -1,0 +1,1205 @@
+<html lang="en-US" prefix="og: https://ogp.me/ns#" class="js"><head><meta http-equiv="origin-trial" content="Az520Inasey3TAyqLyojQa8MnmCALSEU29yQFW8dePZ7xQTvSt73pHazLFTK5f7SyLUJSo2uKLesEtEa9aUYcgMAAACPeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZyIsImV4cGlyeSI6MTcyNTQwNzk5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=">
+	<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://shaws.com.sg/xmlrpc.php">
+
+	
+	
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/moV1mTgQ6S91nuTnmll4Y9yf/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-wEVSdqKc5hf9vkWC9kAmVRAEa11o8QNGecO6p5G2xGj+RmQhgDqFDCRdpfSr1VUf"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KW27VTQ"></script><script src="https://connect.facebook.net/signals/config/566350953921183?v=2.9.151&amp;r=stable&amp;domain=shaws.com.sg&amp;hme=8ce74e881727851b4427183947937854816d72704925561b9de6420cd43214ee&amp;ex_m=66%2C111%2C98%2C102%2C57%2C3%2C92%2C65%2C15%2C90%2C83%2C48%2C50%2C157%2C160%2C171%2C167%2C168%2C170%2C28%2C93%2C49%2C72%2C169%2C152%2C155%2C164%2C165%2C172%2C120%2C14%2C47%2C176%2C175%2C122%2C17%2C32%2C36%2C1%2C40%2C61%2C62%2C63%2C67%2C87%2C16%2C13%2C89%2C86%2C85%2C99%2C101%2C35%2C100%2C29%2C25%2C153%2C156%2C129%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C53%2C58%2C60%2C70%2C94%2C26%2C71%2C8%2C7%2C75%2C45%2C20%2C96%2C95%2C9%2C19%2C18%2C77%2C82%2C44%2C43%2C81%2C37%2C39%2C80%2C52%2C78%2C31%2C41%2C34%2C69%2C0%2C88%2C4%2C84%2C76%2C79%2C2%2C33%2C59%2C38%2C97%2C42%2C74%2C64%2C103%2C56%2C55%2C30%2C91%2C54%2C51%2C46%2C73%2C68%2C23%2C104" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" defer="" src="https://stats.wpmucdn.com/analytics.js"></script><script id="diviarea-loader">window.DiviPopupData=window.DiviAreaConfig={"zIndex":1000000,"animateSpeed":400,"triggerClassPrefix":"show-popup-","idAttrib":"data-popup","modalIndicatorClass":"is-modal","blockingIndicatorClass":"is-blocking","defaultShowCloseButton":true,"withCloseClass":"with-close","noCloseClass":"no-close","triggerCloseClass":"close","singletonClass":"single","darkModeClass":"dark","noShadowClass":"no-shadow","altCloseClass":"close-alt","popupSelector":".et_pb_section.popup","initializeOnEvent":"et_pb_after_init_modules","popupWrapperClass":"area-outer-wrap","fullHeightClass":"full-height","openPopupClass":"da-overlay-visible","overlayClass":"da-overlay","exitIndicatorClass":"on-exit","hoverTriggerClass":"on-hover","clickTriggerClass":"on-click","onExitDelay":2000,"notMobileClass":"not-mobile","notTabletClass":"not-tablet","notDesktopClass":"not-desktop","baseContext":"body","activePopupClass":"is-open","closeButtonClass":"da-close","withLoaderClass":"with-loader","debug":false,"ajaxUrl":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","sys":[]};var divimode_loader=function(){"use strict";!function(t){t.DiviArea=t.DiviPopup={loaded:!1};var n=t.DiviArea,i=n.Hooks={},o={};function r(t,n,i){var r,e,c;if("string"==typeof t)if(o[t]){if(n)if((r=o[t])&&i)for(c=r.length;c--;)(e=r[c]).callback===n&&e.context===i&&(r[c]=!1);else for(c=r.length;c--;)r[c].callback===n&&(r[c]=!1)}else o[t]=[]}function e(t,n,i,r){if("string"==typeof t){var e={callback:n,priority:i,context:r},c=o[t];c?(c.push(e),c=function(t){var n,i,o,r,e=t.length;for(r=1;r<e;r++)for(n=t[r],i=r;i>0;i--)(o=t[i-1]).priority>n.priority&&(t[i]=o,t[i-1]=n);return t}(c)):c=[e],o[t]=c}}function c(t,n,i){"string"==typeof n&&(n=[n]);var r,e,c=[];for(r=0;r<n.length;r++)Array.prototype.push.apply(c,o[n[r]]);for(e=0;e<c.length;e++){var a=void 0;c[e]&&"function"==typeof c[e].callback&&("filter"===t?void 0!==(a=c[e].callback.apply(c[e].context,i))&&(i[0]=a):c[e].callback.apply(c[e].context,i))}if("filter"===t)return i[0]}i.silent=function(){return i},n.removeFilter=i.removeFilter=function(t,n){r(t,n)},n.removeAction=i.removeAction=function(t,n){r(t,n)},n.applyFilters=i.applyFilters=function(t){for(var n=[],i=arguments.length-1;i-- >0;)n[i]=arguments[i+1];return c("filter",t,n)},n.doAction=i.doAction=function(t){for(var n=[],i=arguments.length-1;i-- >0;)n[i]=arguments[i+1];c("action",t,n)},n.addFilter=i.addFilter=function(n,i,o,r){e(n,i,parseInt(o||10,10),r||t)},n.addAction=i.addAction=function(n,i,o,r){e(n,i,parseInt(o||10,10),r||t)},n.addActionOnce=i.addActionOnce=function(n,i,o,c){e(n,i,parseInt(o||10,10),c||t),e(n,(function(){r(n,i)}),1+parseInt(o||10,10),c||t)}}(window);return{}}();
+</script><style id="et-builder-googlefonts-cached-inline">/* Original: https://fonts.googleapis.com/css?family=Quicksand:300,regular,500,600,700|Montserrat:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;subset=latin,latin-ext&#038;display=swap *//* User Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aX8.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58i-xw.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58i-xw.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58i-xw.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58i-xw.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58i-xw.ttf) format('truetype');}/* User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXw.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58i-xA.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58i-xA.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58i-xA.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58i-xA.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58i-xA.woff) format('woff');}/* User Agent: Mozilla/5.0 (Windows NT 6.3; rv:39.0) Gecko/20100101 Firefox/39.0 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXo.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58i-wg.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58i-wg.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58i-wg.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58i-wg.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58i-wg.woff2) format('woff2');}</style><link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/popups-for-divi/styles/front.min.css?ver=3.0.5" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/social-warfare/assets/css/style.min.css?ver=4.4.6.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/image-carousel-divi/styles/style.min.css?ver=1.0" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/themes/Divi/style-static.min.css?ver=4.21.0" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/themes/Divi-Child/divi-style-pum.min.css?ver=4.21.0" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/forminator-ui/css/forminator-icons.min.css?ver=1.29.2" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/forminator-ui/css/src/forminator-utilities.min.css?ver=1.29.2" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/forminator-ui/css/src/grid/forminator-grid.open.min.css?ver=1.29.2" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/forminator-ui/css/src/form/forminator-form-material.base.min.css?ver=1.29.2" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/forminator-ui/css/src/form/forminator-form-material.select2.min.css?ver=1.29.2" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/forminator-ui/css/src/form/forminator-form-material.full.min.css?ver=1.29.2" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/css/intlTelInput.min.css?ver=4.0.3" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/popups-for-divi/scripts/ie-compat.min.js?ver=3.0.5" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/popups-for-divi/scripts/front.min.js?ver=3.0.5" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/social-warfare/assets/js/script.min.js?ver=4.4.6.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/themes/Divi/js/scripts.min.js?ver=4.21.0" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/image-carousel-divi/scripts/frontend-bundle.min.js?ver=1.0" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/et-core-common.min.js?ver=4.21.0" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/salvattore.js?ver=4.21.0" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/forminator-ui/js/select2.full.min.js?ver=1.29.2" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/js/library/jquery.validate.min.js?ver=1.29.2" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/forminator/build/front/front.multi.min.js?ver=1.29.2" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/forminator/assets/js/library/intlTelInput.min.js?ver=1.29.2" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.21.0" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/magnific-popup.js?ver=4.21.0" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/easypiechart.js?ver=4.21.0" data-wpacu-preload-js="1">
+
+<!-- Social Warfare v4.4.6.1 https://warfareplugins.com - BEGINNING OF OUTPUT -->
+<style>
+	@font-face {
+		font-family: "sw-icon-font";
+		src:url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.4.6.1");
+		src:url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.4.6.1#iefix") format("embedded-opentype"),
+		url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.woff?ver=4.4.6.1") format("woff"),
+		url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.ttf?ver=4.4.6.1") format("truetype"),
+		url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.svg?ver=4.4.6.1#1445203416") format("svg");
+		font-weight: normal;
+		font-style: normal;
+		font-display:block;
+	}
+</style>
+<!-- Social Warfare v4.4.6.1 https://warfareplugins.com - END OF OUTPUT -->
+
+
+<!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
+<title>Established Play Based Preschool in Singapore | Shaws Preschool</title><link rel="stylesheet" id="siteground-optimizer-combined-css-2029b88227b27b2cade6005a322e6a3e" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-2029b88227b27b2cade6005a322e6a3e.css" media="all"> <link rel="preload" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-2029b88227b27b2cade6005a322e6a3e.css" as="style">
+<meta name="description" content="Discover why kids and parents love Shaws unique play based preschools in Singapore">
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+<link rel="canonical" href="https://shaws.com.sg/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Established Play Based Preschool in Singapore | Shaws Preschool">
+<meta property="og:description" content="Discover why kids and parents love Shaws unique play based preschools in Singapore">
+<meta property="og:url" content="https://shaws.com.sg/">
+<meta property="og:site_name" content="Shaws Preschool">
+<meta property="og:updated_time" content="2024-01-13T02:54:41+08:00">
+<meta property="article:published_time" content="2022-08-08T22:34:43+08:00">
+<meta property="article:modified_time" content="2024-01-13T02:54:41+08:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Established Play Based Preschool in Singapore | Shaws Preschool">
+<meta name="twitter:description" content="Discover why kids and parents love Shaws unique play based preschools in Singapore">
+<meta name="twitter:label1" content="Written by">
+<meta name="twitter:data1" content="Julius">
+<meta name="twitter:label2" content="Time to read">
+<meta name="twitter:data2" content="40 minutes">
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://shaws.com.sg/#person","name":"Shaws Preschool"},{"@type":"WebSite","@id":"https://shaws.com.sg/#website","url":"https://shaws.com.sg","name":"Shaws Preschool","publisher":{"@id":"https://shaws.com.sg/#person"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://shaws.com.sg/#webpage","url":"https://shaws.com.sg/","name":"Established Play Based Preschool in Singapore | Shaws Preschool","datePublished":"2022-08-08T22:34:43+08:00","dateModified":"2024-01-13T02:54:41+08:00","about":{"@id":"https://shaws.com.sg/#person"},"isPartOf":{"@id":"https://shaws.com.sg/#website"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://shaws.com.sg/author/julius-cooler-insights/","name":"Julius","url":"https://shaws.com.sg/author/julius-cooler-insights/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/e30345e089c054fc3b9ffa0d4b4168ee?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/e30345e089c054fc3b9ffa0d4b4168ee?s=96&amp;d=mm&amp;r=g","caption":"Julius","inLanguage":"en-US"}},{"@type":"Article","headline":"Established Play Based Preschool in Singapore | Shaws Preschool","datePublished":"2022-08-08T22:34:43+08:00","dateModified":"2024-01-13T02:54:41+08:00","author":{"@id":"https://shaws.com.sg/author/julius-cooler-insights/","name":"Julius"},"publisher":{"@id":"https://shaws.com.sg/#person"},"description":"Discover why kids and parents love Shaws unique play based preschools in Singapore","name":"Established Play Based Preschool in Singapore | Shaws Preschool","@id":"https://shaws.com.sg/#richSnippet","isPartOf":{"@id":"https://shaws.com.sg/#webpage"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://shaws.com.sg/#webpage"}}]}</script>
+<meta name="google-site-verification" content="dtM7-_HSFC1n-VUS1Q0k5qypszqaNNTkmJgWVI36HoU">
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel="dns-prefetch" href="//use.fontawesome.com">
+<link rel="alternate" type="application/rss+xml" title=" » Feed" href="https://shaws.com.sg/feed/">
+<link rel="alternate" type="application/rss+xml" title=" » Comments Feed" href="https://shaws.com.sg/comments/feed/">
+<meta content="Bare bones for Divi v.1.0" name="generator"><style id="wp-block-library-theme-inline-css" type="text/css">
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id="rank-math-toc-block-style-inline-css" type="text/css">
+.wp-block-rank-math-toc-block nav ol{counter-reset:item}.wp-block-rank-math-toc-block nav ol li{display:block}.wp-block-rank-math-toc-block nav ol li:before{content:counters(item, ".") ". ";counter-increment:item}
+
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link data-wpacu-to-be-preloaded-basic="1" rel="stylesheet" id="css-divi-area-css" href="https://shaws.com.sg/wp-content/plugins/popups-for-divi/styles/front.min.css?ver=3.0.5" type="text/css" media="all">
+<style id="css-divi-area-inline-css" type="text/css">
+.et_pb_section.popup{display:none}
+</style>
+
+
+<link rel="stylesheet" id="font-awesome-official-css" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" type="text/css" media="all" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+<link data-wpacu-to-be-preloaded-basic="1" rel="stylesheet" id="divi-style-parent-css" href="https://shaws.com.sg/wp-content/themes/Divi/style-static.min.css?ver=4.21.0" type="text/css" media="all">
+<link data-wpacu-to-be-preloaded-basic="1" rel="stylesheet" id="divi-style-pum-css" href="https://shaws.com.sg/wp-content/themes/Divi-Child/divi-style-pum.min.css?ver=4.21.0" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-official-v4shim-css" href="https://use.fontawesome.com/releases/v5.15.1/css/v4-shims.css" type="text/css" media="all" integrity="sha384-WCuYjm/u5NsK4s/NfnJeHuMj6zzN2HFyjhBu/SnZJj7eZ6+ds4zqIM3wYgL59Clf" crossorigin="anonymous">
+<style id="font-awesome-official-v4shim-inline-css" type="text/css">
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.svg#fontawesome") format("svg");
+unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
+}
+</style>
+<script type="text/javascript" src="https://shaws.com.sg/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+
+
+<link rel="https://api.w.org/" href="https://shaws.com.sg/wp-json/"><link rel="alternate" type="application/json" href="https://shaws.com.sg/wp-json/wp/v2/pages/10714"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://shaws.com.sg/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.4.3">
+<link rel="shortlink" href="https://shaws.com.sg/">
+<link rel="alternate" type="application/json+oembed" href="https://shaws.com.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fshaws.com.sg%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://shaws.com.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fshaws.com.sg%2F&amp;format=xml">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7N98SHQYND"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7N98SHQYND');
+</script>
+
+<!--Wrap Rows-->
+
+
+<!-- Slick Slider -->
+<link rel="icon" href="https://shaws.com.sg/wp-content/uploads/2019/12/cropped-Shaws_Preschool_FAVIcon_Transparent-2-32x32.png" sizes="32x32">
+<link rel="icon" href="https://shaws.com.sg/wp-content/uploads/2019/12/cropped-Shaws_Preschool_FAVIcon_Transparent-2-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://shaws.com.sg/wp-content/uploads/2019/12/cropped-Shaws_Preschool_FAVIcon_Transparent-2-180x180.png">
+<meta name="msapplication-TileImage" content="https://shaws.com.sg/wp-content/uploads/2019/12/cropped-Shaws_Preschool_FAVIcon_Transparent-2-270x270.png">
+<link rel="stylesheet" id="et-core-unified-tb-14836-10714-cached-inline-styles" href="https://shaws.com.sg/wp-content/et-cache/10714/et-core-unified-tb-14836-10714.min.css?ver=1710055451"><link rel="stylesheet" id="et-core-unified-10714-cached-inline-styles" href="https://shaws.com.sg/wp-content/et-cache/10714/et-core-unified-10714.min.css?ver=1710055450"><link rel="stylesheet" id="et-core-unified-tb-14836-deferred-10714-cached-inline-styles" href="https://shaws.com.sg/wp-content/et-cache/10714/et-core-unified-tb-14836-deferred-10714.min.css?ver=1710055451"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style>[data-columns]::before{visibility:hidden;position:absolute;font-size:1px;}</style><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
+<body class="home paged page-template-default page page-id-10714 paged-2 page-paged-2 et-tb-has-template et-tb-has-footer et_pb_button_helper_class et_fixed_nav et_show_nav et_hide_fixed_logo et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_cover_background et_pb_gutter windows et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db et_pb_recaptcha_enabled chrome" style="padding-top: 0px; padding-bottom: 0px; overflow-x: hidden;">
+	<div id="page-container" style="padding-top: 79px; overflow-y: hidden;">
+<div id="et-boc" class="et-boc">
+			
+		
+
+	<header id="main-header" data-height-onload="85" data-fixed-height-onload="0" style="top: 0px;">
+		<div class="container clearfix et_menu_container">
+					<div class="logo_container">
+				<span class="logo_helper"></span>
+				<a href="https://shaws.com.sg/">
+				<img src="https://shaws.com.sg/wp-content/uploads/2018/10/Shaws_Preschool_Logo-297x300.png" width="297" height="300" alt="" id="logo" data-height-percentage="100" data-actual-width="297" data-actual-height="300">
+				</a>
+			</div>
+					<div id="et-top-navigation" data-height="85" data-fixed-height="40" style="padding-left: 72px;">
+									<nav id="top-menu-nav">
+					<ul id="top-menu" class="nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-10714 current_page_item menu-item-11271"><a href="https://shaws.com.sg/" aria-current="page">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8273"><a href="https://shaws.com.sg/about-shaws-singapore/">About Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10369"><a href="https://shaws.com.sg/shaws-recruitment/">Join Our Team</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14449"><a href="https://shaws.com.sg/curriculum/">Curriculum</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9353"><a href="#">Resources</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8883"><a href="https://shaws.com.sg/frequently-asked-questions/">FAQs</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9310"><a href="https://shaws.com.sg/ready-for-preschool/">Ready for School</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11272"><a href="https://shaws.com.sg/articles/">Articles</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11273"><a href="https://shaws.com.sg/parenting-guides/">Parenting Guides</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11276"><a href="https://shaws.com.sg/free-downloadable-eguides/">Free Downloadable eGuides</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11275"><a href="https://shaws.com.sg/videos/">Videos</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11274"><a href="https://shaws.com.sg/events/">Events</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13459"><a href="https://shaws.com.sg/play-based-learning/">Play-Based Learning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13458"><a href="https://shaws.com.sg/executive-function/">Executive Function</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13457"><a href="https://shaws.com.sg/life-skills/">Life Skills</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-135"><a href="#">Campuses</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8581"><a href="https://shaws.com.sg/preschool-serangoon/">Serangoon Area</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11687"><a href="https://shaws.com.sg/shaws-braddell-heights/">Shaws Braddell Heights</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11686"><a href="https://shaws.com.sg/shaws-lorong-chuan/">Shaws Lorong Chuan</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8582"><a href="https://shaws.com.sg/preschool-east-coast/">East Coast Area</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14778"><a href="https://shaws.com.sg/shaws-open-house/">SHAWS Open House</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8580"><a href="https://shaws.com.sg/testimonials/">Testimonials</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12978"><a href="https://shaws.com.sg/shaws-recruitment/">Join Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8575"><a href="https://shaws.com.sg/contact-us/">Contact Us</a></li>
+</ul>					</nav>
+				
+				
+				
+				
+				<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				<ul id="mobile_menu" class="et_mobile_menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-10714 current_page_item menu-item-11271 et_first_mobile_item"><a href="https://shaws.com.sg/" aria-current="page">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8273"><a href="https://shaws.com.sg/about-shaws-singapore/">About Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10369"><a href="https://shaws.com.sg/shaws-recruitment/">Join Our Team</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14449"><a href="https://shaws.com.sg/curriculum/">Curriculum</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9353"><a href="#">Resources</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8883"><a href="https://shaws.com.sg/frequently-asked-questions/">FAQs</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9310"><a href="https://shaws.com.sg/ready-for-preschool/">Ready for School</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11272"><a href="https://shaws.com.sg/articles/">Articles</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11273"><a href="https://shaws.com.sg/parenting-guides/">Parenting Guides</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11276"><a href="https://shaws.com.sg/free-downloadable-eguides/">Free Downloadable eGuides</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11275"><a href="https://shaws.com.sg/videos/">Videos</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11274"><a href="https://shaws.com.sg/events/">Events</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13459"><a href="https://shaws.com.sg/play-based-learning/">Play-Based Learning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13458"><a href="https://shaws.com.sg/executive-function/">Executive Function</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13457"><a href="https://shaws.com.sg/life-skills/">Life Skills</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-135"><a href="#">Campuses</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8581"><a href="https://shaws.com.sg/preschool-serangoon/">Serangoon Area</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11687"><a href="https://shaws.com.sg/shaws-braddell-heights/">Shaws Braddell Heights</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11686"><a href="https://shaws.com.sg/shaws-lorong-chuan/">Shaws Lorong Chuan</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8582"><a href="https://shaws.com.sg/preschool-east-coast/">East Coast Area</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14778"><a href="https://shaws.com.sg/shaws-open-house/">SHAWS Open House</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8580"><a href="https://shaws.com.sg/testimonials/">Testimonials</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12978"><a href="https://shaws.com.sg/shaws-recruitment/">Join Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8575"><a href="https://shaws.com.sg/contact-us/">Contact Us</a></li>
+</ul></div>
+			</div>			</div> <!-- #et-top-navigation -->
+		</div> <!-- .container -->
+			</header> <!-- #main-header -->
+<div id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-10714" class="post-10714 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h1>Give Your Child the Best Learning Experience</h1>
+<p><strong>Discover why kids and parents love Shaws unique play based preschools in Singapore</strong></p></div>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper  et_pb_module ">
+				<a class="et_pb_button et_pb_button_0 et_hover_enabled et_pb_bg_layout_dark" href="/book-a-tour">Book a tour</a>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
+				
+				
+				
+				
+				
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				<div class="et_pb_bottom_inside_divider" style=""></div>
+			</div><div class="et_pb_section et_pb_section_1 et_section_regular et_section_transparent">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_1 et_pb_row_fullwidth et_pb_gutters2 et_pb_row_4col">
+				<div class="et_pb_column et_pb_column_1_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_0 et_animated  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light" data-animation-style="bounce" data-animation-repeat="" data-animation-duration="400ms" data-animation-delay="300ms" data-animation-intensity="50%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img decoding="async" width="90" height="90" src="https://shaws.com.sg/wp-content/uploads/2018/12/Webp.net-resizeimage-4.png" data-src="https://shaws.com.sg/wp-content/uploads/2018/12/Webp.net-resizeimage-4.png" alt="" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-1174 ls-is-cached lazyloaded"><noscript><img decoding="async" width="90" height="90" src="https://shaws.com.sg/wp-content/uploads/2018/12/Webp.net-resizeimage-4.png" alt="" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-1174 lazyload" /></noscript></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Hands-On Learning</span></h4>
+						<div class="et_pb_blurb_description"><p>Wish to equip your child with useful life skills? Our unique curriculum is filled with experiential learning and play so that your child can learn and explore in a fun, enriching and engaging environment.</p></div>
+					</div>
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_1 et_animated  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light" data-animation-style="bounce" data-animation-repeat="" data-animation-duration="400ms" data-animation-delay="400ms" data-animation-intensity="50%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img decoding="async" width="90" height="90" src="https://shaws.com.sg/wp-content/uploads/2018/12/Webp.net-resizeimage-2.png" data-src="https://shaws.com.sg/wp-content/uploads/2018/12/Webp.net-resizeimage-2.png" alt="" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-1173 ls-is-cached lazyloaded"><noscript><img decoding="async" width="90" height="90" src="https://shaws.com.sg/wp-content/uploads/2018/12/Webp.net-resizeimage-2.png" alt="" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-1173 lazyload" /></noscript></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Sports Training</span></h4>
+						<div class="et_pb_blurb_description"><p>Worry no more about excessive screen time. At Shaws, children enjoy sports and outdoor play daily. Sports coaches from <a href="https://shawslittleleague.com/" target="_blank" rel="noopener">Shaws Little League</a>&nbsp;will help your child hone their athletic abilities. The sports that the children do include soccer, rugby, tennis, basketball, baseball, hockey, cricket, soccer, volleyball, golf and athletics.</p></div>
+					</div>
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_2 et_animated  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light" data-animation-style="bounce" data-animation-repeat="" data-animation-duration="400ms" data-animation-delay="500ms" data-animation-intensity="50%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img decoding="async" width="90" height="90" src="https://shaws.com.sg/wp-content/uploads/2018/12/Webp.net-resizeimage-1.png" data-src="https://shaws.com.sg/wp-content/uploads/2018/12/Webp.net-resizeimage-1.png" alt="" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-1172 ls-is-cached lazyloaded"><noscript><img decoding="async" width="90" height="90" src="https://shaws.com.sg/wp-content/uploads/2018/12/Webp.net-resizeimage-1.png" alt="" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-1172 lazyload" /></noscript></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Bilingualism</span></h4>
+						<div class="et_pb_blurb_description"><p>Leave nurturing your children’s interest for Mandarin to us. Your child will be exposed to Mandarin from Pre Nursery through songs, stories and cultural learning experiences. In Nursery Two through to Kindergarten, the children will learn to read and write Mandarin through fun activities.</p></div>
+					</div>
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_3 et_animated  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light" data-animation-style="bounce" data-animation-repeat="" data-animation-duration="400ms" data-animation-delay="600ms" data-animation-intensity="50%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img decoding="async" width="90" height="90" src="https://shaws.com.sg/wp-content/uploads/2018/12/Webp.net-resizeimage.png" data-src="https://shaws.com.sg/wp-content/uploads/2018/12/Webp.net-resizeimage.png" alt="" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-1170 ls-is-cached lazyloaded"><noscript><img decoding="async" width="90" height="90" src="https://shaws.com.sg/wp-content/uploads/2018/12/Webp.net-resizeimage.png" alt="" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-1170 lazyload" /></noscript></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Confident Children</span></h4>
+						<div class="et_pb_blurb_description"><p>Looking for a preschool or playgroup in Singapore that will develop your child’s confidence and social skills? Then look no further. Children walk through our doors with timid and shy personalities but walk out self-assured.</p></div>
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_2 et_pb_row_4col">
+				<div class="et_pb_column et_pb_column_1_4 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0 et_animated et-waypoint" data-animation-style="bounce" data-animation-repeat="" data-animation-duration="400ms" data-animation-delay="300ms" data-animation-intensity="50%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="57" height="74" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2018/10/teachers.png" alt="" title="" class="wp-image-45 lazyload"><noscript><img decoding="async" width="57" height="74" src="https://shaws.com.sg/wp-content/uploads/2018/10/teachers.png" alt="" title="" class="wp-image-45 lazyload" /></noscript></span>
+			</div><div class="et_pb_module et_pb_number_counter et_pb_number_counter_0 et_animated  et_pb_text_align_center et_pb_bg_layout_light et_pb_with_title" data-number-value="105" data-number-separator="" data-animation-style="bounce" data-animation-repeat="" data-animation-duration="400ms" data-animation-delay="300ms" data-animation-intensity="50%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+				
+				
+				
+				
+				<div class="percent"><p><span class="percent-value"></span><span class="percent-sign"></span></p></div>
+				<h3 class="title">Total Teachers</h3>
+			<canvas height="0" width="0"></canvas></div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_1 et_animated et-waypoint" data-animation-style="bounce" data-animation-repeat="" data-animation-duration="400ms" data-animation-delay="500ms" data-animation-intensity="50%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="64" height="72" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2018/12/Webp.net-resizeimage-9.png" alt="" title="" class="wp-image-1256 lazyload"><noscript><img decoding="async" width="64" height="72" src="https://shaws.com.sg/wp-content/uploads/2018/12/Webp.net-resizeimage-9.png" alt="" title="" class="wp-image-1256 lazyload" /></noscript></span>
+			</div><div class="et_pb_module et_pb_number_counter et_pb_number_counter_1 et_animated  et_pb_text_align_center et_pb_bg_layout_light et_pb_with_title" data-number-value="453" data-number-separator="" data-animation-style="bounce" data-animation-repeat="" data-animation-duration="400ms" data-animation-delay="500ms" data-animation-intensity="50%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+				
+				
+				
+				
+				<div class="percent"><p><span class="percent-value"></span><span class="percent-sign"></span></p></div>
+				<h3 class="title">Total Students</h3>
+			<canvas height="0" width="0"></canvas></div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_2 et_animated et-waypoint" data-animation-style="bounce" data-animation-repeat="" data-animation-duration="400ms" data-animation-delay="600ms" data-animation-intensity="50%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="64" height="74" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2018/10/school.png" alt="" title="" class="wp-image-47 lazyload"><noscript><img decoding="async" width="64" height="74" src="https://shaws.com.sg/wp-content/uploads/2018/10/school.png" alt="" title="" class="wp-image-47 lazyload" /></noscript></span>
+			</div><div class="et_pb_module et_pb_number_counter et_pb_number_counter_2 et_animated  et_pb_text_align_center et_pb_bg_layout_light et_pb_with_title" data-number-value="5" data-number-separator="" data-animation-style="bounce" data-animation-repeat="" data-animation-duration="400ms" data-animation-delay="500ms" data-animation-intensity="50%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+				
+				
+				
+				
+				<div class="percent"><p><span class="percent-value"></span><span class="percent-sign"></span></p></div>
+				<h3 class="title">Total Schools</h3>
+			<canvas height="0" width="0"></canvas></div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_3 et_animated et-waypoint" data-animation-style="bounce" data-animation-repeat="" data-animation-duration="400ms" data-animation-delay="700ms" data-animation-intensity="50%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="70" height="59" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2018/10/love.png" alt="" title="" class="wp-image-48 lazyload"><noscript><img decoding="async" width="70" height="59" src="https://shaws.com.sg/wp-content/uploads/2018/10/love.png" alt="" title="" class="wp-image-48 lazyload" /></noscript></span>
+			</div><div class="et_pb_module et_pb_number_counter et_pb_number_counter_3 et_animated  et_pb_text_align_center et_pb_bg_layout_light et_pb_with_title" data-number-value="15724" data-number-separator="" data-animation-style="bounce" data-animation-repeat="" data-animation-duration="400ms" data-animation-delay="600ms" data-animation-intensity="50%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+				
+				
+				
+				
+				<div class="percent"><p><span class="percent-value"></span><span class="percent-sign"></span></p></div>
+				<h3 class="title">Total Satisfied Parents</h3>
+			<canvas height="0" width="0"></canvas></div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_3">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_gallery et_pb_gallery_0  et_pb_bg_layout_light et_pb_slider et_pb_gallery_fullwidth et_slider_auto et_slider_speed_5000 clearfix">
+				<div class="et_pb_gallery_items et_post_gallery clearfix" data-per_page="4"><div class="et_pb_gallery_item et_pb_bg_layout_light et_pb_gallery_item_0_0 et-pb-active-slide">
+				<div class="et_pb_gallery_image landscape">
+					<a href="https://shaws.com.sg/wp-content/uploads/2019/10/shaw1-1.png" title="shaw1">
+					<img fetchpriority="high" decoding="async" width="900" height="900" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2019/10/shaw1-1.png" class="wp-image-2081 lazyload" data-srcset="https://shaws.com.sg/wp-content/uploads/2019/10/shaw1-1.png 900w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw1-1-150x150.png 150w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw1-1-300x300.png 300w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw1-1-768x768.png 768w" sizes="(max-width: 900px) 100vw, 900px"><noscript><img fetchpriority="high" decoding="async" width="900" height="900" src="https://shaws.com.sg/wp-content/uploads/2019/10/shaw1-1.png" class="wp-image-2081 lazyload" srcset="https://shaws.com.sg/wp-content/uploads/2019/10/shaw1-1.png 900w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw1-1-150x150.png 150w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw1-1-300x300.png 300w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw1-1-768x768.png 768w" sizes="(max-width: 900px) 100vw, 900px" /></noscript>
+					
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light et_pb_gallery_item_0_1">
+				<div class="et_pb_gallery_image landscape">
+					<a href="https://shaws.com.sg/wp-content/uploads/2019/10/shaw_veg.jpeg" title="shaw_veg">
+					<img decoding="async" width="1126" height="1500" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2019/10/shaw_veg.jpeg" class="wp-image-2107 lazyload" data-srcset="https://shaws.com.sg/wp-content/uploads/2019/10/shaw_veg.jpeg 1126w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw_veg-225x300.jpeg 225w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw_veg-768x1023.jpeg 768w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw_veg-769x1024.jpeg 769w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw_veg-1080x1439.jpeg 1080w" sizes="(max-width: 1126px) 100vw, 1126px"><noscript><img decoding="async" width="1126" height="1500" src="https://shaws.com.sg/wp-content/uploads/2019/10/shaw_veg.jpeg" class="wp-image-2107 lazyload" srcset="https://shaws.com.sg/wp-content/uploads/2019/10/shaw_veg.jpeg 1126w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw_veg-225x300.jpeg 225w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw_veg-768x1023.jpeg 768w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw_veg-769x1024.jpeg 769w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw_veg-1080x1439.jpeg 1080w" sizes="(max-width: 1126px) 100vw, 1126px" /></noscript>
+					
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light et_pb_gallery_item_0_2">
+				<div class="et_pb_gallery_image landscape">
+					<a href="https://shaws.com.sg/wp-content/uploads/2019/10/shaw_2kids.jpeg" title="shaw_2kids">
+					<img decoding="async" width="1106" height="1600" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2019/10/shaw_2kids.jpeg" class="wp-image-2106 lazyload" data-srcset="https://shaws.com.sg/wp-content/uploads/2019/10/shaw_2kids.jpeg 1106w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw_2kids-207x300.jpeg 207w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw_2kids-768x1111.jpeg 768w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw_2kids-708x1024.jpeg 708w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw_2kids-1080x1562.jpeg 1080w" sizes="(max-width: 1106px) 100vw, 1106px"><noscript><img decoding="async" width="1106" height="1600" src="https://shaws.com.sg/wp-content/uploads/2019/10/shaw_2kids.jpeg" class="wp-image-2106 lazyload" srcset="https://shaws.com.sg/wp-content/uploads/2019/10/shaw_2kids.jpeg 1106w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw_2kids-207x300.jpeg 207w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw_2kids-768x1111.jpeg 768w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw_2kids-708x1024.jpeg 708w, https://shaws.com.sg/wp-content/uploads/2019/10/shaw_2kids-1080x1562.jpeg 1080w" sizes="(max-width: 1106px) 100vw, 1106px" /></noscript>
+					
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_bg_layout_light et_pb_gallery_item_0_3">
+				<div class="et_pb_gallery_image landscape">
+					<a href="https://shaws.com.sg/wp-content/uploads/2018/10/43087819_2154405538154638_8082882581374173184_n.jpg" title="43087819_2154405538154638_8082882581374173184_n">
+					<img decoding="async" width="900" height="900" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2018/10/43087819_2154405538154638_8082882581374173184_n.jpg" class="wp-image-52 lazyload" data-srcset="https://shaws.com.sg/wp-content/uploads/2018/10/43087819_2154405538154638_8082882581374173184_n.jpg 900w, https://shaws.com.sg/wp-content/uploads/2018/10/43087819_2154405538154638_8082882581374173184_n-150x150.jpg 150w, https://shaws.com.sg/wp-content/uploads/2018/10/43087819_2154405538154638_8082882581374173184_n-300x300.jpg 300w, https://shaws.com.sg/wp-content/uploads/2018/10/43087819_2154405538154638_8082882581374173184_n-768x768.jpg 768w" sizes="(max-width: 900px) 100vw, 900px"><noscript><img decoding="async" width="900" height="900" src="https://shaws.com.sg/wp-content/uploads/2018/10/43087819_2154405538154638_8082882581374173184_n.jpg" class="wp-image-52 lazyload" srcset="https://shaws.com.sg/wp-content/uploads/2018/10/43087819_2154405538154638_8082882581374173184_n.jpg 900w, https://shaws.com.sg/wp-content/uploads/2018/10/43087819_2154405538154638_8082882581374173184_n-150x150.jpg 150w, https://shaws.com.sg/wp-content/uploads/2018/10/43087819_2154405538154638_8082882581374173184_n-300x300.jpg 300w, https://shaws.com.sg/wp-content/uploads/2018/10/43087819_2154405538154638_8082882581374173184_n-768x768.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></noscript>
+					
+				</a>
+				</div></div></div><div class="et-pb-slider-arrows"><a class="et-pb-arrow-prev" href="#" style="color:inherit"><span>Previous</span></a><a class="et-pb-arrow-next" href="#" style="color:inherit"><span>Next</span></a></div><div class="et-pb-controllers"><a href="#" class="et-pb-active-control">1</a><a href="#">2</a><a href="#">3</a><a href="#">4</a></div></div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_divider et_pb_divider_0 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2>About Shaws Preschool</h2>
+<p>We are one of the first play based preschools in Singapore. For the past 30 years, our child care centres and kindergartens have offered premium early childhood education that observes SPARK guidelines and is premised on learning through play and adventure. Together with our ECDA certified teachers, our preschools in Singapore will help your child’s development by:</p>
+<p>✔ Empowering them to research any topic that interests them<br> ✔ Imbuing them with&nbsp;essential life skills such as self-confidence, resilience, speech coherence and respect for others<br> ✔ Instilling a passion for learning<br> ✔ Preparing them for later stages of schooling and life</p></div>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_phone_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_1 et_hover_enabled et_pb_bg_layout_dark" href="/blog">Join our events</a>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_phone_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_2 et_hover_enabled et_pb_bg_layout_dark" href="/about-shaws-singapore">About us</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_3 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2>Our Serangoon Campuses</h2>
+<p>&nbsp;</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_5">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_13  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_4 et_animated  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light" data-animation-style="bounce" data-animation-repeat="" data-animation-duration="300ms" data-animation-delay="400ms" data-animation-intensity="50%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="/preschool-serangoon"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img decoding="async" width="730" height="730" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.20.02-PM.png" alt="" data-srcset="https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.20.02-PM.png 730w, https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.20.02-PM-150x150.png 150w, https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.20.02-PM-300x300.png 300w" sizes="(max-width: 730px) 100vw, 730px" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-713 lazyload"><noscript><img decoding="async" width="730" height="730" src="https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.20.02-PM.png" alt="" srcset="https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.20.02-PM.png 730w, https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.20.02-PM-150x150.png 150w, https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.20.02-PM-300x300.png 300w" sizes="(max-width: 730px) 100vw, 730px" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-713 lazyload" /></noscript></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="/preschool-serangoon">Shaws @ Braddell Heights</a></h4>
+						<div class="et_pb_blurb_description"><p>Shaws @ Braddell Heights is located in a cosy little cottage within the tranquil Braddell Heights residential estate. Established in 1990, we have served over 800 families in the neighbourhood. Together with a team of 16 teachers, our campus is headed by Principal, Iqlimah Zain.</p></div>
+					</div>
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_14  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_5 et_animated  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light" data-animation-style="bounce" data-animation-repeat="" data-animation-duration="400ms" data-animation-delay="500ms" data-animation-intensity="50%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="/preschool-serangoon"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img decoding="async" width="730" height="730" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.34.21-PM.png" alt="" data-srcset="https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.34.21-PM.png 730w, https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.34.21-PM-150x150.png 150w, https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.34.21-PM-300x300.png 300w" sizes="(max-width: 730px) 100vw, 730px" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-720 lazyload"><noscript><img decoding="async" width="730" height="730" src="https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.34.21-PM.png" alt="" srcset="https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.34.21-PM.png 730w, https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.34.21-PM-150x150.png 150w, https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.34.21-PM-300x300.png 300w" sizes="(max-width: 730px) 100vw, 730px" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-720 lazyload" /></noscript></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="/preschool-serangoon">Shaws @ Lorong Chuan</a></h4>
+						<div class="et_pb_blurb_description"><p>This is our newest school, established in 2017. It is located close to the evocative Serangoon Gardens Village—a beloved neighbourhood blending heritage with modernity. Conveniently situated along the main road, ie Ang Mo Kio Ave 1, this school and its team of 13 teachers is led by our Principal, Deborah Shaw.</p></div>
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_6 Side-by-side-buttons et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_15  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_3 et_hover_enabled et_pb_bg_layout_dark" href="/preschool-serangoon">Read More</a>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_16  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_4_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_4 et_hover_enabled et_pb_bg_layout_dark" href="/book-a-tour">Book A Tour</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_4 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_7">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_17  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2>Our East Coast Campuses</h2>
+<p>&nbsp;</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_8">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_18  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_6 et_animated  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light" data-animation-style="bounce" data-animation-repeat="" data-animation-duration="300ms" data-animation-delay="400ms" data-animation-intensity="50%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="/preschool-east-coast"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img decoding="async" width="730" height="730" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.54.32-PM.png" alt="" data-srcset="https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.54.32-PM.png 730w, https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.54.32-PM-150x150.png 150w, https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.54.32-PM-300x300.png 300w" sizes="(max-width: 730px) 100vw, 730px" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-722 lazyload"><noscript><img decoding="async" width="730" height="730" src="https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.54.32-PM.png" alt="" srcset="https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.54.32-PM.png 730w, https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.54.32-PM-150x150.png 150w, https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.54.32-PM-300x300.png 300w" sizes="(max-width: 730px) 100vw, 730px" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-722 lazyload" /></noscript></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="/preschool-east-coast">Shaws @ Katong Post</a></h4>
+						<div class="et_pb_blurb_description"><p>Located in a beautiful heritage building, which also houses the Katong Post Office, Shaws @ Katong Post is next door to the Canadian International School. Don’t be deceived – there is a playground hidden behind this enchanting little building. Together with the team of 17 teachers, our campus is headed by Principal, Geraldine Merican Choo.</p></div>
+					</div>
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_19  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_7 et_animated  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light" data-animation-style="bounce" data-animation-repeat="" data-animation-duration="400ms" data-animation-delay="400ms" data-animation-intensity="50%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="/preschool-east-coast"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img decoding="async" width="730" height="730" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.57.39-PM.png" alt="" data-srcset="https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.57.39-PM.png 730w, https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.57.39-PM-150x150.png 150w, https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.57.39-PM-300x300.png 300w" sizes="(max-width: 730px) 100vw, 730px" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-723 lazyload"><noscript><img decoding="async" width="730" height="730" src="https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.57.39-PM.png" alt="" srcset="https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.57.39-PM.png 730w, https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.57.39-PM-150x150.png 150w, https://shaws.com.sg/wp-content/uploads/2018/11/Screen-Shot-2018-11-27-at-1.57.39-PM-300x300.png 300w" sizes="(max-width: 730px) 100vw, 730px" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-723 lazyload" /></noscript></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="/preschool-east-coast">Shaws @ Tanjong Katong</a></h4>
+						<div class="et_pb_blurb_description"><p>Shaws @ Tanjong Katong is within the Crescent Road residential estate along Boscombe Road. Established in 2009, this childcare centre is&nbsp; located in a serene and tranquil setting, surrounded by private homes. Together with a team of 14 teachers, our campus is headed by our Principal, Salmi Razali.</p></div>
+					</div>
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_20  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_8 et_animated  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light" data-animation-style="bounce" data-animation-repeat="" data-animation-duration="400ms" data-animation-delay="500ms" data-animation-intensity="50%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in-out">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="/preschool-east-coast"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img decoding="async" width="730" height="730" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2019/03/Webp.net-resizeimage-7.jpg" alt="" data-srcset="https://shaws.com.sg/wp-content/uploads/2019/03/Webp.net-resizeimage-7.jpg 730w, https://shaws.com.sg/wp-content/uploads/2019/03/Webp.net-resizeimage-7-150x150.jpg 150w, https://shaws.com.sg/wp-content/uploads/2019/03/Webp.net-resizeimage-7-300x300.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-1494 lazyload"><noscript><img decoding="async" width="730" height="730" src="https://shaws.com.sg/wp-content/uploads/2019/03/Webp.net-resizeimage-7.jpg" alt="" srcset="https://shaws.com.sg/wp-content/uploads/2019/03/Webp.net-resizeimage-7.jpg 730w, https://shaws.com.sg/wp-content/uploads/2019/03/Webp.net-resizeimage-7-150x150.jpg 150w, https://shaws.com.sg/wp-content/uploads/2019/03/Webp.net-resizeimage-7-300x300.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-1494 lazyload" /></noscript></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="/preschool-east-coast">Shaws @ Mountbatten</a></h4>
+						<div class="et_pb_blurb_description"><p>Our main campus, Shaws @ Mountbatten, was the first campus to open way back in 1989. This campus alone has served over 1200 families over the last 30 years. We proudly now have second generation of Shaws children enrolled at this campus! This campus, along with the 25 teachers, is headed by Principal, Yvonne Lim.</p></div>
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_9 Side-by-side-buttons et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_21  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_5_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_5 et_hover_enabled et_pb_bg_layout_dark" href="/preschool-east-coast">Read More</a>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_22  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_6_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_6 et_hover_enabled et_pb_bg_layout_dark" href="/book-a-tour">Book A Tour</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_5 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_10">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_23  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2>What’s Happening</h2>
+<p>&nbsp;</p></div>
+			</div><div class="et_pb_module et_pb_blog_0 et_pb_blog_grid_wrapper et_pb_bg_layout_light">
+					<div class="et_pb_blog_grid clearfix ">
+					
+					
+					
+					
+					<div class="et_pb_ajax_pagination_container">
+						<div class="et_pb_salvattore_content" data-columns="2"><div class="column size-1of2"><article id="post-13595" class="et_pb_post clearfix et_pb_blog_item_0_0 post-13595 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-2-year-olds tag-parenting-faqs tag-toddler-parenting">
+
+				<div class="et_pb_image_container"><a href="https://shaws.com.sg/2-year-old-parenting-questions-answered/" class="entry-featured-image-url"><img class="lazyload" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/05/2-year-old-parenting-questions-min.jpg" alt="2-Year-Old Parenting Questions Answered" width="9999" height="9999" data-srcset="https://shaws.com.sg/wp-content/uploads/2023/05/2-year-old-parenting-questions-min.jpg 9999w, https://shaws.com.sg/wp-content/uploads/2023/05/2-year-old-parenting-questions-min-480x280.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 9999px, 100vw"><noscript><img class="lazyload" decoding="async" src="https://shaws.com.sg/wp-content/uploads/2023/05/2-year-old-parenting-questions-min.jpg" alt="2-Year-Old Parenting Questions Answered" class="" width="9999" height="9999" srcset="https://shaws.com.sg/wp-content/uploads/2023/05/2-year-old-parenting-questions-min.jpg 9999w, https://shaws.com.sg/wp-content/uploads/2023/05/2-year-old-parenting-questions-min-480x280.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 9999px, 100vw" /></noscript></a></div>
+														<h2 class="entry-title"><a href="https://shaws.com.sg/2-year-old-parenting-questions-answered/">2-Year-Old Parenting Questions Answered</a></h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>2-Year-Old Parenting Questions AnsweredCongratulations, your child has officially entered toddlerhood! We are certain that you’ll have many questions related to parenting your two-year-old. As your child enters the exciting (and sometimes terrifying) age of two, it's...</p>
+</div></div>			
+			</article><article id="post-12980" class="et_pb_post clearfix et_pb_blog_item_0_2 post-12980 post type-post status-publish format-standard has-post-thumbnail hentry category-events">
+
+				<div class="et_pb_image_container"><a href="https://shaws.com.sg/shaws-carnival/" class="entry-featured-image-url"><img class="lazyload" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/02/Shaws-Carnival-FB.jpg" alt="Shaws Carnival" width="9999" height="9999" data-srcset="https://shaws.com.sg/wp-content/uploads/2023/02/Shaws-Carnival-FB.jpg 9999w, https://shaws.com.sg/wp-content/uploads/2023/02/Shaws-Carnival-FB-480x274.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 9999px, 100vw"><noscript><img class="lazyload" decoding="async" src="https://shaws.com.sg/wp-content/uploads/2023/02/Shaws-Carnival-FB.jpg" alt="Shaws Carnival" class="" width="9999" height="9999" srcset="https://shaws.com.sg/wp-content/uploads/2023/02/Shaws-Carnival-FB.jpg 9999w, https://shaws.com.sg/wp-content/uploads/2023/02/Shaws-Carnival-FB-480x274.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 9999px, 100vw" /></noscript></a></div>
+														<h2 class="entry-title"><a href="https://shaws.com.sg/shaws-carnival/">Shaws Carnival</a></h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>All parents and family are welcome!</p>
+</div></div>			
+			</article><article id="post-12528" class="et_pb_post clearfix et_pb_blog_item_0_4 post-12528 post type-post status-publish format-standard has-post-thumbnail hentry category-events">
+
+				<div class="et_pb_image_container"><a href="https://shaws.com.sg/open-house-11-feb-2023/" class="entry-featured-image-url"><img class="lazyload" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/01/Mountbatten-Open-House-Feb-2022.jpg" alt="Open House – 11 Feb 2023" width="9999" height="9999" data-srcset="https://shaws.com.sg/wp-content/uploads/2023/01/Mountbatten-Open-House-Feb-2022.jpg 9999w, https://shaws.com.sg/wp-content/uploads/2023/01/Mountbatten-Open-House-Feb-2022-480x270.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 9999px, 100vw"><noscript><img class="lazyload" decoding="async" src="https://shaws.com.sg/wp-content/uploads/2023/01/Mountbatten-Open-House-Feb-2022.jpg" alt="Open House &#8211; 11 Feb 2023" class="" width="9999" height="9999" srcset="https://shaws.com.sg/wp-content/uploads/2023/01/Mountbatten-Open-House-Feb-2022.jpg 9999w, https://shaws.com.sg/wp-content/uploads/2023/01/Mountbatten-Open-House-Feb-2022-480x270.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 9999px, 100vw" /></noscript></a></div>
+														<h2 class="entry-title"><a href="https://shaws.com.sg/open-house-11-feb-2023/">Open House – 11 Feb 2023</a></h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>Register for our Shaws Preschool Open House HERE. Booking fee waiver applicable to all parents who sign their child up during our Open House! For more information, please contact our Enrollments Manager, Carolyn: Carolynlai@Shaws.com.sg or 97892255 *T's &amp; C's...</p>
+</div></div>			
+			</article></div><div class="column size-1of2"><article id="post-13472" class="et_pb_post clearfix et_pb_blog_item_0_1 post-13472 post type-post status-publish format-standard has-post-thumbnail hentry category-articles">
+
+				<div class="et_pb_image_container"><a href="https://shaws.com.sg/the-best-ways-to-develop-communication-skills-in-preschoolers/" class="entry-featured-image-url"><img class="lazyload" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/04/Shaws_BlogCover-Develop-Communication-Skills4.jpg" alt="The Best Ways to Develop Communication Skills in Preschoolers" width="9999" height="9999" data-srcset="https://shaws.com.sg/wp-content/uploads/2023/04/Shaws_BlogCover-Develop-Communication-Skills4.jpg 9999w, https://shaws.com.sg/wp-content/uploads/2023/04/Shaws_BlogCover-Develop-Communication-Skills4-480x280.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 9999px, 100vw"><noscript><img class="lazyload" decoding="async" src="https://shaws.com.sg/wp-content/uploads/2023/04/Shaws_BlogCover-Develop-Communication-Skills4.jpg" alt="The Best Ways to Develop Communication Skills in Preschoolers" class="" width="9999" height="9999" srcset="https://shaws.com.sg/wp-content/uploads/2023/04/Shaws_BlogCover-Develop-Communication-Skills4.jpg 9999w, https://shaws.com.sg/wp-content/uploads/2023/04/Shaws_BlogCover-Develop-Communication-Skills4-480x280.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 9999px, 100vw" /></noscript></a></div>
+														<h2 class="entry-title"><a href="https://shaws.com.sg/the-best-ways-to-develop-communication-skills-in-preschoolers/">The Best Ways to Develop Communication Skills in Preschoolers</a></h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>The Best Ways to Develop Communication Skills in PreschoolersWould you like to help your preschool-aged child develop better communication skills? How do you encourage them to speak, write and convey their thoughts and feelings more effectively? Communicating with...</p>
+</div></div>			
+			</article><article id="post-12614" class="et_pb_post clearfix et_pb_blog_item_0_3 post-12614 post type-post status-publish format-standard has-post-thumbnail hentry category-events">
+
+				<div class="et_pb_image_container"><a href="https://shaws.com.sg/shaws-preschool-week-of-sports-days/" class="entry-featured-image-url"><img class="lazyload" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/02/SportsDay_FB3.jpg" alt="Shaws Preschool – Week of Sports Days!" width="9999" height="9999" data-srcset="https://shaws.com.sg/wp-content/uploads/2023/02/SportsDay_FB3.jpg 9999w, https://shaws.com.sg/wp-content/uploads/2023/02/SportsDay_FB3-480x274.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 9999px, 100vw"><noscript><img class="lazyload" decoding="async" src="https://shaws.com.sg/wp-content/uploads/2023/02/SportsDay_FB3.jpg" alt="Shaws Preschool &#8211; Week of Sports Days!" class="" width="9999" height="9999" srcset="https://shaws.com.sg/wp-content/uploads/2023/02/SportsDay_FB3.jpg 9999w, https://shaws.com.sg/wp-content/uploads/2023/02/SportsDay_FB3-480x274.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 9999px, 100vw" /></noscript></a></div>
+														<h2 class="entry-title"><a href="https://shaws.com.sg/shaws-preschool-week-of-sports-days/">Shaws Preschool – Week of Sports Days!</a></h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>All Parents Welcome: 13th February 2023 - Shaws Preschool @ Mountbatten Campus14th February 2023 - Shaws Preschool @ Katong Post Office Campus15th February 2023 - Shaws Preschool @ Katong Campus16th February 2023 - Shaws Preschool @ Braddell Campus17th February 2023 -...</p>
+</div></div>			
+			</article><article id="post-11792" class="et_pb_post clearfix et_pb_blog_item_0_5 post-11792 post type-post status-publish format-standard has-post-thumbnail hentry category-parenting-guides tag-child-milestones tag-cognitive-milestones tag-communication-milestones tag-fine-motor-skills tag-gross-motor-skills tag-is-my-child-developing-normally tag-physical-milestones tag-preschooler-milestones tag-social-emotional-milestones">
+
+				<div class="et_pb_image_container"><a href="https://shaws.com.sg/what-should-your-preschooler-know/" class="entry-featured-image-url"><img class="lazyload" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/11/banner.jpg" alt="What Should Your Preschooler Know?" width="9999" height="9999" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/11/banner.jpg 9999w, https://shaws.com.sg/wp-content/uploads/2022/11/banner-980x572.jpg 980w, https://shaws.com.sg/wp-content/uploads/2022/11/banner-480x280.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 9999px, 100vw"><noscript><img class="lazyload" decoding="async" src="https://shaws.com.sg/wp-content/uploads/2022/11/banner.jpg" alt="What Should Your Preschooler Know?" class="" width="9999" height="9999" srcset="https://shaws.com.sg/wp-content/uploads/2022/11/banner.jpg 9999w, https://shaws.com.sg/wp-content/uploads/2022/11/banner-980x572.jpg 980w, https://shaws.com.sg/wp-content/uploads/2022/11/banner-480x280.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 9999px, 100vw" /></noscript></a></div>
+														<h2 class="entry-title"><a href="https://shaws.com.sg/what-should-your-preschooler-know/">What Should Your Preschooler Know?</a></h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>What Should Your Preschooler Know at Different Ages?</p>
+</div></div>			
+			</article></div></div><div><div class="pagination clearfix">
+	<div class="alignleft"><a href="https://shaws.com.sg/page/3/?et_blog">« Older Entries</a></div>
+	<div class="alignright"><a href="https://shaws.com.sg/?et_blog">Next Entries »</a></div>
+</div></div></div>
+					</div>
+					 
+				</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_6 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_11">
+				<div class="et_pb_column et_pb_column_3_5 et_pb_column_24  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><span data-metadata="<!--(figmeta)eyJmaWxlS2V5IjoibGttd0tTSk9QYXk5cm1SbUJrZFRpayIsInBhc3RlSUQiOjE0MTczNzg0MzIsImRhdGFUeXBlIjoic2NlbmUifQo=(/figmeta)-->"></span><span data-buffer="<!--(figma)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(/figma)-->"></span><strong>Access Our FREE Educational resources here</strong></h2></div>
+			</div><div class="et_pb_module et_pb_code et_pb_code_0">
+				
+				
+				
+				
+				<div class="et_pb_code_inner"><select id="resource-categories" class="categories-dropdown">
+	<option value="cat" selected="" disabled="">Categories</option>
+	<option value="articles">Articles</option>
+	<option value="parentguides">Parenting Guides</option>
+	<option value="eguide">Free Downloadable eGuides</option>
+	<option value="videos">Videos</option>
+	<option value="events">Events</option>
+	<option value="tour">Book a Tour</option>
+	<option value="contact">Contact Us</option>	
+</select></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_2_5 et_pb_column_25  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_4">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="241" height="361" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2022/10/HOMEPAGE-1-1.png" alt="" title="HOMEPAGE-1 (1)" data-srcset="https://shaws.com.sg/wp-content/uploads/2022/10/HOMEPAGE-1-1.png 241w, https://shaws.com.sg/wp-content/uploads/2022/10/HOMEPAGE-1-1-200x300.png 200w, https://shaws.com.sg/wp-content/uploads/2022/10/HOMEPAGE-1-1-100x150.png 100w" sizes="(max-width: 241px) 100vw, 241px" class="wp-image-11603 lazyload"><noscript><img decoding="async" width="241" height="361" src="https://shaws.com.sg/wp-content/uploads/2022/10/HOMEPAGE-1-1.png" alt="" title="HOMEPAGE-1 (1)" srcset="https://shaws.com.sg/wp-content/uploads/2022/10/HOMEPAGE-1-1.png 241w, https://shaws.com.sg/wp-content/uploads/2022/10/HOMEPAGE-1-1-200x300.png 200w, https://shaws.com.sg/wp-content/uploads/2022/10/HOMEPAGE-1-1-100x150.png 100w" sizes="(max-width: 241px) 100vw, 241px" class="wp-image-11603 lazyload" /></noscript></span>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_8 et_section_regular section_has_divider et_pb_bottom_divider">
+				
+				
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_bottom_inside_divider" style=""></div>
+			</div><div class="et_pb_section et_pb_section_10 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider et_pb_top_divider">
+				<div class="et_pb_top_inside_divider" style=""></div>
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_12">
+				<div class="et_pb_column et_pb_column_2_3 et_pb_column_26  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Sign up for an individualised tour in one of our learning through play preschools.</h3></div>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_7_wrapper et_pb_button_alignment_right et_pb_module ">
+				<a class="et_pb_button et_pb_button_7 et_hover_enabled et_pb_bg_layout_dark" href="">Book Tour</a>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_27  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_8_wrapper et_pb_button_alignment_right et_pb_module ">
+				<a class="et_pb_button et_pb_button_8 et_hover_enabled et_pb_bg_layout_dark" href="/book-a-tour">Book A Tour</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_13 et_animated et_pb_gutters1" data-animation-style="zoom" data-animation-repeat="" data-animation-duration="1000ms" data-animation-delay="0ms" data-animation-intensity="-5%" data-animation-starting-opacity="0%" data-animation-speed-curve="ease-in">
+				<div class="et_pb_column et_pb_column_2_5 et_pb_column_28  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2><strong>Hello!</strong></h2>
+<p>Our team is here to provide you with more information and answer any questions that you may have. Leave us a message in the form and we will get back to you as soon as we can.</p>
+<p><strong>Email Address:</strong><br>olive@shaws.com.sg</p>
+<p><strong>Contact Number:</strong><br>+65 9772 4035</p>
+<p><strong>Career Opportunities</strong>:</p>
+<p><a href="https://shaws.com.sg/shaws-recruitment/" target="_blank" rel="noopener">Join our Shaws Team</a></p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_3_5 et_pb_column_29  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2 style="text-align: center;"><strong>Submit An Enquiry</strong></h2>
+<p style="text-align: center;"></p><form id="forminator-module-843" class="forminator-ui forminator-custom-form forminator-custom-form-843 forminator-design--material forminator_ajax forminator-size--small" method="post" data-forminator-render="0" data-form-id="843" data-design="material" data-grid="open" style="" data-uid="66096e52aff1f"><div role="alert" aria-live="polite" class="forminator-response-message forminator-error" aria-hidden="true"></div><div class="forminator-row"><div id="name-3" class="forminator-field-name forminator-col forminator-col-12 "><div class="forminator-field"><label for="forminator-field-name-3_66096e52aff1f" id="forminator-field-name-3_66096e52aff1f-label" class="forminator-label forminator-floating--input">Name Of Parent <span class="forminator-required">*</span></label><div class="forminator-input--wrap"><input type="text" name="name-3" value="" placeholder="E.g. John Doe" id="forminator-field-name-3_66096e52aff1f" class="forminator-input forminator-name--field" aria-required="true"></div></div></div></div><div class="forminator-row"><div id="email-1" class="forminator-field-email forminator-col forminator-col-12 "><div class="forminator-field"><label for="forminator-field-email-1_66096e52aff1f" id="forminator-field-email-1_66096e52aff1f-label" class="forminator-label forminator-floating--input">Email Address <span class="forminator-required">*</span></label><div class="forminator-input--wrap"><input type="email" name="email-1" value="" placeholder="E.g. john@doe.com" id="forminator-field-email-1_66096e52aff1f" class="forminator-input forminator-email--field" data-required="true" aria-required="true"></div></div></div></div><div class="forminator-row"><div id="phone-1" class="forminator-field-phone forminator-col forminator-col-12 "><div class="forminator-field"><label for="forminator-field-phone-1_66096e52aff1f" id="forminator-field-phone-1_66096e52aff1f-label" class="forminator-label forminator-floating--input">Phone <span class="forminator-required">*</span></label><div class="forminator-input--wrap"><input type="text" name="phone-1" value="" placeholder="" id="forminator-field-phone-1_66096e52aff1f" class="forminator-input forminator-field--phone" data-required="1" aria-required="true" autocomplete="off"></div></div></div></div><div class="forminator-row"><div id="name-4" class="forminator-field-name forminator-col forminator-col-12 "><div class="forminator-field"><label for="forminator-field-name-4_66096e52aff1f" id="forminator-field-name-4_66096e52aff1f-label" class="forminator-label forminator-floating--input">Name Of Prospective Child <span class="forminator-required">*</span></label><div class="forminator-input--wrap"><input type="text" name="name-4" value="" placeholder="E.g. John" id="forminator-field-name-4_66096e52aff1f" class="forminator-input forminator-name--field" aria-required="true"></div></div></div></div><div class="forminator-row"><div id="date-1" class="forminator-field-date forminator-col forminator-col-12 "><div class="forminator-field"><label for="forminator-field-date-1-picker_66096e52aff1f" id="forminator-field-date-1-picker_66096e52aff1f-label" class="forminator-label forminator-floating--input forminator-has_icon">Date of Birth of Child <span class="forminator-required">*</span></label><div class="forminator-input-with-icon"><label for="forminator-field-date-1-picker_66096e52aff1f"><span class="forminator-icon-calendar" aria-hidden="true"></span></label><div class="forminator-input--wrap"><input autocomplete="off" type="text" size="1" name="date-1" value="" placeholder="Choose Date" id="forminator-field-date-1-picker_66096e52aff1f" class="forminator-input forminator-datepicker hasDatepicker" data-required="1" data-format="mm/dd/yy" data-restrict-type="" data-restrict="" data-start-year="" data-end-year="" data-past-dates="enable" data-start-of-week="0" data-start-date="" data-end-date="" data-start-field="" data-end-field="" data-start-offset="" data-end-offset="" data-disable-date="" data-disable-range=""></div></div></div></div></div><div class="forminator-row"><div id="radio-1" class="forminator-field-radio forminator-col forminator-col-12 "><div role="radiogroup" class="forminator-field" aria-labelledby="forminator-radiogroup-66096e52aff1f-label" aria-describedby="forminator-radiogroup-66096e52aff1f-description"><span id="forminator-radiogroup-66096e52aff1f-label" class="forminator-label">Preferred Campus <span class="forminator-required">*</span></span><label id="forminator-field-radio-1-label-1" for="forminator-field-radio-1-1-66096e52aff1f" class="forminator-radio" title="Shaws Preschool @ Braddell Heights"><input type="radio" name="radio-1" value="one" id="forminator-field-radio-1-1-66096e52aff1f" aria-labelledby="forminator-field-radio-1-label-1" data-calculation="0" aria-describedby="forminator-field-radio-1-66096e52aff1f-description"><span class="forminator-radio-bullet" aria-hidden="true"></span><span class="forminator-radio-label">Shaws Preschool @ Braddell Heights</span></label><label id="forminator-field-radio-1-label-2" for="forminator-field-radio-1-2-66096e52aff1f" class="forminator-radio" title="Shaws Preschool @ Lorong Chuan"><input type="radio" name="radio-1" value="two" id="forminator-field-radio-1-2-66096e52aff1f" aria-labelledby="forminator-field-radio-1-label-2" data-calculation="0" aria-describedby="forminator-field-radio-1-66096e52aff1f-description"><span class="forminator-radio-bullet" aria-hidden="true"></span><span class="forminator-radio-label">Shaws Preschool @ Lorong Chuan</span></label><label id="forminator-field-radio-1-label-3" for="forminator-field-radio-1-3-66096e52aff1f" class="forminator-radio" title="Shaws Preschool @ Katong Post"><input type="radio" name="radio-1" value="Shaws-Preschool-@-Katong-Post" id="forminator-field-radio-1-3-66096e52aff1f" aria-labelledby="forminator-field-radio-1-label-3" data-calculation="0" aria-describedby="forminator-field-radio-1-66096e52aff1f-description"><span class="forminator-radio-bullet" aria-hidden="true"></span><span class="forminator-radio-label">Shaws Preschool @ Katong Post</span></label><label id="forminator-field-radio-1-label-4" for="forminator-field-radio-1-4-66096e52aff1f" class="forminator-radio" title="Shaws Preschool @ Tanjong Katong"><input type="radio" name="radio-1" value="Shaws-Preschool-@-Tanjong-Katong" id="forminator-field-radio-1-4-66096e52aff1f" aria-labelledby="forminator-field-radio-1-label-4" data-calculation="0" aria-describedby="forminator-field-radio-1-66096e52aff1f-description"><span class="forminator-radio-bullet" aria-hidden="true"></span><span class="forminator-radio-label">Shaws Preschool @ Tanjong Katong</span></label><label id="forminator-field-radio-1-label-5" for="forminator-field-radio-1-5-66096e52aff1f" class="forminator-radio" title="Shaws Preschool @ Mountbatten"><input type="radio" name="radio-1" value="Shaws-Preschool-@-Mountbatten" id="forminator-field-radio-1-5-66096e52aff1f" aria-labelledby="forminator-field-radio-1-label-5" data-calculation="0" aria-describedby="forminator-field-radio-1-66096e52aff1f-description"><span class="forminator-radio-bullet" aria-hidden="true"></span><span class="forminator-radio-label">Shaws Preschool @ Mountbatten</span></label></div></div></div><div class="forminator-row"><div id="select-2" class="forminator-field-select forminator-col forminator-col-12 "><div class="forminator-field"><label for="forminator-form-843__field--select-2_66096e52aff1f" id="forminator-form-843__field--select-2_66096e52aff1f-label" class="forminator-label">How did you hear about us? <span class="forminator-required">*</span></label><select id="forminator-form-843__field--select-2_66096e52aff1f" class="forminator-select--field forminator-select2 select2-hidden-accessible forminator-screen-reader-only" data-required="1" name="select-2" data-default-value="" data-placeholder="Please Select" data-search="false" aria-labelledby="forminator-form-843__field--select-2_66096e52aff1f-label" aria-describedby="forminator-form-843__field--select-2_66096e52aff1f-description" data-select2-id="select2-data-forminator-form-843__field--select-2_66096e52aff1f" tabindex="-1" aria-hidden="true"><option value="" data-select2-id="select2-data-2-aan0">Please Select</option><option value="Friends--Family" data-calculation="0">Friends/ Family</option><option value="Internet-Search" data-calculation="0">Internet Search</option><option value="Expat-Living" data-calculation="0">Expat Living</option><option value="HoneyKids" data-calculation="0">HoneyKids</option><option value="SassyMama" data-calculation="0">SassyMama</option><option value="Mailshot" data-calculation="0">Mailshot</option><option value="Facebook" data-calculation="0">Facebook</option><option value="Instagram" data-calculation="0">Instagram</option><option value="WeChat" data-calculation="0">WeChat</option><option value="Others" data-calculation="0">Others</option></select><span class="select2 select2-container forminator-select" dir="ltr" data-select2-id="select2-data-1-vroi" style="width: 135px;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-describedby="forminator-form-843__field--select-2_66096e52aff1f-description" aria-labelledby="select2-forminator-form-843__field--select-2_66096e52aff1f-container" aria-controls="select2-forminator-form-843__field--select-2_66096e52aff1f-container"><span class="select2-selection__rendered" id="select2-forminator-form-843__field--select-2_66096e52aff1f-container" role="textbox" aria-readonly="true" title="Please Select"><span class="select2-selection__placeholder">Please Select</span></span><span class="select2-selection__arrow" role="presentation"><span class="forminator-icon-chevron-down" aria-hidden="true"></span></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span></div></div></div><div class="forminator-row forminator-hidden"><div id="text-1" class="forminator-field-text forminator-col forminator-col-12 forminator-hidden"><div class="forminator-field"><label for="forminator-field-text-1_66096e52aff1f" id="forminator-field-text-1_66096e52aff1f-label" class="forminator-label forminator-floating--input">Please Specify</label><div class="forminator-input--wrap"><input type="text" name="text-1" value="" placeholder="Please Specify" id="forminator-field-text-1_66096e52aff1f" class="forminator-input forminator-name--field forminator-cleared-value" data-required=""></div></div></div></div><div class="forminator-row"><div id="checkbox-1" class="forminator-field-checkbox forminator-col forminator-col-12 "><div role="group" class="forminator-field required" aria-labelledby="forminator-checkbox-group-66096e52aff1f-label"><h4 id="forminator-checkbox-group-66096e52aff1f-label" class="forminator-label">Enquiries <span class="forminator-required">*</span></h4><label id="forminator-field-checkbox-1-1-66096e52aff1f-label" for="forminator-field-checkbox-1-1-66096e52aff1f" class="forminator-checkbox" title="School"><input type="checkbox" name="checkbox-1[]" value="School" id="forminator-field-checkbox-1-1-66096e52aff1f" aria-labelledby="forminator-field-checkbox-1-1-66096e52aff1f-label" data-calculation="0" aria-describedby="forminator-field-checkbox-1-66096e52aff1f-description"><span class="forminator-checkbox-box" aria-hidden="true"></span><span class="forminator-checkbox-label">School</span></label><label id="forminator-field-checkbox-1-2-66096e52aff1f-label" for="forminator-field-checkbox-1-2-66096e52aff1f" class="forminator-checkbox" title="Curriculum"><input type="checkbox" name="checkbox-1[]" value="Curriculum" id="forminator-field-checkbox-1-2-66096e52aff1f" aria-labelledby="forminator-field-checkbox-1-2-66096e52aff1f-label" data-calculation="0" aria-describedby="forminator-field-checkbox-1-66096e52aff1f-description"><span class="forminator-checkbox-box" aria-hidden="true"></span><span class="forminator-checkbox-label">Curriculum</span></label><label id="forminator-field-checkbox-1-3-66096e52aff1f-label" for="forminator-field-checkbox-1-3-66096e52aff1f" class="forminator-checkbox" title="Transport Service"><input type="checkbox" name="checkbox-1[]" value="Transport Service" id="forminator-field-checkbox-1-3-66096e52aff1f" aria-labelledby="forminator-field-checkbox-1-3-66096e52aff1f-label" data-calculation="0" aria-describedby="forminator-field-checkbox-1-66096e52aff1f-description"><span class="forminator-checkbox-box" aria-hidden="true"></span><span class="forminator-checkbox-label">Transport Service</span></label><label id="forminator-field-checkbox-1-4-66096e52aff1f-label" for="forminator-field-checkbox-1-4-66096e52aff1f" class="forminator-checkbox" title="Career"><input type="checkbox" name="checkbox-1[]" value="Career" id="forminator-field-checkbox-1-4-66096e52aff1f" aria-labelledby="forminator-field-checkbox-1-4-66096e52aff1f-label" data-calculation="0" aria-describedby="forminator-field-checkbox-1-66096e52aff1f-description"><span class="forminator-checkbox-box" aria-hidden="true"></span><span class="forminator-checkbox-label">Career</span></label></div></div></div><div class="forminator-row"><div id="textarea-1" class="forminator-field-textarea forminator-col forminator-col-12 "><div class="forminator-field" style="position: relative;"><label for="forminator-field-textarea-1_66096e52aff1f" id="forminator-field-textarea-1_66096e52aff1f-label" class="forminator-label forminator-floating--textarea" style="padding-top: 29px;">Other Comments</label><div class="forminator-textarea--wrap"><textarea name="textarea-1" placeholder="Other Comments" id="forminator-field-textarea-1_66096e52aff1f" class="forminator-textarea" rows="6" style="min-height: 140px; padding-top: 29px;"></textarea></div></div></div></div><div class="forminator-row forminator-hidden"><input type="hidden" id="hidden-1_66096e52aff1f" name="hidden-1" value="49.245.81.142"></div><div class="forminator-row forminator-hidden"><input type="hidden" id="hidden-2_66096e52aff1f" name="hidden-2" value="https://shaws.com.sg/"></div><div class="forminator-row forminator-hidden"><input type="hidden" id="hidden-3_66096e52aff1f" name="hidden-3" value="https://shaws.com.sg/"></div><div class="forminator-row forminator-hidden"><input type="hidden" id="hidden-4_66096e52aff1f" name="hidden-4" value=""></div><div class="forminator-row forminator-hidden"><input type="hidden" id="hidden-5_66096e52aff1f" name="hidden-5" value=""></div><div class="forminator-row forminator-hidden"><input type="hidden" id="hidden-6_66096e52aff1f" name="hidden-6" value=""></div><div class="forminator-row forminator-hidden"><input type="hidden" id="hidden-7_66096e52aff1f" name="hidden-7" value=""></div><div class="forminator-row forminator-hidden"><input type="hidden" id="hidden-8_66096e52aff1f" name="hidden-8" value=""></div><div class="forminator-row"><div id="captcha-1" class="forminator-field-captcha forminator-col forminator-col-12 "><div class="forminator-g-recaptcha recaptcha-invisible" data-theme="light" data-badge="inline" data-sitekey="6LdhYx4gAAAAAHpz_NhHfTEwLk7YG7DzukQB2NuM" data-size="invisible" style="transform: scale(1); transform-origin: 0px 0px;"><div class="grecaptcha-badge" data-style="inline" style="width: 256px; height: 60px; box-shadow: gray 0px 0px 5px; z-index: 99;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" width="256" height="60" role="presentation" name="a-dpvkbcsefjc" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdhYx4gAAAAAHpz_NhHfTEwLk7YG7DzukQB2NuM&amp;co=aHR0cHM6Ly9zaGF3cy5jb20uc2c6NDQz&amp;hl=en&amp;v=moV1mTgQ6S91nuTnmll4Y9yf&amp;theme=light&amp;size=invisible&amp;badge=inline&amp;cb=5s56s82pyprb"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" aria-hidden="true" aria-label="do not use" aria-readonly="true" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div> </div></div><input type="hidden" name="referer_url" value=""><div class="forminator-row forminator-row-last"><div class="forminator-col"><div class="forminator-field"><button class="forminator-button forminator-button-submit"><span>Submit</span><span aria-hidden="true"></span></button></div></div></div><input type="hidden" id="forminator_nonce" name="forminator_nonce" value="1966d29e0d"><input type="hidden" name="_wp_http_referer" value="/page/2/?et_blog"><input type="hidden" name="form_id" value="843"><input type="hidden" name="page_id" value="10714"><input type="hidden" name="form_type" value=""><input type="hidden" name="current_url" value="https://shaws.com.sg/"><input type="hidden" name="render_id" value="0"><input type="hidden" name="action" value="forminator_submit_form_custom-forms"></form><p></p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</div>
+	<div class="swp_social_panel swp_horizontal_panel swp_flat_fresh  swp_default_full_color swp_individual_full_color swp_other_full_color scale-100  scale-" data-min-width="1100" data-float-color="#ffffff" data-float="left" data-float-mobile="none" data-transition="slide" data-post-id="10714"><div class="nc_tweetContainer swp_share_button swp_twitter" data-network="twitter"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=Home&amp;url=https%3A%2F%2Fshaws.com.sg%2F" data-link="https://twitter.com/intent/tweet?text=Home&amp;url=https%3A%2F%2Fshaws.com.sg%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_facebook" data-network="facebook"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2F" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_linkedin" data-network="linkedin"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2F" data-link="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_linkedin_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_pinterest" data-network="pinterest"><a rel="nofollow noreferrer noopener" class="nc_tweet swp_share_link noPop" onclick="var e=document.createElement('script');
+							e.setAttribute('type','text/javascript');
+							e.setAttribute('charset','UTF-8');
+							e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+							document.body.appendChild(e);
+						"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_pinterest_icon"></i><span class="swp_share">Pin</span></span></span></span></a></div></div><div class="swp-content-locator"></div>					</div>
+
+				
+				</article>
+
+			
+
+</div>
+
+	<footer class="et-l et-l--footer">
+			<div class="et_builder_inner_content et_pb_gutters3"><div class="et_pb_section et_pb_section_0_tb_footer et_pb_with_background et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0_tb_footer et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0_tb_footer  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner">Copyright © Shaws Preschool 2023. All rights reserved. | <a href="/privacy-policy/">PDPA</a></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_1_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<ul class="et_pb_module et_pb_social_media_follow et_pb_social_media_follow_0_tb_footer clearfix  et_pb_text_align_right et_pb_text_align_center-tablet et_pb_bg_layout_light">
+				
+				
+				
+				
+				<li class="et_pb_social_media_follow_network_0_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-facebook"><a href="https://www.facebook.com/ShawsPreschool/" class="icon et_pb_with_border" title="Follow on Facebook" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li><li class="et_pb_social_media_follow_network_1_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-instagram"><a href="https://www.instagram.com/shawspreschool" class="icon et_pb_with_border" title="Follow on Instagram" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li><li class="et_pb_social_media_follow_network_2_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-tiktok et-pb-social-fa-icon"><a href="https://www.tiktok.com/@shawspreschool" class="icon et_pb_with_border" title="Follow on TikTok" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li><li class="et_pb_social_media_follow_network_3_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-linkedin"><a href="https://www.linkedin.com/company/shaws-preschool/" class="icon et_pb_with_border" title="Follow on LinkedIn" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li>
+			</ul>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</footer>
+		</div>
+
+			
+		</div>
+		<div id="et-boc" class="dm-base-context"><div class="et-l dm-base-context"></div></div></div>
+
+			
+			<script type="text/javascript">
+				var _paq = _paq || [];
+								_paq.push(['trackPageView']);
+								(function () {
+					var u = "https://stats1.wpmudev.com/";
+					_paq.push(['setTrackerUrl', u + 'track/']);
+					_paq.push(['setSiteId', '104426']);
+					var d   = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+					g.type  = 'text/javascript';
+					g.async = true;
+					g.defer = true;
+					g.src   = 'https://stats.wpmucdn.com/analytics.js';
+					s.parentNode.insertBefore(g, s);
+				})();
+			</script>
+				<script type="text/javascript">
+				var et_animation_data = [{"class":"et_pb_blurb_0","style":"bounce","repeat":"once","duration":"400ms","delay":"300ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blurb_1","style":"bounce","repeat":"once","duration":"400ms","delay":"400ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blurb_2","style":"bounce","repeat":"once","duration":"400ms","delay":"500ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blurb_3","style":"bounce","repeat":"once","duration":"400ms","delay":"600ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_0","style":"bounce","repeat":"once","duration":"400ms","delay":"300ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_number_counter_0","style":"bounce","repeat":"once","duration":"400ms","delay":"300ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_1","style":"bounce","repeat":"once","duration":"400ms","delay":"500ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_number_counter_1","style":"bounce","repeat":"once","duration":"400ms","delay":"500ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_2","style":"bounce","repeat":"once","duration":"400ms","delay":"600ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_number_counter_2","style":"bounce","repeat":"once","duration":"400ms","delay":"500ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_3","style":"bounce","repeat":"once","duration":"400ms","delay":"700ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_number_counter_3","style":"bounce","repeat":"once","duration":"400ms","delay":"600ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blurb_4","style":"bounce","repeat":"once","duration":"300ms","delay":"400ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blurb_5","style":"bounce","repeat":"once","duration":"400ms","delay":"500ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blurb_6","style":"bounce","repeat":"once","duration":"300ms","delay":"400ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blurb_7","style":"bounce","repeat":"once","duration":"400ms","delay":"400ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blurb_8","style":"bounce","repeat":"once","duration":"400ms","delay":"500ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_row_13","style":"zoom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"-5%","starting_opacity":"0%","speed_curve":"ease-in"}];
+				</script>
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KW27VTQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<meta name="facebook-domain-verification" content="0o3k381n2p456ddv7u9u8uf9nceeo3">
+
+
+
+
+<!-- Facebook Pixel Code -->
+
+<script>
+
+!function(f,b,e,v,n,t,s)
+
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];
+
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+
+'https://connect.facebook.net/en_US/fbevents.js');
+
+
+fbq('init', '566350953921183'); 
+
+fbq('track', 'PageView');
+
+</script>
+
+<noscript>
+
+<img height="1" width="1" alt="Pixel" src="https://www.facebook.com/tr?id=600739550426159&amp;ev=PageView%0D%0A%0D%0A&amp;noscript=1">
+
+</noscript>
+
+<!-- End Facebook Pixel Code -->
+
+<!-- Page Scroll to ID -->
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KW27VTQ');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" id="social_warfare_script-js-extra">
+/* <![CDATA[ */
+var socialWarfare = {"addons":[],"post_id":"10714","variables":{"emphasizeIcons":false,"powered_by_toggle":false,"affiliate_link":"https:\/\/warfareplugins.com"},"floatBeforeContent":""};
+/* ]]> */
+</script>
+
+<script type="text/javascript" id="divi-custom-script-js-extra">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/shaws.com.sg\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/shaws.com.sg\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"a870cbd2a7","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"1556332af5","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"10714","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":"https:\/\/shaws.com.sg\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#7EBEC5","waypoints_options":{"context":[".pum-overlay"]}};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+
+
+
+<script type="text/javascript" id="mediaelement-core-js-before">
+/* <![CDATA[ */
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+/* ]]> */
+</script>
+
+
+<script type="text/javascript" id="mediaelement-js-extra">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+/* ]]> */
+</script>
+
+
+
+
+
+<script type="text/javascript" id="forminator-front-scripts-js-extra">
+/* <![CDATA[ */
+var ForminatorFront = {"ajaxUrl":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","cform":{"processing":"Submitting form, please wait","error":"An error occurred while processing the form. Please try again","upload_error":"An upload error occurred while processing the form. Please try again","pagination_prev":"Previous","pagination_next":"Next","pagination_go":"Submit","gateway":{"processing":"Processing payment, please wait","paid":"Success! Payment confirmed. Submitting form, please wait","error":"Error! Something went wrong when verifying the payment"},"captcha_error":"Invalid CAPTCHA","no_file_chosen":"No file chosen","intlTelInput_utils_script":"https:\/\/shaws.com.sg\/wp-content\/plugins\/forminator\/assets\/js\/library\/intlTelInputUtils.js","process_error":"Please try again"},"poll":{"processing":"Submitting vote, please wait","error":"An error occurred saving the vote. Please try again"},"quiz":{"view_results":"View Results"},"select2":{"load_more":"Loading more results\u2026","no_result_found":"No results found","searching":"Searching\u2026","loaded_error":"The results could not be loaded."}};
+/* ]]> */
+</script>
+
+
+
+
+<script type="text/javascript" id="moment-js-after">
+/* <![CDATA[ */
+moment.updateLocale( 'en_US', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":0},"longDateFormat":{"LT":"g:i A","LTS":null,"L":null,"LL":"F j, Y","LLL":"F j, Y g:i a","LLLL":null}} );
+/* ]]> */
+</script>
+
+<script type="text/javascript" id="jquery-ui-datepicker-js-extra">
+/* <![CDATA[ */
+var datepickerLang = {"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":"0","isRTL":""};
+/* ]]> */
+</script>
+
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=en_US&amp;onload=forminator_render_captcha&amp;render=explicit&amp;ver=1.29.2" id="forminator-google-recaptcha-js"></script>
+
+
+
+<div class="swp_social_panelSide swp_floating_panel swp_social_panel swp_ swp_default_full_color swp_individual_full_color swp_other_full_color slide swp_float_left" data-min-width="1100" data-float-color="#ffffff" data-float="left" data-float-mobile="none" data-transition="slide" data-post-id="10714" style="top: 224px; display: none;"><div class="nc_tweetContainer swp_share_button swp_twitter" data-network="twitter"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=Home&amp;url=https%3A%2F%2Fshaws.com.sg%2F" data-link="https://twitter.com/intent/tweet?text=Home&amp;url=https%3A%2F%2Fshaws.com.sg%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_facebook" data-network="facebook"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2F" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_linkedin" data-network="linkedin"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2F" data-link="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_linkedin_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_pinterest" data-network="pinterest"><a rel="nofollow noreferrer noopener" class="nc_tweet swp_share_link noPop" onclick="var e=document.createElement('script');
+							e.setAttribute('type','text/javascript');
+							e.setAttribute('charset','UTF-8');
+							e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+							document.body.appendChild(e);
+						"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_pinterest_icon"></i><span class="swp_share">Pin</span></span></span></span></a></div></div><script type="text/javascript"> var swp_nonce = "0a0b25dd0c";function parentIsEvil() { var html = null; try { var doc = top.location.pathname; } catch(err){ }; if(typeof doc === "undefined") { return true } else { return false }; }; if (parentIsEvil()) { top.location = self.location.href; };var url = "https://shaws.com.sg/";if(url.indexOf("stfi.re") != -1) { var canonical = ""; var links = document.getElementsByTagName("link"); for (var i = 0; i < links.length; i ++) { if (links[i].getAttribute("rel") === "canonical") { canonical = links[i].getAttribute("href")}}; canonical = canonical.replace("?sfr=1", "");top.location = canonical; console.log(canonical);};var swpFloatBeforeContent = false; var swp_ajax_url = "https://shaws.com.sg/wp-admin/admin-ajax.php"; var swp_post_id = "10714";var swpClickTracking = false;</script><script type="text/javascript">jQuery(function() {jQuery.ajax({url: 'https://shaws.com.sg/wp-admin/admin-ajax.php',type: "POST",data: {action: "forminator_get_nonce",},success: function (response) {jQuery('#forminator-module-843 #forminator_nonce').val( response.data );}});})</script>        
+			
+			<span class="et_pb_scroll_top et-pb-icon"></span>
+	<script defer="" src="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-dd59dcf85fbd89d3a248ff1650eea00a.js"></script>
+
+<div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all notranslate"></div></body></html>

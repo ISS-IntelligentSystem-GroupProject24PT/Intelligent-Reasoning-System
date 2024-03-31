@@ -117,11 +117,11 @@ float: none !important;
 <hr>
 
 		<!-- MasterSlider -->
-		<div id="P_MS6608354ede314" class="master-slider-parent msl ms-parent-id-200" style="max-width: 1000px; position: relative;">
+		<div id="P_MS6609723d4be1f" class="master-slider-parent msl ms-parent-id-200" style="max-width: 1000px; position: relative;">
 
 			
 			<!-- MasterSlider Main -->
-			<div id="MS6608354ede314" class="master-slider ms-skin-default ms-wk" style="visibility: visible; opacity: 1; margin: 0px;"><div class="ms-container"><div class="ms-inner-controls-cont" style="max-width: 1000px;"><div class="ms-view ms-basic-view ms-grab-cursor" style="width: 760px; height: 475px;"><div class="ms-slide-container" style="transform: translateX(0px) translateZ(0px);"><div class="ms-slide ms-slide-auto-height ms-sl-selected" data-delay="3" data-fill-mode="fill" style="width: 760px; height: 475px; left: 0px;">
+			<div id="MS6609723d4be1f" class="master-slider ms-skin-default ms-wk" style="visibility: visible; opacity: 1; margin: 0px;"><div class="ms-container"><div class="ms-inner-controls-cont" style="max-width: 1000px;"><div class="ms-view ms-basic-view ms-grab-cursor" style="width: 760px; height: 475px;"><div class="ms-slide-container" style="transform: translateX(0px) translateZ(0px);"><div class="ms-slide ms-slide-auto-height ms-sl-selected" data-delay="3" data-fill-mode="fill" style="width: 760px; height: 475px; left: 0px;">
 					
 	<a href="https://youtu.be/Jr86_a5S3Qo" target="_blank" class="ms-slide-link"></a>
 
@@ -181,7 +181,7 @@ float: none !important;
 
 	
 	
-				<div class="ms-slide-bgcont" style="opacity: 1; height: 389px;"><img src="https://sjck.org.sg/wp-content/uploads/2019/10/Clara.jpg" alt="" title="" style="width: 759.513px; height: 389px; margin-top: 0px; margin-left: 0px;"></div></div></div></div><div class="ms-nav-next" style="opacity: 0; display: none;"></div><div class="ms-nav-prev" style="opacity: 0; display: none;"></div></div></div>
+				<div class="ms-slide-loading" style="transition-duration: 300ms; transition-property: all; transition-timing-function: linear; opacity: 0;"></div><div class="ms-slide-bgcont" style="opacity: 1; height: 389px; transition-duration: 300ms; transition-property: all; transition-timing-function: linear;"><img src="https://sjck.org.sg/wp-content/uploads/2019/10/Clara.jpg" alt="" title="" style="width: 759.513px; height: 389px; margin-top: 0px; margin-left: 0px;"></div></div></div></div><div class="ms-nav-next" style="opacity: 0; display: none;"></div><div class="ms-nav-prev" style="opacity: 0; display: none;"></div></div></div>
 				 				 
 				
 				
@@ -210,14 +210,14 @@ float: none !important;
 			"use strict";
 
 			$(function () {
-				var masterslider_e314 = new MasterSlider();
+				var masterslider_be1f = new MasterSlider();
 
 				// slider controls
-				masterslider_e314.control('arrows'     ,{ autohide:true, overVideo:true  });
-				masterslider_e314.control('thumblist'  ,{ autohide:false, overVideo:true, dir:'h', speed:17, inset:false, arrows:false, hover:true, customClass:'', align:'bottom',type:'thumbs', margin:10, width:100, height:80, space:5, fillMode:'fill'  });
-				masterslider_e314.control('slideinfo'  ,{ autohide:false, overVideo:true, dir:'h', align:'bottom',inset:true , margin:10   });
+				masterslider_be1f.control('arrows'     ,{ autohide:true, overVideo:true  });
+				masterslider_be1f.control('thumblist'  ,{ autohide:false, overVideo:true, dir:'h', speed:17, inset:false, arrows:false, hover:true, customClass:'', align:'bottom',type:'thumbs', margin:10, width:100, height:80, space:5, fillMode:'fill'  });
+				masterslider_be1f.control('slideinfo'  ,{ autohide:false, overVideo:true, dir:'h', align:'bottom',inset:true , margin:10   });
 				// slider setup
-				masterslider_e314.setup("MS6608354ede314", {
+				masterslider_be1f.setup("MS6609723d4be1f", {
 						width           : 1000,
 						height          : 150,
 						minHeight       : 0,
@@ -252,7 +252,7 @@ float: none !important;
 
 				
 				window.masterslider_instances = window.masterslider_instances || [];
-				window.masterslider_instances.push( masterslider_e314 );
+				window.masterslider_instances.push( masterslider_be1f );
 			 });
 
 		})(jQuery);

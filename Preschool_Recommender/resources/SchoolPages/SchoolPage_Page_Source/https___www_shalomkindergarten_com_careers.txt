@@ -1,4 +1,4 @@
-<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" class="yui3-js-enabled wf-supriasanscondensed-n5-active wf-supriasanscondensed-n7-active wf-supriasanscondensed-i5-active wf-supriasanscondensed-i7-active wf-active js flexbox canvas canvastext webgl no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms no-csstransforms3d csstransitions video audio svg inlinesvg svgclippaths" id="yui_3_17_2_1_1711810881636_77"><head>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" class="yui3-js-enabled wf-supriasanscondensed-n5-active wf-supriasanscondensed-n7-active wf-supriasanscondensed-i5-active wf-supriasanscondensed-i7-active wf-active js flexbox canvas canvastext webgl no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms no-csstransforms3d csstransitions video audio svg inlinesvg svgclippaths" id="yui_3_17_2_1_1711893751749_77"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- This is Squarespace. --><!-- bagpipe-chinchilla-z3ce -->
@@ -31,7 +31,7 @@
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js" defer=""></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-98af0e67baae44116c1c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-98af0e67baae44116c1c-min.en-US.js" defer=""></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-72c79482ea73d57df37b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
 <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-72c79482ea73d57df37b-min.en-US.js" defer=""></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-492502057052f8dfae71-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-492502057052f8dfae71-min.en-US.js" defer=""></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-4518075a6ce76d0d1e9d-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-c4422bf3706323e87711-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-1e390bbcde22c7bbc97f-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-7aebcd8413f60585528f-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-b02a49a535d8c01afb9d-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-e69cce1e27b5310a6ac7-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-2d837ce5d778aca257fe-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-b10bb40e9dc547f99c29-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-c824af553cff959f6d3a-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-6e3e86c71c32cb4094f6-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-27fa9d0fc4f227932e5c-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-2c40d7b2cadcba2ccb81-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5f8358cf7b510b32fc49-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-d0c90be829ba36cb62cc-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-70c4b9453bb2a57bb4d5-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-701ebb8b8d0dd78ec8f9-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-e064c4cd6f1663a640f5-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-a96b3f54dd47a01900f6-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-0c340509add53a698500-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-31979724436e2b10b5aa-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-e7a7eedd7230c5c182ad-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-6a6862d5ff0df1b9784e-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-d178fd62fd462144aa30-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-e10d83e6eed1528e6f2b-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-9c0d76c2eeb2ab723030-min.en-US.js"}},"pageType":2,"website":{"id":"602c8d3addc68d137ce0f7c7","identifier":"bagpipe-chinchilla-z3ce","websiteType":1,"contentModifiedOn":1631073536639,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Asia/Singapore","machineTimeZoneOffset":28800000,"timeZoneOffset":28800000,"timeZoneAbbr":"SGT","siteTitle":"Shalom Kindergarten","fullSiteTitle":"Contact 3 \u2014 Shalom Kindergarten","siteDescription":"","logoImageId":"6098a01416396460ff9946e4","mobileLogoImageId":"6098a0378a680d17f10ef497","shareButtonOptions":{"8":true,"1":true,"3":true,"2":true,"7":true,"6":true,"4":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/602c8d3addc68d137ce0f7c7/1620615188473-UAVLGVI22SEZQJ8OLSE9/shalom%2Blogo.jpg","mobileLogoImageUrl":"//images.squarespace-cdn.com/content/v1/602c8d3addc68d137ce0f7c7/1620615224257-DBNIA2KNUREPTV4CZ2VQ/shalom+logo.png","authenticUrl":"https://www.shalomkindergarten.com","internalUrl":"https://bagpipe-chinchilla-z3ce.squarespace.com","baseUrl":"https://www.shalomkindergarten.com","primaryDomain":"www.shalomkindergarten.com","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1614828088295,"profileUrl":"https://www.facebook.com/Shalomkindysg","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":64,"screenname":"Instagram","addedOn":1617093383094,"profileUrl":"https://instagram.com/shalomkindy?igshid=fsniykx5ay7m ","iconEnabled":true,"serviceName":"instagram-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"602c8d3addc68d137ce0f7ca","websiteId":"602c8d3addc68d137ce0f7c7","subjects":[],"country":"SG","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"popupOverlaySettings":{"style":1,"showOnScroll":true,"scrollPercentage":25,"showOnTimer":true,"timerDelay":5000,"showUntilSignup":true,"displayFrequency":7,"enableMobile":true,"enabledPages":[],"showOnAllPages":true,"version":1},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Careers","id":"6040cb6b122f3e7655fbe1b1","fullUrl":"/careers","type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"85px","header-mobile-logo-max-height":"45px","header-vert-padding":"1vw","header-width":"Full","maxPageWidth":"1800px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"6%","tweak-blog-alternating-side-by-side-meta-spacing":"20px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"20px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"3:2 Standard","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"10px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"20px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"50","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Custom","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"30px","tweak-blog-masonry-image-spacing":"20px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"20px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"30px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"20px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"50px","tweak-blog-single-column-meta-spacing":"30px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"30px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"false","tweak-fixed-header-style":"Basic","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Medium","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Forward Slash","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"75","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Medium","tweak-portfolio-hover-static-animation-type":"Scale Up","tweak-portfolio-hover-static-delimiter":"Forward Slash","tweak-portfolio-hover-static-front":"false","tweak-portfolio-hover-static-layout":"Stacked","tweak-portfolio-hover-static-size":"75","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"2","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"2vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"0.5vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Full","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["send_local_pickup_ready_email","google_consent_v2","campaigns_discount_section_in_automations","nested_categories_migration_enabled","campaigns_thumbnail_layout","commerce_subscription_renewal_notifications","toggle_preview_new_shortcut","commerce_checkout_website_updates_enabled","unify_edit_mode_p2","hideable_header_footer_for_videos","nested_categories","background_art_onboarding","hideable_header_footer_for_courses","collection_typename_switching","proposals_beta_in_circle_labs","commerce_etsy_shipping_import","campaigns_new_image_layout_picker","customer_accounts_email_verification","blog_monetization","scripts_defer","hideable_header_footer_for_memberareas","visitor_react_forms","viewer-role-contributor-invites","override_block_styles","enable_css_variable_tweaks","fluid_engine","accounting_orders_sync","campaigns_import_discounts","pdp_product_add_ons_visitor_site","fluid_engine_clean_up_grid_contextual_change","new_stacked_index","member_areas_feature","hide_header_footer_beta","customer_account_creation_recaptcha","supports_versioned_template_assets","commerce_site_visitor_metrics","donations_panel_refactor","commerce_paywall_renewal_notifications","themes","campaigns_global_uc_ab","commsplat_forms_visitor_profile","commerce_order_status_access","commerce_etsy_product_import","is_feature_gate_refresh_enabled","commerce_restock_notifications","website_fonts","order_status_page_checkout_landing_enabled","marketing_landing_page","hideable_header_footer","campaigns_discount_section_in_blasts","commerce_clearpay"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[480,null,"+08",null]],"rules":{}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"Asia/Singapore","name":"Singapore Standard Time"}}};</script><script type="application/ld+json">{"url":"https://www.shalomkindergarten.com","name":"Shalom Kindergarten","description":"","image":"//images.squarespace-cdn.com/content/v1/602c8d3addc68d137ce0f7c7/1620615188473-UAVLGVI22SEZQJ8OLSE9/shalom%2Blogo.jpg","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/602c8d3addc68d137ce0f7c7/50/5c5a519771c10ba3470d8101/602c8d3addc68d137ce0f7fa/1512/site.css"><script src="https://kit.fontawesome.com/c69ff5a6dc.js" crossorigin="anonymous"></script><style media="all" id="fa-v4-font-face">/*!
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-492502057052f8dfae71-min.en-US.js" defer=""></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-4518075a6ce76d0d1e9d-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-c4422bf3706323e87711-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-1e390bbcde22c7bbc97f-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-7aebcd8413f60585528f-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-b02a49a535d8c01afb9d-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-e69cce1e27b5310a6ac7-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-2d837ce5d778aca257fe-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-b10bb40e9dc547f99c29-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-c824af553cff959f6d3a-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-6e3e86c71c32cb4094f6-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-27fa9d0fc4f227932e5c-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-2c40d7b2cadcba2ccb81-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5f8358cf7b510b32fc49-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-d0c90be829ba36cb62cc-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-70c4b9453bb2a57bb4d5-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-701ebb8b8d0dd78ec8f9-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-e064c4cd6f1663a640f5-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-a96b3f54dd47a01900f6-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-0c340509add53a698500-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-31979724436e2b10b5aa-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-e7a7eedd7230c5c182ad-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-6a6862d5ff0df1b9784e-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-d178fd62fd462144aa30-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-e10d83e6eed1528e6f2b-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-9c0d76c2eeb2ab723030-min.en-US.js"}},"pageType":2,"website":{"id":"602c8d3addc68d137ce0f7c7","identifier":"bagpipe-chinchilla-z3ce","websiteType":1,"contentModifiedOn":1631073536639,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Asia/Singapore","machineTimeZoneOffset":28800000,"timeZoneOffset":28800000,"timeZoneAbbr":"SGT","siteTitle":"Shalom Kindergarten","fullSiteTitle":"Contact 3 \u2014 Shalom Kindergarten","siteDescription":"","logoImageId":"6098a01416396460ff9946e4","mobileLogoImageId":"6098a0378a680d17f10ef497","shareButtonOptions":{"8":true,"4":true,"6":true,"3":true,"2":true,"1":true,"7":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/602c8d3addc68d137ce0f7c7/1620615188473-UAVLGVI22SEZQJ8OLSE9/shalom%2Blogo.jpg","mobileLogoImageUrl":"//images.squarespace-cdn.com/content/v1/602c8d3addc68d137ce0f7c7/1620615224257-DBNIA2KNUREPTV4CZ2VQ/shalom+logo.png","authenticUrl":"https://www.shalomkindergarten.com","internalUrl":"https://bagpipe-chinchilla-z3ce.squarespace.com","baseUrl":"https://www.shalomkindergarten.com","primaryDomain":"www.shalomkindergarten.com","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1614828088295,"profileUrl":"https://www.facebook.com/Shalomkindysg","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":64,"screenname":"Instagram","addedOn":1617093383094,"profileUrl":"https://instagram.com/shalomkindy?igshid=fsniykx5ay7m ","iconEnabled":true,"serviceName":"instagram-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"602c8d3addc68d137ce0f7ca","websiteId":"602c8d3addc68d137ce0f7c7","subjects":[],"country":"SG","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"popupOverlaySettings":{"style":1,"showOnScroll":true,"scrollPercentage":25,"showOnTimer":true,"timerDelay":5000,"showUntilSignup":true,"displayFrequency":7,"enableMobile":true,"enabledPages":[],"showOnAllPages":true,"version":1},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Careers","id":"6040cb6b122f3e7655fbe1b1","fullUrl":"/careers","type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"85px","header-mobile-logo-max-height":"45px","header-vert-padding":"1vw","header-width":"Full","maxPageWidth":"1800px","pagePadding":"3vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"6%","tweak-blog-alternating-side-by-side-meta-spacing":"20px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"20px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"3:2 Standard","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"10px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"20px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"50","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Custom","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"30px","tweak-blog-masonry-image-spacing":"20px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"20px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"30px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"20px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"50px","tweak-blog-single-column-meta-spacing":"30px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"30px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"false","tweak-fixed-header-style":"Basic","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Medium","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Forward Slash","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"75","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Medium","tweak-portfolio-hover-static-animation-type":"Scale Up","tweak-portfolio-hover-static-delimiter":"Forward Slash","tweak-portfolio-hover-static-front":"false","tweak-portfolio-hover-static-layout":"Stacked","tweak-portfolio-hover-static-size":"75","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"2","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"2vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"0.5vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Full","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["website_fonts","commerce_paywall_renewal_notifications","viewer-role-contributor-invites","campaigns_discount_section_in_automations","campaigns_new_image_layout_picker","fluid_engine_clean_up_grid_contextual_change","hideable_header_footer_for_videos","member_areas_feature","campaigns_import_discounts","commerce_etsy_shipping_import","scripts_defer","new_stacked_index","customer_accounts_email_verification","campaigns_discount_section_in_blasts","commerce_site_visitor_metrics","visitor_react_forms","hideable_header_footer","campaigns_thumbnail_layout","commerce_restock_notifications","unify_edit_mode_p2","pdp_product_add_ons_visitor_site","enable_css_variable_tweaks","donations_panel_refactor","commerce_checkout_website_updates_enabled","nested_categories_migration_enabled","is_feature_gate_refresh_enabled","commsplat_forms_visitor_profile","order_status_page_checkout_landing_enabled","commerce_subscription_renewal_notifications","hideable_header_footer_for_memberareas","hide_header_footer_beta","override_block_styles","blog_monetization","commerce_etsy_product_import","campaigns_global_uc_ab","background_art_onboarding","supports_versioned_template_assets","proposals_beta_in_circle_labs","marketing_landing_page","themes","fluid_engine","commerce_clearpay","commerce_order_status_access","toggle_preview_new_shortcut","collection_typename_switching","google_consent_v2","customer_account_creation_recaptcha","nested_categories","send_local_pickup_ready_email","accounting_orders_sync","hideable_header_footer_for_courses"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection","mux-data-video-block-autoplay"],"impersonatedSession":false,"tzData":{"zones":[[480,null,"+08",null]],"rules":{}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"Asia/Singapore","name":"Singapore Standard Time"}}};</script><script type="application/ld+json">{"url":"https://www.shalomkindergarten.com","name":"Shalom Kindergarten","description":"","image":"//images.squarespace-cdn.com/content/v1/602c8d3addc68d137ce0f7c7/1620615188473-UAVLGVI22SEZQJ8OLSE9/shalom%2Blogo.jpg","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/602c8d3addc68d137ce0f7c7/50/5c5a519771c10ba3470d8101/602c8d3addc68d137ce0f7fa/1512/site.css"><script src="https://kit.fontawesome.com/c69ff5a6dc.js" crossorigin="anonymous"></script><style media="all" id="fa-v4-font-face">/*!
  * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */@font-face{font-family:"FontAwesome";font-display:block;src:url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-solid-900.eot);src:url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-solid-900.eot?#iefix) format("embedded-opentype"),url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-solid-900.woff2) format("woff2"),url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-solid-900.woff) format("woff"),url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-solid-900.ttf) format("truetype"),url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-solid-900.svg#fontawesome) format("svg")}@font-face{font-family:"FontAwesome";font-display:block;src:url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-brands-400.eot);src:url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-brands-400.eot?#iefix) format("embedded-opentype"),url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-brands-400.woff2) format("woff2"),url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-brands-400.woff) format("woff"),url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-brands-400.ttf) format("truetype"),url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-brands-400.svg#fontawesome) format("svg")}@font-face{font-family:"FontAwesome";font-display:block;src:url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-regular-400.eot);src:url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-regular-400.eot?#iefix) format("embedded-opentype"),url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-regular-400.woff2) format("woff2"),url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-regular-400.woff) format("woff"),url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-regular-400.ttf) format("truetype"),url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-regular-400.svg#fontawesome) format("svg");unicode-range:U+f004-f005,U+f007,U+f017,U+f022,U+f024,U+f02e,U+f03e,U+f044,U+f057-f059,U+f06e,U+f070,U+f075,U+f07b-f07c,U+f080,U+f086,U+f089,U+f094,U+f09d,U+f0a0,U+f0a4-f0a7,U+f0c5,U+f0c7-f0c8,U+f0e0,U+f0eb,U+f0f3,U+f0f8,U+f0fe,U+f111,U+f118-f11a,U+f11c,U+f133,U+f144,U+f146,U+f14a,U+f14d-f14e,U+f150-f152,U+f15b-f15c,U+f164-f165,U+f185-f186,U+f191-f192,U+f1ad,U+f1c1-f1c9,U+f1cd,U+f1d8,U+f1e3,U+f1ea,U+f1f6,U+f1f9,U+f20a,U+f247-f249,U+f24d,U+f254-f25b,U+f25d,U+f271-f274,U+f279,U+f28b,U+f28d,U+f2b5-f2b6,U+f2b9,U+f2bb,U+f2bd,U+f2c1-f2c2,U+f2d0,U+f2d2,U+f2dc,U+f2ed,U+f3a5,U+f3d1,U+f410}@font-face{font-family:"FontAwesome";font-display:block;src:url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-v4deprecations.eot);src:url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-v4deprecations.eot?#iefix) format("embedded-opentype"),url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-v4deprecations.woff2) format("woff2"),url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-v4deprecations.woff) format("woff"),url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-v4deprecations.ttf) format("truetype"),url(https://ka-f.fontawesome.com/releases/v5.15.4/webfonts/free-fa-v4deprecations.svg#fontawesome) format("svg");unicode-range:U+f003,U+f006,U+f014,U+f016,U+f01a-f01b,U+f01d,U+f040,U+f045-f047,U+f05c-f05d,U+f07d-f07e,U+f087-f088,U+f08a-f08b,U+f08e,U+f090,U+f096-f097,U+f0a2,U+f0e4-f0e6,U+f0ec-f0ee,U+f0f5-f0f7,U+f10c,U+f112,U+f114-f115,U+f11d,U+f123,U+f132,U+f145,U+f147-f149,U+f14c,U+f166,U+f16a,U+f172,U+f175-f178,U+f18e,U+f190,U+f196,U+f1b1,U+f1d9,U+f1db,U+f1f7,U+f20c,U+f219,U+f230,U+f24a,U+f250,U+f278,U+f27b,U+f283,U+f28c,U+f28e,U+f29b-f29c,U+f2b7,U+f2ba,U+f2bc,U+f2be,U+f2c0,U+f2c3,U+f2d3-f2d4}</style><style media="all" id="fa-v4-shims">/*!
@@ -111,246 +111,246 @@
       
       header theme-col--primary
     " data-section-theme="" data-controller="Header" data-current-styles="{
-                                        &quot;layout&quot;: &quot;navRight&quot;,
-                                        &quot;action&quot;: {
-                                          &quot;href&quot;: &quot;/contact-us-3&quot;,
-                                          &quot;buttonText&quot;: &quot;Enrol&quot;,
-                                          &quot;newWindow&quot;: false
-                                        },
-                                        &quot;showSocial&quot;: false,
-                                        &quot;socialOptions&quot;: {
-                                          &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                          &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                          &quot;socialBorderThickness&quot;: {
-                                            &quot;unit&quot;: &quot;px&quot;,
-                                            &quot;value&quot;: 1.0
-                                          }
-                                        },
-                                        &quot;sectionTheme&quot;: &quot;&quot;,
-                                        &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                        &quot;cartStyle&quot;: &quot;cart&quot;,
-                                        &quot;cartText&quot;: &quot;Cart&quot;,
-                                        &quot;showEmptyCartState&quot;: true,
-                                        &quot;cartOptions&quot;: {
-                                          &quot;iconType&quot;: &quot;solid-7&quot;,
-                                          &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                          &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                          &quot;cartBorderThickness&quot;: {
-                                            &quot;unit&quot;: &quot;px&quot;,
-                                            &quot;value&quot;: 1.0
-                                          }
-                                        },
-                                        &quot;showButton&quot;: true,
-                                        &quot;showCart&quot;: false,
-                                        &quot;showAccountLogin&quot;: true,
-                                        &quot;headerStyle&quot;: &quot;theme&quot;,
-                                        &quot;languagePicker&quot;: {
-                                          &quot;enabled&quot;: false,
-                                          &quot;iconEnabled&quot;: false,
-                                          &quot;iconType&quot;: &quot;globe&quot;,
-                                          &quot;flagShape&quot;: &quot;shiny&quot;,
-                                          &quot;languageFlags&quot;: [ ]
-                                        },
-                                        &quot;mobileOptions&quot;: {
-                                          &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                                          &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                          &quot;menuIconOptions&quot;: {
-                                            &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                            &quot;thickness&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 1.0
-                                            }
-                                          }
-                                        },
-                                        &quot;dynamicOptions&quot;: {
-                                          &quot;border&quot;: {
-                                            &quot;enabled&quot;: false,
-                                            &quot;position&quot;: &quot;bottom&quot;,
-                                            &quot;thickness&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 4.0
-                                            },
-                                            &quot;color&quot;: {
-                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                              &quot;sitePaletteColor&quot;: {
-                                                &quot;colorName&quot;: &quot;black&quot;,
-                                                &quot;alphaModifier&quot;: 1.0
-                                              }
-                                            }
-                                          }
-                                        },
-                                        &quot;solidOptions&quot;: {
-                                          &quot;headerOpacity&quot;: {
-                                            &quot;unit&quot;: &quot;%&quot;,
-                                            &quot;value&quot;: 100.0
-                                          },
-                                          &quot;border&quot;: {
-                                            &quot;enabled&quot;: false,
-                                            &quot;position&quot;: &quot;bottom&quot;,
-                                            &quot;thickness&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 4.0
-                                            },
-                                            &quot;color&quot;: {
-                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                              &quot;sitePaletteColor&quot;: {
-                                                &quot;colorName&quot;: &quot;black&quot;,
-                                                &quot;alphaModifier&quot;: 1.0
-                                              }
-                                            }
-                                          },
-                                          &quot;dropShadow&quot;: {
-                                            &quot;enabled&quot;: false,
-                                            &quot;blur&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 30.0
-                                            },
-                                            &quot;spread&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 0.0
-                                            },
-                                            &quot;distance&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 0.0
-                                            },
-                                            &quot;color&quot;: {
-                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                              &quot;sitePaletteColor&quot;: {
-                                                &quot;colorName&quot;: &quot;black&quot;,
-                                                &quot;alphaModifier&quot;: 1.0
-                                              }
-                                            }
-                                          },
-                                          &quot;blurBackground&quot;: {
-                                            &quot;enabled&quot;: false,
-                                            &quot;blurRadius&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 12.0
-                                            }
-                                          },
-                                          &quot;backgroundColor&quot;: {
-                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                            &quot;sitePaletteColor&quot;: {
-                                              &quot;colorName&quot;: &quot;white&quot;,
-                                              &quot;alphaModifier&quot;: 1.0
-                                            }
-                                          },
-                                          &quot;navigationColor&quot;: {
-                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                            &quot;sitePaletteColor&quot;: {
-                                              &quot;colorName&quot;: &quot;black&quot;,
-                                              &quot;alphaModifier&quot;: 1.0
-                                            }
-                                          }
-                                        },
-                                        &quot;gradientOptions&quot;: {
-                                          &quot;gradientType&quot;: &quot;faded&quot;,
-                                          &quot;headerOpacity&quot;: {
-                                            &quot;unit&quot;: &quot;%&quot;,
-                                            &quot;value&quot;: 90.0
-                                          },
-                                          &quot;border&quot;: {
-                                            &quot;enabled&quot;: false,
-                                            &quot;position&quot;: &quot;bottom&quot;,
-                                            &quot;thickness&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 4.0
-                                            },
-                                            &quot;color&quot;: {
-                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                              &quot;sitePaletteColor&quot;: {
-                                                &quot;colorName&quot;: &quot;black&quot;,
-                                                &quot;alphaModifier&quot;: 1.0
-                                              }
-                                            }
-                                          },
-                                          &quot;dropShadow&quot;: {
-                                            &quot;enabled&quot;: false,
-                                            &quot;blur&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 30.0
-                                            },
-                                            &quot;spread&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 0.0
-                                            },
-                                            &quot;distance&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 0.0
-                                            },
-                                            &quot;color&quot;: {
-                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                              &quot;sitePaletteColor&quot;: {
-                                                &quot;colorName&quot;: &quot;black&quot;,
-                                                &quot;alphaModifier&quot;: 1.0
-                                              }
-                                            }
-                                          },
-                                          &quot;blurBackground&quot;: {
-                                            &quot;enabled&quot;: false,
-                                            &quot;blurRadius&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 12.0
-                                            }
-                                          },
-                                          &quot;backgroundColor&quot;: {
-                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                            &quot;sitePaletteColor&quot;: {
-                                              &quot;colorName&quot;: &quot;white&quot;,
-                                              &quot;alphaModifier&quot;: 1.0
-                                            }
-                                          },
-                                          &quot;navigationColor&quot;: {
-                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                            &quot;sitePaletteColor&quot;: {
-                                              &quot;colorName&quot;: &quot;black&quot;,
-                                              &quot;alphaModifier&quot;: 1.0
-                                            }
-                                          }
-                                        },
-                                        &quot;dropShadowOptions&quot;: {
-                                          &quot;enabled&quot;: false,
-                                          &quot;blur&quot;: {
-                                            &quot;unit&quot;: &quot;px&quot;,
-                                            &quot;value&quot;: 12.0
-                                          },
-                                          &quot;spread&quot;: {
-                                            &quot;unit&quot;: &quot;px&quot;,
-                                            &quot;value&quot;: 0.0
-                                          },
-                                          &quot;distance&quot;: {
-                                            &quot;unit&quot;: &quot;px&quot;,
-                                            &quot;value&quot;: 12.0
-                                          }
-                                        },
-                                        &quot;borderOptions&quot;: {
-                                          &quot;enabled&quot;: false,
-                                          &quot;position&quot;: &quot;bottom&quot;,
-                                          &quot;thickness&quot;: {
-                                            &quot;unit&quot;: &quot;px&quot;,
-                                            &quot;value&quot;: 4.0
-                                          }
-                                        },
-                                        &quot;showPromotedElement&quot;: false,
-                                        &quot;buttonVariant&quot;: &quot;primary&quot;,
-                                        &quot;blurBackground&quot;: {
-                                          &quot;enabled&quot;: false,
-                                          &quot;blurRadius&quot;: {
-                                            &quot;unit&quot;: &quot;px&quot;,
-                                            &quot;value&quot;: 12.0
-                                          }
-                                        },
-                                        &quot;headerOpacity&quot;: {
-                                          &quot;unit&quot;: &quot;%&quot;,
-                                          &quot;value&quot;: 100.0
-                                        }
-                                      }" data-section-id="header" data-header-theme="" data-menu-overlay-theme="" data-header-style="theme" data-language-picker="{
-                                        &quot;enabled&quot;: false,
-                                        &quot;iconEnabled&quot;: false,
-                                        &quot;iconType&quot;: &quot;globe&quot;,
-                                        &quot;flagShape&quot;: &quot;shiny&quot;,
-                                        &quot;languageFlags&quot;: [ ]
-                                      }" data-first-focusable-element="" tabindex="-1" style="
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/contact-us-3&quot;,
+&quot;buttonText&quot;: &quot;Enrol&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: false,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: true,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+  &quot;sitePaletteColor&quot;: {
+    &quot;colorName&quot;: &quot;black&quot;,
+    &quot;alphaModifier&quot;: 1.0
+  }
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+  &quot;sitePaletteColor&quot;: {
+    &quot;colorName&quot;: &quot;black&quot;,
+    &quot;alphaModifier&quot;: 1.0
+  }
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+  &quot;sitePaletteColor&quot;: {
+    &quot;colorName&quot;: &quot;black&quot;,
+    &quot;alphaModifier&quot;: 1.0
+  }
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+  &quot;colorName&quot;: &quot;white&quot;,
+  &quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+  &quot;colorName&quot;: &quot;black&quot;,
+  &quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+  &quot;sitePaletteColor&quot;: {
+    &quot;colorName&quot;: &quot;black&quot;,
+    &quot;alphaModifier&quot;: 1.0
+  }
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+  &quot;sitePaletteColor&quot;: {
+    &quot;colorName&quot;: &quot;black&quot;,
+    &quot;alphaModifier&quot;: 1.0
+  }
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+  &quot;colorName&quot;: &quot;white&quot;,
+  &quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+  &quot;colorName&quot;: &quot;black&quot;,
+  &quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}" data-section-id="header" data-header-theme="" data-menu-overlay-theme="" data-header-style="theme" data-language-picker="{
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+}" data-first-focusable-element="" tabindex="-1" style="
       
         
         
@@ -920,240 +920,240 @@
       
       
       " data-section-theme="" data-current-styles="{
-                                        &quot;layout&quot;: &quot;navRight&quot;,
-                                        &quot;action&quot;: {
-                                          &quot;href&quot;: &quot;/contact-us-3&quot;,
-                                          &quot;buttonText&quot;: &quot;Enrol&quot;,
-                                          &quot;newWindow&quot;: false
-                                        },
-                                        &quot;showSocial&quot;: false,
-                                        &quot;socialOptions&quot;: {
-                                          &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                          &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                          &quot;socialBorderThickness&quot;: {
-                                            &quot;unit&quot;: &quot;px&quot;,
-                                            &quot;value&quot;: 1.0
-                                          }
-                                        },
-                                        &quot;sectionTheme&quot;: &quot;&quot;,
-                                        &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                        &quot;cartStyle&quot;: &quot;cart&quot;,
-                                        &quot;cartText&quot;: &quot;Cart&quot;,
-                                        &quot;showEmptyCartState&quot;: true,
-                                        &quot;cartOptions&quot;: {
-                                          &quot;iconType&quot;: &quot;solid-7&quot;,
-                                          &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                          &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                          &quot;cartBorderThickness&quot;: {
-                                            &quot;unit&quot;: &quot;px&quot;,
-                                            &quot;value&quot;: 1.0
-                                          }
-                                        },
-                                        &quot;showButton&quot;: true,
-                                        &quot;showCart&quot;: false,
-                                        &quot;showAccountLogin&quot;: true,
-                                        &quot;headerStyle&quot;: &quot;theme&quot;,
-                                        &quot;languagePicker&quot;: {
-                                          &quot;enabled&quot;: false,
-                                          &quot;iconEnabled&quot;: false,
-                                          &quot;iconType&quot;: &quot;globe&quot;,
-                                          &quot;flagShape&quot;: &quot;shiny&quot;,
-                                          &quot;languageFlags&quot;: [ ]
-                                        },
-                                        &quot;mobileOptions&quot;: {
-                                          &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-                                          &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                          &quot;menuIconOptions&quot;: {
-                                            &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                            &quot;thickness&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 1.0
-                                            }
-                                          }
-                                        },
-                                        &quot;dynamicOptions&quot;: {
-                                          &quot;border&quot;: {
-                                            &quot;enabled&quot;: false,
-                                            &quot;position&quot;: &quot;bottom&quot;,
-                                            &quot;thickness&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 4.0
-                                            },
-                                            &quot;color&quot;: {
-                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                              &quot;sitePaletteColor&quot;: {
-                                                &quot;colorName&quot;: &quot;black&quot;,
-                                                &quot;alphaModifier&quot;: 1.0
-                                              }
-                                            }
-                                          }
-                                        },
-                                        &quot;solidOptions&quot;: {
-                                          &quot;headerOpacity&quot;: {
-                                            &quot;unit&quot;: &quot;%&quot;,
-                                            &quot;value&quot;: 100.0
-                                          },
-                                          &quot;border&quot;: {
-                                            &quot;enabled&quot;: false,
-                                            &quot;position&quot;: &quot;bottom&quot;,
-                                            &quot;thickness&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 4.0
-                                            },
-                                            &quot;color&quot;: {
-                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                              &quot;sitePaletteColor&quot;: {
-                                                &quot;colorName&quot;: &quot;black&quot;,
-                                                &quot;alphaModifier&quot;: 1.0
-                                              }
-                                            }
-                                          },
-                                          &quot;dropShadow&quot;: {
-                                            &quot;enabled&quot;: false,
-                                            &quot;blur&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 30.0
-                                            },
-                                            &quot;spread&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 0.0
-                                            },
-                                            &quot;distance&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 0.0
-                                            },
-                                            &quot;color&quot;: {
-                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                              &quot;sitePaletteColor&quot;: {
-                                                &quot;colorName&quot;: &quot;black&quot;,
-                                                &quot;alphaModifier&quot;: 1.0
-                                              }
-                                            }
-                                          },
-                                          &quot;blurBackground&quot;: {
-                                            &quot;enabled&quot;: false,
-                                            &quot;blurRadius&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 12.0
-                                            }
-                                          },
-                                          &quot;backgroundColor&quot;: {
-                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                            &quot;sitePaletteColor&quot;: {
-                                              &quot;colorName&quot;: &quot;white&quot;,
-                                              &quot;alphaModifier&quot;: 1.0
-                                            }
-                                          },
-                                          &quot;navigationColor&quot;: {
-                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                            &quot;sitePaletteColor&quot;: {
-                                              &quot;colorName&quot;: &quot;black&quot;,
-                                              &quot;alphaModifier&quot;: 1.0
-                                            }
-                                          }
-                                        },
-                                        &quot;gradientOptions&quot;: {
-                                          &quot;gradientType&quot;: &quot;faded&quot;,
-                                          &quot;headerOpacity&quot;: {
-                                            &quot;unit&quot;: &quot;%&quot;,
-                                            &quot;value&quot;: 90.0
-                                          },
-                                          &quot;border&quot;: {
-                                            &quot;enabled&quot;: false,
-                                            &quot;position&quot;: &quot;bottom&quot;,
-                                            &quot;thickness&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 4.0
-                                            },
-                                            &quot;color&quot;: {
-                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                              &quot;sitePaletteColor&quot;: {
-                                                &quot;colorName&quot;: &quot;black&quot;,
-                                                &quot;alphaModifier&quot;: 1.0
-                                              }
-                                            }
-                                          },
-                                          &quot;dropShadow&quot;: {
-                                            &quot;enabled&quot;: false,
-                                            &quot;blur&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 30.0
-                                            },
-                                            &quot;spread&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 0.0
-                                            },
-                                            &quot;distance&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 0.0
-                                            },
-                                            &quot;color&quot;: {
-                                              &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                              &quot;sitePaletteColor&quot;: {
-                                                &quot;colorName&quot;: &quot;black&quot;,
-                                                &quot;alphaModifier&quot;: 1.0
-                                              }
-                                            }
-                                          },
-                                          &quot;blurBackground&quot;: {
-                                            &quot;enabled&quot;: false,
-                                            &quot;blurRadius&quot;: {
-                                              &quot;unit&quot;: &quot;px&quot;,
-                                              &quot;value&quot;: 12.0
-                                            }
-                                          },
-                                          &quot;backgroundColor&quot;: {
-                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                            &quot;sitePaletteColor&quot;: {
-                                              &quot;colorName&quot;: &quot;white&quot;,
-                                              &quot;alphaModifier&quot;: 1.0
-                                            }
-                                          },
-                                          &quot;navigationColor&quot;: {
-                                            &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                            &quot;sitePaletteColor&quot;: {
-                                              &quot;colorName&quot;: &quot;black&quot;,
-                                              &quot;alphaModifier&quot;: 1.0
-                                            }
-                                          }
-                                        },
-                                        &quot;dropShadowOptions&quot;: {
-                                          &quot;enabled&quot;: false,
-                                          &quot;blur&quot;: {
-                                            &quot;unit&quot;: &quot;px&quot;,
-                                            &quot;value&quot;: 12.0
-                                          },
-                                          &quot;spread&quot;: {
-                                            &quot;unit&quot;: &quot;px&quot;,
-                                            &quot;value&quot;: 0.0
-                                          },
-                                          &quot;distance&quot;: {
-                                            &quot;unit&quot;: &quot;px&quot;,
-                                            &quot;value&quot;: 12.0
-                                          }
-                                        },
-                                        &quot;borderOptions&quot;: {
-                                          &quot;enabled&quot;: false,
-                                          &quot;position&quot;: &quot;bottom&quot;,
-                                          &quot;thickness&quot;: {
-                                            &quot;unit&quot;: &quot;px&quot;,
-                                            &quot;value&quot;: 4.0
-                                          }
-                                        },
-                                        &quot;showPromotedElement&quot;: false,
-                                        &quot;buttonVariant&quot;: &quot;primary&quot;,
-                                        &quot;blurBackground&quot;: {
-                                          &quot;enabled&quot;: false,
-                                          &quot;blurRadius&quot;: {
-                                            &quot;unit&quot;: &quot;px&quot;,
-                                            &quot;value&quot;: 12.0
-                                          }
-                                        },
-                                        &quot;headerOpacity&quot;: {
-                                          &quot;unit&quot;: &quot;%&quot;,
-                                          &quot;value&quot;: 100.0
-                                        }
-                                      }" data-section-id="overlay-nav" data-show-account-login="true" data-test="header-menu" style="padding-top: 106.344px;">
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/contact-us-3&quot;,
+&quot;buttonText&quot;: &quot;Enrol&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: false,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: true,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;theme&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+  &quot;sitePaletteColor&quot;: {
+    &quot;colorName&quot;: &quot;black&quot;,
+    &quot;alphaModifier&quot;: 1.0
+  }
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+  &quot;sitePaletteColor&quot;: {
+    &quot;colorName&quot;: &quot;black&quot;,
+    &quot;alphaModifier&quot;: 1.0
+  }
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+  &quot;sitePaletteColor&quot;: {
+    &quot;colorName&quot;: &quot;black&quot;,
+    &quot;alphaModifier&quot;: 1.0
+  }
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+  &quot;colorName&quot;: &quot;white&quot;,
+  &quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+  &quot;colorName&quot;: &quot;black&quot;,
+  &quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+  &quot;sitePaletteColor&quot;: {
+    &quot;colorName&quot;: &quot;black&quot;,
+    &quot;alphaModifier&quot;: 1.0
+  }
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+  &quot;sitePaletteColor&quot;: {
+    &quot;colorName&quot;: &quot;black&quot;,
+    &quot;alphaModifier&quot;: 1.0
+  }
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+  &quot;unit&quot;: &quot;px&quot;,
+  &quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+  &quot;colorName&quot;: &quot;white&quot;,
+  &quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+  &quot;colorName&quot;: &quot;black&quot;,
+  &quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;bottom&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}" data-section-id="overlay-nav" data-show-account-login="true" data-test="header-menu" style="padding-top: 106.344px;">
       <div class="header-menu-bg theme-bg--primary"></div>
       <div class="header-menu-nav">
         <nav class="header-menu-nav-list">
@@ -1348,77 +1348,77 @@
     
     
     black" data-section-id="6040cb6b122f3e7655fbe1b3" data-controller="SectionWrapperController" data-current-styles="{
-                                        &quot;backgroundImage&quot;: {
-                                          &quot;id&quot;: &quot;6078fd24d85c490108ab6ba7&quot;,
-                                          &quot;recordType&quot;: 2,
-                                          &quot;addedOn&quot;: 1618541860493,
-                                          &quot;updatedOn&quot;: 1618541893662,
-                                          &quot;workflowState&quot;: 1,
-                                          &quot;publishOn&quot;: 1618541860493,
-                                          &quot;authorId&quot;: &quot;5f7e8a0664e38c3f1d2863fe&quot;,
-                                          &quot;systemDataId&quot;: &quot;1618541882353-NIS7OTQKZOA95GT6JGT1&quot;,
-                                          &quot;systemDataVariants&quot;: &quot;2500x1666,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
-                                          &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
-                                          &quot;filename&quot;: &quot;29F7C543-FFFD-4F42-9DCF-7FF7F6580BA5 B.jpg&quot;,
-                                          &quot;mediaFocalPoint&quot;: {
-                                            &quot;x&quot;: 0.5034965034965035,
-                                            &quot;y&quot;: 0.26251025430680885,
-                                            &quot;source&quot;: 3
-                                          },
-                                          &quot;colorData&quot;: {
-                                            &quot;topLeftAverage&quot;: &quot;a7a393&quot;,
-                                            &quot;topRightAverage&quot;: &quot;6e7467&quot;,
-                                            &quot;bottomLeftAverage&quot;: &quot;19161c&quot;,
-                                            &quot;bottomRightAverage&quot;: &quot;0d0804&quot;,
-                                            &quot;centerAverage&quot;: &quot;878f93&quot;,
-                                            &quot;suggestedBgColor&quot;: &quot;beb7a7&quot;
-                                          },
-                                          &quot;urlId&quot;: &quot;pdicv92afr4axv8ikuhrsrkfeffrrl&quot;,
-                                          &quot;title&quot;: &quot;&quot;,
-                                          &quot;body&quot;: null,
-                                          &quot;likeCount&quot;: 0,
-                                          &quot;commentCount&quot;: 0,
-                                          &quot;publicCommentCount&quot;: 0,
-                                          &quot;commentState&quot;: 2,
-                                          &quot;unsaved&quot;: false,
-                                          &quot;author&quot;: {
-                                            &quot;id&quot;: &quot;5f7e8a0664e38c3f1d2863fe&quot;,
-                                            &quot;displayName&quot;: &quot;Kam SW&quot;,
-                                            &quot;firstName&quot;: &quot;Kam&quot;,
-                                            &quot;lastName&quot;: &quot;SW&quot;,
-                                            &quot;bio&quot;: &quot;&quot;
-                                          },
-                                          &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/602c8d3addc68d137ce0f7c7/1618541882353-NIS7OTQKZOA95GT6JGT1/29F7C543-FFFD-4F42-9DCF-7FF7F6580BA5+B.jpg&quot;,
-                                          &quot;contentType&quot;: &quot;image/jpeg&quot;,
-                                          &quot;items&quot;: [ ],
-                                          &quot;pushedServices&quot;: { },
-                                          &quot;pendingPushedServices&quot;: { },
-                                          &quot;recordTypeLabel&quot;: &quot;image&quot;,
-                                          &quot;originalSize&quot;: &quot;2500x1666&quot;
-                                        },
-                                        &quot;imageOverlayOpacity&quot;: 0.15,
-                                        &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                        &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
-                                        &quot;customSectionHeight&quot;: 81,
-                                        &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--left&quot;,
-                                        &quot;verticalAlignment&quot;: &quot;vertical-alignment--bottom&quot;,
-                                        &quot;contentWidth&quot;: &quot;content-width--medium&quot;,
-                                        &quot;sectionTheme&quot;: &quot;black&quot;,
-                                        &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                        &quot;backgroundMode&quot;: &quot;image&quot;
-                                      }" data-current-context="{
-                                        &quot;video&quot;: {
-                                          &quot;playbackSpeed&quot;: 0.5,
-                                          &quot;filter&quot;: 1,
-                                          &quot;filterStrength&quot;: 0,
-                                          &quot;zoom&quot;: 0,
-                                          &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                        },
-                                        &quot;backgroundImageId&quot;: null,
-                                        &quot;backgroundMediaEffect&quot;: null,
-                                        &quot;divider&quot;: null,
-                                        &quot;typeName&quot;: &quot;page&quot;
-                                      }" data-animation="none" style="min-height: 81vh; padding-top: 106.344px;" data-controllers-bound="SectionWrapperController" data-active="true">
+&quot;backgroundImage&quot;: {
+&quot;id&quot;: &quot;6078fd24d85c490108ab6ba7&quot;,
+&quot;recordType&quot;: 2,
+&quot;addedOn&quot;: 1618541860493,
+&quot;updatedOn&quot;: 1618541893662,
+&quot;workflowState&quot;: 1,
+&quot;publishOn&quot;: 1618541860493,
+&quot;authorId&quot;: &quot;5f7e8a0664e38c3f1d2863fe&quot;,
+&quot;systemDataId&quot;: &quot;1618541882353-NIS7OTQKZOA95GT6JGT1&quot;,
+&quot;systemDataVariants&quot;: &quot;2500x1666,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+&quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+&quot;filename&quot;: &quot;29F7C543-FFFD-4F42-9DCF-7FF7F6580BA5 B.jpg&quot;,
+&quot;mediaFocalPoint&quot;: {
+&quot;x&quot;: 0.5034965034965035,
+&quot;y&quot;: 0.26251025430680885,
+&quot;source&quot;: 3
+},
+&quot;colorData&quot;: {
+&quot;topLeftAverage&quot;: &quot;a7a393&quot;,
+&quot;topRightAverage&quot;: &quot;6e7467&quot;,
+&quot;bottomLeftAverage&quot;: &quot;19161c&quot;,
+&quot;bottomRightAverage&quot;: &quot;0d0804&quot;,
+&quot;centerAverage&quot;: &quot;878f93&quot;,
+&quot;suggestedBgColor&quot;: &quot;beb7a7&quot;
+},
+&quot;urlId&quot;: &quot;pdicv92afr4axv8ikuhrsrkfeffrrl&quot;,
+&quot;title&quot;: &quot;&quot;,
+&quot;body&quot;: null,
+&quot;likeCount&quot;: 0,
+&quot;commentCount&quot;: 0,
+&quot;publicCommentCount&quot;: 0,
+&quot;commentState&quot;: 2,
+&quot;unsaved&quot;: false,
+&quot;author&quot;: {
+&quot;id&quot;: &quot;5f7e8a0664e38c3f1d2863fe&quot;,
+&quot;displayName&quot;: &quot;Kam SW&quot;,
+&quot;firstName&quot;: &quot;Kam&quot;,
+&quot;lastName&quot;: &quot;SW&quot;,
+&quot;bio&quot;: &quot;&quot;
+},
+&quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/602c8d3addc68d137ce0f7c7/1618541882353-NIS7OTQKZOA95GT6JGT1/29F7C543-FFFD-4F42-9DCF-7FF7F6580BA5+B.jpg&quot;,
+&quot;contentType&quot;: &quot;image/jpeg&quot;,
+&quot;items&quot;: [ ],
+&quot;pushedServices&quot;: { },
+&quot;pendingPushedServices&quot;: { },
+&quot;recordTypeLabel&quot;: &quot;image&quot;,
+&quot;originalSize&quot;: &quot;2500x1666&quot;
+},
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+&quot;customSectionHeight&quot;: 81,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--left&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--bottom&quot;,
+&quot;contentWidth&quot;: &quot;content-width--medium&quot;,
+&quot;sectionTheme&quot;: &quot;black&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}" data-current-context="{
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;page&quot;
+}" data-animation="none" style="min-height: 81vh; padding-top: 106.344px;" data-controllers-bound="SectionWrapperController" data-active="true">
   <div class="section-border">
     <div class="section-background">
     
@@ -1523,28 +1523,28 @@
     
     
     " data-section-id="6040cb6b122f3e7655fbe1b9" data-controller="SectionWrapperController" data-current-styles="{
-                                        &quot;imageOverlayOpacity&quot;: 0.15,
-                                        &quot;backgroundWidth&quot;: &quot;background-width--inset&quot;,
-                                        &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
-                                        &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                        &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                        &quot;contentWidth&quot;: &quot;content-width--medium&quot;,
-                                        &quot;sectionTheme&quot;: &quot;&quot;,
-                                        &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                        &quot;backgroundMode&quot;: &quot;image&quot;
-                                      }" data-current-context="{
-                                        &quot;video&quot;: {
-                                          &quot;playbackSpeed&quot;: 0.5,
-                                          &quot;filter&quot;: 1,
-                                          &quot;filterStrength&quot;: 0,
-                                          &quot;zoom&quot;: 0,
-                                          &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                        },
-                                        &quot;backgroundImageId&quot;: null,
-                                        &quot;backgroundMediaEffect&quot;: null,
-                                        &quot;divider&quot;: null,
-                                        &quot;typeName&quot;: &quot;page&quot;
-                                      }" data-animation="none" data-controllers-bound="SectionWrapperController" data-active="true">
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--inset&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--medium&quot;,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}" data-current-context="{
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;page&quot;
+}" data-animation="none" data-controllers-bound="SectionWrapperController" data-active="true">
   <div class="section-border">
     <div class="section-background">
     
@@ -1597,7 +1597,7 @@
 
 </div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-a85290b4ac92b8afd8ad"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-a8f76317259ce602e9c2"><div class="sqs-block-content">
 
-  <script type="application/json" id="form-context-6040cb6b122f3e7655fbe1ad" class="sqs-form-block-context">{"secureUrl":"https://bagpipe-chinchilla-z3ce.squarespace.com","formSubmitButtonText":"Send","formSubmissionMessage":{"html":"Thank you!"},"submissionVerticalAlignment":"","buttonAlignment":"left","submissionMessageTextStyle":"","formName":"Teacher","collectionId":"6040cb6b122f3e7655fbe1b1","submissionAnimation":"","captchaTheme":1,"formId":"6040cb6b122f3e7655fbe1ad","useLightbox":false,"firstFieldHighlightType":"","successRedirect":"","useFormsJs":true,"submissionTextAlignment":"","formFieldFormats":{"initialPhoneFormat":{"id":0,"type":"PHONE_NUMBER","country":"SG","labelLocale":"en-US","fields":[{"type":"FIELD","label":"1","identifier":"1","length":4,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"2","identifier":"2","length":4,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"3","identifier":"3","length":12,"required":false,"metadata":{}}]},"initialAddressFormat":{"id":0,"type":"ADDRESS","country":"SG","labelLocale":"en","fields":[{"type":"FIELD","label":"Address Line 1","identifier":"Line1","length":0,"required":true,"metadata":{"autocomplete":"address-line1"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Address Line 2","identifier":"Line2","length":0,"required":false,"metadata":{"autocomplete":"address-line2"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Postal Code","identifier":"Zip","length":0,"required":true,"metadata":{"autocomplete":"postal-code"}}]},"countries":[{"name":"Afghanistan","code":"AF","phoneCode":"+93"},{"name":"Åland Islands","code":"AX","phoneCode":"+358"},{"name":"Albania","code":"AL","phoneCode":"+355"},{"name":"Algeria","code":"DZ","phoneCode":"+213"},{"name":"American Samoa","code":"AS","phoneCode":"+1"},{"name":"Andorra","code":"AD","phoneCode":"+376"},{"name":"Angola","code":"AO","phoneCode":"+244"},{"name":"Anguilla","code":"AI","phoneCode":"+1"},{"name":"Antigua & Barbuda","code":"AG","phoneCode":"+1"},{"name":"Argentina","code":"AR","phoneCode":"+54"},{"name":"Armenia","code":"AM","phoneCode":"+374"},{"name":"Aruba","code":"AW","phoneCode":"+297"},{"name":"Ascension Island","code":"AC","phoneCode":"+247"},{"name":"Australia","code":"AU","phoneCode":"+61"},{"name":"Austria","code":"AT","phoneCode":"+43"},{"name":"Azerbaijan","code":"AZ","phoneCode":"+994"},{"name":"Bahamas","code":"BS","phoneCode":"+1"},{"name":"Bahrain","code":"BH","phoneCode":"+973"},{"name":"Bangladesh","code":"BD","phoneCode":"+880"},{"name":"Barbados","code":"BB","phoneCode":"+1"},{"name":"Belarus","code":"BY","phoneCode":"+375"},{"name":"Belgium","code":"BE","phoneCode":"+32"},{"name":"Belize","code":"BZ","phoneCode":"+501"},{"name":"Benin","code":"BJ","phoneCode":"+229"},{"name":"Bermuda","code":"BM","phoneCode":"+1"},{"name":"Bhutan","code":"BT","phoneCode":"+975"},{"name":"Bolivia","code":"BO","phoneCode":"+591"},{"name":"Bosnia & Herzegovina","code":"BA","phoneCode":"+387"},{"name":"Botswana","code":"BW","phoneCode":"+267"},{"name":"Brazil","code":"BR","phoneCode":"+55"},{"name":"British Indian Ocean Territory","code":"IO","phoneCode":"+246"},{"name":"British Virgin Islands","code":"VG","phoneCode":"+1"},{"name":"Brunei","code":"BN","phoneCode":"+673"},{"name":"Bulgaria","code":"BG","phoneCode":"+359"},{"name":"Burkina Faso","code":"BF","phoneCode":"+226"},{"name":"Burundi","code":"BI","phoneCode":"+257"},{"name":"Cambodia","code":"KH","phoneCode":"+855"},{"name":"Cameroon","code":"CM","phoneCode":"+237"},{"name":"Canada","code":"CA","phoneCode":"+1"},{"name":"Cape Verde","code":"CV","phoneCode":"+238"},{"name":"Caribbean Netherlands","code":"BQ","phoneCode":"+599"},{"name":"Cayman Islands","code":"KY","phoneCode":"+1"},{"name":"Central African Republic","code":"CF","phoneCode":"+236"},{"name":"Chad","code":"TD","phoneCode":"+235"},{"name":"Chile","code":"CL","phoneCode":"+56"},{"name":"China","code":"CN","phoneCode":"+86"},{"name":"Christmas Island","code":"CX","phoneCode":"+61"},{"name":"Cocos (Keeling) Islands","code":"CC","phoneCode":"+61"},{"name":"Colombia","code":"CO","phoneCode":"+57"},{"name":"Comoros","code":"KM","phoneCode":"+269"},{"name":"Congo - Brazzaville","code":"CG","phoneCode":"+242"},{"name":"Congo - Kinshasa","code":"CD","phoneCode":"+243"},{"name":"Cook Islands","code":"CK","phoneCode":"+682"},{"name":"Costa Rica","code":"CR","phoneCode":"+506"},{"name":"Côte d’Ivoire","code":"CI","phoneCode":"+225"},{"name":"Croatia","code":"HR","phoneCode":"+385"},{"name":"Cuba","code":"CU","phoneCode":"+53"},{"name":"Curaçao","code":"CW","phoneCode":"+599"},{"name":"Cyprus","code":"CY","phoneCode":"+357"},{"name":"Czechia","code":"CZ","phoneCode":"+420"},{"name":"Denmark","code":"DK","phoneCode":"+45"},{"name":"Djibouti","code":"DJ","phoneCode":"+253"},{"name":"Dominica","code":"DM","phoneCode":"+1"},{"name":"Dominican Republic","code":"DO","phoneCode":"+1"},{"name":"Ecuador","code":"EC","phoneCode":"+593"},{"name":"Egypt","code":"EG","phoneCode":"+20"},{"name":"El Salvador","code":"SV","phoneCode":"+503"},{"name":"Equatorial Guinea","code":"GQ","phoneCode":"+240"},{"name":"Eritrea","code":"ER","phoneCode":"+291"},{"name":"Estonia","code":"EE","phoneCode":"+372"},{"name":"Eswatini","code":"SZ","phoneCode":"+268"},{"name":"Ethiopia","code":"ET","phoneCode":"+251"},{"name":"Falkland Islands","code":"FK","phoneCode":"+500"},{"name":"Faroe Islands","code":"FO","phoneCode":"+298"},{"name":"Fiji","code":"FJ","phoneCode":"+679"},{"name":"Finland","code":"FI","phoneCode":"+358"},{"name":"France","code":"FR","phoneCode":"+33"},{"name":"French Guiana","code":"GF","phoneCode":"+594"},{"name":"French Polynesia","code":"PF","phoneCode":"+689"},{"name":"Gabon","code":"GA","phoneCode":"+241"},{"name":"Gambia","code":"GM","phoneCode":"+220"},{"name":"Georgia","code":"GE","phoneCode":"+995"},{"name":"Germany","code":"DE","phoneCode":"+49"},{"name":"Ghana","code":"GH","phoneCode":"+233"},{"name":"Gibraltar","code":"GI","phoneCode":"+350"},{"name":"Greece","code":"GR","phoneCode":"+30"},{"name":"Greenland","code":"GL","phoneCode":"+299"},{"name":"Grenada","code":"GD","phoneCode":"+1"},{"name":"Guadeloupe","code":"GP","phoneCode":"+590"},{"name":"Guam","code":"GU","phoneCode":"+1"},{"name":"Guatemala","code":"GT","phoneCode":"+502"},{"name":"Guernsey","code":"GG","phoneCode":"+44"},{"name":"Guinea","code":"GN","phoneCode":"+224"},{"name":"Guinea-Bissau","code":"GW","phoneCode":"+245"},{"name":"Guyana","code":"GY","phoneCode":"+592"},{"name":"Haiti","code":"HT","phoneCode":"+509"},{"name":"Honduras","code":"HN","phoneCode":"+504"},{"name":"Hong Kong SAR China","code":"HK","phoneCode":"+852"},{"name":"Hungary","code":"HU","phoneCode":"+36"},{"name":"Iceland","code":"IS","phoneCode":"+354"},{"name":"India","code":"IN","phoneCode":"+91"},{"name":"Indonesia","code":"ID","phoneCode":"+62"},{"name":"Iran","code":"IR","phoneCode":"+98"},{"name":"Iraq","code":"IQ","phoneCode":"+964"},{"name":"Ireland","code":"IE","phoneCode":"+353"},{"name":"Isle of Man","code":"IM","phoneCode":"+44"},{"name":"Israel","code":"IL","phoneCode":"+972"},{"name":"Italy","code":"IT","phoneCode":"+39"},{"name":"Jamaica","code":"JM","phoneCode":"+1"},{"name":"Japan","code":"JP","phoneCode":"+81"},{"name":"Jersey","code":"JE","phoneCode":"+44"},{"name":"Jordan","code":"JO","phoneCode":"+962"},{"name":"Kazakhstan","code":"KZ","phoneCode":"+7"},{"name":"Kenya","code":"KE","phoneCode":"+254"},{"name":"Kiribati","code":"KI","phoneCode":"+686"},{"name":"Kosovo","code":"XK","phoneCode":"+383"},{"name":"Kuwait","code":"KW","phoneCode":"+965"},{"name":"Kyrgyzstan","code":"KG","phoneCode":"+996"},{"name":"Laos","code":"LA","phoneCode":"+856"},{"name":"Latvia","code":"LV","phoneCode":"+371"},{"name":"Lebanon","code":"LB","phoneCode":"+961"},{"name":"Lesotho","code":"LS","phoneCode":"+266"},{"name":"Liberia","code":"LR","phoneCode":"+231"},{"name":"Libya","code":"LY","phoneCode":"+218"},{"name":"Liechtenstein","code":"LI","phoneCode":"+423"},{"name":"Lithuania","code":"LT","phoneCode":"+370"},{"name":"Luxembourg","code":"LU","phoneCode":"+352"},{"name":"Macao SAR China","code":"MO","phoneCode":"+853"},{"name":"Madagascar","code":"MG","phoneCode":"+261"},{"name":"Malawi","code":"MW","phoneCode":"+265"},{"name":"Malaysia","code":"MY","phoneCode":"+60"},{"name":"Maldives","code":"MV","phoneCode":"+960"},{"name":"Mali","code":"ML","phoneCode":"+223"},{"name":"Malta","code":"MT","phoneCode":"+356"},{"name":"Marshall Islands","code":"MH","phoneCode":"+692"},{"name":"Martinique","code":"MQ","phoneCode":"+596"},{"name":"Mauritania","code":"MR","phoneCode":"+222"},{"name":"Mauritius","code":"MU","phoneCode":"+230"},{"name":"Mayotte","code":"YT","phoneCode":"+262"},{"name":"Mexico","code":"MX","phoneCode":"+52"},{"name":"Micronesia","code":"FM","phoneCode":"+691"},{"name":"Moldova","code":"MD","phoneCode":"+373"},{"name":"Monaco","code":"MC","phoneCode":"+377"},{"name":"Mongolia","code":"MN","phoneCode":"+976"},{"name":"Montenegro","code":"ME","phoneCode":"+382"},{"name":"Montserrat","code":"MS","phoneCode":"+1"},{"name":"Morocco","code":"MA","phoneCode":"+212"},{"name":"Mozambique","code":"MZ","phoneCode":"+258"},{"name":"Myanmar (Burma)","code":"MM","phoneCode":"+95"},{"name":"Namibia","code":"NA","phoneCode":"+264"},{"name":"Nauru","code":"NR","phoneCode":"+674"},{"name":"Nepal","code":"NP","phoneCode":"+977"},{"name":"Netherlands","code":"NL","phoneCode":"+31"},{"name":"New Caledonia","code":"NC","phoneCode":"+687"},{"name":"New Zealand","code":"NZ","phoneCode":"+64"},{"name":"Nicaragua","code":"NI","phoneCode":"+505"},{"name":"Niger","code":"NE","phoneCode":"+227"},{"name":"Nigeria","code":"NG","phoneCode":"+234"},{"name":"Niue","code":"NU","phoneCode":"+683"},{"name":"Norfolk Island","code":"NF","phoneCode":"+672"},{"name":"Northern Mariana Islands","code":"MP","phoneCode":"+1"},{"name":"North Korea","code":"KP","phoneCode":"+850"},{"name":"North Macedonia","code":"MK","phoneCode":"+389"},{"name":"Norway","code":"NO","phoneCode":"+47"},{"name":"Oman","code":"OM","phoneCode":"+968"},{"name":"Pakistan","code":"PK","phoneCode":"+92"},{"name":"Palau","code":"PW","phoneCode":"+680"},{"name":"Palestinian Territories","code":"PS","phoneCode":"+970"},{"name":"Panama","code":"PA","phoneCode":"+507"},{"name":"Papua New Guinea","code":"PG","phoneCode":"+675"},{"name":"Paraguay","code":"PY","phoneCode":"+595"},{"name":"Peru","code":"PE","phoneCode":"+51"},{"name":"Philippines","code":"PH","phoneCode":"+63"},{"name":"Poland","code":"PL","phoneCode":"+48"},{"name":"Portugal","code":"PT","phoneCode":"+351"},{"name":"Puerto Rico","code":"PR","phoneCode":"+1"},{"name":"Qatar","code":"QA","phoneCode":"+974"},{"name":"Réunion","code":"RE","phoneCode":"+262"},{"name":"Romania","code":"RO","phoneCode":"+40"},{"name":"Russia","code":"RU","phoneCode":"+7"},{"name":"Rwanda","code":"RW","phoneCode":"+250"},{"name":"Samoa","code":"WS","phoneCode":"+685"},{"name":"San Marino","code":"SM","phoneCode":"+378"},{"name":"São Tomé & Príncipe","code":"ST","phoneCode":"+239"},{"name":"Saudi Arabia","code":"SA","phoneCode":"+966"},{"name":"Senegal","code":"SN","phoneCode":"+221"},{"name":"Serbia","code":"RS","phoneCode":"+381"},{"name":"Seychelles","code":"SC","phoneCode":"+248"},{"name":"Sierra Leone","code":"SL","phoneCode":"+232"},{"name":"Singapore","code":"SG","phoneCode":"+65"},{"name":"Sint Maarten","code":"SX","phoneCode":"+1"},{"name":"Slovakia","code":"SK","phoneCode":"+421"},{"name":"Slovenia","code":"SI","phoneCode":"+386"},{"name":"Solomon Islands","code":"SB","phoneCode":"+677"},{"name":"Somalia","code":"SO","phoneCode":"+252"},{"name":"South Africa","code":"ZA","phoneCode":"+27"},{"name":"South Korea","code":"KR","phoneCode":"+82"},{"name":"South Sudan","code":"SS","phoneCode":"+211"},{"name":"Spain","code":"ES","phoneCode":"+34"},{"name":"Sri Lanka","code":"LK","phoneCode":"+94"},{"name":"St. Barthélemy","code":"BL","phoneCode":"+590"},{"name":"St. Helena","code":"SH","phoneCode":"+290"},{"name":"St. Kitts & Nevis","code":"KN","phoneCode":"+1"},{"name":"St. Lucia","code":"LC","phoneCode":"+1"},{"name":"St. Martin","code":"MF","phoneCode":"+590"},{"name":"St. Pierre & Miquelon","code":"PM","phoneCode":"+508"},{"name":"St. Vincent & Grenadines","code":"VC","phoneCode":"+1"},{"name":"Sudan","code":"SD","phoneCode":"+249"},{"name":"Suriname","code":"SR","phoneCode":"+597"},{"name":"Svalbard & Jan Mayen","code":"SJ","phoneCode":"+47"},{"name":"Sweden","code":"SE","phoneCode":"+46"},{"name":"Switzerland","code":"CH","phoneCode":"+41"},{"name":"Syria","code":"SY","phoneCode":"+963"},{"name":"Taiwan","code":"TW","phoneCode":"+886"},{"name":"Tajikistan","code":"TJ","phoneCode":"+992"},{"name":"Tanzania","code":"TZ","phoneCode":"+255"},{"name":"Thailand","code":"TH","phoneCode":"+66"},{"name":"Timor-Leste","code":"TL","phoneCode":"+670"},{"name":"Togo","code":"TG","phoneCode":"+228"},{"name":"Tokelau","code":"TK","phoneCode":"+690"},{"name":"Tonga","code":"TO","phoneCode":"+676"},{"name":"Trinidad & Tobago","code":"TT","phoneCode":"+1"},{"name":"Tristan da Cunha","code":"TA","phoneCode":"+290"},{"name":"Tunisia","code":"TN","phoneCode":"+216"},{"name":"Turkey","code":"TR","phoneCode":"+90"},{"name":"Turkmenistan","code":"TM","phoneCode":"+993"},{"name":"Turks & Caicos Islands","code":"TC","phoneCode":"+1"},{"name":"Tuvalu","code":"TV","phoneCode":"+688"},{"name":"U.S. Virgin Islands","code":"VI","phoneCode":"+1"},{"name":"Uganda","code":"UG","phoneCode":"+256"},{"name":"Ukraine","code":"UA","phoneCode":"+380"},{"name":"United Arab Emirates","code":"AE","phoneCode":"+971"},{"name":"United Kingdom","code":"GB","phoneCode":"+44"},{"name":"United States","code":"US","phoneCode":"+1"},{"name":"Uruguay","code":"UY","phoneCode":"+598"},{"name":"Uzbekistan","code":"UZ","phoneCode":"+998"},{"name":"Vanuatu","code":"VU","phoneCode":"+678"},{"name":"Vatican City","code":"VA","phoneCode":"+39"},{"name":"Venezuela","code":"VE","phoneCode":"+58"},{"name":"Vietnam","code":"VN","phoneCode":"+84"},{"name":"Wallis & Futuna","code":"WF","phoneCode":"+681"},{"name":"Western Sahara","code":"EH","phoneCode":"+212"},{"name":"Yemen","code":"YE","phoneCode":"+967"},{"name":"Zambia","code":"ZM","phoneCode":"+260"},{"name":"Zimbabwe","code":"ZW","phoneCode":"+263"}]},"showTitle":false,"captchaEnabled":false,"buttonVariant":"","objectName":"page-section-6040cb6b122f3e7655fbe1b9","disclaimerMessage":null,"formFields":[{"type":"name","id":"name-yui_3_17_2_1_1553888888520_3744","locked":false,"title":"Name as in NRIC","description":"","required":true,"name":true},{"required":false,"locked":false,"description":"","id":"text-b253d73e-f63e-4c73-a256-16b6e56f3f4f","text":true,"type":"text","placeholder":"","title":"NRIC No. (last 4 digit)"},{"required":false,"locked":false,"description":"","id":"phone-e7842a80-71c2-4806-9b2a-5c168b0afd05","phone":true,"type":"phone","showCountryCode":false,"title":"Contact No."},{"type":"email","id":"email-yui_3_17_2_1_1553888888520_3745","locked":false,"title":"Email","description":"","placeholder":"","required":true,"email":true},{"required":false,"locked":false,"description":"","id":"number-54ada6f3-26f8-4334-ab85-4b2c4395380e","number":true,"type":"number","placeholder":"","title":"Age"},{"required":false,"locked":false,"description":"","id":"text-0e4387a1-3385-4ea6-904a-d351f9e64a55","text":true,"type":"text","placeholder":"","title":"Your Religion"},{"required":false,"locked":false,"description":"","id":"text-7d63615a-e0ee-469b-8806-38bd9f8cd2ad","text":true,"type":"text","placeholder":"","title":"Name of Religious Organisation you belong to (if any)"},{"required":false,"locked":false,"description":"","id":"select-366c4915-0f1b-4457-aee8-d4849d1f87ac","select":true,"type":"select","options":["English Teacher","Chinese Teacher","Assistant Teacher","Admin","Cook","Cleaner"],"title":"Position"},{"required":false,"locked":false,"description":"","id":"text-ff4c4142-5ad1-476c-ad73-b88b908cd049","text":true,"type":"text","placeholder":"","title":"Place of Current Employment"},{"required":false,"locked":false,"description":"","id":"text-08bf55fe-6093-4609-9216-b528bf5225ba","text":true,"type":"text","placeholder":"","title":"No. of Years of Experience in Preschools"},{"required":false,"locked":false,"description":"","id":"text-c21071c7-050e-42ce-a1fb-9f9fdc5ad02a","text":true,"type":"text","placeholder":"","title":"Year Graduated from ECD Course (if any)"},{"required":false,"locked":false,"description":"","id":"text-0f927858-766f-4a2c-8649-75485e59213b","text":true,"type":"text","placeholder":"","title":"Reasons for Leaving Current Place of Employment"},{"required":false,"locked":false,"description":"","id":"text-c14b5156-bf95-4974-ad3e-e41d6e505d53","text":true,"type":"text","placeholder":"","title":"Message"},{"required":false,"locked":false,"description":"","id":"select-9f41004a-4fba-4604-88fb-77f761443682","select":true,"type":"select","options":["No","Yes"],"title":"Have you been convicted or charged for any crime or offence in the court of law in Singapore or overseas?"},{"required":false,"locked":false,"description":"","id":"checkbox-0bde718a-396f-4df7-bf87-cfdc1c9f15b7","checkbox":true,"type":"checkbox","options":[" The confidentiality of your personal data is important to us. By submitting this form, you consent to the collection, use and/or disclosure of your personal data (which includes subsequent correspondences with Shalom Kindergarten) by Shalom Kindergarten for purposes that Shalom Kindergarten deems necessary for the subject matter. Please read our data protection policy, including how you may update your personal data or the degree of consent. through submitting this form, you also declare that the information provided is true to the best of your knowledge and there is no ill or dishonest intent."],"title":"Privacy Policy Agreement and Declaration"}],"captchaAlignment":1,"lightboxHandleText":"","localizedStrings":{"validation":{"noValidSelection":"A valid selection must be made.","invalidEmail":"Email addresses should follow the format user@domain.com.","invalidUrl":"Must be a valid URL.","invalidListLength":"Value should be {0} elements long.","allEmpty":"Please fill out at least one form field.","stringTooLong":"Value should have a length no longer than {0}.","missingRequiredQuestion":"Missing a required question.","invalidQuestion":"Contained an invalid question.","captchaFailure":"Captcha validation failed. Please try again.","containsInvalidKey":"{0} contains an invalid key.","stringTooShort":"Value should have a length of at least {0}.","invalidTwitterUsername":"Must be a valid Twitter username.","valueOutsideRange":"Value must be in the range {0} to {1}.","invalid":"{0} is not valid.","invalidPassword":"Passwords should not contain whitespace.","missingRequiredSubfields":"{0} is missing required subfields: {1}","invalidCurrency":"Currency value should be formatted like 1234 or 123.99.","invalidMapSize":"Value should contain exactly {0} elements.","formErrors":"Form Errors","containsInvalidValue":"{0} contains an invalid value.","subfieldsRequired":"All fields in {0} are required.","formSubmissionFailed":"Form submission failed. Review the following information: {0}.","invalidCountryCode":"Country code should have an optional plus and up to 4 digits.","invalidUnsignedNumber":"Numbers must contain only digits and no other characters.","invalidName":"Valid names contain only letters, numbers, spaces, ', or - characters.","invalidDate":"This is not a real date.","required":"{0} is required.","invalidStringLength":"Value should be {0} characters long."},"submit":"Submit","status":{"title":"{@} Block","learnMore":"Learn more"},"name":{"firstName":"First Name","lastName":"Last Name"},"address":{"country":"Country","zipPostalCode":"Zip/Postal Code","address2":"Address 2","address1":"Address 1","city":"City","stateProvince":"State/Province"},"lightbox":{"openForm":"Open Form"},"date":{"day":"Day","month":"Month","yyyy":"YYYY","year":"Year","dd":"DD","mm":"MM"},"likert":{"agree":"Agree","disagree":"Disagree","stronglyDisagree":"Strongly Disagree","stronglyAgree":"Strongly Agree","neutral":"Neutral"},"time":{"am":"AM","second":"Second","amPm":"AM/PM","pm":"PM","minute":"Minute","hour":"Hour"},"email":{"signUp":"Sign up for news and updates"},"cannotSubmitDemoForm":"This is a demo form and cannot be submitted.","notFound":"Form not found.","phone":{"country":"Country","number":"Number","prefix":"Prefix","areaCode":"Area Code","line":"Line"},"required":"(required)","submitError":"Unable to submit form. Please try again later.","invalidData":"Invalid form data."}}</script>
+  <script type="application/json" id="form-context-6040cb6b122f3e7655fbe1ad" class="sqs-form-block-context">{"secureUrl":"https://bagpipe-chinchilla-z3ce.squarespace.com","formSubmitButtonText":"Send","formSubmissionMessage":{"html":"Thank you!"},"submissionVerticalAlignment":"","buttonAlignment":"left","submissionMessageTextStyle":"","formName":"Teacher","collectionId":"6040cb6b122f3e7655fbe1b1","submissionAnimation":"","captchaTheme":1,"formId":"6040cb6b122f3e7655fbe1ad","useLightbox":false,"firstFieldHighlightType":"","successRedirect":"","useFormsJs":true,"submissionTextAlignment":"","formFieldFormats":{"initialAddressFormat":{"id":0,"type":"ADDRESS","country":"SG","labelLocale":"en","fields":[{"type":"FIELD","label":"Address Line 1","identifier":"Line1","length":0,"required":true,"metadata":{"autocomplete":"address-line1"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Address Line 2","identifier":"Line2","length":0,"required":false,"metadata":{"autocomplete":"address-line2"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Postal Code","identifier":"Zip","length":0,"required":true,"metadata":{"autocomplete":"postal-code"}}]},"countries":[{"name":"Afghanistan","code":"AF","phoneCode":"+93"},{"name":"Åland Islands","code":"AX","phoneCode":"+358"},{"name":"Albania","code":"AL","phoneCode":"+355"},{"name":"Algeria","code":"DZ","phoneCode":"+213"},{"name":"American Samoa","code":"AS","phoneCode":"+1"},{"name":"Andorra","code":"AD","phoneCode":"+376"},{"name":"Angola","code":"AO","phoneCode":"+244"},{"name":"Anguilla","code":"AI","phoneCode":"+1"},{"name":"Antigua & Barbuda","code":"AG","phoneCode":"+1"},{"name":"Argentina","code":"AR","phoneCode":"+54"},{"name":"Armenia","code":"AM","phoneCode":"+374"},{"name":"Aruba","code":"AW","phoneCode":"+297"},{"name":"Ascension Island","code":"AC","phoneCode":"+247"},{"name":"Australia","code":"AU","phoneCode":"+61"},{"name":"Austria","code":"AT","phoneCode":"+43"},{"name":"Azerbaijan","code":"AZ","phoneCode":"+994"},{"name":"Bahamas","code":"BS","phoneCode":"+1"},{"name":"Bahrain","code":"BH","phoneCode":"+973"},{"name":"Bangladesh","code":"BD","phoneCode":"+880"},{"name":"Barbados","code":"BB","phoneCode":"+1"},{"name":"Belarus","code":"BY","phoneCode":"+375"},{"name":"Belgium","code":"BE","phoneCode":"+32"},{"name":"Belize","code":"BZ","phoneCode":"+501"},{"name":"Benin","code":"BJ","phoneCode":"+229"},{"name":"Bermuda","code":"BM","phoneCode":"+1"},{"name":"Bhutan","code":"BT","phoneCode":"+975"},{"name":"Bolivia","code":"BO","phoneCode":"+591"},{"name":"Bosnia & Herzegovina","code":"BA","phoneCode":"+387"},{"name":"Botswana","code":"BW","phoneCode":"+267"},{"name":"Brazil","code":"BR","phoneCode":"+55"},{"name":"British Indian Ocean Territory","code":"IO","phoneCode":"+246"},{"name":"British Virgin Islands","code":"VG","phoneCode":"+1"},{"name":"Brunei","code":"BN","phoneCode":"+673"},{"name":"Bulgaria","code":"BG","phoneCode":"+359"},{"name":"Burkina Faso","code":"BF","phoneCode":"+226"},{"name":"Burundi","code":"BI","phoneCode":"+257"},{"name":"Cambodia","code":"KH","phoneCode":"+855"},{"name":"Cameroon","code":"CM","phoneCode":"+237"},{"name":"Canada","code":"CA","phoneCode":"+1"},{"name":"Cape Verde","code":"CV","phoneCode":"+238"},{"name":"Caribbean Netherlands","code":"BQ","phoneCode":"+599"},{"name":"Cayman Islands","code":"KY","phoneCode":"+1"},{"name":"Central African Republic","code":"CF","phoneCode":"+236"},{"name":"Chad","code":"TD","phoneCode":"+235"},{"name":"Chile","code":"CL","phoneCode":"+56"},{"name":"China","code":"CN","phoneCode":"+86"},{"name":"Christmas Island","code":"CX","phoneCode":"+61"},{"name":"Cocos (Keeling) Islands","code":"CC","phoneCode":"+61"},{"name":"Colombia","code":"CO","phoneCode":"+57"},{"name":"Comoros","code":"KM","phoneCode":"+269"},{"name":"Congo - Brazzaville","code":"CG","phoneCode":"+242"},{"name":"Congo - Kinshasa","code":"CD","phoneCode":"+243"},{"name":"Cook Islands","code":"CK","phoneCode":"+682"},{"name":"Costa Rica","code":"CR","phoneCode":"+506"},{"name":"Côte d’Ivoire","code":"CI","phoneCode":"+225"},{"name":"Croatia","code":"HR","phoneCode":"+385"},{"name":"Cuba","code":"CU","phoneCode":"+53"},{"name":"Curaçao","code":"CW","phoneCode":"+599"},{"name":"Cyprus","code":"CY","phoneCode":"+357"},{"name":"Czechia","code":"CZ","phoneCode":"+420"},{"name":"Denmark","code":"DK","phoneCode":"+45"},{"name":"Djibouti","code":"DJ","phoneCode":"+253"},{"name":"Dominica","code":"DM","phoneCode":"+1"},{"name":"Dominican Republic","code":"DO","phoneCode":"+1"},{"name":"Ecuador","code":"EC","phoneCode":"+593"},{"name":"Egypt","code":"EG","phoneCode":"+20"},{"name":"El Salvador","code":"SV","phoneCode":"+503"},{"name":"Equatorial Guinea","code":"GQ","phoneCode":"+240"},{"name":"Eritrea","code":"ER","phoneCode":"+291"},{"name":"Estonia","code":"EE","phoneCode":"+372"},{"name":"Eswatini","code":"SZ","phoneCode":"+268"},{"name":"Ethiopia","code":"ET","phoneCode":"+251"},{"name":"Falkland Islands","code":"FK","phoneCode":"+500"},{"name":"Faroe Islands","code":"FO","phoneCode":"+298"},{"name":"Fiji","code":"FJ","phoneCode":"+679"},{"name":"Finland","code":"FI","phoneCode":"+358"},{"name":"France","code":"FR","phoneCode":"+33"},{"name":"French Guiana","code":"GF","phoneCode":"+594"},{"name":"French Polynesia","code":"PF","phoneCode":"+689"},{"name":"Gabon","code":"GA","phoneCode":"+241"},{"name":"Gambia","code":"GM","phoneCode":"+220"},{"name":"Georgia","code":"GE","phoneCode":"+995"},{"name":"Germany","code":"DE","phoneCode":"+49"},{"name":"Ghana","code":"GH","phoneCode":"+233"},{"name":"Gibraltar","code":"GI","phoneCode":"+350"},{"name":"Greece","code":"GR","phoneCode":"+30"},{"name":"Greenland","code":"GL","phoneCode":"+299"},{"name":"Grenada","code":"GD","phoneCode":"+1"},{"name":"Guadeloupe","code":"GP","phoneCode":"+590"},{"name":"Guam","code":"GU","phoneCode":"+1"},{"name":"Guatemala","code":"GT","phoneCode":"+502"},{"name":"Guernsey","code":"GG","phoneCode":"+44"},{"name":"Guinea","code":"GN","phoneCode":"+224"},{"name":"Guinea-Bissau","code":"GW","phoneCode":"+245"},{"name":"Guyana","code":"GY","phoneCode":"+592"},{"name":"Haiti","code":"HT","phoneCode":"+509"},{"name":"Honduras","code":"HN","phoneCode":"+504"},{"name":"Hong Kong SAR China","code":"HK","phoneCode":"+852"},{"name":"Hungary","code":"HU","phoneCode":"+36"},{"name":"Iceland","code":"IS","phoneCode":"+354"},{"name":"India","code":"IN","phoneCode":"+91"},{"name":"Indonesia","code":"ID","phoneCode":"+62"},{"name":"Iran","code":"IR","phoneCode":"+98"},{"name":"Iraq","code":"IQ","phoneCode":"+964"},{"name":"Ireland","code":"IE","phoneCode":"+353"},{"name":"Isle of Man","code":"IM","phoneCode":"+44"},{"name":"Israel","code":"IL","phoneCode":"+972"},{"name":"Italy","code":"IT","phoneCode":"+39"},{"name":"Jamaica","code":"JM","phoneCode":"+1"},{"name":"Japan","code":"JP","phoneCode":"+81"},{"name":"Jersey","code":"JE","phoneCode":"+44"},{"name":"Jordan","code":"JO","phoneCode":"+962"},{"name":"Kazakhstan","code":"KZ","phoneCode":"+7"},{"name":"Kenya","code":"KE","phoneCode":"+254"},{"name":"Kiribati","code":"KI","phoneCode":"+686"},{"name":"Kosovo","code":"XK","phoneCode":"+383"},{"name":"Kuwait","code":"KW","phoneCode":"+965"},{"name":"Kyrgyzstan","code":"KG","phoneCode":"+996"},{"name":"Laos","code":"LA","phoneCode":"+856"},{"name":"Latvia","code":"LV","phoneCode":"+371"},{"name":"Lebanon","code":"LB","phoneCode":"+961"},{"name":"Lesotho","code":"LS","phoneCode":"+266"},{"name":"Liberia","code":"LR","phoneCode":"+231"},{"name":"Libya","code":"LY","phoneCode":"+218"},{"name":"Liechtenstein","code":"LI","phoneCode":"+423"},{"name":"Lithuania","code":"LT","phoneCode":"+370"},{"name":"Luxembourg","code":"LU","phoneCode":"+352"},{"name":"Macao SAR China","code":"MO","phoneCode":"+853"},{"name":"Madagascar","code":"MG","phoneCode":"+261"},{"name":"Malawi","code":"MW","phoneCode":"+265"},{"name":"Malaysia","code":"MY","phoneCode":"+60"},{"name":"Maldives","code":"MV","phoneCode":"+960"},{"name":"Mali","code":"ML","phoneCode":"+223"},{"name":"Malta","code":"MT","phoneCode":"+356"},{"name":"Marshall Islands","code":"MH","phoneCode":"+692"},{"name":"Martinique","code":"MQ","phoneCode":"+596"},{"name":"Mauritania","code":"MR","phoneCode":"+222"},{"name":"Mauritius","code":"MU","phoneCode":"+230"},{"name":"Mayotte","code":"YT","phoneCode":"+262"},{"name":"Mexico","code":"MX","phoneCode":"+52"},{"name":"Micronesia","code":"FM","phoneCode":"+691"},{"name":"Moldova","code":"MD","phoneCode":"+373"},{"name":"Monaco","code":"MC","phoneCode":"+377"},{"name":"Mongolia","code":"MN","phoneCode":"+976"},{"name":"Montenegro","code":"ME","phoneCode":"+382"},{"name":"Montserrat","code":"MS","phoneCode":"+1"},{"name":"Morocco","code":"MA","phoneCode":"+212"},{"name":"Mozambique","code":"MZ","phoneCode":"+258"},{"name":"Myanmar (Burma)","code":"MM","phoneCode":"+95"},{"name":"Namibia","code":"NA","phoneCode":"+264"},{"name":"Nauru","code":"NR","phoneCode":"+674"},{"name":"Nepal","code":"NP","phoneCode":"+977"},{"name":"Netherlands","code":"NL","phoneCode":"+31"},{"name":"New Caledonia","code":"NC","phoneCode":"+687"},{"name":"New Zealand","code":"NZ","phoneCode":"+64"},{"name":"Nicaragua","code":"NI","phoneCode":"+505"},{"name":"Niger","code":"NE","phoneCode":"+227"},{"name":"Nigeria","code":"NG","phoneCode":"+234"},{"name":"Niue","code":"NU","phoneCode":"+683"},{"name":"Norfolk Island","code":"NF","phoneCode":"+672"},{"name":"Northern Mariana Islands","code":"MP","phoneCode":"+1"},{"name":"North Korea","code":"KP","phoneCode":"+850"},{"name":"North Macedonia","code":"MK","phoneCode":"+389"},{"name":"Norway","code":"NO","phoneCode":"+47"},{"name":"Oman","code":"OM","phoneCode":"+968"},{"name":"Pakistan","code":"PK","phoneCode":"+92"},{"name":"Palau","code":"PW","phoneCode":"+680"},{"name":"Palestinian Territories","code":"PS","phoneCode":"+970"},{"name":"Panama","code":"PA","phoneCode":"+507"},{"name":"Papua New Guinea","code":"PG","phoneCode":"+675"},{"name":"Paraguay","code":"PY","phoneCode":"+595"},{"name":"Peru","code":"PE","phoneCode":"+51"},{"name":"Philippines","code":"PH","phoneCode":"+63"},{"name":"Poland","code":"PL","phoneCode":"+48"},{"name":"Portugal","code":"PT","phoneCode":"+351"},{"name":"Puerto Rico","code":"PR","phoneCode":"+1"},{"name":"Qatar","code":"QA","phoneCode":"+974"},{"name":"Réunion","code":"RE","phoneCode":"+262"},{"name":"Romania","code":"RO","phoneCode":"+40"},{"name":"Russia","code":"RU","phoneCode":"+7"},{"name":"Rwanda","code":"RW","phoneCode":"+250"},{"name":"Samoa","code":"WS","phoneCode":"+685"},{"name":"San Marino","code":"SM","phoneCode":"+378"},{"name":"São Tomé & Príncipe","code":"ST","phoneCode":"+239"},{"name":"Saudi Arabia","code":"SA","phoneCode":"+966"},{"name":"Senegal","code":"SN","phoneCode":"+221"},{"name":"Serbia","code":"RS","phoneCode":"+381"},{"name":"Seychelles","code":"SC","phoneCode":"+248"},{"name":"Sierra Leone","code":"SL","phoneCode":"+232"},{"name":"Singapore","code":"SG","phoneCode":"+65"},{"name":"Sint Maarten","code":"SX","phoneCode":"+1"},{"name":"Slovakia","code":"SK","phoneCode":"+421"},{"name":"Slovenia","code":"SI","phoneCode":"+386"},{"name":"Solomon Islands","code":"SB","phoneCode":"+677"},{"name":"Somalia","code":"SO","phoneCode":"+252"},{"name":"South Africa","code":"ZA","phoneCode":"+27"},{"name":"South Korea","code":"KR","phoneCode":"+82"},{"name":"South Sudan","code":"SS","phoneCode":"+211"},{"name":"Spain","code":"ES","phoneCode":"+34"},{"name":"Sri Lanka","code":"LK","phoneCode":"+94"},{"name":"St. Barthélemy","code":"BL","phoneCode":"+590"},{"name":"St. Helena","code":"SH","phoneCode":"+290"},{"name":"St. Kitts & Nevis","code":"KN","phoneCode":"+1"},{"name":"St. Lucia","code":"LC","phoneCode":"+1"},{"name":"St. Martin","code":"MF","phoneCode":"+590"},{"name":"St. Pierre & Miquelon","code":"PM","phoneCode":"+508"},{"name":"St. Vincent & Grenadines","code":"VC","phoneCode":"+1"},{"name":"Sudan","code":"SD","phoneCode":"+249"},{"name":"Suriname","code":"SR","phoneCode":"+597"},{"name":"Svalbard & Jan Mayen","code":"SJ","phoneCode":"+47"},{"name":"Sweden","code":"SE","phoneCode":"+46"},{"name":"Switzerland","code":"CH","phoneCode":"+41"},{"name":"Syria","code":"SY","phoneCode":"+963"},{"name":"Taiwan","code":"TW","phoneCode":"+886"},{"name":"Tajikistan","code":"TJ","phoneCode":"+992"},{"name":"Tanzania","code":"TZ","phoneCode":"+255"},{"name":"Thailand","code":"TH","phoneCode":"+66"},{"name":"Timor-Leste","code":"TL","phoneCode":"+670"},{"name":"Togo","code":"TG","phoneCode":"+228"},{"name":"Tokelau","code":"TK","phoneCode":"+690"},{"name":"Tonga","code":"TO","phoneCode":"+676"},{"name":"Trinidad & Tobago","code":"TT","phoneCode":"+1"},{"name":"Tristan da Cunha","code":"TA","phoneCode":"+290"},{"name":"Tunisia","code":"TN","phoneCode":"+216"},{"name":"Turkey","code":"TR","phoneCode":"+90"},{"name":"Turkmenistan","code":"TM","phoneCode":"+993"},{"name":"Turks & Caicos Islands","code":"TC","phoneCode":"+1"},{"name":"Tuvalu","code":"TV","phoneCode":"+688"},{"name":"U.S. Virgin Islands","code":"VI","phoneCode":"+1"},{"name":"Uganda","code":"UG","phoneCode":"+256"},{"name":"Ukraine","code":"UA","phoneCode":"+380"},{"name":"United Arab Emirates","code":"AE","phoneCode":"+971"},{"name":"United Kingdom","code":"GB","phoneCode":"+44"},{"name":"United States","code":"US","phoneCode":"+1"},{"name":"Uruguay","code":"UY","phoneCode":"+598"},{"name":"Uzbekistan","code":"UZ","phoneCode":"+998"},{"name":"Vanuatu","code":"VU","phoneCode":"+678"},{"name":"Vatican City","code":"VA","phoneCode":"+39"},{"name":"Venezuela","code":"VE","phoneCode":"+58"},{"name":"Vietnam","code":"VN","phoneCode":"+84"},{"name":"Wallis & Futuna","code":"WF","phoneCode":"+681"},{"name":"Western Sahara","code":"EH","phoneCode":"+212"},{"name":"Yemen","code":"YE","phoneCode":"+967"},{"name":"Zambia","code":"ZM","phoneCode":"+260"},{"name":"Zimbabwe","code":"ZW","phoneCode":"+263"}],"initialPhoneFormat":{"id":0,"type":"PHONE_NUMBER","country":"SG","labelLocale":"en-US","fields":[{"type":"FIELD","label":"1","identifier":"1","length":4,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"2","identifier":"2","length":4,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"3","identifier":"3","length":12,"required":false,"metadata":{}}]}},"showTitle":false,"captchaEnabled":false,"buttonVariant":"","objectName":"page-section-6040cb6b122f3e7655fbe1b9","disclaimerMessage":null,"formFields":[{"type":"name","id":"name-yui_3_17_2_1_1553888888520_3744","locked":false,"title":"Name as in NRIC","description":"","required":true,"name":true},{"required":false,"locked":false,"description":"","id":"text-b253d73e-f63e-4c73-a256-16b6e56f3f4f","text":true,"type":"text","placeholder":"","title":"NRIC No. (last 4 digit)"},{"required":false,"locked":false,"description":"","id":"phone-e7842a80-71c2-4806-9b2a-5c168b0afd05","phone":true,"type":"phone","showCountryCode":false,"title":"Contact No."},{"type":"email","id":"email-yui_3_17_2_1_1553888888520_3745","locked":false,"title":"Email","description":"","placeholder":"","required":true,"email":true},{"required":false,"locked":false,"description":"","id":"number-54ada6f3-26f8-4334-ab85-4b2c4395380e","number":true,"type":"number","placeholder":"","title":"Age"},{"required":false,"locked":false,"description":"","id":"text-0e4387a1-3385-4ea6-904a-d351f9e64a55","text":true,"type":"text","placeholder":"","title":"Your Religion"},{"required":false,"locked":false,"description":"","id":"text-7d63615a-e0ee-469b-8806-38bd9f8cd2ad","text":true,"type":"text","placeholder":"","title":"Name of Religious Organisation you belong to (if any)"},{"required":false,"locked":false,"description":"","id":"select-366c4915-0f1b-4457-aee8-d4849d1f87ac","select":true,"type":"select","options":["English Teacher","Chinese Teacher","Assistant Teacher","Admin","Cook","Cleaner"],"title":"Position"},{"required":false,"locked":false,"description":"","id":"text-ff4c4142-5ad1-476c-ad73-b88b908cd049","text":true,"type":"text","placeholder":"","title":"Place of Current Employment"},{"required":false,"locked":false,"description":"","id":"text-08bf55fe-6093-4609-9216-b528bf5225ba","text":true,"type":"text","placeholder":"","title":"No. of Years of Experience in Preschools"},{"required":false,"locked":false,"description":"","id":"text-c21071c7-050e-42ce-a1fb-9f9fdc5ad02a","text":true,"type":"text","placeholder":"","title":"Year Graduated from ECD Course (if any)"},{"required":false,"locked":false,"description":"","id":"text-0f927858-766f-4a2c-8649-75485e59213b","text":true,"type":"text","placeholder":"","title":"Reasons for Leaving Current Place of Employment"},{"required":false,"locked":false,"description":"","id":"text-c14b5156-bf95-4974-ad3e-e41d6e505d53","text":true,"type":"text","placeholder":"","title":"Message"},{"required":false,"locked":false,"description":"","id":"select-9f41004a-4fba-4604-88fb-77f761443682","select":true,"type":"select","options":["No","Yes"],"title":"Have you been convicted or charged for any crime or offence in the court of law in Singapore or overseas?"},{"required":false,"locked":false,"description":"","id":"checkbox-0bde718a-396f-4df7-bf87-cfdc1c9f15b7","checkbox":true,"type":"checkbox","options":[" The confidentiality of your personal data is important to us. By submitting this form, you consent to the collection, use and/or disclosure of your personal data (which includes subsequent correspondences with Shalom Kindergarten) by Shalom Kindergarten for purposes that Shalom Kindergarten deems necessary for the subject matter. Please read our data protection policy, including how you may update your personal data or the degree of consent. through submitting this form, you also declare that the information provided is true to the best of your knowledge and there is no ill or dishonest intent."],"title":"Privacy Policy Agreement and Declaration"}],"captchaAlignment":1,"lightboxHandleText":"","localizedStrings":{"validation":{"noValidSelection":"A valid selection must be made.","invalidEmail":"Email addresses should follow the format user@domain.com.","invalidUrl":"Must be a valid URL.","invalidListLength":"Value should be {0} elements long.","allEmpty":"Please fill out at least one form field.","stringTooLong":"Value should have a length no longer than {0}.","missingRequiredQuestion":"Missing a required question.","invalidQuestion":"Contained an invalid question.","captchaFailure":"Captcha validation failed. Please try again.","containsInvalidKey":"{0} contains an invalid key.","stringTooShort":"Value should have a length of at least {0}.","invalidTwitterUsername":"Must be a valid Twitter username.","valueOutsideRange":"Value must be in the range {0} to {1}.","invalid":"{0} is not valid.","invalidPassword":"Passwords should not contain whitespace.","missingRequiredSubfields":"{0} is missing required subfields: {1}","invalidCurrency":"Currency value should be formatted like 1234 or 123.99.","invalidMapSize":"Value should contain exactly {0} elements.","formErrors":"Form Errors","containsInvalidValue":"{0} contains an invalid value.","subfieldsRequired":"All fields in {0} are required.","formSubmissionFailed":"Form submission failed. Review the following information: {0}.","invalidCountryCode":"Country code should have an optional plus and up to 4 digits.","invalidUnsignedNumber":"Numbers must contain only digits and no other characters.","invalidName":"Valid names contain only letters, numbers, spaces, ', or - characters.","invalidDate":"This is not a real date.","required":"{0} is required.","invalidStringLength":"Value should be {0} characters long."},"submit":"Submit","status":{"title":"{@} Block","learnMore":"Learn more"},"name":{"firstName":"First Name","lastName":"Last Name"},"address":{"country":"Country","zipPostalCode":"Zip/Postal Code","address2":"Address 2","address1":"Address 1","city":"City","stateProvince":"State/Province"},"lightbox":{"openForm":"Open Form"},"date":{"day":"Day","month":"Month","yyyy":"YYYY","year":"Year","dd":"DD","mm":"MM"},"likert":{"agree":"Agree","disagree":"Disagree","stronglyDisagree":"Strongly Disagree","stronglyAgree":"Strongly Agree","neutral":"Neutral"},"time":{"am":"AM","second":"Second","amPm":"AM/PM","pm":"PM","minute":"Minute","hour":"Hour"},"email":{"signUp":"Sign up for news and updates"},"cannotSubmitDemoForm":"This is a demo form and cannot be submitted.","notFound":"Form not found.","phone":{"country":"Country","number":"Number","prefix":"Prefix","areaCode":"Area Code","line":"Line"},"required":"(required)","submitError":"Unable to submit form. Please try again later.","invalidData":"Invalid form data."}}</script>
   <div id="form-submission-html-6040cb6b122f3e7655fbe1ad" class="sqs-form-block-submission-html" data-submission-html=""></div>
 
 
@@ -1701,28 +1701,28 @@
     
     
     " data-section-id="604051343a03c43751908f88" data-controller="SectionWrapperController" data-current-styles="{
-                                        &quot;imageOverlayOpacity&quot;: 0.15,
-                                        &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                        &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
-                                        &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--left&quot;,
-                                        &quot;verticalAlignment&quot;: &quot;vertical-alignment--top&quot;,
-                                        &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                        &quot;sectionTheme&quot;: &quot;&quot;,
-                                        &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                        &quot;backgroundMode&quot;: &quot;image&quot;
-                                      }" data-current-context="{
-                                        &quot;video&quot;: {
-                                          &quot;playbackSpeed&quot;: 0.5,
-                                          &quot;filter&quot;: 1,
-                                          &quot;filterStrength&quot;: 0,
-                                          &quot;zoom&quot;: 0,
-                                          &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                        },
-                                        &quot;backgroundImageId&quot;: null,
-                                        &quot;backgroundMediaEffect&quot;: null,
-                                        &quot;divider&quot;: null,
-                                        &quot;typeName&quot;: &quot;page&quot;
-                                      }" data-animation="none" data-controllers-bound="SectionWrapperController" id="yui_3_17_2_1_1711810881636_76">
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--left&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--top&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}" data-current-context="{
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;page&quot;
+}" data-animation="none" data-controllers-bound="SectionWrapperController" id="yui_3_17_2_1_1711893751749_76">
   <div class="section-border">
     <div class="section-background">
     
@@ -1734,15 +1734,15 @@
       
         
       
-    " id="yui_3_17_2_1_1711810881636_75">
-    <div class="content" id="yui_3_17_2_1_1711810881636_74">
+    " id="yui_3_17_2_1_1711893751749_75">
+    <div class="content" id="yui_3_17_2_1_1711893751749_74">
       
       
       
       
       
       
-      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-604051343a03c43751908f88"><div class="row sqs-row" id="yui_3_17_2_1_1711810881636_73"><div class="col sqs-col-12 span-12" id="yui_3_17_2_1_1711810881636_72"><div class="row sqs-row" id="yui_3_17_2_1_1711810881636_71"><div class="col sqs-col-3 span-3" id="yui_3_17_2_1_1711810881636_70"><div class="sqs-block image-block sqs-block-image sqs-text-ready" data-block-type="5" id="block-yui_3_17_2_1_1614827053121_48395"><div class="sqs-block-content" id="yui_3_17_2_1_1711810881636_69">
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-604051343a03c43751908f88"><div class="row sqs-row" id="yui_3_17_2_1_1711893751749_73"><div class="col sqs-col-12 span-12" id="yui_3_17_2_1_1711893751749_72"><div class="row sqs-row" id="yui_3_17_2_1_1711893751749_71"><div class="col sqs-col-3 span-3" id="yui_3_17_2_1_1711893751749_70"><div class="sqs-block image-block sqs-block-image sqs-text-ready" data-block-type="5" id="block-yui_3_17_2_1_1614827053121_48395"><div class="sqs-block-content" id="yui_3_17_2_1_1711893751749_69">
 
 
 
@@ -1789,7 +1789,7 @@
 
     
   
-    <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-site-default individual-animation-site-default individual-text-animation-site-default sqs-narrow-width" data-test="image-block-inline-outer-wrapper" id="yui_3_17_2_1_1711810881636_68">
+    <div class="image-block-outer-wrapper layout-caption-below design-layout-inline combination-animation-site-default individual-animation-site-default individual-text-animation-site-default sqs-narrow-width" data-test="image-block-inline-outer-wrapper" id="yui_3_17_2_1_1711893751749_68">
 
       
 
@@ -1797,7 +1797,7 @@
         <figure class="
               sqs-block-image-figure
               intrinsic
-            " style="max-width:1916px;" id="yui_3_17_2_1_1711810881636_67">
+            " style="max-width:1916px;" id="yui_3_17_2_1_1711893751749_67">
           
         
         
@@ -1805,7 +1805,7 @@
         
           
             
-          <div class="image-block-wrapper" data-animation-role="image" id="yui_3_17_2_1_1711810881636_66">
+          <div class="image-block-wrapper" data-animation-role="image" id="yui_3_17_2_1_1711893751749_66">
             <div class="sqs-image-shape-container-element
               
           
@@ -1817,7 +1817,7 @@
                   padding-bottom:31.732776641845703%;
                 
                 overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              " id="yui_3_17_2_1_1711810881636_65">
+              " id="yui_3_17_2_1_1711893751749_65">
                 
                 
                 
@@ -1845,7 +1845,7 @@
   
 
 
-</div></div></div><div class="col sqs-col-9 span-9"><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="29.952830188679247" data-block-type="21" id="block-yui_3_17_2_1_1614827053121_51926"><div class="sqs-block-content sqs-intrinsic" id="yui_3_17_2_1_1711810881636_99" style="padding-bottom: 29.9528%;">&nbsp;</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="21.323529411764707" data-block-type="21" id="block-yui_3_17_2_1_1618460279134_12313"><div class="sqs-block-content sqs-intrinsic" id="yui_3_17_2_1_1711810881636_102" style="padding-bottom: 21.3235%;">&nbsp;</div></div></div><div class="col sqs-col-5 span-5"><div class="sqs-block html-block sqs-block-html sqs-col-2 span-2 float float-left" data-block-type="2" id="block-df9823e620f48d28b298"><div class="sqs-block-content">
+</div></div></div><div class="col sqs-col-9 span-9"><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="29.952830188679247" data-block-type="21" id="block-yui_3_17_2_1_1614827053121_51926"><div class="sqs-block-content sqs-intrinsic" id="yui_3_17_2_1_1711893751749_99" style="padding-bottom: 29.9528%;">&nbsp;</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="21.323529411764707" data-block-type="21" id="block-yui_3_17_2_1_1618460279134_12313"><div class="sqs-block-content sqs-intrinsic" id="yui_3_17_2_1_1711893751749_102" style="padding-bottom: 21.3235%;">&nbsp;</div></div></div><div class="col sqs-col-5 span-5"><div class="sqs-block html-block sqs-block-html sqs-col-2 span-2 float float-left" data-block-type="2" id="block-df9823e620f48d28b298"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <h4 style="text-align:center;white-space:pre-wrap;"><strong>Get In Touch!</strong></h4>
@@ -1899,16 +1899,16 @@
 
 
 
-</div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1614827053121_40311"><div class="sqs-block-content" id="yui_3_17_2_1_1711810881636_87">
+</div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1614827053121_40311"><div class="sqs-block-content" id="yui_3_17_2_1_1711893751749_87">
 
-<div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium" data-button-type="primary" id="yui_3_17_2_1_1711810881636_86">
+<div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium" data-button-type="primary" id="yui_3_17_2_1_1711893751749_86">
   <a href="/general-enquiries" class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element" data-initialized="true">
     Contact Us
   </a>
 </div>
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1614827053121_47442"><div class="sqs-block-content" id="yui_3_17_2_1_1711810881636_94">
+</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1614827053121_47442"><div class="sqs-block-content" id="yui_3_17_2_1_1711893751749_94">
 
-<div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium" data-button-type="primary" id="yui_3_17_2_1_1711810881636_93">
+<div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium" data-button-type="primary" id="yui_3_17_2_1_1711893751749_93">
   <a href="/contact-us-3" class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element" data-initialized="true">
     Enrol
   </a>

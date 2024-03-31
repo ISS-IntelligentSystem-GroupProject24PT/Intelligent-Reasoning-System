@@ -117,11 +117,11 @@ float: none !important;
 <div class="entry-content"><p style="text-align: center;">Leedon Campus</p>
 
 		<!-- MasterSlider -->
-		<div id="P_MS6608352268b80" class="master-slider-parent msl ms-parent-id-36" style="max-width: 1024px; position: relative;">
+		<div id="P_MS6609721aaf509" class="master-slider-parent msl ms-parent-id-36" style="max-width: 1024px; position: relative;">
 
 			
 			<!-- MasterSlider Main -->
-			<div id="MS6608352268b80" class="master-slider ms-skin-default ms-wk" style="visibility: visible; opacity: 1; margin: 0px;"><div class="ms-container"><div class="ms-inner-controls-cont" style="max-width: 1024px;"><div class="ms-view ms-basic-view ms-grab-cursor" style="width: 760px; height: 371.094px;"><div class="ms-slide-container" style="transform: translateX(-757.838px) translateZ(0px);"><div class="ms-slide" data-delay="3" data-fill-mode="fit" style="width: 760px; height: 371.094px; left: 0px;">
+			<div id="MS6609721aaf509" class="master-slider ms-skin-default ms-wk" style="visibility: visible; opacity: 1; margin: 0px;"><div class="ms-container"><div class="ms-inner-controls-cont" style="max-width: 1024px;"><div class="ms-view ms-basic-view ms-grab-cursor" style="width: 760px; height: 371.094px;"><div class="ms-slide-container" style="transform: translateX(0px) translateZ(0px);"><div class="ms-slide ms-sl-selected" data-delay="3" data-fill-mode="fit" style="width: 760px; height: 371.094px; left: 0px;">
 					
 
 
@@ -152,8 +152,8 @@ float: none !important;
 				
 				
 
-			<div class="ms-thumb-list ms-dir-h ms-align-bottom" style="margin-top: 5px; position: relative; height: 80px;"><div class="ms-thumbs-cont" style="width: 420px; left: 170px;"><div class="ms-thumb-frame" style="width: 100px; height: 80px; margin-right: 5px;"><img class="ms-thumb" src="https://sjck.org.sg/wp-content/uploads/2014/09/Leedon-page1-100x80.jpg" alt="" style="width: 100px; height: 80px; margin-top: 0px; margin-left: 0px;"><div class="ms-thumb" style="width: 100px; height: 80px; margin-top: 0px; margin-left: 0px;"><div class="ms-tab-context"><div class="&quot;ms-tab-context&quot;"></div></div>
-</div><div class="ms-thumb-ol"></div></div><div class="ms-thumb-frame ms-thumb-frame-selected" style="width: 100px; height: 80px; margin-right: 5px;"><img class="ms-thumb" src="https://sjck.org.sg/wp-content/uploads/2014/09/DSC_50741-100x80.jpg" alt="" style="width: 100px; height: 80px; margin-top: 0px; margin-left: 0px;"><div class="ms-thumb" style="width: 100px; height: 80px; margin-top: 0px; margin-left: 0px;"><div class="ms-tab-context"><div class="&quot;ms-tab-context&quot;"></div></div>
+			<div class="ms-thumb-list ms-dir-h ms-align-bottom" style="margin-top: 5px; position: relative; height: 80px;"><div class="ms-thumbs-cont" style="width: 420px; left: 170px;"><div class="ms-thumb-frame ms-thumb-frame-selected" style="width: 100px; height: 80px; margin-right: 5px;"><img class="ms-thumb" src="https://sjck.org.sg/wp-content/uploads/2014/09/Leedon-page1-100x80.jpg" alt="" style="width: 100px; height: 80px; margin-top: 0px; margin-left: 0px;"><div class="ms-thumb" style="width: 100px; height: 80px; margin-top: 0px; margin-left: 0px;"><div class="ms-tab-context"><div class="&quot;ms-tab-context&quot;"></div></div>
+</div><div class="ms-thumb-ol"></div></div><div class="ms-thumb-frame" style="width: 100px; height: 80px; margin-right: 5px;"><img class="ms-thumb" src="https://sjck.org.sg/wp-content/uploads/2014/09/DSC_50741-100x80.jpg" alt="" style="width: 100px; height: 80px; margin-top: 0px; margin-left: 0px;"><div class="ms-thumb" style="width: 100px; height: 80px; margin-top: 0px; margin-left: 0px;"><div class="ms-tab-context"><div class="&quot;ms-tab-context&quot;"></div></div>
 </div><div class="ms-thumb-ol"></div></div><div class="ms-thumb-frame" style="width: 100px; height: 80px; margin-right: 5px;"><img class="ms-thumb" src="https://sjck.org.sg/wp-content/uploads/2014/09/DSC_4513-100x80.jpg" alt="" style="width: 100px; height: 80px; margin-top: 0px; margin-left: 0px;"><div class="ms-thumb" style="width: 100px; height: 80px; margin-top: 0px; margin-left: 0px;"><div class="ms-tab-context"><div class="&quot;ms-tab-context&quot;"></div></div>
 </div><div class="ms-thumb-ol"></div></div><div class="ms-thumb-frame" style="width: 100px; height: 80px; margin-right: 5px;"><img class="ms-thumb" src="https://sjck.org.sg/wp-content/uploads/2014/09/DSC_4399-100x80.jpg" alt="" style="width: 100px; height: 80px; margin-top: 0px; margin-left: 0px;"><div class="ms-thumb" style="width: 100px; height: 80px; margin-top: 0px; margin-left: 0px;"><div class="ms-tab-context"><div class="&quot;ms-tab-context&quot;"></div></div>
 </div><div class="ms-thumb-ol"></div></div></div></div></div>
@@ -168,13 +168,13 @@ float: none !important;
 			"use strict";
 
 			$(function () {
-				var masterslider_8b80 = new MasterSlider();
+				var masterslider_f509 = new MasterSlider();
 
 				// slider controls
-				masterslider_8b80.control('arrows'     ,{ autohide:true, overVideo:true  });
-				masterslider_8b80.control('thumblist'  ,{ autohide:false, overVideo:true, dir:'h', speed:17, inset:false, arrows:false, hover:true, customClass:'', align:'bottom',type:'thumbs', margin:5, width:100, height:80, space:5, fillMode:'fit' , hideUnder:5 });
+				masterslider_f509.control('arrows'     ,{ autohide:true, overVideo:true  });
+				masterslider_f509.control('thumblist'  ,{ autohide:false, overVideo:true, dir:'h', speed:17, inset:false, arrows:false, hover:true, customClass:'', align:'bottom',type:'thumbs', margin:5, width:100, height:80, space:5, fillMode:'fit' , hideUnder:5 });
 				// slider setup
-				masterslider_8b80.setup("MS6608352268b80", {
+				masterslider_f509.setup("MS6609721aaf509", {
 						width           : 1024,
 						height          : 500,
 						minHeight       : 0,
@@ -209,7 +209,7 @@ float: none !important;
 
 				
 				window.masterslider_instances = window.masterslider_instances || [];
-				window.masterslider_instances.push( masterslider_8b80 );
+				window.masterslider_instances.push( masterslider_f509 );
 			 });
 
 		})(jQuery);

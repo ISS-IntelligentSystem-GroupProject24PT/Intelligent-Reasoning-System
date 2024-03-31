@@ -158,7 +158,7 @@ var JQLBSettings = {"showTitle":"1","showCaption":"1","showNumbers":"1","fitToSc
 <script type="text/javascript" src="https://sjck.org.sg/wp-content/plugins/wp-jquery-lightbox/jquery.lightbox.min.js?ver=1.4.8.2" id="wp-jquery-lightbox-js"></script>
 <script type="text/javascript" id="soliloquy-script-js-extra">
 /* <![CDATA[ */
-var soliloquy_ajax = {"ajax":"https:\/\/sjck.org.sg\/wp-admin\/admin-ajax.php","ajax_nonce":"7dd886185f"};
+var soliloquy_ajax = {"ajax":"https:\/\/sjck.org.sg\/wp-admin\/admin-ajax.php","ajax_nonce":"a9cca9a088"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://sjck.org.sg/wp-content/plugins/soliloquy/assets/js/min/soliloquy-min.js?ver=2.6.6" id="soliloquy-script-js"></script>

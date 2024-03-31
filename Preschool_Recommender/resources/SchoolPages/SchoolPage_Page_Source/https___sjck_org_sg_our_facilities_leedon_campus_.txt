@@ -119,11 +119,11 @@ float: none !important;
 <h1>Our Facilities</h1>
 
 		<!-- MasterSlider -->
-		<div id="P_MS6608353cc5689" class="master-slider-parent msl ms-parent-id-51" style="max-width: 1024px; position: relative;">
+		<div id="P_MS6609722e846f9" class="master-slider-parent msl ms-parent-id-51" style="max-width: 1024px; position: relative;">
 
 			
 			<!-- MasterSlider Main -->
-			<div id="MS6608353cc5689" class="master-slider ms-skin-default ms-wk" style="visibility: visible; opacity: 1; margin: 0px;"><div class="ms-container"><div class="ms-inner-controls-cont" style="max-width: 1024px;"><div class="ms-view ms-basic-view ms-grab-cursor" style="width: 760px; height: 371.094px;"><div class="ms-slide-container" style="transform: translateX(0px) translateZ(0px);"><div class="ms-slide ms-sl-selected" data-delay="3" data-fill-mode="fit" style="width: 760px; height: 371.094px; left: 0px; z-index: 7;">
+			<div id="MS6609722e846f9" class="master-slider ms-skin-default ms-wk" style="visibility: visible; opacity: 1; margin: 0px;"><div class="ms-container"><div class="ms-inner-controls-cont" style="max-width: 1024px;"><div class="ms-view ms-basic-view ms-grab-cursor" style="width: 760px; height: 371.094px;"><div class="ms-slide-container" style="transform: translateX(0px) translateZ(0px);"><div class="ms-slide ms-sl-selected" data-delay="3" data-fill-mode="fit" style="width: 760px; height: 371.094px; left: 0px; z-index: 7;">
 					
 
 
@@ -242,13 +242,13 @@ float: none !important;
 			"use strict";
 
 			$(function () {
-				var masterslider_5689 = new MasterSlider();
+				var masterslider_46f9 = new MasterSlider();
 
 				// slider controls
-				masterslider_5689.control('arrows'     ,{ autohide:true, overVideo:true  });
-				masterslider_5689.control('thumblist'  ,{ autohide:false, overVideo:true, dir:'h', speed:17, inset:false, arrows:false, hover:true, customClass:'', align:'bottom',type:'thumbs', margin:5, width:100, height:80, space:5, fillMode:'fit' , hideUnder:5 });
+				masterslider_46f9.control('arrows'     ,{ autohide:true, overVideo:true  });
+				masterslider_46f9.control('thumblist'  ,{ autohide:false, overVideo:true, dir:'h', speed:17, inset:false, arrows:false, hover:true, customClass:'', align:'bottom',type:'thumbs', margin:5, width:100, height:80, space:5, fillMode:'fit' , hideUnder:5 });
 				// slider setup
-				masterslider_5689.setup("MS6608353cc5689", {
+				masterslider_46f9.setup("MS6609722e846f9", {
 						width           : 1024,
 						height          : 500,
 						minHeight       : 0,
@@ -283,7 +283,7 @@ float: none !important;
 
 				
 				window.masterslider_instances = window.masterslider_instances || [];
-				window.masterslider_instances.push( masterslider_5689 );
+				window.masterslider_instances.push( masterslider_46f9 );
 			 });
 
 		})(jQuery);

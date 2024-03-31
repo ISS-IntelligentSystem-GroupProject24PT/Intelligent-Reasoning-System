@@ -1,0 +1,1328 @@
+<html lang="en-US" prefix="og: https://ogp.me/ns#" class="js"><head>
+	<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://shaws.com.sg/xmlrpc.php">
+
+	
+	
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KW27VTQ"></script><script src="https://connect.facebook.net/signals/config/566350953921183?v=2.9.151&amp;r=stable&amp;domain=shaws.com.sg&amp;hme=8ce74e881727851b4427183947937854816d72704925561b9de6420cd43214ee&amp;ex_m=66%2C111%2C98%2C102%2C57%2C3%2C92%2C65%2C15%2C90%2C83%2C48%2C50%2C157%2C160%2C171%2C167%2C168%2C170%2C28%2C93%2C49%2C72%2C169%2C152%2C155%2C164%2C165%2C172%2C120%2C14%2C47%2C176%2C175%2C122%2C17%2C32%2C36%2C1%2C40%2C61%2C62%2C63%2C67%2C87%2C16%2C13%2C89%2C86%2C85%2C99%2C101%2C35%2C100%2C29%2C25%2C153%2C156%2C129%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C53%2C58%2C60%2C70%2C94%2C26%2C71%2C8%2C7%2C75%2C45%2C20%2C96%2C95%2C9%2C19%2C18%2C77%2C82%2C44%2C43%2C81%2C37%2C39%2C80%2C52%2C78%2C31%2C41%2C34%2C69%2C0%2C88%2C4%2C84%2C76%2C79%2C2%2C33%2C59%2C38%2C97%2C42%2C74%2C64%2C103%2C56%2C55%2C30%2C91%2C54%2C51%2C46%2C73%2C68%2C23%2C104" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" defer="" src="https://stats.wpmucdn.com/analytics.js"></script><script id="diviarea-loader">window.DiviPopupData=window.DiviAreaConfig={"zIndex":1000000,"animateSpeed":400,"triggerClassPrefix":"show-popup-","idAttrib":"data-popup","modalIndicatorClass":"is-modal","blockingIndicatorClass":"is-blocking","defaultShowCloseButton":true,"withCloseClass":"with-close","noCloseClass":"no-close","triggerCloseClass":"close","singletonClass":"single","darkModeClass":"dark","noShadowClass":"no-shadow","altCloseClass":"close-alt","popupSelector":".et_pb_section.popup","initializeOnEvent":"et_pb_after_init_modules","popupWrapperClass":"area-outer-wrap","fullHeightClass":"full-height","openPopupClass":"da-overlay-visible","overlayClass":"da-overlay","exitIndicatorClass":"on-exit","hoverTriggerClass":"on-hover","clickTriggerClass":"on-click","onExitDelay":2000,"notMobileClass":"not-mobile","notTabletClass":"not-tablet","notDesktopClass":"not-desktop","baseContext":"body","activePopupClass":"is-open","closeButtonClass":"da-close","withLoaderClass":"with-loader","debug":false,"ajaxUrl":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","sys":[]};var divimode_loader=function(){"use strict";!function(t){t.DiviArea=t.DiviPopup={loaded:!1};var n=t.DiviArea,i=n.Hooks={},o={};function r(t,n,i){var r,e,c;if("string"==typeof t)if(o[t]){if(n)if((r=o[t])&&i)for(c=r.length;c--;)(e=r[c]).callback===n&&e.context===i&&(r[c]=!1);else for(c=r.length;c--;)r[c].callback===n&&(r[c]=!1)}else o[t]=[]}function e(t,n,i,r){if("string"==typeof t){var e={callback:n,priority:i,context:r},c=o[t];c?(c.push(e),c=function(t){var n,i,o,r,e=t.length;for(r=1;r<e;r++)for(n=t[r],i=r;i>0;i--)(o=t[i-1]).priority>n.priority&&(t[i]=o,t[i-1]=n);return t}(c)):c=[e],o[t]=c}}function c(t,n,i){"string"==typeof n&&(n=[n]);var r,e,c=[];for(r=0;r<n.length;r++)Array.prototype.push.apply(c,o[n[r]]);for(e=0;e<c.length;e++){var a=void 0;c[e]&&"function"==typeof c[e].callback&&("filter"===t?void 0!==(a=c[e].callback.apply(c[e].context,i))&&(i[0]=a):c[e].callback.apply(c[e].context,i))}if("filter"===t)return i[0]}i.silent=function(){return i},n.removeFilter=i.removeFilter=function(t,n){r(t,n)},n.removeAction=i.removeAction=function(t,n){r(t,n)},n.applyFilters=i.applyFilters=function(t){for(var n=[],i=arguments.length-1;i-- >0;)n[i]=arguments[i+1];return c("filter",t,n)},n.doAction=i.doAction=function(t){for(var n=[],i=arguments.length-1;i-- >0;)n[i]=arguments[i+1];c("action",t,n)},n.addFilter=i.addFilter=function(n,i,o,r){e(n,i,parseInt(o||10,10),r||t)},n.addAction=i.addAction=function(n,i,o,r){e(n,i,parseInt(o||10,10),r||t)},n.addActionOnce=i.addActionOnce=function(n,i,o,c){e(n,i,parseInt(o||10,10),c||t),e(n,(function(){r(n,i)}),1+parseInt(o||10,10),c||t)}}(window);return{}}();
+</script><style id="et-builder-googlefonts-cached-inline">/* Original: https://fonts.googleapis.com/css?family=Quicksand:300,regular,500,600,700|Montserrat:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&#038;subset=latin,latin-ext&#038;display=swap *//* User Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aX8.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 300;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV4exQ.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 400;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV4exQ.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 600;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWV4exQ.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 700;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWV4exQ.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 800;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWV4exQ.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 300;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4uaVc.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 400;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVc.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 600;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4uaVc.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 700;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVc.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 800;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4uaVc.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58i-xw.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58i-xw.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58i-xw.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58i-xw.ttf) format('truetype');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58i-xw.ttf) format('truetype');}/* User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXw.woff) format('woff');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 300;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV4exg.woff) format('woff');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 400;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV4exg.woff) format('woff');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 600;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWV4exg.woff) format('woff');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 700;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWV4exg.woff) format('woff');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 800;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWV4exg.woff) format('woff');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 300;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4uaVQ.woff) format('woff');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 400;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVQ.woff) format('woff');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 600;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4uaVQ.woff) format('woff');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 700;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVQ.woff) format('woff');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 800;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4uaVQ.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58i-xA.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58i-xA.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58i-xA.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58i-xA.woff) format('woff');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58i-xA.woff) format('woff');}/* User Agent: Mozilla/5.0 (Windows NT 6.3; rv:39.0) Gecko/20100101 Firefox/39.0 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXo.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 300;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV4ewA.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 400;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV4ewA.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 600;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWV4ewA.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 700;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWV4ewA.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 800;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWV4ewA.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 300;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4uaVI.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 400;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVI.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 600;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4uaVI.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 700;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVI.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 800;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4uaVI.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58i-wg.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58i-wg.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58i-wg.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58i-wg.woff2) format('woff2');}@font-face {font-family: 'Quicksand';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58i-wg.woff2) format('woff2');}</style><link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/social-warfare/assets/js/post-editor/dist/social-warfare-block-css.min.css?ver=6.4.3" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/ladda.min.css?ver=23.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/bookly-picker.classic.css.min.css?ver=23.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/bookly-picker.classic.date.css.min.css?ver=23.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/bookly-intlTelInput.css.min.css?ver=23.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/css/bookly-bookly-main.css.min.css?ver=23.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/popups-for-divi/styles/front.min.css?ver=3.0.5" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/social-warfare/assets/css/style.min.css?ver=4.4.6.1" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/plugins/image-carousel-divi/styles/style.min.css?ver=1.0" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/themes/Divi/style-static.min.css?ver=4.21.0" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="style" href="https://shaws.com.sg/wp-content/themes/Divi-Child/divi-style-pum.min.css?ver=4.21.0" data-wpacu-preload-css-basic="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/spin.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/ladda.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/backend/resources/js/moment.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/hammer.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/jquery.hammer.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/bookly-picker.js.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/bookly-picker.date.js.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/bookly.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/bookly-responsive-appointment-booking-tool/frontend/resources/js/intlTelInput.min.js?ver=23.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/popups-for-divi/scripts/ie-compat.min.js?ver=3.0.5" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/popups-for-divi/scripts/front.min.js?ver=3.0.5" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/social-warfare/assets/js/script.min.js?ver=4.4.6.1" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/themes/Divi/js/scripts.min.js?ver=4.21.0" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/plugins/image-carousel-divi/scripts/frontend-bundle.min.js?ver=1.0" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/et-core-common.min.js?ver=4.21.0" data-wpacu-preload-js="1">
+<link rel="preload" as="script" href="https://shaws.com.sg/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.21.0" data-wpacu-preload-js="1">
+
+<!-- Social Warfare v4.4.6.1 https://warfareplugins.com - BEGINNING OF OUTPUT -->
+<style>
+	@font-face {
+		font-family: "sw-icon-font";
+		src:url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.4.6.1");
+		src:url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.4.6.1#iefix") format("embedded-opentype"),
+		url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.woff?ver=4.4.6.1") format("woff"),
+		url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.ttf?ver=4.4.6.1") format("truetype"),
+		url("https://shaws.com.sg/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.svg?ver=4.4.6.1#1445203416") format("svg");
+		font-weight: normal;
+		font-style: normal;
+		font-display:block;
+	}
+</style>
+<!-- Social Warfare v4.4.6.1 https://warfareplugins.com - END OF OUTPUT -->
+
+
+<!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
+<title>Essential Life Skills Every Preschool Child Must Have</title><link rel="stylesheet" id="siteground-optimizer-combined-css-d3536aba24b882ef5e5829c8b4f032a8" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-d3536aba24b882ef5e5829c8b4f032a8.css" media="all"> <link rel="preload" href="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-d3536aba24b882ef5e5829c8b4f032a8.css" as="style">
+<meta name="description" content="Parent’s guide to essential life skills in preschoolers: what they are, why they matter, and how to develop them.">
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+<link rel="canonical" href="https://shaws.com.sg/life-skills/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Essential Life Skills Every Preschool Child Must Have">
+<meta property="og:description" content="Parent’s guide to essential life skills in preschoolers: what they are, why they matter, and how to develop them.">
+<meta property="og:url" content="https://shaws.com.sg/life-skills/">
+<meta property="og:site_name" content="Shaws Preschool">
+<meta property="og:updated_time" content="2024-01-13T02:38:57+08:00">
+<meta property="article:published_time" content="2023-03-03T18:31:57+08:00">
+<meta property="article:modified_time" content="2024-01-13T02:38:57+08:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Essential Life Skills Every Preschool Child Must Have">
+<meta name="twitter:description" content="Parent’s guide to essential life skills in preschoolers: what they are, why they matter, and how to develop them.">
+<meta name="twitter:label1" content="Time to read">
+<meta name="twitter:data1" content="45 minutes">
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://shaws.com.sg/#person","name":"Shaws Preschool"},{"@type":"WebSite","@id":"https://shaws.com.sg/#website","url":"https://shaws.com.sg","name":"Shaws Preschool","publisher":{"@id":"https://shaws.com.sg/#person"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://shaws.com.sg/life-skills/#webpage","url":"https://shaws.com.sg/life-skills/","name":"Essential Life Skills Every Preschool Child Must Have","datePublished":"2023-03-03T18:31:57+08:00","dateModified":"2024-01-13T02:38:57+08:00","isPartOf":{"@id":"https://shaws.com.sg/#website"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://shaws.com.sg/author/julius-cooler-insights/","name":"Julius","url":"https://shaws.com.sg/author/julius-cooler-insights/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/e30345e089c054fc3b9ffa0d4b4168ee?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/e30345e089c054fc3b9ffa0d4b4168ee?s=96&amp;d=mm&amp;r=g","caption":"Julius","inLanguage":"en-US"}},{"@type":"Article","headline":"Essential Life Skills Every Preschool Child Must Have","keywords":"Essential life skills,life skills in children,life skills preschool","datePublished":"2023-03-03T18:31:57+08:00","dateModified":"2024-01-13T02:38:57+08:00","author":{"@id":"https://shaws.com.sg/author/julius-cooler-insights/","name":"Julius"},"publisher":{"@id":"https://shaws.com.sg/#person"},"description":"Parent\u2019s guide to essential life skills in preschoolers: what they are, why they matter, and how to develop them.","name":"Essential Life Skills Every Preschool Child Must Have","@id":"https://shaws.com.sg/life-skills/#richSnippet","isPartOf":{"@id":"https://shaws.com.sg/life-skills/#webpage"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://shaws.com.sg/life-skills/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel="dns-prefetch" href="//use.fontawesome.com">
+<link rel="alternate" type="application/rss+xml" title=" » Feed" href="https://shaws.com.sg/feed/">
+<link rel="alternate" type="application/rss+xml" title=" » Comments Feed" href="https://shaws.com.sg/comments/feed/">
+<meta content="Bare bones for Divi v.1.0" name="generator">
+<style id="wp-block-library-theme-inline-css" type="text/css">
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id="rank-math-toc-block-style-inline-css" type="text/css">
+.wp-block-rank-math-toc-block nav ol{counter-reset:item}.wp-block-rank-math-toc-block nav ol li{display:block}.wp-block-rank-math-toc-block nav ol li:before{content:counters(item, ".") ". ";counter-increment:item}
+
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+
+
+
+
+
+<link data-wpacu-to-be-preloaded-basic="1" rel="stylesheet" id="css-divi-area-css" href="https://shaws.com.sg/wp-content/plugins/popups-for-divi/styles/front.min.css?ver=3.0.5" type="text/css" media="all">
+<style id="css-divi-area-inline-css" type="text/css">
+.et_pb_section.popup{display:none}
+</style>
+
+
+<link rel="stylesheet" id="font-awesome-official-css" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" type="text/css" media="all" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+<link data-wpacu-to-be-preloaded-basic="1" rel="stylesheet" id="divi-style-parent-css" href="https://shaws.com.sg/wp-content/themes/Divi/style-static.min.css?ver=4.21.0" type="text/css" media="all">
+<link data-wpacu-to-be-preloaded-basic="1" rel="stylesheet" id="divi-style-pum-css" href="https://shaws.com.sg/wp-content/themes/Divi-Child/divi-style-pum.min.css?ver=4.21.0" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-official-v4shim-css" href="https://use.fontawesome.com/releases/v5.15.1/css/v4-shims.css" type="text/css" media="all" integrity="sha384-WCuYjm/u5NsK4s/NfnJeHuMj6zzN2HFyjhBu/SnZJj7eZ6+ds4zqIM3wYgL59Clf" crossorigin="anonymous">
+<style id="font-awesome-official-v4shim-inline-css" type="text/css">
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.svg#fontawesome") format("svg");
+unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
+}
+</style>
+<script type="text/javascript" src="https://shaws.com.sg/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+
+
+<script type="text/javascript" id="bookly-globals-js-extra">
+/* <![CDATA[ */
+var BooklyL10nGlobal = {"csrf_token":"21613b60a4","ajax_url_backend":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","ajax_url_frontend":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","mjsTimeFormat":"h:mm A","datePicker":{"format":"MMMM D, YYYY","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"daysOfWeek":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"firstDay":0,"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"meridiem":{"am":"am","pm":"pm","AM":"AM","PM":"PM"}},"dateRange":{"format":"MMMM D, YYYY","applyLabel":"Apply","cancelLabel":"Cancel","fromLabel":"From","toLabel":"To","customRangeLabel":"Custom range","tomorrow":"Tomorrow","today":"Today","anyTime":"Any time","yesterday":"Yesterday","last_7":"Last 7 days","last_30":"Last 30 days","next_7":"Next 7 days","next_30":"Next 30 days","thisMonth":"This month","nextMonth":"Next month","lastMonth":"Last month","firstDay":0},"l10n":{"apply":"Apply","cancel":"Cancel","areYouSure":"Are you sure?"},"addons":[],"cloud_products":[],"data":{}};
+/* ]]> */
+</script>
+
+
+
+
+
+
+<script type="text/javascript" id="bookly-bookly.min.js-js-extra">
+/* <![CDATA[ */
+var BooklyL10n = {"ajaxurl":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","csrf_token":"21613b60a4","today":"Today","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"days":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"daysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextMonth":"Next month","prevMonth":"Previous month","show_more":"Show more","sessionHasExpired":"Your session has expired. Please press \"Ok\" to refresh the page"};
+/* ]]> */
+</script>
+
+
+
+<link rel="https://api.w.org/" href="https://shaws.com.sg/wp-json/"><link rel="alternate" type="application/json" href="https://shaws.com.sg/wp-json/wp/v2/pages/13124"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://shaws.com.sg/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.4.3">
+<link rel="shortlink" href="https://shaws.com.sg/?p=13124">
+<link rel="alternate" type="application/json+oembed" href="https://shaws.com.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fshaws.com.sg%2Flife-skills%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://shaws.com.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fshaws.com.sg%2Flife-skills%2F&amp;format=xml">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7N98SHQYND"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7N98SHQYND');
+</script>
+
+<!--Wrap Rows-->
+
+
+<!-- Slick Slider -->
+<link rel="icon" href="https://shaws.com.sg/wp-content/uploads/2019/12/cropped-Shaws_Preschool_FAVIcon_Transparent-2-32x32.png" sizes="32x32">
+<link rel="icon" href="https://shaws.com.sg/wp-content/uploads/2019/12/cropped-Shaws_Preschool_FAVIcon_Transparent-2-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://shaws.com.sg/wp-content/uploads/2019/12/cropped-Shaws_Preschool_FAVIcon_Transparent-2-180x180.png">
+<meta name="msapplication-TileImage" content="https://shaws.com.sg/wp-content/uploads/2019/12/cropped-Shaws_Preschool_FAVIcon_Transparent-2-270x270.png">
+<link rel="stylesheet" id="et-core-unified-tb-14836-13124-cached-inline-styles" href="https://shaws.com.sg/wp-content/et-cache/13124/et-core-unified-tb-14836-13124.min.css?ver=1710055221"><link rel="stylesheet" id="et-core-unified-13124-cached-inline-styles" href="https://shaws.com.sg/wp-content/et-cache/13124/et-core-unified-13124.min.css?ver=1710055221"><link rel="stylesheet" id="et-core-unified-tb-14836-deferred-13124-cached-inline-styles" href="https://shaws.com.sg/wp-content/et-cache/13124/et-core-unified-tb-14836-deferred-13124.min.css?ver=1710055221"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style type="text/css"></style><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
+<body class="page-template-default page page-id-13124 et-tb-has-template et-tb-has-footer et_pb_button_helper_class et_fixed_nav et_show_nav et_hide_fixed_logo et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_cover_background et_pb_gutter windows et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db chrome" style="padding-top: 0px; padding-bottom: 0px;">
+	<div id="page-container" style="padding-top: 79px;" class="et-animated-content">
+<div id="et-boc" class="et-boc">
+			
+		
+
+	<header id="main-header" data-height-onload="85" data-fixed-height-onload="0" style="top: 0px;" class="et-fixed-header">
+		<div class="container clearfix et_menu_container">
+					<div class="logo_container">
+				<span class="logo_helper"></span>
+				<a href="https://shaws.com.sg/">
+				<img src="https://shaws.com.sg/wp-content/uploads/2018/10/Shaws_Preschool_Logo-297x300.png" width="297" height="300" alt="" id="logo" data-height-percentage="100" data-actual-width="297" data-actual-height="300">
+				</a>
+			</div>
+					<div id="et-top-navigation" data-height="85" data-fixed-height="40" style="padding-left: 72px;">
+									<nav id="top-menu-nav">
+					<ul id="top-menu" class="nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-11271"><a href="https://shaws.com.sg/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8273"><a href="https://shaws.com.sg/about-shaws-singapore/">About Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10369"><a href="https://shaws.com.sg/shaws-recruitment/">Join Our Team</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-14449"><a href="https://shaws.com.sg/curriculum/">Curriculum</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9353"><a href="#">Resources</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8883"><a href="https://shaws.com.sg/frequently-asked-questions/">FAQs</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9310"><a href="https://shaws.com.sg/ready-for-preschool/">Ready for School</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11272"><a href="https://shaws.com.sg/articles/">Articles</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11273"><a href="https://shaws.com.sg/parenting-guides/">Parenting Guides</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11276"><a href="https://shaws.com.sg/free-downloadable-eguides/">Free Downloadable eGuides</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11275"><a href="https://shaws.com.sg/videos/">Videos</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11274"><a href="https://shaws.com.sg/events/">Events</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13459"><a href="https://shaws.com.sg/play-based-learning/">Play-Based Learning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13458"><a href="https://shaws.com.sg/executive-function/">Executive Function</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-13124 current_page_item menu-item-13457"><a href="https://shaws.com.sg/life-skills/" aria-current="page">Life Skills</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-135"><a href="#">Campuses</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8581"><a href="https://shaws.com.sg/preschool-serangoon/">Serangoon Area</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11687"><a href="https://shaws.com.sg/shaws-braddell-heights/">Shaws Braddell Heights</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11686"><a href="https://shaws.com.sg/shaws-lorong-chuan/">Shaws Lorong Chuan</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8582"><a href="https://shaws.com.sg/preschool-east-coast/">East Coast Area</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14778"><a href="https://shaws.com.sg/shaws-open-house/">SHAWS Open House</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8580"><a href="https://shaws.com.sg/testimonials/">Testimonials</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12978"><a href="https://shaws.com.sg/shaws-recruitment/">Join Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8575"><a href="https://shaws.com.sg/contact-us/">Contact Us</a></li>
+</ul>					</nav>
+				
+				
+				
+				
+				<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				<ul id="mobile_menu" class="et_mobile_menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-11271 et_first_mobile_item"><a href="https://shaws.com.sg/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8273"><a href="https://shaws.com.sg/about-shaws-singapore/">About Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10369"><a href="https://shaws.com.sg/shaws-recruitment/">Join Our Team</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-14449"><a href="https://shaws.com.sg/curriculum/">Curriculum</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9353"><a href="#">Resources</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8883"><a href="https://shaws.com.sg/frequently-asked-questions/">FAQs</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9310"><a href="https://shaws.com.sg/ready-for-preschool/">Ready for School</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11272"><a href="https://shaws.com.sg/articles/">Articles</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11273"><a href="https://shaws.com.sg/parenting-guides/">Parenting Guides</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11276"><a href="https://shaws.com.sg/free-downloadable-eguides/">Free Downloadable eGuides</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11275"><a href="https://shaws.com.sg/videos/">Videos</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11274"><a href="https://shaws.com.sg/events/">Events</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13459"><a href="https://shaws.com.sg/play-based-learning/">Play-Based Learning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13458"><a href="https://shaws.com.sg/executive-function/">Executive Function</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-13124 current_page_item menu-item-13457"><a href="https://shaws.com.sg/life-skills/" aria-current="page">Life Skills</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-135"><a href="#">Campuses</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8581"><a href="https://shaws.com.sg/preschool-serangoon/">Serangoon Area</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11687"><a href="https://shaws.com.sg/shaws-braddell-heights/">Shaws Braddell Heights</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11686"><a href="https://shaws.com.sg/shaws-lorong-chuan/">Shaws Lorong Chuan</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8582"><a href="https://shaws.com.sg/preschool-east-coast/">East Coast Area</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14778"><a href="https://shaws.com.sg/shaws-open-house/">SHAWS Open House</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8580"><a href="https://shaws.com.sg/testimonials/">Testimonials</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12978"><a href="https://shaws.com.sg/shaws-recruitment/">Join Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8575"><a href="https://shaws.com.sg/contact-us/">Contact Us</a></li>
+</ul></div>
+			</div>			</div> <!-- #et-top-navigation -->
+		</div> <!-- .container -->
+			</header> <!-- #main-header -->
+<div id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-13124" class="post-13124 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_0 executivefunction--bannercolumn-left  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0 executivefuction--h1  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h1>Essential Life Skills Every Preschool Child Must Have</h1></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Learn why Essential Life Skills matters to Your Preschooler</p></div>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_0 et_pb_bg_layout_dark" href="https://shaws.com.sg/book-a-tour/">BOOK A TOUR</a>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img fetchpriority="high" decoding="async" width="833" height="1165" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/03/life-skills-desktop-banner-new.png" alt="" title="life-skills-desktop-banner-new" data-srcset="https://shaws.com.sg/wp-content/uploads/2023/03/life-skills-desktop-banner-new.png 833w, https://shaws.com.sg/wp-content/uploads/2023/03/life-skills-desktop-banner-new-480x671.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 833px, 100vw" class="wp-image-13443 lazyload"><noscript><img fetchpriority="high" decoding="async" width="833" height="1165" src="https://shaws.com.sg/wp-content/uploads/2023/03/life-skills-desktop-banner-new.png" alt="" title="life-skills-desktop-banner-new" srcset="https://shaws.com.sg/wp-content/uploads/2023/03/life-skills-desktop-banner-new.png 833w, https://shaws.com.sg/wp-content/uploads/2023/03/life-skills-desktop-banner-new-480x671.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 833px, 100vw" class="wp-image-13443 lazyload" /></noscript></span>
+			</div><div class="et_pb_module et_pb_image et_pb_image_1">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="923" height="841" src="https://shaws.com.sg/wp-content/uploads/2023/03/life-skills-desktop-mobile-new.png" data-src="https://shaws.com.sg/wp-content/uploads/2023/03/life-skills-desktop-mobile-new.png" alt="" title="life-skills-desktop-mobile-new" data-srcset="https://shaws.com.sg/wp-content/uploads/2023/03/life-skills-desktop-mobile-new.png 923w, https://shaws.com.sg/wp-content/uploads/2023/03/life-skills-desktop-mobile-new-480x437.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 923px, 100vw" class="wp-image-13445 lazyloaded" srcset="https://shaws.com.sg/wp-content/uploads/2023/03/life-skills-desktop-mobile-new.png 923w, https://shaws.com.sg/wp-content/uploads/2023/03/life-skills-desktop-mobile-new-480x437.png 480w"><noscript><img decoding="async" width="923" height="841" src="https://shaws.com.sg/wp-content/uploads/2023/03/life-skills-desktop-mobile-new.png" alt="" title="life-skills-desktop-mobile-new" srcset="https://shaws.com.sg/wp-content/uploads/2023/03/life-skills-desktop-mobile-new.png 923w, https://shaws.com.sg/wp-content/uploads/2023/03/life-skills-desktop-mobile-new-480x437.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 923px, 100vw" class="wp-image-13445 lazyload" /></noscript></span>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_1 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_1 trilogy--contents et_pb_equal_columns et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Contents</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_icon et_pb_icon_0 trilogy--contents-logo">
+				<span class="et_pb_icon_wrap "><span class="et-pb-icon">C</span></span>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_2 et_pb_equal_columns et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><ol style="padding-bottom: 10px;">
+<li style="margin-bottom: 10px;"><a href="#What-are-Essential-Life-Skills" class="trilogy-a">What are Essential Life Skills</a></li>
+<li style="margin-bottom: 10px;"><a href="#Why-are-Life-Skills-Important-for-Children" class="trilogy-a">Why are Life Skills Important for Children</a></li>
+<li style="margin-bottom: 10px;"><a href="#How-to-Develop-Life-Skills-in-Your-Child" class="trilogy-a">How to Develop Life Skills in Your Child</a></li>
+<li style="margin-bottom: 10px;"><a href="#What-to-Look-For-in-an-Essential-Life-Skills-Curriculum" class="trilogy-a">What to Look For in an Essential Life Skills Curriculum</a></li>
+<li style="margin-bottom: 10px;"><a href="#How-Shaws-Weaves-Life-Skills-into-Our-Curriculum" class="trilogy-a">How Shaws Weaves Life Skills into Our Curriculum</a></li>
+<li><a href="#Key-Takeaways" class="trilogy-a">Key Takeaways<br>
+</a></li>
+</ol></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_2 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_3 trilogy--tablet-reverse">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough" id="What-is-Play-Based-Learning">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner">As a parent, you want your child to grow up to be confident, independent, and well-rounded. One of the best ways to help them get there is by teaching them essential life skills. <p></p>
+<p>But what are these life skills? And why are they so important for your preschool-aged child?</p>
+<p>Essential life skills are an important part of a child’s growth and development. They help children to navigate everyday life, be independent, communicate well, and learn to solve problems. As a parent, you can help your child develop these skills by creating opportunities for them to practice and grow, modeling good behavior, and engaging in open communication. </p>
+<p>In this comprehensive guide, we’ll explore the different types of essential life skills, their importance, and ways you can help your child develop them. We’ll also provide tips on how to find the right preschool to support your child’s growth and development. </p>
+<p>Join us now as we delve into the world of essential life skills for preschool children!</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_video et_pb_video_0">
+				
+				
+				
+				
+				<div class="et_pb_video_box">
+				<video class=" lazyloaded" controls="">
+					<source type="video/mp4" src="https://shaws.com.sg/wp-content/uploads/2023/03/Shaws_Video-Trilogy-Project-Video-3-3.mp4">
+					<source type="video/webm" src="https://shaws.com.sg/wp-content/uploads/2023/03/Shaws_Video-Trilogy-Project-Video-3-3.mp4">
+				</video></div>
+				
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div id="What-are-Essential-Life-Skills" class="et_pb_section et_pb_section_3 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2>What are Essential Life Skills?</h2></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Life skills are abilities that allow individuals to effectively navigate and manage various aspects of their lives. They are considered essential for personal growth and success, and can be learned and developed through education, training, and practice.</p>
+<p>Here are the top 10 essential life skills that experts agree are important for everybody — young children, teens, youths and adults alike — to develop and strengthen:</p>
+<ol>
+<li style="margin-bottom: 10px;"><strong>Problem solving</strong>: learning how to find solutions to challenges and obstacles.</li>
+<li style="margin-bottom: 10px;"><strong>Critical thinking</strong>: being able to evaluate information and make good decisions.</li>
+<li style="margin-bottom: 10px;"><strong>Communication</strong>: being able to express oneself clearly and effectively.</li>
+<li style="margin-bottom: 10px;"><strong>Decision-making</strong>: being able to choose between different options.</li>
+<li style="margin-bottom: 10px;"><strong>Creativity</strong>: thinking outside the box and coming up with new ideas.</li>
+<li style="margin-bottom: 10px;"><strong>Interpersonal skills</strong>: being able to get along with others and build relationships.</li>
+<li style="margin-bottom: 10px;"><strong>Self-awareness</strong>: understanding one’s own thoughts and feelings.</li>
+<li style="margin-bottom: 10px;"><strong>Empathy</strong>: understanding and caring about the feelings of others.</li>
+<li style="margin-bottom: 10px;"><strong>Coping with stress</strong>: managing difficult emotions and situations.</li>
+<li><strong>Emotional regulation</strong>: being able to control one’s emotions and reactions.</li>
+</ol>
+<p>Organizations like UNICEF, UNESCO, and WHO <a href="https://www.unodc.org/pdf/youthnet/action/message/escap_peers_07.pdf" target="_blank" rel="noopener">have identified</a> these skills as being essential for children to learn to be successful in life. While they may have their roots in early childhood, these competencies need to be developed through life.</p></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>For a young child in the preschool age group, there are eight essential life skills that we consider vital to their development:</p>
+<ol>
+<li style="margin-bottom: 10px;"><strong>Communication</strong>: the ability to express themselves effectively and to understand others with both verbal and non-verbal communication methods.</li>
+<li style="margin-bottom: 10px;"><strong>Self-care</strong>: the ability to take care of their own physical and emotional needs, such as dressing oneself, brushing teeth, and managing emotions.</li>
+<li style="margin-bottom: 10px;"><strong>Problem-solving</strong>: the ability to find solutions to problems through critical thinking and creativity. Naturally, this will vary depending on the age of the child.</li>
+<li style="margin-bottom: 10px;"><strong>Social skills</strong>: the ability to interact and build relationships with others, including sharing, taking turns, and understanding social cues like helping others in the same team.</li>
+<li style="margin-bottom: 10px;"><strong>Emotional regulation</strong>: the ability to manage their emotions in healthy ways, such as by understanding and expressing their feelings, and coping with difficult situations.</li>
+<li style="margin-bottom: 10px;"><strong>Self-control</strong>: the ability to control impulses, delay gratification, and make responsible decisions.</li>
+<li style="margin-bottom: 10px;"><strong>Creativity and imagination</strong>: the ability to think outside the box and come up with new ideas.</li>
+<li><strong>Physical coordination and fine motor skills</strong>: the ability to use the body and hands effectively, such as for writing, drawing and other tasks.</li>
+</ol>
+<p>To develop these life skills in your young child, you need to weave them into your everyday parenting activities. This should be supplemented by a quality preschool education.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_5">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_1 et_pb_bg_layout_dark" href="https://shaws.com.sg/book-a-tour/">BOOK A TOUR</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_4 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_6">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_2">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="545" height="600" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/03/Essential-Life-Skills-Important-for-Your-Child-new.jpg" alt="" title="Essential-Life-Skills-Important-for-Your-Child-new" data-srcset="https://shaws.com.sg/wp-content/uploads/2023/03/Essential-Life-Skills-Important-for-Your-Child-new.jpg 545w, https://shaws.com.sg/wp-content/uploads/2023/03/Essential-Life-Skills-Important-for-Your-Child-new-480x528.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 545px, 100vw" class="wp-image-13300 lazyload"><noscript><img decoding="async" width="545" height="600" src="https://shaws.com.sg/wp-content/uploads/2023/03/Essential-Life-Skills-Important-for-Your-Child-new.jpg" alt="" title="Essential-Life-Skills-Important-for-Your-Child-new" srcset="https://shaws.com.sg/wp-content/uploads/2023/03/Essential-Life-Skills-Important-for-Your-Child-new.jpg 545w, https://shaws.com.sg/wp-content/uploads/2023/03/Essential-Life-Skills-Important-for-Your-Child-new-480x528.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 545px, 100vw" class="wp-image-13300 lazyload" /></noscript></span>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough et-last-child" id="Why-are-Life-Skills-Important-for-Children">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2>Why are Essential Life Skills Important for Your Child?</h2></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner">Is there a need for your child to be equipped with life skills at an early age? Most definitely!<p></p>
+<p>Essential life skills are important for preschool-aged children because they provide a foundation for their future development and well-being. These life skills help to also improve your child’s executive function, setting the foundation for the rest of their lives.</p>
+<p>Let us look at five ways in which essential life skills matter.</p>
+<h5>1. They promote independence and self-sufficiency</h5>
+<p>Life skills such as self-care and problem-solving can help your children to become more independent and capable of taking care of themselves. This not only gives them a sense of confidence and self-esteem — it also sets the foundation for positive life habits.</p>
+<h5>2. They foster social and emotional development</h5>
+<p>Social skills, emotional regulation, and self-control are vital skills for children to acquire at an early age. These abilities help them to interact effectively with others and navigate the social world around them.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_7">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h5>3. They prepare children for school</h5>
+<p>Life skills like communication, problem-solving, and creativity are important for success in school. Children who have developed these skills are more likely to be engaged in learning and to have the ability to take on more complex tasks.</p>
+<h5>4. They provide the foundation for future success</h5>
+<p>Essential life skills form the foundation for later life skills. They help to establish your child’s future success in areas such as education, work and relationships.</p>
+<h5>5. They promote overall well-being</h5>
+<p>Life skills such as self-care, emotional regulation, and self-control can help children learn how to take care of their own physical and emotional needs, which can lead to better overall well-being. Such skills can carry them through all the way to adulthood.</p>
+<h5>6. They help to develop a child’s executive function skills</h5>
+<p>Essential life skills are also important as they help to lay the foundation in developing your child’s <a href="https://shaws.com.sg/executive-function/">executive functions</a>. These are the mental processes that help them to plan, focus their attention, remember instructions, and juggle multiple tasks successfully.</p>
+<p>In this regard, preschool forms a crucial period for your child’s development. Providing opportunities for them to learn and practice essential life skills can have a positive impact on their futures.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_8">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_2 et_pb_bg_layout_dark" href="https://shaws.com.sg/book-a-tour/">BOOK A TOUR</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_5 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_9 trilogy--tablet-reverse">
+				<div class="et_pb_column et_pb_column_3_5 et_pb_column_13  et_pb_css_mix_blend_mode_passthrough" id="How-to-Develop-Life-Skills-in-Your-Child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_11  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2>How to Develop Essential Life Skills in Your Child</h2></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_12  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>There are various ways to develop essential life skills in your child. </p>
+<p>Here at Shaws, we advocate parents to use an age-by-age approach, equipping your child with the right life skills depending on their readiness.</p>
+<h3 style="margin-top:20px;margin-bottom:20px">Toddlers (2 Years Old)</h3>
+<p>At two years old, your little one is full of energy and ready to learn new things! One of the most important things for them to learn at this age is how to use their body and hands.</p>
+<p>Here are some fun and easy ways you can help them develop their gross and fine motor skills:</p>
+<p>Clean up time! Help your child learn to pick up their toys and put them away. Show them how to hold the toys and walk to the toy shelf to put them back. This will not only teach them about tidiness, but help with their balance and movement.</p>
+<p>After meal helpers: Encourage your child to help you by carrying their plates to the sink. This will help them develop their balance and movement. Remember to be patient if they drop something — encourage them to try again.</p>
+<p>Getting dressed: Help your child learn to undress themselves by guiding them through the process. Show them how to pull down their pants and skirts, and they’ll gradually learn to do it on their own.</p>
+<p>Brush, brush, brush: Teeth brushing can be tricky for toddlers, so they’ll still need your help. Hold their hand and guide them while brushing their teeth, and use this opportunity to teach them about numbers by counting the strokes.</p>
+<p>Clean hands: Show your child how to wash their hands by turning on the faucet, lathering their hands with soap, washing between their fingers, rinsing and wiping dry. Starting to wash their hands early is a great way to teach them about hygiene.</p>
+<p>Hair care: Help your child comb their hair each day by setting a routine hair-combing session in front of the mirror. Let them hold the comb and guide their hand when combing from the crown of their head downwards. This will teach them about grooming and self-care.</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_2_5 et_pb_column_14  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_3">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="429" height="591" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/03/toddler-life-skills-new.jpg" alt="" title="toddler-life-skills-new" data-srcset="https://shaws.com.sg/wp-content/uploads/2023/03/toddler-life-skills-new.jpg 429w, https://shaws.com.sg/wp-content/uploads/2023/03/toddler-life-skills-new-218x300.jpg 218w, https://shaws.com.sg/wp-content/uploads/2023/03/toddler-life-skills-new-109x150.jpg 109w" sizes="(max-width: 429px) 100vw, 429px" class="wp-image-13301 lazyload"><noscript><img decoding="async" width="429" height="591" src="https://shaws.com.sg/wp-content/uploads/2023/03/toddler-life-skills-new.jpg" alt="" title="toddler-life-skills-new" srcset="https://shaws.com.sg/wp-content/uploads/2023/03/toddler-life-skills-new.jpg 429w, https://shaws.com.sg/wp-content/uploads/2023/03/toddler-life-skills-new-218x300.jpg 218w, https://shaws.com.sg/wp-content/uploads/2023/03/toddler-life-skills-new-109x150.jpg 109w" sizes="(max-width: 429px) 100vw, 429px" class="wp-image-13301 lazyload" /></noscript></span>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_10">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_15  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_4">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="545" height="600" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/03/nursery-1-life-skill-new1.jpg" alt="" title="nursery-1-life-skill-new1" data-srcset="https://shaws.com.sg/wp-content/uploads/2023/03/nursery-1-life-skill-new1.jpg 545w, https://shaws.com.sg/wp-content/uploads/2023/03/nursery-1-life-skill-new1-480x528.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 545px, 100vw" class="wp-image-13306 lazyload"><noscript><img decoding="async" width="545" height="600" src="https://shaws.com.sg/wp-content/uploads/2023/03/nursery-1-life-skill-new1.jpg" alt="" title="nursery-1-life-skill-new1" srcset="https://shaws.com.sg/wp-content/uploads/2023/03/nursery-1-life-skill-new1.jpg 545w, https://shaws.com.sg/wp-content/uploads/2023/03/nursery-1-life-skill-new1-480x528.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 545px, 100vw" class="wp-image-13306 lazyload" /></noscript></span>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_16  et_pb_css_mix_blend_mode_passthrough et-last-child" id="How-Executive-Function-Affects-Learning">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_13  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Nursery 1 (3 Years Old)</h3>
+<p>Your 3-year-old is growing up fast! From being a toddler in playgroup, they’re now in nursery class.</p>
+<p>At this age, they’re working hard to improve their motor skills. They’re probably starting to dress themselves, and you can give them more chores to do, even if they don’t want to!</p>
+<ol>
+<li style="margin-bottom: 10px;"><strong>Swimming lessons</strong>: Swimming is a really important skill for kids to learn. It’s not only fun — it helps them to build confidence, improve gross motor skills, and coordination.</li>
+<li style="margin-bottom: 10px;"><strong>Trike time</strong>: Riding a tricycle is a great way for your child to develop their gross motor skills and prepare for riding a bicycle.</li>
+<li style="margin-bottom: 10px;"><strong>Bed-making</strong>: Getting your child to make their bed in the morning can give them a sense of pride and help them learn to be organized. They might not be able to fold the blankets perfectly yet, but they can still straighten them out and put the pillows on top.</li>
+<li style="margin-bottom: 10px;"><strong>Table setting</strong>: Mealtime is an important routine for families. Help your child feel involved by having them put their bowl, cup, and utensils neatly on the table.</li>
+<li><strong>Clean up</strong>: Spills happen, and it’s important to teach your child how to clean them up. Show them how to identify the spill and guide them through the process of cleaning it up.</li>
+</ol></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_11 trilogy--tablet-reverse">
+				<div class="et_pb_column et_pb_column_3_5 et_pb_column_17  et_pb_css_mix_blend_mode_passthrough" id="How-Executive-Function-Affects-Learning">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_14  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Nursery 2 (4 Years Old)</h3>
+<p>Your child has grown so much in just one year! Their eyesight is better, which means they can coordinate better, read and recognize things easier. Their minds are also growing quickly, and they’re like little sponges soaking up information.</p>
+<p>At this age, they can become your little helpers around the house and are ready to start remembering important names and numbers.</p>
+<p style="margin-bottom: 10px;">Here are some fun and age-appropriate ways to involve your 4-year-old in helping out around the house:</p>
+<ol>
+<li style="margin-bottom: 10px;"><strong>Carrying and sorting groceries</strong>: Involve your child in family chores by having them carry groceries home and help sort the fruits and vegetables. This will help them learn to identify different types of fruits and vegetables, and will also give them a sense of pride in helping out.</li>
+<li style="margin-bottom: 10px;"><strong>Gathering the laundry</strong>: Now that your child has learnt to send their clothes to the wash, they can also help bring in the clean clothes. Get your little helper to gather the clothes and sheets and to place them neatly at a designated spot.</li>
+<li style="margin-bottom: 10px;"><strong>Upgrading swimming skills</strong>: Once your child has become more familiar with water, work towards leveling up their swimming skills. This gives them greater water confidence in the pool while you supervise and join in the fun!</li>
+<li style="margin-bottom: 10px;"><strong>Cleaning bookshelves</strong>: Encourage your little ones to be tidy by having them take ownership of their room’s cleanliness. Start them off by guiding them to dust easy-to-reach spaces on their cabinets and shelves.</li>
+<li style="margin-bottom: 10px;"><strong>Learn home address</strong>: As your child’s ability to remember grows, start familiarizing them with their home address. This will be helpful in situations where they are separated from you.</li>
+<li style="margin-bottom: 10px;"><strong>Learning both parents’ names</strong>: Beyond recognizing you as papa or mama, familiarize your child with your full name. Once again, this knowledge will come in handy if they get lost.</li>
+<li><strong>Learning at least one parent’s phone number</strong>: Get them started on remembering your phone number. To help them out, you can create a little song with rhyme – rhyming has been known to help people recall information better.</li>
+</ol></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_2_5 et_pb_column_18  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_5">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="429" height="591" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/03/nursery-2-life-skill-new.jpg" alt="" title="nursery-2-life-skill-new" data-srcset="https://shaws.com.sg/wp-content/uploads/2023/03/nursery-2-life-skill-new.jpg 429w, https://shaws.com.sg/wp-content/uploads/2023/03/nursery-2-life-skill-new-218x300.jpg 218w, https://shaws.com.sg/wp-content/uploads/2023/03/nursery-2-life-skill-new-109x150.jpg 109w" sizes="(max-width: 429px) 100vw, 429px" class="wp-image-13308 lazyload"><noscript><img decoding="async" width="429" height="591" src="https://shaws.com.sg/wp-content/uploads/2023/03/nursery-2-life-skill-new.jpg" alt="" title="nursery-2-life-skill-new" srcset="https://shaws.com.sg/wp-content/uploads/2023/03/nursery-2-life-skill-new.jpg 429w, https://shaws.com.sg/wp-content/uploads/2023/03/nursery-2-life-skill-new-218x300.jpg 218w, https://shaws.com.sg/wp-content/uploads/2023/03/nursery-2-life-skill-new-109x150.jpg 109w" sizes="(max-width: 429px) 100vw, 429px" class="wp-image-13308 lazyload" /></noscript></span>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_12">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_19  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_6">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="545" height="600" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/03/kindergarten-life-skills-new.jpg" alt="" title="kindergarten-life-skills-new" data-srcset="https://shaws.com.sg/wp-content/uploads/2023/03/kindergarten-life-skills-new.jpg 545w, https://shaws.com.sg/wp-content/uploads/2023/03/kindergarten-life-skills-new-480x528.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 545px, 100vw" class="wp-image-13309 lazyload"><noscript><img decoding="async" width="545" height="600" src="https://shaws.com.sg/wp-content/uploads/2023/03/kindergarten-life-skills-new.jpg" alt="" title="kindergarten-life-skills-new" srcset="https://shaws.com.sg/wp-content/uploads/2023/03/kindergarten-life-skills-new.jpg 545w, https://shaws.com.sg/wp-content/uploads/2023/03/kindergarten-life-skills-new-480x528.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 545px, 100vw" class="wp-image-13309 lazyload" /></noscript></span>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_20  et_pb_css_mix_blend_mode_passthrough et-last-child" id="How-Executive-Function-Affects-Learning">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_15  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Kindergarten 1 (5 Years Old)</h3>
+<p>Your five-year-old is ready for big things! They’re moving on to kindergarten and learning new, more complicated skills and taking on more responsibilities.</p>
+<p style="margin-buttom: 10px;">Here are some fun and age-appropriate ways to help them grow:</p>
+<ol>
+<li style="margin-bottom: 10px;"><strong>Bike riding</strong>: It’s time to take off those training wheels! Learning to ride a bike is a skill that will stay with them for life and it helps with hand-eye coordination, movement and balance. Be prepared for falls and always respond with a hug and a kiss.</li>
+<li style="margin-bottom: 10px;"><strong>Swimming</strong>: Your kindergartener should be able to swim on their own now, with you supervising from the side of the pool. Consider teaching them more complex swimming strokes to move around the pool.</li>
+<li style="margin-bottom: 10px;"><strong>Folding clothes</strong>: After gathering the laundry, your child can learn to fold their own clothes and put them away neatly.</li>
+<li style="margin-bottom: 10px;"><strong>Showering</strong>: Shower time can now be a fun and collaborative activity. Guide your child in showering themselves, focusing on rinsing and scrubbing. Be there to put the shampoo and shower gel in their hands.</li>
+<li style="margin-bottom: 10px;"><strong>Learning to tie their shoes</strong>: Shoes with laces are a fun way to teach your child fine motor skills and it’s a skill that will stay with them for life! They may need some guidance at first, but with a little practice, they’ll be able to tie their shoes like a pro.</li>
+<li style="margin-bottom: 10px;"><strong>Emergency numbers</strong>: Teach your child important numbers such as 999 (police emergency hotline) and 995 (medical emergency hotline), and the phone number of a trusted family member or friend. This way, if they ever get lost or need help, they’ll know who to call.</li>
+<li><strong>Performing basic grooming</strong>: Your kindergartener should be able to brush their teeth, comb their hair and wash their faces on their own now. Do a quick check to make sure they’re doing a good job and it will encourage them to take more responsibility for their own grooming. And remember, have fun with it!</li>
+<li><strong>Washing and drying dishes</strong>: Your child is a big kid now and can be entrusted with bigger tasks such as washing dishes. Place a stool by the sink if they are unable to reach the tap. Remember to be patient and forgiving with accidents!</li>
+</ol></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_13 trilogy--tablet-reverse">
+				<div class="et_pb_column et_pb_column_3_5 et_pb_column_21  et_pb_css_mix_blend_mode_passthrough" id="How-Executive-Function-Affects-Learning">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_16  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Kindergarten 2 (6 Years Old)</h3>
+<p>Your kindergartener is growing up and getting ready for big things! As they get ready for primary school, it’s time to give them more responsibilities and help them build confidence.</p>
+<p>Here are some fun ways to help them prepare:</p>
+<ol>
+<li style="margin-bottom: 10px;"><strong>Pouring juice or milk</strong>: Guide your child to pour a drink into a cup, it’s a great way to practice hand-eye coordination and it can also be a part of the daily meal preparations.</li>
+<li style="margin-bottom: 10px;"><strong>Making a sandwich</strong>: If your child is craving a snack, get them to prepare it themselves! They should be able to follow you step-by-step and make their own sandwiches. Just be prepared for some kitchen messes!</li>
+<li style="margin-bottom: 10px;"><strong>Showering independently</strong>: Your child should be able to shower by themselves and no longer require supervision. Make sure to put the shower essentials within their reach!</li>
+<li style="margin-bottom: 10px;"><strong>Making their own bed</strong>: Your child should be able to make their own bed, folding the blanket and placing it neatly at the foot of the bed, with their pillow at the head.</li>
+<li style="margin-bottom: 10px;"><strong>Understanding time</strong>: Teach your child about time, so they can tell what time of day it is and learn how much time they need to finish their tasks.</li>
+<li style="margin-bottom: 10px;"><strong>Understanding money</strong>: Teach your child about money, so they can understand how to spend and save their allowance.</li>
+<li style="margin-bottom: 10px;"><strong>Cleaning themselves after using the bathroom</strong>: Prepare your child for primary school by teaching them how to clean themselves after using the bathroom.</li>
+<li><strong>Washing and drying dishes</strong>: Your child is a big kid now and can be entrusted with bigger tasks such as washing dishes. Place a stool by the sink if they are unable to reach the tap. Remember to be patient and forgiving with accidents!</li>
+</ol></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_2_5 et_pb_column_22  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_7">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="429" height="591" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/03/kindergarten-2-life-skills2.jpg" alt="" title="kindergarten-2-life-skills2" data-srcset="https://shaws.com.sg/wp-content/uploads/2023/03/kindergarten-2-life-skills2.jpg 429w, https://shaws.com.sg/wp-content/uploads/2023/03/kindergarten-2-life-skills2-218x300.jpg 218w, https://shaws.com.sg/wp-content/uploads/2023/03/kindergarten-2-life-skills2-109x150.jpg 109w" sizes="(max-width: 429px) 100vw, 429px" class="wp-image-13313 lazyload"><noscript><img decoding="async" width="429" height="591" src="https://shaws.com.sg/wp-content/uploads/2023/03/kindergarten-2-life-skills2.jpg" alt="" title="kindergarten-2-life-skills2" srcset="https://shaws.com.sg/wp-content/uploads/2023/03/kindergarten-2-life-skills2.jpg 429w, https://shaws.com.sg/wp-content/uploads/2023/03/kindergarten-2-life-skills2-218x300.jpg 218w, https://shaws.com.sg/wp-content/uploads/2023/03/kindergarten-2-life-skills2-109x150.jpg 109w" sizes="(max-width: 429px) 100vw, 429px" class="wp-image-13313 lazyload" /></noscript></span>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_14">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_23  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_3 et_pb_bg_layout_dark" href="https://shaws.com.sg/book-a-tour/">BOOK A TOUR</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_6 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_15">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_24  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_8">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="553" height="600" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/03/curriculum-life-skills-new.jpg" alt="" title="curriculum-life-skills-new" data-srcset="https://shaws.com.sg/wp-content/uploads/2023/03/curriculum-life-skills-new.jpg 553w, https://shaws.com.sg/wp-content/uploads/2023/03/curriculum-life-skills-new-480x521.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 553px, 100vw" class="wp-image-13315 lazyload"><noscript><img decoding="async" width="553" height="600" src="https://shaws.com.sg/wp-content/uploads/2023/03/curriculum-life-skills-new.jpg" alt="" title="curriculum-life-skills-new" srcset="https://shaws.com.sg/wp-content/uploads/2023/03/curriculum-life-skills-new.jpg 553w, https://shaws.com.sg/wp-content/uploads/2023/03/curriculum-life-skills-new-480x521.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 553px, 100vw" class="wp-image-13315 lazyload" /></noscript></span>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_25  et_pb_css_mix_blend_mode_passthrough et-last-child" id="What-to-Look-For-in-an-Essential-Life-Skills-Curriculum">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_17  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2>What to look for in an Essential Life Skills Curriculum</h2></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_18  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Learning life skills at home is important. However, your child’s capabilities will develop a lot faster if they’re immersed in a preschool environment that focuses on such skills.</p>
+<p>When looking for a preschool that teaches essential life skills, parents should look out for the following:</p>
+<h3>1. Curriculum Focused on Life Skills</h3>
+<p>The curriculum of your preschool should include <a href="https://shaws.com.sg/ready-for-preschool/">activities and lessons</a> that focus on developing the core life skills listed above, such as problem-solving, critical thinking, and communication.</p>
+<h3>2. Teaching approach</h3>
+<p>Have a look at the pedagogical approach adopted by the preschool. Life skills are best taught through role-modelling. The school should also use a hands-on, experiential approach to learning, rather than rely solely on lectures and rote memorization.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_16">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_26  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_19  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>3. Classroom environment</h3>
+<p>The preschool classroom should be set up in a way that encourages children to be independent, active learners, with plenty of opportunities for exploration and experimentation. It should provide adequate spaces for <a href="https://shaws.com.sg/benefits-of-a-play-based-preschool/">both outdoor and indoor play</a>.</p>
+<h3>4. Qualified and experienced teachers</h3>
+<p>Your child’s preschool teachers should be qualified and experienced in working with young children, and trained in teaching essential life skills.</p>
+<h3>5. Parental involvement</h3>
+<p>The school should have an open-door policy and encourage parental involvement in their child’s education, including regular progress reports and parent-teacher meetings.</p>
+<p>When screening through the curriculum of a preschool, parents should take note of the following:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="margin-bottom: 10px;">The curriculum should focus on the development of essential life skills, not just academics</li>
+<li style="margin-bottom: 10px;">The curriculum should cover the core life skills such as problem-solving, critical thinking, and communication skills</li>
+<li style="margin-bottom: 10px;">The curriculum should have a hands-on, experiential approach</li>
+<li style="margin-bottom: 10px;">The curriculum should have a balance of child-centred and teacher-directed activities</li>
+<li>The curriculum should also have opportunities for children to work independently and in groups.</li>
+</ul>
+</li>
+</ul>
+<p>Additionally, you should visit the school, observe how classes are conducted, and talk to the teachers to get a better sense of the school’s approach to teaching essential life skills.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_17">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_27  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_4_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_4 et_pb_bg_layout_dark" href="https://shaws.com.sg/book-a-tour/">BOOK A TOUR</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_7 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_18 trilogy--tablet-reverse">
+				<div class="et_pb_column et_pb_column_3_5 et_pb_column_28  et_pb_css_mix_blend_mode_passthrough" id="How-Shaws-Weaves-Life-Skills-into-Our-Curriculum">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_20  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2>How Shaws weave Essential Life Skills Training to Our Children</h2></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_21  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Want your child to pick up age-relevant essential life skills and apply them every day? Consider Shaws Preschool!</p>
+<p>Our <a href="https://shaws.com.sg/curriculum/">play-based preschool curriculum</a> is specially tailored to equip your child with the right essential life skills to succeed in life. Here are some of the main life skills that we cover:</p>
+<ol style="margin-bottom: 0px;">
+<li style="margin-bottom: 10px;"><strong>Environmental Awareness</strong>: We teach kids how to take care of the planet through recycling, composting and learning about different animals and plants.</li>
+<li style="margin-bottom: 10px;"><strong>Self Confidence</strong>: Our teachers give children opportunities to lead activities and make choices to boost their self-assurance.</li>
+<li style="margin-bottom: 10px;"><strong>Initiative &amp; Entrepreneurship</strong>: We encourage children to come up with their own ideas and projects, and teach them how to turn their ideas into reality.</li>
+<li style="margin-bottom: 10px;"><strong>Curiosity &amp; Imagination</strong>: We spark children’s curiosity by providing open-ended activities and materials for them to explore and imagine with.</li>
+<li style="margin-bottom: -20px;"><strong>Effective Oral and Written Communication</strong>: We help children learn how to express themselves clearly and effectively, whether it’s through speaking or writing.</li>
+</ol></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_2_5 et_pb_column_29  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_9">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="429" height="591" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/03/weave-Essential-Life-Skills-Training-new.jpg" alt="" title="weave-Essential-Life-Skills-Training-new" data-srcset="https://shaws.com.sg/wp-content/uploads/2023/03/weave-Essential-Life-Skills-Training-new.jpg 429w, https://shaws.com.sg/wp-content/uploads/2023/03/weave-Essential-Life-Skills-Training-new-218x300.jpg 218w, https://shaws.com.sg/wp-content/uploads/2023/03/weave-Essential-Life-Skills-Training-new-109x150.jpg 109w" sizes="(max-width: 429px) 100vw, 429px" class="wp-image-13318 lazyload"><noscript><img decoding="async" width="429" height="591" src="https://shaws.com.sg/wp-content/uploads/2023/03/weave-Essential-Life-Skills-Training-new.jpg" alt="" title="weave-Essential-Life-Skills-Training-new" srcset="https://shaws.com.sg/wp-content/uploads/2023/03/weave-Essential-Life-Skills-Training-new.jpg 429w, https://shaws.com.sg/wp-content/uploads/2023/03/weave-Essential-Life-Skills-Training-new-218x300.jpg 218w, https://shaws.com.sg/wp-content/uploads/2023/03/weave-Essential-Life-Skills-Training-new-109x150.jpg 109w" sizes="(max-width: 429px) 100vw, 429px" class="wp-image-13318 lazyload" /></noscript></span>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_19">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_30  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_22  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><ol start="6">
+<li style="margin-bottom: 10px;"><strong>Empathy</strong>: We teach kids how to understand and care about the feelings of others through role-playing and discussions.</li>
+<li style="margin-bottom: 10px;"><strong>Collaboration</strong>: We teach our children how to work well with others by having them participate in group activities and projects.</li>
+<li style="margin-bottom: 10px;"><strong>Creativity, Critical Thinking &amp; Problem Solving</strong>: We help children develop these skills by providing them with challenging activities and open-ended materials that encourage them to think outside the box.</li>
+<li style="margin-bottom: 10px;"><strong>Adaptability</strong>: We teach children how to be flexible and adapt to new situations through various activities and challenges.</li>
+<li style="margin-bottom: 10px;"><strong>Technology Readiness</strong>: We help children learn how to use technology safely and responsibly through age-appropriate activities and lessons.</li>
+<li style="margin-bottom: 10px;"><strong>Self Regulation</strong>: We teach children how to control their emotions and reactions through activities such as yoga, deep breathing and mindfulness.</li>
+<li><strong>Grit &amp; Resilience</strong>: We teach children how to persevere through challenges and setbacks by providing them with opportunities to practise and develop this skill.</li>
+</ol>
+<p>All these pointers above are not just words — they form the core of our curriculum and how we approach teaching. When your child is with us, they will be learning these skills through fun and engaging activities, and you will see the progress in them as they grow.</p>
+<p>Find out more by <a href="https://shaws.com.sg/contact-us/">getting in touch with us here</a>. You can also email us at olive@shaws.com.sg or call us at +65 9772 4035</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_20">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_31  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_5_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_5 et_pb_bg_layout_dark" href="https://shaws.com.sg/book-a-tour/">BOOK A TOUR</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div id="Key-Takeaways" class="et_pb_section et_pb_section_8 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_21">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_32  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_23  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2>Key Takeaways:</h2></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_24  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner">In conclusion, essential life skills are important for children to be able to navigate the world around them and to be successful in their future. It is important to choose a preschool that focuses on an age-appropriate evidence-based curriculum for teaching these skills. <p></p>
+<p>You should also incorporate such training into your everyday activities and routines as a parent. Make it a part and parcel of your family life. </p>
+<p>At Shaws, we believe in the importance of teaching children essential life skills from an early age, in order to set them up for success in the future. Consider enrolling your children</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_9 et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_22">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_33  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_25  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2>Wonder what life skills to teach your little ones at different ages?</h2></div>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_6_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_6 et_pb_bg_layout_dark" href="https://shaws.com.sg/free-download-age-by-age-life-skills-guide/">DOWNLOAD YOUR E-GUIDE NOW</a>
+			</div><div class="et_pb_module et_pb_image et_pb_image_10">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="1170" height="770" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://shaws.com.sg/wp-content/uploads/2023/03/Shaws_0050-footer-img.png" alt="" title="Shaws_0050-footer-img" data-srcset="https://shaws.com.sg/wp-content/uploads/2023/03/Shaws_0050-footer-img.png 1170w, https://shaws.com.sg/wp-content/uploads/2023/03/Shaws_0050-footer-img-980x645.png 980w, https://shaws.com.sg/wp-content/uploads/2023/03/Shaws_0050-footer-img-480x316.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1170px, 100vw" class="wp-image-13290 lazyload"><noscript><img decoding="async" width="1170" height="770" src="https://shaws.com.sg/wp-content/uploads/2023/03/Shaws_0050-footer-img.png" alt="" title="Shaws_0050-footer-img" srcset="https://shaws.com.sg/wp-content/uploads/2023/03/Shaws_0050-footer-img.png 1170w, https://shaws.com.sg/wp-content/uploads/2023/03/Shaws_0050-footer-img-980x645.png 980w, https://shaws.com.sg/wp-content/uploads/2023/03/Shaws_0050-footer-img-480x316.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1170px, 100vw" class="wp-image-13290 lazyload" /></noscript></span>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</div>
+	<div class="swp_social_panel swp_horizontal_panel swp_flat_fresh  swp_default_full_color swp_individual_full_color swp_other_full_color scale-100  scale-" data-min-width="1100" data-float-color="#ffffff" data-float="left" data-float-mobile="none" data-transition="slide" data-post-id="13124"><div class="nc_tweetContainer swp_share_button swp_twitter" data-network="twitter"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=Trilogy+Life+Skills&amp;url=https%3A%2F%2Fshaws.com.sg%2Flife-skills%2F" data-link="https://twitter.com/intent/tweet?text=Trilogy+Life+Skills&amp;url=https%3A%2F%2Fshaws.com.sg%2Flife-skills%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_facebook" data-network="facebook"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2Flife-skills%2F" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2Flife-skills%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_linkedin" data-network="linkedin"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2Flife-skills%2F" data-link="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2Flife-skills%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_linkedin_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_pinterest" data-network="pinterest"><a rel="nofollow noreferrer noopener" class="nc_tweet swp_share_link noPop" onclick="var e=document.createElement('script');
+							e.setAttribute('type','text/javascript');
+							e.setAttribute('charset','UTF-8');
+							e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+							document.body.appendChild(e);
+						"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_pinterest_icon"></i><span class="swp_share">Pin</span></span></span></span></a></div></div><div class="swp-content-locator"></div>					</div>
+
+				
+				</article>
+
+			
+
+</div>
+
+	<footer class="et-l et-l--footer">
+			<div class="et_builder_inner_content et_pb_gutters3"><div class="et_pb_section et_pb_section_0_tb_footer et_pb_with_background et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0_tb_footer et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0_tb_footer  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner">Copyright © Shaws Preschool 2023. All rights reserved. | <a href="/privacy-policy/">PDPA</a></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_1_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<ul class="et_pb_module et_pb_social_media_follow et_pb_social_media_follow_0_tb_footer clearfix  et_pb_text_align_right et_pb_text_align_center-tablet et_pb_bg_layout_light">
+				
+				
+				
+				
+				<li class="et_pb_social_media_follow_network_0_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-facebook"><a href="https://www.facebook.com/ShawsPreschool/" class="icon et_pb_with_border" title="Follow on Facebook" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li><li class="et_pb_social_media_follow_network_1_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-instagram"><a href="https://www.instagram.com/shawspreschool" class="icon et_pb_with_border" title="Follow on Instagram" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li><li class="et_pb_social_media_follow_network_2_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-tiktok et-pb-social-fa-icon"><a href="https://www.tiktok.com/@shawspreschool" class="icon et_pb_with_border" title="Follow on TikTok" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li><li class="et_pb_social_media_follow_network_3_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-linkedin"><a href="https://www.linkedin.com/company/shaws-preschool/" class="icon et_pb_with_border" title="Follow on LinkedIn" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li>
+			</ul>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</footer>
+		</div>
+
+			
+		</div>
+		<div id="et-boc" class="dm-base-context"><div class="et-l dm-base-context"></div></div></div>
+
+			
+			<script type="text/javascript">
+				var _paq = _paq || [];
+								_paq.push(['trackPageView']);
+								(function () {
+					var u = "https://stats1.wpmudev.com/";
+					_paq.push(['setTrackerUrl', u + 'track/']);
+					_paq.push(['setSiteId', '104426']);
+					var d   = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+					g.type  = 'text/javascript';
+					g.async = true;
+					g.defer = true;
+					g.src   = 'https://stats.wpmucdn.com/analytics.js';
+					s.parentNode.insertBefore(g, s);
+				})();
+			</script>
+			<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KW27VTQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<meta name="facebook-domain-verification" content="0o3k381n2p456ddv7u9u8uf9nceeo3">
+
+
+
+
+<!-- Facebook Pixel Code -->
+
+<script>
+
+!function(f,b,e,v,n,t,s)
+
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];
+
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+
+'https://connect.facebook.net/en_US/fbevents.js');
+
+
+fbq('init', '566350953921183'); 
+
+fbq('track', 'PageView');
+
+</script>
+
+<noscript>
+
+<img height="1" width="1" alt="Pixel" src="https://www.facebook.com/tr?id=600739550426159&amp;ev=PageView%0D%0A%0D%0A&amp;noscript=1">
+
+</noscript>
+
+<!-- End Facebook Pixel Code -->
+
+<!-- Page Scroll to ID -->
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KW27VTQ');</script>
+<!-- End Google Tag Manager -->
+
+
+
+<script type="text/javascript" id="social_warfare_script-js-extra">
+/* <![CDATA[ */
+var socialWarfare = {"addons":[],"post_id":"13124","variables":{"emphasizeIcons":false,"powered_by_toggle":false,"affiliate_link":"https:\/\/warfareplugins.com"},"floatBeforeContent":""};
+/* ]]> */
+</script>
+
+<script type="text/javascript" id="divi-custom-script-js-extra">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/shaws.com.sg\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/shaws.com.sg\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/shaws.com.sg\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"a870cbd2a7","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"1556332af5","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"13124","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":"https:\/\/shaws.com.sg\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#7EBEC5","waypoints_options":{"context":[".pum-overlay"]}};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+
+
+
+<script type="text/javascript" id="mediaelement-core-js-before">
+/* <![CDATA[ */
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+/* ]]> */
+</script>
+
+
+<script type="text/javascript" id="mediaelement-js-extra">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+/* ]]> */
+</script>
+
+
+<div class="swp_social_panelSide swp_floating_panel swp_social_panel swp_ swp_default_full_color swp_individual_full_color swp_other_full_color slide swp_float_left" data-min-width="1100" data-float-color="#ffffff" data-float="left" data-float-mobile="none" data-transition="slide" data-post-id="13124" style="top: 224px; display: none;"><div class="nc_tweetContainer swp_share_button swp_twitter" data-network="twitter"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=Trilogy+Life+Skills&amp;url=https%3A%2F%2Fshaws.com.sg%2Flife-skills%2F" data-link="https://twitter.com/intent/tweet?text=Trilogy+Life+Skills&amp;url=https%3A%2F%2Fshaws.com.sg%2Flife-skills%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_facebook" data-network="facebook"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2Flife-skills%2F" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Fshaws.com.sg%2Flife-skills%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_linkedin" data-network="linkedin"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2Flife-skills%2F" data-link="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fshaws.com.sg%2Flife-skills%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_linkedin_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_pinterest" data-network="pinterest"><a rel="nofollow noreferrer noopener" class="nc_tweet swp_share_link noPop" onclick="var e=document.createElement('script');
+							e.setAttribute('type','text/javascript');
+							e.setAttribute('charset','UTF-8');
+							e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+							document.body.appendChild(e);
+						"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_pinterest_icon"></i><span class="swp_share">Pin</span></span></span></span></a></div></div><script type="text/javascript"> var swp_nonce = "0a0b25dd0c";function parentIsEvil() { var html = null; try { var doc = top.location.pathname; } catch(err){ }; if(typeof doc === "undefined") { return true } else { return false }; }; if (parentIsEvil()) { top.location = self.location.href; };var url = "https://shaws.com.sg/life-skills/";if(url.indexOf("stfi.re") != -1) { var canonical = ""; var links = document.getElementsByTagName("link"); for (var i = 0; i < links.length; i ++) { if (links[i].getAttribute("rel") === "canonical") { canonical = links[i].getAttribute("href")}}; canonical = canonical.replace("?sfr=1", "");top.location = canonical; console.log(canonical);};var swpFloatBeforeContent = false; var swp_ajax_url = "https://shaws.com.sg/wp-admin/admin-ajax.php"; var swp_post_id = "13124";var swpClickTracking = false;</script>	
+			<span class="et_pb_scroll_top et-pb-icon et-visible" style="display: inline;"></span>
+	<script defer="" src="https://shaws.com.sg/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-b2a6b1d68e51fc7bc2201678d7bc32ca.js"></script>
+
+</body></html>

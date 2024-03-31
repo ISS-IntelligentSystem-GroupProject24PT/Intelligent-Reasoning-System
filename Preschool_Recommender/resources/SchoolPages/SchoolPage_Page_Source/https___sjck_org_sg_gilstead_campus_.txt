@@ -117,11 +117,11 @@ float: none !important;
 <div class="entry-content"><p style="text-align: center;">Gilstead Campus</p>
 
 		<!-- MasterSlider -->
-		<div id="P_MS660835279bc98" class="master-slider-parent msl ms-parent-id-37" style="max-width: 1024px; position: relative;">
+		<div id="P_MS6609721d57512" class="master-slider-parent msl ms-parent-id-37" style="max-width: 1024px; position: relative;">
 
 			
 			<!-- MasterSlider Main -->
-			<div id="MS660835279bc98" class="master-slider ms-skin-default ms-wk" style="visibility: visible; opacity: 1; margin: 0px;"><div class="ms-container"><div class="ms-inner-controls-cont" style="max-width: 1024px;"><div class="ms-view ms-basic-view ms-grab-cursor" style="width: 760px; height: 371.094px;"><div class="ms-slide-container" style="transform: translateX(0px) translateZ(0px);"><div class="ms-slide ms-sl-selected" data-delay="3" data-fill-mode="fit" style="width: 760px; height: 371.094px; left: 0px;">
+			<div id="MS6609721d57512" class="master-slider ms-skin-default ms-wk" style="visibility: visible; opacity: 1; margin: 0px;"><div class="ms-container"><div class="ms-inner-controls-cont" style="max-width: 1024px;"><div class="ms-view ms-basic-view ms-grab-cursor" style="width: 760px; height: 371.094px;"><div class="ms-slide-container" style="transform: translateX(0px) translateZ(0px);"><div class="ms-slide ms-sl-selected" data-delay="3" data-fill-mode="fit" style="width: 760px; height: 371.094px; left: 0px;">
 					
 
 
@@ -139,13 +139,13 @@ float: none !important;
 
 	
 	
-				<div class="ms-slide-bgcont" style="height: 100%; opacity: 1;"><img src="https://sjck.org.sg/wp-content/uploads/2016/01/DSC_5490.jpg" alt="" title="" style="height: 371px; width: 556.005px; margin-top: 0px; margin-left: 102px;"></div></div><div class="ms-slide" data-delay="3" data-fill-mode="fit" style="width: 760px; height: 371.094px; left: 2280px;">
+				<div class="ms-slide-loading"></div><div class="ms-slide-bgcont" style="height: 100%;"><img src="https://sjck.org.sg/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" style="visibility: hidden;"></div></div><div class="ms-slide" data-delay="3" data-fill-mode="fit" style="width: 760px; height: 371.094px; left: 2280px;">
 					
 
 
 	
 	
-				<div class="ms-slide-bgcont" style="height: 100%; opacity: 1;"><img src="https://sjck.org.sg/wp-content/uploads/2017/04/DSC_0243.jpg" alt="" title="" style="height: 371px; width: 525.098px; margin-top: 0px; margin-left: 117.5px;"></div></div></div></div><div class="ms-nav-next" style="opacity: 0; display: none;"></div><div class="ms-nav-prev" style="opacity: 0; display: none;"></div></div></div>
+				<div class="ms-slide-loading"></div><div class="ms-slide-bgcont" style="height: 100%;"><img src="https://sjck.org.sg/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" style="visibility: hidden;"></div></div></div></div><div class="ms-nav-next" style="opacity: 0; display: none;"></div><div class="ms-nav-prev" style="opacity: 0; display: none;"></div></div></div>
 				 				 
 				
 				
@@ -168,13 +168,13 @@ float: none !important;
 			"use strict";
 
 			$(function () {
-				var masterslider_bc98 = new MasterSlider();
+				var masterslider_7512 = new MasterSlider();
 
 				// slider controls
-				masterslider_bc98.control('arrows'     ,{ autohide:true, overVideo:true  });
-				masterslider_bc98.control('thumblist'  ,{ autohide:false, overVideo:true, dir:'h', speed:17, inset:false, arrows:false, hover:true, customClass:'', align:'bottom',type:'thumbs', margin:5, width:100, height:80, space:5, fillMode:'fit' , hideUnder:5 });
+				masterslider_7512.control('arrows'     ,{ autohide:true, overVideo:true  });
+				masterslider_7512.control('thumblist'  ,{ autohide:false, overVideo:true, dir:'h', speed:17, inset:false, arrows:false, hover:true, customClass:'', align:'bottom',type:'thumbs', margin:5, width:100, height:80, space:5, fillMode:'fit' , hideUnder:5 });
 				// slider setup
-				masterslider_bc98.setup("MS660835279bc98", {
+				masterslider_7512.setup("MS6609721d57512", {
 						width           : 1024,
 						height          : 500,
 						minHeight       : 0,
@@ -209,7 +209,7 @@ float: none !important;
 
 				
 				window.masterslider_instances = window.masterslider_instances || [];
-				window.masterslider_instances.push( masterslider_bc98 );
+				window.masterslider_instances.push( masterslider_7512 );
 			 });
 
 		})(jQuery);

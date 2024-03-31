@@ -119,11 +119,11 @@ float: none !important;
 <h1>Our Facilities</h1>
 
 		<!-- MasterSlider -->
-		<div id="P_MS6608354ab637f" class="master-slider-parent msl ms-parent-id-49" style="max-width: 1024px; position: relative;">
+		<div id="P_MS6609723a1ecf8" class="master-slider-parent msl ms-parent-id-49" style="max-width: 1024px; position: relative;">
 
 			
 			<!-- MasterSlider Main -->
-			<div id="MS6608354ab637f" class="master-slider ms-skin-default ms-wk" style="visibility: visible; opacity: 1; margin: 0px;"><div class="ms-container"><div class="ms-inner-controls-cont" style="max-width: 1024px;"><div class="ms-view ms-basic-view ms-grab-cursor" style="width: 760px; height: 371.094px;"><div class="ms-slide-container" style="transform: translateX(0px) translateZ(0px);"><div class="ms-slide ms-sl-selected" data-delay="3" data-fill-mode="fit" style="width: 760px; height: 371.094px; left: 0px; z-index: 7;">
+			<div id="MS6609723a1ecf8" class="master-slider ms-skin-default ms-wk" style="visibility: visible; opacity: 1; margin: 0px;"><div class="ms-container"><div class="ms-inner-controls-cont" style="max-width: 1024px;"><div class="ms-view ms-basic-view ms-grab-cursor" style="width: 760px; height: 371.094px;"><div class="ms-slide-container" style="transform: translateX(0px) translateZ(0px);"><div class="ms-slide ms-sl-selected" data-delay="3" data-fill-mode="fit" style="width: 760px; height: 371.094px; left: 0px; z-index: 7;">
 					
 
 
@@ -147,25 +147,25 @@ float: none !important;
 
 	
 	
-				<div class="ms-slide-bgcont" style="height: 100%; opacity: 1;"><img src="https://sjck.org.sg/wp-content/uploads/2016/01/DSC_8051.jpg" alt="" title="" style="height: 371px; width: 660.733px; margin-top: 0px; margin-left: 49.5px;"></div></div><div class="ms-slide" data-delay="3" data-fill-mode="fit" style="width: 760px; height: 371.094px; left: 3040px; z-index: 3;">
+				<div class="ms-slide-loading" style="transition-duration: 300ms; transition-property: all; transition-timing-function: linear; opacity: 0;"></div><div class="ms-slide-bgcont" style="height: 100%; opacity: 1; transition-duration: 300ms; transition-property: all; transition-timing-function: linear;"><img src="https://sjck.org.sg/wp-content/uploads/2016/01/DSC_8051.jpg" alt="" title="" style="height: 371px; width: 660.733px; margin-top: 0px; margin-left: 49.5px;"></div></div><div class="ms-slide" data-delay="3" data-fill-mode="fit" style="width: 760px; height: 371.094px; left: 3040px; z-index: 3;">
 					
 
 
 	
 	
-				<div class="ms-slide-bgcont" style="height: 100%; opacity: 1;"><img src="https://sjck.org.sg/wp-content/uploads/2016/01/DSC_53771.jpg" alt="" title="" style="height: 371px; width: 594.101px; margin-top: 0px; margin-left: 83px;"></div></div><div class="ms-slide" data-delay="3" data-fill-mode="fit" style="width: 760px; height: 371.094px; left: 3800px; z-index: 2;">
+				<div class="ms-slide-loading"></div><div class="ms-slide-bgcont" style="height: 100%;"><img src="https://sjck.org.sg/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" style="visibility: hidden;"></div></div><div class="ms-slide" data-delay="3" data-fill-mode="fit" style="width: 760px; height: 371.094px; left: 3800px; z-index: 2;">
 					
 
 
 	
 	
-				<div class="ms-slide-bgcont" style="height: 100%; opacity: 1;"><img src="https://sjck.org.sg/wp-content/uploads/2016/01/DSC_5382.jpg" alt="" title="" style="height: 371px; width: 659.816px; margin-top: 0px; margin-left: 50px;"></div></div><div class="ms-slide" data-delay="3" data-fill-mode="fit" style="width: 760px; height: 371.094px; left: 4560px; z-index: 1;">
+				<div class="ms-slide-loading"></div><div class="ms-slide-bgcont" style="height: 100%;"><img src="https://sjck.org.sg/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" style="visibility: hidden;"></div></div><div class="ms-slide" data-delay="3" data-fill-mode="fit" style="width: 760px; height: 371.094px; left: 4560px; z-index: 1;">
 					
 
 
 	
 	
-				<div class="ms-slide-bgcont" style="height: 100%; opacity: 1;"><img src="https://sjck.org.sg/wp-content/uploads/2016/01/003.jpg" alt="" title="" style="height: 371px; width: 556.5px; margin-top: 0px; margin-left: 101.5px;"></div></div></div></div><div class="ms-nav-next" style="opacity: 0; display: none;"></div><div class="ms-nav-prev" style="opacity: 0; display: none;"></div></div></div>
+				<div class="ms-slide-loading"></div><div class="ms-slide-bgcont" style="height: 100%;"><img src="https://sjck.org.sg/wp-content/plugins/master-slider/public/assets/css/blank.gif" alt="" title="" style="visibility: hidden;"></div></div></div></div><div class="ms-nav-next" style="opacity: 0; display: none;"></div><div class="ms-nav-prev" style="opacity: 0; display: none;"></div></div></div>
 				 				 
 				
 				
@@ -214,13 +214,13 @@ float: none !important;
 			"use strict";
 
 			$(function () {
-				var masterslider_637f = new MasterSlider();
+				var masterslider_ecf8 = new MasterSlider();
 
 				// slider controls
-				masterslider_637f.control('arrows'     ,{ autohide:true, overVideo:true  });
-				masterslider_637f.control('thumblist'  ,{ autohide:false, overVideo:true, dir:'h', speed:17, inset:false, arrows:false, hover:true, customClass:'', align:'bottom',type:'thumbs', margin:5, width:100, height:80, space:5, fillMode:'fit' , hideUnder:5 });
+				masterslider_ecf8.control('arrows'     ,{ autohide:true, overVideo:true  });
+				masterslider_ecf8.control('thumblist'  ,{ autohide:false, overVideo:true, dir:'h', speed:17, inset:false, arrows:false, hover:true, customClass:'', align:'bottom',type:'thumbs', margin:5, width:100, height:80, space:5, fillMode:'fit' , hideUnder:5 });
 				// slider setup
-				masterslider_637f.setup("MS6608354ab637f", {
+				masterslider_ecf8.setup("MS6609723a1ecf8", {
 						width           : 1024,
 						height          : 500,
 						minHeight       : 0,
@@ -255,7 +255,7 @@ float: none !important;
 
 				
 				window.masterslider_instances = window.masterslider_instances || [];
-				window.masterslider_instances.push( masterslider_637f );
+				window.masterslider_instances.push( masterslider_ecf8 );
 			 });
 
 		})(jQuery);
