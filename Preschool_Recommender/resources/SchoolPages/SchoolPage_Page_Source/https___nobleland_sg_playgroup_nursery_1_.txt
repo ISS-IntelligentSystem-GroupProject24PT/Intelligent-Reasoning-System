@@ -93,7 +93,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <!--[if lt IE 9]>
 <link rel='stylesheet' id='theme-ltie9-css' href='https://nobleland.sg/wp-content/themes/rttheme18/css/before_ie9.css?ver=6.4.3' type='text/css' media='all' />
 <![endif]-->
-<link rel="stylesheet" id="fancybox-css" href="https://nobleland.sg/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.css?ver=1711772814" type="text/css" media="screen">
+<link rel="stylesheet" id="fancybox-css" href="https://nobleland.sg/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.css?ver=1711861112" type="text/css" media="screen">
 <style id="fancybox-inline-css" type="text/css">
 #fancybox-content{border-color:#fff;}
 </style>
@@ -221,81 +221,81 @@ gtag("config", "G-STD123836T");
 		  };</script>
 <noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style type="text/css">.cj-tween{-webkit-transition-property:none !important;}</style><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://nobleland.sg/wp-includes/js/wp-emoji-release.min.js?ver=6.4.3" defer=""></script><style>
             
-                                 #showoff-5624e1d251915981572812196f4f518f .showoff-categories-mini, 
-                     #showoff-5624e1d251915981572812196f4f518f .showoff-categories {
+                                 #showoff-f0940c705aaacb437621df620bf7e5da .showoff-categories-mini, 
+                     #showoff-f0940c705aaacb437621df620bf7e5da .showoff-categories {
                          display: none !important;
                      }
                                 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-top-title {font-family: Roboto Condensed}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-top-title {font-size: 30px}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-pagination a {font-family: Roboto Condensed}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-categories a {font-family: Roboto Condensed}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-pagination a {font-size: 12px}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-categories a {font-size: 12px}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-top-title {font-family: Roboto Condensed}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-top-title {font-size: 30px}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-pagination a {font-family: Roboto Condensed}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-categories a {font-family: Roboto Condensed}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-pagination a {font-size: 12px}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-categories a {font-size: 12px}
 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner-readmore {font-family: Roboto Condensed}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner-readmore {font-size: 12px}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner h4 {font-family: Roboto Condensed}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner h4 {font-size: 31px}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner .showoff-project-inner-content {font-family: Roboto Slab}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner .showoff-project-inner-content {font-size: 14px}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner-readmore {font-family: Roboto Condensed}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner-readmore {font-size: 12px}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner h4 {font-family: Roboto Condensed}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner h4 {font-size: 31px}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner .showoff-project-inner-content {font-family: Roboto Slab}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner .showoff-project-inner-content {font-size: 14px}
 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner-readmore {background: rgb(255,85,86)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner-readmore {color: rgb(255,255,255)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner-readmore {background: rgb(255,85,86)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner-readmore {color: rgb(255,255,255)}
 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner-readmore:hover {background: rgb(255,116,51)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner-readmore:hover {color: rgb(255,255,255)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner-readmore:hover {background: rgb(255,116,51)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner-readmore:hover {color: rgb(255,255,255)}
 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-categories a {background: rgb(255,85,86)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-categories a {color: rgb(255,255,255)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-categories a {background: rgb(255,85,86)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-categories a {color: rgb(255,255,255)}
 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-categories a:hover {background: rgb(255,116,51)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-categories a:hover {color: rgb(255,255,255)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-categories a:hover {background: rgb(255,116,51)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-categories a:hover {color: rgb(255,255,255)}
 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-categories a.active {background: rgb(188,188,188)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-categories a.active {color: rgb(255,255,255)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-categories a.active {background: rgb(188,188,188)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-categories a.active {color: rgb(255,255,255)}
 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-pagination a{background: rgb(255,85,86)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-pagination a {color: rgb(255,255,255)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-pagination a{background: rgb(255,85,86)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-pagination a {color: rgb(255,255,255)}
 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-pagination a:hover {background: rgb(255,116,51)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-pagination a:hover {color: rgb(255,255,255)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-pagination a:hover {background: rgb(255,116,51)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-pagination a:hover {color: rgb(255,255,255)}
 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-pagination a.active {background: rgb(188,188,188)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-pagination a.active {color: rgb(255,255,255)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-pagination a.active {background: rgb(188,188,188)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-pagination a.active {color: rgb(255,255,255)}
 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-thumbnail-hover {background: rgb(255,116,51)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-thumbnail-hover i {color: rgb(255,255,255)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-thumbnail-hover p {color: rgb(255,255,255)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-thumbnail-hover p {font-family: Roboto Condensed}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-thumbnail-hover p {font-size: 18px}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-thumbnail-hover {background: rgb(255,116,51)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-thumbnail-hover i {color: rgb(255,255,255)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-thumbnail-hover p {color: rgb(255,255,255)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-thumbnail-hover p {font-family: Roboto Condensed}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-thumbnail-hover p {font-size: 18px}
 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-thumb-title {background: rgb(255,116,51)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-thumb-title {color: rgb(255,255,255)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-thumb-title {font-family: Roboto Condensed}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-thumb-title {font-size: 14px}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-thumb-title {background: rgb(255,116,51)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-thumb-title {color: rgb(255,255,255)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-thumb-title {font-family: Roboto Condensed}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-thumb-title {font-size: 14px}
 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner-wrapper {background: rgb(236,236,236)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner-wrapper {background: rgb(236,236,236)}
 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner-pagination-page {color: rgb(205,205,205)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner-pagination-page:hover {color: rgb(255,85,86)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner-pagination-page.active {color: rgb(255,85,86)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner-pagination-page {color: rgb(205,205,205)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner-pagination-page:hover {color: rgb(255,85,86)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner-pagination-page.active {color: rgb(255,85,86)}
 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner-close {color: rgb(205,205,205)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner-close:hover {color: rgb(255,85,86)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner-close {color: rgb(205,205,205)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner-close:hover {color: rgb(255,85,86)}
 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-lightbox-close {color: rgb(205,205,205)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-lightbox-close:hover {color: rgb(255,85,86)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-lightbox-close {color: rgb(205,205,205)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-lightbox-close:hover {color: rgb(255,85,86)}
 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-lightbox-navigation a i {color: rgb(205,205,205)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-lightbox-navigation a i:hover {color: rgb(255,85,86)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-lightbox-navigation a i {color: rgb(205,205,205)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-lightbox-navigation a i:hover {color: rgb(255,85,86)}
 
-            #showoff-5624e1d251915981572812196f4f518f .showoff-top-title {color: rgb(109,107,95)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner h4 {color: rgb(54,54,54)}
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner .showoff-project-inner-content {color: rgb(101,101,101)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-top-title {color: rgb(109,107,95)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner h4 {color: rgb(54,54,54)}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner .showoff-project-inner-content {color: rgb(101,101,101)}
 
-            #showoff-5624e1d251915981572812196f4f518f.legacy .showoff-content li.active .showoff-project-thumbnail-hover,
-            #showoff-5624e1d251915981572812196f4f518f.legacy .showoff-project-thumbnail:hover .showoff-project-thumbnail-hover {
+            #showoff-f0940c705aaacb437621df620bf7e5da.legacy .showoff-content li.active .showoff-project-thumbnail-hover,
+            #showoff-f0940c705aaacb437621df620bf7e5da.legacy .showoff-project-thumbnail:hover .showoff-project-thumbnail-hover {
                 
                 background:none;
                 -ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffff7433, endColorstr=#ffff7433);
@@ -306,11 +306,11 @@ gtag("config", "G-STD123836T");
                 opacity:1;
             }
             
-            #showoff-5624e1d251915981572812196f4f518f .showoff-project-inner-media img {cursor:pointer;}
+            #showoff-f0940c705aaacb437621df620bf7e5da .showoff-project-inner-media img {cursor:pointer;}
             
                         
         </style><link rel="stylesheet" href="https://nobleland.sg/wp-content/plugins/layerslider/assets/static/layerslider/skins/v5/skin.css" type="text/css"></head>
-<body class="page-template-default page page-id-2218  menu-style-one wide rt_content_animations header-design1 wpb-js-composer js-comp-ver-7.3 vc_responsive"><div class="ls-wp-container fitvidsignore ls-hidden ls-v5 ls-container ls-responsive" data-layerslider-uid="LSk5yag6ijf"><div class="ls-slide" data-ls="duration:4000;" style="width: 640px; height: 480px;"></div><div class="ls-slide" data-ls="duration:4000;" style="width: 640px; height: 480px;"></div><div class="ls-slide" data-ls="duration:4000;" style="width: 640px; height: 480px;"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="ls-bg" alt="" decoding="async"><p style="top:430px;left:15px;" class="ls-text-layer ls-layer" data-ls="offsetxin:80;offsetxout:-80;durationout:400;parallaxlevel:0;"><span class="footer_gallery_span">Learning Journey in Electricity Inquiry</span></p></div><div class="ls-slide" data-ls="duration:4000;" style="width: 640px; height: 480px;"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="ls-bg" alt="" decoding="async"></div><div class="ls-slide" data-ls="duration:4000;" style="width: 640px; height: 480px;"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="ls-bg" alt="" decoding="async"><p style="top:430px;left:15px;" class="ls-text-layer ls-layer" data-ls="offsetxin:80;offsetxout:-80;durationout:400;parallaxlevel:0;"><span class="footer_gallery_span">Foundation Keyboard and Music Education</span></p></div><div class="ls-slide" data-ls="duration:4000;" style="width: 640px; height: 480px;"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="ls-bg" alt="" decoding="async"><p style="top:430px;left:15px;" class="ls-text-layer ls-layer" data-ls="offsetxin:80;offsetxout:-80;durationout:400;parallaxlevel:0;"><span class="footer_gallery_span">Bringing Chinese Picture Book 'Swimmy' Alive!</span></p></div><div class="ls-slide" data-ls="duration:4000;" style="width: 640px; height: 480px;"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="ls-bg" alt="" decoding="async"><p style="top:430px;left:15px;" class="ls-text-layer ls-layer" data-ls="offsetxin:80;offsetxout:-80;durationout:400;parallaxlevel:0;"><span class="footer_gallery_span">Fun Elements of Art</span></p></div><div class="ls-slide" data-ls="duration:4000;" style="width: 640px; height: 480px;"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="ls-bg" alt="" decoding="async"><p style="top:430px;left:15px;" class="ls-text-layer ls-layer" data-ls="offsetxin:80;offsetxout:-80;durationout:400;parallaxlevel:0;"><span class="footer_gallery_span">MOE EXCELFest 2014</span></p></div></div>
+<body class="page-template-default page page-id-2218  menu-style-one wide rt_content_animations header-design1 wpb-js-composer js-comp-ver-7.3 vc_responsive"><div class="ls-wp-container fitvidsignore ls-hidden ls-v5 ls-container ls-responsive" data-layerslider-uid="LSldxeoow6i"><div class="ls-slide" data-ls="duration:4000;" style="width: 640px; height: 480px;"></div><div class="ls-slide" data-ls="duration:4000;" style="width: 640px; height: 480px;"></div><div class="ls-slide" data-ls="duration:4000;" style="width: 640px; height: 480px;"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="ls-bg" alt="" decoding="async"><p style="top:430px;left:15px;" class="ls-text-layer ls-layer" data-ls="offsetxin:80;offsetxout:-80;durationout:400;parallaxlevel:0;"><span class="footer_gallery_span">Learning Journey in Electricity Inquiry</span></p></div><div class="ls-slide" data-ls="duration:4000;" style="width: 640px; height: 480px;"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="ls-bg" alt="" decoding="async"></div><div class="ls-slide" data-ls="duration:4000;" style="width: 640px; height: 480px;"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="ls-bg" alt="" decoding="async"><p style="top:430px;left:15px;" class="ls-text-layer ls-layer" data-ls="offsetxin:80;offsetxout:-80;durationout:400;parallaxlevel:0;"><span class="footer_gallery_span">Foundation Keyboard and Music Education</span></p></div><div class="ls-slide" data-ls="duration:4000;" style="width: 640px; height: 480px;"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="ls-bg" alt="" decoding="async"><p style="top:430px;left:15px;" class="ls-text-layer ls-layer" data-ls="offsetxin:80;offsetxout:-80;durationout:400;parallaxlevel:0;"><span class="footer_gallery_span">Bringing Chinese Picture Book 'Swimmy' Alive!</span></p></div><div class="ls-slide" data-ls="duration:4000;" style="width: 640px; height: 480px;"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="ls-bg" alt="" decoding="async"><p style="top:430px;left:15px;" class="ls-text-layer ls-layer" data-ls="offsetxin:80;offsetxout:-80;durationout:400;parallaxlevel:0;"><span class="footer_gallery_span">Fun Elements of Art</span></p></div><div class="ls-slide" data-ls="duration:4000;" style="width: 640px; height: 480px;"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="ls-bg" alt="" decoding="async"><p style="top:430px;left:15px;" class="ls-text-layer ls-layer" data-ls="offsetxin:80;offsetxout:-80;durationout:400;parallaxlevel:0;"><span class="footer_gallery_span">MOE EXCELFest 2014</span></p></div></div>
 		<!-- Google Tag Manager (noscript) snippet added by Site Kit -->
 		<noscript>
 			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KPKVNLH" height="0" width="0" style="display:none;visibility:hidden"></iframe>
@@ -684,13 +684,13 @@ Life skills learnt and practiced through all the various school activities</td>
                 var showoff_instance = [];
             }
             
-            showoff_instance.push({"thumbtitle":0,"menu":1,"cols":"3","perpage":"3","spacing":"5","aspect":"1.7","focusoffset":"0","readmoretext":"Read More","atarget":"_self","projectsorder":"manual","animationtype":"random","catfilter":"standard","cat":"4","title":"","lightbox":"1","sharebuttons":"1","buttonsfont":"Roboto Condensed","titlefont":"Roboto Condensed","projectitlefont":"Roboto Condensed","projecdescfont":"Roboto Slab","projecthoverfont":"Roboto Condensed","buttonsfontsize":"12px","titlefontsize":"30px","projectitlefontsize":"31px","projecdescfontsize":"14px","projecthoverfontsize":"18px","thumbfontsize":"14px","titlecolor":"109,107,95","projecttitlecolor":"54,54,54","projectinnercolor":"101,101,101","buttonbgcolor":"255,85,86","buttoncolor":"255,255,255","buttonbgcolorhover":"255,116,51","buttoncolorhover":"255,255,255","buttonbgcoloractive":"188,188,188","buttoncoloractive":"255,255,255","projectbgcolorhover":"255,116,51","projecthoverstyle":"title","projecthovertype":"modern","projecthoveropacity":"1","projectcolorhover":"255,255,255","projectinnerbgcolor":"236,236,236","navicolor":"205,205,205","navicolorhover":"255,85,86","navicoloractive":"255,85,86","unique":"showoff-5624e1d251915981572812196f4f518f","_get_project":0,"_get_page":0,"_get_cat":0});
+            showoff_instance.push({"thumbtitle":0,"menu":1,"cols":"3","perpage":"3","spacing":"5","aspect":"1.7","focusoffset":"0","readmoretext":"Read More","atarget":"_self","projectsorder":"manual","animationtype":"random","catfilter":"standard","cat":"4","title":"","lightbox":"1","sharebuttons":"1","buttonsfont":"Roboto Condensed","titlefont":"Roboto Condensed","projectitlefont":"Roboto Condensed","projecdescfont":"Roboto Slab","projecthoverfont":"Roboto Condensed","buttonsfontsize":"12px","titlefontsize":"30px","projectitlefontsize":"31px","projecdescfontsize":"14px","projecthoverfontsize":"18px","thumbfontsize":"14px","titlecolor":"109,107,95","projecttitlecolor":"54,54,54","projectinnercolor":"101,101,101","buttonbgcolor":"255,85,86","buttoncolor":"255,255,255","buttonbgcolorhover":"255,116,51","buttoncolorhover":"255,255,255","buttonbgcoloractive":"188,188,188","buttoncoloractive":"255,255,255","projectbgcolorhover":"255,116,51","projecthoverstyle":"title","projecthovertype":"modern","projecthoveropacity":"1","projectcolorhover":"255,255,255","projectinnerbgcolor":"236,236,236","navicolor":"205,205,205","navicolorhover":"255,85,86","navicoloractive":"255,85,86","unique":"showoff-f0940c705aaacb437621df620bf7e5da","_get_project":0,"_get_page":0,"_get_cat":0});
         </script>
         
                 
-        <div class="showoff" id="showoff-5624e1d251915981572812196f4f518f">
+        <div class="showoff" id="showoff-f0940c705aaacb437621df620bf7e5da">
     
-    <div class="showoff-top mini" style="margin-left: 2.5%; margin-right: 2.5%; width: 95%;">
+    <div class="showoff-top" style="margin-left: 2.5%; margin-right: 2.5%; width: 95%;">
         <p class="showoff-top-title"></p>
         <div class="showoff-categories" style="display: none;">
                         
@@ -707,79 +707,10 @@ Life skills learnt and practiced through all the various school activities</td>
 
     <div class="showoff-content">
         <ul>
-           <li class="showoff-project-id-13 showoff-project-cat-4" style="margin: 2.5%; width: 28.3333%; height: 123.327px;"><div class="showoff-project-thumbnail" style="height: 124.327px; z-index: 3;"><div class="showoff-project-thumbnail-hover">
-                    <div class="showoff-project-thumbnail-hover-style">
-                        <i class="fa fa-eye"></i>
-                        <p>Self &amp; Social Skills</p>
-                    </div>
-                </div><img src="http://nobleland.sg/wp-content/uploads/2015/03/Young-Sprouts-Self-and-Social-Skills_th.jpg" class="" style="height: 123.327px; animation-delay: 100ms; z-index: 0;"><p class="showoff-thumb-title" style="opacity: 0;">Self &amp; Social Skills</p></div><div class="showoff-project-inner" style="display: none;">
-                <div class="showoff-project-inner-wrapper">
-                    
-                    <div class="fa fa-times showoff-project-inner-close"></div>
-                                                            
-                                                    
-                            <!-- Images Only -->
-                            <div class="showoff-project-inner-full">
-                                <h4>Self &amp; Social Skills</h4>
-                                <div class="showoff-project-inner-media">
-                                                                            <img style="display:none" src="" alt="http://nobleland.sg/wp-content/uploads/2015/03/Young-Sprouts-Self-and-Social-Skills.jpg">
-                                    
-                                    <div class="showoff-project-inner-media-loader"></div>
-
-                                                                    </div>
-                                
-                                                            </div>
-                                        </div>
-            </div></li><li class="showoff-project-id-14 showoff-project-cat-4" style="margin: 2.5%; width: 28.3333%; height: 123.327px;"><div class="showoff-project-thumbnail" style="height: 124.327px; z-index: 2;"><div class="showoff-project-thumbnail-hover">
-                    <div class="showoff-project-thumbnail-hover-style">
-                        <i class="fa fa-eye"></i>
-                        <p>Chinese Inquiry</p>
-                    </div>
-                </div><img src="http://nobleland.sg/wp-content/uploads/2015/03/Young-Sprouts-Chinese-Inquiry_th.jpg" class="" style="height: 123.327px; animation-delay: 200ms; z-index: 0;"><p class="showoff-thumb-title" style="opacity: 0;">Chinese Inquiry</p></div><div class="showoff-project-inner" style="display: none;">
-                <div class="showoff-project-inner-wrapper">
-                    
-                    <div class="fa fa-times showoff-project-inner-close"></div>
-                                                            
-                                                    
-                            <!-- Images Only -->
-                            <div class="showoff-project-inner-full">
-                                <h4>Chinese Inquiry</h4>
-                                <div class="showoff-project-inner-media">
-                                                                            <img style="display:none" src="" alt="http://nobleland.sg/wp-content/uploads/2015/03/Young-Sprouts-Chinese-Inquiry.jpg">
-                                    
-                                    <div class="showoff-project-inner-media-loader"></div>
-
-                                                                    </div>
-                                
-                                                            </div>
-                                        </div>
-            </div></li><li class="showoff-project-id-16 showoff-project-cat-4" style="margin: 2.5%; width: 28.3333%; height: 123.327px;"><div class="showoff-project-thumbnail" style="height: 124.327px; z-index: 1;"><div class="showoff-project-thumbnail-hover">
-                    <div class="showoff-project-thumbnail-hover-style">
-                        <i class="fa fa-eye"></i>
-                        <p>Chinese Language &amp; Literacy</p>
-                    </div>
-                </div><img src="http://nobleland.sg/wp-content/uploads/2015/03/Young-Sprouts-Chinese-Language_th.jpg" class="" style="height: 123.327px; animation-delay: 300ms; z-index: 0;"><p class="showoff-thumb-title" style="opacity: 0;">Chinese Language &amp; Literacy</p></div><div class="showoff-project-inner" style="display: none;">
-                <div class="showoff-project-inner-wrapper">
-                    
-                    <div class="fa fa-times showoff-project-inner-close"></div>
-                                                            
-                                                    
-                            <!-- Images Only -->
-                            <div class="showoff-project-inner-full">
-                                <h4>Chinese Language &amp; Literacy</h4>
-                                <div class="showoff-project-inner-media">
-                                                                            <img style="display:none" src="" alt="http://nobleland.sg/wp-content/uploads/2015/03/Young-Sprouts-Chinese-Language.jpg">
-                                    
-                                    <div class="showoff-project-inner-media-loader"></div>
-
-                                                                    </div>
-                                
-                                                            </div>
-                                        </div>
-            </div></li>        </ul>
+           <li><div class="showoff-project-thumbnail"><p class="showoff-thumb-title"></p></div></li><li><div class="showoff-project-thumbnail"><p class="showoff-thumb-title"></p></div></li><li><div class="showoff-project-thumbnail"><p class="showoff-thumb-title"></p></div></li>        </ul>
     </div>
     
-    <div class="showoff-pagination mini" style="margin-left: 2.5%; margin-right: 2.5%;"></div>
+    <div class="showoff-pagination" style="margin-left: 2.5%; margin-right: 2.5%;"></div>
     
 </div>
 					
@@ -798,7 +729,7 @@ Life skills learnt and practiced through all the various school activities</td>
 <h6 style="padding:0; padding-bottom: 5px; font-size:14px; font-weight:bold;">Nobleland Arts N Learning Place</h6>
 <p style="font-size:14px; line-height:18px; padding:0;">Bishan: +65 6573 8208<br>Clementi +65 6464 1356<br>Waterway +65 6481 6338<br>Punggol +65 6444 5485</p><br>
 <p style="font-size:12px; line-height:14px;"><a href="https://nobleland.sg/contact-us/" style="color:#000;">Contact Us</a></p></div>
-		</div></div><div id="footer-column-2" class="box three"><div class="box one footer clearfix widget widget_text"><div class="caption"><h3 class="featured_article_title">Gallery</h3></div><div class="space margin-b20"></div>			<div class="textwidget ls-direction-fix"><script type="text/javascript">jQuery(function() { _initLayerSlider( '#layerslider_3_lo79pjndvkmy', {sliderVersion: '6.6.8', responsiveUnder: 0, layersContainer: 0, allowFullscreen: true, slideBGSize: 'auto', hideUnder: 0, hideOver: 100000, pauseOnHover: 1, skin: 'v5', sliderFadeInDuration: 350, globalBGColor: 'rgba(0, 0, 0, 0)', navStartStop: false, navButtons: false, showCircleTimer: false, thumbnailNavigation: 'disabled', useSrcset: true, skinsPath: 'https://nobleland.sg/wp-content/plugins/layerslider/assets/static/layerslider/skins/', performanceMode: true}); });</script><div class="ls-fullscreen-wrapper"><div id="layerslider_3_lo79pjndvkmy" class="ls-wp-container fitvidsignore ls-v5 ls-container ls-responsive ls-device-is-desktop" style="width: 233.328px; height: 175px; max-width: 640px; margin: 0px auto; position: relative; visibility: visible;" data-layerslider-uid="LSk5yag6ijf" data-current-slide="1"><div class="ls-inner" style="background-color: rgba(0, 0, 0, 0);"><div class="ls-slide-bgcolor" style="background-color: transparent;"></div><div class="ls-layers" style="--sw: 233.328px; --sh: 175px;"><div class="ls-background-videos"></div><div class="ls-slide-backgrounds"><div class="ls-wrapper ls-z" data-slide-index="1" style="z-index: 1; width: 233.328px; height: 175px;"><div class="ls-wrapper ls-bg-outer" style="width: 233.328px; height: 175px;"><div class="ls-wrapper ls-bg-wrap ls-inner-wrapper" style="background-color: transparent; display: block; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"><img src="https://nobleland.sg/wp-content/uploads/2015/05/footer_gallery_01.jpg" class="ls-bg" alt="" decoding="async" srcset="https://nobleland.sg/wp-content/uploads/2015/05/footer_gallery_01.jpg 640w, https://nobleland.sg/wp-content/uploads/2015/05/footer_gallery_01-300x225.jpg 300w" style="margin: 0px; z-index: auto; width: 233px; height: 175px; padding: 0px; border-width: 0px; font-size: 13.1247px; x: 0.164px; y: 0px; transform: translateX(0.164px) translateY(0px); filter: none;" data-ls-slidein="1" data-ls-slideout="1" data-ls-hidden=""></div></div></div><div class="ls-wrapper ls-z" data-slide-index="2" style="z-index: 1;"><div class="ls-wrapper ls-bg-outer"><div class="ls-wrapper ls-bg-wrap ls-inner-wrapper" style="background-color: transparent;"><img src="https://nobleland.sg/wp-content/uploads/2015/05/footer_gallery_02.jpg" class="ls-bg" alt="" decoding="async" srcset="https://nobleland.sg/wp-content/uploads/2015/05/footer_gallery_02.jpg 640w, https://nobleland.sg/wp-content/uploads/2015/05/footer_gallery_02-300x225.jpg 300w" style="margin: 0px; z-index: auto;" data-ls-slidein="2" data-ls-slideout="2" data-ls-hidden=""></div></div></div></div><a href="/gallery/#Parent Collaborations/2014/Family Day with Two Events - Sports Day and Green Art Exhibition" target="_self" class="ls-link ls-link-on-top" rel="noopener" data-ls-slide-link="1" style="z-index: 5; display: block;"></a><a href="/gallery/#Community Collaborations/2013/Community Project@AWWA 2013" target="_self" class="ls-link ls-link-on-top" rel="noopener" data-ls-slide-link="2" style="z-index: 5; display: none;"></a><a href="/gallery/#Events/Learning Journeys/2014/2nd Science Centre Excursion 26 Aug 2014" target="_self" class="ls-link ls-link-on-top" rel="noopener" data-ls-slide-link="3" style="z-index: 5; display: none;"></a><a href="/gallery/#Concerts (Year End Integrated Production)/Swimmy 2012" target="_self" class="ls-link ls-link-on-top" rel="noopener" data-ls-slide-link="6" style="z-index: 5; display: none;"></a><a href="/gallery/#Arts Education/Visual Arts/Fun Elements of Art" target="_self" class="ls-link ls-link-on-top" rel="noopener" data-ls-slide-link="7" style="z-index: 5; display: none;"></a><a href="/gallery/#Community Collaborations/2014/MOE EXCELFest@Suntec 2014" target="_self" class="ls-link ls-link-on-top" rel="noopener" data-ls-slide-link="8" style="z-index: 5; display: none;"></a><div class="ls-wrapper ls-z" data-slide-index="1" style="z-index: 102;"><div class="ls-wrapper ls-in-out ls-inner-wrapper" style="margin: 0px; width: 185px; height: 16px; left: 5.46862px; top: 156.767px; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);"><p style="top: 156.767px; left: 5.46862px; margin: 0px; z-index: auto; width: auto; height: auto; padding: 0px; border-width: 0px; font-size: 13.1247px;" class="ls-text-layer ls-layer" data-ls="offsetxin:80;offsetxout:-80;durationout:400;parallaxlevel:0;" data-ls-slidein="1" data-ls-slideout="1" data-ls-hidden=""><span class="footer_gallery_span">Family Day with Two Events</span></p></div></div></div></div><div class="ls-gui-element ls-loading-container" style="display: none;"><div class="ls-loading-indicator"></div></div><div class="ls-gui-element ls-shadow" data-ls-parallax="disabled"></div><a class="ls-gui-element ls-nav-prev" aria-label="jump to the previous slide" href="#" style="display: none; visibility: visible;"></a><a class="ls-gui-element ls-nav-next" aria-label="jump to the next slide" href="#" style="display: none; visibility: visible;"></a></div></div></div>
+		</div></div><div id="footer-column-2" class="box three"><div class="box one footer clearfix widget widget_text"><div class="caption"><h3 class="featured_article_title">Gallery</h3></div><div class="space margin-b20"></div>			<div class="textwidget ls-direction-fix"><script type="text/javascript">jQuery(function() { _initLayerSlider( '#layerslider_3_1gdzp099c8vxq', {sliderVersion: '6.6.8', responsiveUnder: 0, layersContainer: 0, allowFullscreen: true, slideBGSize: 'auto', hideUnder: 0, hideOver: 100000, pauseOnHover: 1, skin: 'v5', sliderFadeInDuration: 350, globalBGColor: 'rgba(0, 0, 0, 0)', navStartStop: false, navButtons: false, showCircleTimer: false, thumbnailNavigation: 'disabled', useSrcset: true, skinsPath: 'https://nobleland.sg/wp-content/plugins/layerslider/assets/static/layerslider/skins/', performanceMode: true}); });</script><div class="ls-fullscreen-wrapper"><div id="layerslider_3_1gdzp099c8vxq" class="ls-wp-container fitvidsignore ls-v5 ls-container ls-responsive ls-device-is-desktop" style="width: 233.328px; height: 175px; max-width: 640px; margin: 0px auto; position: relative; visibility: visible;" data-layerslider-uid="LSldxeoow6i" data-current-slide="1"><div class="ls-inner" style="background-color: rgba(0, 0, 0, 0);"><div class="ls-slide-bgcolor" style="background-color: transparent;"></div><div class="ls-layers" style="--sw: 233.328px; --sh: 175px;"><div class="ls-background-videos"></div><div class="ls-slide-backgrounds"><div class="ls-wrapper ls-z" data-slide-index="1" style="z-index: 1; width: 233.328px; height: 175px;"><div class="ls-wrapper ls-bg-outer" style="width: 233.328px; height: 175px;"><div class="ls-wrapper ls-bg-wrap ls-inner-wrapper" style="background-color: transparent; display: block; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"><img src="https://nobleland.sg/wp-content/uploads/2015/05/footer_gallery_01.jpg" class="ls-bg" alt="" decoding="async" srcset="https://nobleland.sg/wp-content/uploads/2015/05/footer_gallery_01.jpg 640w, https://nobleland.sg/wp-content/uploads/2015/05/footer_gallery_01-300x225.jpg 300w" style="margin: 0px; z-index: auto; width: 233px; height: 175px; padding: 0px; border-width: 0px; font-size: 13.1247px; x: 0.164px; y: 0px; transform: translateX(0.164px) translateY(0px); filter: none;" data-ls-slidein="1" data-ls-slideout="1" data-ls-hidden=""></div></div></div><div class="ls-wrapper ls-z" data-slide-index="2" style="z-index: 1;"><div class="ls-wrapper ls-bg-outer"><div class="ls-wrapper ls-bg-wrap ls-inner-wrapper" style="background-color: transparent;"><img src="https://nobleland.sg/wp-content/uploads/2015/05/footer_gallery_02.jpg" class="ls-bg" alt="" decoding="async" srcset="https://nobleland.sg/wp-content/uploads/2015/05/footer_gallery_02.jpg 640w, https://nobleland.sg/wp-content/uploads/2015/05/footer_gallery_02-300x225.jpg 300w" style="margin: 0px; z-index: auto;" data-ls-slidein="2" data-ls-slideout="2" data-ls-hidden=""></div></div></div></div><a href="/gallery/#Parent Collaborations/2014/Family Day with Two Events - Sports Day and Green Art Exhibition" target="_self" class="ls-link ls-link-on-top" rel="noopener" data-ls-slide-link="1" style="z-index: 5; display: block;"></a><a href="/gallery/#Community Collaborations/2013/Community Project@AWWA 2013" target="_self" class="ls-link ls-link-on-top" rel="noopener" data-ls-slide-link="2" style="z-index: 5; display: none;"></a><a href="/gallery/#Events/Learning Journeys/2014/2nd Science Centre Excursion 26 Aug 2014" target="_self" class="ls-link ls-link-on-top" rel="noopener" data-ls-slide-link="3" style="z-index: 5; display: none;"></a><a href="/gallery/#Concerts (Year End Integrated Production)/Swimmy 2012" target="_self" class="ls-link ls-link-on-top" rel="noopener" data-ls-slide-link="6" style="z-index: 5; display: none;"></a><a href="/gallery/#Arts Education/Visual Arts/Fun Elements of Art" target="_self" class="ls-link ls-link-on-top" rel="noopener" data-ls-slide-link="7" style="z-index: 5; display: none;"></a><a href="/gallery/#Community Collaborations/2014/MOE EXCELFest@Suntec 2014" target="_self" class="ls-link ls-link-on-top" rel="noopener" data-ls-slide-link="8" style="z-index: 5; display: none;"></a><div class="ls-wrapper ls-z" data-slide-index="1" style="z-index: 102;"><div class="ls-wrapper ls-in-out ls-inner-wrapper" style="margin: 0px; width: 185px; height: 16px; left: 5.46862px; top: 156.767px; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);"><p style="top: 156.767px; left: 5.46862px; margin: 0px; z-index: auto; width: auto; height: auto; padding: 0px; border-width: 0px; font-size: 13.1247px;" class="ls-text-layer ls-layer" data-ls="offsetxin:80;offsetxout:-80;durationout:400;parallaxlevel:0;" data-ls-slidein="1" data-ls-slideout="1" data-ls-hidden=""><span class="footer_gallery_span">Family Day with Two Events</span></p></div></div></div></div><div class="ls-gui-element ls-loading-container" style="display: none;"><div class="ls-loading-indicator"></div></div><div class="ls-gui-element ls-shadow" data-ls-parallax="disabled"></div><a class="ls-gui-element ls-nav-prev" aria-label="jump to the previous slide" href="#" style="display: none; visibility: visible;"></a><a class="ls-gui-element ls-nav-next" aria-label="jump to the next slide" href="#" style="display: none; visibility: visible;"></a></div></div></div>
 		</div></div><div id="footer-column-3" class="box three"><div class="box one footer clearfix widget widget_nav_menu"><div class="caption"><h3 class="featured_article_title">Curriculum</h3></div><div class="space margin-b20"></div><div class="menu-footer-curriculum-menu-container"><ul id="menu-footer-curriculum-menu" class="menu"><li id="menu-item-2426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2426"><a href="https://nobleland.sg/language-and-literacy/">Language and Literacy</a></li>
 <li id="menu-item-2425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2425"><a href="https://nobleland.sg/mathematics/">Mathematics</a></li>
 <li id="menu-item-2424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2424"><a href="https://nobleland.sg/inquiry/">Inquiry</a></li>
@@ -870,7 +801,13 @@ var rt_theme_params = {"ajax_url":"https:\/\/nobleland.sg\/wp-admin\/admin-ajax.
 </script>
 <script type="text/javascript" src="https://nobleland.sg/wp-content/themes/rttheme18/js/script.js?ver=6.4.3" id="rt-theme-scripts-js"></script>
 <script type="text/javascript" src="https://nobleland.sg/wp-includes/js/comment-reply.min.js?ver=6.4.3" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
-<script type="text/javascript" src="https://nobleland.sg/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.js?ver=1711772814" id="jquery-fancybox-js"></script>
+<script type="text/javascript" src="https://nobleland.sg/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.js?ver=1711861112" id="jquery-fancybox-js"></script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","344906189487852");fbq("track","PageView");</script>
+<noscript>
+ <img height="1" width="1" src="https://www.facebook.com/tr?id=344906189487852&amp;ev=PageView
+&amp;noscript=1">
+</noscript>
+
 <script type="text/javascript" id="jquery-fancybox-js-after">
 /* <![CDATA[ */
 var fb_timeout, fb_opts={'overlayShow':true,'hideOnOverlayClick':true,'showCloseButton':true,'margin':20,'enableEscapeButton':true,'autoScale':true };
@@ -890,10 +827,4 @@ jQuery(easy_fancybox_auto);
 </script>
 <script type="text/javascript" src="https://nobleland.sg/wp-content/plugins/easy-fancybox/vendor/jquery.mousewheel.js?ver=3.1.13" id="jquery-mousewheel-js"></script>
 <script></script>
-<div id="fancybox-tmp"></div><div id="fancybox-loading" title="Cancel"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap" role="dialog" aria-hidden="true" aria-labelledby="fancybox-title" tabindex="-1"><div id="fancybox-outer"><div id="fancybox-content"></div><a id="fancybox-close" href="javascript:;" title="Close" class="fancy-ico" tabindex="1"><span></span></a><a id="fancybox-next" href="javascript:;" title="Next" class="fancy-ico" tabindex="2"><span></span></a><a id="fancybox-prev" href="javascript:;" title="Previous" class="fancy-ico" tabindex="3"><span></span></a><div id="fancybox-title-wrap"></div></div></div>
-<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","344906189487852");fbq("track","PageView");</script>
-<noscript>
- <img height="1" width="1" src="https://www.facebook.com/tr?id=344906189487852&amp;ev=PageView
-&amp;noscript=1">
-</noscript>
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading" title="Cancel"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap" role="dialog" aria-hidden="true" aria-labelledby="fancybox-title" tabindex="-1"><div id="fancybox-outer"><div id="fancybox-content"></div><a id="fancybox-close" href="javascript:;" title="Close" class="fancy-ico" tabindex="1"><span></span></a><a id="fancybox-next" href="javascript:;" title="Next" class="fancy-ico" tabindex="2"><span></span></a><a id="fancybox-prev" href="javascript:;" title="Previous" class="fancy-ico" tabindex="3"><span></span></a><div id="fancybox-title-wrap"></div></div></div></body></html>
