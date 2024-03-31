@@ -355,6 +355,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 		
 <script nitro-exclude>
+    var heartbeatData = new FormData(); heartbeatData.append('nitroHeartbeat', '1');
+    fetch(location.href, {method: 'POST', body: heartbeatData, credentials: 'omit'});
+</script>
+<script nitro-exclude>
     document.cookie = 'nitroCachedPage=' + (!window.NITROPACK_STATE ? '0' : '1') + '; path=/';
 </script>
 <script nitro-exclude>

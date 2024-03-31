@@ -1,0 +1,660 @@
+<html lang="en-US" style="scroll-behavior: auto;" class=" js csstransforms3d js_active  vc_desktop  vc_transform  vc_transform "><head><meta http-equiv="origin-trial" content="Az520Inasey3TAyqLyojQa8MnmCALSEU29yQFW8dePZ7xQTvSt73pHazLFTK5f7SyLUJSo2uKLesEtEa9aUYcgMAAACPeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZyIsImV4cGlyeSI6MTcyNTQwNzk5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-touch-fullscreen" content="yes">
+<meta http-equiv="cleartype" content="on">
+<meta name="HandheldFriendly" content="True">
+<link rel="pingback" href="https://littlegreenhouse.com.sg/xmlrpc.php">
+<script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/moV1mTgQ6S91nuTnmll4Y9yf/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-wEVSdqKc5hf9vkWC9kAmVRAEa11o8QNGecO6p5G2xGj+RmQhgDqFDCRdpfSr1VUf"></script><script src="https://connect.facebook.net/signals/config/1023664451633364?v=2.9.151&amp;r=stable&amp;domain=littlegreenhouse.com.sg&amp;hme=8ce74e881727851b4427183947937854816d72704925561b9de6420cd43214ee&amp;ex_m=66%2C111%2C98%2C102%2C57%2C3%2C92%2C65%2C15%2C90%2C83%2C48%2C50%2C157%2C160%2C171%2C167%2C168%2C170%2C28%2C93%2C49%2C72%2C169%2C152%2C155%2C164%2C165%2C172%2C120%2C14%2C47%2C176%2C175%2C122%2C17%2C32%2C36%2C1%2C40%2C61%2C62%2C63%2C67%2C87%2C16%2C13%2C89%2C86%2C85%2C99%2C101%2C35%2C100%2C29%2C25%2C153%2C156%2C129%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C53%2C58%2C60%2C70%2C94%2C26%2C71%2C8%2C7%2C75%2C45%2C20%2C96%2C95%2C9%2C19%2C18%2C77%2C82%2C44%2C43%2C81%2C37%2C39%2C80%2C52%2C78%2C31%2C41%2C34%2C69%2C0%2C88%2C4%2C84%2C76%2C79%2C2%2C33%2C59%2C38%2C97%2C42%2C74%2C64%2C103%2C56%2C55%2C30%2C91%2C54%2C51%2C46%2C73%2C68%2C23%2C104%2C182%2C181%2C183%2C188%2C189%2C190%2C186%2C178%2C121%2C149%2C177%2C179%2C112%2C143%2C134%2C138%2C118%2C173%2C214%2C105%2C215%2C151%2C109%2C132%2C125%2C113" async=""></script><script src="https://connect.facebook.net/signals/config/240202473020805?v=2.9.151&amp;r=stable&amp;domain=littlegreenhouse.com.sg&amp;hme=8ce74e881727851b4427183947937854816d72704925561b9de6420cd43214ee&amp;ex_m=66%2C111%2C98%2C102%2C57%2C3%2C92%2C65%2C15%2C90%2C83%2C48%2C50%2C157%2C160%2C171%2C167%2C168%2C170%2C28%2C93%2C49%2C72%2C169%2C152%2C155%2C164%2C165%2C172%2C120%2C14%2C47%2C176%2C175%2C122%2C17%2C32%2C36%2C1%2C40%2C61%2C62%2C63%2C67%2C87%2C16%2C13%2C89%2C86%2C85%2C99%2C101%2C35%2C100%2C29%2C25%2C153%2C156%2C129%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C53%2C58%2C60%2C70%2C94%2C26%2C71%2C8%2C7%2C75%2C45%2C20%2C96%2C95%2C9%2C19%2C18%2C77%2C82%2C44%2C43%2C81%2C37%2C39%2C80%2C52%2C78%2C31%2C41%2C34%2C69%2C0%2C88%2C4%2C84%2C76%2C79%2C2%2C33%2C59%2C38%2C97%2C42%2C74%2C64%2C103%2C56%2C55%2C30%2C91%2C54%2C51%2C46%2C73%2C68%2C23%2C104" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://static.hotjar.com/c/hotjar-3004229.js?sv=7"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-860129580&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-860147887&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-WHH1L11GMP&amp;l=dataLayer&amp;cx=c"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TFSNG2R"></script><script type="text/javascript">function rgmkInitGoogleMaps(){window.rgmkGoogleMapsCallback=true;try{jQuery(document).trigger("rgmkGoogleMapsLoad")}catch(err){}}</script>
+
+<script data-cfasync="false" data-pagespeed-no-defer="">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+
+
+<title>PLAYGROUP (18 MONTHS-30 MONTHS) - Little Green House</title>
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://littlegreenhouse.com.sg/portfolio/programme-2/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="PLAYGROUP (18 MONTHS-30 MONTHS) - Little Green House">
+<meta property="og:url" content="https://littlegreenhouse.com.sg/portfolio/programme-2/">
+<meta property="og:site_name" content="Little Green House">
+<meta property="article:modified_time" content="2015-09-29T03:49:46+00:00">
+<meta property="og:image" content="https://littlegreenhouse.com.sg/wp-content/uploads/2015/08/10-8001.jpg">
+<meta property="og:image:width" content="960">
+<meta property="og:image:height" content="720">
+<meta name="twitter:card" content="summary">
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://littlegreenhouse.com.sg/#website","url":"https://littlegreenhouse.com.sg/","name":"Little Green House","description":"Voted Best Literacy Proramme","potentialAction":[{"@type":"SearchAction","target":"https://littlegreenhouse.com.sg/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://littlegreenhouse.com.sg/portfolio/programme-2/#primaryimage","inLanguage":"en-US","url":"https://littlegreenhouse.com.sg/wp-content/uploads/2015/08/10-8001.jpg","width":960,"height":720,"caption":"10-8001"},{"@type":"WebPage","@id":"https://littlegreenhouse.com.sg/portfolio/programme-2/#webpage","url":"https://littlegreenhouse.com.sg/portfolio/programme-2/","name":"PLAYGROUP (18 MONTHS-30 MONTHS) - Little Green House","isPartOf":{"@id":"https://littlegreenhouse.com.sg/#website"},"primaryImageOfPage":{"@id":"https://littlegreenhouse.com.sg/portfolio/programme-2/#primaryimage"},"datePublished":"2015-08-23T11:54:44+00:00","dateModified":"2015-09-29T03:49:46+00:00","breadcrumb":{"@id":"https://littlegreenhouse.com.sg/portfolio/programme-2/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://littlegreenhouse.com.sg/portfolio/programme-2/"]}]},{"@type":"BreadcrumbList","@id":"https://littlegreenhouse.com.sg/portfolio/programme-2/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://littlegreenhouse.com.sg/","url":"https://littlegreenhouse.com.sg/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://littlegreenhouse.com.sg/portfolio/programme-2/","url":"https://littlegreenhouse.com.sg/portfolio/programme-2/","name":"PLAYGROUP (18 MONTHS-30 MONTHS)"}}]}]}</script>
+
+<script type="application/javascript" id="pys-version-script">console.log('PixelYourSite Free version 9.5.3');</script>
+<link rel="dns-prefetch" href="//www.google.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/littlegreenhouse.com.sg\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://littlegreenhouse.com.sg/wp-includes/js/wp-emoji-release.min.js?ver=5.6.2" type="text/javascript" defer=""></script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://littlegreenhouse.com.sg/wp-includes/css/dist/block-library/style.min.css?ver=5.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="redux-extendify-styles-css" href="https://littlegreenhouse.com.sg/wp-content/plugins/redux-framework/redux-core/assets/css/extendify-utilities.css?ver=4.4.15" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://littlegreenhouse.com.sg/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.1" type="text/css" media="all">
+<style id="contact-form-7-inline-css" type="text/css">
+.wpcf7 .wpcf7-recaptcha iframe {margin-bottom: 0;}.wpcf7 .wpcf7-recaptcha[data-align="center"] > div {margin: 0 auto;}.wpcf7 .wpcf7-recaptcha[data-align="right"] > div {margin: 0 0 0 auto;}
+</style>
+<link rel="stylesheet" id="rs-plugin-settings-css" href="https://littlegreenhouse.com.sg/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.4.3" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel="stylesheet" id="wp-live-chat-support-css" href="https://littlegreenhouse.com.sg/wp-content/plugins/wp-live-chat-support/public/css/wplc-plugin-public.css?ver=10.0.11" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="https://littlegreenhouse.com.sg/wp-content/themes/dalton/css/bootstrap.min.css?ver=5.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-theme-css" href="https://littlegreenhouse.com.sg/wp-content/themes/dalton/css/bootstrap-theme.min.css?ver=5.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="custom-icons-css" href="https://littlegreenhouse.com.sg/wp-content/themes/dalton/css/icons.css?ver=5.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="za-font-awesome-css" href="https://littlegreenhouse.com.sg/wp-content/themes/dalton/css/font-awesome.min.css?ver=5.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="plugins-css" href="https://littlegreenhouse.com.sg/wp-content/themes/dalton/css/plugins.css?ver=5.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="main-styles-css" href="https://littlegreenhouse.com.sg/wp-content/themes/dalton/css/style.css?ver=5.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-css" href="https://littlegreenhouse.com.sg/wp-content/themes/dalton/css/responsive.css?ver=5.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="childstyle-css" href="https://littlegreenhouse.com.sg/wp-content/themes/littlegreenhouse/style.css?ver=1.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="cf7cf-style-css" href="https://littlegreenhouse.com.sg/wp-content/plugins/cf7-conditional-fields/style.css?ver=2.4.8" type="text/css" media="all">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Raleway:800,600,500,700%7COpen%20Sans:400,600,700&amp;display=swap&amp;ver=1704469325"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:800,600,500,700%7COpen%20Sans:400,600,700&amp;display=swap&amp;ver=1704469325" media="all" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:800,600,500,700%7COpen%20Sans:400,600,700&#038;display=swap&#038;ver=1704469325" /></noscript><script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/modernizr.custom.js?ver=2.6.2" id="modernizr-js"></script>
+<script type="text/javascript" id="ajax_comments-js-extra">
+/* <![CDATA[ */
+var misha_ajax_comment_params = {"ajaxurl":"https:\/\/littlegreenhouse.com.sg\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/ajax-comments.js?ver=5.6.2" id="ajax_comments-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/plugins/pixelyoursite/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=5.6.2" id="jquery-bind-first-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/plugins/pixelyoursite/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3" id="js-cookie-pys-js"></script>
+<script type="text/javascript" id="pys-js-extra">
+/* <![CDATA[ */
+var pysOptions = {"staticEvents":{"facebook":{"init_event":[{"delay":0,"type":"static","name":"PageView","pixelIds":["1023664451633364"],"eventID":"94f52ad2-4d3f-4dcc-b81b-8f43dbe57163","params":{"page_title":"PLAYGROUP (18 MONTHS-30 MONTHS)","post_type":"portfolio","post_id":110,"plugin":"PixelYourSite","user_role":"guest","event_url":"littlegreenhouse.com.sg\/portfolio\/programme-2\/"},"e_id":"init_event","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}]}},"dynamicEvents":[],"triggerEvents":[],"triggerEventTypes":[],"facebook":{"pixelIds":["1023664451633364"],"advancedMatching":[],"advancedMatchingEnabled":false,"removeMetadata":false,"contentParams":{"post_type":"portfolio","post_id":110,"content_name":"PLAYGROUP (18 MONTHS-30 MONTHS)","tags":"","categories":"Programmes"},"commentEventEnabled":true,"wooVariableAsSimple":false,"downloadEnabled":true,"formEventEnabled":true,"serverApiEnabled":false,"wooCRSendFromServer":false,"send_external_id":null},"debug":"","siteUrl":"https:\/\/littlegreenhouse.com.sg","ajaxUrl":"https:\/\/littlegreenhouse.com.sg\/wp-admin\/admin-ajax.php","ajax_event":"c4843f7446","enable_remove_download_url_param":"1","cookie_duration":"7","last_visit_duration":"60","enable_success_send_form":"","ajaxForServerEvent":"1","send_external_id":"1","external_id_expire":"180","google_consent_mode":"1","gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"externalID_disabled_by_api":false,"facebook_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":null,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_tiktok_consent_category":"marketing","cookiebot_google_ads_consent_category":null,"cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","consent_magic_integration_enabled":false,"real_cookie_banner_integration_enabled":false,"cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false,"analytics_storage":{"enabled":true,"value":"granted","filter":false},"ad_storage":{"enabled":true,"value":"granted","filter":false},"ad_user_data":{"enabled":true,"value":"granted","filter":false},"ad_personalization":{"enabled":true,"value":"granted","filter":false}},"cookie":{"disabled_all_cookie":false,"disabled_start_session_cookie":false,"disabled_advanced_form_data_cookie":false,"disabled_landing_page_cookie":false,"disabled_first_visit_cookie":false,"disabled_trafficsource_cookie":false,"disabled_utmTerms_cookie":false,"disabled_utmId_cookie":false},"tracking_analytics":{"TrafficSource":"direct","TrafficLanding":"https:\/\/littlegreenhouse.com.sg\/","TrafficUtms":[],"TrafficUtmsId":[]},"woo":{"enabled":false},"edd":{"enabled":false}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/plugins/pixelyoursite/dist/scripts/public.js?ver=9.5.3" id="pys-js"></script>
+<link rel="https://api.w.org/" href="https://littlegreenhouse.com.sg/wp-json/"><link rel="shortlink" href="https://littlegreenhouse.com.sg/?p=110">
+<link rel="alternate" type="application/json+oembed" href="https://littlegreenhouse.com.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flittlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://littlegreenhouse.com.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flittlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2%2F&amp;format=xml">
+<meta name="generator" content="Redux 4.4.15">
+
+
+<script data-cfasync="false" data-pagespeed-no-defer="">
+	var dataLayer_content = {"pagePostType":"portfolio","pagePostType2":"single-portfolio","pagePostAuthor":"Marketing"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TFSNG2R');
+</script>
+ <link rel="preload" href="https://littlegreenhouse.com.sg/wp-content/plugins/wordpress-popup/assets/hustle-ui/fonts/hustle-icons-font.woff2" as="font" type="font/woff2" crossorigin="">
+<meta name="facebook-domain-verification" content="g87uz6w5hl6g71oyuse9j9rdcmhz4n">
+<script id="pixel-chaty" async="true" src="https://cdn.chaty.app/pixel.js?id=v4ifil3a"></script>
+
+<style type="text/css">
+.vc_row[data-vc-full-width].vc_hidden { opacity: 1; }
+</style>
+<style type="text/css">
+.projects-carousel.nav-true.nav-light .owl-prev:hover, .projects-carousel.nav-true.nav-light .owl-next:hover, .projects-carousel.nav-true.nav-dark .owl-prev:hover, .projects-carousel.nav-true.nav-dark .owl-next:hover, .products-carousel.nav-true.nav-light .owl-prev:hover, .products-carousel.nav-true.nav-light .owl-next:hover, .products-carousel.nav-true.nav-dark .owl-prev:hover, .products-carousel.nav-true.nav-dark .owl-next:hover, .wpb_tabs.style-1 .wpb_tabs_nav li.ui-tabs-active a, .wpb_tabs.style-3 .wpb_tabs_nav li.ui-tabs-active a, .wpb_tour.style-1 .wpb_tabs_nav li.ui-tabs-active a, .wpb_tour.style-3 .wpb_tabs_nav li.ui-tabs-active a, .wpb_accordion .ui-icon:before, .wpb_accordion.style-2 .wpb_accordion_header.ui-state-active a, .team-member.default-style .member-social a:hover, .testimonials-slider.arrows-nav-dark .owl-nav div:hover, .tweets-slider.arrows-nav-dark .owl-nav div:hover, .testimonials-slider.arrows-nav-light .owl-nav div:hover, .tweets-slider.arrows-nav-light .owl-nav div:hover, .za-gallery.style-1 .gallery-item .overlay h6, .search-box .close-btn:hover, .project-head a.prev:hover, .project-head a.next:hover, .single-post-nav a.prev:hover, .single-post-nav a.next:hover, .post-head .post-title a:hover, .post-meta a:hover, #wp-calendar tbody td#today, #wp-calendar tbody td a, #wp-calendar tfoot td#prev a:hover, #wp-calendar tfoot td#next a:hover, .error-msg h1, .wc-cart-icon .woocommerce a:hover, .wc-cart-icon .woocommerce a:hover, .woocommerce div.product_meta a:hover, .woocommerce table.cart a.remove, .woocommerce #content table.cart a.remove, .woocommerce-page table.cart a.remove, .woocommerce-page #content table.cart a.remove, #header .nav-menu ul ul li a span.label.primary-color, #header .search-box .close-btn:hover, .team-member .member-name a:hover { color: #89C462; }a.main-button:hover, blockquote, .wpb_tabs.style-2 .wpb_tabs_nav li.ui-tabs-active, .wpb_tour.style-2 .wpb_tabs_nav li.ui-tabs-active, .team-member.default-style .member-social a:hover, .custom-slider .owl-controls .owl-dots .owl-dot.active span, .swiper-container .swiper-pagination .swiper-pagination-bullet-active, .widget .tagcloud a:hover, #wp-calendar tbody td#today, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active, .mobile-nav .close-mobile-nav:hover, #header .nav-menu ul ul li a span.label.primary-color { border-color: #89C462; }a.main-button:hover, input[type="submit"], .progress-bar, .wpb_tabs.style-2 .wpb_tabs_nav li.ui-tabs-active, .wpb_tour.style-2 .wpb_tabs_nav li.ui-tabs-active, .pricing-table-column.special-price-table .pricing-table-head, .pricing-table-column.special-price-table .pricing-table-content, .post-thumb .thumb-overlay, .custom-slider .owl-controls .owl-dots .owl-dot.active span, .swiper-container .swiper-pagination .swiper-pagination-bullet-active, .post-link, .post-quote, .widget .tagcloud a:hover, .related-posts .post-thumb:hover, .related-posts .post-thumb .overlay, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, a.shipping-calculator-button, .woocommerce ul.products li.product .onsale, .woocommerce-page ul.products li.product .onsale, .woocommerce span.onsale, .woocommerce-page span.onsale, .latest-products span.onsale, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce .woocommerce-message, .woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce-page .woocommerce-message, .woocommerce-page .woocommerce-error, .woocommerce-page .woocommerce-info, .mobile-nav .close-mobile-nav:hover, .search-results .search-item .result-type { background-color: #89C462; }.nav-menu > ul > li > a, #header .show-search { height: 90px; line-height: 90px; }#header #logo, .wc-cart-icon, #header .show-menu { height: 90px; }#header .nav-menu > ul > li > a { color:#5F6A6E; }#header .nav-menu > ul > li:hover > a { color:#5F6A6E; }#header .nav-menu > ul > li > a:hover:after { background-color:#5F6A6E; }#header .nav-menu > ul > li.current-menu-item > a { color:#5F6A6E; }#header .nav-menu > ul > li.current-menu-item > a:after { background-color:#5F6A6E; }#header .nav-menu ul ul li a { color:#FFFFFF; }#header .nav-menu ul ul li a:hover { color:#FFFFFF; }#header .nav-menu ul ul li.active > a, #header .nav-menu ul ul li.current-menu-item > a { color:#FFFFFF; }#header .show-search { color:#5F6A6E; }#header .show-search:hover { color:#5F6A6E; }.wc-cart-icon .woo-cart-icon { color:#5F6A6E; }.wc-cart-icon .woo-cart-icon span { background-color:#5F6A6E; }.wc-cart-icon .woo-cart-icon:hover { color:#5F6A6E; }.wc-cart-icon .woo-cart-icon:hover span { background-color:#5F6A6E; }#header .show-menu i { background-color:#89C35F; }#header .show-menu:hover i { background-color:#FF9235; }.mobile-nav .close-mobile-nav { background-color:#ffffff; }.mobile-nav .close-mobile-nav:hover { color:#ffffff; }.mobile-nav .mobile-menu > ul > li > a { color:#89C35F; }.mobile-nav .mobile-menu > ul > li:hover > a, .mobile-nav .mobile-menu > ul > li:hover > a:hover { color:#FF9235!important; }.mobile-nav .mobile-menu li.current-menu-item > a, .mobile-nav .mobile-menu li.current-menu-item:hover > a, .mobile-nav .mobile-menu li.current-menu-item:hover > a:hover { color:#FF9235!important; }.mobile-nav .mobile-menu ul ul > li > a { color:#89C35F; }.mobile-nav .mobile-menu ul ul li:hover > a, .mobile-nav .mobile-menu ul ul li:hover > a:hover { color:#FF9235; }.mobile-nav .mobile-menu ul ul li.current-menu-item > a, .mobile-nav .mobile-menu ul ul li.current-menu-item:hover > a, .mobile-nav .mobile-menu ul ul i.current-menu-item:hover > a:hover { color:#FF9235!important; }
+</style><meta name="generator" content="Elementor 3.11.5; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<meta name="generator" content="Powered by Slider Revolution 6.4.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<link rel="icon" href="https://littlegreenhouse.com.sg/wp-content/uploads/2015/08/logofavicon.png" sizes="32x32">
+<link rel="icon" href="https://littlegreenhouse.com.sg/wp-content/uploads/2015/08/logofavicon.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://littlegreenhouse.com.sg/wp-content/uploads/2015/08/logofavicon.png">
+<meta name="msapplication-TileImage" content="https://littlegreenhouse.com.sg/wp-content/uploads/2015/08/logofavicon.png">
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+<style type="text/css" id="wp-custom-css">
+			#slider-1-slide-85-layer-0 {
+  top: 120px;
+}
+
+#home-s1 rs-slides > rs-slide:nth-child(6) {
+	margin-top: 120px;
+}
+
+.no-margin .vc_span6:first-child input{
+	margin-bottom:0px!important;
+}		</style>
+<style id="zoomarts_options-dynamic-css" title="dynamic-css" class="redux-options-output">.page-header .default-title-font{text-transform:uppercase;line-height:60px;letter-spacing:0px;font-weight:400;font-style:normal;color:#5f6a6e;font-size:30px;}.page-header .default-subtitle-font{font-family:Raleway;text-transform:uppercase;line-height:21px;letter-spacing:0px;font-weight:800;font-style:normal;color:#78bf3c;font-size:14px;}a{color:#89c462;}a:hover{color:#89c462;}.mobile-nav{background-color:#ffffff;}.footer{background-repeat:no-repeat;background-position:center bottom;background-image:url('https://littlegreenhouse.com.sg/wp-content/uploads/2015/08/bottombanner.jpg');background-size:cover;}.footer{color:#417821;}.custom-font-1{font-family:"Open Sans";font-weight:400;font-style:normal;}body{font-family:"Open Sans";line-height:23px;letter-spacing:0px;font-weight:400;font-style:normal;color:#666666;font-size:13px;}blockquote, .su-quote-inner{font-family:"Open Sans";line-height:23px;letter-spacing:0px;font-weight:400;font-style:normal;color:#666666;font-size:13px;}h1{font-family:Raleway;line-height:36px;letter-spacing:2px;font-weight:600;font-style:normal;color:#333333;font-size:24px;}h2{font-family:Raleway;line-height:32px;letter-spacing:2px;font-weight:600;font-style:normal;color:#333333;font-size:22px;}h3{font-family:Raleway;line-height:28px;letter-spacing:2px;font-weight:600;font-style:normal;color:#333333;font-size:18px;}h4{font-family:Raleway;line-height:26px;letter-spacing:2px;font-weight:600;font-style:normal;color:#333333;font-size:16px;}h5{font-family:Raleway;line-height:20px;letter-spacing:2px;font-weight:600;font-style:normal;color:#333333;font-size:14px;}h6{font-family:Raleway;line-height:18px;letter-spacing:2px;font-weight:600;font-style:normal;color:#333333;font-size:12px;}.nav-menu li a, .nav-menu ul li.menu-title > a{font-family:Raleway;letter-spacing:1px;font-weight:800;font-style:normal;font-size:11px;}.nav-menu ul ul li a{font-family:Raleway;letter-spacing:1px;font-weight:500;font-style:normal;font-size:10px;}#header .nav-menu ul ul li a span.label{font-family:"Open Sans";letter-spacing:1px;font-weight:600;font-style:normal;font-size:9px;}.mobile-nav .mobile-menu > ul > li > a{font-family:Raleway;letter-spacing:1px;font-weight:800;font-style:normal;font-size:11px;}.mobile-menu ul ul li a{font-family:Raleway;letter-spacing:1px;font-weight:800;font-style:normal;font-size:10px;}.post-head .post-title{font-family:"Open Sans";text-transform:uppercase;line-height:26px;letter-spacing:2px;font-weight:700;font-style:normal;font-size:20px;}a.main-button{font-family:Raleway;text-transform:uppercase;letter-spacing:2px;font-weight:700;font-style:normal;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/860129580/?random=1711879232324&amp;cv=11&amp;fst=1711879232324&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0v9101142259z876773441za201&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Flittlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=PLAYGROUP%20(18%20MONTHS-30%20MONTHS)%20-%20Little%20Green%20House&amp;npa=0&amp;pscdl=noapi&amp;auid=2035078044.1711878992&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B123.0.6312.86%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.86&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;fdr=QA&amp;rfmt=3&amp;fmt=4"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/860147887/?random=1711879232346&amp;cv=11&amp;fst=1711879232346&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0v9101828762z876773441za201&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Flittlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2%2F&amp;label=dg_NCIrH8HAQr6GTmgM&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=PLAYGROUP%20(18%20MONTHS-30%20MONTHS)%20-%20Little%20Green%20House&amp;npa=0&amp;pscdl=noapi&amp;auid=2035078044.1711878992&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B123.0.6312.86%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.86&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;fdr=QA&amp;rfmt=3&amp;fmt=4"></script><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><link id="chaty-saas-css" rel="stylesheet" type="text/css" href="https://cdn.chaty.app/pixel.css"><style id="custom-csaas-css">#csaas-form-p5ne2kog3l-Contact_Us input:focus {border-color:#B78DEB}#csaas-form-p5ne2kog3l-Contact_Us textarea:focus {border-color:#B78DEB}.channel-p5ne2kog3l-WhatsApp .color-element{ fill: #49E670; color: #49E670;}#csaas-widget-p5ne2kog3l .WhatsApp-channel .color-element{ fill: #49E670; color: #49E670;}#csaas-widget-p5ne2kog3l .WhatsApp-channel .csaas-svg { background-color: #49E670;}.channel-p5ne2kog3l-WhatsApp .csaas-svg { background-color: #49E670;}#csaas-widget-p5ne2kog3l .channel-icon-WhatsApp-channel .csaas-svg { background-color: #49E670;}.csaas-chat-view-p5ne2kog3l .WhatsApp-channel .csaas-custom-icon { background-color: #49E670; }.csaas-chat-view-p5ne2kog3l .WhatsApp-channel .csaas-svg { background-color: #49E670;}.csaas-chat-view-p5ne2kog3l .channel-icon-WhatsApp .csaas-svg { background-color: #49E670;}.channel-p5ne2kog3l-Phone .color-element{ fill: #03E78B; color: #03E78B;}#csaas-widget-p5ne2kog3l .Phone-channel .color-element{ fill: #03E78B; color: #03E78B;}#csaas-widget-p5ne2kog3l .Phone-channel .csaas-svg { background-color: #03E78B;}.channel-p5ne2kog3l-Phone .csaas-svg { background-color: #03E78B;}#csaas-widget-p5ne2kog3l .channel-icon-Phone-channel .csaas-svg { background-color: #03E78B;}.csaas-chat-view-p5ne2kog3l .Phone-channel .csaas-custom-icon { background-color: #03E78B; }.csaas-chat-view-p5ne2kog3l .Phone-channel .csaas-svg { background-color: #03E78B;}.csaas-chat-view-p5ne2kog3l .channel-icon-Phone .csaas-svg { background-color: #03E78B;}.channel-p5ne2kog3l-Contact_Us .color-element{ fill: #253974; color: #253974;}#csaas-widget-p5ne2kog3l .Contact_Us-channel .color-element{ fill: #253974; color: #253974;}#csaas-widget-p5ne2kog3l .Contact_Us-channel .csaas-svg { background-color: #253974;}.channel-p5ne2kog3l-Contact_Us .csaas-svg { background-color: #253974;}#csaas-widget-p5ne2kog3l .channel-icon-Contact_Us-channel .csaas-svg { background-color: #253974;}.csaas-chat-view-p5ne2kog3l .Contact_Us-channel .csaas-custom-icon { background-color: #253974; }.csaas-chat-view-p5ne2kog3l .Contact_Us-channel .csaas-svg { background-color: #253974;}.csaas-chat-view-p5ne2kog3l .channel-icon-Contact_Us .csaas-svg { background-color: #253974;}#csaas-widget-p5ne2kog3l .csaas-channel-list .csaas-channel {width: 60px; height: 60px; }#csaas-widget-p5ne2kog3l .csaas-channel-list .csaas-channel > a {width: 60px; height: 60px; }#csaas-widget-p5ne2kog3l .csaas-channel-list .csaas-channel > a .csaas-svg {width: 60px; height: 60px; }#csaas-widget-p5ne2kog3l .csaas-channel-list .csaas-channel > a img {width: 60px; height: 60px; object-fit: cover;}#csaas-widget-p5ne2kog3l .csaas-i-trigger .csaas-cta-button > button {width: 60px; height: 60px; }#csaas-widget-p5ne2kog3l .csaas-i-trigger .csaas-cta-button > button .csaas-svg {width: 60px; height: 60px; }#csaas-widget-p5ne2kog3l .csaas-i-trigger .csaas-channel img {width: 60px; height: 60px; }#csaas-widget-p5ne2kog3l .csaas-i-trigger .csaas-channel a {width: 60px; height: 60px; }#csaas-widget-p5ne2kog3l .csaas-i-trigger .csaas-channel a .csaas-svg {width: 60px; height: 60px; }#csaas-widget-p5ne2kog3l .csaas-channel-list .csaas-channel button {width: 60px; height: 60px; }#csaas-widget-p5ne2kog3l .csaas-channel-list .csaas-channel .csaas-svg {width: 60px; height: 60px; }#csaas-widget-p5ne2kog3l .csaas-channel-list .csaas-channel .csaas-svg img {width: 60px; height: 60px; }#csaas-widget-p5ne2kog3l .csaas-channel-list {height: 204px; }#csaas-widget-p5ne2kog3l .csaas-channel-list {width: 68px; }#csaas-widget-p5ne2kog3l .csaas-open .csaas-channel-list .csaas-channel:nth-child(1) {-webkit-transform: translateY(-204px); transform: translateY(-204px);}#csaas-widget-p5ne2kog3l .csaas-open .csaas-channel-list .csaas-channel:nth-child(2) {-webkit-transform: translateY(-136px); transform: translateY(-136px);}#csaas-widget-p5ne2kog3l .csaas-open .csaas-channel-list .csaas-channel:nth-child(3) {-webkit-transform: translateY(-68px); transform: translateY(-68px);}#csaas-widget-p5ne2kog3l .csaas-open .csaas-channel-list .csaas-channel:nth-child(4) {-webkit-transform: translateY(-0px); transform: translateY(-0px);}.csaas-outer-forms.active.csaas-form-p5ne2kog3l {-webkit-transform: translateY(-100px); transform: translateY(-100px)} .csaas:not(.form-open)#csaas-widget-p5ne2kog3l .csaas-widget.csaas-open + .csaas-chat-view {-webkit-transform: translateY(-100px); transform: translateY(-100px)} #csaas-widget-p5ne2kog3l .csaas-tooltip:after {background-color: #ffffff; color: #3D3D3D}#csaas-widget-p5ne2kog3l .csaas-tooltip.pos-top:before {border-top-color: #ffffff; }#csaas-widget-p5ne2kog3l .csaas-tooltip.pos-left:before {border-left-color: #ffffff; }#csaas-widget-p5ne2kog3l .csaas-tooltip.pos-right:before {border-right-color: #ffffff;}#csaas-widget-p5ne2kog3l .on-hover-text {background-color: #ffffff; color: #3D3D3D}#csaas-widget-p5ne2kog3l .csaas-tooltip.pos-top .on-hover-text:before {border-top-color: #ffffff; }#csaas-widget-p5ne2kog3l .csaas-tooltip.pos-left .on-hover-text:before {border-left-color: #ffffff; }#csaas-widget-p5ne2kog3l .csaas-tooltip.pos-right .on-hover-text:before {border-right-color: #ffffff;}#csaas-widget-p5ne2kog3l .ch-pending-msg {background-color: #dd0000;color: #ffffff;}.csaas-chat-view-p5ne2kog3l .csaas-view-header {background-color: #b78deb;color: #ffffff;}.csaas-chat-view-p5ne2kog3l .csaas-view-header svg {fill: #ffffff;}</style></head>
+<body class="portfolio-template-default single single-portfolio postid-110 wpb-js-composer js-comp-ver-6.6.0 vc_responsive elementor-default elementor-kit-4572 csaas-loaded"><div class="calendly-badge-widget"><div class="calendly-badge-content" style="background: rgb(19, 202, 58);">Book a School Tour</div></div>
+<div class="mobile-nav mini-nav">
+<span class="close-mobile-nav">×</span>
+<div class="mobile-menu">
+<ul id="menu-front" class=""><li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-26"><a href="https://littlegreenhouse.com.sg/" data-ps2id-api="true">Home</a></li>
+<li id="menu-item-1539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1539"><a href="#" data-ps2id-api="true" class="__mPS2id">About Us</a>
+<ul class="sub-menu">
+<li id="menu-item-1545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1545"><a href="https://littlegreenhouse.com.sg/about-us/" data-ps2id-api="true">About Us</a></li>
+<li id="menu-item-464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-464"><a href="https://littlegreenhouse.com.sg/our-awards/" data-ps2id-api="true">Our Awards</a></li>
+<li id="menu-item-5341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5341"><a href="https://littlegreenhouse.com.sg/join-us/" data-ps2id-api="true">Join Us</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://littlegreenhouse.com.sg/testimonials/" data-ps2id-api="true">Testimonials</a></li>
+</ul>
+</li>
+<li id="menu-item-1540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1540"><a href="#" data-ps2id-api="true" class="__mPS2id">Programmes</a>
+<ul class="sub-menu">
+<li id="menu-item-1544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1544"><a href="https://littlegreenhouse.com.sg/literacy-smart-programme/" data-ps2id-api="true">LITERACY SMART™ programme</a></li>
+<li id="menu-item-1207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1207"><a href="https://littlegreenhouse.com.sg/programs/programme-highlights/" data-ps2id-api="true">Preschool Programme</a></li>
+<li id="menu-item-3849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3849"><a href="https://littlegreenhouse.com.sg/chinese-preschool-programme/" data-ps2id-api="true">Chinese Preschool Programme</a></li>
+<li id="menu-item-902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-902"><a href="https://littlegreenhouse.com.sg/food-and-nutrition/" data-ps2id-api="true">Food &amp; Nutrition</a></li>
+</ul>
+</li>
+<li id="menu-item-1865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1865"><a href="https://littlegreenhouse.com.sg/centres/" data-ps2id-api="true">Centres</a>
+<ul class="sub-menu">
+<li id="menu-item-3804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3804"><a href="https://littlegreenhouse.com.sg/preschool/" data-ps2id-api="true">Preschool</a>
+<ul class="sub-menu">
+<li id="menu-item-5046" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5046"><a href="https://littlegreenhouse.com.sg/centres/aljunied/" data-ps2id-api="true">Aljunied</a></li>
+<li id="menu-item-1866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1866"><a href="https://littlegreenhouse.com.sg/centres/bukit-batok/" data-ps2id-api="true">Bukit Batok</a></li>
+<li id="menu-item-2795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2795"><a href="https://littlegreenhouse.com.sg/centres/hougang/" data-ps2id-api="true">Hougang</a></li>
+<li id="menu-item-1867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1867"><a href="https://littlegreenhouse.com.sg/centres/jurong-west-478/" data-ps2id-api="true">Jurong West 478</a></li>
+<li id="menu-item-1868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1868"><a href="https://littlegreenhouse.com.sg/centres/jurong-west-502/" data-ps2id-api="true">Jurong West 502</a></li>
+<li id="menu-item-1869" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1869"><a href="https://littlegreenhouse.com.sg/centres/serangoon-540/" data-ps2id-api="true">Serangoon 540</a></li>
+<li id="menu-item-1870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1870"><a href="https://littlegreenhouse.com.sg/centres/serangoon-553/" data-ps2id-api="true">Serangoon 553</a></li>
+<li id="menu-item-1880" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1880"><a href="https://littlegreenhouse.com.sg/centres/tampines/" data-ps2id-api="true">Tampines</a></li>
+<li id="menu-item-1871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1871"><a href="https://littlegreenhouse.com.sg/centres/woodlands/" data-ps2id-api="true">Woodlands</a></li>
+<li id="menu-item-1872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1872"><a href="https://littlegreenhouse.com.sg/centres/yishun/" data-ps2id-api="true">Yishun</a></li>
+</ul>
+</li>
+<li id="menu-item-3805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3805"><a href="https://littlegreenhouse.com.sg/chinese-preschool/" data-ps2id-api="true">Chinese Preschool</a>
+<ul class="sub-menu">
+<li id="menu-item-3791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3791"><a href="https://littlegreenhouse.com.sg/centres/sin-ming/" data-ps2id-api="true">Sin Ming (Midview City)</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1671"><a href="https://littlegreenhouse.com.sg/franchise-opportunities/" data-ps2id-api="true">Franchise</a></li>
+<li id="menu-item-836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-836"><a href="https://littlegreenhouse.com.sg/newsevents/" data-ps2id-api="true">Happenings</a></li>
+<li id="menu-item-3315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3315"><a href="#" data-ps2id-api="true" class="__mPS2id">Contact</a>
+<ul class="sub-menu">
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="https://littlegreenhouse.com.sg/contact/" data-ps2id-api="true">Contact Us</a></li>
+<li id="menu-item-6117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6117"><a href="https://littlegreenhouse.com.sg/payment/" data-ps2id-api="true">School Fees Payment</a></li>
+<li id="menu-item-3257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3257"><a href="https://littlegreenhouse.com.sg/referral-programme/" data-ps2id-api="true">Parent Referral Programme</a></li>
+</ul>
+</li>
+</ul> </div>
+</div>
+
+<div class="wrapper wide-layout">
+<div class="hidden-header" style="height:90px"></div>
+<div class="header-outer default-bg" data-class-style="default-bg" data-sticky-topbar="0">
+
+<div id="header" class="header" data-sticky="1" data-header-height="90" data-sticky-height="60" data-shrink="1">
+<div class="container">
+<div class="header-leftside">
+<div id="logo" class="logo" style="height: 90px;">
+<div class="logo-c">
+<a href="https://littlegreenhouse.com.sg/" title="Little Green House" rel="home">
+<picture class="dark-logo no-retina">
+<source type="image/webp" srcset="https://littlegreenhouse.com.sg/wp-content/uploads/2015/08/littlegreenhouse.png.webp">
+<img width="155px" height="90px" src="https://littlegreenhouse.com.sg/wp-content/uploads/2015/08/littlegreenhouse.png" alt="">
+</picture>
+<picture class="dark-logo retina">
+<source type="image/webp" srcset="https://littlegreenhouse.com.sg/wp-content/uploads/2015/08/littlegreenhouse@x2.png.webp">
+<img width="155px" height="90px" src="https://littlegreenhouse.com.sg/wp-content/uploads/2015/08/littlegreenhouse@x2.png" alt="">
+</picture>
+<img class="light-logo no-retina" width="155px" height="90px" src="https://littlegreenhouse.com.sg/wp-content/uploads/2022/07/littlegreenhouse.webp" alt="">
+<picture class="light-logo retina">
+<source type="image/webp" srcset="https://littlegreenhouse.com.sg/wp-content/uploads/2015/08/littlegreenhouse@x2.png.webp">
+<img width="155px" height="90px" src="https://littlegreenhouse.com.sg/wp-content/uploads/2015/08/littlegreenhouse@x2.png" alt="">
+</picture>
+</a>
+</div>
+</div>
+</div>
+<div class="header-rightside">
+<div class="header-right">
+<div class="nav-menu">
+<ul id="menu-front-1" class=""><li id="nav-menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  no-mega-menu "><a href="https://littlegreenhouse.com.sg/" class="" style="height: 90px; line-height: 90px;">Home</a></li>
+<li id="nav-menu-item-1539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  no-mega-menu "><a href="#" class="" style="height: 90px; line-height: 90px;">About Us</a>
+<div class="second-lvl"><ul>
+<li id="nav-menu-item-1545" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/about-us/" class="">About Us</a></li>
+<li id="nav-menu-item-464" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/our-awards/" class="">Our Awards</a></li>
+<li id="nav-menu-item-5341" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/join-us/" class="">Join Us</a></li>
+<li id="nav-menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/testimonials/" class="">Testimonials</a></li>
+</ul></div>
+</li>
+<li id="nav-menu-item-1540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  no-mega-menu "><a href="#" class="" style="height: 90px; line-height: 90px;">Programmes</a>
+<div class="second-lvl"><ul>
+<li id="nav-menu-item-1544" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/literacy-smart-programme/" class="">LITERACY SMART™ programme</a></li>
+<li id="nav-menu-item-1207" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/programs/programme-highlights/" class="">Preschool Programme</a></li>
+<li id="nav-menu-item-3849" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/chinese-preschool-programme/" class="">Chinese Preschool Programme</a></li>
+<li id="nav-menu-item-902" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/food-and-nutrition/" class="">Food &amp; Nutrition</a></li>
+</ul></div>
+</li>
+<li id="nav-menu-item-1865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  no-mega-menu "><a href="https://littlegreenhouse.com.sg/centres/" class="" style="height: 90px; line-height: 90px;">Centres</a>
+<div class="second-lvl"><ul>
+<li id="nav-menu-item-3804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sub no-mega-menu menu-title "><a href="https://littlegreenhouse.com.sg/preschool/" class="">Preschool</a>
+<ul>
+<li id="nav-menu-item-5046" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/centres/aljunied/" class="">Aljunied</a></li>
+<li id="nav-menu-item-1866" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/centres/bukit-batok/" class="">Bukit Batok</a></li>
+<li id="nav-menu-item-2795" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/centres/hougang/" class="">Hougang</a></li>
+<li id="nav-menu-item-1867" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/centres/jurong-west-478/" class="">Jurong West 478</a></li>
+<li id="nav-menu-item-1868" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/centres/jurong-west-502/" class="">Jurong West 502</a></li>
+<li id="nav-menu-item-1869" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/centres/serangoon-540/" class="">Serangoon 540</a></li>
+<li id="nav-menu-item-1870" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/centres/serangoon-553/" class="">Serangoon 553</a></li>
+<li id="nav-menu-item-1880" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/centres/tampines/" class="">Tampines</a></li>
+<li id="nav-menu-item-1871" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/centres/woodlands/" class="">Woodlands</a></li>
+<li id="nav-menu-item-1872" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/centres/yishun/" class="">Yishun</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-3805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sub no-mega-menu "><a href="https://littlegreenhouse.com.sg/chinese-preschool/" class="">Chinese Preschool</a>
+<ul>
+<li id="nav-menu-item-3791" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/centres/sin-ming/" class="">Sin Ming (Midview City)</a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+<li id="nav-menu-item-1671" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/franchise-opportunities/" class="" style="height: 90px; line-height: 90px;">Franchise</a></li>
+<li id="nav-menu-item-836" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/newsevents/" class="" style="height: 90px; line-height: 90px;">Happenings</a></li>
+<li id="nav-menu-item-3315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  no-mega-menu "><a href="#" class="" style="height: 90px; line-height: 90px;">Contact</a>
+<div class="second-lvl"><ul>
+<li id="nav-menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/contact/" class="">Contact Us</a></li>
+<li id="nav-menu-item-6117" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/payment/" class="">School Fees Payment</a></li>
+<li id="nav-menu-item-3257" class="menu-item menu-item-type-post_type menu-item-object-page  no-mega-menu "><a href="https://littlegreenhouse.com.sg/referral-programme/" class="">Parent Referral Programme</a></li>
+</ul></div>
+</li>
+</ul> </div>
+<div class="show-menu" style="height: 90px;"><span><i></i></span></div>
+<div class="show-search" style="height: 90px; line-height: 90px;"><span><i class="fa fa-search"></i></span></div>
+</div>
+</div>
+</div>
+<div id="search-box" class="search-box">
+<div class="container">
+<form role="search" method="get" class="searchform" action="https://littlegreenhouse.com.sg/">
+<input id="s" type="search" class="field" name="s" value="Enter your keywords..." onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+</form>
+<div class="close-btn">×</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-header text-left" style="padding-top: 200px; padding-bottom: 240px; border-bottom: 1px solid rgb(238, 238, 238);">
+<div class="container">
+<div class="page_header-content">
+<h2 class="default-title-font" style="" data-letter-spacing="&quot;3&quot;">
+PLAYGROUP (18 MONTHS-30 MONTHS) </h2>
+</div>
+</div>
+</div>
+<div class="project-head clearfix">
+<div class="container">
+<a title="INFANT CARE (2 MONTHS-17 MONTHS)" href="https://littlegreenhouse.com.sg/portfolio/infant/" rel="prev" class="prev"><i class="icon-chevron-thin-left"></i><span>INFANT CARE (2 MONTHS-17 MONTHS)</span></a><a title="Back to Portfolio" href="https://littlegreenhouse.com.sg/programme-2/"><i class="icon-grid6"></i></a><a title="NURSERY 1 (3 YEARS OLD)" href="https://littlegreenhouse.com.sg/portfolio/programme-3/" rel="next" class="next"><span>NURSERY 1 (3 YEARS OLD)</span><i class="icon-chevron-thin-right"></i></a> </div>
+</div>
+
+<div id="main-content" class="main-content container">
+<div class="row">
+
+<div class="project-wrap col-md-12">
+
+<div class="post-110 portfolio type-portfolio status-publish has-post-thumbnail hentry project-type-programmes" id="post-110">
+<div class="project-thumb wide-centered">
+<div class="project-slider custom-slider swiper-container gallery-top swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events swiper-container-autoheight"><div class="swiper-wrapper" id="swiper-wrapper-b9d5d6b9374cbaba" aria-live="polite" style="height: 540px; transform: translate3d(0px, 0px, 0px);"><div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 1" style="width: 720px;"><picture>
+<source type="image/webp" srcset="https://littlegreenhouse.com.sg/wp-content/uploads/2015/08/10-8001.jpg.webp">
+<img src="https://littlegreenhouse.com.sg/wp-content/uploads/2015/08/10-8001.jpg" alt="PLAYGROUP (18 MONTHS-30 MONTHS)">
+</picture>
+</div></div><div class="swiper-controls"><div class="swiper-pagination"></div></div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div><div class="mini-slider swiper-container gallery-thumbs swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events"><div class="swiper-wrapper" id="swiper-wrapper-10c1fe80e57937f1d" aria-live="polite" style="transition-duration: 0ms; transform: translate3d(288px, 0px, 0px);"><div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 1"><div style="background-image:url(https://littlegreenhouse.com.sg/wp-content/uploads/2015/08/10-8001.jpg)"></div></div></div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div> </div>
+<div class="project-content">
+<div class="project-text">
+<h2 class="project-title">PLAYGROUP (18 MONTHS-30 MONTHS)</h2>
+<div class="project-cats">
+<a href="https://littlegreenhouse.com.sg/project-type/programmes/">Programmes</a> </div>
+<div class="content-area"></div>
+<div class="za-social-share">
+<ul class="social-list">
+<li class="share-facebook">
+<a href="https://www.facebook.com/share.php?u=https%3A%2F%2Flittlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2%2F" target="_blank" title="Share on Facebook" rel="nofollow" class="" data-placement="bottom" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+<i class="icon-facebook"></i>
+</a>
+</li>
+<li class="share-twitter">
+<a href="https://twitter.com/share?text=PLAYGROUP+%2818+MONTHS-30+MONTHS%29&amp;url=https%3A%2F%2Flittlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2%2F" target="_blank" title="Share on Twitter" rel="nofollow" class="" data-placement="bottom" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+<i class="icon-twitter"></i>
+</a>
+</li>
+<li class="share-googleplus">
+<a title="Share on Google+" rel="external" href="https://plus.google.com/share?url=https%3A%2F%2Flittlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2%2F" class="" data-placement="bottom" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+<i class="icon-google-plus"></i>
+</a>
+</li>
+<li class="share-pinterest">
+<a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Flittlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2%2F&amp;media=https://littlegreenhouse.com.sg/wp-content/uploads/2015/08/10-8001.jpg&amp;description=" target="_blank" title="Share on Pinterest" rel="nofollow" class="" data-placement="bottom" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+<i class="icon-pinterest"></i>
+</a>
+</li>
+<li class="share-linkedin">
+<a title="Share on LinkedIn" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Flittlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2%2F&amp;title=PLAYGROUP+%2818+MONTHS-30+MONTHS%29&amp;summary=&amp;source=https://littlegreenhouse.com.sg" target="_blank" rel="nofollow" class="" data-placement="bottom" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+<i class="icon-linkedin"></i>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+</div> 
+</div>
+</div>
+
+
+<div id="footer" class="footer dark-footer">
+<div class="container">
+
+<a href="#" id="go-top"><i class="icon-chevron-up2"></i></a>
+<div class="row">
+
+<div class="col-md-3"> <div id="text-2" class="widget widget_text"> <div class="textwidget"><picture>
+<source type="image/webp" srcset="/wp-content/uploads/2015/08/littlegreenhouse@x2.png.webp">
+<img src="/wp-content/uploads/2015/08/littlegreenhouse@x2.png" width="155px" height="90px" alt="littlegreenhouse@x2">
+</picture>
+<p style="font-family: Open Sans; font-size: 11px; color: #000000; padding-top: 20px;">We nurture the Literacy Smart Kid through a fusion of a strong academic Literacy SMART<sup>TM</sup> curriculum, creative enrichment and hands-on activities. With a dedicated team of professional preschool educators, we bring to light your child’s full intellectual, social, physical and creative potential, transforming them into a budding writer, a fluent reader and a confident speaker.</p>
+<br>
+<p style="font-family: handlee; font-size: 20px; color: #89c35f;">Find us on <a href="https://www.facebook.com/Little-Green-House-867632139970089/" target="_blank" rel="noopener"><picture>
+<source type="image/webp" srcset="/wp-content/uploads/2015/08/fblogo.png.webp">
+<img src="/wp-content/uploads/2015/08/fblogo.png">
+</picture>
+</a></p>
+<div class="divider solid-line" style="text-align:left;"><div class="divider-elm solid-line" style="border-bottom: 3px solid #ffae00; width: 15%;"></div></div>
+<br>
+<a style="font-family: handlee; font-size: 20px; color: #89c35f;" href="https://littlegreenhouse.com.sg/privacy-policy/" target="_new" rel="noopener">Privacy Policy</a>
+</div>
+</div> </div>
+
+<div class="col-md-3"> <div id="text-3" class="widget widget_text"> <div class="textwidget"><p style="font-family: handlee; font-size: 25px; color: #89c35f;">Contact us</p>
+<div class="divider solid-line" style="text-align:left;"><div class="divider-elm solid-line" style="border-bottom: 3px solid #ffae00; width: 15%;"></div></div>
+<br>
+<br>
+<p style="font-family: crimsontext; font-weight: 600; color: #417821; font-size: 13px;"> Little Green House @ Aljunied</p>
+<p style="color: #89c35f; font-size: 11px; padding-bottom: 10px; font-weight: bold;">12 Aljunied Road
+#03-01 &amp; #03-02, KH Plaza @ Aljunied<span style="white-space:nowrap;">Singapore 389801</span><br>Tel: 6653 7146</p>
+<p style="font-family: crimsontext; font-weight: 600; color: #417821; font-size: 13px;"> Little Green House @ Bukit Batok </p>
+<p style="color: #89c35f; font-size: 11px; padding-bottom: 10px; font-weight: bold;">Blk 373 Bukit Batok Street 31, #03-244 <span style="white-space:nowrap;">Singapore 650373</span><br>Tel: 6653 7146</p>
+<p style="font-family: crimsontext; font-weight: 600; color: #417821; font-size: 13px;"> Little Green House @ Hougang</p>
+<p style="color: #89c35f; font-size: 11px; padding-bottom: 10px; font-weight: bold;">27/27A, Hougang Ave 1, <span style="white-space:nowrap;">Singapore 538875</span><br>Tel: 6653 7146</p>
+<p style="font-family: crimsontext; font-weight: 600; color: #417821; font-size: 13px; ">Little Green House @ Jurong West 478</p>
+<p style="color: #89c35f; font-size: 11px; padding-bottom: 10px; font-weight: bold;">Blk 478, Jurong West Street 41 #01-276 <span style="white-space:nowrap;">Singapore 640478</span><br>Tel: 6653 7146</p>
+</div>
+</div> </div>
+
+<div class="col-md-3"> <div id="text-6" class="widget widget_text"> <div class="textwidget"><br>
+<br>
+<br>
+<br>
+<p style="font-family: crimsontext; color: #417821; font-size: 13px; font-weight: 600;">Little Green House @ Jurong West 502</p>
+<p style="color: #89c35f; font-size: 11px; padding-bottom: 10px; font-weight: bold;">Blk 502 Jurong West Avenue 1 #02-813/817 <span style="white-space:nowrap;">Singapore 640502</span><br>Tel: 6653 7146</p>
+<p style="font-family: crimsontext; font-weight: 600; color: #417821; font-size: 13px;">Little Green House @ Serangoon 540</p>
+<p style="color: #89c35f; font-size: 11px; padding-bottom: 10px; font-weight: bold;">Blk 540 Serangoon North Avenue 4 #01-101 <span style="white-space:nowrap;">Singapore 550540</span><br>Tel: 6653 7146</p>
+<p style="font-family: crimsontext; color: #417821; font-size: 13px; font-weight: 600; padding-top: 10px;"> Little Green House @ Serangoon 553 </p>
+<p style="color: #89c35f; font-size: 11px; padding-bottom: 10px; font-weight: bold;">Blk 553 Serangoon North Avenue 3 #01-75 <span style="white-space:nowrap;">Singapore 550553</span><br>Tel: 6653 7146</p>
+<p style="font-family: crimsontext; font-weight: 600; color: #417821; font-size: 13px;">Little Green House @ Sin Ming</p>
+<p style="color: #89c35f; font-size: 11px; padding-bottom: 10px; font-weight: bold;">32 Sin Ming Lane, Midview City
+<span style="white-space:nowrap;">Singapore 573954</span><br>Tel: 6653 7146</p></div>
+</div> </div>
+
+<div class="col-md-3"> <div id="text-5" class="widget widget_text"> <div class="textwidget"><br>
+<br>
+<br>
+<br>
+<p style="font-family: crimsontext; font-weight: 600; color: #417821; font-size: 13px;">Little Green House @ Tampines</p>
+<p style="color: #89c35f; font-size: 11px; padding-bottom: 10px; font-weight: bold;">Blk 707 Tampines Street 71 #01-78
+<span style="white-space:nowrap;">Singapore 520707</span><br>Tel: 6653 7146</p>
+<p style="font-family: crimsontext; color: #417821; font-size: 13px; font-weight: 700;">Little Green House @ Woodlands</p>
+<p style="color: #89c35f; font-size: 11px; padding-bottom: 10px; font-weight: bold;">Blk 161 Woodlands St 13
+#01-633 <span style="white-space:nowrap;">Singapore 730161</span><br>Tel : 6653 7146</p>
+<p style="font-family: crimsontext; font-weight: 600; color: #417821; font-size: 13px;">Little Green House @ Yishun</p>
+<p style="color: #89c35f; font-size: 11px; padding-bottom: 10px; font-weight: bold;">Blk 832 Yishun Street 81, #01-448
+<span style="white-space:nowrap;">Singapore 760832</span><br>Tel: 6653 7146</p>
+
+<link href="https://calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<script type="text/javascript">Calendly.initBadgeWidget({url: 'https://vms.global-eduhub.com/lgh', text: 'Book a School Tour', color: '#13ca3a', branding: false});</script>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+
+<div id="copyright" class="copyright">
+<div class="container"><row>
+<div class="col-sm-6">Copyright © 2024 Little Green House. All Rights Reserved.</div>
+<div class="col-sm-6 skool"><p>Powered by <a href="http://skoolopedia.com" target="_blank">Skoolopedia</a></p></div>
+</row></div></div>
+</div>
+
+
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFSNG2R" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
+<noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=1023664451633364&ev=PageView&noscript=1&cd%5Bpage_title%5D=PLAYGROUP+%2818+MONTHS-30+MONTHS%29&cd%5Bpost_type%5D=portfolio&cd%5Bpost_id%5D=110&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=littlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2%2F" alt=""></noscript>
+<link rel="stylesheet" id="redux-custom-fonts-css" href="//littlegreenhouse.com.sg/wp-content/uploads/redux/custom-fonts/fonts.css?ver=1711879231" type="text/css" media="all">
+<link rel="stylesheet" id="hustle_icons-css" href="https://littlegreenhouse.com.sg/wp-content/plugins/wordpress-popup/assets/hustle-ui/css/hustle-icons.min.css?ver=7.8.4" type="text/css" media="all">
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","240202473020805");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=240202473020805&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+<script type="text/javascript" id="">document.addEventListener("wpcf7mailsent",function(a){dataLayer.push({event:"wpcf7successfulsubmit",CF7formID:a.detail.contactFormId})},!1);</script>
+<link rel="stylesheet" id="hustle_global-css" href="https://littlegreenhouse.com.sg/wp-content/plugins/wordpress-popup/assets/hustle-ui/css/hustle-global.min.css?ver=7.8.4" type="text/css" media="all">
+<link rel="stylesheet" id="hustle_info-css" href="https://littlegreenhouse.com.sg/wp-content/plugins/wordpress-popup/assets/hustle-ui/css/hustle-info.min.css?ver=7.8.4" type="text/css" media="all">
+<link rel="stylesheet" id="hustle_inline-css" href="https://littlegreenhouse.com.sg/wp-content/plugins/wordpress-popup/assets/hustle-ui/css/hustle-inline.min.css?ver=7.8.4" type="text/css" media="all">
+<link rel="stylesheet" id="hustle-fonts-css" href="https://fonts.bunny.net/css?family=Open+Sans%3Aregular%2C700%2Cbold&amp;display=swap&amp;ver=1.0" type="text/css" media="all">
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wp-polyfill-js-after">
+( 'fetch' in window ) || document.write( '<script src="https://littlegreenhouse.com.sg/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://littlegreenhouse.com.sg/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://littlegreenhouse.com.sg/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://littlegreenhouse.com.sg/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://littlegreenhouse.com.sg/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://littlegreenhouse.com.sg/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/littlegreenhouse.com.sg\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.1" id="contact-form-7-js"></script>
+<script type="text/javascript" id="page-scroll-to-id-plugin-script-js-extra">
+/* <![CDATA[ */
+var mPS2id_params = {"instances":{"mPS2id_instance_0":{"selector":"a[rel='m_PageScroll2id']","autoSelectorMenuLinks":"true","excludeSelector":"a[href^='#tab-'], a[href^='#tabs-'], a[data-toggle]:not([data-toggle='tooltip']), a[data-slide], a[data-vc-tabs], a[data-vc-accordion]","scrollSpeed":1000,"autoScrollSpeed":"true","scrollEasing":"easeInOutQuint","scrollingEasing":"easeOutQuint","forceScrollEasing":"false","pageEndSmoothScroll":"true","stopScrollOnUserAction":"false","autoCorrectScroll":"false","autoCorrectScrollExtend":"false","layout":"vertical","offset":0,"dummyOffset":"false","highlightSelector":"","clickedClass":"mPS2id-clicked","targetClass":"mPS2id-target","highlightClass":"mPS2id-highlight","forceSingleHighlight":"false","keepHighlightUntilNext":"false","highlightByNextTarget":"false","appendHash":"false","scrollToHash":"true","scrollToHashForAll":"true","scrollToHashDelay":0,"scrollToHashUseElementData":"true","scrollToHashRemoveUrlHash":"false","disablePluginBelow":0,"adminDisplayWidgetsId":"true","adminTinyMCEbuttons":"true","unbindUnrelatedClickEvents":"false","unbindUnrelatedClickEventsSelector":"","normalizeAnchorPointTargets":"false","encodeLinks":"false"}},"total_instances":"1","shortcode_class":"_ps2id"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js?ver=1.7.9" id="page-scroll-to-id-plugin-script-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.4.3" defer="defer" id="tp-tools-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.4.3" defer="defer" id="revmin-js"></script>
+<script type="text/javascript" id="google-invisible-recaptcha-js-before">
+var renderInvisibleReCaptcha = function() {
+
+    for (var i = 0; i < document.forms.length; ++i) {
+        var form = document.forms[i];
+        var holder = form.querySelector('.inv-recaptcha-holder');
+
+        if (null === holder) continue;
+		holder.innerHTML = '';
+
+         (function(frm){
+			var cf7SubmitElm = frm.querySelector('.wpcf7-submit');
+            var holderId = grecaptcha.render(holder,{
+                'sitekey': '6Ld5fGYUAAAAAEnvEZ12EZQOeZ674ibeB8X-Xd1Q', 'size': 'invisible', 'badge' : 'bottomright',
+                'callback' : function (recaptchaToken) {
+					if((null !== cf7SubmitElm) && (typeof jQuery != 'undefined')){jQuery(frm).submit();grecaptcha.reset(holderId);return;}
+					 HTMLFormElement.prototype.submit.call(frm);
+                },
+                'expired-callback' : function(){grecaptcha.reset(holderId);}
+            });
+
+			if(null !== cf7SubmitElm && (typeof jQuery != 'undefined') ){
+				jQuery(cf7SubmitElm).off('click').on('click', function(clickEvt){
+					clickEvt.preventDefault();
+					grecaptcha.execute(holderId);
+				});
+			}
+			else
+			{
+				frm.onsubmit = function (evt){evt.preventDefault();grecaptcha.execute(holderId);};
+			}
+
+
+        })(form);
+    }
+};
+</script>
+<script type="text/javascript" async="" defer="" src="https://www.google.com/recaptcha/api.js?onload=renderInvisibleReCaptcha&amp;render=explicit" id="google-invisible-recaptcha-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-contact-form-7-tracker.js?ver=1.20.1" id="gtm4wp-contact-form-7-tracker-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-form-move-tracker.js?ver=1.20.1" id="gtm4wp-form-move-tracker-js"></script>
+<script type="text/javascript" id="hui_scripts-js-extra">
+/* <![CDATA[ */
+var hustleSettings = {"mobile_breakpoint":"782"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/plugins/wordpress-popup/assets/hustle-ui/js/hustle-ui.min.js?ver=7.8.4" id="hui_scripts-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-includes/js/underscore.min.js?ver=1.8.3" id="underscore-js"></script>
+<script type="text/javascript" id="hustle_front-js-extra">
+/* <![CDATA[ */
+var Modules = [{"settings":{"auto_close_success_message":"0","triggers":"","animation_in":"no_animation","animation_out":"slideOutRight","after_close":"keep_show","expiration":365,"expiration_unit":"days","after_optin_expiration":365,"after_optin_expiration_unit":"days","after_cta_expiration":365,"after_cta2_expiration":365,"after_cta_expiration_unit":"days","after_cta2_expiration_unit":"days","on_submit":"default","on_submit_delay":"5","on_submit_delay_unit":"seconds","close_cta":"0","close_cta_time":"0","close_cta_unit":"seconds","hide_after_cta":"keep_show","hide_after_cta2":"keep_show","hide_after_subscription":"keep_show","is_schedule":"0","schedule":{"not_schedule_start":"1","start_date":"04\/01\/2024","start_hour":"12","start_minute":"00","start_meridiem_offset":"am","not_schedule_end":"1","end_date":"04\/07\/2024","end_hour":"11","end_minute":"59","end_meridiem_offset":"pm","active_days":"all","week_days":[],"is_active_all_day":"1","day_start_hour":"00","day_start_minute":"00","day_start_meridiem_offset":"am","day_end_hour":"11","day_end_minute":"59","day_end_meridiem_offset":"pm","time_to_use":"server","custom_timezone":"UTC"},"after_close_trigger":["click_close_icon"],"allow_scroll_page":"0","not_close_on_background_click":0,"after_content_enabled":"false","widget_enabled":"true","shortcode_enabled":"true","conditions":{"pages":{"filter_type":"only","pages":["2"]}},"close_on_background_click":"1"},"module_id":"3","blog_id":"1","module_name":"LGH BB","module_type":"embedded","active":"1","module_mode":"informational"}];
+var incOpt = {"conditional_tags":{"is_single":true,"is_singular":true,"is_tag":false,"is_category":false,"is_author":false,"is_date":false,"is_post_type_archive":false,"is_404":false,"is_front_page":false,"is_search":false},"is_admin":"","real_page_id":"","thereferrer":"","actual_url":"littlegreenhouse.com.sg\/portfolio\/programme-2\/","full_actual_url":"https:\/\/littlegreenhouse.com.sg\/portfolio\/programme-2\/","native_share_enpoints":{"facebook":"https:\/\/www.facebook.com\/sharer\/sharer.php?u=https%3A%2F%2Flittlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2","twitter":"https:\/\/twitter.com\/intent\/tweet?url=https%3A%2F%2Flittlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2&text=PLAYGROUP%20%2818%20MONTHS-30%20MONTHS%29","pinterest":"https:\/\/www.pinterest.com\/pin\/create\/button\/?url=https%3A%2F%2Flittlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2","reddit":"https:\/\/www.reddit.com\/submit?url=https%3A%2F%2Flittlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2","linkedin":"https:\/\/www.linkedin.com\/shareArticle?mini=true&url=https%3A%2F%2Flittlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2","vkontakte":"https:\/\/vk.com\/share.php?url=https%3A%2F%2Flittlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2","whatsapp":"https:\/\/api.whatsapp.com\/send?text=https%3A%2F%2Flittlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2","email":"mailto:?subject=PLAYGROUP%20%2818%20MONTHS-30%20MONTHS%29&body=https%3A%2F%2Flittlegreenhouse.com.sg%2Fportfolio%2Fprogramme-2"},"ajaxurl":"https:\/\/littlegreenhouse.com.sg\/wp-admin\/admin-ajax.php","page_id":"110","page_slug":"portfolio-programme-2","is_upfront":"","script_delay":"3000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/plugins/wordpress-popup/assets/js/front.min.js?ver=7.8.4" id="hustle_front-js"></script>
+<script type="text/javascript" id="zoomarts-love-js-extra">
+/* <![CDATA[ */
+var zoomartsLove = {"ajaxurl":"https:\/\/littlegreenhouse.com.sg\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/framework/functions/love/js/love.js?ver=1.0" id="zoomarts-love-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/plugins/jquery.easing.js?ver=1.3" id="easing-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/bootstrap.min.js?ver=5.6.2" id="bootstrap-js-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/plugins/crossfade.jquery.js?ver=1.0" id="za-crossfade-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/plugins/jquery.stellar.min.js?ver=0.6.2%20" id="za-stellar-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/plugins/parallax.min.js?ver=1.0" id="za-layers-parallax-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/plugins/lightcase.js?ver=1.2.0" id="za-lightcase-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/plugins/waypoints.min.js?ver=5.6.2" id="za-waypoints-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/plugins/jquery.fitvids.js?ver=5.6.2" id="za-fitvids-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/plugins/counter.min.js?ver=5.6.2" id="za-counter-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/plugins/jquery.easypiechart.min.js?ver=5.6.2" id="za-pie-chart-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/plugins/jquery.pin.min.js?ver=5.6.2" id="za-pin-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/plugins/owl.carousel.min.js?ver=5.6.2" id="za-owl-carousel-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/plugins/swiper-bundle.min.js?ver=3.3.1" id="za-swiper-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/plugins/isotope.pkgd.min.js?ver=2.1.0" id="za-isotope-new-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/plugins/imagesloaded.min.js?ver=3.1.1" id="za-images-loaded-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/plugins/mediaelement-and-player.min.js?ver=2.16.4" id="za-mediaelement-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/plugins/jquery.matchHeight-min.js?ver=2.16.4" id="za-match-height-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/plugins/jquery.mb.ytplayer.min.js?ver=5.6.2" id="za-YTPlayer-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.6.0" id="wpb_composer_front_js-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/themes/dalton/js/main.js?ver=5.6.2" id="za-main-js"></script>
+<script type="text/javascript" id="wpcf7cf-scripts-js-extra">
+/* <![CDATA[ */
+var wpcf7cf_global_settings = {"ajaxurl":"https:\/\/littlegreenhouse.com.sg\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=2.4.8" id="wpcf7cf-scripts-js"></script>
+<script type="text/javascript" src="https://littlegreenhouse.com.sg/wp-includes/js/wp-embed.min.js?ver=5.6.2" id="wp-embed-js"></script>
+
+<div style="display: none" class="csaas csaas-id-p5ne2kog3l csaas-widget-p5ne2kog3l csaas-key-0 first_click has-simple-view active" id="csaas-widget-p5ne2kog3l" data-key="0" data-id="p5ne2kog3l" data-identifier="p5ne2kog3l" data-user="v4ifil3a"><div class="csaas-widget right-position"><div class="csaas-channels"><div class="csaas-channel-list"><div class="csaas-channel WhatsApp-channel" id="WhatsApp-p5ne2kog3l-channel" data-id="WhatsApp-p5ne2kog3l" data-widget="p5ne2kog3l" data-channel="WhatsApp"><a aria-label="WhatsApp" href="javascript:;" target="" class="csaas-tooltip channel-p5ne2kog3l-WhatsApp pos-left has-csaas-box csaas-whatsapp-form-button" dir="ltr" data-form="csaas-form-p5ne2kog3l-WhatsApp" data-hover="WhatsApp"><span aria-hidden="true" class="csaas-svg"><svg width="39" height="39" viewBox="0 0 39 39" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-element" cx="19.4395" cy="19.4395" r="19.4395" fill="#49E670"></circle>
+                                <path d="M12.9821 10.1115C12.7029 10.7767 11.5862 11.442 10.7486 11.575C10.1902 11.7081 9.35269 11.8411 6.84003 10.7767C3.48981 9.44628 1.39593 6.25317 1.25634 6.12012C1.11674 5.85403 2.13001e-06 4.39053 2.13001e-06 2.92702C2.13001e-06 1.46351 0.83755 0.665231 1.11673 0.399139C1.39592 0.133046 1.8147 1.01506e-06 2.23348 1.01506e-06C2.37307 1.01506e-06 2.51267 1.01506e-06 2.65226 1.01506e-06C2.93144 1.01506e-06 3.21063 -2.02219e-06 3.35022 0.532183C3.62941 1.19741 4.32736 2.66092 4.32736 2.79397C4.46696 2.92702 4.46696 3.19311 4.32736 3.32616C4.18777 3.59225 4.18777 3.59224 3.90858 3.85834C3.76899 3.99138 3.6294 4.12443 3.48981 4.39052C3.35022 4.52357 3.21063 4.78966 3.35022 5.05576C3.48981 5.32185 4.18777 6.38622 5.16491 7.18449C6.42125 8.24886 7.39839 8.51496 7.81717 8.78105C8.09636 8.91409 8.37554 8.9141 8.65472 8.648C8.93391 8.38191 9.21309 7.98277 9.49228 7.58363C9.77146 7.31754 10.0507 7.1845 10.3298 7.31754C10.609 7.45059 12.2841 8.11582 12.5633 8.38191C12.8425 8.51496 13.1217 8.648 13.1217 8.78105C13.1217 8.78105 13.1217 9.44628 12.9821 10.1115Z" transform="translate(12.9597 12.9597)" fill="#FAFAFA"></path>
+                                <path d="M0.196998 23.295L0.131434 23.4862L0.323216 23.4223L5.52771 21.6875C7.4273 22.8471 9.47325 23.4274 11.6637 23.4274C18.134 23.4274 23.4274 18.134 23.4274 11.6637C23.4274 5.19344 18.134 -0.1 11.6637 -0.1C5.19344 -0.1 -0.1 5.19344 -0.1 11.6637C-0.1 13.9996 0.624492 16.3352 1.93021 18.2398L0.196998 23.295ZM5.87658 19.8847L5.84025 19.8665L5.80154 19.8788L2.78138 20.8398L3.73978 17.9646L3.75932 17.906L3.71562 17.8623L3.43104 17.5777C2.27704 15.8437 1.55796 13.8245 1.55796 11.6637C1.55796 6.03288 6.03288 1.55796 11.6637 1.55796C17.2945 1.55796 21.7695 6.03288 21.7695 11.6637C21.7695 17.2945 17.2945 21.7695 11.6637 21.7695C9.64222 21.7695 7.76778 21.1921 6.18227 20.039L6.17557 20.0342L6.16817 20.0305L5.87658 19.8847Z" transform="translate(7.7758 7.77582)" fill="white" stroke="white" stroke-width="0.2"></path></svg></span><span class="csaas-sr-only">WhatsApp</span></a></div><div class="csaas-channel Phone-channel" id="Phone-p5ne2kog3l-channel" data-id="Phone-p5ne2kog3l" data-widget="p5ne2kog3l" data-channel="Phone"><a aria-label="Phone number" href="tel:+6591545129" target="" class="csaas-tooltip channel-p5ne2kog3l-Phone pos-left" dir="ltr" data-form="csaas-form-p5ne2kog3l-Phone" data-hover="Phone number"><span aria-hidden="true" class="csaas-svg"><svg width="39" height="39" viewBox="0 0 39 39" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-element" cx="19.4395" cy="19.4395" r="19.4395" fill="#03E78B"></circle>
+                                <path d="M19.3929 14.9176C17.752 14.7684 16.2602 14.3209 14.7684 13.7242C14.0226 13.4259 13.1275 13.7242 12.8292 14.4701L11.7849 16.2602C8.65222 14.6193 6.11623 11.9341 4.47529 8.95057L6.41458 7.90634C7.16046 7.60799 7.45881 6.71293 7.16046 5.96705C6.56375 4.47529 6.11623 2.83435 5.96705 1.34259C5.96705 0.596704 5.22117 0 4.47529 0H0.745882C0.298353 0 5.69062e-07 0.298352 5.69062e-07 0.745881C5.69062e-07 3.72941 0.596704 6.71293 1.93929 9.3981C3.87858 13.575 7.30964 16.8569 11.3374 18.7962C14.0226 20.1388 17.0061 20.7355 19.9896 20.7355C20.4371 20.7355 20.7355 20.4371 20.7355 19.9896V16.4094C20.7355 15.5143 20.1388 14.9176 19.3929 14.9176Z" transform="translate(9.07179 9.07178)" fill="white"></path></svg></span><span class="csaas-sr-only">Phone number</span></a></div><div class="csaas-channel Contact_Us-channel has-csaas-box" id="Contact_Us-p5ne2kog3l-channel" data-id="Contact_Us-p5ne2kog3l" data-widget="p5ne2kog3l" data-channel="Contact_Us"><a aria-label="Contact Form" href="javascript:;" target="" class="csaas-tooltip channel-p5ne2kog3l-Contact_Us pos-left has-csaas-box csaas-contact-form-button" dir="ltr" data-form="csaas-form-p5ne2kog3l-Contact_Us" data-hover="Contact Form"><span aria-hidden="true" class="csaas-svg"><svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-element" cx="24" cy="24" r="24" fill="#253974"></circle>
+                <path d="M34.5002 12.334H17.0002C16.3813 12.334 15.7878 12.5798 15.3502 13.0174C14.9127 13.455 14.6668 14.0485 14.6668 14.6673V18.1673H12.3335V20.5007H14.6668V22.834H12.3335V25.1673H14.6668V27.5007H12.3335V29.834H14.6668V33.334C14.6668 33.9528 14.9127 34.5463 15.3502 34.9839C15.7878 35.4215 16.3813 35.6673 17.0002 35.6673H34.5002C34.8096 35.6673 35.1063 35.5444 35.3251 35.3256C35.5439 35.1068 35.6668 34.8101 35.6668 34.5007V13.5007C35.6668 13.1912 35.5439 12.8945 35.3251 12.6757C35.1063 12.4569 34.8096 12.334 34.5002 12.334ZM25.1668 15.8328C27.0895 15.8328 28.6668 17.409 28.6668 19.3328C28.6635 20.2601 28.2937 21.1485 27.638 21.8044C26.9824 22.4602 26.0942 22.8303 25.1668 22.834C23.2453 22.834 21.6668 21.2555 21.6668 19.3328C21.6668 17.409 23.2453 15.8328 25.1668 15.8328ZM32.1668 31.0007H18.1668V30.1257C18.1668 27.5368 21.3227 24.8757 25.1668 24.8757C29.011 24.8757 32.1668 27.5368 32.1668 30.1257V31.0007Z" fill="white"></path>
+                </svg></span><span class="csaas-sr-only">Contact Form</span></a></div></div><div class="csaas-i-trigger"><div class="csaas-channel csaas-cta-main has-on-hover csaas-tooltip pos-left active" data-widget="p5ne2kog3l" data-hover="Contact Us"><span class="on-hover-text" dir="ltr">Contact Us</span><div class="csaas-cta-button"><button type="button" class="open-chaty"><span aria-hidden="true" class="csaas-svg"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-496 507.7 54 54" style="enable-background:new -496 507.7 54 54;" xml:space="preserve"><style type="text/css">.csaas-sts1{fill: #FFFFFF;}.csaas-st0{fill: #808080;}</style><g><circle cx="-469" cy="534.7" r="27" fill="#A886CD"></circle></g><path class="csaas-sts1" d="M-459.9,523.7h-20.3c-1.9,0-3.4,1.5-3.4,3.4v15.3c0,1.9,1.5,3.4,3.4,3.4h11.4l5.9,4.9c0.2,0.2,0.3,0.2,0.5,0.2 h0.3c0.3-0.2,0.5-0.5,0.5-0.8v-4.2h1.7c1.9,0,3.4-1.5,3.4-3.4v-15.3C-456.5,525.2-458,523.7-459.9,523.7z"></path><path class="csaas-st0" d="M-477.7,530.5h11.9c0.5,0,0.8,0.4,0.8,0.8l0,0c0,0.5-0.4,0.8-0.8,0.8h-11.9c-0.5,0-0.8-0.4-0.8-0.8l0,0C-478.6,530.8-478.2,530.5-477.7,530.5z"></path><path class="csaas-st0" d="M-477.7,533.5h7.9c0.5,0,0.8,0.4,0.8,0.8l0,0c0,0.5-0.4,0.8-0.8,0.8h-7.9c-0.5,0-0.8-0.4-0.8-0.8l0,0C-478.6,533.9-478.2,533.5-477.7,533.5z"></path></svg></span><span class="csaas-sr-only">Open Chaty Channels</span></button><button type="button" class="open-csaas-channel"></button></div></div><div class="csaas-channel csaas-cta-close csaas-tooltip pos-left" dir="ltr" data-hover="Close"><div class="csaas-cta-button"><button type="button"><span aria-hidden="true" class="csaas-svg"><svg viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="26" cy="26" rx="26" ry="26" fill="#A886CD"></ellipse><rect width="27.1433" height="3.89857" rx="1.94928" transform="translate(18.35 15.6599) scale(0.998038 1.00196) rotate(45)" fill="white"></rect><rect width="27.1433" height="3.89857" rx="1.94928" transform="translate(37.5056 18.422) scale(0.998038 1.00196) rotate(135)" fill="white"></rect></svg></span><span class="csaas-sr-only">Hide Chaty Channels</span></button></div></div></div></div></div></div>
+                <div style="display:none;" class="csaas-outer-forms csaas-whatsapp-outer-forms csaas-form-p5ne2kog3l is-active pos-right form-active" data-channel="WhatsApp" id="csaas-form-p5ne2kog3l-WhatsApp" data-widget="p5ne2kog3l" data-index="0">
+                    <div class="csaas-whatsapp-form">
+                        
+                <div class="csaas-whatsapp-header" dir="ltr">
+                    <img width="32" height="32" loading="lazy" src="https://cdn.chaty.app/images/wa-logo.webp">
+                    <div class="csaas-whatsapp-title"></div>
+                    <div class="csaas-whatsapp-close-btn">
+                        <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1 1L7.31429 8L14 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path> </svg>
+                    </div>
+                </div>
+            
+                <div class="csaas-whatsapp-body" dir="ltr">                    
+                    
+                    <div class="csaas-whatsapp-message">
+                        
+                        
+                <span class="welcome-message">How can I help you? :)</span>
+            
+                        <span class="time">18:00</span>
+                    </div>
+                </div>
+                <div class="csaas-whatsapp-footer" dir="ltr">
+                    <form action="https://web.whatsapp.com/send" target="_blank" class="whatsapp-csaas-form" data-widget="p5ne2kog3l" data-channel="WhatsApp">
+                        <div class="csaas-whatsapp-data">
+                            <input placeholder="Write your message..." name="text" type="text" class="csass-whatsapp-input">
+                            <button type="submit">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                                    <g clip-path="url(#clip0_9452_6982)">
+                                    <path d="M18.5703 9.99996L2.66037 17.6603L5.60665 9.99996L2.66037 2.33963L18.5703 9.99996Z" fill="white" stroke="white" stroke-width="1.6625" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <path d="M8.24069 9.99947L3.07723 9.99992" stroke="#C6D7E3" stroke-width="1.6625" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                    <defs>
+                                    <clipPath id="clip0_9452_6982">
+                                        <rect width="20" height="20" fill="white"></rect>
+                                    </clipPath>
+                                    </defs>
+                                </svg>
+                            </button>
+                        </div>
+                        <input type="hidden" name="phone" value="6591545129">
+                    </form>
+                </div>
+            
+                    </div>
+                </div>
+            <div style="display:none;" class="csaas-outer-forms csaas-form-p5ne2kog3l pos-right form-active" data-channel="Contact_Us" id="csaas-form-p5ne2kog3l-Contact_Us" data-widget="p5ne2kog3l" data-index="0"><div class="csaas-form"><div class="csaas-form-body"><div role="button" dir="ltr" class="close-contact-form"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1 1L7.31429 8L14 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path> </svg></div><div dir="ltr" class="csaas-form-title csaas-contact-form-title" style="background-color: rgb(183, 141, 235);">Contact Us</div><form class="csaas-contact-form" action="" method="" data-id="p5ne2kog3l" data-user="v4ifil3a"><div class="csaas-form-info"><div class="csaas-form-data"><div class="csaas-form-field"><label for="csaas-input-name-p5ne2kog3l">Name</label><input type="text" name="name" class="csaas-input-field csaas-input-name is-required" id="csaas-input-name-p5ne2kog3l" placeholder="Enter your name" dir="ltr" required="required"></div><div class="csaas-form-field"><label for="csaas-input-email-p5ne2kog3l">Email</label><input type="email" name="email" class="csaas-input-field csaas-input-email is-required" id="csaas-input-email-p5ne2kog3l" placeholder="Enter your email" dir="ltr" required="required"></div><div class="csaas-form-field"><label for="csaas-input-phone-p5ne2kog3l">Phone</label><input type="text" name="phone" class="csaas-input-field csaas-input-phone is-required" id="csaas-input-phone-p5ne2kog3l" placeholder="Enter your phone number" dir="ltr" required="required"></div><div class="csaas-form-field"><label for="csaas-input-message-p5ne2kog3l">Message</label><textarea name="message" class="csaas-input-field csaas-textarea csaas-input-message is-required" id="csaas-input-message-p5ne2kog3l" placeholder="Enter your message" dir="ltr" required="required"></textarea></div><div class="csaas-form-field"><button type="submit" name="submit" dir="ltr" class="csaas-form-button" data-text="Chat" style="background: rgb(183, 141, 235); color: rgb(255, 255, 255);">Chat</button></div></div><div class="csaas-form-ajax-message"></div></div><div class="csaas-form-data-response"><div class="csaas-form-success"><img src="https://cdn.chaty.app/images/form-success.png"><div class="csaas-form-ajax-message"></div></div><div class="csaas-form-other-button"><button type="submit" name="button" class="csaas-another-form-button" style="background: rgb(183, 141, 235);">Submit another form</button></div></div></form></div></div></div></body></html>

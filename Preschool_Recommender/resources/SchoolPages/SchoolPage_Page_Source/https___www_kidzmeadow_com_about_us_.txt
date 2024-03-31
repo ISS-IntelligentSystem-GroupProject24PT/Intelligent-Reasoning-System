@@ -1,0 +1,3333 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="pointer skrollr skrollr-desktop"><head>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style id="customRules"></style><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-731439664&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-7SMLTNQHWY&amp;l=dataLayer&amp;cx=c"></script><script async="" src="//d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T5SHD36"></script><script type="text/javascript">
+    window._currentDevice = 'desktop';
+    window.Parameters = window.Parameters || {
+        HomeUrl: 'https://www.kidzmeadow.com/',
+        AccountUUID: '8888ea8d05694cdcbdee75988907d5d0',
+        SystemID: 'US_DIRECT_PRODUCTION',
+        SiteAlias: 'bcf6e8b7',
+        SiteType: atob('RFVEQU9ORQ=='),
+        PublicationDate: 'Thu Mar 28 09:56:17 UTC 2024',
+        ExternalUid: null,
+        IsSiteMultilingual: false,
+        InitialPostAlias: '',
+        InitialDynamicItem: '',
+        DynamicPageInfo: {
+            isDynamicPage: false,
+            base64JsonRowData: 'null',
+        },
+        InitialPageAlias: 'about-us',
+        InitialPageUuid: '18bb7fad56184d27afe63c12e837b409',
+        InitialPageId: '1138415860',
+        InitialEncodedPageAlias: 'YWJvdXQtdXM=',
+        CurrentPageUrl: '',
+        IsCurrentHomePage: false,
+        AllowAjax: false,
+        AfterAjaxCommand: null,
+        HomeLinkText: 'Back To Home',
+        UseGalleryModule: false,
+        CurrentThemeName: 'Layout Theme',
+        ThemeVersion: '43110',
+        DefaultPageAlias: '',
+        RemoveDID: true,
+        WidgetStyleID: null,
+        IsHeaderFixed: false,
+        IsHeaderSkinny: false,
+        IsBfs: true,
+        StorePageAlias: 'null',
+        StorePagesUrls: 'e30=',
+        IsNewStore: 'false',
+        StorePath: '',
+        StoreId: 'null',
+        StoreVersion: 0,
+        StoreBaseUrl: '',
+        StoreCleanUrl: true,
+        StoreDisableScrolling: true,
+        IsStoreSuspended: false,
+        NotificationSubDomain: 'kidzmeadow9b04b699',
+        HasCustomDomain: true,
+        SimpleSite: false,
+        showCookieNotification: false,
+        cookiesNotificationMarkup: 'null',
+        translatedPageUrl: '',
+        isFastMigrationSite: false,
+        sidebarPosition: 'NA',
+        currentLanguage: 'en',
+        currentLocale: 'en',
+        NavItems: '{}',
+        errors: {
+            general: 'There was an error connecting to the page.<br/> Make sure you are not offline.',
+            password: 'Incorrect name/password combination',
+            tryAgain: 'Try again'
+        },
+        NavigationAreaParams: {
+            ShowBackToHomeOnInnerPages: true,
+            NavbarSize: -1,
+            NavbarLiveHomePage: 'https://www.kidzmeadow.com/',
+            BlockContainerSelector: '.dmBody',
+            NavbarSelector: '#dmNav:has(a)',
+            SubNavbarSelector: '#subnav_main'
+        },
+        hasCustomCode: true,
+        planID: '7',
+        customTemplateId: 'null',
+        siteTemplateId: 'null',
+        productId: 'DM_DIRECT',
+        disableTracking: false,
+        pageType: 'FROM_SCRATCH',
+        isRuntimeServer: true,
+        isInEditor: false,
+    };
+
+    window.Parameters.LayoutID = {};
+    window.Parameters.LayoutID[window._currentDevice] = 6;
+    window.Parameters.LayoutVariationID = {};
+    window.Parameters.LayoutVariationID[window._currentDevice] = 5;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Injecting site-wide to the head -->
+
+
+
+
+<!-- End Injecting site-wide to the head -->
+
+<!-- Inject secured cdn script -->
+
+
+<!-- ========= Meta Tags ========= -->
+<!-- PWA settings -->
+<script>
+    function toHash(str) {
+        var hash = 5381, i = str.length;
+        while (i) {
+            hash = hash * 33 ^ str.charCodeAt(--i)
+        }
+        return hash >>> 0
+    }
+</script>
+<script>
+    (function (global) {
+    //const cacheKey = global.cacheKey;
+    const isOffline = 'onLine' in navigator && navigator.onLine === false;
+    const hasServiceWorkerSupport = 'serviceWorker' in navigator;
+    if (isOffline) {
+        console.log('offline mode');
+    }
+    if (!hasServiceWorkerSupport) {
+        console.log('service worker is not supported');
+    }
+    if (hasServiceWorkerSupport && !isOffline) {
+        window.addEventListener('load', function () {
+            const serviceWorkerPath = '/runtime-service-worker.js?v=3';
+            navigator.serviceWorker
+                .register(serviceWorkerPath, { scope: './' })
+                .then(
+                    function (registration) {
+                        // Registration was successful
+                        console.log(
+                            'ServiceWorker registration successful with scope: ',
+                            registration.scope
+                        );
+                    },
+                    function (err) {
+                        // registration failed :(
+                        console.log('ServiceWorker registration failed: ', err);
+                    }
+                )
+                .catch(function (err) {
+                    console.log(err);
+                });
+        });
+
+        // helper function to refresh the page
+        var refreshPage = (function () {
+            var refreshing;
+            return function () {
+                if (refreshing) return;
+                // prevent multiple refreshes
+                var refreshkey = 'refreshed' + location.href;
+                var prevRefresh = localStorage.getItem(refreshkey);
+                if (prevRefresh) {
+                    localStorage.removeItem(refreshkey);
+                    if (Date.now() - prevRefresh < 30000) {
+                        return; // dont go into a refresh loop
+                    }
+                }
+                refreshing = true;
+                localStorage.setItem(refreshkey, Date.now());
+                console.log('refereshing page');
+                window.location.reload();
+            };
+        })();
+
+        function messageServiceWorker(data) {
+            return new Promise(function (resolve, reject) {
+                if (navigator.serviceWorker.controller) {
+                    var worker = navigator.serviceWorker.controller;
+                    var messageChannel = new MessageChannel();
+                    messageChannel.port1.onmessage = replyHandler;
+                    worker.postMessage(data, [messageChannel.port2]);
+                    function replyHandler(event) {
+                        resolve(event.data);
+                    }
+                } else {
+                    resolve();
+                }
+            });
+        }
+    }
+})(window);
+</script>
+<!-- Add manifest -->
+<!-- End PWA settings -->
+
+
+<meta http-equiv="Content-type" content="text/html;charset=utf-8">
+<meta charset="utf-8">
+
+<link rel="canonical" href="http://www.kidzmeadow.com/about-us">
+
+<meta id="view" name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<!--Add favorites icons-->
+
+<link rel="icon" type="image/x-icon" href="https://irp.cdn-website.com/bcf6e8b7/site_favicon_16_1651198158833.ico">
+
+<!-- End favorite icons -->
+<link rel="preconnect" href="https://lirp.cdn-website.com/">
+
+
+
+<!-- render the required CSS and JS in the head section -->
+<script>
+    window.SystemID = 'US_DIRECT_PRODUCTION';
+
+    if(!window.dmAPI) {
+        window.dmAPI = {
+            registerExternalRuntimeComponent: function() {
+            },
+            getCurrentDeviceType: function() {
+                return window._currentDevice;
+            }
+        };
+    }
+
+    if (!window.requestIdleCallback) {
+        window.requestIdleCallback = function (fn) {
+            setTimeout(fn, 0);
+        }
+    }
+</script>
+
+<!-- loadCSS function header.jsp-->
+
+    
+    
+    
+
+
+<script id="d-js-load-css">
+/**
+ * There are a few <link> tags with CSS resource in them that are preloaded in the page
+ * in each of those there is a "onload" handler which invokes the loadCSS callback
+ * defined here.
+ * We are monitoring 3 main CSS files - the runtime, the global and the page.
+ * When each load we check to see if we can append them all in a batch. If threre
+ * is no page css (which may happen on inner pages) then we do not wait for it
+ */
+(function () {
+  let cssLinks = {};
+  function loadCssLink(link) {
+    link.onload = null;
+    link.rel = "stylesheet";
+    link.type = "text/css";
+  }
+  
+    function checkCss() {
+      const pageCssLink = document.querySelector("[id*='CssLink']");
+      const widgetCssLink = document.querySelector("[id*='widgetCSS']");
+
+        if (cssLinks && cssLinks.runtime && cssLinks.global && (!pageCssLink || cssLinks.page) && (!widgetCssLink || cssLinks.widget)) {
+            const storedRuntimeCssLink = cssLinks.runtime;
+            const storedPageCssLink = cssLinks.page;
+            const storedGlobalCssLink = cssLinks.global;
+            const storedWidgetCssLink = cssLinks.widget;
+
+            storedGlobalCssLink.disabled = true;
+            loadCssLink(storedGlobalCssLink);
+
+            if (storedPageCssLink) {
+                storedPageCssLink.disabled = true;
+                loadCssLink(storedPageCssLink);
+            }
+
+            if(storedWidgetCssLink) {
+                storedWidgetCssLink.disabled = true;
+                loadCssLink(storedWidgetCssLink);
+            }
+
+            storedRuntimeCssLink.disabled = true;
+            loadCssLink(storedRuntimeCssLink);
+
+            requestAnimationFrame(() => {
+                setTimeout(() => {
+                    storedRuntimeCssLink.disabled = false;
+                    storedGlobalCssLink.disabled = false;
+                    if (storedPageCssLink) {
+                      storedPageCssLink.disabled = false;
+                    }
+                    if (storedWidgetCssLink) {
+                      storedWidgetCssLink.disabled = false;
+                    }
+                    // (SUP-4179) Clear the accumulated cssLinks only when we're
+                    // sure that the document has finished loading and the document 
+                    // has been parsed.
+                    if(document.readyState === 'interactive') {
+                      cssLinks = null;
+                    }
+                }, 0);
+            });
+        }
+    }
+  
+
+  function loadCSS(link) {
+    try {
+      var urlParams = new URLSearchParams(window.location.search);
+      var noCSS = !!urlParams.get("nocss");
+      var cssTimeout = urlParams.get("cssTimeout") || 0;
+
+      if (noCSS) {
+        return;
+      }
+      if (link.href.includes("d-css-runtime")) {
+        cssLinks.runtime = link;
+        checkCss();
+      } else if (link.id === "siteGlobalCss") {
+        cssLinks.global = link;
+        checkCss();
+      } 
+      
+      else if (link.id.includes("CssLink")) {
+        cssLinks.page = link;
+        checkCss();
+      } else if (link.id.includes("widgetCSS")) {
+        cssLinks.widget = link;
+        checkCss();
+      }
+      
+      else {
+        requestIdleCallback(function () {
+          window.setTimeout(function () {
+            loadCssLink(link);
+          }, parseInt(cssTimeout, 10));
+        });
+      }
+    } catch (e) {
+      throw e
+    }
+  }
+  window.loadCSS = window.loadCSS || loadCSS;
+})();
+</script>
+
+
+
+<script data-role="deferred-init" type="text/javascript">
+    /* usage: window.getDeferred(<deferred name>).resolve() or window.getDeferred(<deferred name>).promise.then(...)*/
+    function Def(){this.promise=new Promise((function(a,b){this.resolve=a,this.reject=b}).bind(this))}
+    const defs={};
+    window.getDeferred=function(a){return null==defs[a]&&(defs[a]=new Def),defs[a]}
+    window.waitForDeferred = function (b, a, c) {
+      let d = window?.getDeferred?.(b);
+      d
+        ? d.promise.then(a)
+        : c && ["complete", "interactive"].includes(document.readyState)
+        ? setTimeout(a, 1)
+        : c
+        ? document.addEventListener("DOMContentLoaded", a)
+        : console.error(`Deferred  does not exist`);
+    };
+</script>
+<style id="forceCssIncludes">
+    /* This file is auto-generated from a `scss` file with the same name */
+
+.videobgwrapper{overflow:hidden;position:absolute;z-index:0;width:100%;height:100%;top:0;left:0;pointer-events:none;border-radius:inherit}.videobgframe{position:absolute;width:101%;height:100%;top:50%;left:50%;transform:translateY(-50%) translateX(-50%);object-fit:fill}#dm video.videobgframe{margin:0}@media (max-width:767px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}}@media (min-width:1025px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}@media (min-width:768px) and (max-width:1024px){.responsiveTablet .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}#dm [data-show-on-page-only]{display:none!important}#dmRoot div.stickyHeaderFix div.site_content{margin-top:0!important}#dmRoot div.stickyHeaderFix div.hamburger-header-container{position:relative}
+    
+</style>
+<style id="cssVariables" type="text/css">
+    
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google Fonts Include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- loadCSS function fonts.jsp-->
+
+
+
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/fonts/css2?family=Dosis:ital,wght@0,200..800;1,200..800&amp;family=Muli:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900&amp;family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;family=Montserrat:ital,wght@0,100..900;1,100..900&amp;family=Gloria+Hallelujah:ital,wght@0,400&amp;family=Jost:ital,wght@0,100..900;1,100..900&amp;subset=latin-ext&amp;display=swap">
+
+
+
+
+
+<!-- RT CSS Include d-css-runtime-desktop-one-package-structured-global-->
+<link rel="stylesheet" type="text/css" href="https://static.cdn-website.com/mnlt/production/4313/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-structured-global.min.css">
+
+<!-- End of RT CSS Include -->
+
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/WIDGET_CSS/ddcdfc44aa046ee09f25062ed29a42dc.css" id="widgetCSS">
+
+<!-- Support `img` size attributes -->
+<style>img[width][height] {
+  height: auto;
+}</style>
+
+<!-- Support showing sticky element on page only -->
+<style>
+  body[data-page-alias="about-us"] #dm [data-show-on-page-only="about-us"] {
+    display: block !important;
+  }
+</style>
+
+<!-- This is populated in Ajax navigation -->
+<style id="pageAdditionalWidgetsCss" type="text/css">
+</style>
+
+
+
+
+<!-- Site CSS -->
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/bcf6e8b7/files/bcf6e8b7_1.min.css?v=402" id="siteGlobalCss">
+
+
+
+<style id="customWidgetStyle" type="text/css">
+
+</style>
+<style id="innerPagesStyle" type="text/css">
+    
+</style>
+
+
+<style id="additionalGlobalCss" type="text/css">
+</style>
+
+<style id="pagestyle" type="text/css">
+    .lp-nav{
+    display:none !important;
+}
+.new-centre{
+display:none !important}
+*#dm *.dmBody nav.u_1173823406{
+color:black !important}
+*#dm *.dmBody nav.u_1536101949{
+color:white !important}
+*#dm *.dmBody div.u_1306516612{
+background-color:rgba(238,250,255,1) !important}
+*#dm *.dmBody div.u_1760152095{
+background-repeat:no-repeat !important;
+background-image:none !important;
+background-size:cover !important}
+*#dm *.dmBody *.u_1915507615:before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody *.u_1915507615.before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody *.u_1915507615>.bgExtraLayerOverlay{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody a.u_1877407671:hover{
+background-color:rgba(0,0,0,0) !important;
+background-image:none !important;
+border-color:rgba(255,255,255,1) !important}
+*#dm *.dmBody a.u_1877407671.hover{
+background-color:rgba(0,0,0,0) !important;
+background-image:none !important;
+border-color:rgba(255,255,255,1) !important}
+*#dm *.dmBody div.u_1915507615{
+background-repeat:no-repeat !important;
+background-image:url(https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/wave_shape_GREEN.svg) !important;
+background-size:cover !important;
+background-color:rgba(0,0,0,0) !important}
+*#dm *.dmBody a.u_1877407671{
+background-color:rgba(255,198,60,1) !important;
+border-style:solid !important;
+border-width:2px !important;
+border-color:rgba(0,0,0,0) !important}
+*#dm *.dmBody div.u_1437918345{
+background-image:linear-gradient(405deg,rgba(235,238,255,1) 0,rgba(252,251,255,1) 100%) !important;
+background-origin:border-box !important}
+*#dm *.dmBody div.u_1716410472{
+background-color:rgba(255,245,222,1) !important}
+*#dm *.dmBody div.u_OurAwards{
+background-color:rgba(238,250,255,1) !important}
+*#dm *.dmBody div.u_1906066246{
+background-repeat:no-repeat !important;
+background-image:none !important;
+background-size:cover !important}
+*#dm *.dmBody *.u_1759883587:before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody *.u_1759883587.before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody *.u_1759883587>.bgExtraLayerOverlay{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody div.u_1061027048{
+background-color:rgba(251,227,157,1) !important}
+*#dm *.dmBody nav.u_1340929902{
+color:white !important}
+*#dm *.dmBody nav.u_1791416968{
+color:white !important}
+*#dm *.dmBody *.u_undefined::after{
+margin-top:12px !important}
+*#dm *.dmBody *.u_1136720338::after{
+margin-top:0 !important}
+*#dm *.dmBody div.u_1625345073 .caption-container .caption-title{
+color:rgba(255,255,255,1) !important}
+*#dm *.dmBody div.u_1625345073 .caption-inner{
+background-color:rgba(0,0,0,0.47) !important}
+*#dm *.dmBody *.u_1889337324{
+display:block !important}
+*#dm *.dmBody *.u_1492091020{
+display:none !important}
+*#dm *.dmBody div.u_1625345073 .caption-container .caption-text{
+color:rgba(255,255,255,1) !important;
+font-weight:bold !important}
+*#dm *.dmBody div.u_1625345073 .caption-container .caption-text .rteBlock{
+color:rgba(255,255,255,1) !important;
+font-weight:bold !important}
+*#dm *.dmBody *.u_1313733574{
+display:block !important}
+*#dm *.dmBody *.u_1689052318{
+display:none !important}
+*#dm *.dmBody div.u_1367996281{
+background-repeat:no-repeat !important;
+background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2022111332IMG_9094-EnrolNow-2880w.JPG) !important;
+background-size:cover !important;
+background-color:rgba(0,0,0,0) !important}
+*#dm *.dmBody div.u_1559258022{
+background-repeat:no-repeat !important;
+background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021154746IMG_9313-Vision-2880w.JPG) !important;
+background-size:cover !important}
+*#dm *.dmBody div.u_1401370950{
+background-repeat:no-repeat !important;
+background-image:none !important;
+background-size:cover !important}
+*#dm *.dmBody *.u_1609143259:before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody *.u_1609143259.before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody *.u_1609143259>.bgExtraLayerOverlay{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody div.u_1609143259{
+background-repeat:no-repeat !important;
+background-image:url(https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/wave_shape_YELLOW.svg) !important;
+background-size:cover !important;
+background-color:rgba(0,0,0,0) !important}
+*#dm *.dmBody div.u_1150384065{
+background-color:rgba(251,227,157,1) !important}
+*#dm *.dmBody div.u_OurTeachers{
+background-color:rgba(251,227,157,1) !important}
+*#dm *.dmBody *.u_1196767237 .photoGalleryThumbs .image-container a{
+background-size:contain !important}
+*#dm *.dmBody div.u_1196767237 .photoGalleryThumbs .image-container{
+border-radius:0 !important;
+-moz-border-radius:0 !important;
+-webkit-border-radius:0 !important}
+*#dm *.dmBody *.u_1196767237 .caption-inner{
+border-bottom-left-radius:0 !important;
+-webkit-border-top-right-radius:0 !important;
+-moz-border-top-right-radius:0 !important;
+-webkit-border-bottom-right-radius:0 !important;
+-webkit-border-bottom-left-radius:0 !important;
+border-top-right-radius:0 !important;
+-webkit-border-top-left-radius:0 !important;
+border-radius:0 !important;
+-moz-border-bottom-right-radius:0 !important;
+-moz-border-top-left-radius:0 !important;
+border-top-left-radius:0 !important;
+-moz-border-radius:0 !important;
+-moz-border-bottom-left-radius:0 !important;
+border-bottom-right-radius:0 !important;
+-webkit-border-radius:0 !important}
+*#dm *.dmBody *.u_1371221515{
+background-position:50% 50% !important}
+*#dm *.dmBody div.u_1759883587{
+background-repeat:no-repeat !important;
+background-image:url(https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/wave_shape_YELLOW.svg) !important;
+background-size:cover !important;
+background-color:rgba(0,0,0,0) !important}
+*#dm *.dmBody div.u_1422775187{
+background-color:rgba(197,229,165,1) !important}
+*#dm *.dmBody div.u_1046990484:before{
+background-color:rgba(235,238,255,0.44) !important;
+opacity:1 !important}
+*#dm *.dmBody div.u_1046990484.before{
+background-color:rgba(235,238,255,0.44) !important;
+opacity:1 !important}
+*#dm *.dmBody div.u_1046990484>.bgExtraLayerOverlay{
+background-color:rgba(235,238,255,0.44) !important;
+opacity:1 !important}
+*#dm *.dmBody *.u_1046990484:before{
+opacity:0.5 !important;
+background-color:rgba(235,238,255,0.44) !important}
+*#dm *.dmBody *.u_1046990484.before{
+opacity:0.5 !important;
+background-color:rgba(235,238,255,0.44) !important}
+*#dm *.dmBody *.u_1046990484>.bgExtraLayerOverlay{
+opacity:0.5 !important;
+background-color:rgba(235,238,255,0.44) !important}
+*#dm *.dmBody div.u_OurStory{
+background-image:initial !important;
+background-color:rgba(235,238,255,1) !important}
+*#dm *.dmBody div.u_1643373378:before{
+background-color:rgba(235,238,255,0.44) !important;
+opacity:1 !important}
+*#dm *.dmBody div.u_1643373378.before{
+background-color:rgba(235,238,255,0.44) !important;
+opacity:1 !important}
+*#dm *.dmBody div.u_1643373378>.bgExtraLayerOverlay{
+background-color:rgba(235,238,255,0.44) !important;
+opacity:1 !important}
+*#dm *.dmBody *.u_1643373378:before{
+opacity:0.5 !important;
+background-color:rgba(235,238,255,0.44) !important}
+*#dm *.dmBody *.u_1643373378.before{
+opacity:0.5 !important;
+background-color:rgba(235,238,255,0.44) !important}
+*#dm *.dmBody *.u_1643373378>.bgExtraLayerOverlay{
+opacity:0.5 !important;
+background-color:rgba(235,238,255,0.44) !important}
+*#dm *.dmBody div.u_1643373378{
+background-repeat:no-repeat !important;
+background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/gray-top-2880w.png) !important;
+background-size:cover !important;
+background-color:rgba(0,0,0,0) !important}
+*#dm *.dmBody div.u_1046990484{
+background-repeat:no-repeat !important;
+background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/gray-2880w.png) !important;
+background-size:cover !important;
+background-color:rgba(0,0,0,0) !important}
+*#dm *.dmBody div.u_1802827727:before{
+background-color:rgba(235,238,255,0.44) !important;
+opacity:1 !important}
+*#dm *.dmBody div.u_1802827727.before{
+background-color:rgba(235,238,255,0.44) !important;
+opacity:1 !important}
+*#dm *.dmBody div.u_1802827727>.bgExtraLayerOverlay{
+background-color:rgba(235,238,255,0.44) !important;
+opacity:1 !important}
+*#dm *.dmBody *.u_1802827727:before{
+opacity:0.5 !important;
+background-color:rgba(235,238,255,0.44) !important}
+*#dm *.dmBody *.u_1802827727.before{
+opacity:0.5 !important;
+background-color:rgba(235,238,255,0.44) !important}
+*#dm *.dmBody *.u_1802827727>.bgExtraLayerOverlay{
+opacity:0.5 !important;
+background-color:rgba(235,238,255,0.44) !important}
+*#dm *.dmBody div.u_1802827727{
+background-repeat:no-repeat !important;
+background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/orange-2880w.png) !important;
+background-size:cover !important;
+background-color:rgba(0,0,0,0) !important}
+*#dm *.dmBody div.u_1593594222{
+background-color:rgba(230,190,207,1) !important;
+background-repeat:no-repeat !important;
+background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2021160815IMG_9500-AboutUs-2880w.JPG) !important;
+background-size:cover !important}
+*#dm *.dmBody div.u_1313375209{
+background-repeat:no-repeat !important;
+background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2022160842IMG_8045-teachers-uncropped-2880w.JPG) !important;
+background-size:cover !important;
+background-color:rgba(0,0,0,0) !important}
+*#dm *.dmBody div.u_1531849143{
+background-repeat:no-repeat !important;
+background-image:url(https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2022160842IMG_8045-teachers-uncropped-2880w.JPG) !important;
+background-size:cover !important;
+background-color:rgba(0,0,0,0) !important}
+*#dm *.dmBody *.u_1625345073 .caption-inner{
+border-bottom-left-radius:0 !important;
+-webkit-border-top-right-radius:0 !important;
+-moz-border-top-right-radius:0 !important;
+-webkit-border-bottom-right-radius:0 !important;
+-webkit-border-bottom-left-radius:0 !important;
+border-top-right-radius:0 !important;
+-webkit-border-top-left-radius:0 !important;
+border-radius:0 !important;
+-moz-border-bottom-right-radius:0 !important;
+-moz-border-top-left-radius:0 !important;
+border-top-left-radius:0 !important;
+-moz-border-radius:0 !important;
+-moz-border-bottom-left-radius:0 !important;
+border-bottom-right-radius:0 !important;
+-webkit-border-radius:0 !important}
+*#dm *.dmBody div.u_OurTeachers{
+background-color:rgba(251,227,157,1) !important}
+*#dm *.dmBody div.u_pa_9032303{
+background-color:rgba(251,227,157,1) !important}
+*#dm *.dmBody div.u_OurTeachers{
+background-color:rgba(251,227,157,1) !important}
+*#dm *.dmBody div.u_pa_1322842{
+background-color:rgba(251,227,157,1) !important}
+*#dm *.dmBody div.u_OurTeachers{
+background-color:rgba(251,227,157,1) !important}
+*#dm *.dmBody div.u_OurTeachers{
+background-color:rgba(251,227,157,1) !important}
+*#dm *.dmBody div.u_OurTeachers{
+background-color:rgba(251,227,157,1) !important}
+*#dm *.dmBody div.u_pa_7830064{
+background-color:rgba(251,227,157,1) !important}
+*#dm *.dmBody div.u_OurTeachers{
+background-color:rgba(251,227,157,1) !important}
+</style>
+
+<style id="pagestyleDevice" type="text/css">
+    *#dm *.dmBody div.u_1823127089{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+max-width:100% !important;
+padding-right:0 !important;
+min-width:0 !important;
+margin-right:auto !important;
+margin-left:auto !important;
+margin-top:0 !important;
+margin-bottom:0 !important}
+*#dm *.dmBody div.u_1347881058{
+margin-left:0 !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-top:63px !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:0 !important;
+width:auto !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+position:relative !important;
+height:auto !important;
+max-width:100% !important;
+min-width:0 !important;
+text-align:start !important}
+*#dm *.dmBody div.u_1762374989{
+display:block !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:100% !important;
+margin-top:8px !important;
+margin-bottom:8px !important;
+padding-right:0 !important;
+min-width:0 !important}
+*#dm *.dmBody div.u_1306516612{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:auto !important;
+position:relative !important;
+height:auto !important;
+padding-top:62.5px !important;
+padding-left:0 !important;
+padding-bottom:62.5px !important;
+max-width:100% !important;
+padding-right:0 !important;
+min-width:0 !important;
+text-align:center !important}
+*#dm *.dmBody div.u_1422775187{
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+width:auto !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+position:relative !important;
+height:auto !important;
+max-width:100% !important;
+min-width:0 !important;
+text-align:start !important}
+*#dm *.dmBody div.u_1019956035{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+max-width:100% !important;
+padding-right:0 !important;
+min-width:0 !important}
+*#dm *.dmBody a.u_1877407671{
+display:block !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:220px !important;
+position:relative !important;
+height:55px !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:auto !important;
+margin-left:0 !important;
+max-width:100% !important;
+margin-top:30px !important;
+margin-bottom:10px !important;
+padding-right:0 !important;
+min-width:0 !important;
+text-align:center !important}
+*#dm *.dmBody div.u_1367996281{
+margin-left:0 !important;
+padding-top:300px !important;
+padding-left:0 !important;
+padding-bottom:300px !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:0 !important;
+background-position:100% 50% !important;
+background-repeat:no-repeat !important;
+background-size:cover !important;
+background-attachment:initial !important}
+*#dm *.dmBody div.u_1760152095{
+background-position:0 50% !important;
+margin-left:0 !important;
+padding-top:150px !important;
+padding-left:0 !important;
+padding-bottom:50px !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:0 !important}
+*#dm *.dmBody div.u_1343385377{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:571px !important;
+margin-top:27px !important;
+margin-bottom:8px !important;
+padding-right:0 !important;
+min-width:25px !important}
+*#dm *.dmBody div.u_1915507615{
+background-position:0 50% !important;
+background-repeat:repeat !important;
+background-size:auto !important;
+margin-left:-100px !important;
+padding-top:50px !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:0 !important;
+background-attachment:initial !important}
+*#dm *.dmBody div.u_1436996911{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+max-width:417.986px !important;
+padding-right:0 !important;
+min-width:25px !important}
+*#dm *.dmBody div.u_1287158033{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+max-width:417.986px !important;
+padding-right:0 !important;
+min-width:25px !important}
+*#dm *.dmBody div.u_1385251192{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:auto !important;
+position:relative !important;
+height:auto !important;
+padding-top:100px !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:100% !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:0 !important;
+text-align:start !important}
+*#dm *.dmBody div.u_1750825059{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+max-width:100% !important;
+padding-right:0 !important;
+min-width:25px !important}
+*#dm *.dmBody div.u_1012500579{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+max-width:417.986px !important;
+padding-right:0 !important;
+min-width:25px !important}
+*#dm *.dmBody div.u_1603681118{
+padding-top:0 !important;
+padding-right:0 !important}
+*#dm *.dmBody div.u_1437918345{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:auto !important;
+position:relative !important;
+height:auto !important;
+padding-top:100px !important;
+padding-left:40px !important;
+padding-bottom:100px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:none !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:40px !important;
+min-width:0 !important;
+text-align:center !important}
+*#dm *.dmBody div.u_1214403396{
+margin-left:0 !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:0 !important}
+*#dm *.dmBody div.u_1276670648{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+max-width:100% !important;
+padding-right:0 !important;
+min-width:25px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important}
+*#dm *.dmBody div.u_1861101959{
+margin-left:0 !important;
+padding-top:100px !important;
+padding-left:40px !important;
+padding-bottom:30px !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:40px !important;
+width:auto !important}
+*#dm *.dmBody div.u_MediaCoverage{
+margin-left:0 !important;
+padding-top:100px !important;
+padding-left:40px !important;
+padding-bottom:30px !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:40px !important;
+width:auto !important}
+*#dm *.dmBody div.u_pa_3265306{
+margin-left:0 !important;
+padding-top:100px !important;
+padding-left:40px !important;
+padding-bottom:30px !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:40px !important;
+width:auto !important}
+*#dm *.dmBody div.u_MEDIACOVERAGE{
+margin-left:0 !important;
+padding-top:100px !important;
+padding-left:40px !important;
+padding-bottom:30px !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:40px !important;
+width:auto !important}
+*#dm *.dmBody div.u_pa_2786275{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:auto !important;
+position:relative !important;
+height:auto !important;
+padding-top:100px !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:100% !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:0 !important;
+text-align:start !important}
+*#dm *.dmBody div.u_TESTIMONIALS{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:auto !important;
+position:relative !important;
+height:auto !important;
+padding-top:100px !important;
+padding-left:0 !important;
+padding-bottom:30px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:100% !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:0 !important;
+text-align:start !important}
+*#dm *.dmBody div.u_Testimonials{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:auto !important;
+position:relative !important;
+height:auto !important;
+padding-top:100px !important;
+padding-left:40px !important;
+padding-bottom:30px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:100% !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:40px !important;
+min-width:0 !important;
+text-align:start !important}
+*#dm *.dmBody div.u_1715747621{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+max-width:100% !important;
+padding-right:0 !important;
+min-width:25px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important}
+*#dm *.dmBody div.u_1875377495{
+display:block !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:80px !important;
+position:relative !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+max-width:100% !important;
+padding-right:0 !important;
+min-width:0 !important;
+text-align:start !important;
+height:auto !important;
+margin-left:auto !important;
+margin-top:0 !important;
+margin-bottom:20px !important;
+margin-right:auto !important}
+*#dm *.dmBody div.u_1541736277{
+display:block !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:80px !important;
+position:relative !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+max-width:100% !important;
+padding-right:0 !important;
+min-width:0 !important;
+text-align:start !important;
+margin-left:auto !important;
+margin-top:0 !important;
+margin-bottom:20px !important;
+margin-right:auto !important;
+height:auto !important}
+*#dm *.dmBody div.u_1093633400{
+display:block !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:80px !important;
+position:relative !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+max-width:100% !important;
+padding-right:0 !important;
+min-width:0 !important;
+text-align:start !important;
+margin-left:auto !important;
+margin-top:0 !important;
+margin-bottom:20px !important;
+margin-right:auto !important;
+height:auto !important}
+*#dm *.dmBody div.u_1449335519{
+display:block !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:80px !important;
+position:relative !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+max-width:100% !important;
+padding-right:0 !important;
+min-width:0 !important;
+text-align:start !important;
+margin-left:auto !important;
+margin-top:0 !important;
+margin-bottom:20px !important;
+margin-right:auto !important;
+height:auto !important}
+*#dm *.dmBody div.u_1061027048{
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+width:auto !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+position:relative !important;
+height:auto !important;
+max-width:100% !important;
+min-width:0 !important;
+text-align:start !important}
+*#dm *.dmBody div.u_1625345073 .caption-container .caption-title{
+font-size:48px !important}
+*#dm *.dmBody div.u_1418667533{
+margin-left:0 !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:0 !important;
+width:auto !important}
+*#dm *.dmBody div.u_1625345073{
+margin-left:0 !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:0 !important}
+*#dm *.dmBody div.u_1625345073 .caption-container .caption-text{
+font-size:18px !important}
+*#dm *.dmBody div.u_1625345073 .caption-container .caption-text .rteBlock{
+font-size:18px !important}
+*#dm *.dmBody div.u_1002295248{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:417.969px !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:100% !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:0 !important}
+*#dm *.dmBody div.u_1294373815{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:403.969px !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:100% !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:0 !important}
+*#dm *.dmBody div.u_1473212935{
+margin-left:0 !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:70px !important}
+*#dm *.dmBody div.u_1559258022{
+background-position:50% 50% !important;
+background-repeat:no-repeat !important;
+background-size:cover !important;
+margin-left:0 !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:0 !important}
+*#dm *.dmBody div.u_1063162638{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:403.993px !important;
+margin-top:0 !important;
+margin-bottom:8px !important;
+padding-right:0 !important;
+min-width:25px !important}
+*#dm *.dmBody div.u_1207210589{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:100% !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:25px !important}
+*#dm *.dmBody div.u_1093378300{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:612px !important;
+margin-top:18px !important;
+margin-bottom:20px !important;
+padding-right:0 !important;
+min-width:25px !important}
+*#dm *.dmBody div.u_1294477813{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:100% !important;
+margin-top:0 !important;
+margin-bottom:20px !important;
+padding-right:0 !important;
+min-width:25px !important}
+*#dm *.dmBody div.u_1207167845{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:395.984px !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:100% !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:0 !important;
+display:block !important}
+*#dm *.dmBody div.u_1741908079{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:395.984px !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+max-width:100% !important;
+padding-right:0 !important;
+min-width:0 !important;
+margin-right:auto !important;
+margin-left:auto !important;
+margin-top:8px !important;
+margin-bottom:8px !important;
+display:block !important}
+*#dm *.dmBody div.u_1655156822{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:395.984px !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+max-width:100% !important;
+padding-right:0 !important;
+min-width:0 !important;
+margin-right:auto !important;
+margin-left:auto !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+display:block !important}
+*#dm *.dmBody div.u_1236448283{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+max-width:100% !important;
+padding-right:0 !important;
+min-width:25px !important;
+display:block !important;
+margin-right:auto !important;
+margin-left:auto !important;
+margin-top:8px !important;
+margin-bottom:8px !important}
+*#dm *.dmBody div.u_1255786842{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+max-width:100% !important;
+padding-right:0 !important;
+min-width:0 !important}
+*#dm *.dmBody div.u_1609143259{
+background-position:0 50% !important;
+background-repeat:repeat !important;
+background-size:auto !important;
+margin-left:-100px !important;
+padding-top:50px !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:0 !important;
+background-attachment:initial !important}
+*#dm *.dmBody div.u_1801950262{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:100% !important;
+margin-top:27px !important;
+margin-bottom:8px !important;
+padding-right:0 !important;
+min-width:25px !important}
+*#dm *.dmBody div.u_1401370950{
+background-position:0 50% !important;
+margin-left:0 !important;
+padding-top:150px !important;
+padding-left:0 !important;
+padding-bottom:100px !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:0 !important}
+*#dm *.dmBody div.u_1313375209{
+margin-left:0 !important;
+padding-top:300px !important;
+padding-left:0 !important;
+padding-bottom:300px !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:0 !important;
+background-position:50% 50% !important;
+background-repeat:no-repeat !important;
+background-size:cover !important;
+background-attachment:initial !important}
+*#dm *.dmBody div.u_1759883587{
+background-position:0 50% !important;
+background-repeat:repeat !important;
+background-size:auto !important;
+margin-left:-100px !important;
+padding-top:50px !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:0 !important;
+background-attachment:initial !important}
+*#dm *.dmBody div.u_OurTeachers{
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+width:auto !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+position:relative !important;
+height:auto !important;
+max-width:100% !important;
+min-width:0 !important;
+text-align:start !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important}
+*#dm *.dmBody div.u_1531849143{
+margin-left:0 !important;
+padding-top:300px !important;
+padding-left:0 !important;
+padding-bottom:300px !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:0 !important;
+background-position:50% 50% !important;
+background-repeat:no-repeat !important;
+background-size:cover !important;
+background-attachment:initial !important}
+*#dm *.dmBody div.u_1748140777{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:100% !important;
+margin-top:27px !important;
+margin-bottom:8px !important;
+padding-right:0 !important;
+min-width:25px !important}
+*#dm *.dmBody div.u_1497292209{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+max-width:100% !important;
+padding-right:0 !important;
+min-width:25px !important;
+margin-right:auto !important;
+margin-left:auto !important;
+margin-top:8px !important;
+margin-bottom:8px !important}
+*#dm *.dmBody div.u_1906066246{
+background-position:0 50% !important;
+margin-left:0 !important;
+padding-top:150px !important;
+padding-left:0 !important;
+padding-bottom:100px !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:0 !important}
+*#dm *.dmBody *.u_1196767237 *.photoGalleryThumbs{
+padding:10px !important}
+*#dm *.dmBody *.u_1196767237 *.layout-container{
+padding:10px !important}
+*#dm *.dmBody *.u_1196767237 .photoGalleryViewAll{
+padding:0 20px !important}
+*#dm *.dmBody *.u_1196767237 .photoGalleryThumbs .image-container a{
+padding-top:142px !important}
+*#dm *.dmBody div.u_1196767237{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:1085px !important;
+position:relative !important;
+height:auto !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+max-width:100% !important;
+padding-right:0 !important;
+min-width:0 !important;
+text-align:center !important;
+display:block !important;
+margin-right:auto !important;
+margin-left:auto !important;
+margin-top:10px !important;
+margin-bottom:10px !important}
+*#dm *.dmBody div.u_1046990484{
+margin-left:0 !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+margin-right:0 !important;
+background-position:50% 100% !important}
+*#dm *.dmBody div.u_1966018800{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:241px !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:calc(100% - 0px) !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:center !important}
+*#dm *.dmBody div.u_1032141071{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:241px !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:calc(100% - 0px) !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:center !important}
+*#dm *.dmBody div.u_1640220809{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:241px !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:calc(100% - 0px) !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:center !important}
+*#dm *.dmBody div.u_1802827727{
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+background-position:50% 100% !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+width:auto !important}
+*#dm *.dmBody div.u_1150384065{
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+width:auto !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+position:relative !important;
+height:auto !important;
+max-width:100% !important;
+min-width:0 !important;
+text-align:start !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important}
+*#dm *.dmBody div.u_1643373378{
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+background-position:50% 100% !important;
+margin-left:0 !important;
+margin-top:-230px !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+width:auto !important}
+*#dm *.dmBody *.u_1625345073 .photoGalleryThumbs .image-container a{
+padding-top:400px !important}
+*#dm *.dmBody div.u_OurAwards{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:auto !important;
+position:relative !important;
+height:auto !important;
+padding-top:63px !important;
+padding-left:0 !important;
+padding-bottom:160px !important;
+max-width:100% !important;
+padding-right:0 !important;
+min-width:0 !important;
+text-align:center !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important}
+*#dm *.dmBody div.u_1554248974{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:394px !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:806px !important;
+margin-left:0 !important;
+max-width:100% !important;
+margin-top:150px !important;
+margin-bottom:100px !important;
+padding-right:0 !important;
+min-width:0 !important;
+display:block !important}
+*#dm *.dmBody div.u_1113212656{
+margin-left:0 !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:0 !important}
+*#dm *.dmBody div.u_1971533993{
+margin-left:0 !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:0 !important}
+*#dm *.dmBody div.u_1917361913{
+padding-top:100px !important;
+padding-bottom:100px !important;
+padding-right:40px !important;
+padding-left:40px !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+width:auto !important}
+*#dm *.dmBody div.u_OurStory{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:auto !important;
+position:relative !important;
+height:auto !important;
+padding-top:0 !important;
+padding-left:40px !important;
+padding-bottom:0 !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:none !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:40px !important;
+min-width:0 !important;
+text-align:center !important}
+*#dm *.dmBody div.u_1296666734{
+padding-top:0 !important;
+padding-left:150px !important;
+padding-bottom:0 !important;
+padding-right:30px !important;
+width:auto !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important}
+*#dm *.dmBody div.u_1716410472{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:auto !important;
+position:relative !important;
+height:auto !important;
+padding-top:0 !important;
+padding-left:40px !important;
+padding-bottom:100px !important;
+max-width:100% !important;
+padding-right:40px !important;
+min-width:0 !important;
+text-align:start !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important}
+*#dm *.dmBody *.u_1971533993 .photoGalleryThumbs .image-container a{
+padding-top:350px !important}
+*#dm *.dmBody div.u_1593594222{
+margin-left:0 !important;
+padding-top:100px !important;
+padding-left:40px !important;
+padding-bottom:200px !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:40px !important;
+width:auto !important;
+background-position:50% 50% !important}
+*#dm *.dmBody div.u_OurTeachers{
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+width:auto !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+position:relative !important;
+height:auto !important;
+max-width:100% !important;
+min-width:0 !important;
+text-align:start !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important}
+*#dm *.dmBody div.u_pa_9032303{
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+width:auto !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+position:relative !important;
+height:auto !important;
+max-width:100% !important;
+min-width:0 !important;
+text-align:start !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important}
+*#dm *.dmBody div.u_OurTeachers{
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+width:auto !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+position:relative !important;
+height:auto !important;
+max-width:100% !important;
+min-width:0 !important;
+text-align:start !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important}
+*#dm *.dmBody div.u_pa_1322842{
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+width:auto !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+position:relative !important;
+height:auto !important;
+max-width:100% !important;
+min-width:0 !important;
+text-align:start !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important}
+*#dm *.dmBody div.u_OurTeachers{
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+width:auto !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+position:relative !important;
+height:auto !important;
+max-width:100% !important;
+min-width:0 !important;
+text-align:start !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important}
+*#dm *.dmBody div.u_OurTeachers{
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+width:auto !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+position:relative !important;
+height:auto !important;
+max-width:100% !important;
+min-width:0 !important;
+text-align:start !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important}
+*#dm *.dmBody div.u_OurTeachers{
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+width:auto !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+position:relative !important;
+height:auto !important;
+max-width:100% !important;
+min-width:0 !important;
+text-align:start !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important}
+*#dm *.dmBody div.u_pa_7830064{
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+width:auto !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+position:relative !important;
+height:auto !important;
+max-width:100% !important;
+min-width:0 !important;
+text-align:start !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important}
+*#dm *.dmBody div.u_OurTeachers{
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+width:auto !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+position:relative !important;
+height:auto !important;
+max-width:100% !important;
+min-width:0 !important;
+text-align:start !important;
+margin-left:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+margin-right:0 !important}
+</style>
+
+<!-- Flex Sections CSS -->
+
+
+
+
+
+<style id="globalFontSizeStyle" type="text/css">
+    .font-size-20, .size-20, .size-20 > font { font-size: 20px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-11, .size-11, .size-11 > font { font-size: 11px !important; }
+</style>
+<style id="pageFontSizeStyle" type="text/css">
+</style>
+
+
+
+
+<style id="hideAnimFix">
+  .dmDesktopBody:not(.editGrid) [data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) [data-anim-extended] {
+    visibility: hidden;
+  }
+  .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-extended] {
+    visibility: hidden !important;
+  }
+</style>
+
+
+
+
+<style id="fontFallbacks">
+    @font-face {
+  font-family: "Dosis Fallback";
+  src: local('Arial');
+  ascent-override: 120.565%;
+  descent-override: 27.8227%;
+  size-adjust: 85.1823%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Roboto Fallback";
+  src: local('Arial');
+  ascent-override: 92.6709%;
+  descent-override: 24.3871%;
+  size-adjust: 100.1106%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Montserrat Fallback";
+  src: local('Arial');
+  ascent-override: 84.9466%;
+  descent-override: 22.0264%;
+  size-adjust: 113.954%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Gloria Hallelujah Fallback";
+  src: local('Arial');
+  ascent-override: 122.386%;
+  descent-override: 50.2642%;
+  size-adjust: 114.823%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Jost Fallback";
+  src: local('Arial');
+  ascent-override: 111.656%;
+  descent-override: 39.1318%;
+  size-adjust: 95.8301%;
+  line-gap-override: 0%;
+ }
+</style>
+
+
+<!-- End render the required css and JS in the head section -->
+
+
+
+
+
+
+
+
+
+  <link type="application/rss+xml" rel="alternate" href="http://www.kidzmeadow.com//feed/rss2">
+  <link type="application/atom+xml" rel="alternate" href="http://www.kidzmeadow.com//feed/atom">
+  <meta property="og:type" content="website">
+  <title>
+    
+    About Us | Kidz Meadow Childcare
+  
+  </title>
+  <meta name="description" content="Kidz Meadow has been providing quality education to preschoolers since 1999. Today we have established 10 childcare centres, offering both infant and childcare services. We are appointed Partner Operators (POP) by Early Childhood Development Agency (ECDA) and have also been awarded the SPARK Certification from ECDA.">
+  <!-- Global site tag (gtag.js) - Google Ads -->  <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-731439664">
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </script>
+  <script>
+
+
+
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-731439664');
+  
+
+  
+
+  
+
+  
+
+  
+
+  </script>
+  <!-- Google Tag Manager -->  <script>
+
+
+
+
+
+
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T5SHD36');
+  
+
+  
+
+  
+
+  
+
+  
+
+  </script>
+  <!-- End Google Tag Manager -->  <script src="https://cdn.pagesense.io/js/heroesofdigital/cbfab9e4d99145f497839935745449d3.js">
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  </script>
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="About Us | Kidz Meadow Childcare">
+  <meta name="twitter:description" content="Kidz Meadow has been providing quality education to preschoolers since 1999. Today we have established 10 childcare centres, offering both infant and childcare services. We are appointed Partner Operators (POP) by Early Childhood Development Agency (ECDA) and have also been awarded the SPARK Certification from ECDA.">
+  <meta name="twitter:image" content="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2022100435IMG_6800-MediaCoverage-1920w.JPG">
+  <meta property="og:description" content="Kidz Meadow has been providing quality education to preschoolers since 1999. Today we have established 10 childcare centres, offering both infant and childcare services. We are appointed Partner Operators (POP) by Early Childhood Development Agency (ECDA) and have also been awarded the SPARK Certification from ECDA.">
+  <meta property="og:title" content="About Us | Kidz Meadow Childcare">
+  <meta property="og:image" content="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2022100435IMG_6800-MediaCoverage-1920w.JPG">
+
+
+
+
+<!-- SYS- VVNfRElSRUNUX1BST0RVQ1RJT04= -->
+<meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/731439664/?random=1711877582928&amp;cv=11&amp;fst=1711877582928&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0v880288650za200&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fwww.kidzmeadow.com%2Fabout-us&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=About%20Us%20%7C%20Kidz%20Meadow%20Childcare&amp;npa=0&amp;pscdl=noapi&amp;auid=2036109921.1711877516&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B123.0.6312.86%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.86&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;fdr=QA&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script><script src="https://static.cdn-website.com/libs/bower-skrollr/skrollr.min.js"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/731439664/?random=1711877583038&amp;cv=11&amp;fst=1711877583038&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0v880288650z8812483544za201&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fwww.kidzmeadow.com%2Fabout-us&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=About%20Us%20%7C%20Kidz%20Meadow%20Childcare&amp;npa=0&amp;pscdl=noapi&amp;auid=2036109921.1711877516&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B123.0.6312.86%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.86&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;fdr=QA&amp;rfmt=3&amp;fmt=4"></script></head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="dmRoot" data-page-alias="about-us" class="dmRoot dmDesktopBody fix-mobile-scrolling addCanvasBorder dmResellerSite mac dmLargeBody responsiveTablet pcCustomScrollbar d1SiteBody dmBodyNoIscroll" style="padding:0;margin:0;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ========= Site Content ========= -->
+<div id="dm" class="dmwr">
+    
+    <div class="dm_wrapper standard-var5 widgetStyle-3 standard">
+         <div dmwrapped="true" id="1785920551" desktop-global-classes="header-over-content" tablet-global-classes="header-over-content"> <div dmtemplateid="Hamburger" data-responsive-name="ResponsiveDesktopTopTabletHamburger" class="runtime-module-container dm-bfs dm-layout-sec hasAnimations hasStickyHeader inMiniHeaderMode rows-1200 hamburger-reverse header-over-content dmPageBody d-page-1125715846 dmFreeHeader" id="dm-outer-wrapper" data-page-class="1125715846" data-soch="true" data-background-parallax-selector=".dmHomeSection1, .dmSectionParallex"> <div id="dmStyle_outerContainer" class="dmOuter"> <div id="dmStyle_innerContainer" class="dmInner"> <div class="dmLayoutWrapper standard-var dmStandardDesktop"> <div id="site_content"> <div class="p_hfcontainer showOnMedium"> <div id="hamburger-drawer" class="hamburger-drawer layout-drawer" layout="5ff40d2f36ae4e5ea1bc96b2e2fcf67e===header" data-origin="top"> <div class="u_1012472647 dmRespRow" style="text-align: center;" id="1012472647"> <div class="dmRespColsWrapper" id="1932866735"> <div class="u_1531876797 dmRespCol small-12 medium-12 large-12 empty-column" id="1531876797"></div> 
+</div> 
+</div> 
+ <div class="u_1970920645 dmRespRow middleDrawerRow" style="text-align: center;" id="1970920645"> <div class="dmRespColsWrapper" id="1376610649"> <div class="dmRespCol small-12 u_1054262163 medium-12 large-12" id="1054262163"> <div class="u_1582630156 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1582630156" editablewidget="true"> <a href="/homebdc13411" id="1232973351" file="false"><img src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/KidzMeadowLogo-f232e8e9-1920w.png" id="1778704839" class="" data-dm-image-path="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/KidzMeadowLogo-f232e8e9-1920w.png" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <nav class="u_1037796618 unifiednav_vertical effect-background main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="vertical_nav_layout_2" layout-sub="" data-show-vertical-sub-items="HIDE" id="1037796618" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-logo-src="https://irp.cdn-website.com/md/dmtmpl/04908b51-a49d-489f-bc38-7c752c9305c0/dms3rep/multi/logo.svg" data-nav-structure="VERTICAL" wr="true" icon="true" surround="true" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/" class="unifiednav__item" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         HOME
+        " data-auto="page-text-style">HOME<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/programmes-and-curriculum" class="unifiednav__item unifiednav__item_has-sub-nav" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         PROGRAMMES &amp; CURRICULUM
+        " data-auto="page-text-style">PROGRAMMES &amp; CURRICULUM<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/nature-magnified-programme" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Nature Magnified Programme
+          " data-auto="page-text-style">Nature Magnified Programme<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/infant-care" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Infant Care (2 months to 17 months)
+          " data-auto="page-text-style">Infant Care (2 months to 17 months)<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/childcare" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Childcare (18 months to 6 years old)
+          " data-auto="page-text-style">Childcare (18 months to 6 years old)<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/little-bloom-early-years-curriculum" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Little Bloom Early Years Curriculum
+          " data-auto="page-text-style">Little Bloom Early Years Curriculum<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/bloom-curriculum" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Bloom Curriculum
+          " data-auto="page-text-style">Bloom Curriculum<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/for-parents" class="unifiednav__item unifiednav__item_has-sub-nav" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         FOR PARENTS
+        " data-auto="page-text-style">FOR PARENTS<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/for-parents#PartnershipwithParents" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Partnership with Parents" data-auto="page-text-style">Partnership with Parents<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/school-hours" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           School Hours
+          " data-auto="page-text-style">School Hours<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/newsletters" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Newsletters
+          " data-auto="page-text-style">Newsletters<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/faqs" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           FAQs
+          " data-auto="page-text-style">FAQs<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/for-parents#Registration" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Registration" data-auto="page-text-style">Registration<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/about-us" class="unifiednav__item unifiednav__item_has-sub-nav currentPage dmNavItemSelected" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         ABOUT US
+        " data-auto="page-text-style">ABOUT US<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/about-us#OurStory" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Our Story" data-auto="page-text-style">Our Story<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/about-us#OurTeachers" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Our Teachers" data-auto="page-text-style">Our Teachers<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/about-us#OurAwards" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Our Awards" data-auto="page-text-style">Our Awards<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/testimonials" class="unifiednav__item" target="" popup_target="get-in-touch" link_type="popup" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Testimonials
+          " data-auto="page-text-style">Testimonials<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/about-us/media-coverage" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Media Coverage
+          " data-auto="page-text-style">Media Coverage<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/our-centres" class="unifiednav__item" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         OUR CENTRES
+        " data-auto="page-text-style">OUR CENTRES<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1179819903" style="text-align: center;" id="1179819903"> <div class="dmRespColsWrapper" id="1744073093"> <div class="u_1386439374 dmRespCol small-12 medium-12 large-12" id="1386439374"> <div class="u_1578961223 align-center text-align-center dmSocialHub" id="1578961223" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://www.facebook.com/kidzmeadow/" target="_blank" dm_dont_rewrite_url="true" aria-label="facebook" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Facebook')"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect="zoomout"></span> 
+</a> 
+ <a href="https://www.instagram.com/kidzmeadow" target="_blank" dm_dont_rewrite_url="true" aria-label="instagram" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Instagram')"> <span class="dmSocialInstagram dm-social-icons-instagram oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect="zoomout"></span> 
+</a> 
+ <a href="mailto:info@kidzmeadow.com" dm_dont_rewrite_url="true" aria-label="email" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Email')" target="_blank"> <span class="dmSocialEmail dm-social-icons-email oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect="zoomout"></span> 
+</a> 
+ <a href="https://www.youtube.com/channel/UCmtRZ8kZku7yIU5MlocxrUQ" target="_blank" dm_dont_rewrite_url="true" aria-label="youtube" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Youtube')"> <span class="dmSocialYoutube dm-social-icons-youtube oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect="zoomout"></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="layout-drawer-overlay" id="layout-drawer-overlay"></div> 
+</div> 
+ <div class="site_content"> <div id="hamburger-header-container" class="showOnMedium hamburger-header-container p_hfcontainer"> <div id="hamburger-header" class="hamburger-header p_hfcontainer" layout="44dc38f951e9489490b055748e10ba9f===header" data-scrollable-target="body" data-scroll-responder-id="hamburger-header"> <div class="dmRespRow u_1221304482" id="1221304482"> <div class="dmRespColsWrapper" id="1471260585"> <div class="dmRespCol large-12 medium-12 small-12" id="1034116851"> <div class="u_1895636450 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1895636450" background-image":""}"="" style="transition: none 0s ease 0s; text-align: left; display: block;"><p><span style="display: initial;">&nbsp;</span></p> <h3 class="text-align-center m-size-16 size-20"><span class="m-font-size-16 font-size-20" style="display: unset; color: rgb(255, 255, 0);">SCHOOL TOURS ARE HAPPENING IN NOV &amp; DEC -</span><span single-space="true" class="" style="display: initial;"> <span style="display: initial;"></span> 
+</span><a href="/find-out-more" runtime_url="/find-out-more" popup_target="find-out-more" type="popup" link_type="popup" class="m-font-size-16 font-size-20" style="display: unset; text-decoration: underline; color: rgb(255, 255, 0);">BOOK HERE</a></h3> 
+<p><span style="display: initial;">&nbsp;</span></p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1723329692 dmRespRow" style="text-align: center;" id="1723329692"> <div class="dmRespColsWrapper" id="1696270681"> <div class="dmRespCol small-12 u_1611526940 medium-4 large-4 content-removed" id="1611526940"> <div class="u_1692455093 align-center text-align-center dmSocialHub" id="1692455093" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://web.whatsapp.com/send?phone=6598525747" target="_blank" dm_dont_rewrite_url="true" aria-label="whatsapp" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Whatsapp')"> <span class="dmSocialWhatsapp dm-social-icons-whatsapp oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect="float"></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespCol small-12 medium-4 large-4" id="1059554669"> <div class="u_1203172384 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1203172384" editablewidget="true"> <a href="/homebdc13411" id="1997761453" file="false"><img src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/KidzMeadowLogo-f232e8e9-1920w.png" id="1641740269" class="" data-dm-image-path="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/KidzMeadowLogo-f232e8e9-1920w.png" onerror="handleImageLoadError(this)"></a> 
+</div> 
+</div> 
+ <div class="dmRespCol small-12 medium-4 large-4" id="1389306212"> <a data-display-type="block" class="u_1527791486 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="/interest-form" data-element-type="dButtonLinkId" id="1527791486" link_type="popup" popup_target="interest-form"> <span class="iconBg" id="1206816640"> <span class="icon hasFontIcon icon-star" id="1653119073"></span> 
+</span> 
+ <span class="text" id="1902721538">ENROL NOW</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmHeaderContainer fHeader d-header-wrapper showOnLarge"> <div id="hcontainer" class="u_hcontainer dmHeader p_hfcontainer" freeheader="true" headerlayout="b58ba5b5703b4cd7b5f5f7951565dc87===horizontal-layout-5" data-scrollable-target="body" data-scrollable-target-threshold="1" data-scroll-responder-id="1" preserve-sticky-header="true" logo-size-target="80%" layout="7621f7e0002549258c16efb7610abc8f===header"> <div dm:templateorder="85" class="dmHeaderResp dmHeaderStack noSwitch" id="1709005236"> <div class="dmRespRow u_1128906765 new-centre mini-header-hide-row" id="1128906765"> <div class="dmRespColsWrapper" id="1736521051"> <div class="u_1201056681 dmRespCol small-12 medium-12 large-12 has-one-widget-only" id="1201056681"> <div class="u_1580012140 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1580012140" background-image":""}"="" style="transition: none 0s ease 0s; text-align: left; display: block;"> <h3 class="text-align-center"><span class="" style="display: initial;"><span style="display: initial;">Centre Tour Happening!</span> 
+</span><a href="/find-out-more" runtime_url="/find-out-more" popup_target="find-out-more" type="popup" link_type="popup" style="display: initial; text-decoration: underline; color: rgb(17, 101, 48);">Find Out More</a></h3> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1326989279 lp-nav dmRespRow dmDefaultListContentRow fullBleedChanged fullBleedMode mini-header-show-row" style="text-align:center" id="1326989279"> <div class="dmRespColsWrapper" id="1365385050"> <div class="u_1931607305 dmRespCol small-12 hide-for-small hide-for-medium medium-12 large-12 has-one-widget-only" id="1931607305"> <nav class="u_1201999674 effect-background main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_7" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1201999674" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-logo-src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/KidzMeadowLogo-1920w.png" alt="" data-nav-structure="SPLIT" wr="true" icon="true" surround="true" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container left_nav " data-auto="navigation-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/enquiries#HOME" class="unifiednav__item" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="HOME" data-auto="page-text-style">HOME<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="#" class="unifiednav__item unifiednav__item_has-sub-nav" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="PROGRAMMES &amp; CURRICULUM" data-auto="page-text-style">PROGRAMMES &amp; CURRICULUM<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/enquiries#NatureMagnifiedProgramme" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Nature Magnified Programme" data-auto="page-text-style">Nature Magnified Programme<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/enquiries#BenefitsofNatureImmersedEducation" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Benefits of Nature Immersed Education" data-auto="page-text-style">Benefits of Nature Immersed Education<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/enquiries#InfantCare2Monthsto17Months" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Infant Care 2 Months to 17 Months" data-auto="page-text-style">Infant Care 2 Months to 17 Months<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/enquiries#Childcare18Monthsto6YearsOld" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Childcare 18 Months to 6 Years Old" data-auto="page-text-style">Childcare 18 Months to 6 Years Old<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/enquiries#EnrichmentProgramme" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Enrichment Programme" data-auto="page-text-style">Enrichment Programme<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/enquiries#LittleBloomEarlyYearsCurriculum" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Little Bloom Early Years Curriculum" data-auto="page-text-style">Little Bloom Early Years Curriculum<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/enquiries#BloomCurriculum" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Bloom Curriculum" data-auto="page-text-style">Bloom Curriculum<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/enquiries#OURSTORY" class="unifiednav__item unifiednav__item_has-sub-nav" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="OUR STORY" data-auto="page-text-style">OUR STORY<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/enquiries#ParentsTestimonials" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Parents Testimonials" data-auto="page-text-style">Parents Testimonials<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+ <a class="middleLogoLink" href="/home"><img class="navLogo" id="navLogo" src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/KidzMeadowLogo-1920w.png" alt="" onerror="handleImageLoadError(this)"></a> 
+ <ul role="menubar" class="unifiednav__container right_nav "> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/enquiries#OURCENTRES" class="unifiednav__item" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="OUR CENTRES" data-auto="page-text-style">OUR CENTRES<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/get-in-touch" class="unifiednav__item" target="" popup_target="get-in-touch" link_type="popup" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="GET IN TOUCH" data-auto="page-text-style">GET IN TOUCH<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1801201190 main-nav dmRespRow dmDefaultListContentRow fullBleedChanged fullBleedMode mini-header-show-row" style="text-align:center" id="1801201190"> <div class="dmRespColsWrapper" id="1298374214"> <div class="u_1458850074 dmRespCol small-12 hide-for-small hide-for-medium medium-12 large-12 has-one-widget-only" id="1458850074"> <nav class="u_1553919997 effect-background main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_7" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1553919997" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-logo-src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/KidzMeadowLogo-1920w.png" alt="" data-nav-structure="SPLIT" wr="true" icon="true" surround="true" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container left_nav " data-auto="navigation-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="https://www.kidzmeadow.com/enquiries" class="unifiednav__item" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="HOME" data-auto="page-text-style">HOME<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/programmes-and-curriculum" class="unifiednav__item unifiednav__item_has-sub-nav" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         PROGRAMMES &amp; CURRICULUM
+        " data-auto="page-text-style">PROGRAMMES &amp; CURRICULUM<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/nature-magnified-programme" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Nature Magnified Programme
+          " data-auto="page-text-style">Nature Magnified Programme<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/infant-care" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Infant Care (2 months to 17 months)
+          " data-auto="page-text-style">Infant Care (2 months to 17 months)<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/childcare" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Childcare (18 months to 6 years old)
+          " data-auto="page-text-style">Childcare (18 months to 6 years old)<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/little-bloom-early-years-curriculum" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Little Bloom Early Years Curriculum
+          " data-auto="page-text-style">Little Bloom Early Years Curriculum<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/bloom-curriculum" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Bloom Curriculum
+          " data-auto="page-text-style">Bloom Curriculum<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/for-parents" class="unifiednav__item unifiednav__item_has-sub-nav" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         FOR PARENTS
+        " data-auto="page-text-style">FOR PARENTS<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/for-parents#PartnershipwithParents" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Partnership with Parents" data-auto="page-text-style">Partnership with Parents<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/school-hours" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           School Hours
+          " data-auto="page-text-style">School Hours<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/newsletters" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Newsletters
+          " data-auto="page-text-style">Newsletters<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/blog-articles" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Blog Articles
+          " data-auto="page-text-style">Blog Articles<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/faqs" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           FAQs
+          " data-auto="page-text-style">FAQs<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/for-parents#Registration" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Registration" data-auto="page-text-style">Registration<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+ <a class="middleLogoLink" href="/home"><img class="navLogo" id="navLogo" src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/KidzMeadowLogo-1920w.png" alt="" onerror="handleImageLoadError(this)"></a> 
+ <ul role="menubar" class="unifiednav__container right_nav "> <li role="menuitem" aria-haspopup="true" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/about-us" class="unifiednav__item unifiednav__item_has-sub-nav currentPage dmNavItemSelected" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         ABOUT US
+        " data-auto="page-text-style">ABOUT US<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/about-us#OurStory" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Our Story" data-auto="page-text-style">Our Story<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/careers" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+         Careers
+        " data-auto="page-text-style">Careers<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/about-us#OurTeachers" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Our Teachers" data-auto="page-text-style">Our Teachers<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/about-us#OurAwards" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="Our Awards" data-auto="page-text-style">Our Awards<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/testimonials" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Testimonials
+          " data-auto="page-text-style">Testimonials<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/about-us/media-coverage" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Media Coverage
+          " data-auto="page-text-style">Media Coverage<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="1"> <a href="/annual-report" class="unifiednav__item" target="" data-target-page-alias="" tabindex="-1"> <span class="nav-item-text " data-link-text="
+           Annual Report
+          " data-auto="page-text-style">Annual Report<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/our-centres" class="unifiednav__item" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+         OUR CENTRES
+        " data-auto="page-text-style">OUR CENTRES<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/get-in-touch" class="unifiednav__item" target="" popup_target="get-in-touch" link_type="popup" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="GET IN TOUCH" data-auto="page-text-style">GET IN TOUCH<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="stickyHeaderSpacer" id="stickyHeaderSpacer" data-new="true"></div> 
+ <div dmwrapped="true" id="dmFirstContainer" desktop-global-classes="header-over-content" tablet-global-classes="header-over-content" class="dmBody u_dmStyle_template_about-us"> <div id="allWrapper" class="allWrapper"> <div id="dm_content" class="dmContent"> <div dm:templateorder="1" class="dmDefaultRespTmpl" id="1125715846"> <div class="innerPageTmplBox dmDefaultPage dmRespRowsWrapper dmRespRowsWrapperSize1" id="1841797601"> <div class="dmRespRow dmDefaultListContentRow u_1593594222" style="text-align:center" id="1593594222" mode="1"> <div class="dmRespColsWrapper" id="1045410103"> <div class="u_1096308206 dmRespCol small-12 medium-12 large-12" id="1096308206"> <div class="u_1554248974 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1554248974" style="transition: none 0s ease 0s; text-align: left;"> <h1 class="m-size-48 m-text-align-center"><span class="m-font-size-48" m-font-size-set="true" style="color: rgb(255, 255, 255); display: initial;">About Us</span></h1> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1643373378 fullBleedChanged fullBleedMode" style="text-align: center;" id="1643373378"> <div class="dmRespColsWrapper" id="1968886602"> <div class="dmRespCol small-12 medium-12 large-12 u_1142516161" id="1142516161"> <div data-element-type="spacer" class="u_1032141071 dmSpacer" id="1032141071"></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_OurStory dmRespRow" style="text-align: center;" id="OurStory" data-anchor="Our Story"> <div class="dmRespColsWrapper" id="1853109013"> <div class="u_1603681118 dmRespCol small-12 large-3 medium-3" id="1603681118"> <span id="1139514925"></span> 
+ <div class="u_1012500579 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1012500579" style="transition: none 0s ease 0s; text-align: left; display: block;"> <h2 class="m-text-align-center m-size-30"><span style="display: initial;" class="m-font-size-30" m-font-size-set="true">Our Story</span></h2> 
+</div> 
+</div> 
+ <div class="u_1684034786 dmRespCol small-12 large-9 medium-9" id="1684034786"> <div class="u_1750825059 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1750825059" style="transition: opacity 1s ease-in-out 0s;"><p class="m-text-align-center"><span class="" style="display: initial; font-weight: normal;"><span style="display: initial; font-weight: normal;">True to Kidz Meadow's tagline</span> 
+</span><span style="display: initial; font-weight: bold; font-style: italic;">“where fun and creative learning begins”</span><span style="display: initial; font-weight: normal;">, we believe that learning through creative play and discovery will develop language, cognitive and social skills in children, in preparation for lifelong learning.</span></p><p class="m-text-align-center"><span style="font-weight: normal; display: initial;"><br></span></p><p class="m-text-align-center"><span style="display: initial; font-weight: normal;">Kidz Meadow Childcare &amp; Development Centre has been providing quality education to preschoolers since 1999. Today, we have established eleven childcare centres, offering both infant and childcare services.&nbsp;</span><span style="display: initial; font-weight: normal; font-style: normal;">Kidz Meadow was incorporated as a public company limited by guarantee on 29 April 2021 and has been registered as a charity under the Charities Act on 15 October 2021.</span></p><p class="m-text-align-center"><span style="font-weight: normal; display: initial;"><br></span></p><p class="m-text-align-center"><span style="display: initial; font-weight: normal;">Kidz Meadow is one of the appointed Partner Operators (POP) by Early Childhood Development Agency (ECDA) and has also been awarded the SPARK Certification from ECDA. This signifies our long term commitment towards providing quality programmes for our children and supporting our educators with continuous professional training and development.&nbsp;</span><span style="display: initial;"><br></span></p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1046990484 fullBleedChanged fullBleedMode" style="text-align: center;" id="1046990484"> <div class="dmRespColsWrapper" id="1651954872"> <div class="dmRespCol small-12 medium-12 large-12 u_1793758891" id="1793758891"> <div data-element-type="spacer" class="u_1966018800 dmSpacer" id="1966018800"></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1296666734 mobile-columns-reversed fullBleedChanged fullBleedMode" id="1296666734" mode="1"> <div class="dmRespColsWrapper" id="1980292448"> <div class="u_1473212935 dmRespCol small-12 large-5 medium-5" id="1473212935"> <div class="u_1063162638 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1063162638" style="transition: none 0s ease 0s; text-align: left; display: block;"> <h2 class="m-size-30 m-text-align-center"><span class="m-font-size-30" m-font-size-set="true" style="display: initial;">Our Vision</span></h2> 
+</div> 
+ <div class="u_1093378300 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1093378300" style="transition: opacity 1s ease-in-out 0s;"><p class="m-text-align-center"><span style="font-style: normal; text-decoration: none; display: initial;">A First-Class Provider in Early Childhood Care &amp; Education</span><span style="display: initial;"><br></span></p></div> 
+ <div class="u_1002295248 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1002295248" style="transition: none 0s ease 0s; text-align: left; display: block;"> <h2 class="m-text-align-center m-size-30"><span style="display: initial;" class="m-font-size-30" m-font-size-set="true">Our Mission</span></h2> 
+</div> 
+ <div class="u_1294477813 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1294477813" style="transition: opacity 1s ease-in-out 0s;"><p class="m-text-align-center"><span style="display: initial;">Provide a quality and innovative programme that nurtures children to be socially responsible citizens, active learners and thinkers.<br></span></p></div> 
+ <div class="u_1294373815 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1294373815" style="transition: none 0s ease 0s; text-align: left; display: block;"> <h2 class="m-text-align-center m-size-30"><span style="display: initial;" class="m-font-size-30" m-font-size-set="true">Our Philosophy</span></h2> 
+</div> 
+ <div class="u_1207210589 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1207210589" style="transition: opacity 1s ease-in-out 0s;"><p class="m-text-align-center"><span style="font-style: normal; text-decoration: none; display: initial;">We believe in providing an engaging and positive environment for the children to develop their potential to the fullest in all aspects of development.</span><span style="display: initial;"><br></span></p></div> 
+</div> 
+ <div class="u_1559258022 dmRespCol small-12 large-6 medium-6" id="1559258022"> <div data-element-type="spacer" class="dmSpacer u_1359546441" id="1359546441"></div> 
+</div> 
+ <div class="u_1214403396 dmRespCol empty-column large-1 medium-1 small-12 hide-for-small" id="1214403396"></div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1802827727 fullBleedChanged fullBleedMode" style="text-align: center;" id="1802827727"> <div class="dmRespColsWrapper" id="1968133177"> <div class="dmRespCol small-12 medium-12 large-12 u_1080414594" id="1080414594"> <div data-element-type="spacer" class="u_1640220809 dmSpacer" id="1640220809"></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1716410472 dmRespRow fullBleedChanged fullBleedMode" id="1716410472"> <div class="dmRespColsWrapper" id="1138302733"> <div class="dmRespCol large-12 medium-12 small-12 u_1078126745" id="1078126745"> <div class="u_1823127089 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1823127089" style="transition: opacity 1s ease-in-out 0s;"> <h2 class="m-text-align-center text-align-center m-size-30"><span style="display: initial;" class="m-font-size-30" m-font-size-set="true">Our Core Values</span></h2> 
+</div> 
+ <div class="u_1347881058 dmRespRow fullBleedChanged fullBleedMode" id="1347881058"> <div class="dmRespColsWrapper" id="1663765784"> <div class="dmRespCol small-12 large-3 medium-3" id="1750801007"> <div class="u_1875377495 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1875377495" editablewidget="true"> <a id="1794507829" href="/partnership-with-parents" file="false"><img src="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/handshake-deal-svgrepo-com.svg" alt="" id="1200781559" class="" data-dm-image-path="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/handshake-deal-svgrepo-com.svg" onerror="handleImageLoadError(this)"></a> 
+ <span class="image-caption u_1136720338" id="1136720338"></span> 
+</div> 
+ <div class="u_1207167845 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1207167845" style="transition: none 0s ease 0s; text-align: left; display: block;"> <h3 class="text-align-center m-size-22"><span style="display: initial;" m-font-size-set="true" class="m-font-size-22">C – Community &amp; Parental Involvement</span></h3> 
+</div> 
+ <div class="u_1741908079 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1741908079" data-styletopreserve="{" background-image":""}"=""><p class="text-align-center"><span style="display: initial; color: rgb(23, 43, 57);">We build strong and trusting partnerships with the parents and community to enhance the development of the children.</span><span style="display: initial;"><br></span></p></div> 
+</div> 
+ <div class="dmRespCol small-12 large-3 medium-3" id="1491495934"> <div class="u_1541736277 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1541736277" editablewidget="true"> <a id="1848099943" href="/school-hours" file="false"><img src="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/brain-svgrepo-com+%281%29.svg" alt="" id="1132712760" class="" data-dm-image-path="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/brain-svgrepo-com+%281%29.svg" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <div class="u_1715747621 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1715747621" style="transition: none 0s ease 0s; text-align: left; display: block;"> <h3 class="m-size-22 text-align-center"><span class="m-font-size-22" m-font-size-set="true" style="display: initial;">A – Active Learners</span></h3> 
+</div> 
+ <div class="u_1436996911 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1436996911" data-styletopreserve="{" background-image":""}"=""><p class="text-align-center"><span style="display: initial; color: rgb(23, 43, 57);">We understand that children are natural and active learners. Through project work, thematic and integrated learning, they are given opportunities to explore, gather information and share knowledge.</span><span style="display: initial;"><br></span></p></div> 
+</div> 
+ <div class="dmRespCol small-12 large-3 medium-3" id="1180795718"> <div class="u_1093633400 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1093633400" editablewidget="true"> <a id="1176044496" href="/school-hours" file="false"><img src="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/forest-tree-svgrepo-com.svg" alt="" id="1528576034" class="" data-dm-image-path="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/forest-tree-svgrepo-com.svg" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <div class="u_1276670648 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1276670648" style="transition: none 0s ease 0s; text-align: left; display: block;"> <h3 class="text-align-center m-size-22"><span style="display: initial;" m-font-size-set="true" class="m-font-size-22">R – Resourceful</span></h3> 
+</div> 
+ <div class="u_1287158033 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1287158033" data-styletopreserve="{" background-image":""}"=""><p class="text-align-center"><span style="display: initial; color: rgb(23, 43, 57);">We continuously upgrade our teaching and learning resources in line with the latest developments in the field of early childhood education to enhance children’s learning experiences.</span><span style="display: initial;"><br></span></p></div> 
+</div> 
+ <div class="dmRespCol large-3 medium-3 small-12" id="1534713222"> <div class="u_1449335519 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1449335519" editablewidget="true"> <a id="1646152908" href="/school-hours" file="false"><img src="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/award-svgrepo-com+%281%29.svg" alt="" id="1760442004" class="" data-dm-image-path="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/award-svgrepo-com+%281%29.svg" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <div class="u_1655156822 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1655156822" data-styletopreserve="{" background-image":""}"=""> <h3 class="text-align-center m-size-22"><span style="display: initial;" m-font-size-set="true" class="m-font-size-22">E – Excellence</span></h3> 
+</div> 
+ <div class="u_1236448283 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1236448283" data-styletopreserve="{" background-image":""}"=""><p class="text-align-center"><span style="color: rgb(23, 43, 57); display: initial;">We strive for excellence in everything that we do.</span><span style="display: initial;"><br></span></p></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_OurTeachers dmRespRow fullBleedChanged fullBleedMode hide-for-small hide-for-medium running-animation-OTYETV7T" id="OurTeachers" mode="1" data-anim-extended="eyJkZXNrdG9wIjp7InRyaWdnZXIiOiJlbnRyYW5jZSIsImFuaW1hdGlvbiI6InNsaWRlSW5Db21ibyIsImR1cmF0aW9uIjoxLCJkZWxheSI6MCwiaW50ZW5zaXR5IjowLjQsImRpciI6InVwIn19" data-anim-desktop="slideInCombo" data-anchor="Our Teachers" style="visibility: hidden; transform: translate3d(0%, 0%, 0px); transition-delay: unset !important; transition-duration: unset !important; animation-delay: unset !important; animation-duration: unset !important; transition-property: none !important;"> <div class="dmRespColsWrapper" id="1460780464"> <div class="u_1313375209 dmRespCol empty-column small-12 large-7 medium-7" id="1313375209"></div> 
+ <div class="u_1609143259 dmRespCol empty-column small-12 large-1 medium-1" id="1609143259"></div> 
+ <div class="u_1401370950 dmRespCol small-12 large-4 medium-4" id="1401370950"> <div class="u_1255786842 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1255786842" style="transition: opacity 1s ease-in-out 0s; text-align: left; display: block;"> <h2 class="text-align-left"><span style="display: initial; color: rgb(226, 100, 65);">Our Teachers</span></h2> 
+</div> 
+ <div class="u_1801950262 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1801950262" style="transition: opacity 1s ease-in-out 0s;"><p><span style="display: initial; color: rgb(152, 116, 30);">Kidz Meadow's early childhood educators are passionate and committed to empowering our children to be active learners and socially responsible individuals.&nbsp;</span></p><p><span style="display: initial; color: rgb(152, 116, 30);">&nbsp;</span></p><p><span class="" style="display: initial; color: rgb(152, 116, 30);"><span style="display: initial; color: rgb(152, 116, 30);">Kidz Meadow develops a comprehensive training plan to equip the teachers with the knowledge, skills and competency to be at their optimum performance level.&nbsp;</span> 
+</span></p><p><span style="display: initial; color: rgb(152, 116, 30);">&nbsp;</span></p><p><span style="display: initial; color: rgb(152, 116, 30);">We encourage our educators to take ownership of their own professional development. Training needs are identified in close partnership and collaboration with them through annual appraisal, scheduled classroom observations and observations during centre leaders' daily walkabout and regular dialogue sessions with the staff.&nbsp;</span></p><p><span style="display: initial; color: rgb(152, 116, 30);">&nbsp;</span></p><p><span style="display: initial; color: rgb(152, 116, 30);">Besides attending external courses and training programmes, our teachers also attend in-house training organised or conducted by our Quality Assurance and Product Development team to ensure quality in delivering the lessons.</span></p><p><span style="display: initial; color: rgb(152, 116, 30);">&nbsp;</span></p><p><span style="display: initial; color: rgb(152, 116, 30);">All our teachers meet the qualifications and requirements set by the Early Childhood Development Agency (ECDA).</span></p><p><span style="display: initial;"><br></span></p><p><span style="display: initial; color: rgb(152, 116, 30); font-style: normal;">Educators play a pivotal role in the children's lives. We honour and celebrate their hard work and dedication at the annual Staff Appreciation Day as well as ad hoc Staff Welfare events and gatherings.</span><span style="display: initial;"><br></span></p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_pa_9032303 dmRespRow fullBleedChanged fullBleedMode hide-for-large running-animation-OU2VV8T8" id="pa_9032303" mode="1" data-anim-extended="eyJkZXNrdG9wIjp7InRyaWdnZXIiOiJlbnRyYW5jZSIsImFuaW1hdGlvbiI6InNsaWRlSW5Db21ibyIsImR1cmF0aW9uIjoxLCJkZWxheSI6MCwiaW50ZW5zaXR5IjowLjQsImRpciI6InVwIn19" data-anim-desktop="slideInCombo" style="visibility: hidden; transform: translate3d(0%, 0%, 0px); transition-delay: unset !important; transition-duration: unset !important; animation-delay: unset !important; animation-duration: unset !important; transition-property: none !important;"> <div class="dmRespColsWrapper" id="1078896708"> <div class="u_1531849143 dmRespCol empty-column small-12 large-6 medium-6" id="1531849143"></div> 
+ <div class="u_1759883587 dmRespCol empty-column small-12 large-2 medium-2 hide-for-small" id="1759883587"></div> 
+ <div class="u_1906066246 dmRespCol small-12 large-4 medium-4" id="1906066246"> <div class="u_1497292209 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1497292209" style="transition: opacity 1s ease-in-out 0s; text-align: left; display: block;"> <h2 class="m-size-30 text-align-left m-text-align-center"><span class="m-font-size-30" m-font-size-set="true" style="display: initial; color: rgb(226, 100, 65);">Our Teachers</span></h2> 
+</div> 
+ <div class="u_1748140777 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1748140777" style="transition: opacity 1s ease-in-out 0s;"><p class="m-text-align-center"><span style="color: rgb(152, 116, 30); display: initial;">Kidz Meadow's early childhood educators are passionate and committed to empowering our children to be active learners and socially responsible individuals.&nbsp;</span></p><p class="m-text-align-center"><span style="color: rgb(152, 116, 30); display: initial;">&nbsp;</span></p><p class="m-text-align-center"><span class="" style="color: rgb(152, 116, 30); display: initial;"><span style="color: rgb(152, 116, 30); display: initial;">Kidz Meadow develops a comprehensive training plan to equip the teachers with the knowledge, skills and competency to be at their optimum performance level.&nbsp;</span> 
+</span></p><p class="m-text-align-center"><span style="color: rgb(152, 116, 30); display: initial;">&nbsp;</span></p><p class="m-text-align-center"><span style="color: rgb(152, 116, 30); display: initial;">We encourage our educators to take ownership of their own professional development. Training needs are identified in close partnership and collaboration with them through annual appraisal, scheduled classroom observations and observations during centre leaders' daily walkabout and regular dialogue sessions with the staff.&nbsp;</span></p><p class="m-text-align-center"><span style="color: rgb(152, 116, 30); display: initial;">&nbsp;</span></p><p class="m-text-align-center"><span style="color: rgb(152, 116, 30); display: initial;">Besides attending external courses and training programmes, our teachers also attend in-house training organised or conducted by our Quality Assurance and Product Development team to ensure quality in delivering the lessons.</span></p><p class="m-text-align-center"><span style="color: rgb(152, 116, 30); display: initial;">&nbsp;</span></p><p class="m-text-align-center"><span style="color: rgb(152, 116, 30); display: initial;">All our teachers meet the qualifications and requirements set by the Early Childhood Development Agency (ECDA).&nbsp;</span><span style="display: initial;"><br></span></p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1917361913" id="1917361913"> <div class="dmRespColsWrapper" id="1431490596"> <div class="dmRespCol large-12 medium-12 small-12 u_1113212656" id="1113212656"> <div class="dmPhotoGallery newPhotoGallery dmPhotoGalleryResp u_1971533993" galleryoptionsparams="{thumbnailsPerRow: 3, rowsToShow: 3, imageScaleMethod: true}" data-desktop-layout="square" data-desktop-columns="3" data-element-type="dPhotoGalleryId" data-desktop-text-layout="over" id="1971533993" data-placeholder="false" data-image-hover-effect="zoomout" data-image-animation="fadeIn" data-rows-to-show="100" editablewidget="true" data-widget-type="photoGallery"> <ul class="dmPhotoGalleryHolder clearfix gallery shadowEffectToChildren gallery4inArow" id="1370749878"> <li class="photoGalleryThumbs" id="1051347767"> <div class="image-container" id="1453505781"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/staff-appreciation+%282%29.jpg" id="1445534947"><img irh="" irw="" alt="" data-src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/staff-appreciation+%282%29-1920w.jpg" id="1164434707" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <div class="caption-container" style="display:none" id="1237286074"> <span class="caption-inner" id="1247829273"> <a class="caption-button dmWidget clearfix" id="1832642742"> <span class="iconBg" id="1912813482"> <span class="icon hasFontIcon icon-star" id="1265509414"></span> 
+</span> 
+ <span class="text" id="1542727771">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1314035955"> <div class="image-container" id="1212474174"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/staff-appreciation+%281%29.jpg" id="1560796826"><img irh="" irw="" alt="" data-src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/staff-appreciation+%281%29-1920w.jpg" id="1433072039" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <div class="caption-container" style="display:none" id="1445874715"> <span class="caption-inner" id="1371031290"> <a class="caption-button dmWidget clearfix" id="1257837978"> <span class="iconBg" id="1618998712"> <span class="icon hasFontIcon icon-star" id="1553359566"></span> 
+</span> 
+ <span class="text" id="1144196172">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1709070860"> <div class="image-container" id="1274430141"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/nature-award.png" id="1222081396"><img irh="" irw="" alt="" data-src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/nature-award-1920w.png" id="1426719514" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <div class="caption-container" style="display:none" id="1424920429"> <span class="caption-inner" id="1782461876"> <a class="caption-button dmWidget clearfix" id="1094124353"> <span class="iconBg" id="1203222481"> <span class="icon hasFontIcon icon-star" id="1845536208"></span> 
+</span> 
+ <span class="text" id="1166781645">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1279300099"> <div class="image-container" id="1092709046"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/photo1655452398.jpeg" id="1950051901"><img irh="" irw="" alt="" data-src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/photo1655452398-1920w.jpeg" id="1832772043" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <div class="caption-container" style="display:none" id="1245654865"> <span class="caption-inner" id="1478713265"> <a class="caption-button dmWidget clearfix" id="1017332425"> <span class="iconBg" id="1256898647"> <span class="icon hasFontIcon icon-star" id="1052848760"></span> 
+</span> 
+ <span class="text" id="1604625425">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1060888748"> <div class="image-container" id="1914603371"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/staff+training+%281%29.jpg" id="1561433265"><img irh="" irw="" alt="" data-src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/staff+training+%281%29-1920w.jpg" id="1003326320" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <div class="caption-container" style="display:none" id="1033077919"> <span class="caption-inner" id="1622024346"> <a class="caption-button dmWidget clearfix" id="1440556555"> <span class="iconBg" id="1121212005"> <span class="icon hasFontIcon icon-star" id="1952765507"></span> 
+</span> 
+ <span class="text" id="1119558839">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1463646670"> <div class="image-container" id="1614351139"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/Nature+ambassadors.jpg" id="1906746864"><img irh="" irw="" alt="" data-src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/Nature+ambassadors-1920w.jpg" id="1293019763" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <div class="caption-container" style="display:none" id="1336578843"> <span class="caption-inner" id="1070135531"> <a class="caption-button dmWidget clearfix" id="1767803373"> <span class="iconBg" id="1918544788"> <span class="icon hasFontIcon icon-star" id="1863443568"></span> 
+</span> 
+ <span class="text" id="1343817979">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+</ul> 
+ <div class="photoGalleryViewAll link" isall="true" data-viewall="View more" data-viewless="View less" style="display:none;" id="1983126127"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1418667533 fullBleedChanged fullBleedMode" id="1418667533"> <div class="dmRespColsWrapper" id="1715092382"> <div class="dmRespCol small-12 medium-12 large-12 u_1691370180" id="1691370180"> <div class="dmPhotoGallery newPhotoGallery dmPhotoGalleryResp u_1625345073" galleryoptionsparams="{thumbnailsPerRow: 3, rowsToShow: 3, imageScaleMethod: true}" data-desktop-layout="square" data-desktop-columns="2" data-element-type="dPhotoGalleryId" data-desktop-text-layout="fixed" id="1625345073" data-rows-to-show="100" data-desktop-caption-alignment="center_center" data-link-gallery="true" data-image-hover-effect="blur" data-mobile-columns="1" data-mobile-text-layout="fixed" data-mobile-caption-alignment="center_center" editablewidget="true" data-widget-type="photoGallery"> <ul class="dmPhotoGalleryHolder clearfix gallery shadowEffectToChildren gallery4inArow" id="1136784874"> <li index="0" class="photoGalleryThumbs" id="1532677710"> <div class="image-container" id="1119966160"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/testimonial-image.jpg" id="1371221515" class="u_1371221515 has-link" href="/testimonials" file="false" data-link-url="/site/bcf6e8b7/media-coveragee5b3c9c6?preview=true&amp;nee=true&amp;showOriginal=true&amp;dm_checkSync=1&amp;dm_try_mode=true"><img data-src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/testimonial-image-1920w.jpg" irh="1" irw="2" alt="" id="1819937716" class="" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <div class="caption-container  u_1889337324" id="1889337324"> <span class="caption-inner" id="1918595469"> <h3 class="caption-title u_1488703933" id="1488703933">Testimonials</h3> 
+ <div class="caption-text u_1070055514" id="1070055514"><p class="rteBlock">What our parents have to say</p></div> 
+ <a class="caption-button dmWidget   clearfix u_1492091020" href="/testimonials" id="1492091020" file="false"> <span class="iconBg" id="1273366002"> <span class="icon hasFontIcon icon-star" id="1133891299"></span> 
+</span> 
+ <span class="text" id="1200534773">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li index="1" class="photoGalleryThumbs" id="1468171671"> <div class="image-container" id="1888481729"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/media-coverage.jpg" id="1380208141" class="u_1380208141 has-link" href="/about-us/media-coverage" file="false" data-link-url="/site/bcf6e8b7/media-coverage?preview=true&amp;nee=true&amp;showOriginal=true&amp;dm_checkSync=1&amp;dm_try_mode=true"><img data-src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/media-coverage-1920w.jpg" irh="2" irw="3" alt="" id="1807371562" class="" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <div class="caption-container  u_1313733574" id="1313733574"> <span class="caption-inner" id="1018114697"> <h3 class="caption-title u_1273720002" id="1273720002">Media Coverage</h3> 
+ <div class="caption-text u_1700236899" id="1700236899"><p class="rteBlock">What the media says about us</p></div> 
+ <a class="caption-button dmWidget   clearfix u_1689052318" href="/about-us/media-coverage" id="1689052318" file="false"> <span class="iconBg" id="1580958142"> <span class="icon hasFontIcon icon-star" id="1380551077"></span> 
+</span> 
+ <span class="text" id="1440918700">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+</ul> 
+ <div class="photoGalleryViewAll link" isall="true" data-viewall="View more" data-viewless="View less" style="display:none;" id="1904418720"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_OurAwards dmRespRow" style="text-align: center;" id="OurAwards" data-anchor="Our Awards"> <div class="dmRespColsWrapper" id="1901539305"> <div class="dmRespCol small-12 medium-12 large-12" id="1978624702"> <span id="1812385468"></span> 
+ <div class="u_1762374989 dmNewParagraph" data-element-type="paragraph" id="1762374989" style="transition: opacity 1s ease-in-out 0s; text-align: center;" data-version="5"> <h2 class="text-align-center m-size-30"><span class="m-font-size-30" m-font-size-set="true" style="font-weight: bold; display: initial; color: rgb(17, 101, 48);">Our Awards</span></h2> 
+</div> <div class="u_1196767237 dmPhotoGallery newPhotoGallery dmPhotoGalleryResp" galleryoptionsparams="{thumbnailsPerRow: 3, rowsToShow: 3, imageScaleMethod: true}" data-desktop-layout="square" data-desktop-columns="5" data-element-type="dPhotoGalleryId" data-desktop-text-layout="over" id="1196767237" data-placeholder="false" data-rows-to-show="100" data-image-animation="zoomInUp" data-image-hover-effect="zoomout" data-mobile-columns="2" editablewidget="true" data-widget-type="photoGallery"> <ul class="dmPhotoGalleryHolder clearfix gallery shadowEffectToChildren gallery4inArow" id="1708439245"> <li class="photoGalleryThumbs" id="1588100255"> <div class="image-container" id="1624727049"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/3-HealthyPre-School-Logo-02a085d1.png" id="1116057632" class="u_1116057632"><img irh="" irw="" alt="" data-src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/3-HealthyPre-School-Logo-02a085d1-1920w.png" id="1941783846" class="" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <div class="caption-container" style="display:none" id="1260038210"> <span class="caption-inner" id="1469723119"> <a class="caption-button dmWidget clearfix" id="1816049492"> <span class="iconBg" id="1024834677"> <span class="icon hasFontIcon icon-star" id="1539531151"></span> 
+</span> 
+ <span class="text" id="1167443601">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1436327569"> <div class="image-container" id="1500367613"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/2-PartnerOperator-logo.png" id="1695177931"><img irh="" irw="" alt="" data-src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/2-PartnerOperator-logo-1920w.png" id="1806071307" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <div class="caption-container" style="display:none" id="1127952748"> <span class="caption-inner" id="1544488837"> <a class="caption-button dmWidget clearfix" id="1680057710"> <span class="iconBg" id="1465780363"> <span class="icon hasFontIcon icon-star" id="1809278975"></span> 
+</span> 
+ <span class="text" id="1146975037">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1129473929"> <div class="image-container" id="1391418324"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/Kidz-Meadow-Childcare_SK-Parents-Choice-award-logo_transparent-bg.png" id="1340960321"><img irh="" irw="" alt="" data-src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/Kidz-Meadow-Childcare_SK-Parents-Choice-award-logo_transparent-bg-1920w.png" id="1076624427" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <div class="caption-container" style="display:none" id="1910795896"> <span class="caption-inner" id="1733070412"> <a class="caption-button dmWidget clearfix" id="1603801268"> <span class="iconBg" id="1922717856"> <span class="icon hasFontIcon icon-star" id="1298913069"></span> 
+</span> 
+ <span class="text" id="1962612414">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1472447502"> <div class="image-container" id="1671346130"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/1-Spark-logo.png" id="1876630185"><img irh="" irw="" alt="" data-src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/1-Spark-logo-1920w.png" id="1355030989" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <div class="caption-container" style="display:none" id="1152137814"> <span class="caption-inner" id="1942944447"> <a class="caption-button dmWidget clearfix" id="1718095714"> <span class="iconBg" id="1885916694"> <span class="icon hasFontIcon icon-star" id="1549988933"></span> 
+</span> 
+ <span class="text" id="1464501708">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1761764733"> <div class="image-container" id="1378499278"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/bcf6e8b7/dms3rep/multi/4-SG-Clean-logo.png" id="1314344434"><img irh="" irw="" alt="" data-src="https://lirp.cdn-website.com/bcf6e8b7/dms3rep/multi/opt/4-SG-Clean-logo-1920w.png" id="1766112505" onerror="handleImageLoadError(this)"></a> 
+</div> 
+ <div class="caption-container" style="display:none" id="1988076617"> <span class="caption-inner" id="1377637129"> <a class="caption-button dmWidget clearfix" id="1004970730"> <span class="iconBg" id="1294085026"> <span class="icon hasFontIcon icon-star" id="1559849807"></span> 
+</span> 
+ <span class="text" id="1686983913">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+</ul> 
+ <div class="photoGalleryViewAll link" isall="true" data-viewall="View more" data-viewless="View less" style="display:none;" id="1492146908"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="sticky-widgets-container-global" id="1396055384"> <div class="u_1478459675 align-center text-align-center sticky-mobile-position-bottom-right sticky-desktop-position-top-right hide-for-small hide-for-medium dmSocialHub" id="1478459675" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://web.whatsapp.com/send?phone=6598525747" target="_blank" dm_dont_rewrite_url="true" aria-label="whatsapp" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Whatsapp')"> <span class="dmSocialWhatsapp dm-social-icons-whatsapp oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect="float"></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+ <a data-display-type="block" class="u_1837088055 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient sticky-desktop-position-bottom-right sticky-mobile-position-bottom-right hide-for-large hide-for-small" file="false" href="/interest-form" data-element-type="dButtonLinkId" id="1837088055" link_type="popup" popup_target="interest-form"> <span class="iconBg" id="1009269367"> <span class="icon hasFontIcon icon-star" id="1981762831"></span> 
+</span> 
+ <span class="text" id="1181770577">ENROL NOW</span> 
+</a> 
+</div> 
+ <div class="dmFooterContainer"> <div id="fcontainer" class="u_fcontainer f_hcontainer dmFooter p_hfcontainer"> <div dm:templateorder="250" class="dmFooterResp generalFooter" id="1943048428"> <div class="dmRespRow" id="1710600076"> <div class="dmRespColsWrapper" id="1356507897"> <div class="dmRespCol empty-column large-12 medium-12 small-12" id="1655598078"></div> 
+</div> 
+</div> 
+ <div class="u_1367569236 dmRespRow fullBleedChanged fullBleedMode" id="1367569236"> <div class="dmRespColsWrapper" id="1689393156"> <div class="dmRespCol empty-column large-12 medium-12 small-12 u_1275787312" id="1275787312"></div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1611992228" id="1611992228"> <div class="dmRespColsWrapper" id="1829762082"> <div class="u_1680159815 dmRespCol small-12 large-3 medium-3" id="1680159815"> <div class="u_1790143398 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1790143398" style="transition: none 0s ease 0s; text-align: left; display: block;"> <h5 style="line-height: initial;" class="text-align-center"><span style="display: initial; color: rgb(255, 255, 255);">HEADQUARTERS</span></h5> 
+</div> 
+ <div class="u_1963871810 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1963871810" style="transition: none 0s ease 0s; text-align: left; display: block;"><p class="text-align-center size-16 m-size-13"><span class="font-size-16 m-font-size-13" m-font-size-set="true" style="color: rgb(255, 255, 255); display: initial;">175A Bencoolen Street</span></p><p class="text-align-center size-16 m-size-13"><span class="font-size-16 m-font-size-13" m-font-size-set="true" style="color: rgb(255, 255, 255); display: initial;">#07-03 Burlington Square</span></p><p class="text-align-center size-16 m-size-13" style="line-height: 1.5;"><span class="font-size-16 m-font-size-13" m-font-size-set="true" style="color: rgb(255, 255, 255); display: initial;">S (189650)</span><span style="display: initial;"><br></span></p></div> 
+ <div class="u_1414218894 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1414218894" style="transition: none 0s ease 0s; text-align: left;"><p class="text-align-center size-16 m-size-13"><a href="tel:6235 7758" target="_blank" type="call" class="font-size-16 m-font-size-13" m-font-size-set="true" style="color: rgb(255, 255, 255); text-decoration: none; display: initial;">6235 7758</a></p></div> 
+ <div class="u_1863873775 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1863873775" style="transition: none 0s ease 0s; text-align: left;"><p class="text-align-center size-16 m-size-13"><a href="mailto:info@kidzmeadow.com" target="_blank" type="email" class="font-size-16 m-font-size-13" m-font-size-set="true" style="display: initial; color: rgb(255, 255, 255); text-decoration: none;">info@kidzmeadow.com</a></p></div> 
+</div> 
+ <div class="u_1006452626 dmRespCol small-12 large-5 medium-5" id="1006452626"> <nav class="u_1516926063 effect-bottom2 main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_1" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1516926063" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-logo-src="https://irp.cdn-website.com/md/dmtmpl/04908b51-a49d-489f-bc38-7c752c9305c0/dms3rep/multi/logo.svg" alt="" data-nav-structure="HORIZONTAL" wr="true" icon="true" surround="true" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="https://www.kidzmeadow.com/careers" class="unifiednav__item" target="_blank" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="CAREERS" data-auto="page-text-style">CAREERS<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="/faqs" class="unifiednav__item" target="" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="
+           FAQs
+          " data-auto="page-text-style">FAQs<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class="unifiednav__item-wrap" data-auto="more-pages" data-depth="0"> <a href="https://www.kidzmeadow.com/blog-articles" class="unifiednav__item" target="_blank" data-target-page-alias="" tabindex="0"> <span class="nav-item-text " data-link-text="BLOG ARTICLES" data-auto="page-text-style">BLOG ARTICLES<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+ <div class="dmRespCol small-12 medium-4 large-4" id="1951593247"> <a data-display-type="block" class="u_1129166607 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="/get-in-touch" data-element-type="dButtonLinkId" id="1129166607" link_type="popup" popup_target="get-in-touch"> <span class="iconBg" id="1715598121"> <span class="icon hasFontIcon icon-star" id="1572535481"></span> 
+</span> 
+ <span class="text" id="1594826219">GET IN TOUCH WITH US</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1632155419 fullBleedChanged fullBleedMode" style="text-align: center;" id="1632155419" mode="1"> <div class="dmRespColsWrapper" id="1253858808"> <div class="u_1940561751 dmRespCol small-12 medium-12 large-12" id="1940561751"> <div class="u_1222712997 dmRespRow" id="1222712997"> <div class="dmRespColsWrapper" id="1396175621"> <div class="dmRespCol small-12 medium-12 large-12" id="1616116791"> <div class="u_1076808704 dmDividerWrapper clearfix" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1076808704"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1487903668"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1794965839" id="1794965839"> <div class="dmRespColsWrapper" id="1233350599"> <div class="u_1328120665 dmRespCol small-12 large-7 medium-7" id="1328120665"> <div class="u_1888852315 widget-1f5975 dmCustomWidget" data-lazy-load="" data-title="" id="1888852315" dmle_extension="custom_extension" data-element-type="custom_extension" icon="false" surround="false" data-widget-id="1f5975986930429f819d4cd2154b5c4a" data-widget-version="22" data-widget-config="eyJjb3B5cmlnaHRUZXh0IjoiPHAgY2xhc3M9XCJydGVCbG9ja1wiPktpZHogTWVhZG93LiBBbGwgUmlnaHRzIFJlc2VydmVkLiBXZWJzaXRlIERlc2lnbmVkIGJ5IDxzcGFuIHN0eWxlPVwiY29sb3I6cmdiYSgyNTUsIDI1NSwgMjU1LCAxKVwiPjxhIHZhbHVlPVwiaHR0cHM6Ly93d3cuaGVyb2Vzb2ZkaWdpdGFsLmNvbS9cIiBsYWJlbD1cIlwiIHR5cGU9XCJ1cmxcIiB0YXJnZXQ9XCJfYmxhbmtcIiBocmVmPVwiaHR0cHM6Ly93d3cuaGVyb2Vzb2ZkaWdpdGFsLmNvbS9cIiBkYXRhLXJ1bnRpbWUtdXJsPVwiaHR0cHM6Ly93d3cuaGVyb2Vzb2ZkaWdpdGFsLmNvbS9cIj5IZXJvZXMgT2YgRGlnaXRhbDwvYT48L3NwYW4+LjwvcD4ifQ==" data-widget-initialized=""> <div class="copyright"> <div>© 2024&nbsp;</div> 
+ <div><p class="rteBlock">Kidz Meadow. All Rights Reserved. Website Designed by <span style="color:rgba(255, 255, 255, 1)"><a value="https://www.heroesofdigital.com/" label="" type="url" target="_blank" href="https://www.heroesofdigital.com/" data-runtime-url="https://www.heroesofdigital.com/">Heroes Of Digital</a></span>.</p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1159294759 dmRespCol small-12 large-3 medium-3" id="1159294759"> <div class="dmNewParagraph u_1571245377" data-element-type="paragraph" data-version="5" id="1571245377" style="transition: none 0s ease 0s; text-align: left;"><p class="text-align-right m-size-9 size-11 m-text-align-center"><a href="https://my.duda.co/terms-and-conditions" runtime_url="https://my.duda.co/terms-and-conditions" type="page" class="font-size-11 m-font-size-9" style="display: unset; color: rgb(255, 255, 255); font-weight: bold; text-decoration: none;">Terms &amp; Conditions</a><span class="font-size-11 m-font-size-9" style="display: unset; color: rgb(255, 255, 255); font-weight: bold; text-decoration: none;"> <span class="font-size-11 m-font-size-9" style="display: unset; color: rgb(255, 255, 255); font-weight: bold; text-decoration: none;">| &nbsp;</span></span><a href="https://my.duda.co/privacy-policy" runtime_url="https://my.duda.co/privacy-policy" type="page" class="font-size-11 m-font-size-9" style="display: unset; color: rgb(255, 255, 255); font-weight: bold; text-decoration: none;">Privacy Policy</a></p></div> 
+</div> 
+ <div class="u_1086016996 dmRespCol small-12 large-2 medium-2" id="1086016996"> <div class="u_1611298254 align-center text-align-center dmSocialHub" id="1611298254" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://www.facebook.com/kidzmeadow/" target="_blank" dm_dont_rewrite_url="true" aria-label="facebook" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Facebook')"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style9" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://www.instagram.com/kidzmeadow" target="_blank" dm_dont_rewrite_url="true" aria-label="instagram" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Instagram')"> <span class="dmSocialInstagram dm-social-icons-instagram oneIcon socialHubIcon style9" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://www.youtube.com/channel/UCmtRZ8kZku7yIU5MlocxrUQ" target="_blank" dm_dont_rewrite_url="true" aria-label="youtube" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event('socialLink', 'click', 'Youtube')"> <span class="dmSocialYoutube dm-social-icons-youtube oneIcon socialHubIcon style9" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div id="1236746004" dmle_extension="powered_by" data-element-type="powered_by" icon="true" surround="false"></div> 
+</div> 
+</div> 
+</div> 
+ <div class="showOnMedium layout-drawer-hamburger hamburger-on-header" id="layout-drawer-hamburger" role="button" aria-label="menu opener" tabindex="0"> <span class="hamburger__slice"></span> 
+ <span class="hamburger__slice"></span> 
+ <span class="hamburger__slice"></span> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+
+    </div>
+</div>
+<!--  Add full CSS and Javascript before the close tag of the body if needed -->
+<!-- ========= JS Section ========= -->
+
+<script>
+    var isWLR = true;
+
+    window.customWidgetsFunctions = {};
+    window.customWidgetsStrings = {};
+    window.collections = {};
+    window.currentLanguage = "ENGLISH"
+    window.isSitePreview = false;
+</script>
+<script>
+    window.customWidgetsFunctions["1f5975986930429f819d4cd2154b5c4a~22"] = function (element, data, api) {
+        null
+    };
+</script>
+<script type="text/javascript">
+
+    var d_version = "production_4313";
+    var build = "2024-03-28T11_49_51";
+    window['v' + 'ersion'] = d_version;
+
+    function buildEditorParent() {
+        window.isMultiScreen = true;
+        window.editorParent = {};
+        window.previewParent = {};
+        window.assetsCacheQueryParam = "?version=2024-03-28T11_49_51";
+        try {
+            var _p = window.parent;
+            if (_p && _p.document && _p.$ && _p.$.dmfw) {
+                window.editorParent = _p;
+            } else if (_p.isSitePreview) {
+                window.previewParent = _p;
+            }
+        } catch (e) {
+
+        }
+    }
+
+    buildEditorParent();
+</script>
+
+<!-- Load jQuery -->
+    <script type="text/javascript" id="d-js-jquery" src="https://static.cdn-website.com/libs/jquery/jquery-3.7.0.min.js"></script>
+    <!-- End Load jQuery -->
+<!-- Injecting site-wide before scripts -->
+<!-- End Injecting site-wide to the head -->
+
+
+<script>
+    var _jquery = window.$;
+
+    var jqueryAliases = ['$', 'jquery', 'jQuery'];
+
+    jqueryAliases.forEach((alias) => {
+        Object.defineProperty(window, alias, {
+            get() {
+                return _jquery;
+            },
+            set() {
+                console.warn("Trying to over-write the global jquery object!");
+            }
+        });
+    });
+    window.jQuery.migrateMute = true;
+</script>
+<script type="text/javascript">
+    window.popups =
+    [{"title":"INTEREST FORM","url":"/interest-form","options":{"backgroundColor":"#FFFFFF","borderRadius":"5","width":"914","overlayColor":"rgba(0, 0, 0, 0.5)","height":"1240","animation":"fadeIn"},"name":"interest-form"},{"title":"GET IN TOUCH","url":"/get-in-touch","options":{"backgroundColor":"#FFFFFF","borderRadius":"5","width":"902","overlayColor":"rgba(0, 0, 0, 0.5)","height":"1260","animation":"fadeIn"},"name":"get-in-touch"},{"title":"Centre Tour Interest Form","url":"/find-out-more","options":{"backgroundColor":"#FFFFFF","borderRadius":"5","width":"580.0152499999998","overlayColor":"rgba(0, 0, 0, 0.5)","height":"598","animation":"fadeIn"},"name":"find-out-more"}]</script>
+<script>
+    window.cookiesNotificationMarkupPreview = 'null';
+</script>
+
+<!-- HEAD RT JS Include -->
+<script id="d-js-params">
+    window.INSITE = window.INSITE || {};
+    window.INSITE.device = "desktop";
+
+    window.rtCommonProps = {};
+    rtCommonProps["rt.ajax.ajaxScriptsFix"] =true;
+    rtCommonProps["rt.pushnotifs.sslframe.encoded"] = 'aHR0cHM6Ly97c3ViZG9tYWlufS5wdXNoLW5vdGlmcy5jb20=';
+    rtCommonProps["runtimecollector.url"] = 'https://rtc.multiscreensite.com';
+    rtCommonProps["performance.tabletPreview.removeScroll"] = 'false';
+    rtCommonProps["inlineEditGrid.snap"] =true;
+    rtCommonProps["popup.insite.cookie.ttl"] = '0.5';
+    rtCommonProps["rt.pushnotifs.force.button"] =true;
+    rtCommonProps["common.mapbox.token"] = 'pk.eyJ1IjoiZGFubnliMTIzIiwiYSI6ImNqMGljZ256dzAwMDAycXBkdWxwbDgzeXYifQ.Ck5P-0NKPVKAZ6SH98gxxw';
+    rtCommonProps["common.mapbox.js.override"] =false;
+    rtCommonProps["common.here.appId"] = 'iYvDjIQ2quyEu0rg0hLo';
+    rtCommonProps["common.here.appCode"] = '1hcIxLJcbybmtBYTD9Z1UA';
+    rtCommonProps["isCoverage.test"] =false;
+    rtCommonProps["ecommerce.ecwid.script"] = 'https://app.multiscreenstore.com/script.js';
+    rtCommonProps["feature.flag.mappy.kml"] =false;
+    rtCommonProps["common.resources.dist.cdn"] =true;
+    rtCommonProps["common.build.dist.folder"] = 'production/4313';
+    rtCommonProps["common.resources.cdn.host"] = 'https://static.cdn-website.com';
+    rtCommonProps["common.resources.folder"] = 'https://static.cdn-website.com/mnlt/production/4313';
+    rtCommonProps["feature.flag.runtime.backgroundSlider.preload.slowly"] =true;
+    rtCommonProps["feature.flag.runtime.photoswipe.fix"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.respectCssAnimationProps.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.jitAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.sites.google.analytics.gtag"] =true;
+    rtCommonProps["feature.flag.runOnReadyNewTask"] =true;
+    rtCommonProps["isAutomation.test"]=false;
+
+
+    
+    rtCommonProps['common.mapsProvider'] = 'mapbox';
+    
+    rtCommonProps['common.mapsProvider.version'] = '0.52.0';
+    rtCommonProps['common.geocodeProvider'] = 'here';
+    rtCommonProps['common.map.defaults.radiusSize'] = '1500';
+    rtCommonProps['common.map.defaults.radiusBg'] = 'rgba(255, 255, 255, 0.4)';
+    rtCommonProps['common.map.defaults.strokeColor'] = 'rgba(255, 255, 255, 1)';
+    rtCommonProps['common.map.defaults.strokeSize'] = '2';
+    rtCommonProps['server.for.resources'] = '';
+    rtCommonProps['feature.flag.lazy.widgets'] = true;
+    rtCommonProps['feature.flag.single.wow'] = false;
+    rtCommonProps['feature.flag.disallowPopupsInEditor'] = true;
+    rtCommonProps['feature.flag.mark.anchors'] = true;
+    rtCommonProps['captcha.public.key'] = '6LffcBsUAAAAAMU-MYacU-6QHY4iDtUEYv_Ppwlz';
+    rtCommonProps['captcha.invisible.public.key'] = '6LeiWB8UAAAAAHYnVJM7_-7ap6bXCUNGiv7bBPME';
+    rtCommonProps["images.sizes.small"] =160;
+    rtCommonProps["images.sizes.mobile"] =640;
+    rtCommonProps["images.sizes.tablet"] =1280;
+    rtCommonProps["images.sizes.desktop"] =1920;
+    rtCommonProps["modules.resources.cdn"] =true;
+    rtCommonProps["import.images.storage.imageCDN"] = 'https://lirp.cdn-website.com/';
+    rtCommonProps["facebook.api.version"] = '7.0';
+    rtCommonProps["feature.flag.runtime.inp.threshold"] =150;
+    rtCommonProps["feature.flag.performance.logs"] =true;
+    rtCommonProps["site.widget.form.captcha.type"] = 'g_recaptcha';
+    rtCommonProps["friendly.captcha.site.key"] = 'FCMGSQG9GVNMFS8K';
+
+    // feature flags that's used out of runtime module (in  legacy files)
+    rtCommonProps["site.runtime.video.background.ssr"] =true;
+
+    // no usages
+    rtCommonProps["run.imageCount.script.enabled"] =false;
+
+    window.rtFlags = {};
+    rtFlags["unsuspendEcwidStoreOnRuntime.enabled"] =true;
+    rtFlags["keyboard.navigation.enabled"] =true;
+    rtFlags["scripts.widgetCount.enabled"] =true;
+    rtFlags["maps.cookiebot.enabled"] =true;
+    rtFlags["ecom.ecwid.categoryPage.modifyLinks"] = true;
+    rtFlags["ecom.ecwidNewUrlStructure.enabled"] = false;
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.enabled"] = true;
+    rtFlags["ecom.ecwid.old.store.fix.facebook.share"] = true;
+    rtFlags["ecom.ecwid.fallBackInCaseLinksNotFound.enabled"] = true;
+    rtFlags["feature.flag.photo.gallery.exact.size"] =false;
+    rtFlags["new.store.fix.ecwid.back.bug"] =true;
+    rtFlags["facebook.runtime.widgets.upgrade"] =true;
+    rtFlags["ecom.ecwid.solve.url.modifications"] = true;
+    rtFlags["ecom.ecwid.configOptions"] = true;
+    rtFlags["geocode.search.localize"] =false;
+    rtFlags["feature.flag.runtime.newAnimation.asyncInit.setTimeout.enabled"] =false;
+    rtFlags["site.contact.form.fix.for.attribute"] =true;
+    rtFlags["contact.form.date.format.enabled"] = true;
+    rtFlags["twitter.heightLimit.enabled"] = true;
+    rtFlags["ecom.ecwid.fixTranslations.enabled"] = true;
+    rtFlags["runtime.load.script.native"]=true;
+    rtFlags["editor.classicHybrid.photogallery.fix"]=true;
+</script>
+<script src="https://static.cdn-website.com/mnlt/production/4313/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js" id="d-js-core"></script>
+<!-- End of HEAD RT JS Include -->
+<script src="https://static.cdn-website.com/mnlt/production/4313/_dm/s/rt/dist/scripts/d-js-jquery-migrate.min.js"></script>
+<script>
+
+$(window).bind("orientationchange", function (e) {
+    $.layoutManager.initLayout();
+    
+});
+$(document).resize(function () {
+    
+});
+</script>
+<script type="text/javascript" id="d_track_campaign">
+(function() {
+ 	var campaign = (/utm_campaign=([^&]*)/).exec(window.location.search);
+
+ 	if (campaign && campaign != null && campaign.length > 1) {
+ 		campaign = campaign[1];
+ 		document.cookie = "_dm_rt_campaign=" + campaign + ";expires=" + new Date().getTime() + 24*60*60*1000 + ";domain=" + window.location.hostname + ";path=/";
+ 	}
+}());
+</script>
+<script type="text/javascript">
+  var _dm_gaq = {};
+  var _gaq = _gaq || [];
+  var _dm_insite = [];
+</script>
+
+  
+<script type="text/javascript" id="d_track_sp">
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js","snowplow"));
+window.dmsnowplow  = window.snowplow;
+
+dmsnowplow('newTracker', 'cf', 'd32hwlnfiv2gyn.cloudfront.net', { // Initialise a tracker
+  appId: 'bcf6e8b7'
+});
+
+// snowplow queries element styles so we wait until CSS calculations are done.
+requestAnimationFrame(() => {
+	dmsnowplow('trackPageView');
+	_dm_insite.forEach((rule) => {
+		// Specifically in popup only the client knows if it is shown or not so we don't always want to track its impression here
+		// the tracking is in popup.js
+		if (rule.actionName !== "popup") {
+			dmsnowplow('trackStructEvent', 'insite', 'impression', rule.ruleType, rule.ruleId);
+		}
+		window?.waitForDeferred?.('dmAjax', () => {
+			$.DM.events.trigger('event-ruleTriggered', {value: rule});
+		});
+	});
+});
+</script>
+   <div style="display:none;" id="P6iryBW0Wu"></div>
+
+<!-- photoswipe markup -->
+
+
+
+
+
+
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<div id="fb-root" data-locale="en"></div>
+<!-- Alias: bcf6e8b7 -->
+<div class="dmPopupMask" id="dmPopupMask"></div>
+<div id="dmPopup" class="dmPopup">
+	<div class="dmPopupCloseWrapper"> <div class="dmPopupClose dm-common-icons-close oneIcon" onclick="dmHidePopup(event);"></div> </div>
+ 	<div class="dmPopupTitle"> <span></span> Share by:</div> 
+	<div class="data"></div>
+</div><script id="d_track_personalization">
+	window?.waitForDeferred?.('dmAjax', () => {
+		// Collects client data and updates cookies used by smart sites
+		window.expireDays = 365;
+		window.visitLength = 30 * 60000;
+		$.setCookie("dm_timezone_offset", (new Date()).getTimezoneOffset(), window.expireDays);
+			setSmartSiteCookiesInternal("dm_this_page_view","dm_last_page_view","dm_total_visits","dm_last_visit");
+	});
+</script>
+<script type="text/javascript">
+    
+    Parameters.NavigationAreaParams.MoreButtonText = 'MORE';
+    
+    Parameters.NavigationAreaParams.LessButtonText = 'LESS';
+    Parameters.HomeLinkText = 'Home';
+    </script>
+<!--  End Script tags -->
+
+<!--  Begin Body End Markup -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5SHD36"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!--  End Body End Markup -->
+
+<!--  Site Wide Html Markup -->
+<!--  Site Wide Html Markup -->
+
+
+<script type="text/javascript" id="" src="https://cdn.pagesense.io/js/heroesofdigital/cbfab9e4d99145f497839935745449d3.js"></script></body></html>

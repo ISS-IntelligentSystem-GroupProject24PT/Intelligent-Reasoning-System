@@ -327,7 +327,7 @@ $(document).ready(function() {
 
 	<div class="form-group form-group-full">
 		<label for="">Child's Date of Birth *</label>
-		<div><input name="child_dob" type="date" value="" placeholder="Child's DOB" required="" max="2024-03-30"></div>
+		<div><input name="child_dob" type="date" value="" placeholder="Child's DOB" required="" max="2024-03-31"></div>
 	</div>
 
 	<h3>Other Information</h3>
@@ -362,7 +362,7 @@ $(document).ready(function() {
 
     <div class="form-group form-group-full">
 		<label for="">Expected Enrolment Date *</label>
-		<div><input name="enrolment_date" type="date" value="" placeholder="Enrolment Date" required="" min="2024-03-30"></div>
+		<div><input name="enrolment_date" type="date" value="" placeholder="Enrolment Date" required="" min="2024-03-31"></div>
 	</div>
 
 	<div class="form-group form-group-full">
@@ -371,7 +371,7 @@ $(document).ready(function() {
 	</div>
 
 	<div class="form-group form-group-full">
-		<div class="g-recaptcha" data-sitekey="6LdCMM4oAAAAABpi-hbOlLMpmd0_yi0b6OZzGDv0"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-b2uoi530ja1o" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdCMM4oAAAAABpi-hbOlLMpmd0_yi0b6OZzGDv0&amp;co=aHR0cHM6Ly93d3cubGl0dGxlbWlnaHR5bWUuc2c6NDQz&amp;hl=en&amp;v=moV1mTgQ6S91nuTnmll4Y9yf&amp;size=normal&amp;cb=en4udzlk8a0"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+		<div class="g-recaptcha" data-sitekey="6LdCMM4oAAAAABpi-hbOlLMpmd0_yi0b6OZzGDv0"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-7jusit5mcvhb" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdCMM4oAAAAABpi-hbOlLMpmd0_yi0b6OZzGDv0&amp;co=aHR0cHM6Ly93d3cubGl0dGxlbWlnaHR5bWUuc2c6NDQz&amp;hl=en&amp;v=moV1mTgQ6S91nuTnmll4Y9yf&amp;size=normal&amp;cb=t53uacac03yw"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
 	</div>	
 	
 	<input type="submit" id="sent-btn" value="Submit">
@@ -485,4 +485,4 @@ Punggol Pl, #02-816 Blk 274B, Singapore 822274
 
 
 
-<div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="recaptcha challenge expires in two minutes" name="c-b2uoi530ja1o" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=moV1mTgQ6S91nuTnmll4Y9yf&amp;k=6LdCMM4oAAAAABpi-hbOlLMpmd0_yi0b6OZzGDv0" style="width: 100%; height: 100%;"></iframe></div></div></body></html>
+<div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="recaptcha challenge expires in two minutes" name="c-7jusit5mcvhb" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=moV1mTgQ6S91nuTnmll4Y9yf&amp;k=6LdCMM4oAAAAABpi-hbOlLMpmd0_yi0b6OZzGDv0" style="width: 100%; height: 100%;"></iframe></div></div></body></html>

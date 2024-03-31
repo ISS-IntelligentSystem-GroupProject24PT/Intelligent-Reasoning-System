@@ -497,7 +497,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <section class="container"><div class="row">
 <div class="spb_gallery_widget spb_content_element col-sm-12">
 <div class="spb_wrapper gallery-wrap">
-<div class="flexslider gallery-slider" data-transition="slide" data-autoplay="yes"><div class="flex-viewport" style="overflow: hidden; position: relative; height: 376.797px;"><ul class="slides" style="width: 3400%; transition-duration: 0.6s; transform: translate3d(-1440px, 0px, 0px);"><li class="clone" aria-hidden="true" style="width: 720px; float: left; display: block;"><a href="https://mulberrylearning.com/wp-content/uploads/2022/01/GDN-infantcare-rm-1200x628-1.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-27151]"><picture>
+<div class="flexslider gallery-slider" data-transition="slide" data-autoplay="yes"><div class="flex-viewport" style="overflow: hidden; position: relative; height: 376.797px;"><ul class="slides" style="width: 3400%; transition-duration: 0s; transform: translate3d(-720px, 0px, 0px);"><li class="clone" aria-hidden="true" style="width: 720px; float: left; display: block;"><a href="https://mulberrylearning.com/wp-content/uploads/2022/01/GDN-infantcare-rm-1200x628-1.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-27151]"><picture>
 <source type="image/webp" data-lazy-srcset="https://mulberrylearning.com/wp-content/uploads/2022/01/GDN-infantcare-rm-1200x628-1.jpg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20628'%3E%3C/svg%3E">
 <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20628'%3E%3C/svg%3E" width="1200" height="628" alt="" data-lazy-src="https://mulberrylearning.com/wp-content/uploads/2022/01/GDN-infantcare-rm-1200x628-1.jpg" draggable="false">
 </picture>
@@ -506,7 +506,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <img src="https://mulberrylearning.com/wp-content/uploads/2022/01/GDN-infantcare-rm-1200x628-1.jpg" width="1200" height="628" alt=""/>
 </picture>
 </noscript></a></li>
-<li style="width: 720px; float: left; display: block;" class=""><a href="https://mulberrylearning.com/wp-content/uploads/2022/01/GDN-hom-1200x628-1.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-27151]"><picture>
+<li style="width: 720px; float: left; display: block;" class="flex-active-slide"><a href="https://mulberrylearning.com/wp-content/uploads/2022/01/GDN-hom-1200x628-1.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-27151]"><picture>
 <source type="image/webp" data-lazy-srcset="https://mulberrylearning.com/wp-content/uploads/2022/01/GDN-hom-1200x628-1.jpg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20628'%3E%3C/svg%3E">
 <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20628'%3E%3C/svg%3E" width="1200" height="628" alt="" data-lazy-src="https://mulberrylearning.com/wp-content/uploads/2022/01/GDN-hom-1200x628-1.jpg" draggable="false">
 </picture>
@@ -515,7 +515,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <img src="https://mulberrylearning.com/wp-content/uploads/2022/01/GDN-hom-1200x628-1.jpg" width="1200" height="628" alt=""/>
 </picture>
 </noscript></a></li>
-<li style="width: 720px; float: left; display: block;" class="flex-active-slide"><a href="https://mulberrylearning.com/wp-content/uploads/2022/01/GDN-discoverycove2-1200x628-1.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-27151]"><picture>
+<li style="width: 720px; float: left; display: block;"><a href="https://mulberrylearning.com/wp-content/uploads/2022/01/GDN-discoverycove2-1200x628-1.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-27151]"><picture>
 <source type="image/webp" data-lazy-srcset="https://mulberrylearning.com/wp-content/uploads/2022/01/GDN-discoverycove2-1200x628-1.jpg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20628'%3E%3C/svg%3E">
 <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20628'%3E%3C/svg%3E" width="1200" height="628" alt="" data-lazy-src="https://mulberrylearning.com/wp-content/uploads/2022/01/GDN-discoverycove2-1200x628-1.jpg" draggable="false">
 </picture>
@@ -1070,8 +1070,8 @@ Contact us on enquiry@mulberrylearning.com</div>
 <section class="container"><div class="row">
 <div class="spb_testimonial_slider_widget spb_content_element col-sm-12 testimonial">
 <div class="spb_wrapper slider-wrap">
-<div class="flexslider testimonials-slider content-slider" data-animation="fade" data-autoplay="yes" style="height: 217.781px;"><ul class="slides"><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Nigel, Parent of Eiros (PN), Mulberry Learning @ Punggol</span></h3>
-<em>“Thanks to the childcare teachers at Punggol, my son managed to transition and settle from his previous preschool to Mulberry Learning. My son has been having reflux problems since birth &amp; eating has always been a worry to us. With his teacher's patience, encouragement &amp; guidance, my son's eating habits have improved tremendously. We peeked through the door on several occasions and saw his teacher patiently sitting beside him, encouraging him to try different foods. All in all, We feel safe that our child is in good hands. It greatly offloads many worries off our minds knowing that he will have his teachers around to look after him.”</em></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Ariel Nguyen, Parent of Emma (Infant), Mulberry Learning @ Punggol</span></h3>
+<div class="flexslider testimonials-slider content-slider" data-animation="fade" data-autoplay="yes" style="height: 312.781px;"><ul class="slides"><li class="testimonial flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Nigel, Parent of Eiros (PN), Mulberry Learning @ Punggol</span></h3>
+<em>“Thanks to the childcare teachers at Punggol, my son managed to transition and settle from his previous preschool to Mulberry Learning. My son has been having reflux problems since birth &amp; eating has always been a worry to us. With his teacher's patience, encouragement &amp; guidance, my son's eating habits have improved tremendously. We peeked through the door on several occasions and saw his teacher patiently sitting beside him, encouraging him to try different foods. All in all, We feel safe that our child is in good hands. It greatly offloads many worries off our minds knowing that he will have his teachers around to look after him.”</em></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Ariel Nguyen, Parent of Emma (Infant), Mulberry Learning @ Punggol</span></h3>
 <em>“I want to thank all staff members and teachers in infant care. They played a significant role in helping our daughter transition from the home environment to the school environment seamlessly, with their cheerfulness and warmth towards the children under their care. Our daughter looks forward to attending school every day because of them.”</em></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Kevin and Kay, Parents of Kiara (N2), Mulberry Learning @ Punggol</span></h3>
 <em>“We've joined the Mulberry Learning Punggol family since the beginning, and we've been going through many ups and downs during the pandemic. One thing is for sure, the principal and the teachers never stopped thriving to make the school a conducive environment for the children. We see your efforts and hard work, educators! </em><em>Thank you all for taking care of our daughter and being patient with her.”</em></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Charlene, Parent of Kaixin (N2), Mulberry Learning @ Punggol</span></h3>
 <em>“The teachers are nurturing and genuinely care for the student's development, emotional needs and welfare in N2. My daughter loves going to school as her teachers provide ample opportunities for her and her fellow students to enquire and learn about topics of interest through various creative ways.”</em></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Jerry and Eve, Parents of Theodore (PN), Mulberry Learning @ Punggol</span></h3>
@@ -1445,7 +1445,7 @@ Distance: 1.4 km</p>
 <span class="wpcf7-form-control-wrap" data-name="child-given-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="child-given-name"></span>
 </p>
 <p>Date of Birth <span class="req">*</span><br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth" id="dp1711777505004"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth" id="dp1711885084078"></span>
 </p>
 <p><a id="mul-second-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1454,7 +1454,7 @@ Distance: 1.4 km</p>
 <span class="wpcf7-form-control-wrap" data-name="child-2-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-2-given-name"></span>
 </p>
 <p>Second Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth2"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth2" id="dp1711777505005"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth2"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth2" id="dp1711885084079"></span>
 </p>
 <p><a id="mul-third-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1464,7 +1464,7 @@ Distance: 1.4 km</p>
 <span class="wpcf7-form-control-wrap" data-name="child-3-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-3-given-name"></span>
 </p>
 <p>Third Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth3"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth3" id="dp1711777505006"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth3"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth3" id="dp1711885084080"></span>
 </p>
 <p><a id="mul-fourth-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1474,7 +1474,7 @@ Distance: 1.4 km</p>
 <span class="wpcf7-form-control-wrap" data-name="child-4-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-4-given-name"></span>
 </p>
 <p>Fourth Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth4"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth4" id="dp1711777505007"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth4"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth4" id="dp1711885084081"></span>
 </p>
 </div>
 <div style="clear: both;">
@@ -1741,7 +1741,7 @@ if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_c
                         
                 <span class="welcome-message">Hi there! How can I help you? :)</span>
             
-                        <span class="time">13:45</span>
+                        <span class="time">19:38</span>
                     </div>
                 </div>
                 <div class="csaas-whatsapp-footer" dir="ltr">

@@ -1,0 +1,192 @@
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="KidsKingdom Childcare provides infant care, child care and before and after school care, among other services in order to benefit its students"><meta name="author">
+	<link href="favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+	<link href="favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+	<title>KidsKingdom Childcare Services</title>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-BYR24T2FZ6&amp;cx=c&amp;_slc=1"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<link default-stylesheet="true" href="assets/css/sh-default.css" rel="stylesheet" type="text/css">
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+<body class="lower-bg" style="cursor: auto;">
+<div class="navbar mynavbar" data-widget-class="mynavbar" role="navigation">
+<div class="container">
+<div class="navbar-header"><button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span></button></div>
+
+<div class="collapse navbar-collapse">
+<ul class="nav navbar-nav" style=" margin: auto auto;">
+	<li><a href="./index.html">Home</a></li>
+	<li><a href="./about.html">About Us</a></li>
+	<li><a href="./services.html">Services</a></li>
+	<li><a href="./curriculum.html">Curriculum</a></li>
+	<li><a href="./career.html">Career</a></li>
+	<li><a href="./locateus.html">Locate Us</a></li>
+</ul>
+</div>
+<!--/.nav-collapse --></div>
+</div>
+
+<div class="container customcontainer">
+<div class="header-section servicespage">
+<div class="logo-container mynavbar mb"><img id="logo" src="./img/logo.png">
+<ul class="nav navbar-nav" style=" margin: auto auto;">
+	<li><a href="./index.html">Home</a></li>
+	<li><a href="./about.html">About Us</a></li>
+	<li><a href="./services.html">Services</a></li>
+	<li><a href="./curriculum.html">Curriculum</a></li>
+	<li><a href="./career.html">Career</a></li>
+	<li><a href="./locateus.html">Locate Us</a></li>
+</ul>
+</div>
+
+<div class="header-message"><img id="headermessage" src="./img/header-message.png"></div>
+
+<div class="header-kid"><img class="hidden-xs" id="headerkid" src="./img/kid.png"></div>
+
+<div class="header-image" style="position:relative;"><img class="transparency" id="headerimage" src="./img/light-shape.png">
+<div class="aboutus-content">
+<div class="row">
+<div class="col-sm-3 hidden-xs">
+<ul class="aboutus-navs" data-navtab-element-targets="#services-content" data-navtab-element-triggers="li > a" data-widget-class="aboutus-navs">
+	<li class="hide"><a href="#" id="serviceA">Sevices A</a></li>
+	<li class="active"><a href="#" id="serviceB">Infant Care</a></li>
+	<li><a href="#" id="serviceC">Child Care</a></li>
+	<li><a href="#" id="serviceD">Student Care</a></li>
+</ul>
+</div>
+
+<div class="col-sm-8" id="services-content">
+<p class="about-heading"><img src="./img/services/services-heading.png"> <img class="visible-xs kid-mb" src="./img/mobile/about/dancing-kid.png"> <div class="btn-group bootstrap-select visible-xs"><button type="button" class="btn dropdown-toggle btn-default" data-toggle="dropdown" title="Infant Care"><span class="filter-option pull-left">Infant Care</span>&nbsp;<span class="bs-caret"><span class="caret"></span></span></button><div class="dropdown-menu open"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Infant Care</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Child Care</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Student Care</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div><select class="selectpicker visible-xs mobile-device" data-hide="true" tabindex="-98"><option selected="selected" value="serviceB">Infant Care</option><option value="serviceC">Child Care</option><option value="serviceD">Student Care</option> </select></div></p>
+
+<div class="text-content" data-navtab-element-contents="">
+<div class="navtabcontent active" id="serviceB-content">
+<p>We know how important your infant is to you, and how continuous monitoring is necessary to take care of them. That’s why KidsKingdom recruits qualified teachers take care of your child and he/she is constantly supervised.</p>
+
+<p>Our Infant Curriculum covers student improvement in the following areas:</p>
+
+<ol>
+	<li>Attachment</li>
+	<li>Perception</li>
+	<li>Motor Skills</li>
+	<li>Cognition</li>
+	<li>Language</li>
+	<li>Emotions</li>
+	<li>Social Skills</li>
+</ol>
+</div>
+
+<div class="navtabcontent" id="serviceC-content">
+<p>Our curriculum for nursery, kindergarten 1 and 2 children is built upon MOE's Nurturing Early Learners (NEL) framework to achieve the Desired Outcomes of Education and Key Stage Outcomes by helping children acquire knowledge, skills and dispositions through six learning areas:</p>
+
+<ol>
+	<li>Aesthetics and Creative Expression (A&amp;C),</li>
+	<li>Discovery of the World (DOW)</li>
+	<li>Language and Literacy (L&amp;L)</li>
+	<li>Motor Skills Development (MSD)</li>
+	<li>Numeracy (NUM)</li>
+	<li>Social and Emotional Development (SED)</li>
+</ol>
+
+<p>as well as six learning dispositions:</p>
+
+<ol>
+	<li>Perseverance</li>
+	<li>Reflectiveness</li>
+	<li>Appreciation</li>
+	<li>Inventiveness</li>
+	<li>Sense of wonder and curiosity and</li>
+	<li>Engagement</li>
+</ol>
+
+<p>It highlights iTeach principles beginning with integrated approach to learning which is facilitated by the Teacher engaging children in authentic learning through purposeful play and quality interactions, allowing children to construct their own knowledge and to move towards holistic development.</p>
+</div>
+
+<div class="navtabcontent" id="serviceD-content">
+<p>We provide care and supervision to school-going children aged 7 years (Primary 1) to 14 years (Secondary 2). Our conducive environment ensures children's holistic development in various dimensions - physical, intellectual, emotional, social and moral development, as well as place to rest after school hours. Apart from providing a continuum of care for children as they enter primary school, our student care services support working parents in the care arrangements for their school-going children.</p>
+</div>
+
+<div class="navtabcontent column-text-content" id="serviceA-content">
+<div class="row">
+<div class="col-sm-5">
+<p class="text-heading" draggable="true">Type of Service</p>
+
+<ul class="service-list">
+	<li>Infant Care</li>
+	<li>Childcare</li>
+	<li>Student Care</li>
+</ul>
+</div>
+
+<div class="col-sm-7">
+<p class="text-heading">Age Range</p>
+
+<ul class="service-list-details">
+	<li>2 Months to 1 year 6 months</li>
+	<li>1 year 6 months to 6 years 11 months</li>
+	<li>7 years to 12 years 11 months</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="bottom-thumbnail smallerimage hidden-xs"><img id="bannerimage" src="./img/services/balloon-kid-with-thumbs.png" usemap="#image-maps-2015-11-21-151103"><map id="ImageMapsCom-image-maps-2015-11-21-151103" name="image-maps-2015-11-21-151103"><area alt="ECDA Subsidies" coords="128,108,278,178" href="https://www.childcarelink.gov.sg/ccls/home/CCLS_HomeParentsSubsidies.jsp" shape="rect" style="outline:none;" target="_blank" title="ECDA Subsidies"></map></div>
+
+<div class="bottom-thumbnail mb visible-xs"><img src="./img/mobile/services-bottom-thumbnail.png"></div>
+
+<div class="afterheader">
+<div class="semi-footer visible-xs">
+<div class="callandfb"><img src="./img/mobile/fbandcall.png" usemap="#image-maps-2015-12-22-054019"><map id="ImageMapsCom-image-maps-2015-12-22-054019" name="image-maps-2015-12-22-054019"><area alt="Call us at +65 6587 4771" coords="0,0,0,0" href="tel:+6565874771" shape="rect" style="outline:none;" target="_blank" title="Call us at +65 6587 4771"> <area alt="Visit us at Facebook" coords="0,0,0,0" href="https://www.facebook.com/kidskingdomgroup" shape="rect" style="outline:none;" target="_blank" title="Visit us at Facebook"></map></div>
+
+<div class="memberlogos"><img src="./img/mobile/memberlogos.png" usemap="#image-maps-2015-12-22-054438"><map id="ImageMapsCom-image-maps-2015-12-22-054438" name="image-maps-2015-12-22-054438"><area alt="Visit Al Najah Education Website" coords="0,0,0,0" href="http://www.alnajaheducation.com" shape="rect" style="outline:none;" target="_blank" title="Visit Al Najah Education Website"> <area alt="Visit Horizon Website" coords="0,0,0,0" href="http://www.alnajaheducation.com" shape="rect" style="outline:none;" target="_blank" title="Visit Horizon Website"></map></div>
+</div>
+
+<div class="row contact-details hidden-xs">
+<div class="col-md-12 contact-details">
+<div>
+<div class="row">
+<div class="col-sm-6 fb-details"><a href="https://www.facebook.com/kidskingdomgroup" target="_blank"><img src="./img/fb-logo.png"><span class="fb-message">Follow us for latest updates</span></a></div>
+
+<div class="col-sm-6 call-detail-container"><span class="call-details"><span class="call-keyword">Call</span></span>&nbsp;6247 5036 (Bedok)&nbsp;/ 6382 3895 (Hougang)</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-12 hide">
+<div style="width: 760px;margin-left: -30px;">
+<div class="row">
+<div class="col-md-4 fb-details"><a href="https://www.facebook.com/kidskingdomgroup" target="_blank"><img src="./img/fb-logo.png"><span class="fb-message">Follow us for latest updates</span></a></div>
+
+<div class="col-md-4 call-detail-container"><span class="call-details"><span class="call-keyword">Call</span> +65 6587 4771</span></div>
+
+<div class="col-md-4 member-logos"><span><img alt="" border="0" height="73" id="Image-Maps-Com-image-maps-2015-11-21-120456" orgheight="73" orgwidth="228" src="./img/member-logos.png" usemap="#image-maps-2015-11-21-120456" width="228"><map id="ImageMapsCom-image-maps-2015-11-21-120456" name="image-maps-2015-11-21-120456"><span><area alt="Alnajah" coords="0,32,99,73" href="//www.alnajaheducation.com/" shape="rect" style="outline:none;" target="_blank" title="Alnajah"> <area alt="Horizon" coords="101,31,227,73" href="//www.alnajaheducation.com/" shape="rect" style="outline:none;" target="_blank" title="Horizon"></span></map></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="margin-bottom: 20px;text-align: center;">
+<p><font color="yellow">Managed By:</font><br>
+<a href="http://www.alnajaheducation.com" style="display: inline-block;" target="_blank"><img alt="" border="0" src="./img/about/HEAL-Logo.png"></a></p>
+</div>
+
+<div class="footer footer-section">
+<p><span>Our centres are licensed by the Early Childhood Development Agency (ECDA)</span> <span>© 2015 KidsKingdom Childcare, Singapore</span></p>
+</div>
+<!-- /.container --><!-- Bootstrap core JavaScript
+    ================================================== --><!-- Placed at the end of the document so the pages load faster --><script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script><script type="text/javascript" src="./assets/js/tabs.js"></script><script type="text/javascript" src="./assets/js/jQuery-rwdImageMaps.js"></script><script type="text/javascript" src="./assets/lib/bootstrapselect/bootstrap-select.min.js"></script><script>
+            $(document).ready(function(e) {
+                $('img[usemap]').rwdImageMaps();
+            });
+            $('.selectpicker').selectpicker({
+              size: false,
+              mobile:true
+            });
+
+        </script>
+</body></html>

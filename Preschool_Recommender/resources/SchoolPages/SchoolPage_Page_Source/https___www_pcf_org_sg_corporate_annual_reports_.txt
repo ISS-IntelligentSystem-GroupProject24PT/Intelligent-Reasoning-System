@@ -26,13 +26,13 @@
 
 <link rel="stylesheet" id="modernizer-css-css" href="https://www.pcf.org.sg/corporate/wp-content/themes/blankslate/assets/css/normalize.min.css" type="text/css" media="all">
 <link rel="stylesheet" id="swiper-css-css" href="https://www.pcf.org.sg/corporate/wp-content/themes/blankslate/assets/css/swiper-bundle.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="main-css-css" href="https://www.pcf.org.sg/corporate/wp-content/themes/blankslate/assets/css/main.css?v=1711769543" type="text/css" media="all">
+<link rel="stylesheet" id="main-css-css" href="https://www.pcf.org.sg/corporate/wp-content/themes/blankslate/assets/css/main.css?v=1711874912" type="text/css" media="all">
 <link rel="icon" href="https://www.pcf.org.sg/corporate/wp-content/uploads/2024/02/cropped-cropped-Picture1-1-32x32.png" sizes="32x32">
 <link rel="icon" href="https://www.pcf.org.sg/corporate/wp-content/uploads/2024/02/cropped-cropped-Picture1-1-192x192.png" sizes="192x192">
 <link rel="apple-touch-icon" href="https://www.pcf.org.sg/corporate/wp-content/uploads/2024/02/cropped-cropped-Picture1-1-180x180.png">
 <meta name="msapplication-TileImage" content="https://www.pcf.org.sg/corporate/wp-content/uploads/2024/02/cropped-cropped-Picture1-1-270x270.png">
  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-8TLTBE2W2H"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-8TLTBE2W2H'); </script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9">
-<script src="https://www.pcf.org.sg/corporate/wp-content/themes/blankslate/assets/js/api.js?v=1711769543"></script>
+<script src="https://www.pcf.org.sg/corporate/wp-content/themes/blankslate/assets/js/api.js?v=1711874912"></script>
 </head>
 <body class="page-template-default page page-id-218 wp-embed-responsive">
 <header>
@@ -338,7 +338,7 @@
 												<div class="s_wrapper">
                             <div class="s_tablinks">
                                 <article class="swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
-                                    <div class="swiper-wrapper" id="swiper-wrapper-1ce7514d16494480" aria-live="polite">
+                                    <div class="swiper-wrapper" id="swiper-wrapper-6783c09d7a268d104" aria-live="polite">
                                     	                                    	<div class="swiper-slide s_year v_selected swiper-slide-active" role="group" aria-label="1 / 3">
                                             <label for="id_tabcontent0_0" class="js_label" data-type="child">
                                                 <span data-span="2022">
@@ -422,7 +422,7 @@
 												<div class="s_wrapper">
                             <div class="s_tablinks">
                                 <article class="swiper swiper-initialized swiper-horizontal swiper-pointer-events">
-                                    <div class="swiper-wrapper" id="swiper-wrapper-78fb1d6e55a32177" aria-live="polite" style="transition-duration: 0ms;">
+                                    <div class="swiper-wrapper" id="swiper-wrapper-353c6876c44a4b28" aria-live="polite" style="transition-duration: 0ms;">
                                     	                                    	<div class="swiper-slide s_year  v_selected">
                                             <label for="id_tabcontent1_0" class="js_label" data-type="child">
                                                 <span data-span="2022">
@@ -778,6 +778,6 @@ Monday – Friday</p>
 <script type="text/javascript" src="https://www.pcf.org.sg/corporate/wp-content/themes/blankslate/assets/js/vendor/jquery.min.js" id="jquery-min-js"></script>
 <script type="text/javascript" src="https://www.pcf.org.sg/corporate/wp-content/themes/blankslate/assets/js/vendor/swiper-bundle.min.js" id="swiper-bundle-js-js"></script>
 <script type="text/javascript" src="https://www.pcf.org.sg/corporate/wp-content/themes/blankslate/assets/js/vendor/jquery.matchHeight-min.js" id="matchHeight-js-js"></script>
-<script type="text/javascript" src="https://www.pcf.org.sg/corporate/wp-content/themes/blankslate/assets/js/main.js?v=1711769543" id="main-js"></script>
+<script type="text/javascript" src="https://www.pcf.org.sg/corporate/wp-content/themes/blankslate/assets/js/main.js?v=1711874912" id="main-js"></script>
 
 </body></html>

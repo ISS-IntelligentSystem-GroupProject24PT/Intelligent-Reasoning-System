@@ -75,21 +75,21 @@
 	div.jsn-modulecontainer ul.menu-sidemenu ul ul {
 		margin-left: 199px;
 	}
-.jsn-themeslider-skitter-eGgjE .label_skitter {filter:alpha(opacity=75);opacity: 0.75;}.jsn-themeslider-skitter-eGgjE .label_skitter p.jsn-themeslider-caption-title {font-family: Verdana;
+.jsn-themeslider-skitter-zpPjF .label_skitter {filter:alpha(opacity=75);opacity: 0.75;}.jsn-themeslider-skitter-zpPjF .label_skitter p.jsn-themeslider-caption-title {font-family: Verdana;
 font-size: 12px;
 font-weight: bold;
 text-align: left;
-color: #E9E9E9;}.jsn-themeslider-skitter-eGgjE .label_skitter p.jsn-themeslider-caption-description {font-family: Arial;
+color: #E9E9E9;}.jsn-themeslider-skitter-zpPjF .label_skitter p.jsn-themeslider-caption-description {font-family: Arial;
 font-size: 11px;
 font-weight: normal;
 text-align: left;
-color: #AFAFAF;}.jsn-themeslider-skitter-eGgjE .label_skitter a.jsn-themeslider-caption-link {font-family: Verdana;
+color: #AFAFAF;}.jsn-themeslider-skitter-zpPjF .label_skitter a.jsn-themeslider-caption-link {font-family: Verdana;
 font-size: 11px;
 font-weight: bold;
 text-align: right;
-color: #E06614;}.jsn-themeslider-skitter-eGgjE .info_slide {top: 15px;}.jsn-themeslider-skitter-eGgjE .info_slide_dots {top: 15px;}
+color: #E06614;}.jsn-themeslider-skitter-zpPjF .info_slide {top: 15px;}.jsn-themeslider-skitter-zpPjF .info_slide_dots {top: 15px;}
 	</style>
-	<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-Z1Q87BGSKB&amp;l=dataLayer&amp;cx=c"></script><script type="application/json" class="joomla-script-options new" style="color: rgb(0, 0, 0);">{"csrf.token":"aa9d08bf90a8f5e1367df4d4bddee8f2","system.paths":{"root":"","base":""}}</script>
+	<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-Z1Q87BGSKB&amp;l=dataLayer&amp;cx=c"></script><script type="application/json" class="joomla-script-options new" style="color: rgb(0, 0, 0);">{"csrf.token":"606f4e688b03499f433f44225e8f019f","system.paths":{"root":"","base":""}}</script>
 	<script src="/media/jui/js/jquery.min.js?d21ad289b3bca541dd85ed8db477f7d0" type="text/javascript"></script>
 	<script src="/media/jui/js/jquery-noconflict.js?d21ad289b3bca541dd85ed8db477f7d0" type="text/javascript"></script>
 	<script src="/media/jui/js/jquery-migrate.min.js?d21ad289b3bca541dd85ed8db477f7d0" type="text/javascript"></script>
@@ -284,7 +284,7 @@ if (typeof jQuery != 'undefined' && typeof MooTools != 'undefined' ) {
 					<div id="jsn-promo" class="">
 				<div id="jsn-promo-inner" class="row-fluid">
 										<div id="jsn-pos-promo" class="span12 order1 ">
-							<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><!-- JSN IMAGESHOW PRO STANDARD 5.0.14 - Theme Slider 1.2.8 --><div class="jsn-container"><div class="jsn-gallery"><div id="jsn-themeslider-skitter-eGgjE"><div style="width: 100%; height: 292.125px;" class="box_skitter jsn-themeslider-gallery jsn-themeslider-skitter-eGgjE">
+							<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent"><!-- JSN IMAGESHOW PRO STANDARD 5.0.14 - Theme Slider 1.2.8 --><div class="jsn-container"><div class="jsn-gallery"><div id="jsn-themeslider-skitter-zpPjF"><div style="width: 100%; height: 292.125px;" class="box_skitter jsn-themeslider-gallery jsn-themeslider-skitter-zpPjF">
 <ul style="display: none;"><li>
 			   			<a href="javascript:void(0);">
 			   				<img src="https://www.catholickdg.com.sg/images/catholicKindergarten/homeAni06.jpg" title="homeAni06.jpg" alt="homeAni06.jpg" style="height: 292.125px;">
@@ -310,47 +310,47 @@ if (typeof jQuery != 'undefined' && typeof MooTools != 'undefined' ) {
 						jsnThemeSliderjQuery(function() {
 						jsnThemeSliderjQuery(document).ready(function(){
 							
-							var oldHTML = jsnThemeSliderjQuery('#jsn-themeslider-skitter-eGgjE').html();
-							var options = {"animation":"fade","navigation":true,"navShowOnMouseOver":true,"dots":false,"numbers":false,"caption_title_css":"font-family: Verdana;\r\nfont-size: 12px;\r\nfont-weight: bold;\r\ntext-align: left;\r\ncolor: #E9E9E9;","caption_description_css":"font-family: Arial;\r\nfont-size: 11px;\r\nfont-weight: normal;\r\ntext-align: left;\r\ncolor: #AFAFAF;","caption_link_css":"font-family: Verdana;\r\nfont-size: 11px;\r\nfont-weight: bold;\r\ntext-align: right;\r\ncolor: #E06614;","caption_position":"top","caption_caption_opacity":"filter:alpha(opacity=75);opacity: 0.75;","interval":6000,"controls":false,"stop_over":true,"auto_play":true,"caption_title_show":true,"caption_description_show":true,"caption_link_show":false,"label":false,"animateNumberActive":{"backgroundColor":"#CC3333","color":"#fff"},"click_action":"no_action","open_link_in":"current_browser","img_transparent_background":false,"velocity":"1","skitter_class_id":"jsn-themeslider-skitter-eGgjE"};
+							var oldHTML = jsnThemeSliderjQuery('#jsn-themeslider-skitter-zpPjF').html();
+							var options = {"animation":"fade","navigation":true,"navShowOnMouseOver":true,"dots":false,"numbers":false,"caption_title_css":"font-family: Verdana;\r\nfont-size: 12px;\r\nfont-weight: bold;\r\ntext-align: left;\r\ncolor: #E9E9E9;","caption_description_css":"font-family: Arial;\r\nfont-size: 11px;\r\nfont-weight: normal;\r\ntext-align: left;\r\ncolor: #AFAFAF;","caption_link_css":"font-family: Verdana;\r\nfont-size: 11px;\r\nfont-weight: bold;\r\ntext-align: right;\r\ncolor: #E06614;","caption_position":"top","caption_caption_opacity":"filter:alpha(opacity=75);opacity: 0.75;","interval":6000,"controls":false,"stop_over":true,"auto_play":true,"caption_title_show":true,"caption_description_show":true,"caption_link_show":false,"label":false,"animateNumberActive":{"backgroundColor":"#CC3333","color":"#fff"},"click_action":"no_action","open_link_in":"current_browser","img_transparent_background":false,"velocity":"1","skitter_class_id":"jsn-themeslider-skitter-zpPjF"};
 							options.base_height = 600;
-							jsnThemeSliderjQuery('.jsn-themeslider-skitter-eGgjE').skitter(options);
-							jsnThemeSliderjQuery('.jsn-themeslider-skitter-eGgjE .image_main').css("max-width", "");
-							var jsn_eGgjE = jsnThemeSliderjQuery(window).width();
+							jsnThemeSliderjQuery('.jsn-themeslider-skitter-zpPjF').skitter(options);
+							jsnThemeSliderjQuery('.jsn-themeslider-skitter-zpPjF .image_main').css("max-width", "");
+							var jsn_zpPjF = jsnThemeSliderjQuery(window).width();
 							var cacheResize;
 							jsnThemeSliderjQuery(window).resize(function (e) {
-								if (jsn_eGgjE != jsnThemeSliderjQuery(window).width())
+								if (jsn_zpPjF != jsnThemeSliderjQuery(window).width())
 								{
 									clearTimeout(cacheResize);
 									cacheResize = "";
-									var oldCacheIndex = jsnThemeSliderjQuery('#jsn-themeslider-skitter-eGgjE .cache_skitter_index').attr('value');
-									jsnThemeSliderjQuery('#jsn-themeslider-skitter-eGgjE').html(oldHTML);
+									var oldCacheIndex = jsnThemeSliderjQuery('#jsn-themeslider-skitter-zpPjF .cache_skitter_index').attr('value');
+									jsnThemeSliderjQuery('#jsn-themeslider-skitter-zpPjF').html(oldHTML);
 									
-									jsnThemeSliderjQuery('#jsn-themeslider-skitter-eGgjE .cache_skitter_index').attr('value', oldCacheIndex);
-									var options = {"animation":"fade","navigation":true,"navShowOnMouseOver":true,"dots":false,"numbers":false,"caption_title_css":"font-family: Verdana;\r\nfont-size: 12px;\r\nfont-weight: bold;\r\ntext-align: left;\r\ncolor: #E9E9E9;","caption_description_css":"font-family: Arial;\r\nfont-size: 11px;\r\nfont-weight: normal;\r\ntext-align: left;\r\ncolor: #AFAFAF;","caption_link_css":"font-family: Verdana;\r\nfont-size: 11px;\r\nfont-weight: bold;\r\ntext-align: right;\r\ncolor: #E06614;","caption_position":"top","caption_caption_opacity":"filter:alpha(opacity=75);opacity: 0.75;","interval":6000,"controls":false,"stop_over":true,"auto_play":true,"caption_title_show":true,"caption_description_show":true,"caption_link_show":false,"label":false,"animateNumberActive":{"backgroundColor":"#CC3333","color":"#fff"},"click_action":"no_action","open_link_in":"current_browser","img_transparent_background":false,"velocity":"1","skitter_class_id":"jsn-themeslider-skitter-eGgjE"};
+									jsnThemeSliderjQuery('#jsn-themeslider-skitter-zpPjF .cache_skitter_index').attr('value', oldCacheIndex);
+									var options = {"animation":"fade","navigation":true,"navShowOnMouseOver":true,"dots":false,"numbers":false,"caption_title_css":"font-family: Verdana;\r\nfont-size: 12px;\r\nfont-weight: bold;\r\ntext-align: left;\r\ncolor: #E9E9E9;","caption_description_css":"font-family: Arial;\r\nfont-size: 11px;\r\nfont-weight: normal;\r\ntext-align: left;\r\ncolor: #AFAFAF;","caption_link_css":"font-family: Verdana;\r\nfont-size: 11px;\r\nfont-weight: bold;\r\ntext-align: right;\r\ncolor: #E06614;","caption_position":"top","caption_caption_opacity":"filter:alpha(opacity=75);opacity: 0.75;","interval":6000,"controls":false,"stop_over":true,"auto_play":true,"caption_title_show":true,"caption_description_show":true,"caption_link_show":false,"label":false,"animateNumberActive":{"backgroundColor":"#CC3333","color":"#fff"},"click_action":"no_action","open_link_in":"current_browser","img_transparent_background":false,"velocity":"1","skitter_class_id":"jsn-themeslider-skitter-zpPjF"};
 									options.base_height = 600;
 									cacheResize = setTimeout(function () {
-										jsnThemeSliderjQuery('.jsn-themeslider-skitter-eGgjE').skitter(options);
-										jsnThemeSliderjQuery('.jsn-themeslider-skitter-eGgjE .image_main').css("max-width", "");
+										jsnThemeSliderjQuery('.jsn-themeslider-skitter-zpPjF').skitter(options);
+										jsnThemeSliderjQuery('.jsn-themeslider-skitter-zpPjF .image_main').css("max-width", "");
 									}, 500);
-									jsn_eGgjE = jsnThemeSliderjQuery(window).width();
+									jsn_zpPjF = jsnThemeSliderjQuery(window).width();
 								}
 							});
-							jQuery("#jsn-themeslider-skitter-eGgjE").parents("div.jsn-pagebuilder.pb-element-container.pb-element-tab").find("ul.nav-tabs li a").on("click", function (e) {
-								//if (jsn_eGgjE != jsnThemeSliderjQuery(window).width())
+							jQuery("#jsn-themeslider-skitter-zpPjF").parents("div.jsn-pagebuilder.pb-element-container.pb-element-tab").find("ul.nav-tabs li a").on("click", function (e) {
+								//if (jsn_zpPjF != jsnThemeSliderjQuery(window).width())
 								//{
 									clearTimeout(cacheResize);
 									cacheResize = "";
-									var oldCacheIndex = jsnThemeSliderjQuery('#jsn-themeslider-skitter-eGgjE .cache_skitter_index').attr('value');
-									jsnThemeSliderjQuery('#jsn-themeslider-skitter-eGgjE').html(oldHTML);
+									var oldCacheIndex = jsnThemeSliderjQuery('#jsn-themeslider-skitter-zpPjF .cache_skitter_index').attr('value');
+									jsnThemeSliderjQuery('#jsn-themeslider-skitter-zpPjF').html(oldHTML);
 									
-									jsnThemeSliderjQuery('#jsn-themeslider-skitter-eGgjE .cache_skitter_index').attr('value', oldCacheIndex);
-									var options = {"animation":"fade","navigation":true,"navShowOnMouseOver":true,"dots":false,"numbers":false,"caption_title_css":"font-family: Verdana;\r\nfont-size: 12px;\r\nfont-weight: bold;\r\ntext-align: left;\r\ncolor: #E9E9E9;","caption_description_css":"font-family: Arial;\r\nfont-size: 11px;\r\nfont-weight: normal;\r\ntext-align: left;\r\ncolor: #AFAFAF;","caption_link_css":"font-family: Verdana;\r\nfont-size: 11px;\r\nfont-weight: bold;\r\ntext-align: right;\r\ncolor: #E06614;","caption_position":"top","caption_caption_opacity":"filter:alpha(opacity=75);opacity: 0.75;","interval":6000,"controls":false,"stop_over":true,"auto_play":true,"caption_title_show":true,"caption_description_show":true,"caption_link_show":false,"label":false,"animateNumberActive":{"backgroundColor":"#CC3333","color":"#fff"},"click_action":"no_action","open_link_in":"current_browser","img_transparent_background":false,"velocity":"1","skitter_class_id":"jsn-themeslider-skitter-eGgjE"};
+									jsnThemeSliderjQuery('#jsn-themeslider-skitter-zpPjF .cache_skitter_index').attr('value', oldCacheIndex);
+									var options = {"animation":"fade","navigation":true,"navShowOnMouseOver":true,"dots":false,"numbers":false,"caption_title_css":"font-family: Verdana;\r\nfont-size: 12px;\r\nfont-weight: bold;\r\ntext-align: left;\r\ncolor: #E9E9E9;","caption_description_css":"font-family: Arial;\r\nfont-size: 11px;\r\nfont-weight: normal;\r\ntext-align: left;\r\ncolor: #AFAFAF;","caption_link_css":"font-family: Verdana;\r\nfont-size: 11px;\r\nfont-weight: bold;\r\ntext-align: right;\r\ncolor: #E06614;","caption_position":"top","caption_caption_opacity":"filter:alpha(opacity=75);opacity: 0.75;","interval":6000,"controls":false,"stop_over":true,"auto_play":true,"caption_title_show":true,"caption_description_show":true,"caption_link_show":false,"label":false,"animateNumberActive":{"backgroundColor":"#CC3333","color":"#fff"},"click_action":"no_action","open_link_in":"current_browser","img_transparent_background":false,"velocity":"1","skitter_class_id":"jsn-themeslider-skitter-zpPjF"};
 									options.base_height = 600;
 									cacheResize = setTimeout(function () {
-										jsnThemeSliderjQuery('.jsn-themeslider-skitter-eGgjE').skitter(options);
-										jsnThemeSliderjQuery('.jsn-themeslider-skitter-eGgjE .image_main').css("max-width", "");
+										jsnThemeSliderjQuery('.jsn-themeslider-skitter-zpPjF').skitter(options);
+										jsnThemeSliderjQuery('.jsn-themeslider-skitter-zpPjF .image_main').css("max-width", "");
 									}, 500);
-									jsn_eGgjE = jsnThemeSliderjQuery(window).width();
+									jsn_zpPjF = jsnThemeSliderjQuery(window).width();
 								//}
 							});
 						})});
@@ -364,22 +364,22 @@ if (typeof jQuery != 'undefined' && typeof MooTools != 'undefined' ) {
 				<div id="jsn-pos-content-top-over" class="jsn-modulescontainer row-fluid">
 					<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><div class="jsn-modulecontent">
 <div class="jsn-mod-custom">
-	<p></p><div class="jsn-bootstrap3"><div id="FXxQAT" class=" row" style="padding-top:10px;padding-bottom:30px;padding-left:10px;padding-right:10px;"><div class="col-md-6 col-sm-6 col-xs-12"><div class="jsn-bootstrap3 jsn-pagebuilder pb-element-container pb-element-image"><img src="https://www.catholickdg.com.sg/images/catholicKindergarten/feature_CK.jpg" title="" alt="" class="img-thumbnail"></div><div class="pb-element-container pb-element-text text-pqkqoo"><div>
+	<p></p><div class="jsn-bootstrap3"><div id="Rh9DVZ" class=" row" style="padding-top:10px;padding-bottom:30px;padding-left:10px;padding-right:10px;"><div class="col-md-6 col-sm-6 col-xs-12"><div class="jsn-bootstrap3 jsn-pagebuilder pb-element-container pb-element-image"><img src="https://www.catholickdg.com.sg/images/catholicKindergarten/feature_CK.jpg" title="" alt="" class="img-thumbnail"></div><div class="pb-element-container pb-element-text text-qaacwb"><div>
 <h4><span style="color: #1a5fb3;">Enrolment Phase</span></h4>
 <p>Phase 1 – Strictly for siblings of current pupils only.<br>Phase 2 – Strictly for Catholics and siblings or children of former pupils only.<br>Phase 3 – Open to public (first come first serve basis).</p>
-<p></p></div></div></div><div class="col-md-6 col-sm-6 col-xs-12"><div class="jsn-bootstrap3 jsn-pagebuilder pb-element-container pb-element-image"><img src="https://www.catholickdg.com.sg/images/catholicKindergarten/feature_PSG.jpg" title="" alt="" class="img-thumbnail"></div><div class="pb-element-container pb-element-text text-zpdrbp"><div>
+<p></p></div></div></div><div class="col-md-6 col-sm-6 col-xs-12"><div class="jsn-bootstrap3 jsn-pagebuilder pb-element-container pb-element-image"><img src="https://www.catholickdg.com.sg/images/catholicKindergarten/feature_PSG.jpg" title="" alt="" class="img-thumbnail"></div><div class="pb-element-container pb-element-text text-gurwkd"><div>
 <h4><span style="color: #1a5fb3;">Parent Support Group (PSG)<br></span></h4>
 <p style="text-align: justify;">Parents play an important role in enriching their children’s learning as we believe that parents know their child best.<br><a href="/parent-support-group">Find out more &gt;</a></p>
-<p></p></div></div></div></div></div><div class="jsn-bootstrap3"><div id="VniWoe" class=" row" style="padding-top:10px;padding-bottom:20px;padding-left:10px;padding-right:10px;"><div class="col-md-3 col-sm-3 col-xs-12"><div class="jsn-bootstrap3 jsn-pagebuilder pb-element-container pb-element-image"><img src="https://www.catholickdg.com.sg/images/catholicKindergarten/feature_Uniform.jpg" title="" alt="" class="img-thumbnail"></div><div class="pb-element-container pb-element-text text-gumsti"><div>
+<p></p></div></div></div></div></div><div class="jsn-bootstrap3"><div id="EhVqkS" class=" row" style="padding-top:10px;padding-bottom:20px;padding-left:10px;padding-right:10px;"><div class="col-md-3 col-sm-3 col-xs-12"><div class="jsn-bootstrap3 jsn-pagebuilder pb-element-container pb-element-image"><img src="https://www.catholickdg.com.sg/images/catholicKindergarten/feature_Uniform.jpg" title="" alt="" class="img-thumbnail"></div><div class="pb-element-container pb-element-text text-fvnrpt"><div>
 <h4><span style="color: #1a5fb3;">Uniforms</span></h4>
 <p>School uniform and PE attire can be purchased from Catholic Kindergarten office at 15 Flower Road.</p>
-<p></p></div></div></div><div class="col-md-3 col-sm-3 col-xs-12"><div class="jsn-bootstrap3 jsn-pagebuilder pb-element-container pb-element-image"><img src="https://www.catholickdg.com.sg/images/catholicKindergarten/feature_Transport.jpg" title="" alt="" class="img-thumbnail"></div><div class="pb-element-container pb-element-text text-bmkiub"><div>
+<p></p></div></div></div><div class="col-md-3 col-sm-3 col-xs-12"><div class="jsn-bootstrap3 jsn-pagebuilder pb-element-container pb-element-image"><img src="https://www.catholickdg.com.sg/images/catholicKindergarten/feature_Transport.jpg" title="" alt="" class="img-thumbnail"></div><div class="pb-element-container pb-element-text text-jkeuhp"><div>
 <h4><span style="color: #1a5fb3;">Transport arrangement</span></h4>
 <p>For transport arrangement, please call the Catholic Kindergarten office at 6283-3821 for more information.</p>
-<p></p></div></div></div><div class="col-md-3 col-sm-3 col-xs-12"><div class="jsn-bootstrap3 jsn-pagebuilder pb-element-container pb-element-image"><img src="https://www.catholickdg.com.sg/images/catholicKindergarten/feature_SchoolHours.jpg" title="" alt="" class="img-thumbnail"></div><div class="pb-element-container pb-element-text text-ofyukc"><div>
+<p></p></div></div></div><div class="col-md-3 col-sm-3 col-xs-12"><div class="jsn-bootstrap3 jsn-pagebuilder pb-element-container pb-element-image"><img src="https://www.catholickdg.com.sg/images/catholicKindergarten/feature_SchoolHours.jpg" title="" alt="" class="img-thumbnail"></div><div class="pb-element-container pb-element-text text-gjusng"><div>
 <h4><span style="color: #1a5fb3;">School Hours</span></h4>
 <p>1st session: 8.00 - 11.00am<br>2nd session: 11.15am – 2.15pm</p>
-<p></p></div></div></div><div class="col-md-3 col-sm-3 col-xs-12"><div class="jsn-bootstrap3 jsn-pagebuilder pb-element-container pb-element-image"><img src="https://www.catholickdg.com.sg/images/catholicKindergarten/feature_MaristBros.jpg" title="" alt="" class="img-thumbnail"></div><div class="pb-element-container pb-element-text text-xcbeek"><div>
+<p></p></div></div></div><div class="col-md-3 col-sm-3 col-xs-12"><div class="jsn-bootstrap3 jsn-pagebuilder pb-element-container pb-element-image"><img src="https://www.catholickdg.com.sg/images/catholicKindergarten/feature_MaristBros.jpg" title="" alt="" class="img-thumbnail"></div><div class="pb-element-container pb-element-text text-qpllpf"><div>
 <h4 style="text-align: justify;"><span style="color: #1a5fb3;">About Catholic Kindergarten</span></h4>
 <p style="text-align: justify;">Established in 1970 and is run by the Marist Brothers. <br><a href="/about-us">Find out more &gt;</a></p>
 <p></p></div></div></div></div></div><p></p></div><div class="clearbreak"></div></div></div></div></div></div><div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><div class="jsn-modulecontent">
@@ -422,22 +422,22 @@ if (typeof jQuery != 'undefined' && typeof MooTools != 'undefined' ) {
 									<div id="jsn-pos-content-bottom-below" class="jsn-modulescontainer jsn-horizontallayout jsn-modulescontainer1 row-fluid">
 		            	<div class=" jsn-modulecontainer span12"><div class="jsn-modulecontainer_inner"><div><div><div class="jsn-modulecontent">
 <div class="jsn-mod-custom">
-	<div class="jsn-bootstrap3"><div id="n8Yzo6" class=" row" style="padding-top:0px;padding-bottom:0px;padding-left:0px;padding-right:0px;"><div class="col-md-12 col-sm-12 col-xs-12"><div class="jsn-bootstrap3 jsn-pagebuilder pb-element-container pb-element-testimonial  jsn-testimonials"><script type="text/javascript">
+	<div class="jsn-bootstrap3"><div id="FXeAg8" class=" row" style="padding-top:0px;padding-bottom:0px;padding-left:0px;padding-right:0px;"><div class="col-md-12 col-sm-12 col-xs-12"><div class="jsn-bootstrap3 jsn-pagebuilder pb-element-container pb-element-testimonial  jsn-testimonials"><script type="text/javascript">
 						(function($){
 							$(document).ready(function(){
-								if($('#testimonial_xMx2S7').length){
-									$('#testimonial_xMx2S7').carousel({
+								if($('#testimonial_7uZA1B').length){
+									$('#testimonial_7uZA1B').carousel({
 								      interval: 5000
 								    });
-									$('#testimonial_xMx2S7 .carousel-indicators li').each(function(i){
+									$('#testimonial_7uZA1B .carousel-indicators li').each(function(i){
 										$(this).on('click', function(){
-											$('#testimonial_xMx2S7').carousel(i);
+											$('#testimonial_7uZA1B').carousel(i);
 										});
 									});
 								}
 							});
 						})(jQuery)
-				</script><div class="carousel slide pb-testimonial" style="width:100%" id="testimonial_xMx2S7"> <div class="carousel-inner"><div class="item row active"><div class="pb-testimonial-item col-md-12 col-sm-12"><div class="pb-testimonial-box top"><div class="arrow"></div><div class="pb-testimonial-content"><p>Being first time parents, we have high expectation for our son’s development and learning journey. We have visited numerous popular preschools before we set our minds on Catholic Kindergarten...</p></div></div><div class="pb-testimonial-meta"><strong style="font-size: 14px;color: #000000" class="pb-testimonial-name">Parents of Aidan Seo Tho</strong><span class="pb-testimonial-jobtitle">From K1 Morning Glory A, 2018</span></div></div></div><div class="item row "><div class="pb-testimonial-item col-md-12 col-sm-12"><div class="pb-testimonial-box top"><div class="arrow"></div><div class="pb-testimonial-content"><p>Over the years, we have really come to appreciate their faith-based, interactive, progressive and character-building curriculum. Our children have benefited from their time there. They grew into confident and caring children, with an inquisitive minds and love for learning...</p></div></div><div class="pb-testimonial-meta"><strong style="font-size: 14px;color: #000000" class="pb-testimonial-name">Parents of Fernandez John-Paul Xaiver</strong><span class="pb-testimonial-jobtitle">From Nursery Rose A, 2018</span></div></div></div><div class="item row "><div class="pb-testimonial-item col-md-12 col-sm-12"><div class="pb-testimonial-box top"><div class="arrow"></div><div class="pb-testimonial-content"><p>My husband and I are incredibly blessed to have our daughter, Chen Kaiqin, Callie attended Catholic Kindergarten from 2014-2017. Throughout her 4 years with the school, she was well taken care of by the friendly and nurturing teaching staff...</p></div></div><div class="pb-testimonial-meta"><strong style="font-size: 12px;color: #000000" class="pb-testimonial-name">Parents of Callie Chen</strong><span class="pb-testimonial-jobtitle">Graduated in 2017</span></div></div></div></div> <ol class="carousel-indicators"><li class="active"></li><li></li><li></li></ol> </div></div></div></div></div></div><div class="clearbreak"></div></div></div></div></div></div>
+				</script><div class="carousel slide pb-testimonial" style="width:100%" id="testimonial_7uZA1B"> <div class="carousel-inner"><div class="item row active"><div class="pb-testimonial-item col-md-12 col-sm-12"><div class="pb-testimonial-box top"><div class="arrow"></div><div class="pb-testimonial-content"><p>Being first time parents, we have high expectation for our son’s development and learning journey. We have visited numerous popular preschools before we set our minds on Catholic Kindergarten...</p></div></div><div class="pb-testimonial-meta"><strong style="font-size: 14px;color: #000000" class="pb-testimonial-name">Parents of Aidan Seo Tho</strong><span class="pb-testimonial-jobtitle">From K1 Morning Glory A, 2018</span></div></div></div><div class="item row "><div class="pb-testimonial-item col-md-12 col-sm-12"><div class="pb-testimonial-box top"><div class="arrow"></div><div class="pb-testimonial-content"><p>Over the years, we have really come to appreciate their faith-based, interactive, progressive and character-building curriculum. Our children have benefited from their time there. They grew into confident and caring children, with an inquisitive minds and love for learning...</p></div></div><div class="pb-testimonial-meta"><strong style="font-size: 14px;color: #000000" class="pb-testimonial-name">Parents of Fernandez John-Paul Xaiver</strong><span class="pb-testimonial-jobtitle">From Nursery Rose A, 2018</span></div></div></div><div class="item row "><div class="pb-testimonial-item col-md-12 col-sm-12"><div class="pb-testimonial-box top"><div class="arrow"></div><div class="pb-testimonial-content"><p>My husband and I are incredibly blessed to have our daughter, Chen Kaiqin, Callie attended Catholic Kindergarten from 2014-2017. Throughout her 4 years with the school, she was well taken care of by the friendly and nurturing teaching staff...</p></div></div><div class="pb-testimonial-meta"><strong style="font-size: 12px;color: #000000" class="pb-testimonial-name">Parents of Callie Chen</strong><span class="pb-testimonial-jobtitle">Graduated in 2017</span></div></div></div></div> <ol class="carousel-indicators"><li class="active"></li><li></li><li></li></ol> </div></div></div></div></div></div><div class="clearbreak"></div></div></div></div></div></div>
 		            </div>
 						</div></div>
 				</div>

@@ -1,0 +1,430 @@
+<html lang="en-US" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths js_active  vc_desktop  vc_transform  vc_transform " style="height: auto; overflow: auto;"><head><meta name="google-site-verification" content="lNaggkm7QHxGruQ5X6TpXZkq2ChqM-fSMl-VJPO3X0U"> <!-- Google Tag Manager --> <div class="fit-vids-style" id="fit-vids-style" style="display: none;">­<style>                 .fluid-width-video-wrapper {                   width: 100%;                                position: relative;                         padding: 0;                      					 min-height: 1px;                         }                                                                                       .fluid-width-video-wrapper iframe,          .fluid-width-video-wrapper object,          .fluid-width-video-wrapper embed {             position: absolute;                         top: 0;                                     left: 0;                                    width: 100%;                                height: 100%;                            }                                         </style></div><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-NH24CX00RG&amp;cx=c&amp;_slc=1"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KM5XWKK"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KM5XWKK');</script> <!-- End Google Tag Manager --><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no"><link rel="profile" href="https://gmpg.org/xfn/11"><link rel="pingback" href="https://www.myworld.org.sg/xmlrpc.php"><title>M.Y World | Our Teaching-Learning Approach</title><link rel="stylesheet" id="siteground-optimizer-combined-css-300c3eb87832111993126053c950abc3" href="https://www.myworld.org.sg/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-300c3eb87832111993126053c950abc3.css" media="all"><meta name="robots" content="max-image-preview:large"><link rel="dns-prefetch" href="//fonts.googleapis.com"><link rel="alternate" type="application/rss+xml" title="M.Y World » Feed" href="https://www.myworld.org.sg/feed/"> <style id="rs-plugin-settings-inline-css" type="text/css"> #rs-demo-id {} </style> <style id="bridge-stylesheet-inline-css" type="text/css"> .page-id-96.disabled_footer_top .footer_top_holder, .page-id-96.disabled_footer_bottom .footer_bottom_holder { display: none;} </style> <style id="bridge-style-dynamic-responsive-inline-css" type="text/css"> table td {
+ padding: 0;
+ vertical-align: top;
+ text-align: left;
+}
+.header-widget td {
+ padding: 0 15px 0 0 !important;
+ line-height: 26px;
+ font-size: 15px;
+vertical-align: top;
+}
+.header_top {
+ line-height: 35px;
+ height: 35px;
+ padding-top: 5px;
+}
+.topi {margin-bottom: -7px;}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, p {
+ margin-bottom: 15px !important;
+}
+.color1, .color2, .color3 {
+ padding: 70px 30px;
+ border-radius: 10px;
+ min-height: 310px;
+}
+.color1 {
+ background: #eb127e;}
+ .color2 {
+ background: #19acdf;}
+ .color3 {
+ background: #c5c943;}
+.color1 h4, .color2 h4, .color3 h4, .color1 p, .color2 p, .color3 p {
+ color:#fff;
+}
+.footer_top h5 {
+ color: #fff;
+ text-transform: none;
+ font-size: 20px;
+ font-weight: 700;
+ letter-spacing: 0px;
+}
+.footer_bottom p, .footer_bottom span {
+ font-size: 13px;
+}  .drop_down .second .inner > ul, li.narrow .second .inner ul {
+ background-color: #fff;
+border-color:#fff;
+}
+.title.title_size_large h1 {
+ text-transform: none;
+ color: #fff;
+text-shadow: 1px 2px 10px#000;
+}
+ul {
+ margin-bottom: 20px;
+}
+.q_tabs .tabs-nav li a {
+ height: 20px;
+ line-height: 20px;
+ text-transform: none;
+ font-size: 19px;
+ color: #000;
+ letter-spacing: 0;
+ border-left: none;
+ padding: 10px 20px;
+}
+.q_tabs .tabs-nav li.active a {
+ color: #fff !important;
+ background: #f70683;
+ padding: 10px 25px !important;
+ border-radius: 10px;
+}
+.tabs-container table td {
+ padding-right: 10px;
+}
+input.wpcf7-form-control.wpcf7-date, input.wpcf7-form-control.wpcf7-number, input.wpcf7-form-control.wpcf7-quiz, input.wpcf7-form-control.wpcf7-text, select.wpcf7-form-control.wpcf7-select, textarea.wpcf7-form-control.wpcf7-textarea {
+ font-size: 14px;
+ background-color: #ededed;
+color:#000;
+margin: 5px 0 15px 0;
+}
+.wpcf7-submit {
+color: #19acdf !important;
+border: 1px solid #19acdf !important;
+ font-weight: 500 !important;
+}
+span.wpcf7-list-item {
+ margin: 0 0 20px 0;
+}
+#text-5 .wpcf7-email {
+ width: 75%;
+ float: left;
+ padding: 12px 10px;
+ margin: 0 10px 0 0;
+ background:  #fff;
+border: none;
+}
+#text-5 .wpcf7-submit {
+ border: none !important;
+ background-image: url(https://www.myworld.org.sg/wp-content/uploads/2020/02/submit.jpg?id=46) !important;
+ background-position: center !important;
+ background-repeat: no-repeat !important;
+ background-size: cover !important;
+ float: right;
+ width: 49px !important;
+ height: 45px !important;
+ padding: 0 !important;
+color: rgba(255, 255, 255, 0) !important;
+}
+div.wpcf7 input[type="file"] {
+ margin-bottom: 40px;
+ border: 1px solid #19acdf !important;
+ padding: 10px !important;
+}
+.socialicon img {
+ filter: grayscale(100%);
+padding-top: 2px;}
+.socialicon img:hover {
+ filter: grayscale(0%);
+}
+.mid {
+ padding: 0 0 0 7px;
+}
+#slider-1-slide-1-layer-0, #slider-1-slide-4-layer-0 {
+ font-family: 'candara' !important;
+ text-shadow: 1px 2px 8px #000;
+}
+#slider-1-slide-1-layer-1, slider-1-slide-4-layer-1{
+ font-family: 'candara' !important;}
+.cchover .vc-hoverbox-wrapper, .cchover .vc-hoverbox {
+ min-height: 510px;
+border-radius: 10px;
+}
+.cchover .vc-hoverbox-front-inner h2 {
+ color: #fff;
+text-shadow: 1px 2px 5px#454545;
+ font-size: 27px;
+ line-height: 32px;
+ text-align: ;
+ margin-top: 300px !important;
+}
+.cchover .vc-hoverbox-back-inner h2 {
+ color: #fff;
+ text-shadow: 1px 2px 5px #454545;
+ font-size: 22px;
+ line-height: 23px;
+ text-align: ;
+ margin-top: 255px !important;
+ margin-bottom: 10px !important;
+}
+.vc-hoverbox-block-inner p {
+ color: #fff;
+ text-align: left;
+ text-shadow: 1px 2px 5px #454545;
+ font-size: 16px;
+ line-height: 20px;
+}
+.vc-hoverbox-block-inner {
+ padding: 20px 20px 0 20px;
+}
+.vc-hoverbox-block-inner a {
+color:#fff;
+font-weight:bold;}
+.programmeicon img:hover {   filter:grayscale(70%);}
+.caroufredsel-direction-nav a i, .flex-direction-nav a i {
+color:  #909090;
+}
+#text-4 img {
+ filter: brightness(0) invert(1);
+}
+#text-4 img:hover { filter: grayscale(0%)}
+.footer_bottom p, .footer_bottom span {
+ line-height: 20px;
+ margin-top: 10px;
+}
+#slider-4-slide-5-layer-0, #slider-5-slide-6-layer-0, #slider-6-slide-7-layer-0, #slider-7-slide-8-layer-0, #slider-8-slide-9-layer-0, #slider-9-slide-10-layer-0, #slider-10-slide-11-layer-0, #slider-11-slide-12-layer-0, #slider-12-slide-13-layer-0, #slider-13-slide-14-layer-0, #slider-14-slide-15-layer-0, #slider-15-slide-16-layer-0, #slider-16-slide-17-layer-0, #slider-17-slide-19-layer-0 {
+ font-family: 'candara' !important;
+ text-shadow: 1px 2px 5px #454545;
+}
+.cinfo {
+ min-height: 138px;
+font-size:15px;
+}
+.footer_bottom a {
+ text-decoration: underline;
+}
+h4, .h4, h4 a, body.qode-overridden-elementors-fonts .elementor-widget-heading h4.elementor-heading-title {
+ margin-top: 30px !important;
+}
+.tbox {
+ background: #f2f2f2;
+ padding: 30px;
+ min-height: 600px;
+}
+.vc_text_separator.full {
+border-top: 1px solid  #19acdf;
+}
+.vc_text_separator.full div{
+ border: none !important;
+ color: #19acdf;
+background:#fff;
+ font-size: 21px;
+ padding: 0 10px 0 0;
+}
+.vc_text_separator.full {
+ margin-bottom: 10px !important;
+}
+.testimonials_c_holder .testimonial_content_inner {
+ padding: 0;
+}
+.testimonials_c_holder .flex-control-nav {
+ margin-top: 0;
+}
+.testimonial_author b {
+ color: #a9c942;
+ font-size: 15px;
+}
+.testimonials .testimonial_text_inner p {
+ line-height: 26px;
+ font-size: 17px;
+}
+.home .strong-view.wpmtst-default div {
+ border: none !important;
+text-align: center;
+}
+.page-id-137 .strong-view.wpmtst-default .wpmtst-testimonial-inner {
+ background: #f2f2f2 !important;
+ border: none !important;
+}
+@media only screen and (min-width: 992px) {
+.timage {
+margin-left:50px;}
+.ttext {
+margin-right:50px;}
+.qode_content_slider .flex-direction-nav .flex-prev {
+ left: 0;
+}
+.qode_content_slider .flex-direction-nav .flex-next {
+ right: 0;
+}
+}
+@media only screen and (max-width: 992px) {
+#text-3 {display:none;}
+.q_tabs .tabs-nav li a {
+ font-size: 14px;
+ border-left: 1px solid #000;
+ font-weight: 400;
+}
+}
+@media only screen and (min-width: 992px) {
+#text-7 {display:none;}
+.wpcf7-form .vc_col-sm-6, .wpcf7-form .vc_col-sm-12 {
+ padding-left: 10px;
+ padding-right: 10px;
+}
+.strong-view.wpmtst-default.controls-type-sides .wpmtst-testimonial-inner {
+ padding-left: 90px !important;
+ padding-right: 90px !important;
+}
+}
+nav.main_menu > ul > li > a {
+ padding: 0 8px;
+}
+.home .strong-view.wpmtst-default div {
+ border: none !important;
+ text-align: justify;
+}
+.wpmtst-testimonial-heading {
+ display: none;
+}
+ul {
+ list-style-position: outside;
+ margin-left: 20px;
+}
+.rfaq h5 {
+ color: #28AADA;
+ text-transform: none;
+ margin: 25px 0 8px !important;
+ font-size: 17px;
+ font-weight: 500;
+}
+.wpcf7-form ol {
+ margin-left: 30px;
+ margin-bottom: 20px;
+}
+.wpb_text_column a, .wpb_text_column p a {
+ color: #f70683;
+}
+.footer_top .container, .content .footer_bottom_holder .container {
+ background-color: #c5c943 !important;
+}
+.wpcf7 form.failed .wpcf7-response-output, .wpcf7 form.aborted .wpcf7-response-output {
+ color: #f00;
+}
+div.wpcf7-response-output {
+ clear: both;
+}
+.wpcf7-response-output {
+ color: #000 !important;
+} </style><link rel="stylesheet" id="bridge-style-handle-google-fonts-css" href="https://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C300italic%2C400italic%2C700italic&amp;subset=latin%2Clatin-ext&amp;ver=1.0.0" type="text/css" media="all"> <script type="text/javascript" src="https://www.myworld.org.sg/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script><link rel="https://api.w.org/" href="https://www.myworld.org.sg/wp-json/"><link rel="alternate" type="application/json" href="https://www.myworld.org.sg/wp-json/wp/v2/pages/96"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.myworld.org.sg/xmlrpc.php?rsd"><link rel="canonical" href="https://www.myworld.org.sg/our-teaching-learning-approach/"><link rel="shortlink" href="https://www.myworld.org.sg/?p=96"><link rel="alternate" type="application/json+oembed" href="https://www.myworld.org.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.myworld.org.sg%2Four-teaching-learning-approach%2F"><link rel="alternate" type="text/xml+oembed" href="https://www.myworld.org.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.myworld.org.sg%2Four-teaching-learning-approach%2F&amp;format=xml"><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."><meta name="generator" content="Powered by Slider Revolution 6.1.7 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."><link rel="icon" href="https://www.myworld.org.sg/wp-content/uploads/2021/01/cropped-favicon-myw-32x32.png" sizes="32x32"><link rel="icon" href="https://www.myworld.org.sg/wp-content/uploads/2021/01/cropped-favicon-myw-192x192.png" sizes="192x192"><link rel="apple-touch-icon" href="https://www.myworld.org.sg/wp-content/uploads/2021/01/cropped-favicon-myw-180x180.png"><meta name="msapplication-TileImage" content="https://www.myworld.org.sg/wp-content/uploads/2021/01/cropped-favicon-myw-270x270.png"> <script type="text/javascript">function setREVStartSize(e){ 
+ try { 
+ var pw = document.getElementById(e.c).parentNode.offsetWidth,
+ newh;
+ pw = pw===0 || isNaN(pw) ? window.innerWidth : pw;
+ e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+ e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+ e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+ e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+ e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+ e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+ e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0); 
+ if(e.layout==="fullscreen" || e.l==="fullscreen") 
+ newh = Math.max(e.mh,window.innerHeight); 
+ else{ 
+ e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+ for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1]; 
+ e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+ e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+ for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1]; 
+ var nl = new Array(e.rl.length),
+ ix = 0, 
+ sl; 
+ e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+ e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+ e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+ e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh; 
+ for (var i in e.rl) nl[i] = e.rl[i]<window.innerWidth ? 0 : e.rl[i];
+ sl = nl[0]; 
+ for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;} 
+ var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]); 
+ newh =  (e.type==="carousel" && e.justify==="true" ? e.gh[ix] : (e.gh[ix] * m)) + (e.tabh + e.thumbh);
+ } 
+ if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style")); 
+ document.getElementById(e.c).height = newh;
+ window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }"; 
+ } catch(e){
+ console.log("Failure at Presize of Slider:" + e)
+ } 
+ };</script> <style type="text/css" id="wp-custom-css"> .page-id-995 nav.main_menu {
+ display: none;
+}
+.page-id-995 .mobile_menu_button {
+ display: none;
+}
+.page-id-995 .footer_top {
+ display: none;
+}
+.page-id-995 .header-widget {
+ display: none;
+} </style> <noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><link rel="dns-prefetch" href="//myworld.org.sg" data-set-by="Speed Optimizer by SiteGround"><style>#rev_slider_8_1_wrapper { height: 278.8px }#rev_slider_2_2_wrapper { height: 230.45416666666665px }</style><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head><body class="page-template page-template-full_width page-template-full_width-php page page-id-96 bridge-core-2.1.1 qode-title-hidden qode_grid_1200 hide_top_bar_on_mobile_header qode-child-theme-ver-1.0.0 qode-theme-ver-19.8 qode-theme-bridge qode_header_in_grid wpb-js-composer js-comp-ver-6.1 vc_responsive qode-chrome" itemscope="" itemtype="http://schema.org/WebPage" style="height: auto; overflow: auto;"> <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KM5XWKK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) --><div class="wrapper"><div class="wrapper_inner"> <!-- Google Analytics start --> <!-- Google Analytics end --><header class="has_top scroll_header_top_area regular page_header"><div class="header_inner clearfix"><div class="header_top_bottom_holder"><div class="header_top clearfix" style=""><div class="container"><div class="container_inner clearfix"><div class="left"><div class="inner"></div></div><div class="right"><div class="inner"> <span class="q_social_icon_holder normal_social"><a itemprop="url" href="https://www.facebook.com/MYWorldPreschoolSG" target="_blank"><i class="qode_icon_font_awesome fa fa-facebook-f  simple_social" style=""></i></a></span><span class="q_social_icon_holder normal_social"><a itemprop="url" href="https://www.instagram.com/myworldpreschoolsg/?hl=en" target="_blank"><i class="qode_icon_font_awesome fa fa-instagram  simple_social" style=""></i></a></span><span class="q_social_icon_holder normal_social"><a itemprop="url" href="https://sg.linkedin.com/company/myworldpreschoolsg" target="_blank"><i class="qode_icon_font_awesome fa fa-linkedin  simple_social" style=""></i></a></span></div></div></div></div></div><div class="header_bottom clearfix" style=""><div class="container"><div class="container_inner clearfix"><div class="header_inner_left"><div class="mobile_menu_button"> <span> <i class="qode_icon_font_awesome fa fa-bars "></i> </span></div><div class="logo_wrapper"><div class="q_logo"> <a itemprop="url" href="https://www.myworld.org.sg/" style="height: 62px; visibility: visible;"> <img itemprop="image" class="normal" src="https://www.myworld.org.sg/wp-content/uploads/2020/02/logo.jpg" alt="Logo" style="height: 100%;"> <img itemprop="image" class="light" src="https://www.myworld.org.sg/wp-content/uploads/2020/02/logo.jpg" alt="Logo" style="height: 100%;"> <img itemprop="image" class="dark" src="https://www.myworld.org.sg/wp-content/uploads/2020/02/logo.jpg" alt="Logo" style="height: 100%;"> <img itemprop="image" class="sticky" src="https://www.myworld.org.sg/wp-content/uploads/2020/02/logo.jpg" alt="Logo" style="height: 100%;"> <img itemprop="image" class="mobile" src="https://www.myworld.org.sg/wp-content/uploads/2020/02/logo.jpg" alt="Logo" style="height: 100%;"> </a></div></div></div><div class="header_inner_right"><div class="side_menu_button_wrapper right"><div class="side_menu_button"></div></div></div><nav class="main_menu drop_down right"><ul id="menu-main-menu" class=""><li id="nav-menu-item-1477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="#" class=""><i class="menu_icon blank fa"></i><span>About Us</span><span class="plus"></span></a><div class="second" style="height: 0px;"><div class="inner"><ul><li id="nav-menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/about-us/" class=""><i class="menu_icon blank fa"></i><span>Who We Are</span><span class="plus"></span></a></li><li id="nav-menu-item-1543" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/leadership/" class=""><i class="menu_icon blank fa"></i><span>Leadership</span><span class="plus"></span></a></li><li id="nav-menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/annual-reports/" class=""><i class="menu_icon blank fa"></i><span>Annual Report &amp; Financials</span><span class="plus"></span></a></li></ul></div></div></li><li id="nav-menu-item-91" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children active has_sub narrow"><a href="#" class=" current "><i class="menu_icon blank fa"></i><span>Our Curriculum</span><span class="plus"></span></a><div class="second" style="height: 0px;"><div class="inner"><ul><li id="nav-menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/s-t-r-o-n-g-principles/" class=""><i class="menu_icon blank fa"></i><span>S.T.R.O.N.G. Principles</span><span class="plus"></span></a></li><li id="nav-menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-96 current_page_item "><a href="https://www.myworld.org.sg/our-teaching-learning-approach/" class=""><i class="menu_icon blank fa"></i><span>Our Teaching-Learning Approach</span><span class="plus"></span></a></li><li id="nav-menu-item-447" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/our-programmes/" class=""><i class="menu_icon blank fa"></i><span>Our Programmes</span><span class="plus"></span></a></li><li id="nav-menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/our-learning-environment/" class=""><i class="menu_icon blank fa"></i><span>Our Learning Environment</span><span class="plus"></span></a></li></ul></div></div></li><li id="nav-menu-item-739" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://www.myworld.org.sg/our-centres/" class=""><i class="menu_icon blank fa"></i><span>Our Centres</span><span class="plus"></span></a></li><li id="nav-menu-item-969" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="#" class=""><i class="menu_icon blank fa"></i><span>Resources</span><span class="plus"></span></a><div class="second" style="height: 0px;"><div class="inner"><ul><li id="nav-menu-item-1109" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/covid-19-guides/" class=""><i class="menu_icon blank fa"></i><span>COVID-19 Guides</span><span class="plus"></span></a></li><li id="nav-menu-item-1110" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/home-based-learning/" class=""><i class="menu_icon blank fa"></i><span>Home-Based Learning</span><span class="plus"></span></a></li><li id="nav-menu-item-967" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/my-stories/" class=""><i class="menu_icon blank fa"></i><span>M.Y Stories</span><span class="plus"></span></a></li><li id="nav-menu-item-1111" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/newsletter/" class=""><i class="menu_icon blank fa"></i><span>Newsletter</span><span class="plus"></span></a></li></ul></div></div></li><li id="nav-menu-item-134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="#" class=""><i class="menu_icon blank fa"></i><span>Parents’ Corner</span><span class="plus"></span></a><div class="second" style="height: 0px;"><div class="inner"><ul><li id="nav-menu-item-139" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/what-parents-say/" class=""><i class="menu_icon blank fa"></i><span>What Parents Say</span><span class="plus"></span></a></li><li id="nav-menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/parents-communications/" class=""><i class="menu_icon blank fa"></i><span>Parents Communications</span><span class="plus"></span></a></li><li id="nav-menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/parents-giveback/" class=""><i class="menu_icon blank fa"></i><span>Parents Giveback</span><span class="plus"></span></a></li></ul></div></div></li><li id="nav-menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://www.myworld.org.sg/careers/" class=""><i class="menu_icon blank fa"></i><span>Careers</span><span class="plus"></span></a></li><li id="nav-menu-item-1720" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"><a href="#" class=""><i class="menu_icon blank fa"></i><span>Contact</span><span class="plus"></span></a><div class="second" style="height: 0px;"><div class="inner"><ul><li id="nav-menu-item-171" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/contact-us/" class=""><i class="menu_icon blank fa"></i><span>Contact Us</span><span class="plus"></span></a></li><li id="nav-menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/faq/" class=""><i class="menu_icon blank fa"></i><span>FAQ</span><span class="plus"></span></a></li></ul></div></div></li><li id="nav-menu-item-570" class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a href="https://v2.taidii.com/enquiry/publicec/new/?hq=36oYBncS9pVYK9idoOp2usOgKVa-qtnQ6G1aNU5J3EM=&amp;temp_id=36oYBncS9pVYK9idoOp2usL2KzLJEI_7nvtXsOYHlfY=" class=""><i class="menu_icon fa-arrow-circle-right fa"></i><span>Register</span><span class="plus"></span></a></li></ul></nav><nav class="mobile_menu"><ul id="menu-main-menu-1" class=""><li id="mobile-menu-item-1477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=""><span>About Us</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span><ul class="sub_menu"><li id="mobile-menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/about-us/" class=""><span>Who We Are</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li><li id="mobile-menu-item-1543" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/leadership/" class=""><span>Leadership</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li><li id="mobile-menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/annual-reports/" class=""><span>Annual Report &amp; Financials</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li></ul></li><li id="mobile-menu-item-91" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children active has_sub"><a href="#" class=" current "><span>Our Curriculum</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span><ul class="sub_menu"><li id="mobile-menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/s-t-r-o-n-g-principles/" class=""><span>S.T.R.O.N.G. Principles</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li><li id="mobile-menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-96 current_page_item "><a href="https://www.myworld.org.sg/our-teaching-learning-approach/" class=""><span>Our Teaching-Learning Approach</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li><li id="mobile-menu-item-447" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/our-programmes/" class=""><span>Our Programmes</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li><li id="mobile-menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/our-learning-environment/" class=""><span>Our Learning Environment</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li></ul></li><li id="mobile-menu-item-739" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/our-centres/" class=""><span>Our Centres</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li><li id="mobile-menu-item-969" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=""><span>Resources</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span><ul class="sub_menu"><li id="mobile-menu-item-1109" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/covid-19-guides/" class=""><span>COVID-19 Guides</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li><li id="mobile-menu-item-1110" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/home-based-learning/" class=""><span>Home-Based Learning</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li><li id="mobile-menu-item-967" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/my-stories/" class=""><span>M.Y Stories</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li><li id="mobile-menu-item-1111" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/newsletter/" class=""><span>Newsletter</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li></ul></li><li id="mobile-menu-item-134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=""><span>Parents’ Corner</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span><ul class="sub_menu"><li id="mobile-menu-item-139" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/what-parents-say/" class=""><span>What Parents Say</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li><li id="mobile-menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/parents-communications/" class=""><span>Parents Communications</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li><li id="mobile-menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/parents-giveback/" class=""><span>Parents Giveback</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li></ul></li><li id="mobile-menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/careers/" class=""><span>Careers</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li><li id="mobile-menu-item-1720" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=""><span>Contact</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span><ul class="sub_menu"><li id="mobile-menu-item-171" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/contact-us/" class=""><span>Contact Us</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li><li id="mobile-menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.myworld.org.sg/faq/" class=""><span>FAQ</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li></ul></li><li id="mobile-menu-item-570" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://v2.taidii.com/enquiry/publicec/new/?hq=36oYBncS9pVYK9idoOp2usOgKVa-qtnQ6G1aNU5J3EM=&amp;temp_id=36oYBncS9pVYK9idoOp2usL2KzLJEI_7nvtXsOYHlfY=" class=""><span>Register</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li></ul></nav></div></div></div></div></div></header> <a id="back_to_top" href="#"> <span class="fa-stack"> <i class="qode_icon_font_awesome fa fa-arrow-up "></i> </span> </a><div class="content content_top_margin_none" style="min-height: 151px; padding-top: 0px;"><div class="content_inner  "><div class="full_width"><div class="full_width_inner"><div class="vc_row wpb_row section vc_row-fluid  grid_section" style=" text-align:left;"><div class=" section_inner clearfix"><div class="section_inner_margin clearfix"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <!-- START Our TeachingLearning Approach REVOLUTION SLIDER 6.1.7 --> <rs-fullwidth-wrap id="rev_slider_8_1_forcefullwidth" style="margin-top:0px;margin-bottom:0px;"><rs-module-wrap id="rev_slider_8_1_wrapper" data-source="gallery" style="background: transparent; padding: 0px; margin: 0px auto; position: absolute; overflow: visible; width: 779px; left: -6px; height: 283px;"><rs-module id="rev_slider_8_1" style="height: 283px; max-height: 697px; margin-top: 0px; margin-bottom: 0px;" data-version="6.1.7" data-idcheck="true" class="revslider-initialised rev_redraw_on_blurfocus" data-slideactive="rs-9"> <rs-slides style="visibility: visible; display: block; max-height: none; height: 100%; width: 100%; overflow: hidden;"> <rs-slide data-key="rs-9" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;" data-originalindex="1" data-origindex="0" data-description="" data-sba="" data-scroll-based="false" data-owidth="1920" data-oheight="697" data-ntrid="0" class="active-rs-slide" style="overflow: hidden; height: 100%; width: 100%; z-index: 20; visibility: inherit; opacity: 1;"><rs-sbg-px style="background-color: rgba(255, 255, 255, 0);"><rs-sbg-wrap data-owidth="1920" data-oheight="697" style="transform-origin: 50% 50% 0px; opacity: 1; visibility: inherit; top: 0px; left: 0px; transform: matrix(1, 0, 0, 1, 0, 0);"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img fetchpriority="high" decoding="async" src="//www.myworld.org.sg/wp-content/uploads/2020/02/DSC008811.jpg" title="DSC008811" width="1920" height="697" data-bg="p:center top;" class="rev-slidebg" data-no-retina="">--><rs-sbg src="https://www.myworld.org.sg/wp-content/uploads/2020/02/DSC008811.jpg" class="" data-bgcolor="transparent" style="background-color: transparent; background-repeat: no-repeat; background-image: url(&quot;https://www.myworld.org.sg/wp-content/uploads/2020/02/DSC008811.jpg&quot;); background-size: cover; background-position: center top; width: 100%; height: 100%; opacity: 1; top: 0px; left: 0px; visibility: inherit; z-index: 20;" data-src-rs-ref="https://www.myworld.org.sg/wp-content/uploads/2020/02/DSC008811.jpg"></rs-sbg></rs-sbg-wrap></rs-sbg-px>  <!--
+ --><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 166px; top: 244px; z-index: 5; visibility: visible;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; transform: matrix(1, 0, 0, 1, 0, 0); visibility: visible; overflow: hidden; transform-origin: 50% 50% 0px;"><rs-layer id="slider-8-slide-9-layer-0" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:c;y:c;yo:303px;" data-text="w:normal;s:70;l:95;fw:700;a:center;" data-dim="w:1101px;" data-basealign="slide" data-border="bor:50px,50px,0,0;" data-frame_0="x:100%;" data-frame_0_mask="u:t;" data-frame_1="sp:1000;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;" style="z-index: 5; background-color: rgb(42, 171, 220); font-family: Roboto; visibility: visible; text-align: center; line-height: 39px; letter-spacing: 0px; font-weight: 700; font-size: 28px; border-color: rgba(255, 255, 255, 0); border-style: none; margin: 0px; border-radius: 50px 50px 0px 0px; padding: 0px; color: rgb(255, 255, 255); text-decoration: none; white-space: normal; width: 447px; height: auto; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true">Our Teaching-Learning Approach </rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><!--
+--> </rs-slide> </rs-slides> <rs-progress class="rs-bottom" style="visibility: hidden !important; width: 0%;"></rs-progress> <rs-loader class="spinner0 " style="display: none;"><div class="dot1"></div><div class="dot2"></div><div class="bounce1"></div><div class="bounce2"></div><div class="bounce3"></div></rs-loader></rs-module>  <script type="text/javascript"> setREVStartSize({c: 'rev_slider_8_1',rl:[1240,1024,778,480],el:[697],gw:[1920],gh:[697],type:'standard',justify:'',layout:'fullwidth',mh:"0"});
+ var	revapi8,
+ tpj;
+ jQuery(function() {
+ tpj = jQuery;
+ if(tpj("#rev_slider_8_1").revolution == undefined){
+ revslider_showDoubleJqueryError("#rev_slider_8_1");
+ }else{
+ revapi8 = tpj("#rev_slider_8_1").show().revolution({
+ jsFileLocation:"//www.myworld.org.sg/wp-content/plugins/revslider/public/assets/js/",
+ sliderLayout:"fullwidth",
+ visibilityLevels:"1240,1024,778,480",
+ gridwidth:1920,
+ gridheight:697,
+ spinner:"spinner0",
+ editorheight:"697,768,960,720",
+ responsiveLevels:"1240,1024,778,480",
+ disableProgressBar:"on",
+ navigation: {
+ onHoverStop:false
+ },
+ fallbacks: {
+ allowHTML5AutoPlayOnAndroid:true
+ },
+ });
+ } 
+ }); </script> </rs-module-wrap><rs-fw-forcer style="height: 283px;"></rs-fw-forcer></rs-fullwidth-wrap> <!-- END REVOLUTION SLIDER --><div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"> <span class="empty_space_image"></span> </span></div><div class="wpb_text_column wpb_content_element "><div class="wpb_wrapper"><p>M.Y World adopts a learner-centred teaching approach that engages children’s learning through active participation (experiential) and exploration, inquiry and reflection. This approach to teaching builds on the assumption that what the children think and do is more important in determining what is learned than what the teacher does.</p><p>In the midst of the activities, the children will begin to acquire concepts, skills and dispositions that will develop them into team players, reflective inquirers, independent problem solvers, effective communicators and resilient individuals in life.</p></div></div><div class="vc_row wpb_row section vc_row-fluid vc_inner " style=" text-align:left;"><div class=" full_section_inner clearfix"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 15px"><span class="vc_empty_space_inner"> <span class="empty_space_image"></span> </span></div><div class="wpb_text_column wpb_content_element "><div class="wpb_wrapper"><p><img decoding="async" class="alignnone wp-image-700" src="https://www.myworld.org.sg/wp-content/uploads/2020/10/PRO_EN-e1602581751423-1024x622.jpg" alt="" width="500" height="304" srcset="https://www.myworld.org.sg/wp-content/uploads/2020/10/PRO_EN-e1602581751423-1024x622.jpg 1024w, https://www.myworld.org.sg/wp-content/uploads/2020/10/PRO_EN-e1602581751423-300x182.jpg 300w, https://www.myworld.org.sg/wp-content/uploads/2020/10/PRO_EN-e1602581751423-768x467.jpg 768w, https://www.myworld.org.sg/wp-content/uploads/2020/10/PRO_EN-e1602581751423-1536x933.jpg 1536w, https://www.myworld.org.sg/wp-content/uploads/2020/10/PRO_EN-e1602581751423-700x425.jpg 700w, https://www.myworld.org.sg/wp-content/uploads/2020/10/PRO_EN-e1602581751423.jpg 1870w" sizes="(max-width: 500px) 100vw, 500px"></p></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 45px"><span class="vc_empty_space_inner"> <span class="empty_space_image"></span> </span></div><div class="wpb_text_column wpb_content_element "><div class="wpb_wrapper"><h4><u>“Provide-Respect-Observe” Curriculum (P-R-O)</u></h4><p>Designed for the <strong>0- to 3-year-olds</strong>, learning experiences focus on providing opportunities for the children to</p><ul><li>Learn through exploration</li><li>Build secure relationships with adults, peers and others</li><li>Interact in meaningful ways during uninterrupted play</li></ul></div></div></div></div></div></div></div><div class="separator  normal   qode-type1-gradient-left-to-right " style="background-color: #c4c842;height: 2px;"></div><div class="vc_row wpb_row section vc_row-fluid vc_inner " style=" text-align:left;"><div class=" full_section_inner clearfix"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 45px"><span class="vc_empty_space_inner"> <span class="empty_space_image"></span> </span></div><div class="wpb_text_column wpb_content_element "><div class="wpb_wrapper"><h4 style="text-align: left;"><u>“Wonder-Discover-Learn” Curriculum (W-D-L)</u></h4><p style="text-align: left;">Designed for the <strong>4- to 6-year-olds</strong>, learning experiences focus on providing the children with opportunities to</p><ul><li style="text-align: left;">Question and observe</li><li style="text-align: left;">Investigate and experiment</li><li style="text-align: left;">Reflect and talk about their learning</li><li style="text-align: left;">Apply what they have learned in a variety of contexts</li></ul></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_text_column wpb_content_element "><div class="wpb_wrapper"><p><img decoding="async" class="alignnone wp-image-772" src="https://www.myworld.org.sg/wp-content/uploads/2020/10/WDL_1-300x300.jpg" alt="" width="450" height="450" srcset="https://www.myworld.org.sg/wp-content/uploads/2020/10/WDL_1-300x300.jpg 300w, https://www.myworld.org.sg/wp-content/uploads/2020/10/WDL_1-1024x1024.jpg 1024w, https://www.myworld.org.sg/wp-content/uploads/2020/10/WDL_1-150x150.jpg 150w, https://www.myworld.org.sg/wp-content/uploads/2020/10/WDL_1-768x769.jpg 768w, https://www.myworld.org.sg/wp-content/uploads/2020/10/WDL_1-75x75.jpg 75w, https://www.myworld.org.sg/wp-content/uploads/2020/10/WDL_1-570x570.jpg 570w, https://www.myworld.org.sg/wp-content/uploads/2020/10/WDL_1-500x500.jpg 500w, https://www.myworld.org.sg/wp-content/uploads/2020/10/WDL_1-1000x1000.jpg 1000w, https://www.myworld.org.sg/wp-content/uploads/2020/10/WDL_1-700x700.jpg 700w, https://www.myworld.org.sg/wp-content/uploads/2020/10/WDL_1.jpg 1418w" sizes="(max-width: 450px) 100vw, 450px"></p></div></div></div></div></div></div></div><div class="separator  normal   qode-type1-gradient-left-to-right " style="background-color: #c4c842;height: 2px;"></div><div class="vc_row wpb_row section vc_row-fluid vc_inner " style=" text-align:left;"><div class=" full_section_inner clearfix"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_text_column wpb_content_element "><div class="wpb_wrapper"></div></div><div class="wpb_text_column wpb_content_element "><div class="wpb_wrapper"><p><img loading="lazy" decoding="async" class="alignnone wp-image-795" src="https://www.myworld.org.sg/wp-content/uploads/2020/10/EEE_En-1024x1024.jpg" alt="" width="450" height="450" srcset="https://www.myworld.org.sg/wp-content/uploads/2020/10/EEE_En-1024x1024.jpg 1024w, https://www.myworld.org.sg/wp-content/uploads/2020/10/EEE_En-300x300.jpg 300w, https://www.myworld.org.sg/wp-content/uploads/2020/10/EEE_En-150x150.jpg 150w, https://www.myworld.org.sg/wp-content/uploads/2020/10/EEE_En-768x769.jpg 768w, https://www.myworld.org.sg/wp-content/uploads/2020/10/EEE_En-75x75.jpg 75w, https://www.myworld.org.sg/wp-content/uploads/2020/10/EEE_En-570x570.jpg 570w, https://www.myworld.org.sg/wp-content/uploads/2020/10/EEE_En-500x500.jpg 500w, https://www.myworld.org.sg/wp-content/uploads/2020/10/EEE_En-1000x1000.jpg 1000w, https://www.myworld.org.sg/wp-content/uploads/2020/10/EEE_En-700x700.jpg 700w, https://www.myworld.org.sg/wp-content/uploads/2020/10/EEE_En.jpg 1418w" sizes="(max-width: 450px) 100vw, 450px"></p></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 70px"><span class="vc_empty_space_inner"> <span class="empty_space_image"></span> </span></div><div class="wpb_text_column wpb_content_element "><div class="wpb_wrapper"><h4><u>“Enjoy-Experience-Express” Curriculum (E-E-E)</u></h4><p>Designed for the learning of the Chinese, Malay and Tamil language, this cycle of planning focuses on providing the children with opportunities to</p><ul><li>Enjoy learning Mother Tongue Languages</li><li>Experience and become aware of the uniqueness of its language and culture</li><li>Express themselves effectively through the language</li></ul></div></div></div></div></div></div></div><div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"> <span class="empty_space_image"></span> </span></div><div class="wpb_text_column wpb_content_element "><div class="wpb_wrapper"><p>Based on our core curriculum approaches, learning experiences are purposefully curated to empower children to make meaningful connections across different learning areas and contexts. In this way, children are encouraged to pursue learning in a holistic manner that will lead them to develop learning dispositions and attitudes that will prepare them to be lifelong learners.</p></div></div></div></div></div></div></div></div><div class="vc_row wpb_row section vc_row-fluid " style=" text-align:left;"><div class=" full_section_inner clearfix"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <!-- START FOOTER REVOLUTION SLIDER 6.1.7 --> <rs-fullwidth-wrap id="rev_slider_2_2_forcefullwidth" style="margin-top:0px;margin-bottom:0px;"><rs-module-wrap id="rev_slider_2_2_wrapper" data-source="gallery" style="background: transparent; padding: 0px; margin: 0px auto; position: absolute; overflow: visible; width: 779px; left: 0px; height: 230px;"><rs-module id="rev_slider_2_2" style="height: 230px; max-height: 568px; margin-top: 0px; margin-bottom: 0px;" data-version="6.1.7" data-idcheck="true" class="revslider-initialised rev_redraw_on_blurfocus" data-slideactive="rs-2"> <rs-slides style="visibility: visible; display: block; max-height: none; height: 100%; width: 100%; overflow: hidden;"> <rs-slide data-key="rs-2" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;" data-originalindex="1" data-origindex="0" data-description="" data-sba="" data-scroll-based="false" data-owidth="1920" data-oheight="568" data-ntrid="0" class="active-rs-slide" style="overflow: hidden; height: 100%; width: 100%; z-index: 20; visibility: inherit; opacity: 1;"><rs-sbg-px style="background-color: rgba(255, 255, 255, 0);"><rs-sbg-wrap data-owidth="1920" data-oheight="568" style="transform-origin: 50% 50% 0px; opacity: 1; visibility: inherit; top: 0px; left: 0px; transform: matrix(1, 0, 0, 1, 0, 0);"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img loading="lazy" decoding="async" src="//www.myworld.org.sg/wp-content/uploads/2020/02/tree.jpg" title="tree" width="1920" height="568" data-bg="p:center top;" class="rev-slidebg" data-no-retina="">--><rs-sbg src="https://www.myworld.org.sg/wp-content/uploads/2020/02/tree.jpg" class="" data-bgcolor="transparent" style="background-color: transparent; background-repeat: no-repeat; background-image: url(&quot;https://www.myworld.org.sg/wp-content/uploads/2020/02/tree.jpg&quot;); background-size: cover; background-position: center top; width: 100%; height: 100%; opacity: 1; top: 0px; left: 0px; visibility: inherit; z-index: 20;" data-src-rs-ref="https://www.myworld.org.sg/wp-content/uploads/2020/02/tree.jpg"></rs-sbg></rs-sbg-wrap></rs-sbg-px>  <!----> </rs-slide> </rs-slides> <rs-progress class="rs-bottom" style="visibility: hidden !important; width: 0%;"></rs-progress> <rs-loader class="spinner0 " style="display: none;"><div class="dot1"></div><div class="dot2"></div><div class="bounce1"></div><div class="bounce2"></div><div class="bounce3"></div></rs-loader></rs-module>  <script type="text/javascript"> setREVStartSize({c: 'rev_slider_2_2',rl:[1240,1024,778,480],el:[568],gw:[1920],gh:[568],type:'standard',justify:'',layout:'fullwidth',mh:"0"});
+ var	revapi2,
+ tpj;
+ jQuery(function() {
+ tpj = jQuery;
+ if(tpj("#rev_slider_2_2").revolution == undefined){
+ revslider_showDoubleJqueryError("#rev_slider_2_2");
+ }else{
+ revapi2 = tpj("#rev_slider_2_2").show().revolution({
+ jsFileLocation:"//www.myworld.org.sg/wp-content/plugins/revslider/public/assets/js/",
+ sliderLayout:"fullwidth",
+ visibilityLevels:"1240,1024,778,480",
+ gridwidth:1920,
+ gridheight:568,
+ spinner:"spinner0",
+ editorheight:"568,768,960,720",
+ responsiveLevels:"1240,1024,778,480",
+ disableProgressBar:"on",
+ stopAtSlide:1,
+ stopAfterLoops:0,
+ stopLoop:true,
+ navigation: {
+ onHoverStop:false
+ },
+ fallbacks: {
+ allowHTML5AutoPlayOnAndroid:true
+ },
+ });
+ } 
+ }); </script> </rs-module-wrap><rs-fw-forcer style="height: 230px;"></rs-fw-forcer></rs-fullwidth-wrap> <!-- END REVOLUTION SLIDER --></div></div></div></div></div></div></div></div></div><footer><div class="footer_inner clearfix"><div class="footer_top_holder"><div class="footer_top"><div class="container"><div class="container_inner"><div class="two_columns_50_50 clearfix"><div class="column1 footer_col1"><div class="column_inner"><div id="text-3" class="widget widget_text"><h5>Contact us</h5><div class="textwidget"><table border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="2" width="66"><a href="https://www.google.com/maps/place/Metropolitan+YMCA/@1.3163293,103.8300615,15.27z/data=!4m8!3m7!1s0x0:0xb8923741f5d55fd6!5m2!4m1!1i2!8m2!3d1.3164438!4d103.8265488"><img loading="lazy" decoding="async" class="size-full wp-image-17 alignnone" src="https://www.myworld.org.sg/wp-content/uploads/2020/02/footer-add.jpg" alt="" width="66" height="69"></a></td><td rowspan="2"><a href="https://www.google.com/maps/place/Metropolitan+YMCA/@1.3163293,103.8300615,15.27z/data=!4m8!3m7!1s0x0:0xb8923741f5d55fd6!5m2!4m1!1i2!8m2!3d1.3164438!4d103.8265488" target="_blank" rel="noopener">60 Stevens Road</a><br> <a href="https://www.google.com/maps/place/Metropolitan+YMCA/@1.3163293,103.8300615,15.27z/data=!4m8!3m7!1s0x0:0xb8923741f5d55fd6!5m2!4m1!1i2!8m2!3d1.3164438!4d103.8265488" target="_blank" rel="noopener">Singapore 257854</a></td><td width="66"><img loading="lazy" decoding="async" class="size-full wp-image-21 alignnone" src="https://www.myworld.org.sg/wp-content/uploads/2020/02/footer-tel.jpg" alt="" width="66" height="35"></td><td><a href="tel:+65-6839-7688" target="_blank" rel="noopener">+65 6839 7688</a></td></tr><tr><td><img loading="lazy" decoding="async" class="size-full wp-image-18 alignnone" src="https://www.myworld.org.sg/wp-content/uploads/2020/02/footer-email.jpg" alt="" width="66" height="31"></td><td><a href="mailto:enquiry@myworld.org.sg" target="_blank" rel="noopener"><span class="topt">enquiry@myworld.org.sg</span></a></td></tr></tbody></table></div></div><div id="text-7" class="widget widget_text"><div class="textwidget"><table border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="66"><img loading="lazy" decoding="async" class="size-full wp-image-17 alignnone" src="https://www.myworld.org.sg/wp-content/uploads/2020/02/footer-add.jpg" alt="" width="66" height="69"></td><td><a href="https://www.google.com/maps/place/Metropolitan+YMCA/@1.3163293,103.8300615,15.27z/data=!4m8!3m7!1s0x0:0xb8923741f5d55fd6!5m2!4m1!1i2!8m2!3d1.3164438!4d103.8265488">60 Stevens Road</a><br> <a href="https://www.google.com/maps/place/Metropolitan+YMCA/@1.3163293,103.8300615,15.27z/data=!4m8!3m7!1s0x0:0xb8923741f5d55fd6!5m2!4m1!1i2!8m2!3d1.3164438!4d103.8265488">Singapore 257854</a></td></tr><tr><td><img loading="lazy" decoding="async" class="size-full wp-image-21 alignnone" src="https://www.myworld.org.sg/wp-content/uploads/2020/02/footer-tel.jpg" alt="" width="66" height="35"></td><td><a href="tel:+65-6839-7688" target="_blank" rel="noopener"><span class="topt">+65 6839 7688</span></a></td></tr><tr><td><img loading="lazy" decoding="async" class="size-full wp-image-18 alignnone" src="https://www.myworld.org.sg/wp-content/uploads/2020/02/footer-email.jpg" alt="" width="66" height="31"></td><td><a href="mailto:enquiry@myworld.org.sg"><span class="topt">enquiry@myworld.org.sg<br> </span></a></td></tr></tbody></table></div></div></div></div><div class="column2"><div class="column_inner"><div class="two_columns_50_50 clearfix"><div class="column1 footer_col2"><div class="column_inner"><div id="text-4" class="widget widget_text"><div class="textwidget"><p>&nbsp;</p></div></div></div></div><div class="column2 footer_col3"><div class="column_inner"><div id="text-5" class="widget widget_text"><h5>Connect with us</h5><div class="textwidget"><p data-wp-editing="1"><a href="https://www.facebook.com/MYWorldPreschoolSG/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-1342" src="https://www.myworld.org.sg/wp-content/uploads/2022/01/SM-icons-01.png" alt="" width="35" height="35"></a> <a href="https://www.instagram.com/myworldpreschoolsg/?hl=en" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-1343" src="https://www.myworld.org.sg/wp-content/uploads/2022/01/SM-icons-02.png" alt="" width="35" height="35"></a>&nbsp; &nbsp;<a href="https://sg.linkedin.com/company/myworldpreschoolsg" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-1388" src="https://www.myworld.org.sg/wp-content/uploads/2022/03/SM-icons-04.png" alt="" width="34" height="33" data-wp-editing="1"></a></p></div></div></div></div></div></div></div></div></div></div></div></div><div class="footer_bottom_holder"><div style="background-color: #ffffff;height: 1px" class="footer_bottom_border in_grid"></div><div class="container"><div class="container_inner"><div class="two_columns_50_50 footer_bottom_columns clearfix"><div class="column1 footer_bottom_column"><div class="column_inner"><div class="footer_bottom"><div class="textwidget"><p>A subsidiary of <a href="https://www.mymca.org.sg/" target="_blank" rel="noopener">Metropolitan YMCA Singapore</a><br> Copyright © 2022 MY World Preschool Ltd. All rights reserved.</p></div></div></div></div><div class="column2 footer_bottom_column"><div class="column_inner"><div class="footer_bottom"></div></div></div></div></div></div></div></div></footer></div></div> <script type="text/html" id="wpb-modifications"></script><link href="https://fonts.googleapis.com/css?family=Roboto:700%2C400" rel="stylesheet" property="stylesheet" media="all" type="text/css"> <script type="text/javascript" id="contact-form-7-js-extra"> /* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.myworld.org.sg\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */ </script> <script type="text/javascript" src="https://www.myworld.org.sg/wp-includes/js/dist/vendor/wp-polyfill.min.js" id="wp-polyfill-js"></script> <script type="text/javascript" src="https://www.myworld.org.sg/wp-includes/js/dist/hooks.min.js" id="wp-hooks-js"></script> <script type="text/javascript" src="https://www.myworld.org.sg/wp-includes/js/dist/i18n.min.js" id="wp-i18n-js"></script> <script type="text/javascript" id="wp-i18n-js-after"> /* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */ </script> <script type="text/javascript" id="jquery-ui-autocomplete-js-extra"> /* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */ </script> <script type="text/javascript" id="jquery-ui-datepicker-js-after"> /* <![CDATA[ */
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+/* ]]> */ </script> <script type="text/javascript" id="mediaelement-core-js-before"> /* <![CDATA[ */
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+/* ]]> */ </script> <script type="text/javascript" id="mediaelement-js-extra"> /* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+/* ]]> */ </script> <script type="text/javascript" id="bridge-default-js-extra"> /* <![CDATA[ */
+var QodeAdminAjax = {"ajaxurl":"https:\/\/www.myworld.org.sg\/wp-admin\/admin-ajax.php"};
+var qodeGlobalVars = {"vars":{"qodeAddingToCartLabel":"Adding to Cart...","page_scroll_amount_for_sticky":""}};
+/* ]]> */ </script> <script type="text/javascript" id="qode-like-js-extra"> /* <![CDATA[ */
+var qodeLike = {"ajaxurl":"https:\/\/www.myworld.org.sg\/wp-admin\/admin-ajax.php"};
+/* ]]> */ </script> <script type="text/javascript" id="wpcf7cf-scripts-js-extra"> /* <![CDATA[ */
+var wpcf7cf_global_settings = {"ajaxurl":"https:\/\/www.myworld.org.sg\/wp-admin\/admin-ajax.php"};
+/* ]]> */ </script> <script src="https://www.myworld.org.sg/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-86648ea39f78db67141a887ae70ee847.js"></script><p id="a11y-speak-intro-text" class="a11y-speak-intro-text" style="position: absolute;margin: -1px;padding: 0;height: 1px;width: 1px;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);border: 0;word-wrap: normal !important;" hidden="hidden">Notifications</p><div id="a11y-speak-assertive" class="a11y-speak-region" style="position: absolute;margin: -1px;padding: 0;height: 1px;width: 1px;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);border: 0;word-wrap: normal !important;" aria-live="assertive" aria-relevant="additions text" aria-atomic="true"></div><div id="a11y-speak-polite" class="a11y-speak-region" style="position: absolute;margin: -1px;padding: 0;height: 1px;width: 1px;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);border: 0;word-wrap: normal !important;" aria-live="polite" aria-relevant="additions text" aria-atomic="true"></div></body></html>

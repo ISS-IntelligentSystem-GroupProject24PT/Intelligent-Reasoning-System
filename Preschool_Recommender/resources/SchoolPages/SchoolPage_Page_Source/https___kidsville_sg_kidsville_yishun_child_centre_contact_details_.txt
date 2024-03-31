@@ -473,7 +473,7 @@ textarea:-ms-input-placeholder {
 <input type="hidden" name="frm_hide_fields_8" id="frm_hide_fields_8" value="">
 <input type="hidden" name="form_key" value="admission-inquiry">
 <input type="hidden" name="item_meta[0]" value="">
-<input type="hidden" id="frm_submit_entry_8" name="frm_submit_entry_8" value="ba186856e4"><input type="hidden" name="_wp_http_referer" value="/kidsville-yishun-child-centre-contact-details/"><div id="frm_field_84_container" class="frm_form_field form-field  frm_required_field frm_inside_container frm_first frm_full">
+<input type="hidden" id="frm_submit_entry_8" name="frm_submit_entry_8" value="a1f3f19e8c"><input type="hidden" name="_wp_http_referer" value="/kidsville-yishun-child-centre-contact-details/"><div id="frm_field_84_container" class="frm_form_field form-field  frm_required_field frm_inside_container frm_first frm_full">
     <label for="field_qh4icy23" id="field_qh4icy23_label" class="frm_primary_label">Parent's Name
         <span class="frm_required"></span>
     </label>
@@ -610,7 +610,7 @@ textarea:-ms-input-placeholder {
 				var et_animation_data = [{"class":"et_pb_fullwidth_header_0","style":"zoom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"5%","starting_opacity":"0%","speed_curve":"ease-in-out"}];
 				</script>
 	
-<div class="joinchat joinchat--right joinchat--show joinchat--tooltip" data-settings="{&quot;telephone&quot;:&quot;80227303&quot;,&quot;mobile_only&quot;:false,&quot;button_delay&quot;:3,&quot;whatsapp_web&quot;:false,&quot;message_views&quot;:2,&quot;message_delay&quot;:10,&quot;message_badge&quot;:false,&quot;message_send&quot;:&quot;&quot;,&quot;message_hash&quot;:&quot;&quot;}">
+<div class="joinchat joinchat--right" data-settings="{&quot;telephone&quot;:&quot;80227303&quot;,&quot;mobile_only&quot;:false,&quot;button_delay&quot;:3,&quot;whatsapp_web&quot;:false,&quot;message_views&quot;:2,&quot;message_delay&quot;:10,&quot;message_badge&quot;:false,&quot;message_send&quot;:&quot;&quot;,&quot;message_hash&quot;:&quot;&quot;}">
 	<div class="joinchat__button">
 		<div class="joinchat__button__open"></div>
 								<div class="joinchat__button__sendtext">Open chat</div>
@@ -626,7 +626,7 @@ textarea:-ms-input-placeholder {
 var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
 var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
 var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
-var et_pb_custom = {"ajaxurl":"https:\/\/kidsville.sg\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/kidsville.sg\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/kidsville.sg\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"dc7450b331","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"083f24f55f","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"256","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""};
+var et_pb_custom = {"ajaxurl":"https:\/\/kidsville.sg\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/kidsville.sg\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/kidsville.sg\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"46599a7d7a","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"6a6d0ccb18","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"256","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""};
 var et_pb_box_shadow_elements = [];
 /* ]]> */
 </script>
@@ -640,7 +640,7 @@ var et_pb_box_shadow_elements = [];
 <script type="text/javascript" src="https://kidsville.sg/wp-includes/js/wp-embed.min.js?ver=5.8.9" id="wp-embed-js"></script>
 <script type="text/javascript" id="formidable-js-extra">
 /* <![CDATA[ */
-var frm_js = {"ajax_url":"https:\/\/kidsville.sg\/wp-admin\/admin-ajax.php","images_url":"https:\/\/kidsville.sg\/wp-content\/plugins\/formidable\/images","loading":"Loading\u2026","remove":"Remove","offset":"4","nonce":"92d5cfe93d","id":"ID","no_results":"No results match","file_spam":"That file looks like Spam.","calc_error":"There is an error in the calculation in the field with key","empty_fields":"Please complete the preceding required fields before uploading a file."};
+var frm_js = {"ajax_url":"https:\/\/kidsville.sg\/wp-admin\/admin-ajax.php","images_url":"https:\/\/kidsville.sg\/wp-content\/plugins\/formidable\/images","loading":"Loading\u2026","remove":"Remove","offset":"4","nonce":"9b9d63b329","id":"ID","no_results":"No results match","file_spam":"That file looks like Spam.","calc_error":"There is an error in the calculation in the field with key","empty_fields":"Please complete the preceding required fields before uploading a file."};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://kidsville.sg/wp-content/plugins/formidable-pro/js/frm.min.js?ver=5.0.13" id="formidable-js"></script>

@@ -187,13 +187,13 @@
             <h3 class="head-border-default knewave-font green-font">Campus</h3>
             <div id="slider" class="flexslider kindergarten branch-slider">
                 
-            <div class="flex-viewport" style="overflow: hidden; position: relative;"><ul class="slides" style="width: 1600%; transition-duration: 0s; transform: translate3d(0px, 0px, 0px);">
+            <div class="flex-viewport" style="overflow: hidden; position: relative;"><ul class="slides" style="width: 1600%; transition-duration: 0.6s; transform: translate3d(-1440px, 0px, 0px);">
 
-                    <li style="background: url(&quot;img/bukit-slider-4.jpg&quot;) center center / cover no-repeat; width: 720px; margin-right: 0px; float: left; display: block;" class="flex-active-slide">
+                    <li style="background: url(&quot;img/bukit-slider-4.jpg&quot;) center center / cover no-repeat; width: 720px; margin-right: 0px; float: left; display: block;" class="">
                     </li>
-                    <li style="background: url(&quot;img/bukit-slider-2.jpg&quot;) center center / cover no-repeat; width: 720px; margin-right: 0px; float: left; display: block;">
+                    <li style="background: url(&quot;img/bukit-slider-2.jpg&quot;) center center / cover no-repeat; width: 720px; margin-right: 0px; float: left; display: block;" class="">
                     </li>
-                    <li style="background: url(&quot;img/bukit-slider-3.jpg&quot;) center center / cover no-repeat; width: 720px; margin-right: 0px; float: left; display: block;">
+                    <li style="background: url(&quot;img/bukit-slider-3.jpg&quot;) center center / cover no-repeat; width: 720px; margin-right: 0px; float: left; display: block;" class="flex-active-slide">
                     </li>
                     <li class="branch-slider-img bukit-slider-img-4" style="width: 720px; margin-right: 0px; float: left; display: block;"></li>
                     <li class="branch-slider-img bukit-slider-img-5" style="width: 720px; margin-right: 0px; float: left; display: block;"></li>
@@ -201,16 +201,16 @@
                     <li class="branch-slider-img bukit-slider-img-7" style="width: 720px; margin-right: 0px; float: left; display: block;"></li>
                     <li class="branch-slider-img bukit-slider-img-8" style="width: 720px; margin-right: 0px; float: left; display: block;"></li>
 
-                </ul></div><ul class="flex-direction-nav"><li class="flex-nav-prev"><a class="flex-prev flex-disabled" href="#" tabindex="-1">Previous</a></li><li class="flex-nav-next"><a class="flex-next" href="#">Next</a></li></ul></div>
+                </ul></div><ul class="flex-direction-nav"><li class="flex-nav-prev"><a class="flex-prev" href="#">Previous</a></li><li class="flex-nav-next"><a class="flex-next" href="#">Next</a></li></ul></div>
             <div id="carousel" class="flexslider kindergarten branch-slider-small">
                 
-            <div class="flex-viewport" style="overflow: hidden; position: relative;"><ul class="slides" style="width: 1600%; transition-duration: 0s; transform: translate3d(0px, 0px, 0px);">
+            <div class="flex-viewport" style="overflow: hidden; position: relative;"><ul class="slides" style="width: 1600%; transition-duration: 0.6s; transform: translate3d(0px, 0px, 0px);">
 
-                    <li style="background: url(&quot;img/bukit-slider-4.jpg&quot;) center center / cover no-repeat; width: 100px; margin-right: 5px; float: left; display: block;" class="flex-active-slide">
+                    <li style="background: url(&quot;img/bukit-slider-4.jpg&quot;) center center / cover no-repeat; width: 100px; margin-right: 5px; float: left; display: block;" class="">
                     </li>
-                    <li style="background: url(&quot;img/bukit-slider-2.jpg&quot;) center center / cover no-repeat; width: 100px; margin-right: 5px; float: left; display: block;">
+                    <li style="background: url(&quot;img/bukit-slider-2.jpg&quot;) center center / cover no-repeat; width: 100px; margin-right: 5px; float: left; display: block;" class="">
                     </li>
-                    <li style="background: url(&quot;img/bukit-slider-3.jpg&quot;) center center / cover no-repeat; width: 100px; margin-right: 5px; float: left; display: block;">
+                    <li style="background: url(&quot;img/bukit-slider-3.jpg&quot;) center center / cover no-repeat; width: 100px; margin-right: 5px; float: left; display: block;" class="flex-active-slide">
                     </li>
                     <li class="branch-slider-img bukit-slider-img-4" style="width: 100px; margin-right: 5px; float: left; display: block;"></li>
                     <li class="branch-slider-img bukit-slider-img-5" style="width: 100px; margin-right: 5px; float: left; display: block;"></li>
@@ -218,7 +218,7 @@
                     <li class="branch-slider-img bukit-slider-img-7" style="width: 100px; margin-right: 5px; float: left; display: block;"></li>
                     <li class="branch-slider-img bukit-slider-img-8" style="width: 100px; margin-right: 5px; float: left; display: block;"></li>
 
-                </ul></div><ul class="flex-direction-nav"><li class="flex-nav-prev"><a class="flex-prev flex-disabled" href="#" tabindex="-1">Previous</a></li><li class="flex-nav-next"><a class="flex-next" href="#">Next</a></li></ul></div>
+                </ul></div><ul class="flex-direction-nav"><li class="flex-nav-prev"><a class="flex-prev flex-disabled" href="#" tabindex="-1">Previous</a></li><li class="flex-nav-next"><a class="flex-next" href="#" tabindex="-1">Next</a></li></ul></div>
             </div>
         </div>
         </div>

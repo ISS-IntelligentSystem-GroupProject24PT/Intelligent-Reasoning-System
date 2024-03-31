@@ -234,7 +234,7 @@ gtag('config', 'UA-120746718-1');
 
                             </div>
 
-                        </div><div class="item slick-slide slick-current slick-active" data-slick-index="1" style="height: 533px; width: 779px; position: relative; left: -779px; top: 0px; z-index: 999; opacity: 1;" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide01">
+                        </div><div class="item slick-slide slick-current slick-active" data-slick-index="1" style="height: 533px; width: 779px; position: relative; left: -779px; top: 0px; z-index: 1000; opacity: 1; transition: opacity 500ms ease 0s;" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide01">
 
                         	<div class="bg" style="background-image: url(&quot;https://shenghong.org.sg/wp-content/gallery/home-slider/banner-1.jpg&quot;);"><img src="https://shenghong.org.sg/wp-content/gallery/home-slider/banner-1.jpg" alt="" class="bgimg"></div>
 
@@ -1085,7 +1085,7 @@ gtag('config', 'UA-120746718-1');
 
                             	
 
-                            <div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 22800px; transform: translate3d(-2850px, 0px, 0px);" role="listbox"><div class="item slick-slide slick-cloned" style="width: 190px;" data-slick-index="-2" aria-hidden="true" tabindex="-1">
+                            <div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 22800px; transform: translate3d(-950px, 0px, 0px); transition: transform 500ms ease 0s;" role="listbox"><div class="item slick-slide slick-cloned" style="width: 190px;" data-slick-index="-2" aria-hidden="true" tabindex="-1">
 
                                 	<figure><a href="https://shenghong.org.sg/child-protection-awareness/" class="imgeffect" tabindex="-1"><img src="https://shenghong.org.sg/wp-content/uploads/2017/07/img-22.jpg" alt=""></a></figure>
 
@@ -1123,23 +1123,23 @@ gtag('config', 'UA-120746718-1');
                                     Please note that the below workshops are face-to-face at 请注意，以下的工作坊是面对面在:&nbsp;8 Eu Tong Sen St, #23-92,&nbsp;The Central, Singapore 059818.&nbsp;请注意：这工作坊是由 Council for Third Age (C3A)监管的全国乐龄学苑 (NSA) 资助的活动 &nbsp;，因此报名需提供您的个人资料以供呈交报告C3A。Fee费用: $15.60&nbsp; Time 时间：930am – 1230pm English 中文 26/04 (Fri) https://forms.gle/Z8jhxkpTFvjwc75z8 16/04 (星期二) https://forms.gle/KbcF69rFDsTJasqh7 &nbsp;14/05 (Tue) https://forms.gle/QLvwmegnVukbe9uRA 15/05 (星期三)&nbsp; https://forms.gle/XLJ7c6zYyv6NeCmt7 &nbsp;18/06 (Tue) https://forms.gle/Tp2RK8YEzaLSvzjt7 21/06 (星期五)&nbsp; https://forms.gle/dAfkJgW72otpHpFq7
                                 </div><div class="item slick-slide" style="width: 190px;" data-slick-index="2" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide12">
 
-                                	<figure><a href="https://shenghong.org.sg/acp-nsa-workshop/" class="imgeffect" tabindex="-1"><img src="https://shenghong.org.sg/wp-content/uploads/2024/03/8.png" alt=""></a></figure>
+                                	<figure><a href="https://shenghong.org.sg/acp-nsa-workshop/" class="imgeffect" tabindex="0"><img src="https://shenghong.org.sg/wp-content/uploads/2024/03/8.png" alt=""></a></figure>
 
-                                    <h3><a href="https://shenghong.org.sg/acp-nsa-workshop/" tabindex="-1">ACP NSA Workshop 预先护理计划工作坊</a></h3>
+                                    <h3><a href="https://shenghong.org.sg/acp-nsa-workshop/" tabindex="0">ACP NSA Workshop 预先护理计划工作坊</a></h3>
 
                                     <p class="fa fa-calendar">22/02/24</p>
 
                                     Please note that the below workshops are face-to-face at 请注意，以下的工作坊是面对面在:&nbsp;175 MacPherson Road, Singapore 348537.&nbsp;请注意：这工作坊是由 Council for Third Age (C3A)监管的全国乐龄学苑 (NSA) 资助的活动 &nbsp;，因此报名需提供您的个人资料以供呈交报告C3A。Fee 费用： $27 Walking directions from Potong Pasir MRT 如何从波东巴西地铁站前往我们中心:&nbsp;https://youtu.be/1s0Yq4GJzY8 Directions from bus stop to our centre 如何从巴士站前往我们中心:&nbsp;https://youtu.be/BRwVBVklipk &nbsp; Advance Care Planning &amp; Advance Medical Directive 预先护理计划以及预先医疗指示 (ACP &amp; AMD) English&nbsp; 中文 08/04 (Mon) […]
-                                </div><div class="item slick-slide" style="width: 190px;" data-slick-index="3" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide13">
+                                </div><div class="item slick-slide slick-current slick-active" style="width: 190px;" data-slick-index="3" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide13">
 
-                                	<figure><a href="https://shenghong.org.sg/lpa-will-talk-mar-2024/" class="imgeffect" tabindex="-1"><img src="https://shenghong.org.sg/wp-content/uploads/2024/02/Flyer-of-Mar-2024-Educational-Talk-on-LPA-Will-Making.png" alt=""></a></figure>
+                                	<figure><a href="https://shenghong.org.sg/lpa-will-talk-mar-2024/" class="imgeffect" tabindex="0"><img src="https://shenghong.org.sg/wp-content/uploads/2024/02/Flyer-of-Mar-2024-Educational-Talk-on-LPA-Will-Making.png" alt=""></a></figure>
 
-                                    <h3><a href="https://shenghong.org.sg/lpa-will-talk-mar-2024/" tabindex="-1">持久授权书 (LPA) 及 遗嘱 教育讲座 (3月19日)</a></h3>
+                                    <h3><a href="https://shenghong.org.sg/lpa-will-talk-mar-2024/" tabindex="0">持久授权书 (LPA) 及 遗嘱 教育讲座 (3月19日)</a></h3>
 
                                     <p class="fa fa-calendar">19/02/24</p>
 
                                     日期：2024年3月19日 星期二 时间：9:30am-12:30pm 地点：福鼎遗嘱公司 (FortisWills) 8 Eu Tong Sen Street #23-92 The Central Office Tower 1 Singapore 059818 Clarke Quay 克拉码头 MRT Exit G 语言：华语 50岁及以上，新加坡公民/永久居民 讲座费用：$15.60 报名链接：https://forms.gle/NBqZ9wQm5FUf4qpc8 查询：98678446/62390936（毛先生)
-                                </div><div class="item slick-slide" style="width: 190px;" data-slick-index="4" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide14">
+                                </div><div class="item slick-slide slick-active" style="width: 190px;" data-slick-index="4" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide14">
 
                                 	<figure><a href="https://shenghong.org.sg/free-talks-%e5%85%8d%e8%b4%b9%e5%85%ac%e5%85%b1%e8%ae%b2%e5%ba%a7/" class="imgeffect" tabindex="-1"><img src="" alt=""></a></figure>
 
@@ -1220,20 +1220,20 @@ gtag('config', 'UA-120746718-1');
                                     <p class="fa fa-calendar">05/10/23</p>
 
                                     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Good news! Life Point will be offering Brain Stimulating workshop in English in the month of October 2023. This is the first time Life Point is offering this popular course to English-speaking seniors. We hope that more seniors can benefit from this course to keep their brains […]
-                                </div><div class="item slick-slide slick-current slick-active" style="width: 190px;" data-slick-index="13" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide113">
+                                </div><div class="item slick-slide" style="width: 190px;" data-slick-index="13" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide113">
 
-                                	<figure><a href="https://shenghong.org.sg/17088/" class="imgeffect" tabindex="0"><img src="https://shenghong.org.sg/wp-content/uploads/2023/10/Brain-Workshop-2023.png" alt=""></a></figure>
+                                	<figure><a href="https://shenghong.org.sg/17088/" class="imgeffect" tabindex="-1"><img src="https://shenghong.org.sg/wp-content/uploads/2023/10/Brain-Workshop-2023.png" alt=""></a></figure>
 
-                                    <h3><a href="https://shenghong.org.sg/17088/" tabindex="0">《玩出健康快乐的大脑》课程</a></h3>
+                                    <h3><a href="https://shenghong.org.sg/17088/" tabindex="-1">《玩出健康快乐的大脑》课程</a></h3>
 
                                     <p class="fa fa-calendar">05/10/23</p>
 
                                     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 快来参加11月份的“玩出健康快乐的大脑”课程，通过不同的游戏，锻炼您的大脑。‍ 您可通过以下链接或拨打电话 8321 2181 报名。 https://forms.gle/s3rNoE9zvi831Pxb8 名额有限!
-                                </div><div class="item slick-slide slick-active" style="width: 190px;" data-slick-index="14" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide114">
+                                </div><div class="item slick-slide" style="width: 190px;" data-slick-index="14" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide114">
 
-                                	<figure><a href="https://shenghong.org.sg/lpa_will_talk_chi_oct_2023/" class="imgeffect" tabindex="0"><img src="https://shenghong.org.sg/wp-content/uploads/2023/10/Oct-2023-Educational-Talk-in-LPA-Will-Making.png" alt=""></a></figure>
+                                	<figure><a href="https://shenghong.org.sg/lpa_will_talk_chi_oct_2023/" class="imgeffect" tabindex="-1"><img src="https://shenghong.org.sg/wp-content/uploads/2023/10/Oct-2023-Educational-Talk-in-LPA-Will-Making.png" alt=""></a></figure>
 
-                                    <h3><a href="https://shenghong.org.sg/lpa_will_talk_chi_oct_2023/" tabindex="0">持久授权书 (LPA) 及 遗嘱 教育讲座 (10月31日)</a></h3>
+                                    <h3><a href="https://shenghong.org.sg/lpa_will_talk_chi_oct_2023/" tabindex="-1">持久授权书 (LPA) 及 遗嘱 教育讲座 (10月31日)</a></h3>
 
                                     <p class="fa fa-calendar">03/10/23</p>
 

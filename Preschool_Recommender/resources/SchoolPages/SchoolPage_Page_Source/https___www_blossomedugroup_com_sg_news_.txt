@@ -253,7 +253,7 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
 
     <body data-rsssl="1" class="page-template page-template-promotion page-template-promotion-php page page-id-168 theme-blossom woocommerce-no-js" style="opacity: 1;">
 
-        <div id="wrapper" style="padding-bottom: 1359.38px; opacity: 1;">
+        <div id="wrapper" style="opacity: 1; padding-bottom: 1359.38px;">
             <!-- Header -->
             <header id="pageHeaderWrapper">
                 <div id="pageHeader-sticky-wrapper" class="sticky-wrapper" style="height: 84.7969px;"><div id="pageHeader">
@@ -412,13 +412,13 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
                             							                             							
                             							                             							
                             							                            
-                        <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 4500px; transform: translate3d(-1125px, 0px, 0px);"><div class="promotion-slide slick-slide slick-cloned" style="width: 375px;" data-slick-index="-2" id="" aria-hidden="true" tabindex="-1">
+                        <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 4500px; transform: translate3d(-1125px, 0px, 0px); transition: transform 1000ms ease 0s;"><div class="promotion-slide slick-slide slick-cloned" style="width: 375px;" data-slick-index="-2" id="" aria-hidden="true" tabindex="-1">
                                 <div class="promotion-box">
                                     <a href="https://www.blossomedugroup.com.sg/blossom-edugroup-honoured-as-promising-sme-500-2013/" tabindex="-1">
                                         <div class="promotion-box-img">
                                             <figure><img src="https://www.blossomedugroup.com.sg/wp-content/uploads/2023/03/Business-Times-on-21-Dec-2012.jpg" alt=""></figure>
                                         </div>
-                                        <div class="promotion-box-content" style="height: 297.969px;">
+                                        <div class="promotion-box-content" style="height: 297.984px;">
                                             <h5 style="height: 68px;">Blossom Edugroup Honoured as Promising SME 500 2013</h5>
                                             <p style="height: 103.984px;">The Promising SME 500 2013 is awarded by the Small Medium Business Association (SMBA). This prestigious award is the embodiment and expression of business success and recognition.</p>
                                             <span class="custom-button button-secondary">Learn More</span>
@@ -431,20 +431,20 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
                                         <div class="promotion-box-img">
                                             <figure><img src="https://www.blossomedugroup.com.sg/wp-content/uploads/2023/03/e-Profiling-382x600-1.jpg" alt=""></figure>
                                         </div>
-                                        <div class="promotion-box-content" style="height: 297.969px;">
+                                        <div class="promotion-box-content" style="height: 297.984px;">
                                             <h5 style="height: 68px;">Patent Granted to e-Profiling</h5>
                                             <p style="height: 103.984px;">The Promising SME 500 2013 is awarded by the Small Medium Business Association (SMBA). This prestigious award is the embodiment and expression of business success and recognition.</p>
                                             <span class="custom-button button-secondary">Learn More</span>
                                         </div>
                                     </a>
                                 </div>
-                            </div><div class="promotion-slide slick-slide" style="width: 375px;" data-slick-index="0" aria-hidden="true" tabindex="-1">
+                            </div><div class="promotion-slide slick-slide" style="width: 375px;" data-slick-index="0" aria-hidden="true" tabindex="0">
                                 <div class="promotion-box">
-                                    <a href="https://www.blossomedugroup.com.sg/%e6%95%99%e5%b8%88%e4%b8%8e%e5%b9%bc%e5%84%bf%e4%b9%8b%e9%97%b4%e7%9a%84%e8%af%ad%e8%a8%80%e6%b2%9f%e9%80%9a%e6%8a%80%e5%b7%a7/" tabindex="-1">
+                                    <a href="https://www.blossomedugroup.com.sg/%e6%95%99%e5%b8%88%e4%b8%8e%e5%b9%bc%e5%84%bf%e4%b9%8b%e9%97%b4%e7%9a%84%e8%af%ad%e8%a8%80%e6%b2%9f%e9%80%9a%e6%8a%80%e5%b7%a7/" tabindex="0">
                                         <div class="promotion-box-img">
                                             <figure><img src="https://www.blossomedugroup.com.sg/wp-content/uploads/2023/03/newsletter22-800x600-1.jpg" alt=""></figure>
                                         </div>
-                                        <div class="promotion-box-content" style="height: 297.969px;">
+                                        <div class="promotion-box-content" style="height: 297.984px;">
                                             <h5 style="height: 68px;">教师与幼儿之间的语言沟通技巧</h5>
                                             <p style="height: 103.984px;">幼儿在托儿所期间，他们所接受的教育和获得的知识大多来自于老师的口耳相传。老师对幼儿是以语言指导为主，并采用示范和演示的方式。在此过程中老师和幼儿沟通时的语言技巧是非常重要的。</p>
                                             <span class="custom-button button-secondary">Learn More</span>
@@ -457,20 +457,20 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
                                         <div class="promotion-box-img">
                                             <figure><img src="https://www.blossomedugroup.com.sg/wp-content/uploads/2023/03/Live_spelling_activity1-1.jpg" alt=""></figure>
                                         </div>
-                                        <div class="promotion-box-content" style="height: 297.969px;">
+                                        <div class="promotion-box-content" style="height: 297.984px;">
                                             <h5 style="height: 68px;">Blending and Segmenting</h5>
                                             <p style="height: 103.984px;">An important aspect in a child’s language development is the development of  his/her phonological awareness. This is especially critical when the child is ready to embark on his/her reading journey.</p>
                                             <span class="custom-button button-secondary">Learn More</span>
                                         </div>
                                     </a>
                                 </div>
-                            </div><div class="promotion-slide slick-slide slick-active" style="width: 375px;" data-slick-index="2" aria-hidden="false" tabindex="0">
+                            </div><div class="promotion-slide slick-slide slick-active" style="width: 375px;" data-slick-index="2" aria-hidden="false" tabindex="-1">
                                 <div class="promotion-box">
-                                    <a href="https://www.blossomedugroup.com.sg/merit-award-2017-current-affairs-for-preschoolers/" tabindex="0">
+                                    <a href="https://www.blossomedugroup.com.sg/merit-award-2017-current-affairs-for-preschoolers/" tabindex="-1">
                                         <div class="promotion-box-img">
                                             <figure><img src="https://www.blossomedugroup.com.sg/wp-content/uploads/2023/03/ECDAConference-1-1.jpg" alt=""></figure>
                                         </div>
-                                        <div class="promotion-box-content" style="height: 297.969px;">
+                                        <div class="promotion-box-content" style="height: 297.984px;">
                                             <h5 style="height: 68px;">Merit Award 2017: Current Affairs for Preschoolers</h5>
                                             <p style="height: 103.984px;">In 2016, Blossom Educare Centre was awarded an Innovation Grant by the Early Childhood Development Agency (ECDA) to embark on the Innovation Project entitled “Current Affairs for Preschoolers”.</p>
                                             <span class="custom-button button-secondary">Learn More</span>
@@ -483,7 +483,7 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
                                         <div class="promotion-box-img">
                                             <figure><img src="https://www.blossomedugroup.com.sg/wp-content/uploads/2023/03/Business-Times-on-21-Dec-2012.jpg" alt=""></figure>
                                         </div>
-                                        <div class="promotion-box-content" style="height: 297.969px;">
+                                        <div class="promotion-box-content" style="height: 297.984px;">
                                             <h5 style="height: 68px;">Blossom Edugroup Honoured as Promising SME 500 2013</h5>
                                             <p style="height: 103.984px;">The Promising SME 500 2013 is awarded by the Small Medium Business Association (SMBA). This prestigious award is the embodiment and expression of business success and recognition.</p>
                                             <span class="custom-button button-secondary">Learn More</span>
@@ -496,7 +496,7 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
                                         <div class="promotion-box-img">
                                             <figure><img src="https://www.blossomedugroup.com.sg/wp-content/uploads/2023/03/e-Profiling-382x600-1.jpg" alt=""></figure>
                                         </div>
-                                        <div class="promotion-box-content" style="height: 297.969px;">
+                                        <div class="promotion-box-content" style="height: 297.984px;">
                                             <h5 style="height: 68px;">Patent Granted to e-Profiling</h5>
                                             <p style="height: 103.984px;">The Promising SME 500 2013 is awarded by the Small Medium Business Association (SMBA). This prestigious award is the embodiment and expression of business success and recognition.</p>
                                             <span class="custom-button button-secondary">Learn More</span>
@@ -509,7 +509,7 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
                                         <div class="promotion-box-img">
                                             <figure><img src="https://www.blossomedugroup.com.sg/wp-content/uploads/2023/03/newsletter22-800x600-1.jpg" alt=""></figure>
                                         </div>
-                                        <div class="promotion-box-content" style="height: 297.969px;">
+                                        <div class="promotion-box-content" style="height: 297.984px;">
                                             <h5 style="height: 68px;">教师与幼儿之间的语言沟通技巧</h5>
                                             <p style="height: 103.984px;">幼儿在托儿所期间，他们所接受的教育和获得的知识大多来自于老师的口耳相传。老师对幼儿是以语言指导为主，并采用示范和演示的方式。在此过程中老师和幼儿沟通时的语言技巧是非常重要的。</p>
                                             <span class="custom-button button-secondary">Learn More</span>
@@ -522,7 +522,7 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
                                         <div class="promotion-box-img">
                                             <figure><img src="https://www.blossomedugroup.com.sg/wp-content/uploads/2023/03/Live_spelling_activity1-1.jpg" alt=""></figure>
                                         </div>
-                                        <div class="promotion-box-content" style="height: 297.969px;">
+                                        <div class="promotion-box-content" style="height: 297.984px;">
                                             <h5 style="height: 68px;">Blending and Segmenting</h5>
                                             <p style="height: 103.984px;">An important aspect in a child’s language development is the development of  his/her phonological awareness. This is especially critical when the child is ready to embark on his/her reading journey.</p>
                                             <span class="custom-button button-secondary">Learn More</span>
@@ -535,7 +535,7 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
                                         <div class="promotion-box-img">
                                             <figure><img src="https://www.blossomedugroup.com.sg/wp-content/uploads/2023/03/ECDAConference-1-1.jpg" alt=""></figure>
                                         </div>
-                                        <div class="promotion-box-content" style="height: 297.969px;">
+                                        <div class="promotion-box-content" style="height: 297.984px;">
                                             <h5 style="height: 68px;">Merit Award 2017: Current Affairs for Preschoolers</h5>
                                             <p style="height: 103.984px;">In 2016, Blossom Educare Centre was awarded an Innovation Grant by the Early Childhood Development Agency (ECDA) to embark on the Innovation Project entitled “Current Affairs for Preschoolers”.</p>
                                             <span class="custom-button button-secondary">Learn More</span>
@@ -548,7 +548,7 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
                                         <div class="promotion-box-img">
                                             <figure><img src="https://www.blossomedugroup.com.sg/wp-content/uploads/2023/03/Business-Times-on-21-Dec-2012.jpg" alt=""></figure>
                                         </div>
-                                        <div class="promotion-box-content" style="height: 297.969px;">
+                                        <div class="promotion-box-content" style="height: 297.984px;">
                                             <h5 style="height: 68px;">Blossom Edugroup Honoured as Promising SME 500 2013</h5>
                                             <p style="height: 103.984px;">The Promising SME 500 2013 is awarded by the Small Medium Business Association (SMBA). This prestigious award is the embodiment and expression of business success and recognition.</p>
                                             <span class="custom-button button-secondary">Learn More</span>
@@ -561,7 +561,7 @@ src="https://www.facebook.com/tr?id=650602403013282&ev=PageView&noscript=1"
                                         <div class="promotion-box-img">
                                             <figure><img src="https://www.blossomedugroup.com.sg/wp-content/uploads/2023/03/e-Profiling-382x600-1.jpg" alt=""></figure>
                                         </div>
-                                        <div class="promotion-box-content" style="height: 297.969px;">
+                                        <div class="promotion-box-content" style="height: 297.984px;">
                                             <h5 style="height: 68px;">Patent Granted to e-Profiling</h5>
                                             <p style="height: 103.984px;">The Promising SME 500 2013 is awarded by the Small Medium Business Association (SMBA). This prestigious award is the embodiment and expression of business success and recognition.</p>
                                             <span class="custom-button button-secondary">Learn More</span>
@@ -777,7 +777,7 @@ var wpcf7 = {"api":{"root":"https:\/\/www.blossomedugroup.com.sg\/wp-json\/","na
 <script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://www.blossomedugroup.com.sg/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/js/codedropz-uploader-min.js?ver=1.3.6.5" id="codedropz-uploader-js"></script>
 <script type="text/javascript" id="dnd-upload-cf7-js-extra">
 /* <![CDATA[ */
-var dnd_cf7_uploader = {"ajax_url":"https:\/\/www.blossomedugroup.com.sg\/wp-admin\/admin-ajax.php","ajax_nonce":"b62e395411","drag_n_drop_upload":{"tag":"h5","text":"Drag & Drop Files Here","or_separator":"or","browse":"Browse Files","server_max_error":"The uploaded file exceeds the maximum upload size of your server.","large_file":"Uploaded file is too large","inavalid_type":"Uploaded file is not allowed for file type","max_file_limit":"Note : Some of the files are not uploaded ( Only %count% files allowed )","required":"This field is required.","delete":{"text":"deleting","title":"Remove"}},"dnd_text_counter":"of","disable_btn":""};
+var dnd_cf7_uploader = {"ajax_url":"https:\/\/www.blossomedugroup.com.sg\/wp-admin\/admin-ajax.php","ajax_nonce":"d1b39ecf7f","drag_n_drop_upload":{"tag":"h5","text":"Drag & Drop Files Here","or_separator":"or","browse":"Browse Files","server_max_error":"The uploaded file exceeds the maximum upload size of your server.","large_file":"Uploaded file is too large","inavalid_type":"Uploaded file is not allowed for file type","max_file_limit":"Note : Some of the files are not uploaded ( Only %count% files allowed )","required":"This field is required.","delete":{"text":"deleting","title":"Remove"}},"dnd_text_counter":"of","disable_btn":""};
 /* ]]> */
 </script>
 <script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" src="https://www.blossomedugroup.com.sg/wp-content/cache/min/1/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/js/dnd-upload-cf7.js?ver=1710993128" id="dnd-upload-cf7-js"></script>

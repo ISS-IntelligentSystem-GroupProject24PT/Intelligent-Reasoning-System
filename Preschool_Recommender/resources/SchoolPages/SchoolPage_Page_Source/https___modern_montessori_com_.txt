@@ -101,7 +101,7 @@ src="https://www.facebook.com/tr?id=461968070659920&ev=PageView&noscript=1" />
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+</script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
 
 <body class="home page-template page-template-100-width page-template-100-width-php page page-id-8 fusion-image-hovers fusion-body ltr fusion-sticky-header no-tablet-sticky-header no-mobile-sticky-header mobile-logo-pos-left layout-wide-mode fusion-top-header menu-text-align-left mobile-menu-design-modern fusion-show-pagination-text fusion-header-layout-v2 avada-responsive avada-footer-fx-none do-animate">
 				<div id="wrapper" class="" style="height: auto;">
@@ -150,10 +150,10 @@ src="https://www.facebook.com/tr?id=461968070659920&ev=PageView&noscript=1" />
 	<style type="text/css" scoped="scoped">
 		#fusion-slider-16 .flex-direction-nav a {width:63px;height:63px;line-height:63px;font-size:25px;}	</style>
 	
-	<div class="tfs-slider flexslider main-flex full-width-slider" style="max-width: 100%; height: 682px;" data-slider_width="100%" data-slider_height="700px" data-full_screen="0" data-parallax="1" data-nav_arrows="1" data-pagination_circles="0" data-autoplay="1" data-loop="1" data-animation="fade" data-slideshow_speed="4000" data-animation_speed="600" data-slider_content_width="" data-slider_indicator="" data-slider_indicator_color="#ffffff" data-nav_box_width="63px" data-nav_box_height="63px" data-nav_arrow_size="25px" data-orderby="date" data-order="DESC" data-typo_sensitivity="1" data-typo_factor="1.5" data-slider_id="16">
+	<div class="tfs-slider flexslider main-flex full-width-slider" style="max-width: 100%; height: 681.625px;" data-slider_width="100%" data-slider_height="700px" data-full_screen="0" data-parallax="1" data-nav_arrows="1" data-pagination_circles="0" data-autoplay="1" data-loop="1" data-animation="fade" data-slideshow_speed="4000" data-animation_speed="600" data-slider_content_width="" data-slider_indicator="" data-slider_indicator_color="#ffffff" data-nav_box_width="63px" data-nav_box_height="63px" data-nav_arrow_size="25px" data-orderby="date" data-order="DESC" data-typo_sensitivity="1" data-typo_factor="1.5" data-slider_id="16">
 		<ul class="slides" style="max-width:100%;">
-															<li data-mute="yes" data-loop="yes" data-autoplay="yes" class="" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;">
-					<div class="slide-content-container slide-content-left" style="display: none;">
+															<li data-mute="yes" data-loop="yes" data-autoplay="yes" class="flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;">
+					<div class="slide-content-container slide-content-left" style="">
 						<div class="slide-content" style="margin-top: 0px; opacity: 1;">
 															<div class="heading with-bg">
 									<div class="fusion-title-sc-wrapper" style="background-color: rgba(255,255,255,0.4);">
@@ -167,8 +167,8 @@ src="https://www.facebook.com/tr?id=461968070659920&ev=PageView&noscript=1" />
 																									<div class="background background-image" style="background-image: url(&quot;https://modern-montessori.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-28-at-8.34.25-AM-e1710477635519.jpeg&quot;); max-width: 100%; height: 681.625px;" data-imgwidth="800">
 																																				</div>
 				</li>
-															<li data-mute="yes" data-loop="yes" data-autoplay="yes" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;" class="flex-active-slide">
-					<div class="slide-content-container slide-content-left" style="">
+															<li data-mute="yes" data-loop="yes" data-autoplay="yes" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;">
+					<div class="slide-content-container slide-content-left" style="display: none;">
 						<div class="slide-content" style="margin-top: 0px; opacity: 1;">
 															<div class="heading with-bg">
 									<div class="fusion-title-sc-wrapper" style="background-color: rgba(255,255,255,0.4);">

@@ -1,0 +1,585 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="js"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="generator" content="WordPress 6.2.4">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="pingback" href="https://gloryjoycdc.com/xmlrpc.php">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://gloryjoycdc.com/feed/">
+<link rel="shortcut icon" href="https://gloryjoycdc.com/wp-content/uploads/2016/12/gjcdc-icon-32.png">
+<title>Gallery – Glory Joy Child Development Centre</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//maps.google.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//use.fontawesome.com">
+<link rel="alternate" type="application/rss+xml" title="Glory Joy Child Development Centre » Feed" href="https://gloryjoycdc.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Glory Joy Child Development Centre » Comments Feed" href="https://gloryjoycdc.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Glory Joy Child Development Centre » Gallery Comments Feed" href="https://gloryjoycdc.com/gallery/feed/">
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"wpemoji":"\/\/gloryjoycdc.com\/wp-includes\/js\/wp-emoji.js?ver=6.2.4","twemoji":"\/\/gloryjoycdc.com\/wp-includes\/js\/twemoji.js?ver=6.2.4"}};
+/**
+ * @output wp-includes/js/wp-emoji-loader.js
+ */
+
+( function( window, document, settings ) {
+	var src, ready, ii, tests;
+
+	// Create a canvas element for testing native browser support of emoji.
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
+
+	/**
+	 * Checks if two sets of Emoji characters render the same visually.
+	 *
+	 * @since 4.9.0
+	 *
+	 * @private
+	 *
+	 * @param {string} set1 Set of Emoji to test.
+	 * @param {string} set2 Set of Emoji to test.
+	 *
+	 * @return {boolean} True if the two sets render the same.
+	 */
+	function emojiSetsRenderIdentically( set1, set2 ) {
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( set1, 0, 0 );
+		var rendered1 = canvas.toDataURL();
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( set2, 0, 0 );
+		var rendered2 = canvas.toDataURL();
+
+		return rendered1 === rendered2;
+	}
+
+	/**
+	 * Determines if the browser properly renders Emoji that Twemoji can supplement.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @private
+	 *
+	 * @param {string} type Whether to test for support of "flag" or "emoji".
+	 *
+	 * @return {boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var isIdentical;
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * Test for Transgender flag compatibility. Added in Unicode 13.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + transgender symbol).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					'\uD83C\uDFF3\uFE0F\u200D\u26A7\uFE0F', // as a zero-width joiner sequence
+					'\uD83C\uDFF3\uFE0F\u200B\u26A7\uFE0F'  // separated by a zero-width space
+				);
+
+				if ( isIdentical ) {
+					return false;
+				}
+
+				/*
+				 * Test for UN flag compatibility. This is the least supported of the letter locale flags,
+				 * so gives us an easy test for full support.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly ([U] + [N]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					'\uD83C\uDDFA\uD83C\uDDF3',       // as the sequence of two code points
+					'\uD83C\uDDFA\u200B\uD83C\uDDF3'  // as the two code points separated by a zero-width space
+				);
+
+				if ( isIdentical ) {
+					return false;
+				}
+
+				/*
+				 * Test for English flag compatibility. England is a country in the United Kingdom, it
+				 * does not have a two letter locale code but rather a five letter sub-division code.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					// as the flag sequence
+					'\uD83C\uDFF4\uDB40\uDC67\uDB40\uDC62\uDB40\uDC65\uDB40\uDC6E\uDB40\uDC67\uDB40\uDC7F',
+					// with each code point separated by a zero-width space
+					'\uD83C\uDFF4\u200B\uDB40\uDC67\u200B\uDB40\uDC62\u200B\uDB40\uDC65\u200B\uDB40\uDC6E\u200B\uDB40\uDC67\u200B\uDB40\uDC7F'
+				);
+
+				return ! isIdentical;
+			case 'emoji':
+				/*
+				 * Why can't we be friends? Everyone can now shake hands in emoji, regardless of skin tone!
+				 *
+				 * To test for Emoji 14.0 support, try to render a new emoji: Handshake: Light Skin Tone, Dark Skin Tone.
+				 *
+				 * The Handshake: Light Skin Tone, Dark Skin Tone emoji is a ZWJ sequence combining 🫱 Rightwards Hand,
+				 * 🏻 Light Skin Tone, a Zero Width Joiner, 🫲 Leftwards Hand, and 🏿 Dark Skin Tone.
+				 *
+				 * 0x1FAF1 == Rightwards Hand
+				 * 0x1F3FB == Light Skin Tone
+				 * 0x200D == Zero-Width Joiner (ZWJ) that links the code points for the new emoji or
+				 * 0x200B == Zero-Width Space (ZWS) that is rendered for clients not supporting the new emoji.
+				 * 0x1FAF2 == Leftwards Hand
+				 * 0x1F3FF == Dark Skin Tone.
+				 *
+				 * When updating this test for future Emoji releases, ensure that individual emoji that make up the
+				 * sequence come from older emoji standards.
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					'\uD83E\uDEF1\uD83C\uDFFB\u200D\uD83E\uDEF2\uD83C\uDFFF', // as the zero-width joiner sequence
+					'\uD83E\uDEF1\uD83C\uDFFB\u200B\uD83E\uDEF2\uD83C\uDFFF'  // separated by a zero-width space
+				);
+
+				return ! isIdentical;
+		}
+
+		return false;
+	}
+
+	/**
+	 * Adds a script to the head of the document.
+	 *
+	 * @ignore
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param {Object} src The url where the script is located.
+	 * @return {void}
+	 */
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.defer = script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	tests = Array( 'flag', 'emoji' );
+
+	settings.supports = {
+		everything: true,
+		everythingExceptFlag: true
+	};
+
+	/*
+	 * Tests the browser support for flag emojis and other emojis, and adjusts the
+	 * support settings accordingly.
+	 */
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
+
+	// Sets DOMReady to false and assigns a ready function to settings.
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	// When the browser can not render everything we need to load a polyfill.
+	if ( ! settings.supports.everything ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		/*
+		 * Cross-browser version of adding a dom ready event.
+		 */
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="twb-open-sans-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C500%2C600%2C700%2C800&amp;display=swap&amp;ver=6.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="twb-global-group-css" href="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/form-maker/booster/assets/css/global.css,wp-includes/css/dist/block-library/style.css,wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css,wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css,wp-includes/css/classic-themes.css,wp-content/plugins/page-builder/style/jquery.qtip.min.css,wp-content/plugins/page-builder/style/fancybox/jquery.fancybox.css,wp-content/plugins/page-builder/style/fancybox/helpers/jquery.fancybox-buttons.css,wp-content/plugins/page-builder/style/PB.Frontend.css,wp-content/themes/fable/multisite/1/style/PB.Frontend.css" type="text/css" media="all">
+<link rel="stylesheet" id="pb-component-accordion-group-css" href="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/page-builder/component/accordion/style/style.css,wp-content/plugins/page-builder/component/audio/style/style.css,wp-content/plugins/page-builder/component/background_video/style/style.css,wp-content/plugins/page-builder/component/blockquote/style/style.css,wp-content/plugins/page-builder/component/box/style/style.css,wp-content/plugins/page-builder/component/button/style/style.css,wp-content/plugins/page-builder/component/call_to_action/style/style.css,wp-content/plugins/page-builder/component/class/style/style.css,wp-content/plugins/page-builder/component/contact_form/style/style.css,wp-content/plugins/page-builder/component/counter_box/style/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="pb-component-counter-list-group-css" href="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/page-builder/component/counter_list/style/style.css,wp-content/plugins/page-builder/component/divider/style/style.css,wp-content/plugins/page-builder/component/dropcap/style/style.css,wp-content/plugins/page-builder/component/feature/style/style.css,wp-content/plugins/page-builder/component/flex_slider/style/flexslider.css,wp-content/plugins/page-builder/component/flex_slider/style/style.css,wp-content/plugins/page-builder/component/gallery/style/style.css,wp-content/plugins/page-builder/component/google_map/style/style.css,wp-content/plugins/page-builder/component/header/style/style.css,wp-content/plugins/page-builder/component/header_subheader/style/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="pb-component-iframe-group-css" href="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/page-builder/component/iframe/style/style.css,wp-content/plugins/page-builder/component/list/style/style.css,wp-content/plugins/page-builder/component/menu/style/style.css,wp-content/plugins/page-builder/component/menu/style/responsive-nav.css,wp-content/plugins/page-builder/component/nivo_slider/style/jquery.nivo.slider.css,wp-content/plugins/page-builder/component/nivo_slider/style/style.css,wp-content/plugins/page-builder/component/notice/style/style.css,wp-content/plugins/page-builder/component/preformatted_text/style/style.css,wp-content/plugins/page-builder/component/pricing_plan/style/style.css,wp-content/plugins/page-builder/component/recent_post/style/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="pb-component-screen-preloader-group-css" href="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/page-builder/component/screen_preloader/style/style.css,wp-content/plugins/page-builder/component/sitemap/style/style.css,wp-content/plugins/page-builder/component/social_icon/style/style.css,wp-content/plugins/page-builder/component/space/style/style.css,wp-content/plugins/page-builder/component/supersized/style/style.css,wp-content/plugins/page-builder/component/supersized/style/jquery-supersized.css,wp-content/plugins/page-builder/component/tab/style/style.css,wp-content/plugins/page-builder/component/team/style/style.css,wp-content/plugins/page-builder/component/testimonial/style/style.css,wp-content/plugins/page-builder/component/twitter_user_timeline/style/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="pb-component-vertical-grid-group-css" href="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/page-builder/component/vertical_grid/style/style.css,wp-content/plugins/page-builder/component/video/style/style.css,wp-content/plugins/page-builder/component/zaccordion/style/style.css,wp-content/plugins/photo-gallery/css/bwg_frontend.css,wp-content/plugins/photo-gallery/css/font-awesome/font-awesome.css,wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.css,wp-content/plugins/photo-gallery/css/sumoselect.css,wp-content/themes/fable/multisite/1/style/TS.Frontend.css,wp-content/plugins/timetable/style/superfish.css,wp-content/plugins/timetable/style/jquery.qtip.css" type="text/css" media="all">
+<link rel="stylesheet" id="bwg_googlefonts-css" href="//fonts.googleapis.com/css?family=Neucha&amp;subset=greek,latin,greek-ext,vietnamese,cyrillic-ext,latin-ext,cyrillic" type="text/css" media="all">
+<link rel="stylesheet" id="timetable_style-group-css" href="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/timetable/style/style.css,wp-content/plugins/timetable/style/event_template.css,wp-content/plugins/timetable/style/responsive.css,wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css,wp-content/plugins/woocommerce/assets/css/woocommerce.css,wp-content/themes/fable/style.css,wp-content/themes/fable-child/style.css,wp-content/themes/fable/style/widget.css,wp-content/themes/fable/style/woocommerce.css,wp-content/themes/fable/style/timetable.css" type="text/css" media="all">
+<link rel="stylesheet" id="timetable_font_lato-css" href="//fonts.googleapis.com/css?family=Lato%3A400%2C700&amp;ver=6.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-group-css" href="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="responsive-group-css" href="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/fable/style/responsive.css,wp-content/themes/fable/multisite/1/style/style.css,wp-content/themes/fable/style/retina.css" type="text/css" media="all">
+<link rel="stylesheet" id="google-font-neucha-css" href="//fonts.googleapis.com/css?family=Neucha%3Aregular&amp;subset=cyrillic%2Clatin&amp;ver=6.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="bfa-font-awesome-css" href="//use.fontawesome.com/releases/v5.15.4/css/all.css?ver=2.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="bfa-font-awesome-v4-shim-css" href="//use.fontawesome.com/releases/v5.15.4/css/v4-shims.css?ver=2.0.3" type="text/css" media="all">
+<style id="bfa-font-awesome-v4-shim-inline-css" type="text/css">
+
+			@font-face {
+				font-family: 'FontAwesome';
+				src: url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot?#iefix') format('embedded-opentype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff2') format('woff2'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff') format('woff'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.ttf') format('truetype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.svg#fontawesome') format('svg');
+			}
+
+			@font-face {
+				font-family: 'FontAwesome';
+				src: url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot?#iefix') format('embedded-opentype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff2') format('woff2'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff') format('woff'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.ttf') format('truetype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.svg#fontawesome') format('svg');
+			}
+
+			@font-face {
+				font-family: 'FontAwesome';
+				src: url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot?#iefix') format('embedded-opentype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff2') format('woff2'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff') format('woff'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.ttf') format('truetype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.svg#fontawesome') format('svg');
+				unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
+			}
+		
+</style>
+<script type="text/javascript" src="//gloryjoycdc.com/wp-includes/js/jquery/jquery.js?ver=3.6.4" id="jquery-core-js"></script>
+<script type="text/javascript" src="//gloryjoycdc.com/wp-includes/js/jquery/jquery-migrate.js?ver=3.4.0" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="twb-global-js-extra">
+/* <![CDATA[ */
+var twb = {"nonce":"76d2aa64b1","ajax_url":"https:\/\/gloryjoycdc.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/gloryjoycdc.com\/wp-content\/plugins\/form-maker\/booster","href":"https:\/\/gloryjoycdc.com\/wp-admin\/admin.php?page=twb_form-maker"};
+var twb = {"nonce":"76d2aa64b1","ajax_url":"https:\/\/gloryjoycdc.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/gloryjoycdc.com\/wp-content\/plugins\/form-maker\/booster","href":"https:\/\/gloryjoycdc.com\/wp-admin\/admin.php?page=twb_form-maker"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="bwg_sumoselect-js-extra">
+/* <![CDATA[ */
+var bwg_objectsL10n = {"bwg_select_tag":"Select Tag","bwg_search":"Search"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="bwg_gallery_box-js-extra">
+/* <![CDATA[ */
+var bwg_objectL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"This is not a valid email address.","bwg_search_result":"There are no images matching your search."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/form-maker/booster/assets/js/circle-progress.js,wp-content/plugins/form-maker/booster/assets/js/global.js,wp-content/plugins/page-builder/script/errorHandler.js,wp-content/plugins/photo-gallery/js/bwg_frontend.js,wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js,wp-content/plugins/photo-gallery/js/jquery.mobile.js,wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js,wp-content/plugins/photo-gallery/js/jquery.fullscreen-0.4.1.js,wp-content/plugins/photo-gallery/js/bwg_gallery_box.js,wp-content/plugins/photo-gallery/js/jquery.raty.js"></script>
+<script type="text/javascript" src="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/photo-gallery/js/jquery.featureCarousel.js,wp-content/plugins/photo-gallery/js/3DEngine/3DEngine.js,wp-content/plugins/photo-gallery/js/3DEngine/Sphere.js"></script>
+<link rel="https://api.w.org/" href="https://gloryjoycdc.com/wp-json/"><link rel="alternate" type="application/json" href="https://gloryjoycdc.com/wp-json/wp/v2/pages/1599"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gloryjoycdc.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://gloryjoycdc.com/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 6.2.4">
+<meta name="generator" content="WooCommerce 7.7.2">
+<link rel="canonical" href="https://gloryjoycdc.com/gallery/">
+<link rel="shortlink" href="https://gloryjoycdc.com/?p=1599">
+<link rel="alternate" type="application/json+oembed" href="https://gloryjoycdc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgloryjoycdc.com%2Fgallery%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://gloryjoycdc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgloryjoycdc.com%2Fgallery%2F&amp;format=xml">
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-645501192" type="text/javascript"></script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'AW-645501192');
+
+gtag('event', 'conversion', {'send_to': 'AW-645501192/n_rYCIiRqs8BEIii5rMC'});</script> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by Slider Revolution 6.6.7 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+<script src="//gloryjoycdc.com/wp-includes/js/twemoji.js?ver=6.2.4" type="text/javascript" defer=""></script><script src="//gloryjoycdc.com/wp-includes/js/wp-emoji.js?ver=6.2.4" type="text/javascript" defer=""></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/645501192/?random=1711874377300&amp;cv=11&amp;fst=1711874377300&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0za200&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fgloryjoycdc.com%2Fgallery%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Gallery%20%E2%80%93%20Glory%20Joy%20Child%20Development%20Centre&amp;npa=0&amp;pscdl=noapi&amp;auid=2049023775.1711874361&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B123.0.6312.86%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.86&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;fdr=QA&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A4oIpR6f5aUXFRMbL6t6qaMk4lrHWxcV3DcrzORsA9sEsIk1FBRMFzzhfMNLuUpokZH40FV8s7iiXtt/729v8A4AAACFeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiQXR0cmlidXRpb25SZXBvcnRpbmdDcm9zc0FwcFdlYiIsImV4cGlyeSI6MTcxNDUyMTU5OSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><script attributionsrc="" type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion/645501192/?random=1711874377306&amp;cv=11&amp;fst=1711874377306&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0za200&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fgloryjoycdc.com%2Fgallery%2F&amp;label=n_rYCIiRqs8BEIii5rMC&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Gallery%20%E2%80%93%20Glory%20Joy%20Child%20Development%20Centre&amp;gtm_ee=1&amp;npa=0&amp;pscdl=noapi&amp;auid=2049023775.1711874361&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B123.0.6312.86%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.86&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;fdr=QA&amp;data=event%3Dconversion&amp;rfmt=3&amp;fmt=4"></script><style type="text/css">.js .nav-collapse-0.opened{max-height:0px !important}</style><style type="text/css">.fancybox-margin{margin-right:15px;}</style></head>
+<body class="page-template page-template-main page-template-main-php page page-id-1599 theme-fable pb woocommerce-js" style="opacity: 1;">
+<div><div class="pb-menu pb pb-menu-template-type-1" id="pb_menu_F88653833B35626A385381BC98208877" style="display: block;">
+<div class="pb-main pb-clear-fix">
+<div class="pb-logo">
+<a href="https://gloryjoycdc.com" title="Glory Joy Child Development Centre" style="width: 290.25px;">
+<img src="https://gloryjoycdc.com/wp-content/uploads/2017/07/gjcdc-logo-menu.png" alt="Glory Joy Child Development Centre" style="max-height: 129px;">
+</a>
+</div>
+<div class="pb-menu-default">
+<ul id="menu-main-menu" class="sf-menu pb-reset-list pb-clear-fix sf-js-enabled">
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-home sf-mega-enable-0 pb-menu-icon pb-menu-icon-31D8E0C40D69B277A83ADD3ECEFE55F3 ">
+<a href="https://gloryjoycdc.com/"><span></span>Home</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page sf-mega-enable-0 pb-menu-icon pb-menu-icon-338B3D146ADE7D16FEE14BCDBFD3B257 ">
+<a href="https://gloryjoycdc.com/about-us/"><span></span>About</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page sf-mega-enable-0 pb-menu-icon pb-menu-icon-A6885A5E845D355F8DAA0540E06ECACF ">
+<a href="https://gloryjoycdc.com/our-curriculum/"><span></span>Curriculum</a>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1599 current_page_item menu-item-has-children sf-mega-enable-0 pb-menu-icon pb-menu-icon-48828368A938EFD32D079DD542C28EBF">
+<a href="https://gloryjoycdc.com/gallery/" class="sf-with-ul"><span></span>Gallery</a>
+<ul style="display: none;">
+<li class=" menu-item menu-item-type-post_type menu-item-object-page  ">
+<a href="https://gloryjoycdc.com/gallery-celebrations/"><span></span>Celebrations</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page  ">
+<a href="https://gloryjoycdc.com/gallery-excursions/"><span></span>Excursions</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page  ">
+<a href="https://gloryjoycdc.com/gallery-outdoor-fun/"><span></span>Outdoor Fun</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page  ">
+<a href="https://gloryjoycdc.com/gallery-learning-journey/"><span></span>Learning Journey</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page  ">
+<a href="https://gloryjoycdc.com/gallery-performances/"><span></span>Performances</a>
+</li>
+</ul>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page sf-mega-enable-0 pb-menu-icon pb-menu-icon-B678D6159D42D07476084305CD4BA073 ">
+<a href="https://gloryjoycdc.com/testimonials/"><span></span>Testimonials</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page sf-mega-enable-0 pb-menu-icon pb-menu-icon-69011BA84D5CAAE7267C0F06632D19CC ">
+<a href="https://gloryjoycdc.com/careers/"><span></span>Careers</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page sf-mega-enable-0 pb-menu-icon pb-menu-icon-FF6DDB60BEC1B2D8745D873AC2A1C8FC ">
+<a href="https://gloryjoycdc.com/contact-us/"><span></span>Contact</a>
+</li>
+</ul>
+</div>
+<div class="pb-menu-responsive">
+<div id="menu-main-menu-1" class="pb-clear-fix"><a href="#" class="nav-toggle" aria-hidden="false">Menu<span><span></span></span></a><div id="pb_menu_responsive_DE9F5B392E07A855A8ACA05F731A8B48" class="nav-collapse nav-collapse-0 closed" aria-hidden="true" style="transition: max-height 284ms ease 0s; position: absolute;"><ul>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-home">
+<a href="https://gloryjoycdc.com/">Home</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page">
+<a href="https://gloryjoycdc.com/about-us/">About</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page">
+<a href="https://gloryjoycdc.com/our-curriculum/">Curriculum</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1599 current_page_item menu-item-has-children">
+<a href="https://gloryjoycdc.com/gallery/">Gallery</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page">
+<a href="https://gloryjoycdc.com/gallery-celebrations/">-- Celebrations</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page">
+<a href="https://gloryjoycdc.com/gallery-excursions/">-- Excursions</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page">
+<a href="https://gloryjoycdc.com/gallery-outdoor-fun/">-- Outdoor Fun</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page">
+<a href="https://gloryjoycdc.com/gallery-learning-journey/">-- Learning Journey</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page">
+<a href="https://gloryjoycdc.com/gallery-performances/">-- Performances</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page">
+<a href="https://gloryjoycdc.com/testimonials/">Testimonials</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page">
+<a href="https://gloryjoycdc.com/careers/">Careers</a>
+</li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page">
+<a href="https://gloryjoycdc.com/contact-us/">Contact</a>
+</li>
+</ul></div></div>
+</div>
+</div>
+</div></div>
+<div class="pb-script-tag">
+<script type="text/javascript">
+					jQuery(document).ready(function($)
+					{
+						$('#pb_menu_F88653833B35626A385381BC98208877').PBMenu({"responsive_mode":"768","sticky_enable":"1","hide_scroll_enable":"0","menu_animation_enable":"1","menu_animation_speed_open":"400","menu_animation_speed_close":"200","menu_animation_delay":"0","scroll_animation_enable":"1","scroll_animation_speed":"1000","scroll_animation_easing":"easeOutQuint","responsive_menu_id":"pb_menu_responsive_DE9F5B392E07A855A8ACA05F731A8B48","responsive_menu_label":"Menu"});
+					});
+				</script>
+</div>
+<div class="theme-page" style="margin-bottom: 0px;">
+<div class="theme-page-header" style="background-image:url('https://gloryjoycdc.com/wp-content/uploads/2017/07/header-gallery.jpg');background-repeat:no-repeat;background-position:center center;background-size:cover;">
+<div class="theme-main">
+<h1>Gallery</h1>
+<h6 style="color:#FFFFFF;">FUN AND PRECIOUS MOMENTS</h6>
+</div>
+</div>
+<div class="theme-page-content theme-clear-fix">
+<div id="pb_line_E62F3118DEF5F1BBBDBA102F943EFC48" class="pb-line pb-clear-fix" style="background-repeat:no-repeat;"><ul class="pb-layout pb-layout-100 pb-reset-list pb-clear-fix pb-main"><li class="pb-layout-column-left" style="visibility: visible;"> <div class="pb-space-line"></div><div><div class="pb-zaccordion"><ul class="pb-reset-list" id="accordion_A73439011854164CE1CAD8F8E378A4B2" style="height: 330px; display: block; width: 100%; padding: 0px; position: relative; overflow: hidden; list-style: none;"><li class="slide slide-open" style="top: 0px; z-index: 0; margin: 0px; padding: 0px; float: left; display: block; position: absolute; overflow: hidden; width: 60%; height: 550px; text-indent: 0px; left: 0%; cursor: default;"><div class="pb-image-box" style="height: auto;"><a href="https://gloryjoycdc.com/gallery-celebrations/" class="pb-image" style="opacity: 1;"><img src="https://gloryjoycdc.com/wp-content/uploads/2017/11/featured-celebrations-1050x770.jpg" alt=""><span class="pb-zaccordion-caption-box" "="" style="display: inline;"><span class="pb-zaccordion-caption-box-title">Celebrations</span><span class="pb-zaccordion-caption-box-excerpt"></span></span></a></div></li><li class="slide slide-closed" style="top: 0px; z-index: 10; margin: 0px; padding: 0px; float: left; display: block; position: absolute; overflow: hidden; width: 60%; height: 550px; text-indent: 0px; left: 60%; cursor: pointer;"><div class="pb-image-box" style="height: auto;"><a href="https://gloryjoycdc.com/gallery-excursions/" class="pb-image" style="opacity: 1;"><img src="https://gloryjoycdc.com/wp-content/uploads/2017/11/featured-excursion-01.jpg" alt=""><span class="pb-zaccordion-caption-box" "="" style="display: none;"><span class="pb-zaccordion-caption-box-title">Excursions</span><span class="pb-zaccordion-caption-box-excerpt"></span></span></a></div></li><li class="slide slide-closed" style="top: 0px; z-index: 20; margin: 0px; padding: 0px; float: left; display: block; position: absolute; overflow: hidden; width: 60%; height: 550px; text-indent: 0px; left: 70%; cursor: pointer;"><div class="pb-image-box" style="height: auto;"><a href="https://gloryjoycdc.com/gallery-outdoor-fun/" class="pb-image" style="opacity: 1;"><img src="https://gloryjoycdc.com/wp-content/uploads/2017/11/featured-outdoor-1050x770.jpg" alt=""><span class="pb-zaccordion-caption-box" "="" style="display: none;"><span class="pb-zaccordion-caption-box-title">Outdoor Fun</span><span class="pb-zaccordion-caption-box-excerpt"></span></span></a></div></li><li class="slide slide-closed" style="top: 0px; z-index: 30; margin: 0px; padding: 0px; float: left; display: block; position: absolute; overflow: hidden; width: 60%; height: 550px; text-indent: 0px; left: 80%; cursor: pointer;"><div class="pb-image-box" style="height: auto;"><a href="https://gloryjoycdc.com/gallery-learning-journey/" class="pb-image" style="opacity: 1;"><img src="https://gloryjoycdc.com/wp-content/uploads/2017/11/Learning-Journey-Banner-1050x770.jpg" alt=""><span class="pb-zaccordion-caption-box" "="" style="display: none;"><span class="pb-zaccordion-caption-box-title">Learning Journey</span><span class="pb-zaccordion-caption-box-excerpt"></span></span></a></div></li><li class="slide slide-closed" style="top: 0px; z-index: 40; margin: 0px; padding: 0px; float: left; display: block; position: absolute; overflow: hidden; width: 60%; height: 550px; text-indent: 0px; left: 90%; cursor: pointer;"><div class="pb-image-box" style="height: auto;"><a href="https://gloryjoycdc.com/gallery-performances/" class="pb-image" style="opacity: 1;"><img src="https://gloryjoycdc.com/wp-content/uploads/2017/11/performance-feature.jpg" alt=""><span class="pb-zaccordion-caption-box" "="" style="display: none;"><span class="pb-zaccordion-caption-box-title">Performances</span><span class="pb-zaccordion-caption-box-excerpt"></span></span></a></div></li></ul></div><div class="pb-script-tag"><script type="text/javascript">jQuery(document).ready(function($){$('#accordion_A73439011854164CE1CAD8F8E378A4B2').PBZAccordion({"preloader_enable":"1","starting_slide":"0","timeout":"3000","speed":"500","auto":"1","pause":"1","easing":"easeInQuad","trigger":"click","display_slide_title":"1","display_slide_excerpt":"1","width":1050,"height":770});});</script></div><div class="pb-space-line"></div><div class="pb-space pb-clear-fix" style="height:50px;"></div></div></li></ul></div><div class="pb-script-tag"><script type="text/javascript">jQuery(document).ready(function($){$("#pb_line_E62F3118DEF5F1BBBDBA102F943EFC48").PBLayout({"bg_parallax_speed":"30","bg_parallax_enable":"0","bg_parallax_mobile_enable":"0"},0);});</script></div><div id="pb_line_35DE51641CCA917D795D39690585EF1C" class="pb-line pb-clear-fix" style="background-color:#F5F5F5;background-repeat:no-repeat;"><ul class="pb-layout pb-layout-100 pb-reset-list pb-clear-fix pb-main"><li class="pb-layout-column-left" style="visibility: visible;"> <div class="pb-space-line"></div><div><div class="pb-call-to-action pb-clear-fix" style="background-color:#F5F5F5;border-top-width:0px;border-right-width:0px;border-bottom-width:0px;border-left-width:0px;padding-top:44px;padding-right:0px;padding-bottom:44px;padding-left:0px;" id="pb_call_to_action_92215BA1F8F376976C36EA165EC9F392"><div class="pb-call-to-action-box pb-clear-fix"><h3 class="pb-call-to-action-box-first-line">How to Enrol Your Child to a Class?</h3><h6 class="pb-call-to-action-box-second-line"></h6><div><a href=" https://gloryjoycdc.com/contact-us/" class="pb-window-target-self" style="color:#FFFFFF;background-color:#e7754d;">Contact Us<i class="pb-button-arrow pb-button-arrow-right"></i></a><input type="hidden" value="{&quot;out&quot;:{&quot;color&quot;:&quot;#FFFFFF&quot;,&quot;background-color&quot;:&quot;#e7754d&quot;},&quot;in&quot;:{&quot;color&quot;:&quot;#FFFFFF&quot;,&quot;background-color&quot;:&quot;#56509F&quot;}}"></div></div></div><div class="pb-script-tag"><script type="text/javascript">jQuery(document).ready(function($){$("#pb_call_to_action_92215BA1F8F376976C36EA165EC9F392").PBCallToAction();});</script></div></div></li></ul></div><div class="pb-script-tag"><script type="text/javascript">jQuery(document).ready(function($){$("#pb_line_35DE51641CCA917D795D39690585EF1C").PBLayout({"bg_parallax_speed":"30","bg_parallax_enable":"0","bg_parallax_mobile_enable":"0"},0);});</script></div><div id="pb_line_D8FA2479889789A23AFDF1FA28F7C30F" class="pb-line pb-clear-fix" style="background-repeat:no-repeat;"><ul class="pb-layout pb-layout-100 pb-reset-list pb-clear-fix pb-main"><li class="pb-layout-column-left" style="visibility: visible;"> <div class="pb-space-line"></div><div><div class="pb-space-line"></div><div class="pb-space pb-clear-fix" style="margin-top:-80px;"></div></div></li></ul></div><div class="pb-script-tag"><script type="text/javascript">jQuery(document).ready(function($){$("#pb_line_D8FA2479889789A23AFDF1FA28F7C30F").PBLayout({"bg_parallax_speed":"30","bg_parallax_enable":"0","bg_parallax_mobile_enable":"0"},0);});</script></div>
+</div>
+</div>
+<div class="theme-footer theme-clear-fix" style="visibility: visible;">
+<div class="theme-footer-top theme-clear-fix" style="background-image:url('https://gloryjoycdc.com/wp-content/uploads/2014/09/pattern.png');background-repeat:repeat;background-position:0px 0px;background-size:auto;">
+<div class="theme-main theme-layout-33x33x33">
+<div id="text-14" class="widget_text theme-clear-fix theme-widget theme-layout-column-left" style="visibility: visible;"><h6 class="pb-header"><span class="pb-header-content">About Us</span><span class="pb-header-underline"></span></h6> <div class="textwidget"><p>At Glory Joy Child Development Centre, your child will go through holistic development in physical, intellectual, emotional and social domains.</p>
+<p>Believing that learning should be fun and interesting, activities are being carried out in the form of play relating to different themes....</p>
+<p><a href="https://gloryjoycdc.com/about-us/">Read More</a></p></div>
+</div><div id="text-16" class="widget_text theme-clear-fix theme-widget theme-layout-column-center" style="visibility: visible;"><h6 class="pb-header"><span class="pb-header-content">Opening Hours</span><span class="pb-header-underline"></span></h6> <div class="textwidget"><p></p><ul>
+<li>Weekdays: 7am to 7pm</li>
+<li>Saturdays: 7am to 2pm</li>
+<li>Closed on Sundays and Public Holidays.</li>
+</ul><p></p></div>
+</div><div id="text-15" class="widget_text theme-clear-fix theme-widget theme-layout-column-right" style="visibility: visible;"><h6 class="pb-header"><span class="pb-header-content">Contact Us</span><span class="pb-header-underline"></span></h6> <div class="textwidget"><p></p><div><i class="fa fa-map-marker "></i><strong>Address:</strong></div>
+<div style="margin-left: 20px; margin-right: 20px;">501B WELLINGTON CIRCLE
+#01 – 06<br>SINGAPORE 752501</div><br>
+<div><i class="fa fa-phone "></i><strong>Phone:</strong> (+65) 6758 7662</div><br>
+<div><i class="fa fa-envelope "></i><strong>Email:</strong> <a href="mailto:enquiries@gloryjoycdc.com">enquiries@gloryjoycdc.com</a></div><p></p></div>
+</div> </div>
+</div>
+<div class="theme-footer-bottom theme-clear-fix">
+<div class="theme-main theme-clear-fix">
+<div style="text-align: center;"><ul class="pb-social-icon pb-social-icon-type-gr pb-reset-list pb-clear-fix" id="pb_social_icon_463554F2F403F38B099AD7F81DDA8106"><li><a href="https://www.facebook.com/gloryjoycdc" class="pb-social-icon-facebook pb-window-target-blank" title="Facebook" target="_blank"></a></li></ul><div class="pb-script-tag"><script type="text/javascript">jQuery(document).ready(function($){$('#pb_social_icon_463554F2F403F38B099AD7F81DDA8106').PBSocialIcon({"in":[],"out":[]});});</script></div></div>
+<p style="text-align: center;">&nbsp;2022 ©&nbsp;Glory Joy Child Development Centre.</p> </div>
+</div>
+</div>
+<a href="#up" id="theme-go-to-top"></a>
+<script type="text/javascript">
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+<link rel="stylesheet" id="rs-plugin-settings-group-css" href="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/revslider/public/assets/css/rs6.css" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<script type="text/javascript" src="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-includes/js/jquery/ui/core.js,wp-includes/js/jquery/ui/tabs.js,wp-includes/js/jquery/ui/accordion.js,wp-includes/js/jquery/ui/effect.js,wp-includes/js/jquery/ui/effect-fade.js,wp-includes/js/jquery/ui/effect-blind.js,wp-includes/js/jquery/ui/effect-slide.js,wp-includes/js/jquery/ui/effect-drop.js,wp-content/plugins/page-builder/script/jquery.ba-bbq.min.js,wp-content/plugins/page-builder/script/jquery.easing.js"></script>
+<script type="text/javascript" src="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/page-builder/script/jquery.mousewheel.js,wp-content/plugins/page-builder/script/jquery.touchSwipe.min.js,wp-content/plugins/page-builder/script/jquery.scrollTo.min.js,wp-content/plugins/page-builder/script/jquery.blockUI.js,wp-content/plugins/page-builder/script/jquery.imagesloaded.min.js,wp-content/plugins/page-builder/script/jquery.qtip.min.js,wp-content/plugins/page-builder/script/jquery.actual.min.js,wp-content/plugins/page-builder/script/jquery.responsiveElement.js,wp-content/plugins/page-builder/script/jquery.imagePreloader.js,wp-content/plugins/page-builder/script/jquery.imageHover.js"></script>
+<script type="text/javascript" src="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/page-builder/script/jquery.windowDimensionListener.js,wp-content/plugins/page-builder/script/jquery.fancybox.js,wp-content/plugins/page-builder/script/jquery.fancybox-media.js,wp-content/plugins/page-builder/script/jquery.fancybox-buttons.js,wp-content/plugins/page-builder/script/jquery.fancybox.launch.js,wp-content/plugins/page-builder/script/jquery.carouFredSel.packed.js,wp-content/plugins/page-builder/script/jquery.parallax.js,wp-content/plugins/page-builder/script/PB.AnimationWaypoint.js,wp-content/plugins/page-builder/script/PB.Helper.js,wp-content/plugins/page-builder/component/accordion/script/PB.Accordion.js"></script>
+<script type="text/javascript" src="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/page-builder/component/audio/script/PB.Audio.js,wp-content/plugins/page-builder/component/audio/script/jquery.jplayer.min.js,wp-content/plugins/page-builder/component/audio/script/jplayer.playlist.min.js,wp-content/plugins/page-builder/component/background_video/script/jquery.vide.js,wp-content/plugins/page-builder/component/background_video/script/PB.BackgroundVideo.js,wp-content/plugins/page-builder/component/box/script/PB.Box.js,wp-content/plugins/page-builder/component/button/script/PB.Button.js,wp-content/plugins/page-builder/component/call_to_action/script/PB.CallToAction.js,wp-content/plugins/page-builder/component/class/script/PB.Class.js,wp-content/plugins/page-builder/component/contact_form/script/PB.ContactForm.js"></script>
+<script type="text/javascript" src="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/page-builder/component/counter_box/script/PB.CounterBox.js,wp-content/plugins/page-builder/component/counter_list/script/PB.CounterList.js,wp-content/plugins/page-builder/component/feature/script/PB.Feature.js,wp-content/plugins/page-builder/component/flex_slider/script/jquery.flexslider-min.js,wp-content/plugins/page-builder/component/flex_slider/script/PB.FlexSlider.js,wp-content/plugins/page-builder/component/gallery/script/PB.Gallery.js,wp-content/plugins/page-builder/component/google_map/script/PB.GoogleMap.js,wp-content/plugins/page-builder/component/layout/script/PB.Layout.js,wp-content/plugins/page-builder/component/list/script/PB.List.js,wp-content/plugins/page-builder/component/menu/script/responsive-nav.min.js"></script>
+<script type="text/javascript" src="//maps.google.com/maps/api/js?key=AIzaSyAd1G_6XWMBUGguCUerK_Z9D0UKSV5_3oA&amp;ver=6.2.4" id="pb-component-google-map-js"></script>
+<script type="text/javascript" src="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/page-builder/component/menu/script/superfish.js,wp-content/plugins/page-builder/component/menu/script/PB.Menu.js,wp-content/plugins/page-builder/component/nivo_slider/script/jquery.nivo.slider.pack.js,wp-content/plugins/page-builder/component/nivo_slider/script/PB.NivoSlider.js,wp-content/plugins/page-builder/component/notice/script/PB.Notice.js,wp-content/plugins/page-builder/component/notice/script/jquery.countdown.min.js,wp-content/plugins/page-builder/component/preformatted_text/script/PB.PreformattedText.js,wp-content/plugins/page-builder/component/pricing_plan/script/PB.PricingPlan.js,wp-content/plugins/page-builder/component/recent_post/script/PB.RecentPost.js,wp-content/plugins/page-builder/component/screen_preloader/script/PB.ScreenPreloader.js"></script>
+<script type="text/javascript" src="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/page-builder/component/social_icon/script/PB.SocialIcon.js,wp-content/plugins/page-builder/component/supersized/script/PB.Supersized.js,wp-content/plugins/page-builder/component/supersized/script/jquery.supersized.min.js,wp-content/plugins/page-builder/component/tab/script/PB.Tab.js,wp-content/plugins/page-builder/component/team/script/PB.Team.js,wp-content/plugins/page-builder/component/testimonial/script/PB.Testimonial.js,wp-content/plugins/page-builder/component/twitter_user_timeline/script/jquery.timeago.js,wp-content/plugins/page-builder/component/twitter_user_timeline/script/PB.TwitterUserTimeline.js,wp-content/plugins/page-builder/component/zaccordion/script/jquery.zaccordion.min.js,wp-content/plugins/page-builder/component/zaccordion/script/PB.ZAccordion.js"></script>
+<script type="text/javascript" id="pb-public-js-extra">
+/* <![CDATA[ */
+var pbOption = [];
+pbOption={"config":{"content_width":1050,"is_rtl":0}};;
+/* ]]> */
+</script>
+<script type="text/javascript" id="timetable_main-js-extra">
+/* <![CDATA[ */
+var tt_config = [];
+tt_config = {"ajaxurl":"https:\/\/gloryjoycdc.com\/wp-admin\/admin-ajax.php"};;
+/* ]]> */
+</script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/gloryjoycdc.com","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="wc-cart-fragments-js-extra">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_2621a2089c790a93b4c125f9f7f4bba2","fragment_name":"wc_fragments_2621a2089c790a93b4c125f9f7f4bba2","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/page-builder/script/public.js,wp-content/plugins/revslider/public/assets/js/rbtools.min.js,wp-content/plugins/revslider/public/assets/js/rs6.min.js,wp-content/plugins/timetable/js/jquery.ba-bbq.min.js,wp-content/plugins/timetable/js/timetable.js,wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.js,wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.js,wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.js,wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.js,wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js"></script>
+<script type="text/javascript" id="public-js-extra">
+/* <![CDATA[ */
+var themeOption = [];
+themeOption={"rightClick":{"enable":"1"},"selection":{"enable":"1"},"fancyboxImage":{"padding":"10","margin":"20","min_width":"100","min_height":"100","max_width":"9999","max_height":"9999","helper_button_enable":"1","autoresize":"1","autocenter":"1","fittoview":"1","arrow":"1","close_button":"1","close_click":"0","next_click":"0","mouse_wheel":"1","autoplay":"0","loop":"1","playspeed":"3000","animation_effect_open":"fade","animation_effect_close":"fade","animation_effect_next":"elastic","animation_effect_previous":"elastic","easing_open":"easeInQuad","easing_close":"easeInQuad","easing_next":"easeInQuad","easing_previous":"easeInQuad","speed_open":"250","speed_close":"250","speed_next":"250","speed_previous":"250"},"fancyboxVideo":{"padding":"10","margin":"20","min_width":"100","min_height":"100","max_width":"9999","max_height":"9999","autoresize":"1","autocenter":"1","fittoview":"1","close_button":"1"},"goToPageTop":{"enable":"1","hash":"up","animation_enable":"1","animation_duration":"500","animation_easing":"easeInCubic"},"config":{"theme_url":"https:\/\/gloryjoycdc.com\/wp-content\/themes\/fable\/","is_rtl":0,"woocommerce_enable":1}};;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://gloryjoycdc.com/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/fable/script/jquery.infieldlabel.min.js,wp-content/themes/fable/script/jquery.responsiveTable.js,wp-content/themes/fable/script/jquery.waypoints.min.js,wp-content/themes/fable/script/jquery.waypoints-sticky.min.js,wp-content/themes/fable/script/jquery.comment.js,wp-content/themes/fable/script/linkify.js,wp-content/themes/fable/script/public.js"></script>
+
+
+<div id="supersized-loader"></div><ul id="supersized"></ul></body></html>

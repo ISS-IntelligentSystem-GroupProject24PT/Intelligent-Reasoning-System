@@ -215,4 +215,4 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
         shadow.innerHTML = template.innerHTML;
         document.body.appendChild(div);
     })();
-</script><div style="display:                            block                            !important;                            clear:                            both                            !important"></div>  </body></html>
+</script><div style="display:                         block                         !important;                         clear:                         both                         !important"></div>  </body></html>

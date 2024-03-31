@@ -1,0 +1,260 @@
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="KidsKingdom was founded in 2006, and has childcares located at Changi Simei CC, Hougang and Bedok Reservoir"><meta name="author">
+	<link href="favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+	<link href="favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+	<title>About KidsKingdom Childcare Group with branches at Changi Simei CC, Hougang and Bedok Reservoir</title>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-BYR24T2FZ6&amp;cx=c&amp;_slc=1"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<link href="./assets/lib/bootstrapselect/bootstrap-select.min.js" type="text/css">
+	<link href="assets/css/sh-default.css" rel="stylesheet" type="text/css">
+<meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+<body class="lower-bg" style="cursor: auto;">
+<div class="navbar mynavbar" data-widget-class="mynavbar" role="navigation">
+<div class="container">
+<div class="navbar-header"><button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span></button></div>
+
+<div class="collapse navbar-collapse">
+<ul class="nav navbar-nav" style=" margin: auto auto;">
+	<li><a href="./index.html">Home</a></li>
+	<li><a href="./about.html">About Us</a></li>
+	<li><a href="./services.html">Services</a></li>
+	<li><a href="./curriculum.html">Curriculum</a></li>
+	<li><a href="./career.html">Career</a></li>
+	<li><a href="./locateus.html">Locate Us</a></li>
+</ul>
+</div>
+<!--/.nav-collapse --></div>
+</div>
+
+<div class="container">
+<div class="header-section aboutpage">
+<div class="logo-container mynavbar mb"><img id="logo" src="./img/logo.png">
+<ul class="nav navbar-nav" style=" margin: auto auto;">
+	<li><a href="./index.html">Home</a></li>
+	<li><a href="./about.html">About Us</a></li>
+	<li><a href="./services.html">Services</a></li>
+	<li><a href="./curriculum.html">Curriculum</a></li>
+	<li><a href="./career.html">Career</a></li>
+	<li><a href="./locateus.html">Locate Us</a></li>
+</ul>
+</div>
+
+<div class="header-message"><img id="headermessage" src="./img/header-message.png"></div>
+
+<div class="header-kid"><img class="hidden-xs" id="headerkid" src="./img/kid.png"></div>
+
+<div class="header-image" style="position:relative;"><img id="headerimage" src="./img/light-shape.png">
+<div class="aboutus-content">
+<div class="row">
+<div class="col-sm-3 hidden-xs">
+<ul class="aboutus-navs" data-navtab-element-targets="#about-content" data-navtab-element-triggers="li > a" data-widget-class="aboutus-navs">
+	<li class="active"><a href="#" id="overview">Overview</a></li>
+	<li><a href="#" id="vision">Vision</a></li>
+	<li><a href="#" id="mission">Mission</a></li>
+	<li><a href="#" id="philosophy">Philosophy</a></li>
+	<li><a href="#" id="belief">Belief</a></li>
+	<li><a href="#" id="faq">Frequently Asked Questions</a></li>
+</ul>
+</div>
+
+<div class="col-sm-8" id="about-content">
+<div class="about-heading"><img src="./img/about-heading.png"> <img class="visible-xs kid-mb" src="./img/mobile/about/dancing-kid.png"> <div class="btn-group bootstrap-select visible-xs"><button type="button" class="btn dropdown-toggle btn-default" data-toggle="dropdown" title="Overview"><span class="filter-option pull-left">Overview</span>&nbsp;<span class="bs-caret"><span class="caret"></span></span></button><div class="dropdown-menu open"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Overview</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Vision</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Mission</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="3"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Philosophy</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="4"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Belief</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="5"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Frequently Asked Questions</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div><select class="selectpicker visible-xs mobile-device" data-hide="true" tabindex="-98"><option selected="selected" value="overview">Overview</option><option value="vision">Vision</option><option value="mission">Mission</option><option value="philosophy">Philosophy</option><option value="belief">Belief</option><option value="faq">Frequently Asked Questions</option> </select></div></div>
+
+<div class="text-content" data-navtab-element-contents="">
+<div class="navtabcontent active" id="overview-content">
+<p>In 2006, the first KidsKingdom childcare centre was established in Hougang, and soon after we expanded to Bedok. In 2014, we joined Horizon Education Group which operates educational institutions including international schools, nurseries and music academies, among others, in various parts of the world. Working closely together with us are our sister brands Iman and My Little Campus in Singapore. We operate 17 child care centes and kindergartens in total locally.</p>
+
+<p>At the core of our programmes is our curriculum. We have built our curriculum on top of the Early Years Development Framework (EYDF) and Nurturing Early Learners (NEL) Framework, offering an all-round learning experience. We focus on all six learning domains, namely Numeracy, Aesthetics and Creative Expression, Motor Skills Development, Language and Literacy, Social and Emotional Development, and Discovery of the World.</p>
+<br>
+<br>
+&nbsp;
+<p align="center"><b>CORPORATE BACKGROUND</b></p>
+
+<p>KidsKingdom is part of Horizon Education Asia Limited (HEAL) and Al Najah Education Limited (AN) group. The group is established and managed by Regulus Capital Limited, an alternative investment manager, with a vision to create one of the largest educational platforms in the MENA and Southeast Asia region, encompassing the full education spectrum across four verticals - Pre-Primary, Primary, Secondary &amp; Training Institutes.<br>
+<br>
+<b>Group mission</b> is to provide the best education services, tailored to the needs of the communities we serve through our rapidly growing network of educational facilities across four verticals - Pre-Primary, Primary, Secondary &amp; Training Institutes, spanning the MENA and Southeast Asia region.<br>
+<br>
+<b>Group vision</b> is to establish the largest educational platform in the MENA and Southeast Asia region emphasizing the importance of education in changing the future.</p>
+
+<p class="align-center mb10"><a href="http://www.alnajaheducation.com/" target="_blank"><img src="./img/Al Najah Logo.png"></a> <a href="http://www.alnajaheducation.com/" target="_blank"><img src="./img/HEAL Logo (1).png"></a></p>
+
+<p align="center"><b>OUR PRESENCE IN SINGAPORE</b></p>
+
+<p align="center">Tuition/Enrichment</p>
+
+<p align="center"><a href="http://www.aspirehub.com/" target="_blank"><img src="./img/Aspire Logo.png"></a></p>
+
+<p align="center">Childcare / Nursery / Kindergarten / Pre-schools</p>
+
+<p class="align-center mb10"><a href="https://www.blossomedugroup.com.sg/" target="_blank"><img src="./img/Blossom Logo.png"></a>&nbsp;<a href="https://www.iman.edu.sg/" target="_blank"><img src="./img/IMAN Logo.png"></a>&nbsp;<a href="http://mylittlecampus.com.sg/" target="_blank"><img src="./img/MLC Logo.png"></a></p>
+
+<p align="center">Training Center</p>
+
+<p align="center"><a href="http://www.rsi.edu.sg/" target="_blank"><img src="./img/RSI Logo.png"></a></p>
+</div>
+
+<div class="navtabcontent" id="vision-content">
+<p>We endeavour to be a centre of excellence in leading the region as a provider of creative and joyful early childhood programme with an emphasis on cultural values.</p>
+</div>
+
+<div class="navtabcontent" id="mission-content">
+<p>Our promise to stakeholders is to provide quality early childhood education and facilitate children’s early learning experiences in all domains of development. Our biggest responsibility is to set them on the road to become successful life-long learners.</p>
+</div>
+
+<div class="navtabcontent" id="philosophy-content">
+<p>Our learning system is guided by the framework of the Whole Child philosophy using research-based and developmentally appropriate practices. It is a creatively fresh framework with a unique culture-rich character.</p>
+</div>
+
+<div class="navtabcontent" id="belief-content">
+<ul>
+	<li>Children being secure, confident, safe and healthy</li>
+	<li>Children being involved, engaged and inquiring</li>
+	<li>Centre, families and the community connecting and working together</li>
+</ul>
+</div>
+
+<div class="navtabcontent" id="faq-content">
+<ol>
+	<li>
+	<p class="question">When are the visiting hours for the new centre at KidsKingdom Changi-Simei CC?</p>
+
+	<p class="answer">Upon making an appointment, interested parents may view our centre from 9am to 2pm during weekdays. We are closed on weekends and public holidays.</p>
+	</li>
+	<li>
+	<p class="question">How similar are the services and programmes offered at KidsKingdom Hougang, Bedok Reservoir and Changi-Simei branches?</p>
+
+	<p class="answer">We provide the same full- and half-day infant care, child care as well as student care services and programmes based on the needs and demands at each respective centre. Children will develop holistically with a strong focus on activity-based and hands-on learning, in a well-resourced environment.</p>
+	</li>
+	<li>
+	<p class="question">What is the teacher-child ratio observed at KidsKingdom?</p>
+
+	<p class="answer">The teacher-child ratio observed at KidsKingdom is based on regulation requirements stipulated by the Early Childhood Development Agency (ECDA).</p>
+	</li>
+	<li>
+	<p class="question">Are the teachers at KidsKingdom qualified?</p>
+
+	<p class="answer">Yes, our teachers are qualified and trained in Early Childhood Care and Education (ECCE) according to regulation requirements stipulated by the Early Childhood Development Agency (ECDA). Our dedicated teachers bring with them valuable experience and love for children as well as passion to challenge children’s curious minds.</p>
+	</li>
+	<li>
+	<p class="question">Does your menu cater to children with special diets?</p>
+
+	<p class="answer">Yes, we do. Our meals comprise nutritious food prepared in a healthy, safe and hygienic manner and halal sources. We respect the dietary requirements of different ethnic/ religious groups and cultural concerns. The practice of different culture customs develops self-esteem and cultural awareness for all children. We do not serve pork and pork-related items, beef and mutton to children. Outside food is not allowed within our premises.</p>
+	</li>
+	<li>
+	<p class="question">Does your menu cater to children with special diets?</p>
+
+	<p class="answer">Yes, we do. Our meals comprise nutritious food prepared in a healthy, safe and hygienic manner and halal sources. We respect the dietary requirements of different ethnic/ religious groups and cultural concerns. The practice of different culture customs develops self-esteem and cultural awareness for all children. We do not serve pork and pork-related items, beef and mutton to children. Outside food is not allowed within our premises.</p>
+	</li>
+	<li>
+	<p class="question">Does your menu cater to children with individual dietary requirements?</p>
+
+	<p class="answer">Prior to enrolment, parents shall inform us of their children’s special dietary requirements, for medical or religious reasons. The type of food to be consumed and/or avoided must be recorded in the registration and Allergy Notification forms so that the information is duly communicated to all staff.</p>
+	</li>
+	<li>
+	<p class="question">What is covered in the Mandarin curriculum?</p>
+
+	<p class="answer">Our Mandarin curriculum follows the learning goals in the NEL Framework for Mother Tongue Languages (MTLs) developed by the Ministry of Education (MOE). Children will be introduced to action songs, games, stories, rhymes, rhyming words, folk tales, and local ethnic culture such as festivals, customs and traditions, art forms and food that will interest them in learning Mandarin. They will also be able to understand simple messages and instructions, main ideas in a conversation, express personal needs and wants, ask and respond to simple questions, share personal experiences with others, participate in simple short conversations, recognise familiar words, have print and book awareness, thus develop their foundational language and literacy skills.</p>
+	</li>
+	<li>
+	<p class="question">What routines do children experience on a daily basis at KidsKingdom?</p>
+
+	<div class="answer">
+	<p>Children experience the following basic routines on a daily basis on top of the programme coverage:</p>
+
+	<ul>
+		<li>Health and body check upon arrival</li>
+		<li>Assembly</li>
+		<li>Breakfast</li>
+		<li>Outdoor Play</li>
+		<li>Shower</li>
+		<li>Lunch</li>
+		<li>Temperature check before nap</li>
+		<li>Tea</li>
+		<li>Temperature check after nap (in times of outbreak)</li>
+	</ul>
+	</div>
+	</li>
+	<li>
+	<p class="question">Is there a year-end concert and graduation ceremony organized for children?</p>
+
+	<p class="answer">Yes, a year-end concert and graduation ceremony is organized tentatively in the fourth quarter of the year.</p>
+	</li>
+	<li>
+	<p class="question">Is physical education offered as part of programme hours or as an enrichment?</p>
+
+	<p class="answer">Physical education refers to activities that develop children’s motor skills. These activities are conducted on a daily basis as part of our programme hours and during outdoor play.</p>
+	</li>
+	<li>
+	<p class="question">How you do you nurture learning dispositions and cultural values in children?</p>
+
+	<p class="answer">We nurture learning dispositions (positive behaviours and attitudes) and cultural values in children through activities that raise children’s awareness and develop their understanding of other cultures, enable children to recognise various situations and cultures through fictional characters, real-life personalities as well as people in children’s lives and encourage children to respect other cultures.</p>
+	</li>
+	<li>
+	<p class="question">When will KidsKingdom Changi-Simei CC commence its operations?</p>
+
+	<p class="answer">We will commence operations in January 2016. However, we are working with the current service provider and the CC management in ensuring a smooth transition for children in the month of December 2015.</p>
+	</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="bottom-thumbnail hidden-xs"><img src="./img/about/bottom-thumbnails.png"></div>
+
+<div class="bottom-thumbnail mb visible-xs"><img src="./img/mobile/about/bottom-thumbnails.png"></div>
+
+<div class="afterheader">
+<div class="semi-footer visible-xs">
+<div class="callandfb"><img src="./img/mobile/fbandcall.png" usemap="#image-maps-2015-12-22-054019"><map id="ImageMapsCom-image-maps-2015-12-22-054019" name="image-maps-2015-12-22-054019"><area alt="Call us at +65 6587 4771" coords="0,0,0,0" href="tel:+6565874771" shape="rect" style="outline:none;" target="_blank" title="Call us at +65 6587 4771"> <area alt="Visit us at Facebook" coords="0,0,0,0" href="https://www.facebook.com/kidskingdomgroup" shape="rect" style="outline:none;" target="_blank" title="Visit us at Facebook"></map></div>
+
+<div class="memberlogos"><img src="./img/mobile/memberlogos.png" usemap="#image-maps-2015-12-22-054438"><map id="ImageMapsCom-image-maps-2015-12-22-054438" name="image-maps-2015-12-22-054438"><area alt="Visit Al Najah Education Website" coords="0,0,0,0" href="http://www.alnajaheducation.com" shape="rect" style="outline:none;" target="_blank" title="Visit Al Najah Education Website"> <area alt="Visit Horizon Website" coords="0,0,0,0" href="http://www.alnajaheducation.com" shape="rect" style="outline:none;" target="_blank" title="Visit Horizon Website"></map></div>
+</div>
+
+<div class="row contact-details hidden-xs">
+<div class="col-md-12 contact-details">
+<div>
+<div class="row">
+<div class="col-sm-6 fb-details"><a href="https://www.facebook.com/kidskingdomgroup" target="_blank"><img src="./img/fb-logo.png"><span class="fb-message">Follow us for latest updates</span></a></div>
+
+<div class="col-sm-6 call-detail-container">Call&nbsp;6247 5036 (Bedok)&nbsp;/ 6382 3895 (Hougang)</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-12 hide">
+<div style="width: 760px;margin-left: -30px;">
+<div class="row">
+<div class="col-md-4 fb-details"><a href="https://www.facebook.com/kidskingdomgroup" target="_blank"><img src="./img/fb-logo.png"><span class="fb-message">Follow us for latest updates</span></a></div>
+
+<div class="col-md-4 call-detail-container"><span class="call-details"><span class="call-keyword">Call</span> +65 6587 4771</span></div>
+
+<div class="col-md-4 member-logos"><span><img alt="" border="0" height="73" id="Image-Maps-Com-image-maps-2015-11-21-120456" orgheight="73" orgwidth="228" src="./img/member-logos.png" usemap="#image-maps-2015-11-21-120456" width="228"><map id="ImageMapsCom-image-maps-2015-11-21-120456" name="image-maps-2015-11-21-120456"><span><area alt="Alnajah" coords="0,32,99,73" href="//www.alnajaheducation.com/" shape="rect" style="outline:none;" target="_blank" title="Alnajah"> <area alt="Horizon" coords="101,31,227,73" href="//www.alnajaheducation.com/" shape="rect" style="outline:none;" target="_blank" title="Horizon"></span></map></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="margin-bottom: 20px;text-align: center;">
+<p><font color="yellow">Managed By:</font><br>
+<a href="http://www.alnajaheducation.com" style="display: inline-block;" target="_blank"><img alt="" border="0" src="./img/about/HEAL-Logo.png"></a></p>
+</div>
+
+<div class="footer footer-section">
+<p><span>Our centres are licensed by the Early Childhood Development Agency (ECDA)</span> <span>© 2015 KidsKingdom Childcare, Singapore</span></p>
+</div>
+<!-- /.container --><!-- Bootstrap core JavaScript
+    ================================================== --><!-- Placed at the end of the document so the pages load faster --><script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script><script type="text/javascript" src="./assets/js/tabs.js"></script><script type="text/javascript" src="./assets/js/jQuery-rwdImageMaps.js"></script><script type="text/javascript" src="./assets/lib/bootstrapselect/bootstrap-select.min.js"></script><script>
+            $(document).ready(function(e) {
+                $('img[usemap]').rwdImageMaps();
+            });
+            $('.selectpicker').selectpicker({
+              size: false,
+              mobile:true
+            });
+
+        </script>
+</body></html>

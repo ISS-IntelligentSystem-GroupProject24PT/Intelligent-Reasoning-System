@@ -1,0 +1,293 @@
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="The KidsKingdom Childcare Curriculum aims at giving a wholesome education to its students."><meta name="author">
+	<link href="favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+	<link href="favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+	<title>KidsKingdom Childcare Curriculum</title>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-BYR24T2FZ6&amp;cx=c&amp;_slc=1"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<link default-stylesheet="true" href="assets/css/sh-default.css" rel="stylesheet" type="text/css">
+<meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+<body class="lower-bg" style="cursor: auto;">
+<div class="navbar mynavbar" data-widget-class="mynavbar" role="navigation">
+<div class="container">
+<div class="navbar-header"><button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span></button></div>
+
+<div class="collapse navbar-collapse">
+<ul class="nav navbar-nav" style=" margin: auto auto;">
+	<li class="active"><a href="./index.html">Home</a></li>
+	<li><a href="./about.html">About Us</a></li>
+	<li><a href="./services.html">Services</a></li>
+	<li><a href="./curriculum.html">Curriculum</a></li>
+	<li><a href="./career.html">Career</a></li>
+	<li><a href="./locateus.html">Locate Us</a></li>
+</ul>
+</div>
+<!--/.nav-collapse --></div>
+</div>
+
+<div class="container customcontainer">
+<div class="header-section curriculumpage">
+<div class="logo-container mynavbar mb"><img id="logo" src="./img/logo.png">
+<ul class="nav navbar-nav" style=" margin: auto auto;">
+	<li><a href="./index.html">Home</a></li>
+	<li><a href="./about.html">About Us</a></li>
+	<li><a href="./services.html">Services</a></li>
+	<li><a href="./curriculum.html">Curriculum</a></li>
+	<li><a href="./career.html">Career</a></li>
+	<li><a href="./locateus.html">Locate Us</a></li>
+</ul>
+</div>
+
+<div class="header-message"><img id="headermessage" src="./img/header-message.png"></div>
+
+<div class="header-kid"><img class="hidden-xs" id="headerkid" src="./img/kid.png"></div>
+
+<div class="header-image" style="position:relative;"><img class="transparency" id="headerimage" src="./img/light-shape.png">
+<div class="aboutus-content">
+<div class="row">
+<div class="col-sm-3 hidden-xs">
+<ul class="aboutus-navs" data-navtab-element-targets="#curriculum-content" data-navtab-element-triggers="li > a" data-widget-class="aboutus-navs">
+	<li class="active"><a href="#" id="curriculum0">Overview</a></li>
+	<li><a href="#" id="curriculum1">Language and Literacy</a></li>
+	<li><a href="#" id="curriculum2">Numeracy</a></li>
+	<li><a href="#" id="curriculum3">Social &amp; Emotional Development</a></li>
+	<li><a href="#" id="curriculum4">Motor Skills Development</a></li>
+	<li><a href="#" id="curriculum5">Aesthetics &amp; Creative Expression</a></li>
+</ul>
+
+<p class="running-kid"><img src="./img/curriculum/running-kid.png"></p>
+</div>
+
+<div class="col-sm-8" id="curriculum-content">
+<div class="about-heading"><img src="./img/curriculum/curriculum-heading.png"> <img class="visible-xs kid-mb" src="./img/curriculum/running-kid.png"> <div class="btn-group bootstrap-select visible-xs"><button type="button" class="btn dropdown-toggle btn-default" data-toggle="dropdown" title="Overview"><span class="filter-option pull-left">Overview</span>&nbsp;<span class="bs-caret"><span class="caret"></span></span></button><div class="dropdown-menu open"><ul class="dropdown-menu inner" role="menu"><li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Overview</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="1"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Language and Literacy</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Numeracy</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="3"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Social &amp; Emotional Development</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="4"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Motor Skills Development</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="5"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Aesthetics &amp; Creative Expression</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div><select class="selectpicker visible-xs mobile-device" data-hide="true" tabindex="-98"><option selected="selected" value="curriculum0">Overview</option><option value="curriculum1">Language and Literacy</option><option value="curriculum2">Numeracy</option><option value="curriculum3">Social &amp; Emotional Development</option><option value="curriculum4">Motor Skills Development</option><option value="curriculum5">Aesthetics &amp; Creative Expression</option> </select></div></div>
+
+<div class="text-content navtabcontent" id="curriculum1-content">
+<p>Our language and literacy programmes (English Language and MTL) help our pre-schoolers develop competence in speaking, listening and in becoming readers and writers by immersing them in a literary -rich environment.</p>
+
+<p>At KidsKingdom, we develop the children’s language and literacy skills through :</p>
+
+<table class="table table-bordered">
+	<thead>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Language Games</td>
+			<td>Rhymes &amp; Songs</td>
+			<td>Shared Writing</td>
+			<td>Language Station Activities</td>
+		</tr>
+		<tr>
+			<td>Shared-book Reading</td>
+			<td>Role-play</td>
+			<td>Storytelling</td>
+			<td>Sound Spell Activities</td>
+		</tr>
+		<tr>
+			<td>Word Bank</td>
+			<td>Routines</td>
+			<td>Word Attack</td>
+			<td>Alphabet Knowledge Activities</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>KinderZoo Phonics is a structured and systematic phonics-based approach to teaching reading, writing and spelling to our pre-schoolers. It features engaging, humorous and ‘fun with phonics’ activities and stories. KinderWriter encourages our pre-schoolers to use language to record their ideas and thoughts. KinderMeeting stimulates verbal interactions between children. The KidsKingdom educators are trained to ask probing questions and value children’s talk by taking time to listen and respond.</p>
+<img class="contained" src="./img/curriculum/curriculum-lang.png"></div>
+
+<div class="text-content navtabcontent" id="curriculum2-content">
+<p>At KidsKingdom, learning experiences for numeracy are progressively-planned to nurture the pre-schoolers’ interest and help them attain a firm foundation in mathematical concepts and skills. Our numeracy programme, KinderMath offers numeracy-rich experiences that follow a hierarchical order which includes:</p>
+
+<table class="table table-bordered">
+	<thead>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Matching, Sorting &amp; Comparing</td>
+			<td>Ordering &amp; Patterning</td>
+			<td>Counting &amp; Number Value</td>
+			<td>Shape &amp; Spatial Awareness</td>
+			<td>Simple Measurement</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>KinderMath has a strong emphasis on the mastery of numeracy through hands-on activities. Through manipulation of pictures and symbols, pre-schoolers notice relationships between groups of things to be sorted, counted, shared and represented. Mathematical concepts are introduced via exciting songs and rhymes including interesting stories as a prelude to the activities. The KidsKingdom’s educators are trained to provide opportunities for the pre-schoolers to experience 5 key mathematical processes:</p>
+
+<table class="table table-bordered">
+	<thead>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Problem-solving</td>
+			<td>Communication</td>
+			<td>Reasoning</td>
+			<td>Connection</td>
+			<td>Representation</td>
+		</tr>
+	</tbody>
+</table>
+<!--img src="./img/curriculum/curriculum-numeracy.png" class="contained"--></div>
+
+<div class="text-content navtabcontent" id="curriculum3-content">
+<p>At KidsKingdom, learning experiences in this domain are planned to enhance children’s well-being and develop a positive sense of themselves in relation to their peers, family and community. They are provided with opportunities to work collaboratively in projects . Peer group interactions help to increase the children’s social competence, confidence and emotional maturity. Our pre-schoolers are taught how to regulate and manage their feelings, thoughts and behaviours so as to have a positive impact on their physical and mental health and positive disposition to learn.</p>
+
+<div>
+<h3>Zippy's Friends</h3>
+
+<p>HPB provides us with this international school-based mental health programme that teaches social and positive coping skills to our pre-schoolers. It uses literature based instruction to teach character while it tells a story.</p>
+</div>
+
+<div>
+<h3>KinderLeaders</h3>
+
+<p>KinderLeaders assist their teachers and peers in various tasks like attendance taking and group work. It helps to nurture early leadership skills and allow our children to learn both hard and soft skills in the early stages of education.</p>
+</div>
+
+<div>
+<h3>KinderConcert</h3>
+
+<p>Singing, dancing and drama held during school events and concerts provide a platform for our children to build up their self-esteem and stage confidence while developing their Interpersonal and Intrapersonal Intelligences.</p>
+</div>
+<!--img src="./img/curriculum/curriculum-sed.png" class="contained"--></div>
+
+<div class="text-content navtabcontent" id="curriculum4-content">
+<p>Learning experiences in this domain are planned to help our pre-schoolers develop their physical skills, dexterity and fitness which will in turn influence the children’s health and mastery of self-help routines in their daily lives. Such learning experiences include the following:</p>
+
+<table class="table table-bordered">
+	<thead>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Gross Motor Skills</td>
+			<td>Fine Motor Skills</td>
+			<td>Physical Fitness</td>
+			<td>Health and Safety</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>We plan a great variety of interactive group games for our pre-schoolers to participate with their friends. This will enable our children to learn to share, take turns and cooperate with others. In helping our children to develop motor skills, the KidsKingdom’s educators :</p>
+
+<ul>
+	<li>Provide opportunities for regular and frequent physical activities.</li>
+	<li>Offer a range of stimuli for movement.</li>
+	<li>Ensure that the environment is safe.</li>
+</ul>
+
+<p>Some of these activities are:</p>
+
+<table class="table table-bordered">
+	<thead>
+	</thead>
+	<tbody>
+		<tr>
+			<td>OLE</td>
+			<td>KIT KAT Break</td>
+			<td>KindeRobics</td>
+			<td>KiddOlympics</td>
+		</tr>
+	</tbody>
+</table>
+<!--img src="./img/curriculum/curriculum-msd.png" class="contained"--></div>
+
+<div class="text-content navtabcontent" id="curriculum5-content">
+<p>Learning experiences in this domain are planned to encourage our pre-schoolers to be expressive, creative and imaginative. Such experiences allow them to explore and appreciate elements of visual arts as well as music and movement. These fun experiences provide an avenue for our children to express their creative ideas and feelings about themselves and the world they see.</p>
+
+<p>KidsKingdom’s educators pay special attention to these key factors :</p>
+
+<ul>
+	<li>Ample time for our children to explore and experiment with ideas, resources and materials</li>
+	<li>Opportunities for our children to develop confidence to express their ideas</li>
+	<li>Exploration to develop the children’s awareness of the art forms of different cultures</li>
+	<li>Appreciation of their own works and the works of others</li>
+</ul>
+
+<p>In Aesthetics and Creative Expression, our focus is on the process and positive learning experiences rather than the end result or product, especially, in the context of the following programme components:</p>
+
+<table class="table table-bordered">
+	<thead>
+	</thead>
+	<tbody>
+		<tr>
+			<td>KinderArt</td>
+			<td>KinderTheatre</td>
+			<td>KinderPresenter</td>
+			<td>Kidz Fiesta</td>
+		</tr>
+	</tbody>
+</table>
+<!--img src="./img/curriculum/curriculum-ace.png" class="contained"--></div>
+
+<div class="text-content navtabcontent" id="curriculum6-content">
+<p>Curriculum 6</p>
+</div>
+
+<div class="text-content navtabcontent active" id="curriculum0-content">
+<p>Our curriculum at KidsKingdom, The KinderSmart Thinkers Learning System, is designed for the holistic development of our pre-schoolers. It addresses all the six learning domains identified by the <span class="colored-text">Nurturing Early Learners (NEL) Curriculum (2012)</span>, which are critical to a child's holistic development, namely:</p>
+
+<p class="colored-text kbfont text-content-heading">THE KINDERSMART THINKERS LEARNING SYSTEM</p>
+
+<p class="align-center mb10"><img src="./img/curriculum/curriculum-content-image.png"></p>
+The KidsKingdom’s whole child philosophy ensures that each pre-schooler under our care is healthy, safe, engaged, supported, and challenged. This gets the KidsKingdom’s pre-schoolers ready for success in school and life.
+
+<p>Our lessons are planned in progression over the age levels from the early years to Kindergarten 2. This facilitates continuous learning because each lesson is built upon the previous lesson and the children’s prior knowledge.</p>
+
+<p>The KidsKingdom’s early educators are guided and trained to use the prescribed curriculum so as to ensure that the quality of the teaching and learning remains effectively high at all our centres.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="afterheader">
+<div class="semi-footer visible-xs">
+<div class="callandfb"><img src="./img/mobile/fbandcall.png" usemap="#image-maps-2015-12-22-054019"><map id="ImageMapsCom-image-maps-2015-12-22-054019" name="image-maps-2015-12-22-054019"><area alt="Call us at +65 6587 4771" coords="0,0,0,0" href="tel:+6565874771" shape="rect" style="outline:none;" target="_blank" title="Call us at +65 6587 4771"> <area alt="Visit us at Facebook" coords="0,0,0,0" href="https://www.facebook.com/kidskingdomgroup" shape="rect" style="outline:none;" target="_blank" title="Visit us at Facebook"></map></div>
+
+<div class="memberlogos"><img src="./img/mobile/memberlogos.png" usemap="#image-maps-2015-12-22-054438"><map id="ImageMapsCom-image-maps-2015-12-22-054438" name="image-maps-2015-12-22-054438"><area alt="Visit Al Najah Education Website" coords="0,0,0,0" href="http://www.alnajaheducation.com" shape="rect" style="outline:none;" target="_blank" title="Visit Al Najah Education Website"> <area alt="Visit Horizon Website" coords="0,0,0,0" href="http://www.alnajaheducation.com" shape="rect" style="outline:none;" target="_blank" title="Visit Horizon Website"></map></div>
+</div>
+
+<div class="row contact-details hidden-xs">
+<div class="col-md-12 contact-details">
+<div>
+<div class="row">
+<div class="col-sm-6 fb-details"><a href="https://www.facebook.com/kidskingdomgroup" target="_blank"><img src="./img/fb-logo.png"><span class="fb-message">Follow us for latest updates</span></a></div>
+
+<div class="col-sm-6 call-detail-container">Call&nbsp;6247 5036 (Bedok)&nbsp;/ 6382 3895 (Hougang)</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-12 hide">
+<div style="width: 760px;margin-left: -30px;">
+<div class="row">
+<div class="col-md-4 fb-details"><a href="https://www.facebook.com/kidskingdomgroup" target="_blank"><img src="./img/fb-logo.png"><span class="fb-message">Follow us for latest updates</span></a></div>
+
+<div class="col-md-4 call-detail-container"><span class="call-details"><span class="call-keyword">Call</span> +65 6587 4771</span></div>
+
+<div class="col-md-4 member-logos"><span><img alt="" border="0" height="73" id="Image-Maps-Com-image-maps-2015-11-21-120456" orgheight="73" orgwidth="228" src="./img/member-logos.png" usemap="#image-maps-2015-11-21-120456" width="228"><map id="ImageMapsCom-image-maps-2015-11-21-120456" name="image-maps-2015-11-21-120456"><span><area alt="Alnajah" coords="0,32,99,73" href="//www.alnajaheducation.com/" shape="rect" style="outline:none;" target="_blank" title="Alnajah"> <area alt="Horizon" coords="101,31,227,73" href="//www.alnajaheducation.com/" shape="rect" style="outline:none;" target="_blank" title="Horizon"></span></map></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="margin-bottom: 20px;text-align: center;">
+<p><font color="yellow">Managed By:</font><br>
+<a href="http://www.alnajaheducation.com" style="display: inline-block;" target="_blank"><img alt="" border="0" src="./img/about/HEAL-Logo.png"></a></p>
+</div>
+
+<div class="footer footer-section">
+<p><span>Our centres are licensed by the Early Childhood Development Agency (ECDA)</span> <span>© 2015 KidsKingdom Childcare, Singapore</span></p>
+</div>
+<!-- /.container --><!-- Bootstrap core JavaScript
+    ================================================== --><!-- Placed at the end of the document so the pages load faster --><script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script><script type="text/javascript" src="./assets/js/tabs.js"></script><script type="text/javascript" src="./assets/js/jQuery-rwdImageMaps.js"></script><script type="text/javascript" src="./assets/lib/bootstrapselect/bootstrap-select.min.js"></script><script>
+            $(document).ready(function(e) {
+                $('img[usemap]').rwdImageMaps();
+            });
+            $('.selectpicker').selectpicker({
+              size: false,
+              mobile:true
+            });
+
+        </script>
+</body></html>

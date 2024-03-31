@@ -600,9 +600,9 @@ Contact us on enquiry@mulberrylearning.com</div>
 <section class="container"><div class="row">
 <div class="spb_testimonial_slider_widget spb_content_element col-sm-12 testimonial">
 <div class="spb_wrapper slider-wrap">
-<div class="flexslider testimonials-slider content-slider" data-animation="fade" data-autoplay="yes" style="height: 307.781px;"><ul class="slides"><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><em>“Teachers Logesh, Reichelle and Pinyu Laoshi have invested so much love and sincerity in doing their best. Both my girls come home from school so joyful each day and given they take a long time to warm up to strangers, I felt the teachers did so well in helping the girls adapt when they first enrolled. All teachers are very open to communication and very patient with first-time parents like us. We are thankful that they are outstanding and committed in what they do on a daily basis.”
+<div class="flexslider testimonials-slider content-slider" data-animation="fade" data-autoplay="yes" style="height: 262.781px;"><ul class="slides"><li class="testimonial flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;"><div class="testimonial-text text-normal"><em>“Teachers Logesh, Reichelle and Pinyu Laoshi have invested so much love and sincerity in doing their best. Both my girls come home from school so joyful each day and given they take a long time to warm up to strangers, I felt the teachers did so well in helping the girls adapt when they first enrolled. All teachers are very open to communication and very patient with first-time parents like us. We are thankful that they are outstanding and committed in what they do on a daily basis.”
 </em>
-<h3><span style="color: #e92d8d;">Kaiqi, parent of Hannah Ng (N2), Mulberry Learning @ Cairnhill</span></h3></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;"><div class="testimonial-text text-normal"><em>“Would like to thank all the Teachers from the bottom of our hearts, for taking such good care of Chloe. I believe since the Circuit Breaker, many parents including us, really do see the importance of teachers, who put in such long hours at work. This is an occupation, if without passion, would not be sustainable. We can truly feel that Chloe enjoys her time in school and that to us, is very important. It also gives us a huge piece of mind, allowing us to concentrate at work. We also came to realize that Chloe does learn things in school! Although it’s an infant care where teachers are super busy tending to kids, they still managed to find time to teach the infants, which is really amazing!”</em>
+<h3><span style="color: #e92d8d;">Kaiqi, parent of Hannah Ng (N2), Mulberry Learning @ Cairnhill</span></h3></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><em>“Would like to thank all the Teachers from the bottom of our hearts, for taking such good care of Chloe. I believe since the Circuit Breaker, many parents including us, really do see the importance of teachers, who put in such long hours at work. This is an occupation, if without passion, would not be sustainable. We can truly feel that Chloe enjoys her time in school and that to us, is very important. It also gives us a huge piece of mind, allowing us to concentrate at work. We also came to realize that Chloe does learn things in school! Although it’s an infant care where teachers are super busy tending to kids, they still managed to find time to teach the infants, which is really amazing!”</em>
 <h3><span style="color: #e92d8d;">Valerie Sim and Darren Ng, parents of Chloe Ng, Braddell</span></h3></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><em><span style="font-weight: 400;">“All grown-ups were once children… but only few of them remember it.” - </span><span style="font-weight: 400;">Antoine de Saint-Exupéry.</span></em>
 <em><span style="font-weight: 400;">Mulberry Learning is the experience we wished for as little children. </span><span style="font-weight: 400;">The indoor playground, open concept tactile stations and bilingual approach provides the ideal start for our son’s journey. More importantly, </span><span style="font-weight: 400;">what has consistently stood out is the personal care and attention to detail by the teachers and school management.</span></em>
 <h3><span style="color: #e92d8d;">Shan &amp; Hari, parents of Kai <span style="font-weight: 400;">符凯恩 (PN), Fusionopolis</span></span></h3></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><em>“Teacher Hajar and Ling Di Laoshi of N2A have been really supportive and nurturing of my children. I feel assured that they are enjoying school and quality education when I send them to school daily. I find the staff and teachers to be very responsive and nurturing towards the children. After sharing about Ellie’s lack of motivation to read at home, Teacher Hajar motivated her and emphasized the H.O.M. value to keep trying (which Ellie loves to quote every now and then). I now see a marked change of attitude in Ellie and she takes pride in attempting to read! Many thanks to Teacher Hajar for the positive influence!”</em>
@@ -704,7 +704,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <span class="wpcf7-form-control-wrap" data-name="child-given-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="child-given-name"></span>
 </p>
 <p>Date of Birth <span class="req">*</span><br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth" id="dp1711777298779"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth" id="dp1711885197398"></span>
 </p>
 <p><a id="mul-second-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -713,7 +713,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <span class="wpcf7-form-control-wrap" data-name="child-2-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-2-given-name"></span>
 </p>
 <p>Second Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth2"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth2" id="dp1711777298780"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth2"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth2" id="dp1711885197399"></span>
 </p>
 <p><a id="mul-third-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -723,7 +723,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <span class="wpcf7-form-control-wrap" data-name="child-3-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-3-given-name"></span>
 </p>
 <p>Third Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth3"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth3" id="dp1711777298781"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth3"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth3" id="dp1711885197400"></span>
 </p>
 <p><a id="mul-fourth-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -733,7 +733,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <span class="wpcf7-form-control-wrap" data-name="child-4-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-4-given-name"></span>
 </p>
 <p>Fourth Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth4"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth4" id="dp1711777298782"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth4"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth4" id="dp1711885197401"></span>
 </p>
 </div>
 <div style="clear: both;">
@@ -1000,7 +1000,7 @@ if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_c
                         
                 <span class="welcome-message">Hi there! How can I help you? :)</span>
             
-                        <span class="time">13:41</span>
+                        <span class="time">19:39</span>
                     </div>
                 </div>
                 <div class="csaas-whatsapp-footer" dir="ltr">

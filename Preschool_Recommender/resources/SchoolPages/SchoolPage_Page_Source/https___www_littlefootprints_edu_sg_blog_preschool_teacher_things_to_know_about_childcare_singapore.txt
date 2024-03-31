@@ -1,0 +1,1812 @@
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class=" js"><head>
+    <!--meta tag google-site-verification -->
+  <meta name="google-site-verification" content="ULstchMDGAXXKIidZbIp0zM8qwauWBRswtoZ3QCBNes">
+              <meta property="og:image" content="https://www.littlefootprints.edu.sg/sites/default/files/my_files/Main-blog-page.jpg">
+          <meta property="og:image:url" content="https://www.littlefootprints.edu.sg/sites/default/files/my_files/Main-blog-page.jpg">
+          <!-- Google Tag Manager -->
+      <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-R7MS01ZD7R&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-7HYEV749LQ&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MWIzOGRhOGZjMQ.js" data-id="CEL6G0BC77UA35R55KPG"></script><script src="https://js.hs-banner.com/v2/6034113/banner.js" type="text/javascript" id="cookieBanner-6034113" data-cookieconsent="ignore" data-hs-ignore="true" data-loader="hs-scriptloader" data-hsjs-portal="6034113" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script src="https://js.hs-analytics.net/analytics/1711875300000/6034113.js" type="text/javascript" id="hs-analytics"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CEL6G0BC77UA35R55KPG&amp;lib=ttq"></script><script src="https://connect.facebook.net/signals/config/650736465272701?v=2.9.151&amp;r=stable&amp;domain=www.littlefootprints.edu.sg&amp;hme=8ce74e881727851b4427183947937854816d72704925561b9de6420cd43214ee&amp;ex_m=66%2C111%2C98%2C102%2C57%2C3%2C92%2C65%2C15%2C90%2C83%2C48%2C50%2C157%2C160%2C171%2C167%2C168%2C170%2C28%2C93%2C49%2C72%2C169%2C152%2C155%2C164%2C165%2C172%2C120%2C14%2C47%2C176%2C175%2C122%2C17%2C32%2C36%2C1%2C40%2C61%2C62%2C63%2C67%2C87%2C16%2C13%2C89%2C86%2C85%2C99%2C101%2C35%2C100%2C29%2C25%2C153%2C156%2C129%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C53%2C58%2C60%2C70%2C94%2C26%2C71%2C8%2C7%2C75%2C45%2C20%2C96%2C95%2C9%2C19%2C18%2C77%2C82%2C44%2C43%2C81%2C37%2C39%2C80%2C52%2C78%2C31%2C41%2C34%2C69%2C0%2C88%2C4%2C84%2C76%2C79%2C2%2C33%2C59%2C38%2C97%2C42%2C74%2C64%2C103%2C56%2C55%2C30%2C91%2C54%2C51%2C46%2C73%2C68%2C23%2C104%2C182%2C181%2C183%2C188%2C189%2C190%2C186%2C178%2C121%2C149%2C177%2C179%2C112%2C143%2C134%2C138%2C118%2C173%2C214%2C105%2C215%2C151%2C109%2C132%2C125%2C113" async=""></script><script src="https://connect.facebook.net/signals/config/1524039957609116?v=2.9.151&amp;r=stable&amp;domain=www.littlefootprints.edu.sg&amp;hme=8ce74e881727851b4427183947937854816d72704925561b9de6420cd43214ee&amp;ex_m=66%2C111%2C98%2C102%2C57%2C3%2C92%2C65%2C15%2C90%2C83%2C48%2C50%2C157%2C160%2C171%2C167%2C168%2C170%2C28%2C93%2C49%2C72%2C169%2C152%2C155%2C164%2C165%2C172%2C120%2C14%2C47%2C176%2C175%2C122%2C17%2C32%2C36%2C1%2C40%2C61%2C62%2C63%2C67%2C87%2C16%2C13%2C89%2C86%2C85%2C99%2C101%2C35%2C100%2C29%2C25%2C153%2C156%2C129%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C53%2C58%2C60%2C70%2C94%2C26%2C71%2C8%2C7%2C75%2C45%2C20%2C96%2C95%2C9%2C19%2C18%2C77%2C82%2C44%2C43%2C81%2C37%2C39%2C80%2C52%2C78%2C31%2C41%2C34%2C69%2C0%2C88%2C4%2C84%2C76%2C79%2C2%2C33%2C59%2C38%2C97%2C42%2C74%2C64%2C103%2C56%2C55%2C30%2C91%2C54%2C51%2C46%2C73%2C68%2C23%2C104" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://static.hotjar.com/c/hotjar-2671547.js?sv=7"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-839167815&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://www.googletagmanager.com/gtm.js?id=GTM-5DKQNN6" async=""></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-839167815&amp;l=dataLayer&amp;cx=c"></script><script id="spcloader" type="text/javascript" async="" src="https://sdk.privacy-center.org/82e3b1e3-89dd-4a25-937a-674e52d6a3cb/loader.js?target=www.littlefootprints.edu.sg" charset="utf-8"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=UA-62259235-1&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5DKQNN6"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-K3CD9G7"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-K3HKVFN"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-K3HKVFN');</script>
+      <!-- End Google Tag Manager -->
+	  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-P0V5W8GBVM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-62259235-1');
+  gtag('config', 'G-P0V5W8GBVM');
+</script>
+      <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-K3CD9G7');</script>
+      <!-- End Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-5DKQNN6');</script>
+      <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+<script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"SG","siteName":"Little Footprints Preschool","entityUid":"7","entityType":"node","entityBundle":"article","entityId":"323","entityTitle":"10 Things Your Child\u2019s Preschool Teachers Want Parents to Know ","entityTaxonomy":{"tags":{"6":"CHILDCARE \u0026 PRESCHOOL","1":"PARENTING"}},"userUid":0});</script>
+<link rel="canonical" href="https://www.littlefootprints.edu.sg/blog/preschool-teacher-things-to-know-about-childcare-singapore">
+<meta name="description" content="Let us share some insights and tips from our preschool teachers that will help your child settle in well at any childcare in Singapore.">
+<meta name="keywords" content="childcare singapore">
+<meta property="og:site_name" content="Little Footprints Preschool">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.littlefootprints.edu.sg/blog/preschool-teacher-things-to-know-about-childcare-singapore">
+<meta property="og:title" content="10 Things Your Child’s Preschool Teachers Want Parents to Know">
+<meta property="og:description" content="Have you walked past the preschool classrooms and seen children happily settled in their playgroups, and learning with enthu">
+<meta property="article:published_time" content="2022-08-19T13:27:36+0800">
+<meta property="article:modified_time" content="2023-10-19T11:46:04+0800">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Have you walked past the preschool classrooms and seen children happily settled in their playgroups, and learning with enthu">
+<meta name="twitter:title" content="10 Things Your Child’s Preschool Teachers Want Parents to Know">
+<meta name="twitter:creator" content="@babilou">
+<meta name="twitter:url" content="https://www.littlefootprints.edu.sg/blog/preschool-teacher-things-to-know-about-childcare-singapore">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "\u003Cp paraeid=\u0022{bb3fcdeb-d2ef-44cd-bb52-c6318d207909}{234}\u0022 paraid=\u0022725033688\u0022\u003EHave you walked past the preschool classrooms and seen children happily settled in their playgroups, and learning with enthu\u003C/p\u003E",
+            "datePublished": "2022-08-19T13:27:36+0800",
+            "author": {
+                "@type": "Organization",
+                "name": "BABILOU"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "BABILOU"
+            }
+        }
+    ]
+}</script>
+<link rel="shortcut icon" href="/sites/default/files/kw_logo_1.png" type="image/png">
+<link rel="alternate" hreflang="en" href="https://www.littlefootprints.edu.sg/blog/preschool-teacher-things-to-know-about-childcare-singapore">
+<link rel="revision" href="https://www.littlefootprints.edu.sg/blog/preschool-teacher-things-to-know-about-childcare-singapore">
+<script src="/sites/default/files/google_tag/group_gtm/google_tag.script.js?sadr9j" defer=""></script>
+
+    <title>10 Things Your Child’s Preschool Teachers Want Parents to Know</title>
+    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/ajax-progress.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/autocomplete-loading.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tabledrag.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?sadr9j">
+<link rel="stylesheet" media="all" href="/modules/contrib/responsive_table_filter/css/responsive-table-filter.css?sadr9j">
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/css/webform.form.css?sadr9j">
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/css/webform.element.details.toggle.css?sadr9j">
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/css/webform.element.message.css?sadr9j">
+<link rel="stylesheet" media="all" href="/modules/contrib/anchor_link/css/anchor_link.css?sadr9j">
+<link rel="stylesheet" media="all" href="/themes/custom/jv/assets/css/messages.css?sadr9j">
+<link rel="stylesheet" media="all" href="/themes/custom/jv/assets/css/toolbar.css?sadr9j">
+<link rel="stylesheet" media="all" href="/themes/custom/bab/assets/css/critical.css?sadr9j">
+<link rel="stylesheet" media="all" href="/themes/custom/bab/assets/css/common.css?sadr9j">
+<link rel="stylesheet" media="all" href="/themes/custom/bab/assets/css/features.css?sadr9j">
+<link rel="stylesheet" media="all" href="/themes/custom/bab/assets/css/ie11.css?sadr9j">
+<link rel="stylesheet" media="all" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
+<link rel="stylesheet" media="all" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+<link rel="stylesheet" media="all" href="/themes/custom/bab/assets/css/main.css?sadr9j">
+<link rel="stylesheet" media="all" href="/themes/custom/bab/assets/css/custom_css.css?sadr9j">
+<link rel="stylesheet" media="all" href="/themes/custom/bab/assets/css/slider.css?sadr9j">
+<link rel="stylesheet" media="all" href="/themes/custom/bab/assets/css/colorbox.css?sadr9j">
+
+    
+    <script type="text/javascript">
+      window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+      else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+      var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+      if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+      var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("82e3b1e3-89dd-4a25-937a-674e52d6a3cb")})();
+    </script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9">
+
+    <!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-839167815"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-839167815');
+</script>
+
+<style>
+.faq-contact-confirm-form .title-content:after {
+    background: url(/sites/default/files/styles/medium/public/2024-03/LFP.png) no-repeat !important;
+    content: '';
+    display: block;
+    width: 255px;
+    height: 80px !important;
+    background-size: contain !important;
+}
+</style>
+  <script type="text/javascript" async="" src="https://sdk.privacy-center.org/sdk/e6f9f80fe8cc8a77f24c2975076fb8b791b20d15/modern/sdk.e6f9f80fe8cc8a77f24c2975076fb8b791b20d15.js" charset="utf-8"></script><script async="" src="https://my.hellobar.com/modules-v26.js"></script><script charset="utf-8" src="https://analytics.tiktok.com/i18n/pixel/static/identify_05ea2.js"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+  <body class="path-node-323 path-node page-node-type-article"><div id="didomi-host" data-nosnippet="true" aria-hidden="true"></div><iframe name="__tcfapiLocator" title="__tcfapiLocator" style="display: none;"></iframe>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3HKVFN"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3CD9G7"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5DKQNN6"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
+        <div class="outer-wrap" id="top">
+      <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5DKQNN6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'off_canvas_page_wrapper' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page' -->
+<!-- FILE NAME SUGGESTIONS:
+   * page--node--article.html.twig
+   * page--node--323.html.twig
+   * page--node--%.html.twig
+   * page--node.html.twig
+   x page.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/page/page.html.twig' -->
+
+
+
+
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   x region--header.html.twig
+   * region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/system/region--header.html.twig' -->
+        <header>
+        <nav class="navbar navbar-expand-xl fixed-top navbar-light bg-light">
+            <div class="container">
+                <a class="navbar-brand" href="https://www.littlefootprints.edu.sg/">
+                    <img src="https://www.littlefootprints.edu.sg/sites/default/files/my_files/LFP-web-220x50.jpg" width="294" alt="logo">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                   
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--system-menu-block:main--entitynodecanonical.html.twig
+   * block--bab-main-menu-burger.html.twig
+   x block--system-menu-block--main.html.twig
+   * block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/block/block--system-menu-block--main.html.twig' -->
+<nav role="navigation" aria-labelledby="block-bab-main-menu-burger-menu" class="block-bab-main-menu-burger navbar-nav ms-auto mb-2 mb-lg-0">
+
+  
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__main' -->
+<!-- FILE NAME SUGGESTIONS:
+   x menu--main.html.twig
+   x menu--main.html.twig
+   * menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/system/menu--main.html.twig' -->
+
+              <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+    
+          <li class="nav-item dropdown ui-add-image-icon">
+  
+                            <a href="/our-curriculum" class="nav-link" title="" data-drupal-link-system-path="node/90">
+         OUR CURRICULUM
+         
+          </a>
+                                        <ul class="dropdown-menu">
+    
+          <li class="nav-item dropdown">
+  
+                            <a href="/our-curriculum/infant-care" class="dropdown-item" title="" data-drupal-link-system-path="node/154">             
+             Infant Care (2 to 17 months)
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/our-curriculum/childcare" class="dropdown-item" title="" data-drupal-link-system-path="node/240">             
+             Childcare (18 months to 6 years old)
+             
+          </a>
+                
+      </li>
+            </ul>
+  
+          <span class="ui-menu-hover"><img src="https://www.littlefootprints.edu.sg/themes/custom/bab/assets/images/dropdown_down_arrow.svg" alt=""></span>
+        
+      </li>
+          <li class="nav-item dropdown ui-add-image-icon">
+  
+                            <a href="/centre-list" class="nav-link" title="" data-drupal-link-system-path="centre-list">
+         OUR CENTRES
+         
+          </a>
+                                        <ul class="dropdown-menu">
+    
+          <li class="nav-item dropdown">
+  
+                            <a href="/centre-list?field_regions_value=north" class="dropdown-item" title="" data-drupal-link-query="{&quot;field_regions_value&quot;:&quot;north&quot;}" data-drupal-link-system-path="centre-list">             
+             North
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/centre-list?field_regions_value=south" class="dropdown-item" title="" data-drupal-link-query="{&quot;field_regions_value&quot;:&quot;south&quot;}" data-drupal-link-system-path="centre-list">             
+             North-East
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/centre-list?field_regions_value=central" class="dropdown-item" title="" data-drupal-link-query="{&quot;field_regions_value&quot;:&quot;central&quot;}" data-drupal-link-system-path="centre-list">             
+             Central
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/centre-list?field_regions_value=east" class="dropdown-item" title="" data-drupal-link-query="{&quot;field_regions_value&quot;:&quot;east&quot;}" data-drupal-link-system-path="centre-list">             
+             East
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/centre-list?field_regions_value=west" class="dropdown-item" title="" data-drupal-link-query="{&quot;field_regions_value&quot;:&quot;west&quot;}" data-drupal-link-system-path="centre-list">             
+             West
+             
+          </a>
+                
+      </li>
+            </ul>
+  
+          <span class="ui-menu-hover"><img src="https://www.littlefootprints.edu.sg/themes/custom/bab/assets/images/dropdown_down_arrow.svg" alt=""></span>
+        
+      </li>
+          <li class="nav-item dropdown ui-add-image-icon">
+  
+                            <a href="/admission-info-fees" class="nav-link" title="" data-drupal-link-system-path="node/156">
+          ADMISSION INFO &amp; FEES
+         
+          </a>
+                                        <ul class="dropdown-menu">
+    
+          <li class="nav-item dropdown">
+  
+                            <a href="/admission-info-fees#school_fee" class="dropdown-item" title="" data-drupal-link-system-path="node/156">             
+             School Fees
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/admission-info-fees#childcare_subsidies" class="dropdown-item" title="" data-drupal-link-system-path="node/156">             
+             Subsidies
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="https://littlefootprints.edu.sg/frequently-asked-questions" class="dropdown-item" title="">             
+             FAQ
+             
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/admission-info-fees#corporate-partnerships" class="dropdown-item" title="" data-drupal-link-system-path="node/156">             
+             Corporate Partnerships
+             
+          </a>
+                
+      </li>
+            </ul>
+  
+          <span class="ui-menu-hover"><img src="https://www.littlefootprints.edu.sg/themes/custom/bab/assets/images/dropdown_down_arrow.svg" alt=""></span>
+        
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/blog" class="nav-link" title="" data-drupal-link-system-path="blog">
+         BLOG
+         
+          </a>
+                
+      </li>
+          <li class="nav-item dropdown ui-add-image-icon">
+  
+                            <a href="/contact-us" class="nav-link" title="" data-drupal-link-system-path="webform/contact_us">
+         CONTACT US
+         
+          </a>
+                                        <ul class="dropdown-menu">
+    
+          <li class="nav-item dropdown">
+  
+                            <a href="https://babilou-family.sg/" class="dropdown-item" target="_blank" title="">             
+             Careers
+             
+          </a>
+                
+      </li>
+            </ul>
+  
+          <span class="ui-menu-hover"><img src="https://www.littlefootprints.edu.sg/themes/custom/bab/assets/images/dropdown_down_arrow.svg" alt=""></span>
+        
+      </li>
+          <li class="nav-item dropdown">
+  
+                            <a href="/book-a-tour" class="book_tour__link nav-link" title="" data-drupal-link-system-path="webform/book_a_tour">
+         BOOK A TOUR
+         
+          </a>
+                
+      </li>
+            <li class="nav-item ps-1">
+      <a class="nav-link call__link d-flex justify-content-center align-items-center" href="tel:+6568171393" title="+6568171393">
+          <img src="https://www.littlefootprints.edu.sg/themes/custom/bab/assets/images/footer-call.svg" alt="Contact button">
+      </a>
+    </li>
+        </ul>
+  
+
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/system/menu--main.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/block/block--system-menu-block--main.html.twig' -->
+
+
+                </div>
+            </div>
+        </nav>
+    </header>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/system/region--header.html.twig' -->
+
+
+ 
+ <style>
+    .header_banner{
+          background-image:url(https://www.littlefootprints.edu.sg/sites/default/files/my_files/Main-blog-page.jpg);
+      }
+  </style>
+    <style>
+    @media (max-width: 767px){ 
+      .header_banner{
+          background-image:url(https://www.littlefootprints.edu.sg/sites/default/files/my_files/Mobile-Main-blog-page.jpg);
+      }
+    }
+  </style>
+  <div class="header_banner kw__header_banner__blogs">
+    <div class="container">
+        <h1 class="banner_title">10 Things Your Child’s Preschool Teachers Want Parents to Know  </h1>
+    </div>
+</div>
+
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--navigation.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/system/region.html.twig' -->
+  <div class="region region--navigation">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--system-breadcrumb-block--entitynodecanonical.html.twig
+   * block--bab-breadcrumb.html.twig
+   * block--system-breadcrumb-block.html.twig
+   * block--system.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/block/block.html.twig' -->
+
+
+  
+        
+
+
+<div class="block-bab-breadcrumb system-breadcrumb-block">
+
+  
+    
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'breadcrumb' -->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/system/breadcrumb.html.twig' -->
+<!-- BREADCRUMB -->
+<nav aria-label="breadcrumb" class="breadcrumb_nav">
+    <div class="container">
+        <ol class="breadcrumb">
+                                    <li class="breadcrumb-item"><a href="/">Home</a></li>
+                                                <li class="breadcrumb-item"><a href="/blog">Blog</a></li>
+                                                <li class="breadcrumb-item active" aria-current="page">10 Things Your Child’s Preschool Teachers Want Parents to Know </li>
+                                </ol>  
+    </div>
+</nav>
+
+
+  
+  
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/system/breadcrumb.html.twig' -->
+
+
+  
+</div>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/block/block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/system/region.html.twig' -->
+
+
+
+
+
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--highlighted.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/system/region.html.twig' -->
+  <div class="region region--highlighted">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--system-messages-block--entitynodecanonical.html.twig
+   * block--bab-messages.html.twig
+   x block--system-messages-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/block--system-messages-block.html.twig' -->
+<div data-drupal-messages-fallback="" class="hidden"></div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/block--system-messages-block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/system/region.html.twig' -->
+
+
+
+  
+
+      <div class="layout-content">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--content.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/system/region.html.twig' -->
+  <div class="region region--content">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   * node--323--full.html.twig
+   * node--323.html.twig
+   x node--article--full.html.twig
+   * node--article.html.twig
+   * node--full.html.twig
+   * node.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/node/node--article--full.html.twig' -->
+
+
+
+<article role="article" about="/blog/preschool-teacher-things-to-know-about-childcare-singapore" class="article article--full">
+  
+    
+    
+  
+ <div class="contat_us__form_section blogdetailSeciont">
+        <div class="container">
+            <div class="contact_us__form col-sm-12 col-lg-12">
+                <div class="text_card">         
+                         
+                    <div class="text_content editor-content">
+                                           <img src="https://www.littlefootprints.edu.sg/sites/default/files/styles/full_background/public/2022-08/Cover%20Image.jpg?itok=ryhRm-IQ" class="blog_details_image">
+                                                <p paraeid="{bb3fcdeb-d2ef-44cd-bb52-c6318d207909}{234}" paraid="725033688">Have you walked past the preschool classrooms and seen children happily settled in their playgroups, and learning with enthusiasm?&nbsp;&nbsp;</p>
+
+<p paraeid="{bb3fcdeb-d2ef-44cd-bb52-c6318d207909}{254}" paraid="602075691">Your child can be too.&nbsp;&nbsp;</p>
+
+<p paraeid="{65ad50f3-f10a-4782-b113-a77c2a902567}{9}" paraid="1027699161">Let us share some insights from our preschool teachers to help your child settle in at childcare in Singapore.&nbsp;&nbsp;</p>
+
+<h2 paraeid="{65ad50f3-f10a-4782-b113-a77c2a902567}{37}" paraid="1849715381">What you need to know ahead of your child’s preschool journey&nbsp;</h2>
+
+<h3><strong>1. Develop predictable routines and practice good habits&nbsp;&nbsp;&nbsp;</strong></h3>
+
+<p paraeid="{65ad50f3-f10a-4782-b113-a77c2a902567}{82}" paraid="1700784159">At many childcare centres in Singapore, the preschool curriculum enforces routines as they help young children feel safe and allow them to develop life skills and healthy habits through practice.</p>
+
+<p paraeid="{65ad50f3-f10a-4782-b113-a77c2a902567}{82}" paraid="1700784159">Routines also foster security and emotional stability in your child and reduce power struggles by giving them <a href="https://www.goodstart.org.au/news-and-advice/may-2018/using-routines-to-help-children-learn" rel="noreferrer noopener" target="_blank">a sense of control by knowing what to expect next</a>.&nbsp;&nbsp;</p>
+
+<p paraeid="{65ad50f3-f10a-4782-b113-a77c2a902567}{113}" paraid="1324428221">When children are involved in a good routine, they not only feel confident and in control, they also learn to develop positive social skills and acquire a sense of satisfaction in being able to do things for themselves.&nbsp;</p>
+
+<p paraeid="{65ad50f3-f10a-4782-b113-a77c2a902567}{131}" paraid="432431389">Effective use of routines allows young children to learn how their world is organised and what is expected of them.</p>
+
+<p paraeid="{65ad50f3-f10a-4782-b113-a77c2a902567}{131}" paraid="432431389">For example, at childcare, your child will learn routines such as greeting the teachers, as well as exercising good hygiene habits like washing hands before they have snacks and scheduled sessions such as circle time, meals, naps and playtime.&nbsp;&nbsp;</p>
+
+<p paraeid="{65ad50f3-f10a-4782-b113-a77c2a902567}{171}" paraid="1714276556">Having a similar routine at home will help your child have a smoother transition into the childcare routine.&nbsp;</p>
+<img alt=" Little Footprints Preschool @ Kent Ridge" data-entity-type="file" data-entity-uuid="93ca8e71-0bb7-49b7-bfae-1bd416a2890f" src="/sites/default/files/inline-images/Meal.jpg" class="align-center" width="800" height="600" loading="lazy">
+<h3 paraeid="{65ad50f3-f10a-4782-b113-a77c2a902567}{171}" paraid="1714276556"><strong>2. Preschool is more than just learning&nbsp;&nbsp;</strong></h3>
+
+<p paraeid="{65ad50f3-f10a-4782-b113-a77c2a902567}{196}" paraid="1837719713">We believe that every child develops at their own pace. At many childcare centres in Singapore, teachers believe in inculcating social skills such as sharing, taking turns, and negotiating – which are within the guidelines set by the Early Childhood Development Agency (ECDA).&nbsp;&nbsp;</p>
+
+<p paraeid="{65ad50f3-f10a-4782-b113-a77c2a902567}{222}" paraid="1385415130">As preschool teachers, we promote language development, critical thinking, and observational skills to enable future academic achievements for your child. You can assist by avoiding any comparison of your child’s progress to other children.&nbsp;&nbsp;</p>
+
+<p paraeid="{0ae6d271-93be-4f84-81dd-953f437fd194}{1}" paraid="285138975">At home, offer your child opportunities to practice taking turns, sharing toys, learning to wait, and helping others.</p>
+
+<p paraeid="{0ae6d271-93be-4f84-81dd-953f437fd194}{1}" paraid="285138975">Speak with your child’s teachers if you have any concerns and don’t be shy to ask for advice or ideas to use at home to support your child’s learning journey.&nbsp;&nbsp;&nbsp;</p>
+
+<h3 paraeid="{0ae6d271-93be-4f84-81dd-953f437fd194}{29}" paraid="781277431"><strong>3. Your child is capable of so many things</strong></h3>
+
+<p paraeid="{0ae6d271-93be-4f84-81dd-953f437fd194}{48}" paraid="850439935">As your child enters another milestone, remember that he/she is no longer a baby.&nbsp;</p>
+
+<p paraeid="{0ae6d271-93be-4f84-81dd-953f437fd194}{62}" paraid="1989382581"><a href="https://fessyblog.org/the-10-things-every-pre-k-teacher-wants-parents-to-know/" rel="noreferrer noopener" target="_blank">Fostering independence while providing support</a> will help your toddler transit smoother into a bigger child role. Allowing your child to carry his own bag, choose his/her outfit for school and experiment with climbing or swinging on the playground are some things you can do to encourage confidence.&nbsp;</p>
+<img alt=" Little Footprints Preschool @ Ang Mo Kio" data-entity-type="file" data-entity-uuid="7b313ea6-3caa-4e9d-870c-2d85a01a3ccf" src="/sites/default/files/inline-images/Indoor%20Play.jpg" class="align-center" width="800" height="450" loading="lazy">
+<h3 paraeid="{0ae6d271-93be-4f84-81dd-953f437fd194}{95}" paraid="1900867613"><strong>4. We are here because we love your children – trust us&nbsp;&nbsp;</strong></h3>
+
+<p paraeid="{0ae6d271-93be-4f84-81dd-953f437fd194}{126}" paraid="791375477">As your child’s preschool teachers, we truly care about your child’s growth and well-being.&nbsp;&nbsp;</p>
+
+<p paraeid="{0ae6d271-93be-4f84-81dd-953f437fd194}{144}" paraid="562120030">When we discipline your child, we do it with the intention of making sure your child is the best that he/she can be.</p>
+
+<p paraeid="{0ae6d271-93be-4f84-81dd-953f437fd194}{144}" paraid="562120030">As child development experts, we are committed to promoting sharing, kindness and respect among the children and are equipped to handle a child who is not having a good day.&nbsp;&nbsp;&nbsp;</p>
+
+<h3 paraeid="{0ae6d271-93be-4f84-81dd-953f437fd194}{174}" paraid="1159736807"><strong>5. Learning can be messy - dress your child appropriately for childcare&nbsp;</strong>&nbsp;</h3>
+
+<p paraeid="{0ae6d271-93be-4f84-81dd-953f437fd194}{213}" paraid="1165304953">Your child will be doing a fair amount of creative painting, messy play, or physical activities at the childcare. Put him/her in comfortable clothes or the school uniform that allow movement without restrictions during climbing, tumbling, running, or swinging from monkey bars.&nbsp;&nbsp;</p>
+
+<p paraeid="{0ae6d271-93be-4f84-81dd-953f437fd194}{253}" paraid="1447795199">Don’t dress your child in fancy clothes where stains and tears can ruin them. Make sure the clothing is easy for your child to put on or off by themselves – for example, pants with elastic bands or closed-toe Velcro sneakers.&nbsp;&nbsp;</p>
+<img alt=" Little Footprints Preschool @ Ubi" data-entity-type="file" data-entity-uuid="60638cff-8b1a-48b9-a21d-d1ce33e2008e" src="/sites/default/files/inline-images/Ubi%20Paint%20Activity.jpg" class="align-center" width="800" height="483" loading="lazy">
+<h3 paraeid="{1659940e-be5a-4d36-b994-f29286060469}{34}" paraid="105116836"><strong>6. Your child’s health is our priority&nbsp;</strong></h3>
+
+<p paraeid="{1659940e-be5a-4d36-b994-f29286060469}{53}" paraid="453628488">At this age, your child’s is still building his/her immune system and therefore more vulnerable to attacks by viruses and bacteria.&nbsp;&nbsp;</p>
+
+<p paraeid="{1659940e-be5a-4d36-b994-f29286060469}{67}" paraid="1151031920">Childcare centres and preschools in Singapore are key places where common childhood diseases like hand foot mouth and the flu spread easily.</p>
+
+<p paraeid="{1659940e-be5a-4d36-b994-f29286060469}{67}" paraid="1151031920">The health of our young charges is our priority. As such, preschool teachers will recommend you&nbsp;<a href="http://singaporeschild.com.sg/heres-what-preschool-teachers-want-parents-to-know/" rel="noreferrer noopener" target="_blank">keep your child at home if he/she is not feeling well.</a>&nbsp;</p>
+
+<h3 paraeid="{1659940e-be5a-4d36-b994-f29286060469}{108}" paraid="702766654"><strong>7. It’s ok to miss school now and then&nbsp;</strong></h3>
+
+<p paraeid="{1659940e-be5a-4d36-b994-f29286060469}{127}" paraid="888749196">It is ok if you need to keep your child at home for a day or two or take him/her on a special family outing during the school week.&nbsp;&nbsp;</p>
+
+<p paraeid="{1659940e-be5a-4d36-b994-f29286060469}{145}" paraid="1615622828">We understand that family time is important, and he/she will not be missing any vital learning.&nbsp;</p>
+
+<h3 paraeid="{1659940e-be5a-4d36-b994-f29286060469}{159}" paraid="1066987003"><strong>8. Disappointments, mistakes and setbacks are learning opportunities&nbsp;</strong></h3>
+
+<p paraeid="{1659940e-be5a-4d36-b994-f29286060469}{182}" paraid="2087660340">During your child’s daily life at preschool, he/she will experience some setbacks that will lead to frustrations, drawbacks, and distress. These are opportunities for your child to build up resilience to problems and develop critical thinking and problem-solving skills.&nbsp;&nbsp;</p>
+<img alt=" Little Footprints Preschool @ Ubi" data-entity-type="file" data-entity-uuid="c3074cd8-cc2f-4ba1-a50d-5f7975ac88e8" src="/sites/default/files/inline-images/Challenge%20Image.jpg" class="align-center" width="800" height="533" loading="lazy">
+<h3 paraeid="{1659940e-be5a-4d36-b994-f29286060469}{208}" paraid="1918092437"><strong>9. Short and quick drop-offs in the morning&nbsp;</strong></h3>
+
+<p paraeid="{1659940e-be5a-4d36-b994-f29286060469}{237}" paraid="746359223">Extended drop-offs can be painful for both parents and child, so do not prolong your drop-off.&nbsp;&nbsp;</p>
+
+<p paraeid="{1659940e-be5a-4d36-b994-f29286060469}{251}" paraid="1627777724">Smile, tell your child you love him/her, and when you will be back for pick up, say goodbye and head for the door. We will take it from there and see that your child has the best day possible.&nbsp;</p>
+
+<h3 paraeid="{98f6908d-32e3-4500-bd06-decb190d3ffe}{18}" paraid="1305108986"><strong>10. Share Your concerns with us&nbsp;</strong></h3>
+
+<p paraeid="{98f6908d-32e3-4500-bd06-decb190d3ffe}{37}" paraid="1664814517">We welcome parents to talk to us and are happy to make an appointment for you to visit the school. Communication between parents and teachers is very helpful to us as we mutually share concerns or feedback on your child’s progress.&nbsp;&nbsp;&nbsp;</p>
+
+<h2 paraeid="{98f6908d-32e3-4500-bd06-decb190d3ffe}{59}" paraid="839319179">Book a tour with Us!&nbsp;&nbsp;</h2>
+<img alt=" Little Footprints Preschool @ Balestier" data-entity-type="file" data-entity-uuid="1360d475-6641-4147-8377-482c07b43f7f" src="/sites/default/files/inline-images/BL%20Centre%20Image%20%28800px%29.jpg" class="align-center" width="800" height="532" loading="lazy">
+<p paraeid="{98f6908d-32e3-4500-bd06-decb190d3ffe}{65}" paraid="640549931">Now that you have heard from us, <a href="https://littlefootprints.edu.sg/book-a-tour" rel="noreferrer noopener" target="_blank">come visit us at your preferred Little Footprints Preschool centre</a> and check out our programmes for your little one.&nbsp;&nbsp;</p>
+
+<p paraeid="{98f6908d-32e3-4500-bd06-decb190d3ffe}{82}" paraid="1523997856">&nbsp;</p>
+
+<p paraeid="{45d523f5-a4c7-4586-b155-b787b1ba92fb}{236}" paraid="1174871652"><em>Follow us on social media to stay updated on our latest updates and happenings:</em></p>
+
+<p paraeid="{45d523f5-a4c7-4586-b155-b787b1ba92fb}{236}" paraid="1174871652"><a href="https://www.facebook.com/littlefootprintspresch" rel="noreferrer noopener" target="_blank">Facebook</a>&nbsp;|&nbsp;<a href="https://www.instagram.com/littlefootprintspreschool/" rel="noreferrer noopener" target="_blank">Instagram</a>&nbsp;| <a href="https://www.tiktok.com/@littlefootprintspresch" target="_blank">TikTok</a></p>
+
+                    </div>                    
+                </div>
+             
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--node--article--field-tags--full.html.twig
+   * field--article--field-tags--full.html.twig
+   * field--node--field-tags--full.html.twig
+   * field--node--article--full.html.twig
+   * field--article--full.html.twig
+   * field--node--field-tags--article.html.twig
+   x field--node--field-tags.html.twig
+   * field--node--article.html.twig
+   * field--full.html.twig
+   * field--node.html.twig
+   * field--field-tags.html.twig
+   * field--entity-reference.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/field/field--node--field-tags.html.twig' -->
+
+
+
+
+
+
+
+
+
+    
+            
+
+
+
+    
+  
+  
+  
+  
+  
+
+  
+  
+    
+                <ul class="article__tags-item-list tag-list">
+    
+              
+      <li class="article__tags-item">CHILDCARE &amp; PRESCHOOL</li>
+  
+
+              
+      <li class="article__tags-item">PARENTING</li>
+  
+
+      
+          </ul>    
+
+  
+  
+
+
+
+
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/field/field--node--field-tags.html.twig' -->
+
+
+           </div>
+        </div>
+       
+    </div>
+</article>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/node/node--article--full.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/system/region.html.twig' -->
+
+
+      </div>    
+    
+    
+      
+    
+    
+    
+  
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   x region--footer.html.twig
+   * region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/system/region--footer.html.twig' -->
+
+    <!-- NEWS LETTER -->
+
+
+    <div class="news_letter">
+        <div class="news_letter__container">
+            <div class="container">
+                <div class="news_letter__content d-flex">
+                    <h3 class="news_letter__title">Newsletter</h3>
+                    <p class="news_letter__text">Subscribe with your email to receive<br> our latest news and updates.</p>
+
+                    <div class="input-group">
+                        <span class="input-group-text"><img src="/themes/custom/bab/assets/images/subscribe-mail.svg" alt="subscribe mail"></span>
+                        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--webform-block--entitynodecanonical.html.twig
+   * block--webform.html.twig
+   x block--webform-block.html.twig
+   * block--webform.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/block/block--webform-block.html.twig' -->
+
+
+  
+        
+
+
+<div class="block-webform webform-block">
+
+  
+    
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'webform' -->
+<!-- FILE NAME SUGGESTIONS:
+   * webform--webform-submission-inscription-newsletter-node-323-add-form.html.twig
+   * webform--inscription-newsletter.html.twig
+   x webform.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/webform/templates/webform.html.twig' -->
+<form class="webform-submission-form webform-submission-add-form webform-submission-inscription-newsletter-form webform-submission-inscription-newsletter-add-form webform-submission-inscription-newsletter-node-323-form webform-submission-inscription-newsletter-node-323-add-form js-webform-submit-once js-webform-details-toggle webform-details-toggle" data-drupal-selector="webform-submission-inscription-newsletter-node-323-add-form" action="/blog/preschool-teacher-things-to-know-about-childcare-singapore" method="post" id="webform-submission-inscription-newsletter-node-323-add-form" accept-charset="UTF-8" data-drupal-form-fields="edit-adresse-email,edit-actions-submit,edit-url">
+  
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'webform_submission_form' -->
+<!-- FILE NAME SUGGESTIONS:
+   * webform-submission-form--inscription-newsletter.html.twig
+   x webform-submission-form.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/webform/templates/webform-submission-form.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- FILE NAME SUGGESTIONS:
+   * form-element--edit-adresse-email.html.twig
+   * form-element--webform-email.html.twig
+   x form-element.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/form/form-element.html.twig' -->
+<div class="form__item form__item-adresse-email form__item-email js-form-item js-form-type-email js-form-item-adresse-email form__no-label">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__email' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--email.html.twig
+   * input--adresse-email.html.twig
+   * input--edit-adresse-email.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/input/input.html.twig' -->
+
+
+
+  <input data-webform-required-error="Enter your email address" data-drupal-selector="edit-adresse-email" type="email" id="edit-adresse-email" name="adresse_email" value="" maxlength="254" placeholder="Enter Email Address" class="required form__email" required="required" aria-required="true">
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/input/input.html.twig' -->
+
+
+          </div>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/form/form-element.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- FILE NAME SUGGESTIONS:
+   * container--edit-actions.html.twig
+   * container--webform-actions.html.twig
+   x container.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/system/container.html.twig' -->
+
+
+<div data-drupal-selector="edit-actions" class="form-actions webform-actions js-form-wrapper form-wrapper container--edit-actions" id="edit-actions">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'webform_actions' -->
+<!-- FILE NAME SUGGESTIONS:
+   * webform-actions--edit-actions.html.twig
+   x webform-actions.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/contrib/webform/templates/webform-actions.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__submit' -->
+<!-- FILE NAME SUGGESTIONS:
+   x input--submit.html.twig
+   * input--op.html.twig
+   * input--edit-actions-submit.html.twig
+   x input--submit.html.twig
+   * input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/input/input--submit.html.twig' -->
+
+
+
+  <button type="submit" class="webform-button--submit button-newsletter button button--primary js-form-submit form__submit" data-drupal-selector="edit-actions-submit" id="edit-actions-submit" name="op" value="Subscribe"><span>Subscribe</span></button>
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/input/input--submit.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'modules/contrib/webform/templates/webform-actions.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/system/container.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--hidden.html.twig
+   * input--form-build-id.html.twig
+   * input--webform-submission-inscription-newsletter-node-323-add-form--form-gw5nc19k5moox0bbfvx9kysgb74kwst8svlf7eczvp4.html.twig
+   * input--webform-submission-inscription-newsletter-node-323-add-form--hidden.html.twig
+   * input--webform-submission-inscription-newsletter-node-323-add-form--form-gW5nc19k5MoOX0BbFvX9kySGB74KWST8SvLF7EczvP4.html.twig
+   * input--form-gw5nc19k5moox0bbfvx9kysgb74kwst8svlf7eczvp4.html.twig
+   * input--webform-submission-inscription-newsletter-node-323-add-form.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/input/input.html.twig' -->
+
+
+
+  <input autocomplete="off" data-drupal-selector="form-gw5nc19k5moox0bbfvx9kysgb74kwst8svlf7eczvp4" type="hidden" name="form_build_id" value="form-gW5nc19k5MoOX0BbFvX9kySGB74KWST8SvLF7EczvP4" class="form__hidden">
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/input/input.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--hidden.html.twig
+   * input--form-id.html.twig
+   * input--webform-submission-inscription-newsletter-node-323-add-form--edit-webform-submission-inscription-newsletter-node-323-add-form.html.twig
+   * input--webform-submission-inscription-newsletter-node-323-add-form--hidden.html.twig
+   * input--edit-webform-submission-inscription-newsletter-node-323-add-form.html.twig
+   * input--webform-submission-inscription-newsletter-node-323-add-form.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/input/input.html.twig' -->
+
+
+
+  <input data-drupal-selector="edit-webform-submission-inscription-newsletter-node-323-add-form" type="hidden" name="form_id" value="webform_submission_inscription_newsletter_node_323_add_form" class="form__hidden">
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/input/input.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- FILE NAME SUGGESTIONS:
+   * container--textfield--url.html.twig
+   x container.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/system/container.html.twig' -->
+
+
+<div class="url-textfield js-form-wrapper form-wrapper container--" style="display: none !important;">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- FILE NAME SUGGESTIONS:
+   * form-element--webform-submission-inscription-newsletter-node-323-add-form--edit-url.html.twig
+   * form-element--webform-submission-inscription-newsletter-node-323-add-form--textfield.html.twig
+   * form-element--edit-url.html.twig
+   * form-element--webform-submission-inscription-newsletter-node-323-add-form.html.twig
+   x form-element.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/form/form-element.html.twig' -->
+<div class="form__item form__item-url form__item-textfield js-form-item js-form-type-textfield js-form-item-url">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element_label' -->
+<!-- FILE NAME SUGGESTIONS:
+   * form-element-label--edit-url.html.twig
+   x form-element-label.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/form/form-element-label.html.twig' -->
+<label for="edit-url">Leave this field blank </label>
+<!-- END OUTPUT from 'themes/custom/jv/templates/form/form-element-label.html.twig' -->
+
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__textfield' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--textfield.html.twig
+   * input--url.html.twig
+   * input--webform-submission-inscription-newsletter-node-323-add-form--edit-url.html.twig
+   * input--webform-submission-inscription-newsletter-node-323-add-form--textfield.html.twig
+   * input--edit-url.html.twig
+   * input--webform-submission-inscription-newsletter-node-323-add-form.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/jv/templates/input/input.html.twig' -->
+
+
+
+  <input autocomplete="off" data-drupal-selector="edit-url" type="text" id="edit-url" name="url" value="" maxlength="128" class="form__text">
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/input/input.html.twig' -->
+
+
+          </div>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/form/form-element.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'themes/custom/jv/templates/system/container.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'modules/contrib/webform/templates/webform-submission-form.html.twig' -->
+
+
+  
+</form>
+
+<!-- END OUTPUT from 'modules/contrib/webform/templates/webform.html.twig' -->
+
+
+  
+</div>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/block/block--webform-block.html.twig' -->
+
+
+                    </div>                  
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- FOOTER -->
+    <footer>
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-sm-12">
+                        <div class="footer_logo">
+                            <img src="https://www.littlefootprints.edu.sg/sites/default/files/my_files/LFP-web-220x50.jpg" alt="logo">
+                            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--block-content:55af5b40-a409-4137-8840-2a91143ef5d7--entitynodecanonical.html.twig
+   * block--bundle--block-info.html.twig
+   * block--footertextbelowlogo.html.twig
+   * block--block-content--55af5b40-a409-4137-8840-2a91143ef5d7.html.twig
+   * block--block-content.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/block/block.html.twig' -->
+
+
+  
+        
+
+
+<div class="block-footertextbelowlogo block-content55af5b40-a409-4137-8840-2a91143ef5d7">
+
+  
+    
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--block-info--field-block-info-title--full.html.twig
+   * field--block-info--field-block-info-title--full.html.twig
+   * field--block-content--field-block-info-title--full.html.twig
+   * field--block-content--block-info--full.html.twig
+   * field--block-info--full.html.twig
+   * field--block-content--field-block-info-title--block-info.html.twig
+   * field--block-content--field-block-info-title.html.twig
+   * field--block-content--block-info.html.twig
+   * field--full.html.twig
+   * field--block-content.html.twig
+   x field--field-block-info-title.html.twig
+   * field--string.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/field/field--field-block-info-title.html.twig' -->
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+    
+        
+                  
+      <h2 class="block-info-title">Footer About Us</h2>
+  
+
+
+        
+  
+  
+
+
+
+
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/field/field--field-block-info-title.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--block-info--body--full.html.twig
+   * field--block-info--body--full.html.twig
+   * field--block-content--body--full.html.twig
+   * field--block-content--block-info--full.html.twig
+   * field--block-info--full.html.twig
+   * field--block-content--body--block-info.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--block-info.html.twig
+   * field--full.html.twig
+   * field--block-content.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/field/field.html.twig' -->
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+
+  
+  
+  
+  
+
+  
+  
+    
+        
+                  
+      <div class="body"><p>Little Footprints Preschool is a community-based preschool brand offering Infant Care, Preschool and Childcare programmes under Babilou Family Singapore, a subsidiary of Babilou Family Group based in France with a network of more than 1,000 nurseries in the world.</p>
+</div>
+  
+
+
+        
+  
+  
+
+
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/field/field.html.twig' -->
+
+
+  
+</div>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/block/block.html.twig' -->
+
+                            
+                            <div class="social_group d-flex">
+                                <a target="_blank" href="https://www.facebook.com/littlefootprintspresch"><img src="/themes/custom/bab/assets/images/social-facebook.svg" alt="facebook"></a>
+                                <a target="_blank" href="https://www.instagram.com/littlefootprintspreschool/  "><img src="/themes/custom/bab/assets/images/social-instagram.svg" alt="Instagram"></a>
+                                <a target="_blank" href="https://www.youtube.com/channel/UCLmJjmbZPToUIfCeN-IQKwg "><img src="/themes/custom/bab/assets/images/social-youtube.svg" alt="youtube"></a>
+                                <a target="_blank" href="https://www.linkedin.com/company/babilou-family-singapore/"><img src="/themes/custom/bab/assets/images/social_linkedin.svg" alt="linkedin"></a>
+                                <a target="_blank" href="https://www.tiktok.com/@littlefootprintspresch"><img src="/themes/custom/bab/assets/images/social-tiktok.svg" alt="tiktok"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-sm-12">
+
+                        <div class="footer_menu__mobile footer_menu">
+                            <div class="accordion" id="accordionFooterMenuMobile">
+                                <div class="accordion-item">
+                                    <h4 class="accordion-header" id="headingOne">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                            ABOUT US
+                                        </button>
+                                    </h4>
+                                    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionFooterMenuMobile">
+                                        <div class="accordion-body">
+                                            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--system-menu-block:footer--entitynodecanonical.html.twig
+   * block--footer-menu.html.twig
+   * block--system-menu-block--footer.html.twig
+   x block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-footer-menu-menu" class="block-footer-menu">
+            
+  <h2 class="visually-hidden" id="block-footer-menu-menu">Footer menu</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__footer' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu--footer.html.twig
+   x menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/menu.html.twig' -->
+
+              <ul class="menu-footer">
+              <li>
+        <a href="/our-curriculum" data-drupal-link-system-path="node/90">Our Curriculum</a>
+                                <ul>
+              <li>
+        <a href="/infant-care" data-drupal-link-system-path="taxonomy/term/5">Infant Care</a>
+              </li>
+          <li>
+        <a href="/childcare">Childcare</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="/centre-list" data-drupal-link-system-path="centre-list">Our Centres</a>
+              </li>
+          <li>
+        <a href="/admission-info-fees" data-drupal-link-system-path="node/156">Admission Info &amp; Fees</a>
+              </li>
+          <li>
+        <a href="/blog" data-drupal-link-system-path="blog">Blog</a>
+              </li>
+        </ul>
+  
+
+
+<!-- END OUTPUT from 'core/modules/system/templates/menu.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/block/block--system-menu-block.html.twig' -->
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h4 class="accordion-header" id="headingTwo">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                            OUR CENTERS
+                                        </button>
+                                    </h4>
+                                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionFooterMenuMobile">
+                                        <div class="accordion-body">
+                                            <div class="d-flex">
+                                                <ul class="nav flex-column ourcenters-Footer">
+                                                                                                             <li class="nav-item"><a class="nav-link" href="https://www.littlefootprints.edu.sg/centre-list?field_regions_value=north">
+                                                                  North
+                                                            </a></li>                            
+                                                                                                             <li class="nav-item"><a class="nav-link" href="https://www.littlefootprints.edu.sg/centre-list?field_regions_value=south">
+                                                                  North-East
+                                                            </a></li>                            
+                                                                                                             <li class="nav-item"><a class="nav-link" href="https://www.littlefootprints.edu.sg/centre-list?field_regions_value=central">
+                                                                  Central
+                                                            </a></li>                            
+                                                                                                             <li class="nav-item"><a class="nav-link" href="https://www.littlefootprints.edu.sg/centre-list?field_regions_value=east">
+                                                                  East
+                                                            </a></li>                            
+                                                                                                             <li class="nav-item"><a class="nav-link" href="https://www.littlefootprints.edu.sg/centre-list?field_regions_value=west">
+                                                                  West
+                                                            </a></li>                            
+                                                                                                                                 
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h4 class="accordion-header" id="headingThree">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                            GET IN TOUCH
+                                        </button>
+                                    </h4>
+                                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionFooterMenuMobile">
+                                        <div class="accordion-body">
+                                            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--system-menu-block:footer-others--entitynodecanonical.html.twig
+   * block--footerothers.html.twig
+   * block--system-menu-block--footer-others.html.twig
+   x block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-footerothers-menu" class="block-footerothers">
+            
+  <h2 class="visually-hidden" id="block-footerothers-menu">Footer Others</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__footer_others' -->
+<!-- FILE NAME SUGGESTIONS:
+   x menu--footer-others.html.twig
+   x menu--footer-others.html.twig
+   * menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/bab/templates/system/menu--footer-others.html.twig' -->
+
+              <ul class="nav flex-column">
+    
+          <li class="nav-item">
+  
+                            <a href="/contact-us" class="nav-link" title="" data-drupal-link-system-path="webform/contact_us">
+         Contact Us
+         
+          </a>
+                
+      </li>
+          <li class="nav-item">
+  
+                            <a href="https://littlefootprints.edu.sg/book-a-tour" class="nav-link" title="">
+         Book a Tour
+         
+          </a>
+                
+      </li>
+          <li class="nav-item">
+  
+                            <a href="https://babilou-family.sg/careers" class="nav-link" target="_blank" title="">
+         Careers
+         
+          </a>
+                
+      </li>
+          <li class="nav-item">
+  
+                            <a href="/frequently-asked-questions" class="nav-link" title="" data-drupal-link-system-path="node/265">
+         FAQ
+         
+          </a>
+                
+      </li>
+          <li class="nav-item">
+  
+                            <a href="/privacy-policy" class="nav-link" title="" data-drupal-link-system-path="node/242">
+         Privacy Policy
+         
+          </a>
+                
+      </li>
+        </ul>
+  
+
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/system/menu--footer-others.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'themes/custom/bab/templates/block/block--system-menu-block.html.twig' -->
+
+
+                                            <ul class="nav flex-column">
+                                                <li class="nav-item">
+                                                     <a href="javascript:Didomi.preferences.show()">Consent choices</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer__copy_right">
+                <div class="container">
+
+                                         <p>Copyright © Little Footprints Preschool 2024. All right reserved. Little Footprints Preschool is an education brand of Babilou Family.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="ui-sticky-menu open">
+        <div class="fixed_side__menu_box">
+            <a class="menu_links" href="https://www.littlefootprints.edu.sg/centre-list">
+                <img src="/themes/custom/bab/assets/images/campus.svg" alt="Locaion link">
+                <span class="menu_link__item">Our Centres</span>
+            </a>
+            <a class="menu_links" href="https://www.littlefootprints.edu.sg/contact-us">
+                <img src="/themes/custom/bab/assets/images/subscribe-mail.svg" alt="Contact us link">
+                <span class="menu_link__item">Contact Us</span>
+            </a>
+            <a class="menu_links" href="https://www.littlefootprints.edu.sg/book-a-tour">
+                <img src="/themes/custom/bab/assets/images/book-a-tour.svg" alt="Book a tour link">
+                <span class="menu_link__item">Book A Tour</span>
+            </a>
+            <a class="ui-click-arrow-anchor" href="javascript:void(0)">
+                <span>Hide</span>
+                <img src="/themes/custom/bab/assets/images/right_arrow_pink.svg" alt="Book a tour link">
+            </a>
+        </div>
+        <div class="ui-click-arrow">
+            <a href="javascript:void(0)" class="ui-click-arrow-anchor"> <img src="/themes/custom/bab/assets/images/arrow_left_pink.svg" alt="Arrow"></a>
+        </div>
+    </div>
+<!-- END OUTPUT from 'themes/custom/bab/templates/system/region--footer.html.twig' -->
+
+
+    
+  
+<!-- END OUTPUT from 'themes/custom/bab/templates/page/page.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+
+
+      
+    </div>
+
+        <div id="back-to-top" class="back-to-top">
+      <a href="#top"><span class="sr-only">Haut de page</span></a>
+    </div>
+<script>
+    console.log('v:2.0');
+    window.dataLayer = window.dataLayer || [];
+    dataLayer.push({
+        'event': 'pageview',
+        'brand': 'Little-Footprints-Preschool',
+        'country': 'sg',
+        'page_environment': 'prod',
+        'page_type': 'b2c',
+        'site_language': 'en',
+    });
+    
+    // Add a DOMContentLoaded event to ensure the script runs after the HTML is parsed.
+    document.addEventListener('DOMContentLoaded', function() {
+        // Check if the current page's URL matches the specified URL
+        if (window.location.href === 'https://littlefootprints.edu.sg/book-a-tour') {
+            // Select the button by its id
+            const button = document.getElementById('edit-submit');
+            const form = document.getElementById('webform-submission-book-a-tour-add-form');
+           
+console.log('book a tour event');              
+                event.preventDefault();
+
+                    dataLayer.push({
+                    'event': 'centers-registration-form',
+                    'funnel_name': 'book-a-tour',
+                    'funnel_step': 1
+            });
+        }
+
+            if (window.location.href === 'https://littlefootprints.edu.sg/contact-us') {
+            // Select the button by its id
+            const button = document.getElementById('edit-actions-submit');
+            const form = document.getElementById('webform-submission-contact-us-add-form');
+
+            // Add a click event listener to the button
+            
+              
+                // Prevent the default action (useful if the button is in a form and you don't want to submit it)
+                
+console.log('cntact-centers');
+                    dataLayer.push({
+                    'event': 'contact-centers',
+                    'funnel_name': 'contact-us',
+                    'funnel_step': 1,
+                });
+        }
+
+        // Get the current URL's path
+const path = window.location.pathname;
+
+    // Regex pattern to match any slug after /centres/
+    const pattern = /^\/centres\/[^\/]+$/;
+
+    // Test the current path against the pattern
+    if (pattern.test(path)) {
+        // Select the h1 with class 'banner_title'
+        const titleElement = document.querySelector('.banner_title');
+
+        // Get the branch name from the h1 element's text content
+        const centreBranch = titleElement.textContent.trim();
+
+      console.log('center branch page');
+        dataLayer.push({
+          'event': 'pageview',
+          'center_branch': centreBranch, // Add the centre_branch value to the data layer push
+        });
+
+    }
+
+});
+
+    </script>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+    // Get the current URL without any query parameters
+    const path = window.location.pathname;
+    // Check for the token parameter
+    const urlParams = new URLSearchParams(window.location.search);
+    const token = urlParams.get('token');
+
+    if (token !== null) { // Only proceed if token is present
+        let funnelName = null;
+        let eventName = null;
+
+        // Determine funnel name based on URL path
+        if (path.includes('/contact-us/confirmation')) {
+            funnelName = 'contact-us';
+            eventName = 'contact-centers';
+        } else if (path.includes('/book-a-tour/confirmation')) {
+            funnelName = 'book-a-tour';
+            eventName = 'centers-registration-confirmation';
+        }
+
+        // If a valid funnel name was determined, push to dataLayer
+        if (funnelName) {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                'event': eventName,
+                'funnel_name': funnelName,
+                'funnel_step': 2,
+            });
+
+            console.log('datalayer pushed');
+        }
+    }
+});
+
+    </script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+    // Get the current URL without any query parameters
+    const baseURL = window.location.origin + window.location.pathname;
+
+    // Only proceed if we're on the right page and the 'populate' parameter exists
+    if (baseURL === 'https://littlefootprints.edu.sg/blog') {
+        // Get the populate parameter value
+        const urlParams = new URLSearchParams(window.location.search);
+        const populateValue = urlParams.get('populate');
+
+        if (populateValue) { // Only proceed if populate has a value
+            let count = 0;
+
+            const newsroomList = document.querySelector('.newsroom__list');
+            const newsroomEmpty = document.querySelector('.newsroom__empty');
+
+            if (newsroomList) { 
+                // If results are present, count the number of newsroom__row classes
+                count = document.querySelectorAll('.newsroom__row').length;
+            } else if (newsroomEmpty) { 
+                // If no results, set count to 0
+                count = 0;
+            }
+
+            const inputValue = document.querySelector('[data-drupal-selector="edit-populate"]').value;
+            
+            dataLayer.push({
+                'event': 'content-filter',
+                'search_results': count,
+                'search_terms': inputValue,
+            });
+
+            console.log('datalayer pushed with input value: '+inputValue+' and count: '+count);
+        }
+    }
+});
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    // Get the current URL without any query parameters
+    const baseURL = window.location.origin + window.location.pathname;
+
+    // Check if we're on the desired page
+    if (baseURL === 'https://littlefootprints.edu.sg/webform/inscription_newsletter/confirmation') {
+
+        dataLayer.push({
+            'event': 'newsletter-subscription',
+            'eventParameter1':'footer',
+            'eventParameter2': 'confirmation page',
+        });
+
+            console.log('newsletter datalayer pushed');
+    }
+});
+
+
+// Function to handle the click event
+function handleNewsletterButtonClick() {
+
+    // Push the event to the data layer
+    dataLayer.push({
+        'event': 'newsletter-subscription',
+        'eventParameter1':'footer',
+    });
+}
+
+// Wait for the DOM to be fully loaded
+document.addEventListener('DOMContentLoaded', function() {
+    // Select the button with the class 'button-newsletter'
+    const newsletterButton = document.querySelector('.button-newsletter');
+
+    // Make sure the button exists
+    if (newsletterButton) {
+        // Add a click event listener to the button
+        newsletterButton.addEventListener('click', handleNewsletterButtonClick);
+    } else {
+        console.error('Newsletter button not found.');
+    }
+});
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    // Get the current URL parts
+    const baseURL = window.location.origin + window.location.pathname;
+    const urlParams = new URLSearchParams(window.location.search);
+
+    // Check if we're on a blog article page
+    if (baseURL.startsWith('https://littlefootprints.edu.sg/blog/') && baseURL !== 'https://littlefootprints.edu.sg/blog' && !urlParams.has('populate')) {
+        
+        const tagsListElement = document.querySelector('.article__tags-item-list');
+        
+        if (tagsListElement) {
+            const tagsElements = document.querySelectorAll('.article__tags-item');
+            let concatenatedTags = Array.from(tagsElements).map(tag => tag.textContent.trim()).join(',');
+              window.dataLayer.push({
+                    'event': 'pageview',
+                    'article_tags': concatenatedTags,
+                });
+            console.log(concatenatedTags); // Outputs: "CHILDCARE & PRESCHOOL,EDUCATION,PARENTING"
+        }
+    }
+});
+
+
+</script>
+
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/323","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"anchor_link\/drupal.anchor_link,bab\/content,bab\/global-styling,babilou_nursery_basket\/babilou_basket,datalayer\/behaviors,jv\/messages,jv\/toolbar,responsive_table_filter\/responsive-table,webform\/webform.element.details.save,webform\/webform.element.details.toggle,webform\/webform.element.message,webform\/webform.form,webform\/webform.form.submit_once","theme":"bab","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":-10}}},"user":{"uid":0,"permissionsHash":"0819680935ee1fc149830aba4251958dcead15bb4d2c314191bab9afa81870ca"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.6.0"></script>
+<script src="/core/assets/vendor/css-escape/css.escape.js?v=1.5.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=9.2.5"></script>
+<script src="/core/misc/drupal.js?v=9.2.5"></script>
+<script src="/core/misc/drupal.init.js?v=9.2.5"></script>
+<script src="/core/misc/debounce.js?v=9.2.5"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=5.2.0"></script>
+<script src="/modules/contrib/datalayer/js/datalayer.js?v=1.x"></script>
+<script src="/themes/custom/bab/assets/js/contrib/jquery.toggle-panel.js?sadr9j"></script>
+<script src="/themes/custom/bab/assets/js/contrib/jquery.back-to-top.js?sadr9j"></script>
+<script src="/themes/custom/bab/assets/js/features/utils.js?sadr9j"></script>
+<script src="/themes/custom/bab/assets/js/features/nav.js?sadr9j"></script>
+<script src="/themes/custom/bab/assets/js/app.init.js?sadr9j"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"></script>
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script src="/themes/custom/bab/assets/js/rainbow.min.js?sadr9j"></script>
+<script src="/themes/custom/bab/assets/js/tikslus360.js?sadr9j"></script>
+<script src="/themes/custom/bab/assets/js/tikslus360.min.js?sadr9j"></script>
+<script src="/themes/custom/bab/assets/js/custom.js?sadr9j"></script>
+<script src="/core/misc/form.js?v=9.2.5"></script>
+<script src="/modules/contrib/webform/js/webform.behaviors.js?v=9.2.5"></script>
+<script src="/core/misc/states.js?v=9.2.5"></script>
+<script src="/modules/contrib/webform/js/webform.states.js?v=9.2.5"></script>
+<script src="/modules/contrib/webform/js/webform.form.js?v=9.2.5"></script>
+<script src="/core/misc/progress.js?v=9.2.5"></script>
+<script src="/core/modules/responsive_image/js/responsive_image.ajax.js?v=9.2.5"></script>
+<script src="/core/misc/ajax.js?v=9.2.5"></script>
+<script src="/modules/contrib/webform/js/webform.form.submit_once.js?v=9.2.5"></script>
+<script src="/modules/contrib/webform/js/webform.element.details.save.js?v=9.2.5"></script>
+<script src="/core/misc/announce.js?v=9.2.5"></script>
+<script src="/modules/contrib/webform/js/webform.element.details.toggle.js?v=9.2.5"></script>
+<script src="/modules/contrib/webform/js/webform.element.message.js?v=9.2.5"></script>
+<script src="/themes/custom/bab/assets/js/contrib/slick.js?sadr9j"></script>
+<script src="/themes/custom/bab/assets/js/contrib/jquery.colorbox-min.js?sadr9j"></script>
+<script src="/themes/custom/bab/assets/js/features/slider.js?sadr9j"></script>
+<script src="/themes/custom/bab/assets/js/features/accordions.js?sadr9j"></script>
+<script src="/modules/custom/babilou_nursery_basket/assets/js/babilou_basket.js?sadr9j"></script>
+
+
+  
+  
+
+
+
+
+<div id="drupal-live-announce" class="visually-hidden" aria-live="polite" aria-busy="false"></div><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button type="button" id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><script type="text/javascript" id="" charset="utf-8" src="//my.hellobar.com/9b6db12fe518461e73f9744cd4bdf707679b83b0.js"></script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1524039957609116");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1524039957609116&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+
+<script type="text/javascript" id="hs-script-loader" src="//js.hs-scripts.com/6034113.js"></script><script type="text/javascript" id="">window.addEventListener("message",function(a){"hsFormCallback"===a.data.type&&"onFormSubmitted"===a.data.eventName&&window.dataLayer.push({event:"hubspot-form-success","hs-form-guid":a.data.id})});</script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","650736465272701");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=650736465272701&amp;ev=PageView&amp;noscript=1"></noscript>
+<script type="text/javascript" id="" src="//121973.tctm.co/t.js"></script><script type="application/ld+json">
+
+{
+  "@context": "https://schema.org",
+  "@type": "ChildCare",
+  "name": "Little Footprints Preschool",
+  "image": "https://littlefootprints.edu.sg/sites/default/files/my_files/LFP-web-220x50.jpg",
+  "@id": "https://littlefootprints.edu.sg/",
+  "url": "https://littlefootprints.edu.sg/",
+  "telephone": "+65 3165 0224",
+  "priceRange": "$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "243 Alexandra Rd, 03-01",
+    "addressLocality": "Singapore",
+    "postalCode": "159932",
+    "addressCountry": "SG"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 1.2916945,
+    "longitude": 103.810313
+  },
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "07:00",
+    "closes": "19:00"
+  },{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Saturday",
+    "opens": "07:00",
+    "closes": "14:00"
+  }],
+  "sameAs": [
+    "https://www.facebook.com/littlefootprintsgroup",
+    "https://www.instagram.com/littlefootprintspreschool/",
+    "https://www.youtube.com/channel/UCLmJjmbZPToUIfCeN-IQKwg",
+    "https://www.linkedin.com/company/babilou-family-singapore/",
+    "https://www.tiktok.com/@littlefootprintspresch",
+    "https://littlefootprints.edu.sg/"
+  ] 
+}
+</script>
+	<script type="text/javascript" id="">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";
+a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("CEL6G0BC77UA35R55KPG");a.page()}(window,document,"ttq");</script>
+	
+</body><!-- Version : undefined --><iframe id="__JSBridgeIframe_1.0__" title="jsbridge___JSBridgeIframe_1.0__" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult_1.0__" title="jsbridge___JSBridgeIframe_SetResult_1.0__" style="display: none;"></iframe><iframe id="__JSBridgeIframe__" title="jsbridge___JSBridgeIframe__" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult__" title="jsbridge___JSBridgeIframe_SetResult__" style="display: none;"></iframe></html>

@@ -773,8 +773,8 @@ Contact us on enquiry@mulberrylearning.com</div>
 <section class="container"><div class="row">
 <div class="spb_testimonial_slider_widget spb_content_element col-sm-12 testimonial">
 <div class="spb_wrapper slider-wrap">
-<div class="flexslider testimonials-slider content-slider" data-animation="fade" data-autoplay="yes" style="height: 207.781px;"><ul class="slides"><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><em><span style="font-weight: 400;">Melody has been enjoying school and is always looking forward to going to the centre for the learning and play time. She also enjoys (and on some days, exploring) the meals prepared by the cooks, helping her in the transition to “solids”. Her teacher-in-charge has also been very assuring and takes effort to update us about Melody’s progress in school. We really appreciate that a lot!</span></em>
-<h3><span style="color: #e92d8d;">Michelle and Benjamin, parents of Melody Goh Kai Ting, Jurong East</span></h3></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;"><div class="testimonial-text text-normal"><em><span style="font-weight: 400;">Qianmo has grown up a lot in the past few months and we can feel he enjoys and loves to go to school. It means a lot to us and that is impossible without your help, kindness and patience. Thank you so much for taking care of and educating him during this unprecedented period - it’s unimaginable how many challenges you’ve had to conquer to do that. Really appreciate it!</span></em>
+<div class="flexslider testimonials-slider content-slider" data-animation="fade" data-autoplay="yes" style="height: 222.781px;"><ul class="slides"><li class="testimonial flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;"><div class="testimonial-text text-normal"><em><span style="font-weight: 400;">Melody has been enjoying school and is always looking forward to going to the centre for the learning and play time. She also enjoys (and on some days, exploring) the meals prepared by the cooks, helping her in the transition to “solids”. Her teacher-in-charge has also been very assuring and takes effort to update us about Melody’s progress in school. We really appreciate that a lot!</span></em>
+<h3><span style="color: #e92d8d;">Michelle and Benjamin, parents of Melody Goh Kai Ting, Jurong East</span></h3></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><em><span style="font-weight: 400;">Qianmo has grown up a lot in the past few months and we can feel he enjoys and loves to go to school. It means a lot to us and that is impossible without your help, kindness and patience. Thank you so much for taking care of and educating him during this unprecedented period - it’s unimaginable how many challenges you’ve had to conquer to do that. Really appreciate it!</span></em>
 <h3><span style="color: #e92d8d;">Kelly and Yi, parents of Wang Qianmo, Jurong East</span></h3></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><em><span style="font-weight: 400;">Thank you for your constant guidance and understanding to educate Cadyan. It’s his first year in school, and knowing that he has such wonderful teachers to take care of him is assuring. His happy face after school always makes our day. It is not easy looking after so many children all at once and we are extremely thankful that despite everything, we can see Cadyan is growing up well.</span></em>
 <h3><span style="color: #e92d8d;">Carmen, parent of Cadyan Koh, Jurong East</span></h3></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><em><span style="font-weight: 400;">Thank you for your patience and for being great educators to Nicole. She enjoys going to school very much and is always excited to share with us what she learnt in school at the end of her day in school.</span></em>
 <h3><span style="color: #e92d8d;">Vivian Lim, parent of Nicole Lee, Jurong East</span></h3></div><div class="testimonial-cite"><cite></cite></div></li></ul><ul class="flex-direction-nav"><li><a class="flex-prev" href="#">Previous</a></li><li><a class="flex-next" href="#">Next</a></li></ul></div>
@@ -1147,7 +1147,7 @@ Distance: 1.6 km</p>
 <span class="wpcf7-form-control-wrap" data-name="child-given-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="child-given-name"></span>
 </p>
 <p>Date of Birth <span class="req">*</span><br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth" id="dp1711777463413"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth" id="dp1711885070981"></span>
 </p>
 <p><a id="mul-second-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1156,7 +1156,7 @@ Distance: 1.6 km</p>
 <span class="wpcf7-form-control-wrap" data-name="child-2-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-2-given-name"></span>
 </p>
 <p>Second Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth2"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth2" id="dp1711777463414"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth2"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth2" id="dp1711885070982"></span>
 </p>
 <p><a id="mul-third-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1166,7 +1166,7 @@ Distance: 1.6 km</p>
 <span class="wpcf7-form-control-wrap" data-name="child-3-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-3-given-name"></span>
 </p>
 <p>Third Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth3"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth3" id="dp1711777463415"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth3"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth3" id="dp1711885070983"></span>
 </p>
 <p><a id="mul-fourth-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1176,7 +1176,7 @@ Distance: 1.6 km</p>
 <span class="wpcf7-form-control-wrap" data-name="child-4-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-4-given-name"></span>
 </p>
 <p>Fourth Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth4"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth4" id="dp1711777463416"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth4"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth4" id="dp1711885070984"></span>
 </p>
 </div>
 <div style="clear: both;">
@@ -1443,7 +1443,7 @@ if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_c
                         
                 <span class="welcome-message">Hi there! How can I help you? :)</span>
             
-                        <span class="time">13:44</span>
+                        <span class="time">19:37</span>
                     </div>
                 </div>
                 <div class="csaas-whatsapp-footer" dir="ltr">

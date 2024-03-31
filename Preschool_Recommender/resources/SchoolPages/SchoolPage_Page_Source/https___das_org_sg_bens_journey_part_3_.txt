@@ -306,7 +306,7 @@ ga('send', 'pageview');
 						<div class="elementor-element elementor-element-3de0222 elementor-nav-menu__align-center elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="3de0222" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 			<link rel="stylesheet" href="https://das.org.sg/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1711505709">			<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
-				<ul id="menu-1-3de0222" class="elementor-nav-menu" data-smartmenus-id="17117679484477336"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="https://das.org.sg/donation/" class="elementor-item">Donate Now</a></li>
+				<ul id="menu-1-3de0222" class="elementor-nav-menu" data-smartmenus-id="17118721889792346"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="https://das.org.sg/donation/" class="elementor-item">Donate Now</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="https://das.org.sg/events-calendar/" class="elementor-item">Calendar</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a target="_blank" rel="noopener" href="https://eportal.das.org.sg/das/web/login" class="elementor-item">Parents Portal Login</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5652"><a href="https://das.org.sg/contact-us/" class="elementor-item">Contact Us</a></li>
@@ -315,7 +315,7 @@ ga('send', 'pageview');
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-3de0222" class="elementor-nav-menu" data-smartmenus-id="17117679484482688"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="https://das.org.sg/donation/" class="elementor-item" tabindex="-1">Donate Now</a></li>
+				<ul id="menu-2-3de0222" class="elementor-nav-menu" data-smartmenus-id="17118721889795786"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="https://das.org.sg/donation/" class="elementor-item" tabindex="-1">Donate Now</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="https://das.org.sg/events-calendar/" class="elementor-item" tabindex="-1">Calendar</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a target="_blank" rel="noopener" href="https://eportal.das.org.sg/das/web/login" class="elementor-item" tabindex="-1">Parents Portal Login</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5652"><a href="https://das.org.sg/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
@@ -394,13 +394,13 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-4560a96 elementor-nav-menu--dropdown-none elementor-widget__width-initial elementor-widget elementor-widget-nav-menu" data-id="4560a96" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-4560a96" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484498079"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19510"><a href="https://das.org.sg/learning-differently/who-are-they/" class="elementor-item">Who Are They</a></li>
+				<ul id="menu-1-4560a96" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889802395"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19510"><a href="https://das.org.sg/learning-differently/who-are-they/" class="elementor-item">Who Are They</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19443"><a href="https://das.org.sg/learning-differently/services-provided/" class="elementor-item">Services Provided</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19444"><a href="https://das.org.sg/learning-differently/i-learn-differently/" class="elementor-item">Signs and Symptoms</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19445"><a href="https://das.org.sg/learning-differently/supporting-these-learners/" class="elementor-item">Supporting Learners @ DAS</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-4560a96" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484491206"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19510"><a href="https://das.org.sg/learning-differently/who-are-they/" class="elementor-item" tabindex="-1">Who Are They</a></li>
+				<ul id="menu-2-4560a96" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889806016"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19510"><a href="https://das.org.sg/learning-differently/who-are-they/" class="elementor-item" tabindex="-1">Who Are They</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19443"><a href="https://das.org.sg/learning-differently/services-provided/" class="elementor-item" tabindex="-1">Services Provided</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19444"><a href="https://das.org.sg/learning-differently/i-learn-differently/" class="elementor-item" tabindex="-1">Signs and Symptoms</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19445"><a href="https://das.org.sg/learning-differently/supporting-these-learners/" class="elementor-item" tabindex="-1">Supporting Learners @ DAS</a></li>
@@ -418,13 +418,13 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-a3d6b10 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="a3d6b10" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-a3d6b10" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484495964"><li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15708"><a href="https://das.org.sg/learning_differently/understanding-dyslexia/" class="elementor-item">Understanding Dyslexia</a></li>
+				<ul id="menu-1-a3d6b10" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872188981961"><li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15708"><a href="https://das.org.sg/learning_differently/understanding-dyslexia/" class="elementor-item">Understanding Dyslexia</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15710"><a href="https://das.org.sg/learning_differently/supporting-dyslexia/" class="elementor-item">Supporting Dyslexia</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15711"><a href="https://das.org.sg/learning_differently/dyslexia-in-higher-learning/" class="elementor-item">Dyslexia in Higher Learning</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15712"><a href="https://das.org.sg/learning_differently/adult-dyslexia/" class="elementor-item">Adult Dyslexia</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-a3d6b10" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484507166"><li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15708"><a href="https://das.org.sg/learning_differently/understanding-dyslexia/" class="elementor-item" tabindex="-1">Understanding Dyslexia</a></li>
+				<ul id="menu-2-a3d6b10" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889813916"><li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15708"><a href="https://das.org.sg/learning_differently/understanding-dyslexia/" class="elementor-item" tabindex="-1">Understanding Dyslexia</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15710"><a href="https://das.org.sg/learning_differently/supporting-dyslexia/" class="elementor-item" tabindex="-1">Supporting Dyslexia</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15711"><a href="https://das.org.sg/learning_differently/dyslexia-in-higher-learning/" class="elementor-item" tabindex="-1">Dyslexia in Higher Learning</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15712"><a href="https://das.org.sg/learning_differently/adult-dyslexia/" class="elementor-item" tabindex="-1">Adult Dyslexia</a></li>
@@ -442,11 +442,11 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-7c0e78e elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="7c0e78e" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-7c0e78e" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711767948450529"><li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15716"><a href="https://das.org.sg/learning_differently/understanding-splds/" class="elementor-item">Understanding SPLDs</a></li>
+				<ul id="menu-1-7c0e78e" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889819143"><li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15716"><a href="https://das.org.sg/learning_differently/understanding-splds/" class="elementor-item">Understanding SPLDs</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15717"><a href="https://das.org.sg/learning_differently/supporting-splds/" class="elementor-item">Supporting SpLDs</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-7c0e78e" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484500254"><li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15716"><a href="https://das.org.sg/learning_differently/understanding-splds/" class="elementor-item" tabindex="-1">Understanding SPLDs</a></li>
+				<ul id="menu-2-7c0e78e" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889815095"><li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15716"><a href="https://das.org.sg/learning_differently/understanding-splds/" class="elementor-item" tabindex="-1">Understanding SPLDs</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15717"><a href="https://das.org.sg/learning_differently/supporting-splds/" class="elementor-item" tabindex="-1">Supporting SpLDs</a></li>
 </ul>			</nav>
 				</div>
@@ -462,12 +462,12 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-e7b2923 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="e7b2923" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-e7b2923" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484506514"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19477"><a href="https://das.org.sg/services/programmes/preschool/#signs-checklist" class="elementor-item elementor-item-anchor">Preschool Checklist</a></li>
+				<ul id="menu-1-e7b2923" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889820315"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19477"><a href="https://das.org.sg/services/programmes/preschool/#signs-checklist" class="elementor-item elementor-item-anchor">Preschool Checklist</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19474"><a href="https://das.org.sg/adult-dyslexia/" class="elementor-item">Adult Dyslexia Checklist</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19475"><a href="https://das.org.sg/checklist/" class="elementor-item">Struggling Learner Checklist</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-e7b2923" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484518735"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19477"><a href="https://das.org.sg/services/programmes/preschool/#signs-checklist" class="elementor-item elementor-item-anchor" tabindex="-1">Preschool Checklist</a></li>
+				<ul id="menu-2-e7b2923" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889825334"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19477"><a href="https://das.org.sg/services/programmes/preschool/#signs-checklist" class="elementor-item elementor-item-anchor" tabindex="-1">Preschool Checklist</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19474"><a href="https://das.org.sg/adult-dyslexia/" class="elementor-item" tabindex="-1">Adult Dyslexia Checklist</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19475"><a href="https://das.org.sg/checklist/" class="elementor-item" tabindex="-1">Struggling Learner Checklist</a></li>
 </ul>			</nav>
@@ -501,7 +501,7 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-72284d1 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="72284d1" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-none">
-				<ul id="menu-1-72284d1" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484519902"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15720"><a href="https://das.org.sg/services/what-we-do/" class="elementor-item">What We Do</a></li>
+				<ul id="menu-1-72284d1" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889820144"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15720"><a href="https://das.org.sg/services/what-we-do/" class="elementor-item">What We Do</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15721"><a href="https://das.org.sg/services/all-programme-fees/" class="elementor-item">All Programme Fees</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15722"><a href="https://das.org.sg/services/financial-assistance/" class="elementor-item">Financial Assistance</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15724"><a href="https://das.org.sg/services/student-wellness/" class="elementor-item">Student Wellness</a></li>
@@ -510,7 +510,7 @@ ga('send', 'pageview');
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15727"><a href="https://das.org.sg/services/programmes/frequently-asked-questions/" class="elementor-item">Frequently Asked Questions</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-72284d1" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484511296"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15720"><a href="https://das.org.sg/services/what-we-do/" class="elementor-item" tabindex="-1">What We Do</a></li>
+				<ul id="menu-2-72284d1" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889821543"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15720"><a href="https://das.org.sg/services/what-we-do/" class="elementor-item" tabindex="-1">What We Do</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15721"><a href="https://das.org.sg/services/all-programme-fees/" class="elementor-item" tabindex="-1">All Programme Fees</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15722"><a href="https://das.org.sg/services/financial-assistance/" class="elementor-item" tabindex="-1">Financial Assistance</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15724"><a href="https://das.org.sg/services/student-wellness/" class="elementor-item" tabindex="-1">Student Wellness</a></li>
@@ -531,11 +531,11 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-3d6f356 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="3d6f356" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-none">
-				<ul id="menu-1-3d6f356" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484517495"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15731"><a href="https://das.org.sg/services/spld-assessment/" class="elementor-item">SpLD Assessment</a></li>
+				<ul id="menu-1-3d6f356" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872188983251"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15731"><a href="https://das.org.sg/services/spld-assessment/" class="elementor-item">SpLD Assessment</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15732"><a href="https://das.org.sg/services/spld-assessment/assessment-fees/" class="elementor-item">Assessment Fees</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-3d6f356" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484518635"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15731"><a href="https://das.org.sg/services/spld-assessment/" class="elementor-item" tabindex="-1">SpLD Assessment</a></li>
+				<ul id="menu-2-3d6f356" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872188983304"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15731"><a href="https://das.org.sg/services/spld-assessment/" class="elementor-item" tabindex="-1">SpLD Assessment</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15732"><a href="https://das.org.sg/services/spld-assessment/assessment-fees/" class="elementor-item" tabindex="-1">Assessment Fees</a></li>
 </ul>			</nav>
 				</div>
@@ -547,11 +547,11 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-9e437af elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="9e437af" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-none">
-				<ul id="menu-1-9e437af" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484529092"><li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-15734"><a href="https://das.org.sg/services/dyslexia-screening/" class="elementor-item">Dyslexia Screening</a></li>
+				<ul id="menu-1-9e437af" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889836516"><li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-15734"><a href="https://das.org.sg/services/dyslexia-screening/" class="elementor-item">Dyslexia Screening</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15735"><a href="https://das.org.sg/services/awareness-talks/" class="elementor-item">Awareness Talks</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-9e437af" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711767948452667"><li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-15734"><a href="https://das.org.sg/services/dyslexia-screening/" class="elementor-item" tabindex="-1">Dyslexia Screening</a></li>
+				<ul id="menu-2-9e437af" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889836255"><li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-15734"><a href="https://das.org.sg/services/dyslexia-screening/" class="elementor-item" tabindex="-1">Dyslexia Screening</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15735"><a href="https://das.org.sg/services/awareness-talks/" class="elementor-item" tabindex="-1">Awareness Talks</a></li>
 </ul>			</nav>
 				</div>
@@ -567,7 +567,7 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-9a381d7 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="9a381d7" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-none">
-				<ul id="menu-1-9a381d7" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484521904"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15688"><a href="https://das.org.sg/services/programmes/main-literacy-programme/" class="elementor-item">Main Literacy Programme</a></li>
+				<ul id="menu-1-9a381d7" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872188984376"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15688"><a href="https://das.org.sg/services/programmes/main-literacy-programme/" class="elementor-item">Main Literacy Programme</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15689"><a href="https://das.org.sg/services/programmes/preschool/" class="elementor-item">Preschool Programme</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15690"><a href="https://das.org.sg/services/programmes/prep-2-psle/" class="elementor-item">PREP 2 PSLE Programme</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15691"><a href="https://das.org.sg/services/programmes/maths/" class="elementor-item">Maths Programme</a></li>
@@ -579,7 +579,7 @@ ga('send', 'pageview');
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15697"><a href="https://das.org.sg/services/programmes/istudysmart/" class="elementor-item">iStudySmart™</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-9a381d7" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711767948452355"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15688"><a href="https://das.org.sg/services/programmes/main-literacy-programme/" class="elementor-item" tabindex="-1">Main Literacy Programme</a></li>
+				<ul id="menu-2-9a381d7" class="elementor-nav-menu sm-vertical" data-smartmenus-id="171187218898498"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15688"><a href="https://das.org.sg/services/programmes/main-literacy-programme/" class="elementor-item" tabindex="-1">Main Literacy Programme</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15689"><a href="https://das.org.sg/services/programmes/preschool/" class="elementor-item" tabindex="-1">Preschool Programme</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15690"><a href="https://das.org.sg/services/programmes/prep-2-psle/" class="elementor-item" tabindex="-1">PREP 2 PSLE Programme</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15691"><a href="https://das.org.sg/services/programmes/maths/" class="elementor-item" tabindex="-1">Maths Programme</a></li>
@@ -603,14 +603,14 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-790f15f elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="790f15f" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-none">
-				<ul id="menu-1-790f15f" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484538875"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15739"><a href="https://das.org.sg/services/short-term-programmes/iworksmart/" class="elementor-item">iWorkSmart</a></li>
+				<ul id="menu-1-790f15f" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889842717"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15739"><a href="https://das.org.sg/services/short-term-programmes/iworksmart/" class="elementor-item">iWorkSmart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15740"><a href="https://das.org.sg/services/short-term-programmes/artventure/" class="elementor-item">ARTVenture</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15743"><a href="https://das.org.sg/services/short-term-programmes/science-explorers/" class="elementor-item">Science Explorers</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15744"><a href="https://das.org.sg/services/short-term-programmes/secondary-1nt-maths/" class="elementor-item">Secondary 1 G1 Maths</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15741"><a href="https://das.org.sg/services/short-term-programmes/on-site-teaching/" class="elementor-item">On-site Teaching</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-790f15f" class="elementor-nav-menu sm-vertical" data-smartmenus-id="171176794845333"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15739"><a href="https://das.org.sg/services/short-term-programmes/iworksmart/" class="elementor-item" tabindex="-1">iWorkSmart</a></li>
+				<ul id="menu-2-790f15f" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889845422"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15739"><a href="https://das.org.sg/services/short-term-programmes/iworksmart/" class="elementor-item" tabindex="-1">iWorkSmart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15740"><a href="https://das.org.sg/services/short-term-programmes/artventure/" class="elementor-item" tabindex="-1">ARTVenture</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15743"><a href="https://das.org.sg/services/short-term-programmes/science-explorers/" class="elementor-item" tabindex="-1">Science Explorers</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15744"><a href="https://das.org.sg/services/short-term-programmes/secondary-1nt-maths/" class="elementor-item" tabindex="-1">Secondary 1 G1 Maths</a></li>
@@ -636,12 +636,12 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-bef15a8 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="bef15a8" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-bef15a8" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484539304"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15746"><a href="https://das.org.sg/news-and-events/highlights/das-in-the-media/" class="elementor-item">DAS in The Media</a></li>
+				<ul id="menu-1-bef15a8" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889843757"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15746"><a href="https://das.org.sg/news-and-events/highlights/das-in-the-media/" class="elementor-item">DAS in The Media</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15747"><a href="https://das.org.sg/news-and-events/highlights/media-releases/" class="elementor-item">Media Releases</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15748"><a href="https://das.org.sg/news-and-events/highlights/parent-advisory/" class="elementor-item">Parent Advisory</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-bef15a8" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711767948453689"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15746"><a href="https://das.org.sg/news-and-events/highlights/das-in-the-media/" class="elementor-item" tabindex="-1">DAS in The Media</a></li>
+				<ul id="menu-2-bef15a8" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889856028"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15746"><a href="https://das.org.sg/news-and-events/highlights/das-in-the-media/" class="elementor-item" tabindex="-1">DAS in The Media</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15747"><a href="https://das.org.sg/news-and-events/highlights/media-releases/" class="elementor-item" tabindex="-1">Media Releases</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15748"><a href="https://das.org.sg/news-and-events/highlights/parent-advisory/" class="elementor-item" tabindex="-1">Parent Advisory</a></li>
 </ul>			</nav>
@@ -658,11 +658,11 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-1e2ee39 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="1e2ee39" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-1e2ee39" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711767948454267"><li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-8454"><a href="https://das.org.sg/services/dyslexia-screening/" class="elementor-item">Dyslexia Screening</a></li>
+				<ul id="menu-1-1e2ee39" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872188985844"><li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-8454"><a href="https://das.org.sg/services/dyslexia-screening/" class="elementor-item">Dyslexia Screening</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16060"><a href="https://sites.google.com/das.org.sg/unite-2024/unite" class="elementor-item">UNITE 2024</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-1e2ee39" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711767948454307"><li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-8454"><a href="https://das.org.sg/services/dyslexia-screening/" class="elementor-item" tabindex="-1">Dyslexia Screening</a></li>
+				<ul id="menu-2-1e2ee39" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889853442"><li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-8454"><a href="https://das.org.sg/services/dyslexia-screening/" class="elementor-item" tabindex="-1">Dyslexia Screening</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16060"><a href="https://sites.google.com/das.org.sg/unite-2024/unite" class="elementor-item" tabindex="-1">UNITE 2024</a></li>
 </ul>			</nav>
 				</div>
@@ -678,11 +678,11 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-fc15a3e elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="fc15a3e" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-fc15a3e" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484542307"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15750"><a href="https://das.org.sg/news-and-events/past-events/" class="elementor-item">Past Events</a></li>
+				<ul id="menu-1-fc15a3e" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889861807"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15750"><a href="https://das.org.sg/news-and-events/past-events/" class="elementor-item">Past Events</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-15751"><a href="https://das.org.sg/upcoming_past_events/events-gallery/" class="elementor-item">Events Gallery</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-fc15a3e" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484545981"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15750"><a href="https://das.org.sg/news-and-events/past-events/" class="elementor-item" tabindex="-1">Past Events</a></li>
+				<ul id="menu-2-fc15a3e" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889864753"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15750"><a href="https://das.org.sg/news-and-events/past-events/" class="elementor-item" tabindex="-1">Past Events</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-15751"><a href="https://das.org.sg/upcoming_past_events/events-gallery/" class="elementor-item" tabindex="-1">Events Gallery</a></li>
 </ul>			</nav>
 				</div>
@@ -698,13 +698,13 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-825f560 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="825f560" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-825f560" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484550896"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16542"><a href="https://das.org.sg/news-and-events/mlp-parents-orientation/" class="elementor-item">MLP Parents Orientation</a></li>
+				<ul id="menu-1-825f560" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889865278"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16542"><a href="https://das.org.sg/news-and-events/mlp-parents-orientation/" class="elementor-item">MLP Parents Orientation</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16543"><a href="https://das.org.sg/news-and-events/ses-parents-orientation/" class="elementor-item">SES Parents Orientation</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16546"><a href="https://www.dasacademy.edu.sg/events/" class="elementor-item">DAS Academy Webinars</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16547"><a href="https://www.dasint.org.sg/news-events/events-new-2" class="elementor-item">DAS International Webinars</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-825f560" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484554592"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16542"><a href="https://das.org.sg/news-and-events/mlp-parents-orientation/" class="elementor-item" tabindex="-1">MLP Parents Orientation</a></li>
+				<ul id="menu-2-825f560" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889869697"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16542"><a href="https://das.org.sg/news-and-events/mlp-parents-orientation/" class="elementor-item" tabindex="-1">MLP Parents Orientation</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16543"><a href="https://das.org.sg/news-and-events/ses-parents-orientation/" class="elementor-item" tabindex="-1">SES Parents Orientation</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16546"><a href="https://www.dasacademy.edu.sg/events/" class="elementor-item" tabindex="-1">DAS Academy Webinars</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16547"><a href="https://www.dasint.org.sg/news-events/events-new-2" class="elementor-item" tabindex="-1">DAS International Webinars</a></li>
@@ -761,7 +761,7 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-2a3ac05 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="2a3ac05" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-2a3ac05" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711767948455617"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15758"><a href="https://das.org.sg/get-involved/das-student-alumni/" class="elementor-item">Alumni</a></li>
+				<ul id="menu-1-2a3ac05" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889876038"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15758"><a href="https://das.org.sg/get-involved/das-student-alumni/" class="elementor-item">Alumni</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15759"><a href="https://das.org.sg/volunteer/" class="elementor-item">Volunteer</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15760"><a href="https://das.org.sg/careers-das/" class="elementor-item">Careers at DAS</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15761"><a href="https://das.org.sg/das-members/" class="elementor-item">Friends of DAS</a></li>
@@ -769,7 +769,7 @@ ga('send', 'pageview');
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15763"><a target="_blank" rel="noopener" href="https://reta.sg/" class="elementor-item">Register of Educational Therapists</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-2a3ac05" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484563792"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15758"><a href="https://das.org.sg/get-involved/das-student-alumni/" class="elementor-item" tabindex="-1">Alumni</a></li>
+				<ul id="menu-2-2a3ac05" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889870017"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15758"><a href="https://das.org.sg/get-involved/das-student-alumni/" class="elementor-item" tabindex="-1">Alumni</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15759"><a href="https://das.org.sg/volunteer/" class="elementor-item" tabindex="-1">Volunteer</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15760"><a href="https://das.org.sg/careers-das/" class="elementor-item" tabindex="-1">Careers at DAS</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15761"><a href="https://das.org.sg/das-members/" class="elementor-item" tabindex="-1">Friends of DAS</a></li>
@@ -789,13 +789,13 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-d0ea29a elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="d0ea29a" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-d0ea29a" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484560745"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15765"><a href="https://das.org.sg/get-involved/are-you-a-parent/das-parents-support-group/" class="elementor-item">A parent</a></li>
+				<ul id="menu-1-d0ea29a" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889872732"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15765"><a href="https://das.org.sg/get-involved/are-you-a-parent/das-parents-support-group/" class="elementor-item">A parent</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15767"><a href="https://das.org.sg/get-involved/are-you-a-teacher/" class="elementor-item">A teacher</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16557"><a href="https://das.org.sg/get-involved/are-you-a-researcher/" class="elementor-item">A researcher</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15769"><a href="https://das.org.sg/get-involved/are-you-an-employer/" class="elementor-item">An employer</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-d0ea29a" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484563389"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15765"><a href="https://das.org.sg/get-involved/are-you-a-parent/das-parents-support-group/" class="elementor-item" tabindex="-1">A parent</a></li>
+				<ul id="menu-2-d0ea29a" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872188987943"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15765"><a href="https://das.org.sg/get-involved/are-you-a-parent/das-parents-support-group/" class="elementor-item" tabindex="-1">A parent</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15767"><a href="https://das.org.sg/get-involved/are-you-a-teacher/" class="elementor-item" tabindex="-1">A teacher</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16557"><a href="https://das.org.sg/get-involved/are-you-a-researcher/" class="elementor-item" tabindex="-1">A researcher</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15769"><a href="https://das.org.sg/get-involved/are-you-an-employer/" class="elementor-item" tabindex="-1">An employer</a></li>
@@ -813,13 +813,13 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-b15258c elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="b15258c" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-b15258c" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484561475"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15772"><a target="_blank" rel="noopener" href="https://www.change.org/EMBRACEDYSLEXIA" class="elementor-item">Sign the Pledge</a></li>
+				<ul id="menu-1-b15258c" class="elementor-nav-menu sm-vertical" data-smartmenus-id="171187218898837"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15772"><a target="_blank" rel="noopener" href="https://www.change.org/EMBRACEDYSLEXIA" class="elementor-item">Sign the Pledge</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15773"><a href="https://das.org.sg/get-involved/about-embrace-dyslexia/" class="elementor-item">About Embrace Dyslexia</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15774"><a href="https://das.org.sg/get-involved/embrace-dyslexia-action/" class="elementor-item">Embrace Dyslexia Action</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15775"><a href="https://das.org.sg/get-involved/das30/" class="elementor-item">DAS30</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-b15258c" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484563738"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15772"><a target="_blank" rel="noopener" href="https://www.change.org/EMBRACEDYSLEXIA" class="elementor-item" tabindex="-1">Sign the Pledge</a></li>
+				<ul id="menu-2-b15258c" class="elementor-nav-menu sm-vertical" data-smartmenus-id="171187218898849"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15772"><a target="_blank" rel="noopener" href="https://www.change.org/EMBRACEDYSLEXIA" class="elementor-item" tabindex="-1">Sign the Pledge</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15773"><a href="https://das.org.sg/get-involved/about-embrace-dyslexia/" class="elementor-item" tabindex="-1">About Embrace Dyslexia</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15774"><a href="https://das.org.sg/get-involved/embrace-dyslexia-action/" class="elementor-item" tabindex="-1">Embrace Dyslexia Action</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15775"><a href="https://das.org.sg/get-involved/das30/" class="elementor-item" tabindex="-1">DAS30</a></li>
@@ -865,7 +865,7 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-73fc7d9 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="73fc7d9" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-73fc7d9" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484579456"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3156"><a href="https://das.org.sg/about-das/vision-mission/" class="elementor-item">Vision &amp; Mission</a></li>
+				<ul id="menu-1-73fc7d9" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889886553"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3156"><a href="https://das.org.sg/about-das/vision-mission/" class="elementor-item">Vision &amp; Mission</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3158"><a href="https://das.org.sg/about-das/organisation-chart/" class="elementor-item">Organisation Chart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3159"><a href="https://das.org.sg/about-das/general-management-team/" class="elementor-item">General Management Team</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3160"><a href="https://das.org.sg/about-das/staff-directory/" class="elementor-item">Staff Directory</a></li>
@@ -874,7 +874,7 @@ ga('send', 'pageview');
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16061"><a href="https://das.org.sg/about-das/research-at-das/" class="elementor-item">Research at DAS</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-73fc7d9" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484576443"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3156"><a href="https://das.org.sg/about-das/vision-mission/" class="elementor-item" tabindex="-1">Vision &amp; Mission</a></li>
+				<ul id="menu-2-73fc7d9" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872188988996"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3156"><a href="https://das.org.sg/about-das/vision-mission/" class="elementor-item" tabindex="-1">Vision &amp; Mission</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3158"><a href="https://das.org.sg/about-das/organisation-chart/" class="elementor-item" tabindex="-1">Organisation Chart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3159"><a href="https://das.org.sg/about-das/general-management-team/" class="elementor-item" tabindex="-1">General Management Team</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3160"><a href="https://das.org.sg/about-das/staff-directory/" class="elementor-item" tabindex="-1">Staff Directory</a></li>
@@ -895,14 +895,14 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-6f8420d elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="6f8420d" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-6f8420d" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484571714"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3164"><a href="https://das.org.sg/about-das/corporate-governance/board-of-directors/" class="elementor-item">Board of Directors</a></li>
+				<ul id="menu-1-6f8420d" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889898313"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3164"><a href="https://das.org.sg/about-das/corporate-governance/board-of-directors/" class="elementor-item">Board of Directors</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16098"><a href="https://das.org.sg/corporate-governance-policies/" class="elementor-item">Corporate Governance Policies</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3165"><a href="https://das.org.sg/about-das/corporate-governance/annual-report/" class="elementor-item">Annual Report</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3166"><a href="https://das.org.sg/about-das/corporate-governance/charity-transparency-awards/" class="elementor-item">Charity Transparency Awards</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3167"><a href="https://das.org.sg/about-das/corporate-governance/jimmy-roshen-daruwalla-fund/" class="elementor-item">Jimmy and Roshen Daruwalla Fund</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-6f8420d" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484580354"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3164"><a href="https://das.org.sg/about-das/corporate-governance/board-of-directors/" class="elementor-item" tabindex="-1">Board of Directors</a></li>
+				<ul id="menu-2-6f8420d" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889895522"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3164"><a href="https://das.org.sg/about-das/corporate-governance/board-of-directors/" class="elementor-item" tabindex="-1">Board of Directors</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16098"><a href="https://das.org.sg/corporate-governance-policies/" class="elementor-item" tabindex="-1">Corporate Governance Policies</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3165"><a href="https://das.org.sg/about-das/corporate-governance/annual-report/" class="elementor-item" tabindex="-1">Annual Report</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3166"><a href="https://das.org.sg/about-das/corporate-governance/charity-transparency-awards/" class="elementor-item" tabindex="-1">Charity Transparency Awards</a></li>
@@ -921,11 +921,11 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-13aaa3f elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="13aaa3f" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-13aaa3f" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484586907"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15780"><a href="https://das.org.sg/publications/" class="elementor-item">Publications</a></li>
+				<ul id="menu-1-13aaa3f" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889896584"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15780"><a href="https://das.org.sg/publications/" class="elementor-item">Publications</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15781"><a href="https://das.org.sg/news-and-events/conferences-events/" class="elementor-item">Conferences Events</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-13aaa3f" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484588677"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15780"><a href="https://das.org.sg/publications/" class="elementor-item" tabindex="-1">Publications</a></li>
+				<ul id="menu-2-13aaa3f" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889903074"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15780"><a href="https://das.org.sg/publications/" class="elementor-item" tabindex="-1">Publications</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15781"><a href="https://das.org.sg/news-and-events/conferences-events/" class="elementor-item" tabindex="-1">Conferences Events</a></li>
 </ul>			</nav>
 				</div>
@@ -969,11 +969,11 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-7206d46 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="7206d46" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-7206d46" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484594595"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15777"><a href="https://das.org.sg/contact-us/" class="elementor-item">Get in touch</a></li>
+				<ul id="menu-1-7206d46" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889904304"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15777"><a href="https://das.org.sg/contact-us/" class="elementor-item">Get in touch</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15778"><a href="https://das.org.sg/centres/" class="elementor-item">Learning Centres</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-7206d46" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484594424"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15777"><a href="https://das.org.sg/contact-us/" class="elementor-item" tabindex="-1">Get in touch</a></li>
+				<ul id="menu-2-7206d46" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889904917"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15777"><a href="https://das.org.sg/contact-us/" class="elementor-item" tabindex="-1">Get in touch</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15778"><a href="https://das.org.sg/centres/" class="elementor-item" tabindex="-1">Learning Centres</a></li>
 </ul>			</nav>
 				</div>
@@ -1008,13 +1008,13 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-4560a96 elementor-nav-menu--dropdown-none elementor-widget__width-initial elementor-widget elementor-widget-nav-menu" data-id="4560a96" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-4560a96" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484593713"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19510"><a href="https://das.org.sg/learning-differently/who-are-they/" class="elementor-item">Who Are They</a></li>
+				<ul id="menu-1-4560a96" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889914927"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19510"><a href="https://das.org.sg/learning-differently/who-are-they/" class="elementor-item">Who Are They</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19443"><a href="https://das.org.sg/learning-differently/services-provided/" class="elementor-item">Services Provided</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19444"><a href="https://das.org.sg/learning-differently/i-learn-differently/" class="elementor-item">Signs and Symptoms</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19445"><a href="https://das.org.sg/learning-differently/supporting-these-learners/" class="elementor-item">Supporting Learners @ DAS</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-4560a96" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484591091"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19510"><a href="https://das.org.sg/learning-differently/who-are-they/" class="elementor-item" tabindex="-1">Who Are They</a></li>
+				<ul id="menu-2-4560a96" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889911377"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19510"><a href="https://das.org.sg/learning-differently/who-are-they/" class="elementor-item" tabindex="-1">Who Are They</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19443"><a href="https://das.org.sg/learning-differently/services-provided/" class="elementor-item" tabindex="-1">Services Provided</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19444"><a href="https://das.org.sg/learning-differently/i-learn-differently/" class="elementor-item" tabindex="-1">Signs and Symptoms</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19445"><a href="https://das.org.sg/learning-differently/supporting-these-learners/" class="elementor-item" tabindex="-1">Supporting Learners @ DAS</a></li>
@@ -1032,13 +1032,13 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-a3d6b10 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="a3d6b10" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-a3d6b10" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484603757"><li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15708"><a href="https://das.org.sg/learning_differently/understanding-dyslexia/" class="elementor-item">Understanding Dyslexia</a></li>
+				<ul id="menu-1-a3d6b10" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872188992912"><li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15708"><a href="https://das.org.sg/learning_differently/understanding-dyslexia/" class="elementor-item">Understanding Dyslexia</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15710"><a href="https://das.org.sg/learning_differently/supporting-dyslexia/" class="elementor-item">Supporting Dyslexia</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15711"><a href="https://das.org.sg/learning_differently/dyslexia-in-higher-learning/" class="elementor-item">Dyslexia in Higher Learning</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15712"><a href="https://das.org.sg/learning_differently/adult-dyslexia/" class="elementor-item">Adult Dyslexia</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-a3d6b10" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711767948460336"><li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15708"><a href="https://das.org.sg/learning_differently/understanding-dyslexia/" class="elementor-item" tabindex="-1">Understanding Dyslexia</a></li>
+				<ul id="menu-2-a3d6b10" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872188992111"><li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15708"><a href="https://das.org.sg/learning_differently/understanding-dyslexia/" class="elementor-item" tabindex="-1">Understanding Dyslexia</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15710"><a href="https://das.org.sg/learning_differently/supporting-dyslexia/" class="elementor-item" tabindex="-1">Supporting Dyslexia</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15711"><a href="https://das.org.sg/learning_differently/dyslexia-in-higher-learning/" class="elementor-item" tabindex="-1">Dyslexia in Higher Learning</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15712"><a href="https://das.org.sg/learning_differently/adult-dyslexia/" class="elementor-item" tabindex="-1">Adult Dyslexia</a></li>
@@ -1056,11 +1056,11 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-7c0e78e elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="7c0e78e" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-7c0e78e" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484603745"><li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15716"><a href="https://das.org.sg/learning_differently/understanding-splds/" class="elementor-item">Understanding SPLDs</a></li>
+				<ul id="menu-1-7c0e78e" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872188992102"><li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15716"><a href="https://das.org.sg/learning_differently/understanding-splds/" class="elementor-item">Understanding SPLDs</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15717"><a href="https://das.org.sg/learning_differently/supporting-splds/" class="elementor-item">Supporting SpLDs</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-7c0e78e" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711767948460974"><li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15716"><a href="https://das.org.sg/learning_differently/understanding-splds/" class="elementor-item" tabindex="-1">Understanding SPLDs</a></li>
+				<ul id="menu-2-7c0e78e" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872188993986"><li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15716"><a href="https://das.org.sg/learning_differently/understanding-splds/" class="elementor-item" tabindex="-1">Understanding SPLDs</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-learning_differently menu-item-15717"><a href="https://das.org.sg/learning_differently/supporting-splds/" class="elementor-item" tabindex="-1">Supporting SpLDs</a></li>
 </ul>			</nav>
 				</div>
@@ -1076,12 +1076,12 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-e7b2923 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="e7b2923" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-e7b2923" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484619766"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19477"><a href="https://das.org.sg/services/programmes/preschool/#signs-checklist" class="elementor-item elementor-item-anchor">Preschool Checklist</a></li>
+				<ul id="menu-1-e7b2923" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872188993173"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19477"><a href="https://das.org.sg/services/programmes/preschool/#signs-checklist" class="elementor-item elementor-item-anchor">Preschool Checklist</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19474"><a href="https://das.org.sg/adult-dyslexia/" class="elementor-item">Adult Dyslexia Checklist</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19475"><a href="https://das.org.sg/checklist/" class="elementor-item">Struggling Learner Checklist</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-e7b2923" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711767948461098"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19477"><a href="https://das.org.sg/services/programmes/preschool/#signs-checklist" class="elementor-item elementor-item-anchor" tabindex="-1">Preschool Checklist</a></li>
+				<ul id="menu-2-e7b2923" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889935676"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19477"><a href="https://das.org.sg/services/programmes/preschool/#signs-checklist" class="elementor-item elementor-item-anchor" tabindex="-1">Preschool Checklist</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19474"><a href="https://das.org.sg/adult-dyslexia/" class="elementor-item" tabindex="-1">Adult Dyslexia Checklist</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19475"><a href="https://das.org.sg/checklist/" class="elementor-item" tabindex="-1">Struggling Learner Checklist</a></li>
 </ul>			</nav>
@@ -1115,7 +1115,7 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-72284d1 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="72284d1" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-none">
-				<ul id="menu-1-72284d1" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484619387"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15720"><a href="https://das.org.sg/services/what-we-do/" class="elementor-item">What We Do</a></li>
+				<ul id="menu-1-72284d1" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889942725"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15720"><a href="https://das.org.sg/services/what-we-do/" class="elementor-item">What We Do</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15721"><a href="https://das.org.sg/services/all-programme-fees/" class="elementor-item">All Programme Fees</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15722"><a href="https://das.org.sg/services/financial-assistance/" class="elementor-item">Financial Assistance</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15724"><a href="https://das.org.sg/services/student-wellness/" class="elementor-item">Student Wellness</a></li>
@@ -1124,7 +1124,7 @@ ga('send', 'pageview');
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15727"><a href="https://das.org.sg/services/programmes/frequently-asked-questions/" class="elementor-item">Frequently Asked Questions</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-72284d1" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484615579"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15720"><a href="https://das.org.sg/services/what-we-do/" class="elementor-item" tabindex="-1">What We Do</a></li>
+				<ul id="menu-2-72284d1" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872188994358"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15720"><a href="https://das.org.sg/services/what-we-do/" class="elementor-item" tabindex="-1">What We Do</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15721"><a href="https://das.org.sg/services/all-programme-fees/" class="elementor-item" tabindex="-1">All Programme Fees</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15722"><a href="https://das.org.sg/services/financial-assistance/" class="elementor-item" tabindex="-1">Financial Assistance</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15724"><a href="https://das.org.sg/services/student-wellness/" class="elementor-item" tabindex="-1">Student Wellness</a></li>
@@ -1145,11 +1145,11 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-3d6f356 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="3d6f356" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-none">
-				<ul id="menu-1-3d6f356" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484622314"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15731"><a href="https://das.org.sg/services/spld-assessment/" class="elementor-item">SpLD Assessment</a></li>
+				<ul id="menu-1-3d6f356" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721889951826"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15731"><a href="https://das.org.sg/services/spld-assessment/" class="elementor-item">SpLD Assessment</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15732"><a href="https://das.org.sg/services/spld-assessment/assessment-fees/" class="elementor-item">Assessment Fees</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-3d6f356" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484628623"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15731"><a href="https://das.org.sg/services/spld-assessment/" class="elementor-item" tabindex="-1">SpLD Assessment</a></li>
+				<ul id="menu-2-3d6f356" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890027593"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15731"><a href="https://das.org.sg/services/spld-assessment/" class="elementor-item" tabindex="-1">SpLD Assessment</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15732"><a href="https://das.org.sg/services/spld-assessment/assessment-fees/" class="elementor-item" tabindex="-1">Assessment Fees</a></li>
 </ul>			</nav>
 				</div>
@@ -1161,11 +1161,11 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-9e437af elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="9e437af" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-none">
-				<ul id="menu-1-9e437af" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484624473"><li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-15734"><a href="https://das.org.sg/services/dyslexia-screening/" class="elementor-item">Dyslexia Screening</a></li>
+				<ul id="menu-1-9e437af" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890022605"><li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-15734"><a href="https://das.org.sg/services/dyslexia-screening/" class="elementor-item">Dyslexia Screening</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15735"><a href="https://das.org.sg/services/awareness-talks/" class="elementor-item">Awareness Talks</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-9e437af" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484620576"><li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-15734"><a href="https://das.org.sg/services/dyslexia-screening/" class="elementor-item" tabindex="-1">Dyslexia Screening</a></li>
+				<ul id="menu-2-9e437af" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890025925"><li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-15734"><a href="https://das.org.sg/services/dyslexia-screening/" class="elementor-item" tabindex="-1">Dyslexia Screening</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15735"><a href="https://das.org.sg/services/awareness-talks/" class="elementor-item" tabindex="-1">Awareness Talks</a></li>
 </ul>			</nav>
 				</div>
@@ -1181,7 +1181,7 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-9a381d7 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="9a381d7" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-none">
-				<ul id="menu-1-9a381d7" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484639204"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15688"><a href="https://das.org.sg/services/programmes/main-literacy-programme/" class="elementor-item">Main Literacy Programme</a></li>
+				<ul id="menu-1-9a381d7" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890034768"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15688"><a href="https://das.org.sg/services/programmes/main-literacy-programme/" class="elementor-item">Main Literacy Programme</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15689"><a href="https://das.org.sg/services/programmes/preschool/" class="elementor-item">Preschool Programme</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15690"><a href="https://das.org.sg/services/programmes/prep-2-psle/" class="elementor-item">PREP 2 PSLE Programme</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15691"><a href="https://das.org.sg/services/programmes/maths/" class="elementor-item">Maths Programme</a></li>
@@ -1193,7 +1193,7 @@ ga('send', 'pageview');
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15697"><a href="https://das.org.sg/services/programmes/istudysmart/" class="elementor-item">iStudySmart™</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-9a381d7" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711767948463688"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15688"><a href="https://das.org.sg/services/programmes/main-literacy-programme/" class="elementor-item" tabindex="-1">Main Literacy Programme</a></li>
+				<ul id="menu-2-9a381d7" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890032554"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15688"><a href="https://das.org.sg/services/programmes/main-literacy-programme/" class="elementor-item" tabindex="-1">Main Literacy Programme</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15689"><a href="https://das.org.sg/services/programmes/preschool/" class="elementor-item" tabindex="-1">Preschool Programme</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15690"><a href="https://das.org.sg/services/programmes/prep-2-psle/" class="elementor-item" tabindex="-1">PREP 2 PSLE Programme</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15691"><a href="https://das.org.sg/services/programmes/maths/" class="elementor-item" tabindex="-1">Maths Programme</a></li>
@@ -1217,14 +1217,14 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-790f15f elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="790f15f" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-none">
-				<ul id="menu-1-790f15f" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484634958"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15739"><a href="https://das.org.sg/services/short-term-programmes/iworksmart/" class="elementor-item">iWorkSmart</a></li>
+				<ul id="menu-1-790f15f" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872189003807"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15739"><a href="https://das.org.sg/services/short-term-programmes/iworksmart/" class="elementor-item">iWorkSmart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15740"><a href="https://das.org.sg/services/short-term-programmes/artventure/" class="elementor-item">ARTVenture</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15743"><a href="https://das.org.sg/services/short-term-programmes/science-explorers/" class="elementor-item">Science Explorers</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15744"><a href="https://das.org.sg/services/short-term-programmes/secondary-1nt-maths/" class="elementor-item">Secondary 1 G1 Maths</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15741"><a href="https://das.org.sg/services/short-term-programmes/on-site-teaching/" class="elementor-item">On-site Teaching</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-790f15f" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484648376"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15739"><a href="https://das.org.sg/services/short-term-programmes/iworksmart/" class="elementor-item" tabindex="-1">iWorkSmart</a></li>
+				<ul id="menu-2-790f15f" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890045134"><li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15739"><a href="https://das.org.sg/services/short-term-programmes/iworksmart/" class="elementor-item" tabindex="-1">iWorkSmart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15740"><a href="https://das.org.sg/services/short-term-programmes/artventure/" class="elementor-item" tabindex="-1">ARTVenture</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15743"><a href="https://das.org.sg/services/short-term-programmes/science-explorers/" class="elementor-item" tabindex="-1">Science Explorers</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-service menu-item-15744"><a href="https://das.org.sg/services/short-term-programmes/secondary-1nt-maths/" class="elementor-item" tabindex="-1">Secondary 1 G1 Maths</a></li>
@@ -1250,12 +1250,12 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-bef15a8 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="bef15a8" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-bef15a8" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484642295"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15746"><a href="https://das.org.sg/news-and-events/highlights/das-in-the-media/" class="elementor-item">DAS in The Media</a></li>
+				<ul id="menu-1-bef15a8" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890046235"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15746"><a href="https://das.org.sg/news-and-events/highlights/das-in-the-media/" class="elementor-item">DAS in The Media</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15747"><a href="https://das.org.sg/news-and-events/highlights/media-releases/" class="elementor-item">Media Releases</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15748"><a href="https://das.org.sg/news-and-events/highlights/parent-advisory/" class="elementor-item">Parent Advisory</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-bef15a8" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484649973"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15746"><a href="https://das.org.sg/news-and-events/highlights/das-in-the-media/" class="elementor-item" tabindex="-1">DAS in The Media</a></li>
+				<ul id="menu-2-bef15a8" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890047812"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15746"><a href="https://das.org.sg/news-and-events/highlights/das-in-the-media/" class="elementor-item" tabindex="-1">DAS in The Media</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15747"><a href="https://das.org.sg/news-and-events/highlights/media-releases/" class="elementor-item" tabindex="-1">Media Releases</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15748"><a href="https://das.org.sg/news-and-events/highlights/parent-advisory/" class="elementor-item" tabindex="-1">Parent Advisory</a></li>
 </ul>			</nav>
@@ -1272,11 +1272,11 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-1e2ee39 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="1e2ee39" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-1e2ee39" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484647043"><li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-8454"><a href="https://das.org.sg/services/dyslexia-screening/" class="elementor-item">Dyslexia Screening</a></li>
+				<ul id="menu-1-1e2ee39" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890056235"><li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-8454"><a href="https://das.org.sg/services/dyslexia-screening/" class="elementor-item">Dyslexia Screening</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16060"><a href="https://sites.google.com/das.org.sg/unite-2024/unite" class="elementor-item">UNITE 2024</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-1e2ee39" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484644766"><li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-8454"><a href="https://das.org.sg/services/dyslexia-screening/" class="elementor-item" tabindex="-1">Dyslexia Screening</a></li>
+				<ul id="menu-2-1e2ee39" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890051667"><li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-8454"><a href="https://das.org.sg/services/dyslexia-screening/" class="elementor-item" tabindex="-1">Dyslexia Screening</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16060"><a href="https://sites.google.com/das.org.sg/unite-2024/unite" class="elementor-item" tabindex="-1">UNITE 2024</a></li>
 </ul>			</nav>
 				</div>
@@ -1292,11 +1292,11 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-fc15a3e elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="fc15a3e" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-fc15a3e" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484659578"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15750"><a href="https://das.org.sg/news-and-events/past-events/" class="elementor-item">Past Events</a></li>
+				<ul id="menu-1-fc15a3e" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890052961"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15750"><a href="https://das.org.sg/news-and-events/past-events/" class="elementor-item">Past Events</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-15751"><a href="https://das.org.sg/upcoming_past_events/events-gallery/" class="elementor-item">Events Gallery</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-fc15a3e" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711767948465463"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15750"><a href="https://das.org.sg/news-and-events/past-events/" class="elementor-item" tabindex="-1">Past Events</a></li>
+				<ul id="menu-2-fc15a3e" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890052095"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15750"><a href="https://das.org.sg/news-and-events/past-events/" class="elementor-item" tabindex="-1">Past Events</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-upcoming_past_events menu-item-15751"><a href="https://das.org.sg/upcoming_past_events/events-gallery/" class="elementor-item" tabindex="-1">Events Gallery</a></li>
 </ul>			</nav>
 				</div>
@@ -1312,13 +1312,13 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-825f560 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="825f560" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-825f560" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484650708"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16542"><a href="https://das.org.sg/news-and-events/mlp-parents-orientation/" class="elementor-item">MLP Parents Orientation</a></li>
+				<ul id="menu-1-825f560" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872189006384"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16542"><a href="https://das.org.sg/news-and-events/mlp-parents-orientation/" class="elementor-item">MLP Parents Orientation</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16543"><a href="https://das.org.sg/news-and-events/ses-parents-orientation/" class="elementor-item">SES Parents Orientation</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16546"><a href="https://www.dasacademy.edu.sg/events/" class="elementor-item">DAS Academy Webinars</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16547"><a href="https://www.dasint.org.sg/news-events/events-new-2" class="elementor-item">DAS International Webinars</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-825f560" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711767948465134"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16542"><a href="https://das.org.sg/news-and-events/mlp-parents-orientation/" class="elementor-item" tabindex="-1">MLP Parents Orientation</a></li>
+				<ul id="menu-2-825f560" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890069126"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16542"><a href="https://das.org.sg/news-and-events/mlp-parents-orientation/" class="elementor-item" tabindex="-1">MLP Parents Orientation</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16543"><a href="https://das.org.sg/news-and-events/ses-parents-orientation/" class="elementor-item" tabindex="-1">SES Parents Orientation</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16546"><a href="https://www.dasacademy.edu.sg/events/" class="elementor-item" tabindex="-1">DAS Academy Webinars</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16547"><a href="https://www.dasint.org.sg/news-events/events-new-2" class="elementor-item" tabindex="-1">DAS International Webinars</a></li>
@@ -1375,7 +1375,7 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-2a3ac05 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="2a3ac05" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-2a3ac05" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484661782"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15758"><a href="https://das.org.sg/get-involved/das-student-alumni/" class="elementor-item">Alumni</a></li>
+				<ul id="menu-1-2a3ac05" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890060088"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15758"><a href="https://das.org.sg/get-involved/das-student-alumni/" class="elementor-item">Alumni</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15759"><a href="https://das.org.sg/volunteer/" class="elementor-item">Volunteer</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15760"><a href="https://das.org.sg/careers-das/" class="elementor-item">Careers at DAS</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15761"><a href="https://das.org.sg/das-members/" class="elementor-item">Friends of DAS</a></li>
@@ -1383,7 +1383,7 @@ ga('send', 'pageview');
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15763"><a target="_blank" rel="noopener" href="https://reta.sg/" class="elementor-item">Register of Educational Therapists</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-2a3ac05" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484663284"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15758"><a href="https://das.org.sg/get-involved/das-student-alumni/" class="elementor-item" tabindex="-1">Alumni</a></li>
+				<ul id="menu-2-2a3ac05" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890063003"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15758"><a href="https://das.org.sg/get-involved/das-student-alumni/" class="elementor-item" tabindex="-1">Alumni</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15759"><a href="https://das.org.sg/volunteer/" class="elementor-item" tabindex="-1">Volunteer</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15760"><a href="https://das.org.sg/careers-das/" class="elementor-item" tabindex="-1">Careers at DAS</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15761"><a href="https://das.org.sg/das-members/" class="elementor-item" tabindex="-1">Friends of DAS</a></li>
@@ -1403,13 +1403,13 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-d0ea29a elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="d0ea29a" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-d0ea29a" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711767948466656"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15765"><a href="https://das.org.sg/get-involved/are-you-a-parent/das-parents-support-group/" class="elementor-item">A parent</a></li>
+				<ul id="menu-1-d0ea29a" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890072515"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15765"><a href="https://das.org.sg/get-involved/are-you-a-parent/das-parents-support-group/" class="elementor-item">A parent</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15767"><a href="https://das.org.sg/get-involved/are-you-a-teacher/" class="elementor-item">A teacher</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16557"><a href="https://das.org.sg/get-involved/are-you-a-researcher/" class="elementor-item">A researcher</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15769"><a href="https://das.org.sg/get-involved/are-you-an-employer/" class="elementor-item">An employer</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-d0ea29a" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484667485"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15765"><a href="https://das.org.sg/get-involved/are-you-a-parent/das-parents-support-group/" class="elementor-item" tabindex="-1">A parent</a></li>
+				<ul id="menu-2-d0ea29a" class="elementor-nav-menu sm-vertical" data-smartmenus-id="171187218900753"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15765"><a href="https://das.org.sg/get-involved/are-you-a-parent/das-parents-support-group/" class="elementor-item" tabindex="-1">A parent</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15767"><a href="https://das.org.sg/get-involved/are-you-a-teacher/" class="elementor-item" tabindex="-1">A teacher</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16557"><a href="https://das.org.sg/get-involved/are-you-a-researcher/" class="elementor-item" tabindex="-1">A researcher</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15769"><a href="https://das.org.sg/get-involved/are-you-an-employer/" class="elementor-item" tabindex="-1">An employer</a></li>
@@ -1427,13 +1427,13 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-b15258c elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="b15258c" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-b15258c" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484668813"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15772"><a target="_blank" rel="noopener" href="https://www.change.org/EMBRACEDYSLEXIA" class="elementor-item">Sign the Pledge</a></li>
+				<ul id="menu-1-b15258c" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872189007003"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15772"><a target="_blank" rel="noopener" href="https://www.change.org/EMBRACEDYSLEXIA" class="elementor-item">Sign the Pledge</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15773"><a href="https://das.org.sg/get-involved/about-embrace-dyslexia/" class="elementor-item">About Embrace Dyslexia</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15774"><a href="https://das.org.sg/get-involved/embrace-dyslexia-action/" class="elementor-item">Embrace Dyslexia Action</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15775"><a href="https://das.org.sg/get-involved/das30/" class="elementor-item">DAS30</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-b15258c" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484670889"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15772"><a target="_blank" rel="noopener" href="https://www.change.org/EMBRACEDYSLEXIA" class="elementor-item" tabindex="-1">Sign the Pledge</a></li>
+				<ul id="menu-2-b15258c" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890076648"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15772"><a target="_blank" rel="noopener" href="https://www.change.org/EMBRACEDYSLEXIA" class="elementor-item" tabindex="-1">Sign the Pledge</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15773"><a href="https://das.org.sg/get-involved/about-embrace-dyslexia/" class="elementor-item" tabindex="-1">About Embrace Dyslexia</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15774"><a href="https://das.org.sg/get-involved/embrace-dyslexia-action/" class="elementor-item" tabindex="-1">Embrace Dyslexia Action</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15775"><a href="https://das.org.sg/get-involved/das30/" class="elementor-item" tabindex="-1">DAS30</a></li>
@@ -1479,7 +1479,7 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-73fc7d9 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="73fc7d9" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-73fc7d9" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484679795"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3156"><a href="https://das.org.sg/about-das/vision-mission/" class="elementor-item">Vision &amp; Mission</a></li>
+				<ul id="menu-1-73fc7d9" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890084045"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3156"><a href="https://das.org.sg/about-das/vision-mission/" class="elementor-item">Vision &amp; Mission</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3158"><a href="https://das.org.sg/about-das/organisation-chart/" class="elementor-item">Organisation Chart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3159"><a href="https://das.org.sg/about-das/general-management-team/" class="elementor-item">General Management Team</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3160"><a href="https://das.org.sg/about-das/staff-directory/" class="elementor-item">Staff Directory</a></li>
@@ -1488,7 +1488,7 @@ ga('send', 'pageview');
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16061"><a href="https://das.org.sg/about-das/research-at-das/" class="elementor-item">Research at DAS</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-73fc7d9" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711767948467218"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3156"><a href="https://das.org.sg/about-das/vision-mission/" class="elementor-item" tabindex="-1">Vision &amp; Mission</a></li>
+				<ul id="menu-2-73fc7d9" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872189008911"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3156"><a href="https://das.org.sg/about-das/vision-mission/" class="elementor-item" tabindex="-1">Vision &amp; Mission</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3158"><a href="https://das.org.sg/about-das/organisation-chart/" class="elementor-item" tabindex="-1">Organisation Chart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3159"><a href="https://das.org.sg/about-das/general-management-team/" class="elementor-item" tabindex="-1">General Management Team</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3160"><a href="https://das.org.sg/about-das/staff-directory/" class="elementor-item" tabindex="-1">Staff Directory</a></li>
@@ -1509,14 +1509,14 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-6f8420d elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="6f8420d" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-6f8420d" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484672258"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3164"><a href="https://das.org.sg/about-das/corporate-governance/board-of-directors/" class="elementor-item">Board of Directors</a></li>
+				<ul id="menu-1-6f8420d" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890087632"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3164"><a href="https://das.org.sg/about-das/corporate-governance/board-of-directors/" class="elementor-item">Board of Directors</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16098"><a href="https://das.org.sg/corporate-governance-policies/" class="elementor-item">Corporate Governance Policies</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3165"><a href="https://das.org.sg/about-das/corporate-governance/annual-report/" class="elementor-item">Annual Report</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3166"><a href="https://das.org.sg/about-das/corporate-governance/charity-transparency-awards/" class="elementor-item">Charity Transparency Awards</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3167"><a href="https://das.org.sg/about-das/corporate-governance/jimmy-roshen-daruwalla-fund/" class="elementor-item">Jimmy and Roshen Daruwalla Fund</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-6f8420d" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484674648"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3164"><a href="https://das.org.sg/about-das/corporate-governance/board-of-directors/" class="elementor-item" tabindex="-1">Board of Directors</a></li>
+				<ul id="menu-2-6f8420d" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890083076"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3164"><a href="https://das.org.sg/about-das/corporate-governance/board-of-directors/" class="elementor-item" tabindex="-1">Board of Directors</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16098"><a href="https://das.org.sg/corporate-governance-policies/" class="elementor-item" tabindex="-1">Corporate Governance Policies</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3165"><a href="https://das.org.sg/about-das/corporate-governance/annual-report/" class="elementor-item" tabindex="-1">Annual Report</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3166"><a href="https://das.org.sg/about-das/corporate-governance/charity-transparency-awards/" class="elementor-item" tabindex="-1">Charity Transparency Awards</a></li>
@@ -1535,11 +1535,11 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-13aaa3f elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="13aaa3f" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-13aaa3f" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484687244"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15780"><a href="https://das.org.sg/publications/" class="elementor-item">Publications</a></li>
+				<ul id="menu-1-13aaa3f" class="elementor-nav-menu sm-vertical" data-smartmenus-id="1711872189009555"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15780"><a href="https://das.org.sg/publications/" class="elementor-item">Publications</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15781"><a href="https://das.org.sg/news-and-events/conferences-events/" class="elementor-item">Conferences Events</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-13aaa3f" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484680813"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15780"><a href="https://das.org.sg/publications/" class="elementor-item" tabindex="-1">Publications</a></li>
+				<ul id="menu-2-13aaa3f" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890095344"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15780"><a href="https://das.org.sg/publications/" class="elementor-item" tabindex="-1">Publications</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15781"><a href="https://das.org.sg/news-and-events/conferences-events/" class="elementor-item" tabindex="-1">Conferences Events</a></li>
 </ul>			</nav>
 				</div>
@@ -1583,11 +1583,11 @@ ga('send', 'pageview');
 				<div class="elementor-element elementor-element-7206d46 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="7206d46" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;fas fa-caret-down\&quot;><\/i>&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-				<ul id="menu-1-7206d46" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484681467"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15777"><a href="https://das.org.sg/contact-us/" class="elementor-item">Get in touch</a></li>
+				<ul id="menu-1-7206d46" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890093455"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15777"><a href="https://das.org.sg/contact-us/" class="elementor-item">Get in touch</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15778"><a href="https://das.org.sg/centres/" class="elementor-item">Learning Centres</a></li>
 </ul>			</nav>
 						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-7206d46" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17117679484690576"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15777"><a href="https://das.org.sg/contact-us/" class="elementor-item" tabindex="-1">Get in touch</a></li>
+				<ul id="menu-2-7206d46" class="elementor-nav-menu sm-vertical" data-smartmenus-id="17118721890097578"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15777"><a href="https://das.org.sg/contact-us/" class="elementor-item" tabindex="-1">Get in touch</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15778"><a href="https://das.org.sg/centres/" class="elementor-item" tabindex="-1">Learning Centres</a></li>
 </ul>			</nav>
 				</div>
@@ -1899,7 +1899,7 @@ ga('send', 'pageview');
 								<div class="elementor-field-type-text">
 					<input size="1" type="text" name="form_fields[field_128b52e]" id="form-field-field_128b52e" class="elementor-field elementor-size-xs " style="display:none !important;">				</div>
 								<div class="elementor-field-type-recaptcha elementor-field-group elementor-column elementor-field-group-field_361b448 elementor-col-100">
-					<div class="elementor-field" id="form-field-field_361b448"><div class="elementor-g-recaptcha" data-sitekey="6LfYDhEpAAAAAFGrXAJAgXtP7q_KwZ6T6JKFvOtX" data-type="v2_checkbox" data-theme="light" data-size="normal"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-vepfih6t3tz4" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfYDhEpAAAAAFGrXAJAgXtP7q_KwZ6T6JKFvOtX&amp;co=aHR0cHM6Ly9kYXMub3JnLnNnOjQ0Mw..&amp;hl=en&amp;type=v2_checkbox&amp;v=moV1mTgQ6S91nuTnmll4Y9yf&amp;theme=light&amp;size=normal&amp;cb=jek1x9jq810a"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div></div>				</div>
+					<div class="elementor-field" id="form-field-field_361b448"><div class="elementor-g-recaptcha" data-sitekey="6LfYDhEpAAAAAFGrXAJAgXtP7q_KwZ6T6JKFvOtX" data-type="v2_checkbox" data-theme="light" data-size="normal"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-5icvr1c3ttxd" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfYDhEpAAAAAFGrXAJAgXtP7q_KwZ6T6JKFvOtX&amp;co=aHR0cHM6Ly9kYXMub3JnLnNnOjQ0Mw..&amp;hl=en&amp;type=v2_checkbox&amp;v=moV1mTgQ6S91nuTnmll4Y9yf&amp;theme=light&amp;size=normal&amp;cb=tutytb5p5i4i"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div></div>				</div>
 								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
 					<button type="submit" class="elementor-button elementor-size-sm">
 						<span>
@@ -4621,4 +4621,4 @@ form.append('<input type="hidden" name="vx_url" value="'+window.location.href+'"
 </script>
 
 
-<script src="https://das.org.sg/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0"></script><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="recaptcha challenge expires in two minutes" name="c-vepfih6t3tz4" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=moV1mTgQ6S91nuTnmll4Y9yf&amp;k=6LfYDhEpAAAAAFGrXAJAgXtP7q_KwZ6T6JKFvOtX" style="width: 100%; height: 100%;"></iframe></div></div></body></html>
+<script src="https://das.org.sg/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0"></script><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="recaptcha challenge expires in two minutes" name="c-5icvr1c3ttxd" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=moV1mTgQ6S91nuTnmll4Y9yf&amp;k=6LfYDhEpAAAAAFGrXAJAgXtP7q_KwZ6T6JKFvOtX" style="width: 100%; height: 100%;"></iframe></div></div></body></html>

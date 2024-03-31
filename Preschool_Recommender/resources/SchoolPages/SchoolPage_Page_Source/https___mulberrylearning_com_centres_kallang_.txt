@@ -479,7 +479,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <section class="container"><div class="row">
 <div class="spb_gallery_widget spb_content_element col-sm-12">
 <div class="spb_wrapper gallery-wrap">
-<div class="flexslider gallery-slider" data-transition="slide" data-autoplay="yes"><div class="flex-viewport" style="overflow: hidden; position: relative; height: 405px;"><ul class="slides" style="width: 3200%; transition-duration: 0.6s; transform: translate3d(-1440px, 0px, 0px);"><li class="clone" aria-hidden="true" style="width: 720px; float: left; display: block;"><a href="https://mulberrylearning.com/wp-content/uploads/2020/03/IMG_3951-828x720.jpeg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-14955]"><picture>
+<div class="flexslider gallery-slider" data-transition="slide" data-autoplay="yes"><div class="flex-viewport" style="overflow: hidden; position: relative; height: 405px;"><ul class="slides" style="width: 3200%; transition-duration: 0s; transform: translate3d(-720px, 0px, 0px);"><li class="clone" aria-hidden="true" style="width: 720px; float: left; display: block;"><a href="https://mulberrylearning.com/wp-content/uploads/2020/03/IMG_3951-828x720.jpeg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-14955]"><picture>
 <source type="image/webp" data-lazy-srcset="https://mulberrylearning.com/wp-content/uploads/2020/03/IMG_3951-828x720.jpeg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20828%20720'%3E%3C/svg%3E">
 <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20828%20720'%3E%3C/svg%3E" width="828" height="720" alt="" data-lazy-src="https://mulberrylearning.com/wp-content/uploads/2020/03/IMG_3951-828x720.jpeg" draggable="false">
 </picture>
@@ -488,7 +488,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <img src="https://mulberrylearning.com/wp-content/uploads/2020/03/IMG_3951-828x720.jpeg" width="828" height="720" alt=""/>
 </picture>
 </noscript></a></li>
-<li style="width: 720px; float: left; display: block;" class=""><a href="https://mulberrylearning.com/wp-content/uploads/2020/03/mbr-kln-1440x1080-transientart-1280x720.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-14955]"><picture>
+<li style="width: 720px; float: left; display: block;" class="flex-active-slide"><a href="https://mulberrylearning.com/wp-content/uploads/2020/03/mbr-kln-1440x1080-transientart-1280x720.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-14955]"><picture>
 <source type="image/webp" data-lazy-srcset="https://mulberrylearning.com/wp-content/uploads/2020/03/mbr-kln-1440x1080-transientart-1280x720.jpg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E">
 <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E" width="1280" height="720" alt="" data-lazy-src="https://mulberrylearning.com/wp-content/uploads/2020/03/mbr-kln-1440x1080-transientart-1280x720.jpg" draggable="false">
 </picture>
@@ -497,7 +497,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <img src="https://mulberrylearning.com/wp-content/uploads/2020/03/mbr-kln-1440x1080-transientart-1280x720.jpg" width="1280" height="720" alt=""/>
 </picture>
 </noscript></a></li>
-<li style="width: 720px; float: left; display: block;" class="flex-active-slide"><a href="https://mulberrylearning.com/wp-content/uploads/2020/02/mbr-kln-1440x1080-cp-open-1280x720.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-14955]"><picture>
+<li style="width: 720px; float: left; display: block;"><a href="https://mulberrylearning.com/wp-content/uploads/2020/02/mbr-kln-1440x1080-cp-open-1280x720.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-14955]"><picture>
 <source type="image/webp" data-lazy-srcset="https://mulberrylearning.com/wp-content/uploads/2020/02/mbr-kln-1440x1080-cp-open-1280x720.jpg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E">
 <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E" width="1280" height="720" alt="" data-lazy-src="https://mulberrylearning.com/wp-content/uploads/2020/02/mbr-kln-1440x1080-cp-open-1280x720.jpg" draggable="false">
 </picture>
@@ -1050,8 +1050,8 @@ Contact us on enquiry@mulberrylearning.com</div>
 <section class="container"><div class="row">
 <div class="spb_testimonial_slider_widget spb_content_element col-sm-12 testimonial">
 <div class="spb_wrapper slider-wrap">
-<div class="flexslider testimonials-slider content-slider" data-animation="fade" data-autoplay="yes" style="height: 277.781px;"><ul class="slides"><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Kelvin and Pelecia, Parents of Jarrod, Mulberry Learning @ Kallang</span></h3>
-<em>“Thank you to teachers for taking such good care of Jarrod, keeping him safe, happy and loved and I'm able to work peacefully knowing that he's in your good hands. Thank you for all the patience and kindness you have shown to him and to us. Words cannot express how appreciative and thankful I am to all of you. The effort and dedication from all of you are not unrecognized and I really appreciate the foundation you are setting for him in his growing years. I am so happy to see him adapting so well in school and it's all thanks to all of you. To all the other teachers in Mulberry Kallang, thank you for always welcoming Jarrod when he reaches school and all the dedication and hard work you put in for all the children under your care!</em><em>”</em></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Parents of Sierra, Mulberry Learning @ Kallang</span></h3>
+<div class="flexslider testimonials-slider content-slider" data-animation="fade" data-autoplay="yes" style="height: 332.781px;"><ul class="slides"><li class="testimonial flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Kelvin and Pelecia, Parents of Jarrod, Mulberry Learning @ Kallang</span></h3>
+<em>“Thank you to teachers for taking such good care of Jarrod, keeping him safe, happy and loved and I'm able to work peacefully knowing that he's in your good hands. Thank you for all the patience and kindness you have shown to him and to us. Words cannot express how appreciative and thankful I am to all of you. The effort and dedication from all of you are not unrecognized and I really appreciate the foundation you are setting for him in his growing years. I am so happy to see him adapting so well in school and it's all thanks to all of you. To all the other teachers in Mulberry Kallang, thank you for always welcoming Jarrod when he reaches school and all the dedication and hard work you put in for all the children under your care!</em><em>”</em></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Parents of Sierra, Mulberry Learning @ Kallang</span></h3>
 <em>“Thank you so much for everything that you do. There is nothing in this world that can be the biggest support for children than teachers who motivate and encourage them, alongside us as parents. We are really blessed that Sierra has found such amazing and caring teachers, who have not only helped Sierra transition to attending school, but also to life in Singapore. Sierra's love for you all is so evident as she leans towards each and everyone of you to carry her into school with a big smile every morning. Thank you all for making school a home away from home, and creating so much happiness in Sierra everyday.”</em></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Thanh and Ben, Parents of Emilia, Mulberry Learning @ Kallang</span></h3>
 <em>“<span style="font-weight: 400;">For helping nurture dear Emilia - special gratitude to Infant class teachers Linda, Jessie, Ashlynn and all others supporting. Emilia has had a very happy first year in the world thanks to you.</span>”</em>
 <h3></h3></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Parents of Clovelle, Mulberry Learning @ Kallang</span></h3>
@@ -1446,7 +1446,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <span class="wpcf7-form-control-wrap" data-name="child-given-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="child-given-name"></span>
 </p>
 <p>Date of Birth <span class="req">*</span><br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth" id="dp1711777471747"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth" id="dp1711885075322"></span>
 </p>
 <p><a id="mul-second-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1455,7 +1455,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <span class="wpcf7-form-control-wrap" data-name="child-2-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-2-given-name"></span>
 </p>
 <p>Second Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth2"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth2" id="dp1711777471748"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth2"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth2" id="dp1711885075323"></span>
 </p>
 <p><a id="mul-third-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1465,7 +1465,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <span class="wpcf7-form-control-wrap" data-name="child-3-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-3-given-name"></span>
 </p>
 <p>Third Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth3"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth3" id="dp1711777471749"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth3"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth3" id="dp1711885075324"></span>
 </p>
 <p><a id="mul-fourth-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1475,7 +1475,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <span class="wpcf7-form-control-wrap" data-name="child-4-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-4-given-name"></span>
 </p>
 <p>Fourth Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth4"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth4" id="dp1711777471750"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth4"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth4" id="dp1711885075325"></span>
 </p>
 </div>
 <div style="clear: both;">
@@ -1742,7 +1742,7 @@ if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_c
                         
                 <span class="welcome-message">Hi there! How can I help you? :)</span>
             
-                        <span class="time">13:44</span>
+                        <span class="time">19:37</span>
                     </div>
                 </div>
                 <div class="csaas-whatsapp-footer" dir="ltr">

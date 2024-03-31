@@ -612,7 +612,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 </div>
 <div class="spb_gallery_widget spb_content_element col-sm-9">
 <div class="spb_wrapper gallery-wrap">
-<div class="flexslider gallery-slider" data-transition="slide" data-autoplay="yes"><div class="flex-viewport" style="overflow: hidden; position: relative; height: 319.5px;"><ul class="slides" style="width: 2800%; transition-duration: 0.6s; transform: translate3d(-1065px, 0px, 0px);"><li class="clone" aria-hidden="true" style="width: 532.5px; float: left; display: block;"><a href="https://mulberrylearning.com/wp-content/uploads/2020/04/IMG-20200325-WA0004-1280x720.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-16528]"><picture>
+<div class="flexslider gallery-slider" data-transition="slide" data-autoplay="yes"><div class="flex-viewport" style="overflow: hidden; position: relative; height: 299.531px;"><ul class="slides" style="width: 2800%; transition-duration: 0s; transform: translate3d(-532.5px, 0px, 0px);"><li class="clone" aria-hidden="true" style="width: 532.5px; float: left; display: block;"><a href="https://mulberrylearning.com/wp-content/uploads/2020/04/IMG-20200325-WA0004-1280x720.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-16528]"><picture>
 <source type="image/webp" data-lazy-srcset="https://mulberrylearning.com/wp-content/uploads/2020/04/IMG-20200325-WA0004-1280x720.jpg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E">
 <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E" width="1280" height="720" alt="Mulberry Learning Chinese Preschool" data-lazy-src="https://mulberrylearning.com/wp-content/uploads/2020/04/IMG-20200325-WA0004-1280x720.jpg" draggable="false">
 </picture>
@@ -621,7 +621,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <img src="https://mulberrylearning.com/wp-content/uploads/2020/04/IMG-20200325-WA0004-1280x720.jpg" width="1280" height="720" alt="Mulberry Learning Chinese Preschool"/>
 </picture>
 </noscript></a></li>
-<li style="width: 532.5px; float: left; display: block;" class=""><a href="https://mulberrylearning.com/wp-content/uploads/2020/04/IMG_6723-1280x720.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-16528]"><picture>
+<li style="width: 532.5px; float: left; display: block;" class="flex-active-slide"><a href="https://mulberrylearning.com/wp-content/uploads/2020/04/IMG_6723-1280x720.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-16528]"><picture>
 <source type="image/webp" data-lazy-srcset="https://mulberrylearning.com/wp-content/uploads/2020/04/IMG_6723-1280x720.jpg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E">
 <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E" width="1280" height="720" alt="Chinese Immersion Preschool at Fusionopolis" data-lazy-src="https://mulberrylearning.com/wp-content/uploads/2020/04/IMG_6723-1280x720.jpg" draggable="false">
 </picture>
@@ -630,7 +630,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <img src="https://mulberrylearning.com/wp-content/uploads/2020/04/IMG_6723-1280x720.jpg" width="1280" height="720" alt="Chinese Immersion Preschool at Fusionopolis"/>
 </picture>
 </noscript></a></li>
-<li style="width: 532.5px; float: left; display: block;" class="flex-active-slide"><a href="https://mulberrylearning.com/wp-content/uploads/2020/04/IMG-20200325-WA0000-1200x720.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-16528]"><picture>
+<li style="width: 532.5px; float: left; display: block;"><a href="https://mulberrylearning.com/wp-content/uploads/2020/04/IMG-20200325-WA0000-1200x720.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-16528]"><picture>
 <source type="image/webp" data-lazy-srcset="https://mulberrylearning.com/wp-content/uploads/2020/04/IMG-20200325-WA0000-1200x720.jpg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20720'%3E%3C/svg%3E">
 <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20720'%3E%3C/svg%3E" width="1200" height="720" alt="Mulberry Learning Literacy and Numeracy" data-lazy-src="https://mulberrylearning.com/wp-content/uploads/2020/04/IMG-20200325-WA0000-1200x720.jpg" draggable="false">
 </picture>
@@ -1185,7 +1185,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <span class="wpcf7-form-control-wrap" data-name="child-given-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="child-given-name"></span>
 </p>
 <p>Date of Birth <span class="req">*</span><br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth" id="dp1711777366861"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth" id="dp1711885166888"></span>
 </p>
 <p><a id="mul-second-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1194,7 +1194,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <span class="wpcf7-form-control-wrap" data-name="child-2-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-2-given-name"></span>
 </p>
 <p>Second Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth2"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth2" id="dp1711777366862"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth2"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth2" id="dp1711885166889"></span>
 </p>
 <p><a id="mul-third-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1204,7 +1204,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <span class="wpcf7-form-control-wrap" data-name="child-3-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-3-given-name"></span>
 </p>
 <p>Third Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth3"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth3" id="dp1711777366863"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth3"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth3" id="dp1711885166890"></span>
 </p>
 <p><a id="mul-fourth-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1214,7 +1214,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <span class="wpcf7-form-control-wrap" data-name="child-4-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-4-given-name"></span>
 </p>
 <p>Fourth Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth4"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth4" id="dp1711777366864"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth4"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth4" id="dp1711885166891"></span>
 </p>
 </div>
 <div style="clear: both;">
@@ -1481,7 +1481,7 @@ if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_c
                         
                 <span class="welcome-message">Hi there! How can I help you? :)</span>
             
-                        <span class="time">13:42</span>
+                        <span class="time">19:39</span>
                     </div>
                 </div>
                 <div class="csaas-whatsapp-footer" dir="ltr">

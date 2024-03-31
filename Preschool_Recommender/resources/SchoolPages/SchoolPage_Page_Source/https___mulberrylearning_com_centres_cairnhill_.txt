@@ -497,7 +497,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <section class="container"><div class="row">
 <div class="spb_gallery_widget spb_content_element col-sm-12">
 <div class="spb_wrapper gallery-wrap">
-<div class="flexslider gallery-slider" data-transition="slide" data-autoplay="yes"><div class="flex-viewport" style="overflow: hidden; position: relative; height: 405px;"><ul class="slides" style="width: 2600%; transition-duration: 0.6s; transform: translate3d(-1440px, 0px, 0px);"><li class="clone" aria-hidden="true" style="width: 720px; float: left; display: block;"><a href="https://mulberrylearning.com/wp-content/uploads/2023/05/DSLR_5715-1280x720.png" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-32694]"><picture>
+<div class="flexslider gallery-slider" data-transition="slide" data-autoplay="yes"><div class="flex-viewport" style="overflow: hidden; position: relative; height: 405px;"><ul class="slides" style="width: 2600%; transition-duration: 0s; transform: translate3d(-720px, 0px, 0px);"><li class="clone" aria-hidden="true" style="width: 720px; float: left; display: block;"><a href="https://mulberrylearning.com/wp-content/uploads/2023/05/DSLR_5715-1280x720.png" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-32694]"><picture>
 <source type="image/webp" data-lazy-srcset="https://mulberrylearning.com/wp-content/uploads/2023/05/DSLR_5715-1280x720.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E">
 <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E" width="1280" height="720" alt="" data-lazy-src="https://mulberrylearning.com/wp-content/uploads/2023/05/DSLR_5715-1280x720.png" draggable="false">
 </picture>
@@ -506,7 +506,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <img src="https://mulberrylearning.com/wp-content/uploads/2023/05/DSLR_5715-1280x720.png" width="1280" height="720" alt=""/>
 </picture>
 </noscript></a></li>
-<li style="width: 720px; float: left; display: block;" class=""><a href="https://mulberrylearning.com/wp-content/uploads/2023/05/DJI_20221216_105048_295-1280x720.png" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-32694]"><picture>
+<li style="width: 720px; float: left; display: block;" class="flex-active-slide"><a href="https://mulberrylearning.com/wp-content/uploads/2023/05/DJI_20221216_105048_295-1280x720.png" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-32694]"><picture>
 <source type="image/webp" data-lazy-srcset="https://mulberrylearning.com/wp-content/uploads/2023/05/DJI_20221216_105048_295-1280x720.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E">
 <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E" width="1280" height="720" alt="" data-lazy-src="https://mulberrylearning.com/wp-content/uploads/2023/05/DJI_20221216_105048_295-1280x720.png" draggable="false">
 </picture>
@@ -515,7 +515,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <img src="https://mulberrylearning.com/wp-content/uploads/2023/05/DJI_20221216_105048_295-1280x720.png" width="1280" height="720" alt=""/>
 </picture>
 </noscript></a></li>
-<li style="width: 720px; float: left; display: block;" class="flex-active-slide"><a href="https://mulberrylearning.com/wp-content/uploads/2023/05/DSLR_5727-1280x720.png" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-32694]"><picture>
+<li style="width: 720px; float: left; display: block;"><a href="https://mulberrylearning.com/wp-content/uploads/2023/05/DSLR_5727-1280x720.png" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-32694]"><picture>
 <source type="image/webp" data-lazy-srcset="https://mulberrylearning.com/wp-content/uploads/2023/05/DSLR_5727-1280x720.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E">
 <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E" width="1280" height="720" alt="" data-lazy-src="https://mulberrylearning.com/wp-content/uploads/2023/05/DSLR_5727-1280x720.png" draggable="false">
 </picture>
@@ -1369,7 +1369,7 @@ Distance: 500 Meters</p>
 <span class="wpcf7-form-control-wrap" data-name="child-given-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="child-given-name"></span>
 </p>
 <p>Date of Birth <span class="req">*</span><br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth" id="dp1711777444527"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth" id="dp1711885066639"></span>
 </p>
 <p><a id="mul-second-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1378,7 +1378,7 @@ Distance: 500 Meters</p>
 <span class="wpcf7-form-control-wrap" data-name="child-2-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-2-given-name"></span>
 </p>
 <p>Second Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth2"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth2" id="dp1711777444528"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth2"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth2" id="dp1711885066640"></span>
 </p>
 <p><a id="mul-third-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1388,7 +1388,7 @@ Distance: 500 Meters</p>
 <span class="wpcf7-form-control-wrap" data-name="child-3-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-3-given-name"></span>
 </p>
 <p>Third Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth3"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth3" id="dp1711777444529"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth3"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth3" id="dp1711885066641"></span>
 </p>
 <p><a id="mul-fourth-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1398,7 +1398,7 @@ Distance: 500 Meters</p>
 <span class="wpcf7-form-control-wrap" data-name="child-4-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-4-given-name"></span>
 </p>
 <p>Fourth Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth4"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth4" id="dp1711777444530"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth4"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth4" id="dp1711885066642"></span>
 </p>
 </div>
 <div style="clear: both;">
@@ -1665,7 +1665,7 @@ if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_c
                         
                 <span class="welcome-message">Hi there! How can I help you? :)</span>
             
-                        <span class="time">13:44</span>
+                        <span class="time">19:37</span>
                     </div>
                 </div>
                 <div class="csaas-whatsapp-footer" dir="ltr">

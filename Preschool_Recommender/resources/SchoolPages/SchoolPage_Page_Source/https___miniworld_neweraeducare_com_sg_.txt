@@ -357,7 +357,7 @@ color: inherit !important;
 				<a href="#" class="left carousel-control hidden-xs swiper-button-prev">Previous</a>
 				<a href="#" class="right carousel-control hidden-xs swiper-button-next">Next</a>
 				<div class="swiper-container swiper-desktop swiper-container-horizontal">
-				  <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-1376px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="3" style="width: 688px;">
+				  <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-688px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="3" style="width: 688px;">
 				        
 				        	<!-- Slide Image -->
 															<img src="https://miniworld-neweraeducare.com.sg/wp-content/uploads/2015/03/cover-4-1108x386.jpg" class="slideimage" alt="">
@@ -370,7 +370,7 @@ color: inherit !important;
 
 										      </div>
 					  				      <!--First Slide-->
-				      <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="0" style="width: 688px;">
+				      <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 688px;">
 				        
 				        	<!-- Slide Image -->
 															<img src="https://miniworld-neweraeducare.com.sg/wp-content/uploads/2015/03/cover-1-e1546011630763-1108x386.jpg" class="slideimage" alt="">
@@ -383,7 +383,7 @@ color: inherit !important;
 
 										      </div>
 					  				      <!--First Slide-->
-				      <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="1" style="width: 688px;">
+				      <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 688px;">
 				        
 				        	<!-- Slide Image -->
 															<img src="https://miniworld-neweraeducare.com.sg/wp-content/uploads/2015/03/cover-2-1108x386.jpg" class="slideimage" alt="">
@@ -396,7 +396,7 @@ color: inherit !important;
 
 										      </div>
 					  				      <!--First Slide-->
-				      <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="2" style="width: 688px;">
+				      <div class="swiper-slide" data-swiper-slide-index="2" style="width: 688px;">
 				        
 				        	<!-- Slide Image -->
 															<img src="https://miniworld-neweraeducare.com.sg/wp-content/uploads/2015/03/cover-3-1108x386.jpg" class="slideimage" alt="">

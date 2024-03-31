@@ -1,0 +1,760 @@
+<html lang="en"><head><style id="rt-tooltip-styles" type="text/css">.rtTooltip{text-align:left;text-indent:0;width:400px;min-height:140px;z-index:99;max-width:100%}.rtTooltip div{text-align:left}.rtTooltipHeader{border:0;font-size:14px;font-weight:700;line-height:32px;height:32px;margin:0;padding:0 20px 0 15px}.rtTooltipBody{border:0;line-height:1.4;font-size:14px;margin:0;min-height:40px;padding:19px 20px 0 15px}.rtTooltipBody .ch-ref,.rtTooltipBody .verse-ref{font-size:85%;position:relative;top:-1px}.rtTooltipBody .font-style-italic{font-style:italic}.rtTooltipBody .font-style-normal{font-style:normal}.rtTooltipBody .font-caps-all-caps{text-transform:uppercase}.rtTooltipBody .font-caps-all-small-caps{text-transform:uppercase;font-variant:small-caps}.rtTooltipBody .font-caps-small-caps{font-variant:small-caps}.rtTooltipBody .font-caps-normal{text-transform:none;font-variant:normal}.rtTooltipFooter{border:0;font-size:14px;line-height:14px;letter-spacing:normal;padding:22px 32px 12px 15px;text-align:left}.rtTooltipFooter div{text-align:right}.rtTooltipFooter .rtTooltipMoreLink{float:right}.rtTooltipFooter .rtTooltipBrandLink{display:inline-block;margin-right:20px;font-size:10px;text-transform:uppercase}.rtTooltipFooter .rtTooltipBrandLink a{column-gap:4px;letter-spacing:1px;font-weight:600}.rtTooltipFooter .rtTooltipBrandLink .rtTooltipLogosIcon{vertical-align:-.4em}.rtTooltipSocial{float:right}.rtTooltip .rtTooltipSocialIcon{display:inline-block;margin-top:8px;height:19px;width:21px}.rtTooltip,.rtTooltip a,.rtTooltipBody p,.rtTooltipBody span{letter-spacing:normal;margin:0;padding:0}.rtLibronix img{float:none}.libronixLinkImage{border:0;float:none;margin:0 0 0 4px;padding:0}.rtTooltipSocialIcon#rtFacebook:hover{background-position:0 -95px}.rtTooltipSocialIcon#rtFacebook{background-position:0 -76px}.rtTooltipSocialIcon#rtTwitter:hover{background-position:0 -171px}.rtTooltipSocialIcon#rtTwitter{background-position:0 -152px}.rtTooltipSocialIcon.rtDark#rtFacebook:hover{background-position:0 -133px}.rtTooltipSocialIcon.rtDark#rtFacebook{background-position:0 -114px}.rtTooltipSocialIcon.rtDark#rtTwitter:hover{background-position:0 -209px}.rtTooltipSocialIcon.rtDark#rtTwitter{background-position:0 -190px}.rtTooltipHeader{font-family:Arial,Helvetica,serif}.rtTooltipBody{font-family:Helvetica,Arial,serif}.rtTooltipBody .ch-ref{font-weight:700}.rtTooltipFooter{font-family:Helvetica,Arial,serif}.rtTooltipDropShadow .rtContainer{-webkit-box-shadow:0 0 6px 0 #444;-moz-box-shadow:0 0 6px 0 #444;box-shadow:0 0 6px 0 #444}.rtTooltipRoundedCorners .rtContainer{-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;overflow:hidden}.rtTooltipFooter a{font-family:Helvetica,Arial,serif;font-weight:400}.rtTooltipBrandLink a:hover,.rtTooltipBrandLink a:link,.rtTooltipBrandLink a:visited,.rtTooltipMoreLink:hover,.rtTooltipMoreLink:link,.rtTooltipMoreLink:visited{text-decoration:none}.rtLight .rtContainer{background:#fff}.rtLight .rtTooltipHeader{background:#e7e7e7;color:#333}.rtLight .rtTooltipBody{color:#666}.rtLight .rtTooltipBrandLink a:link,.rtLight .rtTooltipBrandLink a:visited{color:#ccc}.rtLight .rtTooltipBrandLink a:hover{color:#666}.rtLight .rtTooltipBrandLink .rtTooltipLogosIcon path{fill:#aaa}.rtLight .rtTooltipBrandLink a:hover .rtTooltipLogosIcon path{fill:#444}.rtLight .rtTooltipMoreLink:link,.rtLight .rtTooltipMoreLink:visited{color:#0080FF}.rtLight .rtTooltipMoreLink:hover{color:#66B2FF}.rtDark .rtContainer{background:#555}.rtDark .rtTooltipHeader{background:#888;color:#eee}.rtDark .rtTooltipBody{color:#fff}.rtDark .rtTooltipBrandLink a:link,.rtDark .rtTooltipBrandLink a:visited{color:#999}.rtDark .rtTooltipBrandLink a:hover{color:#eee}.rtDark .rtTooltipBrandLink .rtTooltipLogosIcon path{fill:#aaa}.rtDark .rtTooltipBrandLink a:hover .rtTooltipLogosIcon path{fill:#fff}.rtDark .rtTooltipMoreLink:link,.rtDark .rtTooltipMoreLink:visited{color:#fff}.rtDark .rtTooltipMoreLink:hover{color:#ccc}.rtTooltipSocialIcon{background:url(https://api.reftagger.com/v2/social-icons.png)}
+.rtTooltipHeader{background-color:#365c7d !important;color:#ffffff !important;}
+</style><meta charset="utf-8"><style type="text/css">:root, :host {
+  --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Solid";
+  --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Regular";
+  --fa-font-light: normal 300 1em/1 "Font Awesome 6 Light";
+  --fa-font-thin: normal 100 1em/1 "Font Awesome 6 Thin";
+  --fa-font-duotone: normal 900 1em/1 "Font Awesome 6 Duotone";
+  --fa-font-sharp-solid: normal 900 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-regular: normal 400 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-light: normal 300 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-thin: normal 100 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+}
+
+svg:not(:root).svg-inline--fa, svg:not(:host).svg-inline--fa {
+  overflow: visible;
+  box-sizing: content-box;
+}
+
+.svg-inline--fa {
+  display: var(--fa-display, inline-block);
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+}
+.svg-inline--fa.fa-2xs {
+  vertical-align: 0.1em;
+}
+.svg-inline--fa.fa-xs {
+  vertical-align: 0em;
+}
+.svg-inline--fa.fa-sm {
+  vertical-align: -0.0714285705em;
+}
+.svg-inline--fa.fa-lg {
+  vertical-align: -0.2em;
+}
+.svg-inline--fa.fa-xl {
+  vertical-align: -0.25em;
+}
+.svg-inline--fa.fa-2xl {
+  vertical-align: -0.3125em;
+}
+.svg-inline--fa.fa-pull-left {
+  margin-right: var(--fa-pull-margin, 0.3em);
+  width: auto;
+}
+.svg-inline--fa.fa-pull-right {
+  margin-left: var(--fa-pull-margin, 0.3em);
+  width: auto;
+}
+.svg-inline--fa.fa-li {
+  width: var(--fa-li-width, 2em);
+  top: 0.25em;
+}
+.svg-inline--fa.fa-fw {
+  width: var(--fa-fw-width, 1.25em);
+}
+
+.fa-layers svg.svg-inline--fa {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.fa-layers-counter, .fa-layers-text {
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+}
+
+.fa-layers {
+  display: inline-block;
+  height: 1em;
+  position: relative;
+  text-align: center;
+  vertical-align: -0.125em;
+  width: 1em;
+}
+.fa-layers svg.svg-inline--fa {
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-text {
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-counter {
+  background-color: var(--fa-counter-background-color, #ff253a);
+  border-radius: var(--fa-counter-border-radius, 1em);
+  box-sizing: border-box;
+  color: var(--fa-inverse, #fff);
+  line-height: var(--fa-counter-line-height, 1);
+  max-width: var(--fa-counter-max-width, 5em);
+  min-width: var(--fa-counter-min-width, 1.5em);
+  overflow: hidden;
+  padding: var(--fa-counter-padding, 0.25em 0.5em);
+  right: var(--fa-right, 0);
+  text-overflow: ellipsis;
+  top: var(--fa-top, 0);
+  -webkit-transform: scale(var(--fa-counter-scale, 0.25));
+          transform: scale(var(--fa-counter-scale, 0.25));
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-bottom-right {
+  bottom: var(--fa-bottom, 0);
+  right: var(--fa-right, 0);
+  top: auto;
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: bottom right;
+          transform-origin: bottom right;
+}
+
+.fa-layers-bottom-left {
+  bottom: var(--fa-bottom, 0);
+  left: var(--fa-left, 0);
+  right: auto;
+  top: auto;
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: bottom left;
+          transform-origin: bottom left;
+}
+
+.fa-layers-top-right {
+  top: var(--fa-top, 0);
+  right: var(--fa-right, 0);
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-top-left {
+  left: var(--fa-left, 0);
+  right: auto;
+  top: var(--fa-top, 0);
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: top left;
+          transform-origin: top left;
+}
+
+.fa-1x {
+  font-size: 1em;
+}
+
+.fa-2x {
+  font-size: 2em;
+}
+
+.fa-3x {
+  font-size: 3em;
+}
+
+.fa-4x {
+  font-size: 4em;
+}
+
+.fa-5x {
+  font-size: 5em;
+}
+
+.fa-6x {
+  font-size: 6em;
+}
+
+.fa-7x {
+  font-size: 7em;
+}
+
+.fa-8x {
+  font-size: 8em;
+}
+
+.fa-9x {
+  font-size: 9em;
+}
+
+.fa-10x {
+  font-size: 10em;
+}
+
+.fa-2xs {
+  font-size: 0.625em;
+  line-height: 0.1em;
+  vertical-align: 0.225em;
+}
+
+.fa-xs {
+  font-size: 0.75em;
+  line-height: 0.0833333337em;
+  vertical-align: 0.125em;
+}
+
+.fa-sm {
+  font-size: 0.875em;
+  line-height: 0.0714285718em;
+  vertical-align: 0.0535714295em;
+}
+
+.fa-lg {
+  font-size: 1.25em;
+  line-height: 0.05em;
+  vertical-align: -0.075em;
+}
+
+.fa-xl {
+  font-size: 1.5em;
+  line-height: 0.0416666682em;
+  vertical-align: -0.125em;
+}
+
+.fa-2xl {
+  font-size: 2em;
+  line-height: 0.03125em;
+  vertical-align: -0.1875em;
+}
+
+.fa-fw {
+  text-align: center;
+  width: 1.25em;
+}
+
+.fa-ul {
+  list-style-type: none;
+  margin-left: var(--fa-li-margin, 2.5em);
+  padding-left: 0;
+}
+.fa-ul > li {
+  position: relative;
+}
+
+.fa-li {
+  left: calc(var(--fa-li-width, 2em) * -1);
+  position: absolute;
+  text-align: center;
+  width: var(--fa-li-width, 2em);
+  line-height: inherit;
+}
+
+.fa-border {
+  border-color: var(--fa-border-color, #eee);
+  border-radius: var(--fa-border-radius, 0.1em);
+  border-style: var(--fa-border-style, solid);
+  border-width: var(--fa-border-width, 0.08em);
+  padding: var(--fa-border-padding, 0.2em 0.25em 0.15em);
+}
+
+.fa-pull-left {
+  float: left;
+  margin-right: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-pull-right {
+  float: right;
+  margin-left: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-beat {
+  -webkit-animation-name: fa-beat;
+          animation-name: fa-beat;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, ease-in-out);
+          animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-bounce {
+  -webkit-animation-name: fa-bounce;
+          animation-name: fa-bounce;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.28, 0.84, 0.42, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.28, 0.84, 0.42, 1));
+}
+
+.fa-fade {
+  -webkit-animation-name: fa-fade;
+          animation-name: fa-fade;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-beat-fade {
+  -webkit-animation-name: fa-beat-fade;
+          animation-name: fa-beat-fade;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-flip {
+  -webkit-animation-name: fa-flip;
+          animation-name: fa-flip;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, ease-in-out);
+          animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-shake {
+  -webkit-animation-name: fa-shake;
+          animation-name: fa-shake;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, linear);
+          animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin {
+  -webkit-animation-name: fa-spin;
+          animation-name: fa-spin;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 2s);
+          animation-duration: var(--fa-animation-duration, 2s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, linear);
+          animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin-reverse {
+  --fa-animation-direction: reverse;
+}
+
+.fa-pulse,
+.fa-spin-pulse {
+  -webkit-animation-name: fa-spin;
+          animation-name: fa-spin;
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, steps(8));
+          animation-timing-function: var(--fa-animation-timing, steps(8));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fa-beat,
+.fa-bounce,
+.fa-fade,
+.fa-beat-fade,
+.fa-flip,
+.fa-pulse,
+.fa-shake,
+.fa-spin,
+.fa-spin-pulse {
+    -webkit-animation-delay: -1ms;
+            animation-delay: -1ms;
+    -webkit-animation-duration: 1ms;
+            animation-duration: 1ms;
+    -webkit-animation-iteration-count: 1;
+            animation-iteration-count: 1;
+    -webkit-transition-delay: 0s;
+            transition-delay: 0s;
+    -webkit-transition-duration: 0s;
+            transition-duration: 0s;
+  }
+}
+@-webkit-keyframes fa-beat {
+  0%, 90% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  45% {
+    -webkit-transform: scale(var(--fa-beat-scale, 1.25));
+            transform: scale(var(--fa-beat-scale, 1.25));
+  }
+}
+@keyframes fa-beat {
+  0%, 90% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  45% {
+    -webkit-transform: scale(var(--fa-beat-scale, 1.25));
+            transform: scale(var(--fa-beat-scale, 1.25));
+  }
+}
+@-webkit-keyframes fa-bounce {
+  0% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  10% {
+    -webkit-transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+            transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+  }
+  30% {
+    -webkit-transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+            transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+  }
+  50% {
+    -webkit-transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+            transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+  }
+  57% {
+    -webkit-transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+            transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+  }
+  64% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  100% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+}
+@keyframes fa-bounce {
+  0% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  10% {
+    -webkit-transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+            transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+  }
+  30% {
+    -webkit-transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+            transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+  }
+  50% {
+    -webkit-transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+            transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+  }
+  57% {
+    -webkit-transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+            transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+  }
+  64% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  100% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+}
+@-webkit-keyframes fa-fade {
+  50% {
+    opacity: var(--fa-fade-opacity, 0.4);
+  }
+}
+@keyframes fa-fade {
+  50% {
+    opacity: var(--fa-fade-opacity, 0.4);
+  }
+}
+@-webkit-keyframes fa-beat-fade {
+  0%, 100% {
+    opacity: var(--fa-beat-fade-opacity, 0.4);
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    -webkit-transform: scale(var(--fa-beat-fade-scale, 1.125));
+            transform: scale(var(--fa-beat-fade-scale, 1.125));
+  }
+}
+@keyframes fa-beat-fade {
+  0%, 100% {
+    opacity: var(--fa-beat-fade-opacity, 0.4);
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    -webkit-transform: scale(var(--fa-beat-fade-scale, 1.125));
+            transform: scale(var(--fa-beat-fade-scale, 1.125));
+  }
+}
+@-webkit-keyframes fa-flip {
+  50% {
+    -webkit-transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+            transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+  }
+}
+@keyframes fa-flip {
+  50% {
+    -webkit-transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+            transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+  }
+}
+@-webkit-keyframes fa-shake {
+  0% {
+    -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+  }
+  4% {
+    -webkit-transform: rotate(15deg);
+            transform: rotate(15deg);
+  }
+  8%, 24% {
+    -webkit-transform: rotate(-18deg);
+            transform: rotate(-18deg);
+  }
+  12%, 28% {
+    -webkit-transform: rotate(18deg);
+            transform: rotate(18deg);
+  }
+  16% {
+    -webkit-transform: rotate(-22deg);
+            transform: rotate(-22deg);
+  }
+  20% {
+    -webkit-transform: rotate(22deg);
+            transform: rotate(22deg);
+  }
+  32% {
+    -webkit-transform: rotate(-12deg);
+            transform: rotate(-12deg);
+  }
+  36% {
+    -webkit-transform: rotate(12deg);
+            transform: rotate(12deg);
+  }
+  40%, 100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+}
+@keyframes fa-shake {
+  0% {
+    -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+  }
+  4% {
+    -webkit-transform: rotate(15deg);
+            transform: rotate(15deg);
+  }
+  8%, 24% {
+    -webkit-transform: rotate(-18deg);
+            transform: rotate(-18deg);
+  }
+  12%, 28% {
+    -webkit-transform: rotate(18deg);
+            transform: rotate(18deg);
+  }
+  16% {
+    -webkit-transform: rotate(-22deg);
+            transform: rotate(-22deg);
+  }
+  20% {
+    -webkit-transform: rotate(22deg);
+            transform: rotate(22deg);
+  }
+  32% {
+    -webkit-transform: rotate(-12deg);
+            transform: rotate(-12deg);
+  }
+  36% {
+    -webkit-transform: rotate(12deg);
+            transform: rotate(12deg);
+  }
+  40%, 100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+}
+@-webkit-keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+@keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+.fa-rotate-90 {
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+
+.fa-rotate-180 {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.fa-rotate-270 {
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
+}
+
+.fa-flip-horizontal {
+  -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1);
+}
+
+.fa-flip-vertical {
+  -webkit-transform: scale(1, -1);
+          transform: scale(1, -1);
+}
+
+.fa-flip-both,
+.fa-flip-horizontal.fa-flip-vertical {
+  -webkit-transform: scale(-1, -1);
+          transform: scale(-1, -1);
+}
+
+.fa-rotate-by {
+  -webkit-transform: rotate(var(--fa-rotate-angle, none));
+          transform: rotate(var(--fa-rotate-angle, none));
+}
+
+.fa-stack {
+  display: inline-block;
+  vertical-align: middle;
+  height: 2em;
+  position: relative;
+  width: 2.5em;
+}
+
+.fa-stack-1x,
+.fa-stack-2x {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: var(--fa-stack-z-index, auto);
+}
+
+.svg-inline--fa.fa-stack-1x {
+  height: 1em;
+  width: 1.25em;
+}
+.svg-inline--fa.fa-stack-2x {
+  height: 2em;
+  width: 2.5em;
+}
+
+.fa-inverse {
+  color: var(--fa-inverse, #fff);
+}
+
+.sr-only,
+.fa-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.sr-only-focusable:not(:focus),
+.fa-sr-only-focusable:not(:focus) {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.svg-inline--fa .fa-primary {
+  fill: var(--fa-primary-color, currentColor);
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa .fa-secondary {
+  fill: var(--fa-secondary-color, currentColor);
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-primary {
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-secondary {
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa mask .fa-primary,
+.svg-inline--fa mask .fa-secondary {
+  fill: black;
+}
+
+.fad.fa-inverse,
+.fa-duotone.fa-inverse {
+  color: var(--fa-inverse, #fff);
+}</style><link href="/favicon.ico" rel="icon"><meta content="width=device-width,initial-scale=1" name="viewport"><meta content="#CDB598" name="theme-color"><meta content="Bethesda Frankel Estate Church" name="description"><link href="/logo192.png" rel="apple-touch-icon"><link href="/manifest.json" rel="manifest"><title>For Members | BFEC</title><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-H7239LRYP8"></script><script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-H7239LRYP8")</script><script defer="defer" src="/static/js/main.1b234f6c.js"></script><link href="/static/css/main.596cc955.css" rel="stylesheet"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"><div id="public-viewport"><div id="public-navbar" class="nav-not-at-top"><div class="logo"><a href="/"><img src="/static/media/bfec-logo-color.98a082a434b6b45eb7f5.png" alt="BFEC"></a></div><div id="nav-body" aria-label="horizontal navbar"><div id="nav-title">Bethesda Frankel Estate Church</div><div id="nav-links"><div class="link"><a aria-current="page" class="active" href="/get-plugged-in">Get plugged in </a><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-down" class="svg-inline--fa fa-chevron-down " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M233.4 406.6c12.5 12.5 32.8 12.5 45.3 0l192-192c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 338.7 86.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l192 192z"></path></svg></div><a class="link" href="/who-is-jesus">Who is Jesus?</a><div class="link"><a class="" href="/our-community">Our Community </a><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-down" class="svg-inline--fa fa-chevron-down " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M233.4 406.6c12.5 12.5 32.8 12.5 45.3 0l192-192c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 338.7 86.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l192 192z"></path></svg></div><div class="link"><a class="" href="/kindergarten">Kindergarten </a><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-down" class="svg-inline--fa fa-chevron-down " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M233.4 406.6c12.5 12.5 32.8 12.5 45.3 0l192-192c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 338.7 86.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l192 192z"></path></svg></div><a class="link" href="/contact-us">Contact Us</a><a class="link last-link" href="/giving">Giving</a></div></div><div id="hamburger-menu" aria-label="burger menu"><div><div class="bm-overlay" style="position: fixed; z-index: 1000; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.3); opacity: 0; transform: translate3d(100%, 0px, 0px); transition: opacity 0.3s ease 0s, transform 0s ease 0.3s;"></div><div><div class="bm-burger-button" style="z-index: 1000;"><button type="button" id="react-burger-menu-btn" style="position: absolute; left: 0px; top: 0px; z-index: 1; width: 100%; height: 100%; margin: 0px; padding: 0px; border: none; font-size: 0px; background: transparent; cursor: pointer;">Open Menu</button><span><span class="bm-burger-bars" style="position: absolute; height: 20%; left: 0px; right: 0px; top: 0%; opacity: 1;"></span><span class="bm-burger-bars" style="position: absolute; height: 20%; left: 0px; right: 0px; top: 40%; opacity: 1;"></span><span class="bm-burger-bars" style="position: absolute; height: 20%; left: 0px; right: 0px; top: 80%; opacity: 1;"></span></span></div></div><div id="" class="bm-menu-wrap" aria-hidden="true" hidden="true" style="position: fixed; right: 0px; z-index: 1100; width: 300px; height: 100%; transform: translate3d(100%, 0px, 0px); transition: all 0.5s ease 0s;"><div class="bm-menu" style="height: 100%; box-sizing: border-box; overflow: auto;"><nav class="bm-item-list" style="height: 100%;"><a class="" href="/">Home</a><div class="bm-item burger-submenu" tabindex="-1" style="display: block;"><div class="subheader">Get plugged in</div><a class="" href="/get-plugged-in/latest">&nbsp;&nbsp;—&nbsp;&nbsp;Latest</a><a class="" href="/get-plugged-in/sermons">&nbsp;&nbsp;—&nbsp;&nbsp;Sermons</a><a class="" href="/get-plugged-in/members">&nbsp;&nbsp;—&nbsp;&nbsp;For Members</a></div><a class="" href="/who-is-jesus">Who is Jesus?</a><div class="bm-item burger-submenu" tabindex="-1" style="display: block;"><div class="subheader">Our Community</div><a class="" href="/our-community/bfec">&nbsp;&nbsp;—&nbsp;&nbsp;About BFEC</a><a class="" href="/our-community/people">&nbsp;&nbsp;—&nbsp;&nbsp;People</a><a class="" href="/our-community/ministries">&nbsp;&nbsp;—&nbsp;&nbsp;Ministries</a><a class="" href="/our-community/testimonies">&nbsp;&nbsp;—&nbsp;&nbsp;Testimonies</a><a class="" href="https://bfec.smugmug.com/" target="_blank" rel="noopener noreferrer">&nbsp;&nbsp;—&nbsp;&nbsp;Photo Gallery<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-up-right-from-square" class="svg-inline--fa fa-arrow-up-right-from-square " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="margin-left: 12px;"><path fill="currentColor" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"></path></svg></a><a class="" href="http://bfec.sg/ready" target="_blank" rel="noopener noreferrer">&nbsp;&nbsp;—&nbsp;&nbsp;READY Magazine<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-up-right-from-square" class="svg-inline--fa fa-arrow-up-right-from-square " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="margin-left: 12px;"><path fill="currentColor" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"></path></svg></a></div><div class="bm-item burger-submenu" tabindex="-1" style="display: block;"><div class="subheader">Kindergarten</div><a class="" href="/kindergarten/#testimonials">&nbsp;&nbsp;—&nbsp;&nbsp;Testimonials</a><a class="" href="/kindergarten/#about-us">&nbsp;&nbsp;—&nbsp;&nbsp;About Us</a><a class="" href="/kindergarten/#achievements">&nbsp;&nbsp;—&nbsp;&nbsp;Achievements</a><a class="" href="/kindergarten/#programme">&nbsp;&nbsp;—&nbsp;&nbsp;Our Programme</a><a class="" href="https://parent.focusit.sg/bkk/parent_login.php?redirect=/bkk/index.php" target="_blank" rel="noopener noreferrer">&nbsp;&nbsp;—&nbsp;&nbsp;Parents’ Portal<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-up-right-from-square" class="svg-inline--fa fa-arrow-up-right-from-square " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="margin-left: 12px;"><path fill="currentColor" d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"></path></svg></a></div><a class="" href="/contact-us">Contact Us</a><a class="" href="/giving">Giving</a></nav></div><div><div class="bm-cross-button" style="position: absolute; width: 24px; height: 24px; right: 8px; top: 8px;"><button type="button" id="react-burger-cross-btn" tabindex="-1" style="position: absolute; left: 0px; top: 0px; z-index: 1; width: 100%; height: 100%; margin: 0px; padding: 0px; border: none; font-size: 0px; background: transparent; cursor: pointer;">Close Menu</button><span style="position: absolute; top: 6px; right: 14px;"><span class="bm-cross" style="position: absolute; width: 3px; height: 14px; transform: rotate(45deg);"></span><span class="bm-cross" style="position: absolute; width: 3px; height: 14px; transform: rotate(-45deg);"></span></span></div></div></div></div></div></div><main id="container"><div><div class="hero hero-with-children" style="height: 346.265px;"><img src="/static/media/sermons-banner-2023.4422c091457ec54076fc.png" alt="" class="hero-image"><div class="hero-content"><div class="hero-text-container align-bottom-left"><div class="hero-text ">For Members</div></div></div></div><div class="content-holder" id="for-members"><div id="members-nav"><a href="/get-plugged-in/members#babies-children">Babies &amp; Children</a><a href="/get-plugged-in/members#baptism-membership">Baptism &amp; Membership</a><a href="/get-plugged-in/members#small-groups">Small Groups</a><a href="/get-plugged-in/members#marriage">Marriage</a><a href="/get-plugged-in/members#prayer-requests">Prayer Requests</a><a href="/get-plugged-in/members#share-a-thanksgiving">Share a Thanksgiving</a><a href="/get-plugged-in/members#homecalls-bereavements">Homecalls &amp; Bereavements</a></div><div id="babies-children" class="member-section"><div class="row header"><div class="section-icon"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="family" class="svg-inline--fa fa-family fa-xl " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M128 96a32 32 0 1 0 0-64 32 32 0 1 0 0 64zm0-96a64 64 0 1 1 0 128A64 64 0 1 1 128 0zM105.6 192c-25 0-45.8 19.1-47.8 44l-4.1 49.3C52.1 304 66.8 320 85.6 320h59.6c-.7 5.2-1.1 10.6-1.1 16v16H96V496c0 8.8-7.2 16-16 16s-16-7.2-16-16V348.3c-26.5-9.5-44.7-35.8-42.2-65.6l4.1-49.3C29.3 191.9 64 160 105.6 160h44.8c7 0 13.8 .9 20.2 2.6c-1.7 6.9-2.6 14-2.6 21.4c0 3.9 .3 7.8 .8 11.6c-5.7-2.4-11.9-3.6-18.4-3.6H105.6zM416 384H366.4c1-5.2 1.6-10.5 1.6-16V352H469.6L430.5 215.2C426.6 201.5 414 192 399.7 192H368.3c-11.5 0-21.8 6.1-27.5 15.6c2.1-7.5 3.2-15.4 3.2-23.6c0-6.3-.7-12.5-1.9-18.4c8.1-3.6 17-5.6 26.2-5.6h31.4c28.6 0 53.7 18.9 61.5 46.4l39.1 136.8c5.8 20.4-9.5 40.8-30.8 40.8H448V496c0 8.8-7.2 16-16 16s-16-7.2-16-16V384zM384 96a32 32 0 1 0 0-64 32 32 0 1 0 0 64zm0-96a64 64 0 1 1 0 128A64 64 0 1 1 384 0zM256 208a24 24 0 1 0 0-48 24 24 0 1 0 0 48zm0-80a56 56 0 1 1 0 112 56 56 0 1 1 0-112zm0 160c-26.5 0-48 21.5-48 48v32c0 8.8 7.2 16 16 16h64c8.8 0 16-7.2 16-16V336c0-26.5-21.5-48-48-48zM208 413.3c-18.6-6.6-32-24.4-32-45.3V336c0-44.2 35.8-80 80-80s80 35.8 80 80v32c0 20.9-13.4 38.7-32 45.3V496c0 8.8-7.2 16-16 16s-16-7.2-16-16V416H240v80c0 8.8-7.2 16-16 16s-16-7.2-16-16V413.3z"></path></svg></div><h2>Babies &amp; Children</h2><a class="to-top" href="/get-plugged-in/members#for-members">^ Back to top</a></div><div class="section-body"><ul><li><strong>Birth:</strong> Share the joy with us by emailing to <a href="obfuscated" style="unicode-bidi: bidi-override; direction: rtl;">gs.gro.cefb@cefb</a> or whatsapping to <a href="https://wa.me/+6596701800"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="whatsapp" class="svg-inline--fa fa-whatsapp " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" style="margin-left: 4px; margin-right: 4px;"><path fill="currentColor" d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></svg>9670 1800</a></li><li><strong>Children’s Dedication:</strong> Held twice a year, the dedication of each child, by one or both parents, is done during a church service, in the presence of God, and affirmed by the congregation. Parents dedicating their child to our Lord not only seek God’s blessings and guidance in the upbringing of their child but also the loving accountability and fellowship of church members.</li></ul><div class="frequency"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="clock" class="svg-inline--fa fa-clock " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M480 256A224 224 0 1 1 32 256a224 224 0 1 1 448 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM240 112V256c0 5.3 2.7 10.3 7.1 13.3l96 64c7.4 4.9 17.3 2.9 22.2-4.4s2.9-17.3-4.4-22.2L272 247.4V112c0-8.8-7.2-16-16-16s-16 7.2-16 16z"></path></svg>April &amp; October (twice a year)</div><div class="cta"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="pen-nib" class="svg-inline--fa fa-pen-nib " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M377.4 45.3L310.6 112 400 201.4l66.7-66.7c12.5-12.5 12.5-32.8 0-45.3L422.6 45.3c-12.5-12.5-32.8-12.5-45.3 0zM279.7 97.7l75.1-75.1c25-25 65.5-25 90.5 0l44.1 44.1c25 25 25 65.5 0 90.5l-75.1 75.1L376.8 370c-7.3 26.6-27.7 47.6-54.2 55.6L47.4 508.1c-12.3 3.7-25.7 .3-34.7-8.8s-12.5-22.4-8.8-34.7L86.5 189.4c7.9-26.4 28.9-46.9 55.6-54.2L279.7 97.7zm3.6 32.2L150.5 166.1c-16 4.4-28.6 16.6-33.3 32.5L42.7 446.7 152.9 336.5c-5.6-9.5-8.9-20.6-8.9-32.5c0-35.3 28.7-64 64-64s64 28.7 64 64s-28.7 64-64 64c-11.9 0-23-3.2-32.5-8.9L65.3 469.3l248.1-74.4c15.9-4.8 28.2-17.4 32.5-33.3l36.2-132.8-98.9-98.9zM208 272a32 32 0 1 0 0 64 32 32 0 1 0 0-64z"></path></svg>Sign up at <a href="https://bfec.sg/dedication">bfec.sg/dedication</a></div></div></div><div id="baptism-membership" class="member-section"><div class="row header"><div class="section-icon"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="water" class="svg-inline--fa fa-water fa-xl " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M133.8 106.8C150.3 118 171.1 128 192 128s41.6-9.9 58.2-21.2c9.8-6.7 18-14 25.9-21.9c6.6-6.5 17.2-6.5 23.7 0c7.9 7.9 16.2 15.2 26 21.9C342.3 118 363.1 128 384 128s41.6-9.9 58.2-21.2c9.8-6.7 18-14 25.9-21.9c6.6-6.5 17.2-6.5 23.7 0c7.9 7.9 16.2 15.2 26 21.9c12.8 8.7 28.1 16.6 44.1 19.8c7.7 1.5 14.1 7.8 14.1 15.7c0 9.8-8 17.9-17.7 16.2c-23.1-4-43.6-15-58.5-25.2c-7.9-5.4-14.7-10.8-19.8-15.3c-5.1 4.5-11.8 9.9-19.8 15.3C441.5 145.9 414.3 160 384 160s-57.6-14.1-76.2-26.8c-7.9-5.4-14.7-10.8-19.8-15.3c-5.1 4.5-11.8 9.9-19.8 15.3C249.5 145.9 222.3 160 192 160s-57.6-14.1-76.2-26.8c-7.9-5.4-14.6-10.8-19.8-15.3c-5.1 4.5-11.8 9.9-19.8 15.3c-14.9 10.2-35.4 21.2-58.5 25.2C8 160.1 0 152 0 142.2c0-7.9 6.4-14.1 14.1-15.7c15.9-3.1 31.3-11.1 44-19.8c9.8-6.7 18-14 25.9-21.9c6.6-6.5 17.2-6.6 23.8 0c7.9 7.9 16.2 15.2 25.9 21.9zm0 288C150.3 406 171.1 416 192 416s41.6-9.9 58.2-21.2c9.8-6.7 18-14 25.9-21.9c6.6-6.5 17.2-6.5 23.7 0c7.9 7.9 16.2 15.2 26 21.9C342.3 406 363.1 416 384 416s41.6-9.9 58.2-21.2c9.8-6.7 18-14 25.9-21.9c6.6-6.5 17.2-6.6 23.7 0c7.9 7.9 16.2 15.2 26 21.9c12.8 8.7 28.1 16.6 44.1 19.8c7.7 1.5 14.1 7.8 14.1 15.7c0 9.8-8 17.9-17.7 16.2c-23.1-4-43.6-15-58.5-25.2c-7.9-5.4-14.7-10.8-19.8-15.3c-5.1 4.5-11.8 9.9-19.8 15.3C441.5 433.9 414.3 448 384 448s-57.6-14.1-76.2-26.8c-7.9-5.4-14.7-10.8-19.8-15.3c-5.1 4.5-11.8 9.9-19.8 15.3C249.5 433.9 222.3 448 192 448s-57.6-14.1-76.2-26.8c-7.9-5.4-14.6-10.8-19.8-15.3c-5.1 4.5-11.8 9.9-19.8 15.3c-14.9 10.2-35.4 21.2-58.5 25.2C8 448.1 0 440 0 430.2c0-7.9 6.4-14.1 14.1-15.7c15.9-3.1 31.3-11.1 44-19.8c9.8-6.7 18-14 25.9-21.9c6.6-6.5 17.2-6.6 23.8 0c7.9 7.9 16.2 15.2 25.9 21.9zM192 272c20.9 0 41.6-9.9 58.2-21.2c9.8-6.7 18-14 25.9-21.9c6.6-6.5 17.2-6.5 23.7 0c7.9 7.9 16.2 15.2 26 21.9C342.3 262 363.1 272 384 272s41.6-9.9 58.2-21.2c9.8-6.7 18-14 25.9-21.9c6.6-6.5 17.2-6.5 23.7 0c7.9 7.9 16.2 15.2 26 21.9c12.8 8.7 28.1 16.6 44.1 19.8c7.7 1.5 14.1 7.8 14.1 15.7c0 9.8-8 17.9-17.7 16.2c-23.1-4-43.6-15-58.5-25.2c-7.9-5.4-14.7-10.8-19.8-15.3c-5.1 4.5-11.8 9.9-19.8 15.3C441.5 289.9 414.3 304 384 304s-57.6-14.1-76.2-26.8c-7.9-5.4-14.7-10.8-19.8-15.3c-5.1 4.5-11.8 9.9-19.8 15.3C249.5 289.9 222.3 304 192 304s-57.6-14.1-76.2-26.8c-7.9-5.4-14.6-10.8-19.8-15.3c-5.1 4.5-11.8 9.9-19.8 15.3c-14.9 10.2-35.4 21.2-58.5 25.2C8 304.1 0 296 0 286.2c0-7.9 6.4-14.1 14.1-15.7c15.9-3.1 31.3-11.1 44-19.8c9.8-6.7 18-14 25.9-21.9c6.6-6.5 17.2-6.6 23.8 0c7.9 7.9 16.2 15.2 25.9 21.9C150.3 262 171.1 272 192 272z"></path></svg></div><h2>Baptism &amp; Membership</h2><a class="to-top" href="/get-plugged-in/members#for-members">^ Back to top</a></div><div class="section-body"><p>Baptism is a key step in the discipleship process in a believer's life... one that will further strengthen the believer's faith as you obey God in identifying with Christ. Attend the 4 on-site baptism/transfer classes to prepare yourself &amp; clarify your convictions as we learn more about how to grow &amp; serve together in this BFEC community. The classes will be conducted on Sunday mornings 8.30–10 am.</p><div class="frequency"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="clock" class="svg-inline--fa fa-clock " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M480 256A224 224 0 1 1 32 256a224 224 0 1 1 448 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM240 112V256c0 5.3 2.7 10.3 7.1 13.3l96 64c7.4 4.9 17.3 2.9 22.2-4.4s2.9-17.3-4.4-22.2L272 247.4V112c0-8.8-7.2-16-16-16s-16 7.2-16 16z"></path></svg>3 times a year</div><div class="cta"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="pen-nib" class="svg-inline--fa fa-pen-nib " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M377.4 45.3L310.6 112 400 201.4l66.7-66.7c12.5-12.5 12.5-32.8 0-45.3L422.6 45.3c-12.5-12.5-32.8-12.5-45.3 0zM279.7 97.7l75.1-75.1c25-25 65.5-25 90.5 0l44.1 44.1c25 25 25 65.5 0 90.5l-75.1 75.1L376.8 370c-7.3 26.6-27.7 47.6-54.2 55.6L47.4 508.1c-12.3 3.7-25.7 .3-34.7-8.8s-12.5-22.4-8.8-34.7L86.5 189.4c7.9-26.4 28.9-46.9 55.6-54.2L279.7 97.7zm3.6 32.2L150.5 166.1c-16 4.4-28.6 16.6-33.3 32.5L42.7 446.7 152.9 336.5c-5.6-9.5-8.9-20.6-8.9-32.5c0-35.3 28.7-64 64-64s64 28.7 64 64s-28.7 64-64 64c-11.9 0-23-3.2-32.5-8.9L65.3 469.3l248.1-74.4c15.9-4.8 28.2-17.4 32.5-33.3l36.2-132.8-98.9-98.9zM208 272a32 32 0 1 0 0 64 32 32 0 1 0 0-64z"></path></svg>Sign up at <a href="https://bfec.sg/baptism">bfec.sg/baptism</a> or <a href="https://bfec.sg/transfer">bfec.sg/transfer</a></div></div></div><div id="small-groups" class="member-section"><div class="row header"><div class="section-icon"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="people-group" class="svg-inline--fa fa-people-group fa-xl " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M128 64a24 24 0 1 1 0 48 24 24 0 1 1 0-48zm0 80a56 56 0 1 0 0-112 56 56 0 1 0 0 112zM0 280c0 43.3 26.4 80.4 64 96v48c0 13.3 10.7 24 24 24h80c13.3 0 24-10.7 24-24V384c0-8.8-7.2-16-16-16s-16 7.2-16 16v32H96V208.4c2.6-.3 5.3-.4 8-.4h48c9.3 0 18.1 1.7 26.2 4.9c8.2 3.2 17.5-.9 20.7-9.1s-.9-17.5-9.1-20.7c-11.7-4.6-24.5-7.1-37.8-7.1H104C46.6 176 0 222.6 0 280zm64 59.9C44.7 327 32 304.9 32 280c0-25 12.7-47 32-59.9V339.9zM512 64a24 24 0 1 1 0 48 24 24 0 1 1 0-48zm0 80a56 56 0 1 0 0-112 56 56 0 1 0 0 112zM640 280c0-57.4-46.6-104-104-104H488c-13.3 0-26.1 2.5-37.8 7.1c-8.2 3.2-12.3 12.5-9.1 20.7s12.5 12.3 20.7 9.1c8.1-3.2 16.9-4.9 26.2-4.9h48c2.7 0 5.4 .1 8 .4V416H480V384c0-8.8-7.2-16-16-16s-16 7.2-16 16v40c0 13.3 10.7 24 24 24h80c13.3 0 24-10.7 24-24V376c37.6-15.7 64-52.7 64-96zm-64 59.9V220.1C595.3 233 608 255 608 280c0 24.9-12.7 47-32 59.9zM288 96a32 32 0 1 1 64 0 32 32 0 1 1 -64 0zm96 0A64 64 0 1 0 256 96a64 64 0 1 0 128 0zm-80 96c-57.4 0-104 46.6-104 104c0 40.1 22.7 74.9 56 92.3V456c0 13.3 10.7 24 24 24h80c13.3 0 24-10.7 24-24V388.3c33.3-17.3 56-52.1 56-92.3c0-57.4-46.6-104-104-104H304zm-48 50.3V349.7c-14.7-13.2-24-32.4-24-53.7c0-21.3 9.3-40.5 24-53.7zM288 448V225.8c5.1-1.2 10.5-1.8 16-1.8h32c5.5 0 10.9 .6 16 1.8V448H288zm96-98.3V242.3c14.7 13.2 24 32.3 24 53.7c0 21.3-9.3 40.5-24 53.7z"></path></svg></div><h2>Small Groups</h2><a class="to-top" href="/get-plugged-in/members#for-members">^ Back to top</a></div><div class="section-body"><p>How does a church grow bigger without growing colder? By growing “smaller”! Indeed, the simple, proven answer is through cell groups. When you and I are in one that honours Him, we will not only belong to a family but behave like one.</p><div class="cta"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="pen-nib" class="svg-inline--fa fa-pen-nib " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M377.4 45.3L310.6 112 400 201.4l66.7-66.7c12.5-12.5 12.5-32.8 0-45.3L422.6 45.3c-12.5-12.5-32.8-12.5-45.3 0zM279.7 97.7l75.1-75.1c25-25 65.5-25 90.5 0l44.1 44.1c25 25 25 65.5 0 90.5l-75.1 75.1L376.8 370c-7.3 26.6-27.7 47.6-54.2 55.6L47.4 508.1c-12.3 3.7-25.7 .3-34.7-8.8s-12.5-22.4-8.8-34.7L86.5 189.4c7.9-26.4 28.9-46.9 55.6-54.2L279.7 97.7zm3.6 32.2L150.5 166.1c-16 4.4-28.6 16.6-33.3 32.5L42.7 446.7 152.9 336.5c-5.6-9.5-8.9-20.6-8.9-32.5c0-35.3 28.7-64 64-64s64 28.7 64 64s-28.7 64-64 64c-11.9 0-23-3.2-32.5-8.9L65.3 469.3l248.1-74.4c15.9-4.8 28.2-17.4 32.5-33.3l36.2-132.8-98.9-98.9zM208 272a32 32 0 1 0 0 64 32 32 0 1 0 0-64z"></path></svg>Sign up at <a href="https://bfec.sg/CG-application">bfec.sg/CG-application</a></div></div></div><div id="marriage" class="member-section"><div class="row header"><div class="section-icon"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="rings-wedding" class="svg-inline--fa fa-rings-wedding fa-xl " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M137.9 32l-8 16 24 48H176h22.1l24-48-8-16H137.9zM254.3 55.2l-24.6 49.2C300.6 127.1 352 193.5 352 272c0 64.4-34.5 120.7-86.1 151.3c-8.6-6.9-16.1-15-22.4-24.1C289 375 320 327.1 320 272c0-27.5-7.7-53.3-21.1-75.2C237.3 213.2 192 269.3 192 336c0 27.5 7.7 53.3 21.1 75.2c6 9.8 13.2 18.8 21.3 26.9c0 0 0 0 0 0C260.5 464 296.4 480 336 480c79.5 0 144-64.5 144-144c0-67.9-47-124.9-110.3-140c-4.9-12.4-10.9-24.2-17.9-35.3C441.6 168.7 512 244.1 512 336c0 97.2-78.8 176-176 176c-55.3 0-104.7-25.5-137-65.5c-7.5 1-15.2 1.5-23 1.5C78.8 448 0 369.2 0 272c0-78.5 51.4-144.9 122.3-167.7L97.7 55.2c-2.3-4.5-2.3-9.8 0-14.3l16-32C116.4 3.4 121.9 0 128 0h96c6.1 0 11.6 3.4 14.3 8.8l16 32c2.3 4.5 2.3 9.8 0 14.3zM179.2 416c-12.3-24-19.2-51.2-19.2-80c0-76.7 49.1-142 117.6-166.1C251.5 144 215.6 128 176 128C96.5 128 32 192.5 32 272s64.5 144 144 144c1.1 0 2.1 0 3.2 0z"></path></svg></div><h2>Marriage</h2><a class="to-top" href="/get-plugged-in/members#for-members">^ Back to top</a></div><div class="section-body"><h3>The Pre-Marriage Course (TPMC) - First Things First</h3><p>There are many things on the minds of a Christian couple preparing for Holy Matrimony. From selecting a suitable date to a suitable life verse. From securing a place to call home to timing the "ROM" date. However, the most important first step, before making bookings of any sort is to undergo a Pre-Marriage Course. Studies show the benefits when a couple takes a step back to learn to apply the fundamentals of what the marriage covenant entails. And Christians are not exempt from the danger of marital breakdown. Thankfully, courses like this are designed to help provide godly and helpful handles for important conversations for the couple, and with a mentoring couple. You may also get to know other couples preparing for marriage who will also serve as your spiritual community.</p><p>TPMC is a 5-session course intended for couples:</p><ul><li>attending BFEC, both of whom are baptised believers or are making preparations for baptism at least 6 months before marriage.</li><li>intending to marry minimally a year later (to facilitate an unhurried and meaningful time)</li></ul><div class="frequency"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="clock" class="svg-inline--fa fa-clock " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M480 256A224 224 0 1 1 32 256a224 224 0 1 1 448 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM240 112V256c0 5.3 2.7 10.3 7.1 13.3l96 64c7.4 4.9 17.3 2.9 22.2-4.4s2.9-17.3-4.4-22.2L272 247.4V112c0-8.8-7.2-16-16-16s-16 7.2-16 16z"></path></svg>January–June and July–December (twice a year)</div><div class="cta"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="pen-nib" class="svg-inline--fa fa-pen-nib " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M377.4 45.3L310.6 112 400 201.4l66.7-66.7c12.5-12.5 12.5-32.8 0-45.3L422.6 45.3c-12.5-12.5-32.8-12.5-45.3 0zM279.7 97.7l75.1-75.1c25-25 65.5-25 90.5 0l44.1 44.1c25 25 25 65.5 0 90.5l-75.1 75.1L376.8 370c-7.3 26.6-27.7 47.6-54.2 55.6L47.4 508.1c-12.3 3.7-25.7 .3-34.7-8.8s-12.5-22.4-8.8-34.7L86.5 189.4c7.9-26.4 28.9-46.9 55.6-54.2L279.7 97.7zm3.6 32.2L150.5 166.1c-16 4.4-28.6 16.6-33.3 32.5L42.7 446.7 152.9 336.5c-5.6-9.5-8.9-20.6-8.9-32.5c0-35.3 28.7-64 64-64s64 28.7 64 64s-28.7 64-64 64c-11.9 0-23-3.2-32.5-8.9L65.3 469.3l248.1-74.4c15.9-4.8 28.2-17.4 32.5-33.3l36.2-132.8-98.9-98.9zM208 272a32 32 0 1 0 0 64 32 32 0 1 0 0-64z"></path></svg>Sign up at <a href="https://bfec.sg/pmc">bfec.sg/pmc</a></div>Registration for courses must be submitted by 31 July for the July-December run, and by 31 January for the January-June run.<h3>Planning to hold your Wedding Ceremony in BFEC</h3><p>Refer to <a href="https://bfec.sg/guidelines-wedding">bfec.sg/guidelines-wedding</a></p><div class="cta"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="pen-nib" class="svg-inline--fa fa-pen-nib " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M377.4 45.3L310.6 112 400 201.4l66.7-66.7c12.5-12.5 12.5-32.8 0-45.3L422.6 45.3c-12.5-12.5-32.8-12.5-45.3 0zM279.7 97.7l75.1-75.1c25-25 65.5-25 90.5 0l44.1 44.1c25 25 25 65.5 0 90.5l-75.1 75.1L376.8 370c-7.3 26.6-27.7 47.6-54.2 55.6L47.4 508.1c-12.3 3.7-25.7 .3-34.7-8.8s-12.5-22.4-8.8-34.7L86.5 189.4c7.9-26.4 28.9-46.9 55.6-54.2L279.7 97.7zm3.6 32.2L150.5 166.1c-16 4.4-28.6 16.6-33.3 32.5L42.7 446.7 152.9 336.5c-5.6-9.5-8.9-20.6-8.9-32.5c0-35.3 28.7-64 64-64s64 28.7 64 64s-28.7 64-64 64c-11.9 0-23-3.2-32.5-8.9L65.3 469.3l248.1-74.4c15.9-4.8 28.2-17.4 32.5-33.3l36.2-132.8-98.9-98.9zM208 272a32 32 0 1 0 0 64 32 32 0 1 0 0-64z"></path></svg>Sign up at <a href="https://bfec.sg/weddingapplication">bfec.sg/weddingapplication</a></div></div></div><div id="prayer-requests" class="member-section"><div class="row header"><div class="section-icon"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="hands-praying" class="svg-inline--fa fa-hands-praying fa-xl " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M283.4 32c-6.8 0-13.2 3.4-17.1 9L179.5 168.4C166.8 187 160 209 160 231.5v50.3c0 20-12.4 37.9-31.1 44.9L21.6 367c-8.3 3.1-17.5-1.1-20.6-9.4s1.1-17.5 9.4-20.6l107.2-40.2c6.2-2.3 10.4-8.3 10.4-15V231.5c0-28.9 8.7-57.2 25-81.1L239.9 23C249.7 8.6 266 0 283.4 0c14.2 0 27.2 5.7 36.6 14.8C329.5 5.7 342.4 0 356.6 0c17.4 0 33.7 8.6 43.5 23L487 150.4c16.3 23.9 25 52.2 25 81.1v50.3c0 6.7 4.1 12.6 10.4 15L629.6 337c8.3 3.1 12.5 12.3 9.4 20.6s-12.3 12.5-20.6 9.4L511.1 326.8c-18.7-7-31.1-24.9-31.1-44.9V231.5c0-22.5-6.8-44.5-19.5-63.1L373.7 41c-3.8-5.6-10.2-9-17.1-9C345.2 32 336 41.2 336 52.6V59c0 5.3 1.6 10.5 4.5 15l51.3 76.9c15.8 23.7 24.2 51.4 24.2 79.9V232v72c0 8.8-7.2 16-16 16s-16-7.2-16-16V232c0-13.3-10.7-24-24-24s-24 10.7-24 24v74.2c0 48.9 31.7 92.1 78.3 106.8l214.5 67.8c8.4 2.7 13.1 11.6 10.4 20.1s-11.6 13.1-20.1 10.4L404.6 443.5c-37.5-11.8-67.4-38-84.6-71.3c-17.2 33.3-47.2 59.5-84.6 71.3L20.8 511.3c-8.4 2.7-17.4-2-20.1-10.4s2-17.4 10.4-20.1L225.7 413c46.6-14.7 78.3-57.9 78.3-106.8V232c0-13.3-10.7-24-24-24s-24 10.7-24 24v72c0 8.8-7.2 16-16 16s-16-7.2-16-16V232v-1.2c0-28.4 8.4-56.2 24.2-79.9L299.5 74c3-4.4 4.5-9.6 4.5-15V52.6c0-11.4-9.2-20.6-20.6-20.6zM320 100.8l-45.2 67.8c-1.8 2.7-3.5 5.5-5 8.3c3.3-.6 6.7-.9 10.2-.9c15.7 0 29.8 6.4 40 16.8c10.2-10.4 24.3-16.8 40-16.8c3.5 0 6.9 .3 10.2 .9c-1.6-2.8-3.2-5.6-5-8.3L320 100.8z"></path></svg></div><h2>Prayer Requests</h2><a class="to-top" href="/get-plugged-in/members#for-members">^ Back to top</a></div><div class="section-body"><p>Email to <a href="obfuscated" style="unicode-bidi: bidi-override; direction: rtl;">gs.gro.cefb@cefb</a> or whatsapp to <a href="https://wa.me/+6596701800"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="whatsapp" class="svg-inline--fa fa-whatsapp " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" style="margin-left: 4px; margin-right: 4px;"><path fill="currentColor" d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></svg>9670 1800</a> so we can alert the F.I.R.E team to pray with you</p><p><b>F</b>rankel <b>I</b>ntercessors <b>R</b>eady <b>E</b>verywhere &amp; Everytime</p></div></div><div id="share-a-thanksgiving" class="member-section"><div class="row header"><div class="section-icon"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="hands-holding-heart" class="svg-inline--fa fa-hands-holding-heart fa-xl " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M195.9 28.9C223.7 .7 267.8-.8 297.3 24.3c5.8 4.9 11 10.4 16.3 15.9c2.1 2.2 4.2 4.5 6.4 6.6c2.1-2.2 4.3-4.4 6.4-6.6c5.2-5.5 10.5-11 16.3-15.9C372.2-.8 416.3 .7 444.1 28.9c29.4 29.8 29.4 78.2 0 108L342.5 240.1c-6.2 6.3-14.3 9.4-22.5 9.4s-16.3-3.1-22.5-9.4L195.9 136.9c-29.4-29.8-29.4-78.2 0-108zm83.6 22.5c-16.8-17.1-44-17.1-60.8 0c-17.1 17.4-17.1 45.7 0 63.1L320 217.3 421.3 114.4c17.1-17.4 17.1-45.7 0-63.1c-16.8-17.1-44-17.1-60.8 0L331.4 80.9c-6.3 6.4-16.5 6.4-22.8 0L279.5 51.4zM64 64c35.3 0 64 28.7 64 64V252.3c0 4.6 .4 9.1 1.3 13.5c2.1-3.2 4.6-6.3 7.4-9.1c21.7-21.7 56.9-21.7 78.6 0L306.6 348c5.1 5.1 9.6 10.6 13.4 16.6c3.8-5.9 8.3-11.5 13.4-16.6l91.3-91.3c21.7-21.7 56.9-21.7 78.6 0c2.8 2.8 5.3 5.9 7.4 9.1c.9-4.4 1.3-8.9 1.3-13.5V128c0-35.3 28.7-64 64-64s64 28.7 64 64V344.2c0 29.7-11.8 58.2-32.8 79.2l-83.9 83.9c-6.2 6.2-16.4 6.2-22.6 0s-6.2-16.4 0-22.6l83.9-83.9c15-15 23.4-35.4 23.4-56.6V128c0-17.7-14.3-32-32-32s-32 14.3-32 32V252.3c0 27.1-10.8 53.1-29.9 72.2l-10.8 10.8-44 44-16 16c-6.2 6.2-16.4 6.2-22.6 0s-6.2-16.4 0-22.6l16-16 0 0 44-44 0 0c9.2-9.2 9.2-24.2 0-33.4s-24.2-9.2-33.4 0L356 370.6c-12.8 12.8-20 30.2-20 48.3V496c0 8.8-7.2 16-16 16s-16-7.2-16-16V418.9c0-18.1-7.2-35.5-20-48.3l-91.3-91.3c-9.2-9.2-24.2-9.2-33.4 0s-9.2 24.2 0 33.4l44 44 16 16c6.2 6.2 6.2 16.4 0 22.6s-16.4 6.2-22.6 0l-16-16 0 0-44-44 0 0-10.7-10.8C106.8 305.4 96 279.4 96 252.3V128c0-17.7-14.3-32-32-32s-32 14.3-32 32V344.2c0 21.2 8.4 41.6 23.4 56.6l83.9 83.9c6.2 6.2 6.2 16.4 0 22.6s-16.4 6.2-22.6 0L32.8 423.4C11.8 402.4 0 373.9 0 344.2V128C0 92.7 28.7 64 64 64z"></path></svg></div><h2>Share a Thanksgiving</h2><a class="to-top" href="/get-plugged-in/members#for-members">^ Back to top</a></div><div class="section-body"><p>Submit your thanksgiving to <a href="https://bfec.sg/givethanks">bfec.sg/givethanks</a> or whatsapp to <a href="https://wa.me/+6596701800"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="whatsapp" class="svg-inline--fa fa-whatsapp " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" style="margin-left: 4px; margin-right: 4px;"><path fill="currentColor" d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></svg>9670 1800</a></p></div></div><div id="homecalls-bereavements" class="member-section"><div class="row header"><div class="section-icon"><svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="dove" class="svg-inline--fa fa-dove fa-xl " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M273 128.8c-.7 5-1 10.1-1 15.2l0 21.6c-5.2-1.6-10.5-3.4-15.9-5.3c-22.5-30-40.1-66.5-45.7-109.4c-9.9 15.5-21.1 37.2-30.5 65c-9.1-8.3-17.2-17.4-24-27.5C171 50.2 188.8 23.8 201.2 9.3c5.2-6 13.4-7.8 21-5.8c10.9 2.9 18 13.1 18.4 24.4c1.3 38.9 13.9 72.5 32.4 100.8zM64.7 42.2C68.8 35.5 76 32 83.2 32c10.7 0 19.3 7.6 21.5 17.2c12.8 56.5 50.9 94.7 94.7 119.9c36.2 20.8 75.4 32.1 104.7 36.8l0-61.9c0-44.2 35.8-80 80-80h99.7C499.3 64 512 76.7 512 92.3c0 5.6-1.7 11-4.7 15.7L480 148.8V288c0 88.4-71.6 160-160 160H248.6l-78.9 60.7c-2.8 2.2-6.2 3.3-9.8 3.3C77.3 512 21.7 466.2 3.2 441.6c-3-4.1-4-9.3-2.5-14.2s5.1-8.7 9.9-10.5l123-44.3C89.2 341.3 32 282.5 32 184C32 108.2 52 62.6 64.7 42.2zM80.9 81.6C72.5 103 64 136.5 64 184c0 103.8 74 156.5 113.7 178.6c5.5 3.1 8.7 9 8.2 15.3s-4.6 11.6-10.5 13.8l-130.7 47c21.4 18.2 59.2 39.8 110 41.2l78.8-60.6c2.8-2.2 6.2-3.3 9.8-3.3H320c70.7 0 128-57.3 128-128V144c0-3.2 .9-6.2 2.7-8.9L476.8 96H384c-26.5 0-48 21.5-48 48l0 80c0 4.5-1.9 8.7-5.2 11.8s-7.7 4.5-12.2 4.2c-33.6-2.8-86.6-15.1-135.3-43c-42.5-24.4-82.7-61.4-102.5-115.3zM360 160a24 24 0 1 1 48 0 24 24 0 1 1 -48 0z"></path></svg></div><h2>Homecalls &amp; Bereavements</h2><a class="to-top" href="/get-plugged-in/members#for-members">^ Back to top</a></div><div class="section-body"><p>The church would like to come alongside you during this time of bereavement.</p><ul><li>Inform your CGL and</li><li>Drop us a call at <a href="obfuscated" style="unicode-bidi: bidi-override; direction: rtl;">0081 8446 56+</a></li></ul></div></div></div></div></main><footer><section class="footer-top"><aside id="contact-info"><h2>Contact Info</h2><div id="contact-info-content"><div class="footer-address"><h3>Address</h3><p>4 La Salle Street Singapore (456930)</p></div><div class="footer-phone"><h3>Phone Number</h3><p><a href="obfuscated" style="unicode-bidi: bidi-override; direction: rtl;">0081 8446 56+</a></p></div><div class="footer-email"><h3>Email Address</h3><p><a href="obfuscated" style="unicode-bidi: bidi-override; direction: rtl;">gs.gro.cefb@cefb</a></p></div><div class="footer-social-media-btns"><a href="https://www.facebook.com/bfecsg/"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook" class="svg-inline--fa fa-facebook " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256C0 376 82.7 476.8 194.2 504.5V334.2H141.4V256h52.8V222.3c0-87.1 39.4-127.5 125-127.5c16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1c-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287V510.1C413.8 494.8 512 386.9 512 256h0z"></path></svg></a><a href="https://www.instagram.com/bfecsg/"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" class="svg-inline--fa fa-instagram " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></a><a href="https://www.youtube.com/channel/UCLHNZTe5qfFFN3u7EcqgxaQ"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube" class="svg-inline--fa fa-youtube " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg></a></div></div></aside></section><section id="privacy-notice"><p>© 2024 All Rights Reserved. Bethesda Frankel Estate Church.</p><p>By providing your personal data to Bethesda Frankel Estate Church in our worship services, activities or events organized by BFEC and her ministries, you consent to BFEC’s collection, use and disclosure of your personal data (and/or the personal data of any person on whose behalf you are validly acting for or authorised to provide consent) for our church activities, programs planning and administration purposes in accordance with our Personal Data Protection Policy.</p><p>Click <span><a href="https://uploads.bfec.org.sg/BFEC%20PDPP.pdf" target="_blank" rel="noreferrer">here</a></span> to access our Personal Data Protection Policy. If you wish to withdraw or limit your consent, please write to our Data Protection Officer at the address below:</p><p>Data Protection Officer (email: <a href="obfuscated" style="unicode-bidi: bidi-override; direction: rtl;">gs.gro.cefb@cefb</a>; tel: <a href="obfuscated" style="unicode-bidi: bidi-override; direction: rtl;">0081 8446 56+</a>)</p></section></footer></div></div><script type="text/javascript" async="" src="https://api.reftagger.com/v2/RefTagger.js"></script></body></html>

@@ -497,7 +497,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <section class="container"><div class="row">
 <div class="spb_gallery_widget spb_content_element col-sm-12">
 <div class="spb_wrapper gallery-wrap">
-<div class="flexslider gallery-slider" data-transition="slide" data-autoplay="yes"><div class="flex-viewport" style="overflow: hidden; position: relative; height: 405px;"><ul class="slides" style="width: 2400%; transition-duration: 0.6s; transform: translate3d(-1440px, 0px, 0px);"><li class="clone" aria-hidden="true" style="width: 720px; float: left; display: block;"><a href="https://mulberrylearning.com/wp-content/uploads/2020/12/IMG_5796-edit.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-19826]"><picture>
+<div class="flexslider gallery-slider" data-transition="slide" data-autoplay="yes"><div class="flex-viewport" style="overflow: hidden; position: relative; height: 405px;"><ul class="slides" style="width: 2400%; transition-duration: 0s; transform: translate3d(-720px, 0px, 0px);"><li class="clone" aria-hidden="true" style="width: 720px; float: left; display: block;"><a href="https://mulberrylearning.com/wp-content/uploads/2020/12/IMG_5796-edit.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-19826]"><picture>
 <source type="image/webp" data-lazy-srcset="https://mulberrylearning.com/wp-content/uploads/2020/12/IMG_5796-edit.jpg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20720%20480'%3E%3C/svg%3E">
 <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20720%20480'%3E%3C/svg%3E" width="720" height="480" alt="Mulberry Learning @ Braddell Child Care Infant Care" data-lazy-src="https://mulberrylearning.com/wp-content/uploads/2020/12/IMG_5796-edit.jpg" draggable="false">
 </picture>
@@ -506,7 +506,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <img src="https://mulberrylearning.com/wp-content/uploads/2020/12/IMG_5796-edit.jpg" width="720" height="480" alt="Mulberry Learning @ Braddell Child Care Infant Care"/>
 </picture>
 </noscript></a></li>
-<li style="width: 720px; float: left; display: block;" class=""><a href="https://mulberrylearning.com/wp-content/uploads/2020/12/IMG_0542-edit-1280x720.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-19826]"><picture>
+<li style="width: 720px; float: left; display: block;" class="flex-active-slide"><a href="https://mulberrylearning.com/wp-content/uploads/2020/12/IMG_0542-edit-1280x720.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-19826]"><picture>
 <source type="image/webp" data-lazy-srcset="https://mulberrylearning.com/wp-content/uploads/2020/12/IMG_0542-edit-1280x720.jpg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E">
 <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E" width="1280" height="720" alt="Mulberry Learning @ Braddell Child Care Infant Care" data-lazy-src="https://mulberrylearning.com/wp-content/uploads/2020/12/IMG_0542-edit-1280x720.jpg" draggable="false">
 </picture>
@@ -515,7 +515,7 @@ Contact us on enquiry@mulberrylearning.com</div>
 <img src="https://mulberrylearning.com/wp-content/uploads/2020/12/IMG_0542-edit-1280x720.jpg" width="1280" height="720" alt="Mulberry Learning @ Braddell Child Care Infant Care"/>
 </picture>
 </noscript></a></li>
-<li style="width: 720px; float: left; display: block;" class="flex-active-slide"><a href="https://mulberrylearning.com/wp-content/uploads/2020/12/IMG_0625-edit-1280x720.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-19826]"><picture>
+<li style="width: 720px; float: left; display: block;"><a href="https://mulberrylearning.com/wp-content/uploads/2020/12/IMG_0625-edit-1280x720.jpg" class="ilightbox ilightbox-enabled" data-rel="ilightbox[gallery-19826]"><picture>
 <source type="image/webp" data-lazy-srcset="https://mulberrylearning.com/wp-content/uploads/2020/12/IMG_0625-edit-1280x720.jpg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E">
 <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E" width="1280" height="720" alt="Mulberry Learning @ Braddell Child Care Infant Care" data-lazy-src="https://mulberrylearning.com/wp-content/uploads/2020/12/IMG_0625-edit-1280x720.jpg" draggable="false">
 </picture>
@@ -980,8 +980,8 @@ Contact us on enquiry@mulberrylearning.com</div>
 <section class="container"><div class="row">
 <div class="spb_testimonial_slider_widget spb_content_element col-sm-12 testimonial">
 <div class="spb_wrapper slider-wrap">
-<div class="flexslider testimonials-slider content-slider" data-animation="fade" data-autoplay="yes" style="height: 177.781px;"><ul class="slides"><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Parents of Verity, Mulberry Learning @ Braddell</span></h3>
-<em>“Heartfelt thanks to Teacher Karmela, Lee Laoshi, Shen Tong Laoshi and Teacher Ong for all the affection, care and encouragement you have showered with our precious Verity. Those activities, words and life skills that you taught in the class are doing magically to her vocabulary and daily life. She comes back everyday telling me about all the interesting things she has done in school. I greatly appreciate your hard work, endurance and patience. Thank you for everything that you do. ”</em></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Parents of Kayla, Mulberry Learning @ Braddell</span></h3>
+<div class="flexslider testimonials-slider content-slider" data-animation="fade" data-autoplay="yes" style="height: 272.781px;"><ul class="slides"><li class="testimonial flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Parents of Verity, Mulberry Learning @ Braddell</span></h3>
+<em>“Heartfelt thanks to Teacher Karmela, Lee Laoshi, Shen Tong Laoshi and Teacher Ong for all the affection, care and encouragement you have showered with our precious Verity. Those activities, words and life skills that you taught in the class are doing magically to her vocabulary and daily life. She comes back everyday telling me about all the interesting things she has done in school. I greatly appreciate your hard work, endurance and patience. Thank you for everything that you do. ”</em></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Parents of Kayla, Mulberry Learning @ Braddell</span></h3>
 <em>“Thank you for all the heart work and dedication you put into teaching, caring and being patient with Kayla. We know she surely has an enjoyable time in school because she always says she likes her teachers and friends so much!”</em></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Parents of Skyler, Mulberry Learning @ Braddell</span></h3>
 <em>“To all the lovely and caring teachers and non-teaching staff at Braddell infant care, thank you for your cheerful persona and lively interactions with the babies! We could tell that Skyler looks forward to school and is always happy and curious at drop off.”</em></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Parents of Iryan, Mulberry Learning @ Braddell</span></h3>
 <em>“We are glad that we chose Mulberry Braddell to be the school for our little boy. It has been a difficult journey as our boy didn’t enjoy his previous schools where he was always reluctant or sad to go school, when it comes to Mulberry everything changed! Thanks for all the funny head rubbing that Iryan enjoyed, thanks for all the sleep tapping on his first days, thanks for feeding him when he needs to, thanks for always saying “ good morning Iryan” at the door when I send him over with such a cheerful mood and welcoming attitude. Thanks for all the good meals and cute toilet area, awesome playground!”</em></div><div class="testimonial-cite"><cite></cite></div></li><li class="testimonial" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><div class="testimonial-text text-normal"><h3><span style="color: #e92d8d;">Parents of Kangrui, Mulberry Learning @ Braddell</span></h3>
@@ -1353,7 +1353,7 @@ Distance: 97 Metres</p>
 <span class="wpcf7-form-control-wrap" data-name="child-given-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="child-given-name"></span>
 </p>
 <p>Date of Birth <span class="req">*</span><br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth" id="dp1711777425687"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth" id="dp1711885179965"></span>
 </p>
 <p><a id="mul-second-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1362,7 +1362,7 @@ Distance: 97 Metres</p>
 <span class="wpcf7-form-control-wrap" data-name="child-2-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-2-given-name"></span>
 </p>
 <p>Second Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth2"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth2" id="dp1711777425688"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth2"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth2" id="dp1711885179966"></span>
 </p>
 <p><a id="mul-third-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1372,7 +1372,7 @@ Distance: 97 Metres</p>
 <span class="wpcf7-form-control-wrap" data-name="child-3-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-3-given-name"></span>
 </p>
 <p>Third Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth3"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth3" id="dp1711777425689"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth3"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth3" id="dp1711885179967"></span>
 </p>
 <p><a id="mul-fourth-child-link" class="mul-add-child-link" href="javascript:void(0)">+ Add another Child</a>
 </p>
@@ -1382,7 +1382,7 @@ Distance: 97 Metres</p>
 <span class="wpcf7-form-control-wrap" data-name="child-4-given-name"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="child-4-given-name"></span>
 </p>
 <p>Fourth Child's Date of Birth<br>
-<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth4"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth4" id="dp1711777425690"></span>
+<span class="wpcf7-form-control-wrap" data-name="child-date-of-birth4"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required datepicker-dob hasDatepicker" aria-required="true" aria-invalid="false" value="" type="text" name="child-date-of-birth4" id="dp1711885179968"></span>
 </p>
 </div>
 <div style="clear: both;">
@@ -1649,7 +1649,7 @@ if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_c
                         
                 <span class="welcome-message">Hi there! How can I help you? :)</span>
             
-                        <span class="time">13:43</span>
+                        <span class="time">19:39</span>
                     </div>
                 </div>
                 <div class="csaas-whatsapp-footer" dir="ltr">

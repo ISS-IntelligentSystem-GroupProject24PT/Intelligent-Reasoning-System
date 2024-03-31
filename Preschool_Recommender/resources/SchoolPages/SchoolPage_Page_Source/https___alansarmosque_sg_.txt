@@ -207,9 +207,9 @@ var HTTP_GET_VARS = [];
 				
 				
 				
-					<div class="et_pb_module et_pb_fullwidth_slider_0 et_hover_enabled et_pb_slider et_slider_auto et_slider_speed_7000 et_pb_bg_layout_dark has-box-shadow-overlay" data-active-slide="et_pb_slide_0"><div class="box-shadow-overlay"></div>
+					<div class="et_pb_module et_pb_fullwidth_slider_0 et_hover_enabled et_pb_slider et_slider_auto et_slider_speed_7000 has-box-shadow-overlay et_slide_transition_to_next et_pb_bg_layout_dark" data-active-slide="et_pb_slide_1"><div class="box-shadow-overlay"></div>
 				<div class="et_pb_slides">
-					<div class="et_pb_slide et_pb_slide_0 et_pb_bg_layout_dark et_pb_media_alignment_center et-pb-active-slide" data-slide-id="et_pb_slide_0">
+					<div class="et_pb_slide et_pb_slide_0 et_pb_bg_layout_dark et_pb_media_alignment_center et-pb-moved-slide" data-slide-id="et_pb_slide_0" style="z-index: 2; display: none; opacity: 0;">
 				
 				
 				<div class="et_pb_container clearfix" style="height: 443.844px;">
@@ -223,7 +223,7 @@ var HTTP_GET_VARS = [];
 				</div> <!-- .et_pb_container -->
 				
 			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_1 et_pb_bg_layout_dark et_pb_media_alignment_center" data-slide-id="et_pb_slide_1">
+			<div class="et_pb_slide et_pb_slide_1 et_pb_bg_layout_dark et_pb_media_alignment_center et-pb-active-slide" data-slide-id="et_pb_slide_1" style="z-index: 1; display: block; opacity: 1;">
 				
 				
 				<div class="et_pb_container clearfix" style="height: 443.844px;">
@@ -237,7 +237,7 @@ var HTTP_GET_VARS = [];
 				</div> <!-- .et_pb_container -->
 				
 			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_slide et_pb_slide_2 et_pb_bg_layout_dark et_pb_media_alignment_center" data-slide-id="et_pb_slide_2">
+			<div class="et_pb_slide et_pb_slide_2 et_pb_bg_layout_dark et_pb_media_alignment_center" data-slide-id="et_pb_slide_2" style="z-index: 1;">
 				
 				
 				<div class="et_pb_container clearfix" style="height: 443.844px;">
@@ -254,7 +254,7 @@ var HTTP_GET_VARS = [];
 			
 				</div> <!-- .et_pb_slides -->
 				
-			<div class="et-pb-slider-arrows"><a class="et-pb-arrow-prev" href="#"><span>Previous</span></a><a class="et-pb-arrow-next" href="#"><span>Next</span></a></div><div class="et-pb-controllers"><a href="#" class="et-pb-active-control">1</a><a href="#">2</a><a href="#">3</a></div></div> <!-- .et_pb_slider -->
+			<div class="et-pb-slider-arrows"><a class="et-pb-arrow-prev" href="#"><span>Previous</span></a><a class="et-pb-arrow-next" href="#"><span>Next</span></a></div><div class="et-pb-controllers"><a href="#" class="">1</a><a href="#" class="et-pb-active-control">2</a><a href="#">3</a></div></div> <!-- .et_pb_slider -->
 			
 				
 				

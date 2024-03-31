@@ -1,0 +1,379 @@
+<html class="avada-html-layout-wide avada-html-header-position-top ua-windows_nt ua-windows_nt-10 ua-windows_nt-10-0 ua-headlesschrome ua-headlesschrome-123 ua-headlesschrome-123-0 ua-headlesschrome-123-0-6312 ua-headlesschrome-123-0-6312-86 ua-safari ua-safari-537 ua-safari-537-36 ua-desktop ua-desktop-windows ua-webkit ua-webkit-537 ua-webkit-537-36 js touchevents no-applicationcache audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a canvas canvastext hashchange geolocation history inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color postmessage postmessage-structuredclones video no-video-ogg video-h264 no-video-h265 video-webm video-vp9 no-video-hls no-video-av1 webgl websockets cssanimations backgroundsize borderimage borderradius boxshadow flexbox fontface generatedcontent cssgradients hsla multiplebgs opacity cssreflections rgba textshadow csstransforms supports csstransforms3d csstransitions localstorage sessionstorage websqldatabase svgclippaths inlinesvg smil webworkers" lang="en-GB" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" data-useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/123.0.6312.86 Safari/537.36"><head><meta http-equiv="origin-trial" content="Az520Inasey3TAyqLyojQa8MnmCALSEU29yQFW8dePZ7xQTvSt73pHazLFTK5f7SyLUJSo2uKLesEtEa9aUYcgMAAACPeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZyIsImV4cGlyeSI6MTcyNTQwNzk5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=">
+	<link rel="preload" href="https://elfapreschools.com/china/wp-content/cache/fvm/min/1673592118-css5e734f952a54ed41076c2bc8d8f96834eba04bfc0c45f95798ff5f8d98a1f.css" as="style" media="all">
+<link rel="preload" href="https://elfapreschools.com/china/wp-content/cache/fvm/min/1673592118-css48351f3786cabc0c3166fa39cc8d1e44bc228e95e3c3ae567d36e003cb9c1.css" as="style" media="all">
+<link rel="preload" href="https://elfapreschools.com/china/wp-content/cache/fvm/min/1673592118-css4c8879543c49cff4a86239cf842907635ba549d86236f5133182373ce1209.css" as="style" media="all">
+<link rel="preload" href="https://elfapreschools.com/china/wp-content/cache/fvm/min/1673592118-css30afc04d1d9203fd7a57f4f445f175e09881dfb9906d584174d58c84a5341.css" as="style" media="all">
+<link rel="preload" href="https://elfapreschools.com/china/wp-content/cache/fvm/min/1673592118-cssee600efef65ffe2a5e3c483664bc8dfe9948e0afd9d386845374495b8296c.css" as="style" media="all">
+<link rel="preload" href="https://elfapreschools.com/china/wp-content/cache/fvm/min/1673592118-css67e04123feacb58de721dc03c0730d84e6d0b2cdf4eef016be13f3be0a689.css" as="style" media="all"><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-CTYQ2D98X4&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/moV1mTgQ6S91nuTnmll4Y9yf/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-wEVSdqKc5hf9vkWC9kAmVRAEa11o8QNGecO6p5G2xGj+RmQhgDqFDCRdpfSr1VUf"></script><script data-cfasync="false">if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]iebrowser/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?iebrowser=1"}else{document.location.href=href.replace("#","?iebrowser=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&iebrowser=1"}else{document.location.href=href.replace("#","&iebrowser=1#")}}}}</script>
+<script data-cfasync="false">class FVMLoader{constructor(e){this.triggerEvents=e,this.eventOptions={passive:!0},this.userEventListener=this.triggerListener.bind(this),this.delayedScripts={normal:[],async:[],defer:[]},this.allJQueries=[]}_addUserInteractionListener(e){this.triggerEvents.forEach(t=>window.addEventListener(t,e.userEventListener,e.eventOptions))}_removeUserInteractionListener(e){this.triggerEvents.forEach(t=>window.removeEventListener(t,e.userEventListener,e.eventOptions))}triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}async _loadEverythingNow(){this._runAllDelayedCSS(),this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async),await this._triggerDOMContentLoaded(),await this._triggerWindowLoad(),window.dispatchEvent(new Event("wpr-allScriptsLoaded"))}_registerAllDelayedScripts(){document.querySelectorAll("script[type=fvmdelay]").forEach(e=>{e.hasAttribute("src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)})}_runAllDelayedCSS(){document.querySelectorAll("link[rel=fvmdelay]").forEach(e=>{e.setAttribute("rel","stylesheet")})}async _transformScript(e){return await this._requestAnimFrame(),new Promise(t=>{const n=document.createElement("script");let r;[...e.attributes].forEach(e=>{let t=e.nodeName;"type"!==t&&("data-type"===t&&(t="type",r=e.nodeValue),n.setAttribute(t,e.nodeValue))}),e.hasAttribute("src")?(n.addEventListener("load",t),n.addEventListener("error",t)):(n.text=e.text,t()),e.parentNode.replaceChild(n,e)})}async _loadScriptsFromList(e){const t=e.shift();return t?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_delayEventListeners(){let e={};function t(t,n){!function(t){function n(n){return e[t].eventsToRewrite.indexOf(n)>=0?"wpr-"+n:n}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(n)}function n(e,t){let n=e[t];Object.defineProperty(e,t,{get:()=>n||function(){},set(r){e["wpr"+t]=n=r}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>t,set(n){if(n&&n.fn&&!e.allJQueries.includes(n)){n.fn.ready=n.fn.init.prototype.ready=function(t){e.domReadyFired?t.bind(document)(n):document.addEventListener("DOMContentLoaded2",()=>t.bind(document)(n))};const t=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e.split(" ").map(e=>"load"===e||0===e.indexOf("load.")?"wpr-jquery-load":e).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(t=>{delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]})}return t.apply(this,arguments),this},e.allJQueries.push(n)}t=n}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._requestAnimFrame(),document.dispatchEvent(new Event("DOMContentLoaded2")),await this._requestAnimFrame(),window.dispatchEvent(new Event("DOMContentLoaded2")),await this._requestAnimFrame(),document.dispatchEvent(new Event("wpr-readystatechange")),await this._requestAnimFrame(),document.wpronreadystatechange&&document.wpronreadystatechange()}async _triggerWindowLoad(){await this._requestAnimFrame(),window.dispatchEvent(new Event("wpr-load")),await this._requestAnimFrame(),window.wpronload&&window.wpronload(),await this._requestAnimFrame(),this.allJQueries.forEach(e=>e(window).trigger("wpr-jquery-load")),window.dispatchEvent(new Event("wpr-pageshow")),await this._requestAnimFrame(),window.wpronpageshow&&window.wpronpageshow()}_handleDocumentWrite(){const e=new Map;document.write=document.writeln=function(t){const n=document.currentScript,r=document.createRange(),i=n.parentElement;let a=e.get(n);void 0===a&&(a=n.nextSibling,e.set(n,a));const s=document.createDocumentFragment();r.setStart(s,0),s.appendChild(r.createContextualFragment(t)),i.insertBefore(s,a)}}async _requestAnimFrame(){return new Promise(e=>requestAnimationFrame(e))}static run(){const e=new FVMLoader(["keydown","mousemove","touchmove","touchstart","touchend","wheel"]);e._addUserInteractionListener(e)}}FVMLoader.run();</script><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><link rel="alternate" href="https://elfapreschools.com/china/curriculum/early-childhood-curriculum/" hreflang="en"><link rel="alternate" href="https://elfapreschools.com/china/zh/%e7%88%b1%e5%84%bf%e5%9d%8a%e8%af%be%e7%a8%8b/%e6%97%a9%e6%95%99%e8%af%be%e7%a8%8b/" hreflang="zh"><title>Early Childhood Curriculum | ELFA Chinese Preschool China</title><link rel="canonical" href="https://elfapreschools.com/china/curriculum/early-childhood-curriculum/"><meta property="og:locale" content="en_GB"><meta property="og:locale:alternate" content="zh_CN"><meta property="og:type" content="article"><meta property="og:title" content="Early Childhood Curriculum | ELFA Chinese Preschool China"><meta property="og:url" content="https://elfapreschools.com/china/curriculum/early-childhood-curriculum/"><meta property="og:site_name" content="ELFA Chinese Preschool China"><meta property="article:modified_time" content="2018-08-28T04:12:09+00:00"><meta property="og:image" content="https://elfapreschools.com/china/wp-content/uploads/2018/08/ELFA_Preschool_Programme_.jpg"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:label1" content="Estimated reading time"><meta name="twitter:data1" content="4 minutes"><script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://elfapreschools.com/china/curriculum/early-childhood-curriculum/","url":"https://elfapreschools.com/china/curriculum/early-childhood-curriculum/","name":"Early Childhood Curriculum | ELFA Chinese Preschool China","isPartOf":{"@id":"https://elfapreschools.com/china/#website"},"primaryImageOfPage":{"@id":"https://elfapreschools.com/china/curriculum/early-childhood-curriculum/#primaryimage"},"image":{"@id":"https://elfapreschools.com/china/curriculum/early-childhood-curriculum/#primaryimage"},"thumbnailUrl":"https://elfapreschools.com/china/wp-content/uploads/2018/08/ELFA_Preschool_Programme_.jpg","datePublished":"2018-08-28T03:28:10+00:00","dateModified":"2018-08-28T04:12:09+00:00","breadcrumb":{"@id":"https://elfapreschools.com/china/curriculum/early-childhood-curriculum/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://elfapreschools.com/china/curriculum/early-childhood-curriculum/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://elfapreschools.com/china/curriculum/early-childhood-curriculum/#primaryimage","url":"https://elfapreschools.com/china/wp-content/uploads/2018/08/ELFA_Preschool_Programme_.jpg","contentUrl":"https://elfapreschools.com/china/wp-content/uploads/2018/08/ELFA_Preschool_Programme_.jpg","width":390,"height":260},{"@type":"BreadcrumbList","@id":"https://elfapreschools.com/china/curriculum/early-childhood-curriculum/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://elfapreschools.com/china/"},{"@type":"ListItem","position":2,"name":"Curriculum","item":"https://elfapreschools.com/china/curriculum/"},{"@type":"ListItem","position":3,"name":"Early Childhood Curriculum"}]},{"@type":"WebSite","@id":"https://elfapreschools.com/china/#website","url":"https://elfapreschools.com/china/","name":"ELFA Chinese Preschool China","description":"No one offers a stronger foundation in Mandarin","publisher":{"@id":"https://elfapreschools.com/china/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://elfapreschools.com/china/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"Organization","@id":"https://elfapreschools.com/china/#organization","name":"ELFA Chinese Preschool China","url":"https://elfapreschools.com/china/","logo":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://elfapreschools.com/china/#/schema/logo/image/","url":"https://elfapreschools.com/china/wp-content/uploads/2018/08/logo.png","contentUrl":"https://elfapreschools.com/china/wp-content/uploads/2018/08/logo.png","width":240,"height":69,"caption":"ELFA Chinese Preschool China"},"image":{"@id":"https://elfapreschools.com/china/#/schema/logo/image/"}}]}</script><link rel="alternate" type="application/rss+xml" title="ELFA Chinese Preschool China » Feed" href="https://elfapreschools.com/china/feed/"><link rel="alternate" type="application/rss+xml" title="ELFA Chinese Preschool China » Comments Feed" href="https://elfapreschools.com/china/comments/feed/"><meta property="og:title" content="Early Childhood Curriculum"><meta property="og:type" content="article"><meta property="og:url" content="https://elfapreschools.com/china/curriculum/early-childhood-curriculum/"><meta property="og:site_name" content="ELFA Chinese Preschool China"><meta property="og:description" content="ELFA offers a full day preschool programme for children aged 18 months to 6+ years old.Apart from a well-rounded and comprehensive preschool curriculum, children also benefit from quality care from our dedicated teachers who help them develop confidence and independence gradually.Our in-house nutritionist further ensures"><meta property="og:image" content="https://elfapreschools.com/china/wp-content/uploads/2022/03/ELFA-Chinese-Preschool-Logos_pathed-202108.svg">
+	
+	
+	
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+					<link rel="shortcut icon" href="https://elfapreschools.com/china/wp-content/uploads/2018/08/flower_li-1.png" type="image/x-icon">
+		
+		
+		
+				
+		
+		
+		
+		
+		
+
+									
+							<link rel="stylesheet" id="jquery-ui-theme-css" href="https://elfapreschools.com/china/wp-content/cache/fvm/min/1673592118-css5e734f952a54ed41076c2bc8d8f96834eba04bfc0c45f95798ff5f8d98a1f.css" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-ui-timepicker-css" href="https://elfapreschools.com/china/wp-content/cache/fvm/min/1673592118-css48351f3786cabc0c3166fa39cc8d1e44bc228e95e3c3ae567d36e003cb9c1.css" type="text/css" media="all">
+<link rel="stylesheet" id="cf7cf-style-css" href="https://elfapreschools.com/china/wp-content/cache/fvm/min/1673592118-css4c8879543c49cff4a86239cf842907635ba549d86236f5133182373ce1209.css" type="text/css" media="all">
+<link rel="stylesheet" id="child-style-css" href="https://elfapreschools.com/china/wp-content/cache/fvm/min/1673592118-css30afc04d1d9203fd7a57f4f445f175e09881dfb9906d584174d58c84a5341.css" type="text/css" media="all">
+<link rel="stylesheet" id="fusion-dynamic-css-css" href="https://elfapreschools.com/china/wp-content/cache/fvm/min/1673592118-cssee600efef65ffe2a5e3c483664bc8dfe9948e0afd9d386845374495b8296c.css" type="text/css" media="all">
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.8" defer="" async="" id="tp-tools-js"></script>
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.8" defer="" async="" id="revmin-js"></script>
+
+
+
+
+
+
+<style type="text/css" id="css-fb-visibility" media="all">@media screen and (max-width:640px){.fusion-no-small-visibility{display:none!important}body .sm-text-align-center{text-align:center!important}body .sm-text-align-left{text-align:left!important}body .sm-text-align-right{text-align:right!important}body .sm-flex-align-center{justify-content:center!important}body .sm-flex-align-flex-start{justify-content:flex-start!important}body .sm-flex-align-flex-end{justify-content:flex-end!important}body .sm-mx-auto{margin-left:auto!important;margin-right:auto!important}body .sm-ml-auto{margin-left:auto!important}body .sm-mr-auto{margin-right:auto!important}body .fusion-absolute-position-small{position:absolute;top:auto;width:100%}.awb-sticky.awb-sticky-small{position:sticky;top:var(--awb-sticky-offset,0)}}@media screen and (min-width:641px) and (max-width:1024px){.fusion-no-medium-visibility{display:none!important}body .md-text-align-center{text-align:center!important}body .md-text-align-left{text-align:left!important}body .md-text-align-right{text-align:right!important}body .md-flex-align-center{justify-content:center!important}body .md-flex-align-flex-start{justify-content:flex-start!important}body .md-flex-align-flex-end{justify-content:flex-end!important}body .md-mx-auto{margin-left:auto!important;margin-right:auto!important}body .md-ml-auto{margin-left:auto!important}body .md-mr-auto{margin-right:auto!important}body .fusion-absolute-position-medium{position:absolute;top:auto;width:100%}.awb-sticky.awb-sticky-medium{position:sticky;top:var(--awb-sticky-offset,0)}}@media screen and (min-width:1025px){.fusion-no-large-visibility{display:none!important}body .lg-text-align-center{text-align:center!important}body .lg-text-align-left{text-align:left!important}body .lg-text-align-right{text-align:right!important}body .lg-flex-align-center{justify-content:center!important}body .lg-flex-align-flex-start{justify-content:flex-start!important}body .lg-flex-align-flex-end{justify-content:flex-end!important}body .lg-mx-auto{margin-left:auto!important;margin-right:auto!important}body .lg-ml-auto{margin-left:auto!important}body .lg-mr-auto{margin-right:auto!important}body .fusion-absolute-position-large{position:absolute;top:auto;width:100%}.awb-sticky.awb-sticky-large{position:sticky;top:var(--awb-sticky-offset,0)}}</style><style type="text/css" media="all">.broken_link,a.broken_link{text-decoration:line-through}</style>
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+		<script type="text/javascript">
+			var doc = document.documentElement;
+			doc.setAttribute( 'data-useragent', navigator.userAgent );
+		</script>
+		
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-90580887-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-90580887-1');
+</script>
+	<script src="https://www.google.com/recaptcha/api.js"></script><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+
+<body class="page-template-default page page-id-27 page-child parent-pageid-23 has-sidebar fusion-image-hovers fusion-pagination-sizing fusion-button_type-flat fusion-button_span-no fusion-button_gradient-linear avada-image-rollover-circle-yes avada-image-rollover-yes avada-image-rollover-direction-left fusion-body ltr no-tablet-sticky-header no-mobile-sticky-header no-mobile-slidingbar no-mobile-totop avada-has-rev-slider-styles fusion-disable-outline fusion-sub-menu-fade mobile-logo-pos-left layout-wide-mode avada-has-boxed-modal-shadow-none layout-scroll-offset-full avada-has-zero-margin-offset-top fusion-top-header menu-text-align-center mobile-menu-design-modern fusion-show-pagination-text fusion-header-layout-v4 avada-responsive avada-footer-fx-none avada-menu-highlight-style-bar fusion-search-form-classic fusion-main-menu-search-overlay fusion-avatar-square avada-sticky-shrinkage avada-dropdown-styles avada-blog-layout-medium alternate avada-blog-archive-layout-medium alternate avada-header-shadow-no avada-menu-icon-position-left avada-has-megamenu-shadow avada-has-mainmenu-dropdown-divider avada-has-main-nav-search-icon avada-has-breadcrumb-mobile-hidden avada-has-titlebar-bar_and_content avada-has-pagination-padding avada-flyout-menu-direction-fade avada-ec-views-v1 do-animate" data-awb-post-id="27" style="--viewportWidth: 800;">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<div id="boxed-wrapper">
+				
+		<div id="wrapper" class="fusion-wrapper">
+			<div id="home" style="position:relative;top:-1px;"></div>
+							
+					
+			<header class="fusion-header-wrapper">
+				<div class="fusion-header-v4 fusion-logo-alignment fusion-logo-left fusion-sticky-menu- fusion-sticky-logo- fusion-mobile-logo- fusion-sticky-menu-only fusion-header-menu-align-center fusion-mobile-menu-design-modern">
+					<div class="fusion-header-sticky-height"></div>
+<div class="fusion-sticky-header-wrapper"> 
+	<div class="fusion-header">
+		<div class="fusion-row">
+							<div class="fusion-logo" data-margin-top="0px" data-margin-bottom="0px" data-margin-left="0px" data-margin-right="0px">
+			<a class="fusion-logo-link" href="https://elfapreschools.com/china/">
+
+						
+			<img src="https://elfapreschools.com/china/wp-content/uploads/2022/03/ELFA-Chinese-Preschool-Logos_pathed-202108.svg" srcset="https://elfapreschools.com/china/wp-content/uploads/2022/03/ELFA-Chinese-Preschool-Logos_pathed-202108.svg 1x" width="391" height="135" alt="ELFA Chinese Preschool China Logo" data-retina_logo_url="" class="fusion-standard-logo">
+
+			
+					</a>
+		
+<div class="fusion-header-content-3-wrapper">
+	</div>
+</div>
+								<div class="fusion-mobile-menu-icons">
+							<a href="#" class="fusion-icon awb-icon-bars" aria-label="Toggle mobile menu" aria-expanded="false" aria-controls="mobile-menu-main-menu-en"></a>
+		
+		
+		
+			</div>
+			
+					</div>
+	</div>
+	<div class="fusion-secondary-main-menu">
+		<div class="fusion-row">
+			<nav class="fusion-main-menu" aria-label="Main Menu"><div class="fusion-overlay-search">		<form role="search" class="searchform fusion-search-form  fusion-search-form-classic" method="get" action="https://elfapreschools.com/china/">
+			<div class="fusion-search-form-content">
+
+				
+				<div class="fusion-search-field search-field">
+					<label><span class="screen-reader-text">Search for:</span>
+													<input type="search" value="" name="s" class="s" placeholder="Search..." required="" aria-required="true" aria-label="Search...">
+											</label>
+				</div>
+				<div class="fusion-search-button search-button">
+					<input type="submit" class="fusion-search-submit searchsubmit" aria-label="Search" value="">
+									</div>
+
+				
+			</div>
+
+
+			
+		<input type="hidden" name="lang" value="en"></form>
+		<div class="fusion-search-spacer"></div><a href="#" role="button" aria-label="Close Search" class="fusion-close-search"></a></div><ul id="menu-main-menu-en" class="fusion-menu"><li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-34" data-item-id="34"><a href="https://elfapreschools.com/china/" class="fusion-icon-only-link fusion-flex-link fusion-bar-highlight"><span class="fusion-megamenu-icon"><i class="glyphicon fa-home fas" aria-hidden="true"></i></span><span class="menu-text"><span class="menu-title">ELFA China</span></span></a></li><li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33" data-item-id="33"><a href="https://elfapreschools.com/china/about-elfa-china/" class="fusion-bar-highlight"><span class="menu-text">About ELFA China</span></a></li><li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-custom-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-31 fusion-dropdown-menu" data-item-id="31"><a href="https://elfapreschools.com/china/curriculum/" class="fusion-bar-highlight" aria-haspopup="true"><span class="menu-text">Curriculum</span> <span class="fusion-caret"><i class="fusion-dropdown-indicator" aria-hidden="true"></i></span></a><ul class="sub-menu"><li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-custom-parent menu-item-57 fusion-dropdown-submenu"><a href="https://elfapreschools.com/china/curriculum/" class="fusion-bar-highlight"><span>ELFA China Curriculum</span></a></li><li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41 fusion-dropdown-submenu"><a href="https://elfapreschools.com/china/curriculum/special-programme/" class="fusion-bar-highlight"><span>Special Programme</span></a></li><li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-27 current_page_item menu-item-32 fusion-dropdown-submenu"><a href="https://elfapreschools.com/china/curriculum/early-childhood-curriculum/" class="fusion-bar-highlight"><span>Early Childhood Curriculum</span></a></li></ul></li><li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56" data-item-id="56"><a href="https://elfapreschools.com/china/news-events/" class="fusion-bar-highlight"><span class="menu-text">News &amp; Events</span></a></li><li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54" data-item-id="54"><a href="https://elfapreschools.com/china/parents-resources/" class="fusion-bar-highlight"><span class="menu-text">Parent’s Resources</span></a></li><li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53" data-item-id="53"><a href="https://elfapreschools.com/china/our-centres/" class="fusion-bar-highlight"><span class="menu-text">Our Centres</span></a></li><li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55" data-item-id="55"><a href="https://elfapreschools.com/china/contact-us/" class="fusion-bar-highlight"><span class="menu-text">Contact Us</span></a></li><li id="menu-item-85" class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom current-menu-parent menu-item-has-children menu-item-85 fusion-dropdown-menu" data-classes="pll-parent-menu-item" data-item-id="85"><a href="#pll_switcher" class="fusion-bar-highlight" aria-haspopup="true"><span class="menu-text"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAt1BMVEWSmb66z+18msdig8La3u+tYX9IaLc7W7BagbmcUW+kqMr/q6n+//+hsNv/lIr/jIGMnNLJyOP9/fyQttT/wb3/////aWn+YWF5kNT0oqz0i4ueqtIZNJjhvt/8gn//WVr/6+rN1+o9RKZwgcMPJpX/VFT9UEn+RUX8Ozv2Ly+FGzdYZrfU1e/8LS/lQkG/mbVUX60AE231hHtcdMb0mp3qYFTFwNu3w9prcqSURGNDaaIUMX5FNW5wYt7AAAAAjklEQVR4AR3HNUJEMQCGwf+L8RR36ajR+1+CEuvRdd8kK9MNAiRQNgJmVDAt1yM6kSzYVJUsPNssAk5N7ZFKjVNFAY4co6TAOI+kyQm+LFUEBEKKzuWUNB7rSH/rSnvOulOGk+QlXTBqMIrfYX4tSe2nP3iRa/KNK7uTmWJ5a9+erZ3d+18od4ytiZdvZyuKWy8o3UpTVAAAAABJRU5ErkJggg==" alt="English" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">English</span></span> <span class="fusion-caret"><i class="fusion-dropdown-indicator" aria-hidden="true"></i></span></a><ul class="sub-menu"><li id="menu-item-85-en" class="lang-item lang-item-3 lang-item-en current-lang lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-85-en fusion-dropdown-submenu" data-classes="lang-item"><a href="https://elfapreschools.com/china/curriculum/early-childhood-curriculum/" class="fusion-bar-highlight" hreflang="en-GB" lang="en-GB"><span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAt1BMVEWSmb66z+18msdig8La3u+tYX9IaLc7W7BagbmcUW+kqMr/q6n+//+hsNv/lIr/jIGMnNLJyOP9/fyQttT/wb3/////aWn+YWF5kNT0oqz0i4ueqtIZNJjhvt/8gn//WVr/6+rN1+o9RKZwgcMPJpX/VFT9UEn+RUX8Ozv2Ly+FGzdYZrfU1e/8LS/lQkG/mbVUX60AE231hHtcdMb0mp3qYFTFwNu3w9prcqSURGNDaaIUMX5FNW5wYt7AAAAAjklEQVR4AR3HNUJEMQCGwf+L8RR36ajR+1+CEuvRdd8kK9MNAiRQNgJmVDAt1yM6kSzYVJUsPNssAk5N7ZFKjVNFAY4co6TAOI+kyQm+LFUEBEKKzuWUNB7rSH/rSnvOulOGk+QlXTBqMIrfYX4tSe2nP3iRa/KNK7uTmWJ5a9+erZ3d+18od4ytiZdvZyuKWy8o3UpTVAAAAABJRU5ErkJggg==" alt="English" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">English</span></span></a></li><li id="menu-item-85-zh" class="lang-item lang-item-6 lang-item-zh menu-item menu-item-type-custom menu-item-object-custom menu-item-85-zh fusion-dropdown-submenu" data-classes="lang-item"><a href="https://elfapreschools.com/china/zh/%e7%88%b1%e5%84%bf%e5%9d%8a%e8%af%be%e7%a8%8b/%e6%97%a9%e6%95%99%e8%af%be%e7%a8%8b/" class="fusion-bar-highlight" hreflang="zh-CN" lang="zh-CN"><span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAXVBMVEXUAADlQgDLAADBAADtgXn63Xjypnf1wHHpcG/oZmbmXVzlU1PjS0q1AAD981775VvwnVD2zkvhPz/fNzfdMjHcKyvaJyfsi0baISHYGhqqAADWExPTDQ2jAACfAAApGpDBAAAAWklEQVR4ATXIhQHDQBTDUMll2n/RMiU5/vQsAE4EsPbaKVOU+pXNwc/WKQXeDZMKu+psCXw/Z7efarmENd6GIwGpXhUvM4spxoiEbouRNT7Fmtaq+RG4wAqZZvceD8DeIelqAAAAAElFTkSuQmCC" alt="中文 (中国)" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">中文 (中国)</span></span></a></li></ul></li><li class="fusion-custom-menu-item fusion-main-menu-search fusion-search-overlay"><a class="fusion-main-menu-icon fusion-bar-highlight" href="#" aria-label="Search" data-title="Search" title="Search" role="button" aria-expanded="false"></a></li></ul></nav>
+<nav class="fusion-mobile-nav-holder fusion-mobile-menu-text-align-left" aria-label="Main Menu Mobile"><ul id="mobile-menu-main-menu-en" class="fusion-menu"><li id="mobile-menu-item-34" class="fusion-mobile-nav-item" data-item-id="34" style=""><a href="https://elfapreschools.com/china/" class="fusion-icon-only-link fusion-flex-link fusion-bar-highlight"><span class="fusion-megamenu-icon"><i class="glyphicon fa-home fas" aria-hidden="true"></i></span><span class="menu-text"><span class="menu-title">ELFA China</span></span></a></li><li id="mobile-menu-item-33" class="fusion-mobile-nav-item" data-item-id="33" style=""><a href="https://elfapreschools.com/china/about-elfa-china/" class="fusion-bar-highlight"><span class="menu-text">About ELFA China</span></a></li><li id="mobile-menu-item-31" class="fusion-mobile-nav-item fusion-mobile-current-nav-item menu-item-has-children" data-item-id="31" style=""><a href="https://elfapreschools.com/china/curriculum/" class="fusion-bar-highlight"><span class="menu-text">Curriculum</span> </a><button href="#" aria-label="Open submenu of Curriculum" aria-expanded="false" class="fusion-open-submenu"></button><ul class="sub-menu" style="display: none;"><li id="mobile-menu-item-57" class="fusion-mobile-nav-item" style=""><a href="https://elfapreschools.com/china/curriculum/" class="fusion-bar-highlight"><span>ELFA China Curriculum</span></a></li><li id="mobile-menu-item-41" class="fusion-mobile-nav-item" style=""><a href="https://elfapreschools.com/china/curriculum/special-programme/" class="fusion-bar-highlight"><span>Special Programme</span></a></li><li id="mobile-menu-item-32" class="fusion-mobile-nav-item fusion-mobile-current-nav-item" style=""><a href="https://elfapreschools.com/china/curriculum/early-childhood-curriculum/" class="fusion-bar-highlight"><span>Early Childhood Curriculum</span></a></li></ul></li><li id="mobile-menu-item-56" class="fusion-mobile-nav-item" data-item-id="56" style=""><a href="https://elfapreschools.com/china/news-events/" class="fusion-bar-highlight"><span class="menu-text">News &amp; Events</span></a></li><li id="mobile-menu-item-54" class="fusion-mobile-nav-item" data-item-id="54" style=""><a href="https://elfapreschools.com/china/parents-resources/" class="fusion-bar-highlight"><span class="menu-text">Parent’s Resources</span></a></li><li id="mobile-menu-item-53" class="fusion-mobile-nav-item" data-item-id="53" style=""><a href="https://elfapreschools.com/china/our-centres/" class="fusion-bar-highlight"><span class="menu-text">Our Centres</span></a></li><li id="mobile-menu-item-55" class="fusion-mobile-nav-item" data-item-id="55" style=""><a href="https://elfapreschools.com/china/contact-us/" class="fusion-bar-highlight"><span class="menu-text">Contact Us</span></a></li><li id="mobile-menu-item-85" class="fusion-mobile-nav-item pll-parent-menu-item fusion-mobile-current-nav-item menu-item-has-children" data-classes="pll-parent-menu-item" data-item-id="85" style=""><a href="#pll_switcher" class="fusion-bar-highlight"><span class="menu-text"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAt1BMVEWSmb66z+18msdig8La3u+tYX9IaLc7W7BagbmcUW+kqMr/q6n+//+hsNv/lIr/jIGMnNLJyOP9/fyQttT/wb3/////aWn+YWF5kNT0oqz0i4ueqtIZNJjhvt/8gn//WVr/6+rN1+o9RKZwgcMPJpX/VFT9UEn+RUX8Ozv2Ly+FGzdYZrfU1e/8LS/lQkG/mbVUX60AE231hHtcdMb0mp3qYFTFwNu3w9prcqSURGNDaaIUMX5FNW5wYt7AAAAAjklEQVR4AR3HNUJEMQCGwf+L8RR36ajR+1+CEuvRdd8kK9MNAiRQNgJmVDAt1yM6kSzYVJUsPNssAk5N7ZFKjVNFAY4co6TAOI+kyQm+LFUEBEKKzuWUNB7rSH/rSnvOulOGk+QlXTBqMIrfYX4tSe2nP3iRa/KNK7uTmWJ5a9+erZ3d+18od4ytiZdvZyuKWy8o3UpTVAAAAABJRU5ErkJggg==" alt="English" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">English</span></span> </a><button href="#" aria-label="Open submenu of " aria-expanded="false" class="fusion-open-submenu"></button><ul class="sub-menu" style="display: none;"><li id="mobile-menu-item-85-en" class="fusion-mobile-nav-item lang-item" data-classes="lang-item" style=""><a href="https://elfapreschools.com/china/curriculum/early-childhood-curriculum/" class="fusion-bar-highlight" hreflang="en-GB" lang="en-GB"><span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAt1BMVEWSmb66z+18msdig8La3u+tYX9IaLc7W7BagbmcUW+kqMr/q6n+//+hsNv/lIr/jIGMnNLJyOP9/fyQttT/wb3/////aWn+YWF5kNT0oqz0i4ueqtIZNJjhvt/8gn//WVr/6+rN1+o9RKZwgcMPJpX/VFT9UEn+RUX8Ozv2Ly+FGzdYZrfU1e/8LS/lQkG/mbVUX60AE231hHtcdMb0mp3qYFTFwNu3w9prcqSURGNDaaIUMX5FNW5wYt7AAAAAjklEQVR4AR3HNUJEMQCGwf+L8RR36ajR+1+CEuvRdd8kK9MNAiRQNgJmVDAt1yM6kSzYVJUsPNssAk5N7ZFKjVNFAY4co6TAOI+kyQm+LFUEBEKKzuWUNB7rSH/rSnvOulOGk+QlXTBqMIrfYX4tSe2nP3iRa/KNK7uTmWJ5a9+erZ3d+18od4ytiZdvZyuKWy8o3UpTVAAAAABJRU5ErkJggg==" alt="English" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">English</span></span></a></li><li id="mobile-menu-item-85-zh" class="fusion-mobile-nav-item lang-item" data-classes="lang-item" style=""><a href="https://elfapreschools.com/china/zh/%e7%88%b1%e5%84%bf%e5%9d%8a%e8%af%be%e7%a8%8b/%e6%97%a9%e6%95%99%e8%af%be%e7%a8%8b/" class="fusion-bar-highlight" hreflang="zh-CN" lang="zh-CN"><span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAXVBMVEXUAADlQgDLAADBAADtgXn63Xjypnf1wHHpcG/oZmbmXVzlU1PjS0q1AAD981775VvwnVD2zkvhPz/fNzfdMjHcKyvaJyfsi0baISHYGhqqAADWExPTDQ2jAACfAAApGpDBAAAAWklEQVR4ATXIhQHDQBTDUMll2n/RMiU5/vQsAE4EsPbaKVOU+pXNwc/WKQXeDZMKu+psCXw/Z7efarmENd6GIwGpXhUvM4spxoiEbouRNT7Fmtaq+RG4wAqZZvceD8DeIelqAAAAAElFTkSuQmCC" alt="中文 (中国)" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">中文 (中国)</span></span></a></li></ul></li></ul></nav>
+
+					</div>
+	</div>
+</div> 
+				</div>
+				<div class="fusion-clearfix"></div>
+			</header>
+								
+							<div id="sliders-container" class="fusion-slider-visibility">
+					</div>
+				
+					
+							
+			<section class="avada-page-titlebar-wrapper" aria-label="Page Title Bar">
+	<div class="fusion-page-title-bar fusion-page-title-bar-none fusion-page-title-bar-left">
+		<div class="fusion-page-title-row">
+			<div class="fusion-page-title-wrapper">
+				<div class="fusion-page-title-captions">
+
+																							<h1 class="entry-title">Early Childhood Curriculum</h1>
+
+											
+					
+				</div>
+
+															<div class="fusion-page-title-secondary">
+							<div class="fusion-breadcrumbs awb-yoast-breadcrumbs"><span class="fusion-breadcrumb-item"><a href="https://elfapreschools.com/china" class="fusion-breadcrumb-link"><span>Home</span></a></span><span class="fusion-breadcrumb-sep">/</span><span class="fusion-breadcrumb-item"><a href="https://elfapreschools.com/china/curriculum/" class="fusion-breadcrumb-link"><span>Curriculum</span></a></span><span class="fusion-breadcrumb-sep">/</span><span class="fusion-breadcrumb-item"><span class="breadcrumb-leaf">Early Childhood Curriculum</span></span></div>						</div>
+									
+			</div>
+		</div>
+	</div>
+</section>
+
+						<main id="main" class="clearfix">
+				<div class="fusion-row" style="">
+<section id="content" style="float: left;">
+					<div id="post-27" class="post-27 page type-page status-publish hentry">
+			<span class="entry-title rich-snippet-hidden">Early Childhood Curriculum</span><span class="vcard rich-snippet-hidden"><span class="fn"><a href="https://elfapreschools.com/china/author/elfachina_admin/" title="Posts by ELFAChina_Admin" rel="author">ELFAChina_Admin</a></span></span><span class="updated rich-snippet-hidden">2018-08-28T04:12:09+08:00</span>
+			
+			<div class="post-content">
+				<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="--awb-background-position:left top;--awb-border-radius-top-left:0px;--awb-border-radius-top-right:0px;--awb-border-radius-bottom-right:0px;--awb-border-radius-bottom-left:0px;--awb-padding-top:20px;--awb-padding-bottom:20px;--awb-border-sizes-top:0px;--awb-border-sizes-bottom:0px;"><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:1144px;margin-left: calc(-4% / 2 );margin-right: calc(-4% / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_3 1_3 fusion-flex-column" style="--awb-bg-size:cover;--awb-width-large:33.333333333333%;--awb-spacing-right-large:3.8399999999999%;--awb-spacing-left-large:5.76%;--awb-width-medium:100%;--awb-spacing-right-medium:1.92%;--awb-spacing-left-medium:1.92%;--awb-width-small:100%;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-text fusion-text-1"><p><img decoding="async" class="aligncenter size-full wp-image-28 lazyautosizes lazyloaded" src="https://elfapreschools.com/china/wp-content/uploads/2018/08/ELFA_Preschool_Programme_.jpg" data-orig-src="https://elfapreschools.com/china/wp-content/uploads/2018/08/ELFA_Preschool_Programme_.jpg" alt="" width="390" height="260" srcset="https://elfapreschools.com/china/wp-content/uploads/2018/08/ELFA_Preschool_Programme_-200x133.jpg 200w, https://elfapreschools.com/china/wp-content/uploads/2018/08/ELFA_Preschool_Programme_-300x200.jpg 300w, https://elfapreschools.com/china/wp-content/uploads/2018/08/ELFA_Preschool_Programme_.jpg 390w" data-srcset="https://elfapreschools.com/china/wp-content/uploads/2018/08/ELFA_Preschool_Programme_-200x133.jpg 200w, https://elfapreschools.com/china/wp-content/uploads/2018/08/ELFA_Preschool_Programme_-300x200.jpg 300w, https://elfapreschools.com/china/wp-content/uploads/2018/08/ELFA_Preschool_Programme_.jpg 390w" data-sizes="auto" data-orig-sizes="(max-width: 390px) 100vw, 390px" sizes="390px"></p>
+</div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_2_3 2_3 fusion-flex-column" style="--awb-bg-size:cover;--awb-width-large:66.666666666667%;--awb-spacing-right-large:2.88%;--awb-spacing-left-large:3.84%;--awb-width-medium:100%;--awb-spacing-right-medium:1.92%;--awb-spacing-left-medium:1.92%;--awb-width-small:100%;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-text fusion-text-2"><p>ELFA offers a full day preschool programme for children aged 18 months to 6+ years old.</p>
+<p>Apart from a well-rounded and comprehensive preschool curriculum, children also benefit from quality care from our dedicated teachers who help them develop confidence and independence gradually.</p>
+<p>Our in-house nutritionist further ensures that meals served to the children are well balanced, providing the essential nourishment that is critical for healthy growth.</p>
+</div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-flex-column fusion-flex-align-self-flex-start fusion-column-no-min-height" style="--awb-bg-size:cover;--awb-width-large:100%;--awb-margin-top-large:0px;--awb-spacing-right-large:1.92%;--awb-margin-bottom-large:0px;--awb-spacing-left-large:1.92%;--awb-width-medium:100%;--awb-spacing-right-medium:1.92%;--awb-spacing-left-medium:1.92%;--awb-width-small:100%;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-text fusion-text-3"><p>The classroom environment at ELFA features inviting learning areas that expand the learning horizon for your active preschoolers:</p>
+</div><div class="fusion-text fusion-text-4"><p><img decoding="async" class="alignnone size-full wp-image-194 lazyloaded" src="https://elfapreschools.com/china/wp-content/uploads/2018/08/StarImage-1.jpg" data-orig-src="https://elfapreschools.com/china/wp-content/uploads/2018/08/StarImage-1.jpg" alt="StarImage" width="18" height="19"><strong>Mastering English &amp; Chinese Language Skills</strong><br>
+Language accelerates every area of a child’s development. Understanding new concepts, roles and tasks requires fundamental language skills.</p>
+<p>The abundance of theme-based children’s literature in ELFA provides expansive language development opportunities. Stimulating activities and materials are designed to advance literacy in both the English and Chinese Language.</p>
+<p>A Chinese-rich learning environment that accelerates acquisition of Chinese aural and oral competency as well as reading skills supports ELFA’s Chinese-focused bilingual curriculum.</p>
+</div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-3 fusion_builder_column_1_2 1_2 fusion-flex-column" style="--awb-padding-top:20px;--awb-padding-right:20px;--awb-padding-bottom:0px;--awb-padding-left:20px;--awb-bg-color:#eeeeee;--awb-bg-size:cover;--awb-width-large:50%;--awb-spacing-right-large:3.84%;--awb-spacing-left-large:3.84%;--awb-width-medium:100%;--awb-spacing-right-medium:1.92%;--awb-spacing-left-medium:1.92%;--awb-width-small:100%;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-text fusion-text-5"><p><span style="color: #01479d;"><span style="text-decoration: underline;"><strong>Language Medium for the different levels:</strong></span><br>
+Pre Nursery and Nursery classes 70% of Chinese and 30% of English<br>
+K1 classes 60% of Chinese and 40% of English<br>
+K2 classes 50% of Chinese and 50% of English</span></p>
+</div></div></div><div class="fusion-layout-column fusion_builder_column fusion-builder-column-4 fusion_builder_column_1_1 1_1 fusion-flex-column fusion-flex-align-self-flex-start fusion-column-no-min-height" style="--awb-bg-size:cover;--awb-width-large:100%;--awb-margin-top-large:0px;--awb-spacing-right-large:1.92%;--awb-margin-bottom-large:0px;--awb-spacing-left-large:1.92%;--awb-width-medium:100%;--awb-spacing-right-medium:1.92%;--awb-spacing-left-medium:1.92%;--awb-width-small:100%;--awb-spacing-right-small:1.92%;--awb-spacing-left-small:1.92%;"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column"><div class="fusion-text fusion-text-6"><p><img decoding="async" class="alignnone size-full wp-image-194 ls-is-cached lazyloaded" src="https://elfapreschools.com/china/wp-content/uploads/2018/08/StarImage-1.jpg" data-orig-src="https://elfapreschools.com/china/wp-content/uploads/2018/08/StarImage-1.jpg" alt="StarImage" width="18" height="19"><strong>Reinforcing Positive Values</strong><br>
+Engaging your children with Chinese folklore and stories, as well as weekly discussions on moral values, help them to gain heightened awareness of right and wrong behaviours, which contribute to their positive character-building.</p>
+<p><img decoding="async" class="alignnone size-full wp-image-194 ls-is-cached lazyloaded" src="https://elfapreschools.com/china/wp-content/uploads/2018/08/StarImage-1.jpg" data-orig-src="https://elfapreschools.com/china/wp-content/uploads/2018/08/StarImage-1.jpg" alt="StarImage" width="18" height="19"><strong>Developing Logical Thinking &amp; Problem-Solving Skills</strong><br>
+Avenues for hands-on experience with natural materials are created to encourage investigation and experimentation, presenting opportunities for development of logical thinking skills such as cause and effects, sequencing, classification and problem-solving skills.</p>
+<p><img decoding="async" class="alignnone size-full wp-image-194 ls-is-cached lazyloaded" src="https://elfapreschools.com/china/wp-content/uploads/2018/08/StarImage-1.jpg" data-orig-src="https://elfapreschools.com/china/wp-content/uploads/2018/08/StarImage-1.jpg" alt="StarImage" width="18" height="19"><strong>Nurturing A Creative Mind</strong><br>
+Different mediums of art material are provided for your children to showcase their creativity and originality. Rhythmic percussion instruments are also available for them to explore sounds, rhythm patterns and even make music of their own.</p>
+<p><img decoding="async" class="lazyload alignnone size-full wp-image-194" src="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2718%27%20height%3D%2719%27%20viewBox%3D%270%200%2018%2019%27%3E%3Crect%20width%3D%2718%27%20height%3D%2719%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E" data-orig-src="https://elfapreschools.com/china/wp-content/uploads/2018/08/StarImage-1.jpg" alt="StarImage" width="18" height="19"><strong>Reinforcing Self-Help Skills &amp; Self-Esteem</strong><br>
+Theme-based dramatic play is designed to develop self-esteem and self-help skills. As your children role-play, they learn to cooperate with others and this enhances their pro-social skills.</p>
+</div></div></div></div></div>
+							</div>
+																													</div>
+	</section>
+<aside id="sidebar" class="sidebar fusion-widget-area fusion-content-widget-area fusion-sidebar-right fusion-blogsidebar fusion-sticky-sidebar" style="float: right;" data="">
+			<div class="fusion-sidebar-inner-content">
+											
+					<section id="text-2" class="widget widget_text"><div class="heading"><h4 class="widget-title">PROGRAMMES</h4></div>			<div class="textwidget"><img decoding="async" src="https://elfapreschools.com/china/wp-content/uploads/2018/08/flower_li-1.png">&nbsp;<a href="/china/curriculum/">ELFA China Curriculum</a>
+<div class="fusion-separator fusion-full-width-sep" style="align-self: center;margin-left: auto;margin-right: auto;margin-top:5px;margin-bottom:5px;width:100%;"><div class="fusion-separator-border sep-single sep-dotted" style="border-color:#e0dede;border-top-width:1px;"></div></div>
+<a href="/china/special-programme/"><img decoding="async" src="https://elfapreschools.com/china/wp-content/uploads/2018/08/flower_li-1.png">&nbsp;Special Programmes</a>
+<div class="fusion-separator fusion-full-width-sep" style="align-self: center;margin-left: auto;margin-right: auto;margin-top:5px;margin-bottom:5px;width:100%;"><div class="fusion-separator-border sep-single sep-dotted" style="border-color:#e0dede;border-top-width:1px;"></div></div>
+<a href="/china/early-childhood-curriculum/"><img decoding="async" src="https://elfapreschools.com/china/wp-content/uploads/2018/08/flower_li-1.png">&nbsp;Early Childhood Curriculum</a>
+<div class="fusion-separator fusion-full-width-sep" style="align-self: center;margin-left: auto;margin-right: auto;margin-top:5px;margin-bottom:5px;width:100%;"><div class="fusion-separator-border sep-single sep-dotted" style="border-color:#e0dede;border-top-width:1px;"></div></div></div>
+		</section><section id="text-3" class="widget widget_text"><div class="heading"><h4 class="widget-title">CURRICULUM</h4></div>			<div class="textwidget"><a href="/china/curriculum/#Educational Goal &amp; Approach"><img decoding="async" src="https://elfapreschools.com/china/wp-content/uploads/2018/08/flower_li-1.png">&nbsp;Educational Goal &amp; Approach</a>
+<div class="fusion-separator fusion-full-width-sep" style="align-self: center;margin-left: auto;margin-right: auto;margin-top:5px;margin-bottom:5px;width:100%;"><div class="fusion-separator-border sep-single sep-dotted" style="border-color:#e0dede;border-top-width:1px;"></div></div>
+<a href="/china/curriculum/#Holistic Programmes"><img decoding="async" src="https://elfapreschools.com/china/wp-content/uploads/2018/08/flower_li-1.png">&nbsp;Holistic Programmes</a>
+<div class="fusion-separator fusion-full-width-sep" style="align-self: center;margin-left: auto;margin-right: auto;margin-top:5px;margin-bottom:5px;width:100%;"><div class="fusion-separator-border sep-single sep-dotted" style="border-color:#e0dede;border-top-width:1px;"></div></div>
+<a href="/china/curriculum/#Rich Learning Environments"><img decoding="async" src="https://elfapreschools.com/china/wp-content/uploads/2018/08/flower_li-1.png">&nbsp;Rich Learning Environments</a>
+<div class="fusion-separator fusion-full-width-sep" style="align-self: center;margin-left: auto;margin-right: auto;margin-top:5px;margin-bottom:5px;width:100%;"><div class="fusion-separator-border sep-single sep-dotted" style="border-color:#e0dede;border-top-width:1px;"></div></div></div>
+		</section>
+		<section id="recent-posts-2" class="widget widget_recent_entries">
+		<div class="heading"><h4 class="widget-title">Recent Posts</h4></div>
+		<ul>
+											<li>
+					<a href="https://elfapreschools.com/china/elfa-home-activities-for-china-national-day-celebration/">ELFA Home Activities for China National Day Celebration</a>
+									</li>
+											<li>
+					<a href="https://elfapreschools.com/china/elfa-preschool-foshans-second-little-entrepreneurs-training-camp/">ELFA Preschool @ Foshan’s Second ‘Little Entrepreneurs Training Camp’</a>
+									</li>
+											<li>
+					<a href="https://elfapreschools.com/china/elfa-principal-attends-major-asian-preschool-education-conference-in-china/">ELFA principal attends major Asian Preschool Education conference in China</a>
+									</li>
+											<li>
+					<a href="https://elfapreschools.com/china/safety-first-for-elfa-children/">SAFETY FIRST FOR ELFA CHILDREN</a>
+									</li>
+											<li>
+					<a href="https://elfapreschools.com/china/elfa-team-making-the-right-choice-for-zhuji-children/">ELFA Team: Making the Right Choice for Zhuji Children</a>
+									</li>
+					</ul>
+
+		</section>					</div>
+	</aside>
+						
+					</div>  
+				</main>  
+				
+				
+								
+					
+		<div class="fusion-footer">
+				
+	
+	<footer id="footer" class="fusion-footer-copyright-area fusion-footer-copyright-center">
+		<div class="fusion-row">
+			<div class="fusion-copyright-content">
+
+				<div class="fusion-copyright-notice" style="padding-bottom: 0px;">
+		<div>
+		<div class="copyright_inner_left"><img style="vertical-align:middle" src="https://elfapreschools.com/wp-content/uploads/2018/08/Logo_SQC-STAR_.gif" alt="SQC Star" width="100"> Copyright © 2019 ELFA China Preschool |  <a href="https://crestargroup.com">A Member of Crestar Education Group | </a><a href="https://elfapreschools.com/privacy-policy/" target="_blank">Privacy Policy</a></div>
+<div class="copyright_inner_right"><a href="https://elfapreschools.com/singapore" target="_blank">Singapore</a> | <a href="https://www.elfa.com.cn/" target="_blank">China</a></div>	</div>
+</div>
+<div class="fusion-social-links-footer" style="display: none;">
+	</div>
+
+			</div> 
+		</div> 
+	</footer> 
+		</div> 
+
+		
+					
+												</div> 
+		</div> 
+				<a class="fusion-one-page-text-link fusion-page-load-link" tabindex="-1" href="#" aria-hidden="true">Page load link</a>
+
+		<div class="avada-footer-scripts">
+			
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script type="text/javascript">var fusionNavIsCollapsed=function(e){var t,n;window.innerWidth<=e.getAttribute("data-breakpoint")?(e.classList.add("collapse-enabled"),e.classList.remove("awb-menu_desktop"),e.classList.contains("expanded")||(e.setAttribute("aria-expanded","false"),window.dispatchEvent(new Event("fusion-mobile-menu-collapsed",{bubbles:!0,cancelable:!0}))),(n=e.querySelectorAll(".menu-item-has-children.expanded")).length&&n.forEach(function(e){e.querySelector(".awb-menu__open-nav-submenu_mobile").setAttribute("aria-expanded","false")})):(null!==e.querySelector(".menu-item-has-children.expanded .awb-menu__open-nav-submenu_click")&&e.querySelector(".menu-item-has-children.expanded .awb-menu__open-nav-submenu_click").click(),e.classList.remove("collapse-enabled"),e.classList.add("awb-menu_desktop"),e.setAttribute("aria-expanded","true"),null!==e.querySelector(".awb-menu__main-ul")&&e.querySelector(".awb-menu__main-ul").removeAttribute("style")),e.classList.add("no-wrapper-transition"),clearTimeout(t),t=setTimeout(()=>{e.classList.remove("no-wrapper-transition")},400),e.classList.remove("loading")},fusionRunNavIsCollapsed=function(){var e,t=document.querySelectorAll(".awb-menu");for(e=0;e<t.length;e++)fusionNavIsCollapsed(t[e])};function avadaGetScrollBarWidth(){var e,t,n,l=document.createElement("p");return l.style.width="100%",l.style.height="200px",(e=document.createElement("div")).style.position="absolute",e.style.top="0px",e.style.left="0px",e.style.visibility="hidden",e.style.width="200px",e.style.height="150px",e.style.overflow="hidden",e.appendChild(l),document.body.appendChild(e),t=l.offsetWidth,e.style.overflow="scroll",t==(n=l.offsetWidth)&&(n=e.clientWidth),document.body.removeChild(e),jQuery("html").hasClass("awb-scroll")&&10<t-n?10:t-n}fusionRunNavIsCollapsed(),window.addEventListener("fusion-resize-horizontal",fusionRunNavIsCollapsed);</script><link rel="stylesheet" id="rs-plugin-settings-css" href="https://elfapreschools.com/china/wp-content/cache/fvm/min/1673592118-css67e04123feacb58de721dc03c0730d84e6d0b2cdf4eef016be13f3be0a689.css" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css" media="all">#rs-demo-id {}</style>
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.2" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/elfapreschools.com\/china\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.2" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2" id="jquery-ui-datepicker-js"></script>
+<script type="text/javascript" id="jquery-ui-datepicker-js-after">
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/i18n/datepicker-en-GB.min.js?ver=1.11.4" id="jquery-ui-en-GB-js"></script>
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/jquery-ui-timepicker-addon.min.js?ver=6.1.1" id="jquery-ui-timepicker-js"></script>
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/i18n/jquery-ui-timepicker-en-GB.js?ver=6.1.1" id="jquery-ui-timepicker-en-GB-js"></script>
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2" id="jquery-ui-slider-js"></script>
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2" id="jquery-ui-controlgroup-js"></script>
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2" id="jquery-ui-checkboxradio-js"></script>
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2" id="jquery-ui-button-js"></script>
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-sliderAccess.js?ver=6.1.1" id="jquery-ui-slider-access-js"></script>
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-content/plugins/easy-utm-tracking-with-contact-form-7/js/ucf7_scripts.js?ver=version" id="utm_contact_form7_scripts-js"></script>
+<script type="text/javascript" id="wpcf7cf-scripts-js-extra">
+/* <![CDATA[ */
+var wpcf7cf_global_settings = {"ajaxurl":"https:\/\/elfapreschools.com\/china\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=2.3.2" id="wpcf7cf-scripts-js"></script>
+<script type="text/javascript" src="https://elfapreschools.com/china/wp-content/uploads/fusion-scripts/7281884e1357fd2d60a210eeb40b1a61.min.js?ver=3.9.1" id="fusion-scripts-js"></script>
+<script type="text/javascript">
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/china/; secure; SameSite=Lax";
+			}());
+</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/elfapreschools.com\/china"},{"@type":"ListItem","position":2,"name":"Curriculum","item":"https:\/\/elfapreschools.com\/china\/curriculum\/"}]}</script>		</div>
+
+			<section class="to-top-container to-top-right" aria-labelledby="awb-to-top-label">
+		<a href="#" id="toTop" class="fusion-top-top-link">
+			<span id="awb-to-top-label" class="screen-reader-text">Go to Top</span>
+		</a>
+	</section>
+		
+
+</body></html>

@@ -1,0 +1,689 @@
+<html lang="en-US" prefix="og: https://ogp.me/ns#"><head><meta charset="UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(){this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],window.addEventListener("pageshow",(e=>{this.persisted=e.persisted})),window.addEventListener("DOMContentLoaded",(()=>{this._preconnect3rdParties()})),this.delayedScripts={normal:[],async:[],defer:[]},this.allJQueries=[]}_addUserInteractionListener(e){document.hidden?e._triggerListener():(this.triggerEvents.forEach((t=>window.addEventListener(t,e.userEventHandler,{passive:!0}))),window.addEventListener("touchstart",e.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",e.touchStartHandler),document.addEventListener("visibilitychange",e.userEventHandler))}_removeUserInteractionListener(){this.triggerEvents.forEach((e=>window.removeEventListener(e,this.userEventHandler,{passive:!0}))),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(e){"HTML"!==e.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),e.target.addEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"onclick","rocket-onclick"))}_onTouchMove(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick")}_onTouchEnd(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(e){e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this.interceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach((e=>{e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))}))}_renameDOMAttribute(e,t,n){e.hasAttribute&&e.hasAttribute(t)&&(event.target.setAttribute(n,event.target.getAttribute(t)),event.target.removeAttribute(t))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let e=[];document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((t=>{if(t.hasAttribute("src")){const n=new URL(t.src).origin;n!==location.origin&&e.push({src:n,crossOrigin:t.crossOrigin||"module"===t.getAttribute("data-rocket-type")})}})),e=[...new Map(e.map((e=>[JSON.stringify(e),e]))).values()],this._batchInjectResourceHints(e,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._triggerWindowLoad()}catch(e){}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this._replayClicks()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e=>{e.hasAttribute("src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)}))}async _transformScript(e){return await this._littleBreath(),new Promise((t=>{const n=document.createElement("script");[...e.attributes].forEach((e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type"),n.setAttribute(t,e.nodeValue))})),e.hasAttribute("src")?(n.addEventListener("load",t),n.addEventListener("error",t)):(n.text=e.text,t());try{e.parentNode.replaceChild(n,e)}catch(e){t()}}))}async _loadScriptsFromList(e){const t=e.shift();return t?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(e,t){var n=document.createDocumentFragment();e.forEach((e=>{if(e.src){const i=document.createElement("link");i.href=e.src,i.rel=t,"preconnect"!==t&&(i.as="script"),e.getAttribute&&"module"===e.getAttribute("data-rocket-type")&&(i.crossOrigin=!0),e.crossOrigin&&(i.crossOrigin=e.crossOrigin),n.appendChild(i)}})),document.head.appendChild(n)}_delayEventListeners(){let e={};function t(t,n){!function(t){function n(n){return e[t].eventsToRewrite.indexOf(n)>=0?"rocket-"+n:n}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(n)}function n(e,t){let n=e[t];Object.defineProperty(e,t,{get:()=>n||function(){},set(i){e["rocket"+t]=n=i}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>t,set(n){if(n&&n.fn&&!e.allJQueries.includes(n)){n.fn.ready=n.fn.init.prototype.ready=function(t){e.domReadyFired?t.bind(document)(n):document.addEventListener("rocket-DOMContentLoaded",(()=>t.bind(document)(n)))};const t=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e.split(" ").map((e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e)).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]}))}return t.apply(this,arguments),this},e.allJQueries.push(n)}t=n}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach((e=>e(window).trigger("rocket-jquery-load"))),await this._littleBreath();const e=new Event("rocket-pageshow");e.persisted=this.persisted,window.dispatchEvent(e),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}_handleDocumentWrite(){const e=new Map;document.write=document.writeln=function(t){const n=document.currentScript,i=document.createRange(),r=n.parentElement;let o=e.get(n);void 0===o&&(o=n.nextSibling,e.set(n,o));const s=document.createDocumentFragment();i.setStart(s,0),s.appendChild(i.createContextualFragment(t)),r.insertBefore(s,o)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise((e=>setTimeout(e))):new Promise((e=>requestAnimationFrame(e)))}static run(){const e=new RocketLazyLoadScripts;e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();</script>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
+<title>About Us - Forrest Preschool</title><link rel="preload" as="style" href="//fonts.googleapis.com/css?family=Noto%20Serif%3Aregular%2Citalic%2C700%2C700italic%7CSource%20Sans%20Pro%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C900%2C900italic%7CRubik%3A300%2Cregular%2C500%2C600%2C700%2C800%2C900%2C300italic%2Citalic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7COpen%20Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%7COpen%20Sans%20Condensed%3A300%2C300italic%2C700&amp;display=swap"><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Noto%20Serif%3Aregular%2Citalic%2C700%2C700italic%7CSource%20Sans%20Pro%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C900%2C900italic%7CRubik%3A300%2Cregular%2C500%2C600%2C700%2C800%2C900%2C300italic%2Citalic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7COpen%20Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%7COpen%20Sans%20Condensed%3A300%2C300italic%2C700&amp;display=swap" media="all" onload="this.media='all'"><noscript><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Noto%20Serif%3Aregular%2Citalic%2C700%2C700italic%7CSource%20Sans%20Pro%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C900%2C900italic%7CRubik%3A300%2Cregular%2C500%2C600%2C700%2C800%2C900%2C300italic%2Citalic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7COpen%20Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%7COpen%20Sans%20Condensed%3A300%2C300italic%2C700&#038;display=swap" /></noscript>
+<meta name="description" content="Child as The Protagonist">
+<meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+<link rel="canonical" href="//forrestpreschool.com/about-us/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="About Us - Forrest Preschool">
+<meta property="og:description" content="Child as The Protagonist">
+<meta property="og:url" content="https://forrestpreschool.com/about-us/">
+<meta property="og:site_name" content="Forrest Preschool">
+<meta property="og:updated_time" content="2024-02-22T08:32:49+00:00">
+<meta property="article:published_time" content="2023-01-21T22:52:12+00:00">
+<meta property="article:modified_time" content="2024-02-22T08:32:49+00:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="About Us - Forrest Preschool">
+<meta name="twitter:description" content="Child as The Protagonist">
+<meta name="twitter:label1" content="Time to read">
+<meta name="twitter:data1" content="2 minutes">
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://forrestpreschool.com/#person","name":"Forrest Preschool","logo":{"@type":"ImageObject","@id":"https://forrestpreschool.com/#logo","url":"https://forrestpreschool.com/wp-content/uploads/2023/11/cropped-FPS-logo-light-1-150x150.png","contentUrl":"https://forrestpreschool.com/wp-content/uploads/2023/11/cropped-FPS-logo-light-1-150x150.png","caption":"Forrest Preschool","inLanguage":"en-US"},"image":{"@type":"ImageObject","@id":"https://forrestpreschool.com/#logo","url":"https://forrestpreschool.com/wp-content/uploads/2023/11/cropped-FPS-logo-light-1-150x150.png","contentUrl":"https://forrestpreschool.com/wp-content/uploads/2023/11/cropped-FPS-logo-light-1-150x150.png","caption":"Forrest Preschool","inLanguage":"en-US"}},{"@type":"WebSite","@id":"https://forrestpreschool.com/#website","url":"https://forrestpreschool.com","name":"Forrest Preschool","publisher":{"@id":"https://forrestpreschool.com/#person"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://forrestpreschool.com/wp-content/uploads/2023/11/wiggle-line2-icon.svg","url":"https://forrestpreschool.com/wp-content/uploads/2023/11/wiggle-line2-icon.svg","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://forrestpreschool.com/about-us/#webpage","url":"https://forrestpreschool.com/about-us/","name":"About Us - Forrest Preschool","datePublished":"2023-01-21T22:52:12+00:00","dateModified":"2024-02-22T08:32:49+00:00","isPartOf":{"@id":"https://forrestpreschool.com/#website"},"primaryImageOfPage":{"@id":"https://forrestpreschool.com/wp-content/uploads/2023/11/wiggle-line2-icon.svg"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://forrestpreschool.com/author/lm5ys/","name":"lm5ys","url":"https://forrestpreschool.com/author/lm5ys/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/96594398e24b53b5124285f2087f8cc1?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/96594398e24b53b5124285f2087f8cc1?s=96&amp;d=mm&amp;r=g","caption":"lm5ys","inLanguage":"en-US"},"sameAs":["https://forrestpreschool.com"]},{"@type":"Article","headline":"About Us - Forrest Preschool","datePublished":"2023-01-21T22:52:12+00:00","dateModified":"2024-02-22T08:32:49+00:00","author":{"@id":"https://forrestpreschool.com/author/lm5ys/","name":"lm5ys"},"publisher":{"@id":"https://forrestpreschool.com/#person"},"description":"Child as The Protagonist","name":"About Us - Forrest Preschool","@id":"https://forrestpreschool.com/about-us/#richSnippet","isPartOf":{"@id":"https://forrestpreschool.com/about-us/#webpage"},"image":{"@id":"https://forrestpreschool.com/wp-content/uploads/2023/11/wiggle-line2-icon.svg"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://forrestpreschool.com/about-us/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link href="//fonts.gstatic.com" crossorigin="" rel="preconnect">
+<link href="//fonts.googleapis.com" crossorigin="" rel="preconnect">
+<link rel="alternate" type="application/rss+xml" title="Forrest Preschool » Feed" href="//forrestpreschool.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Forrest Preschool » Comments Feed" href="//forrestpreschool.com/comments/feed/">
+<script type="rocketlazyloadscript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/forrestpreschool.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="//forrestpreschool.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3" media="all">
+<style id="rank-math-toc-block-style-inline-css">
+.wp-block-rank-math-toc-block nav ol{counter-reset:item}.wp-block-rank-math-toc-block nav ol li{display:block}.wp-block-rank-math-toc-block nav ol li:before{content:counters(item, ".") ". ";counter-increment:item}
+
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--contrast: var(--contrast);--wp--preset--color--contrast-2: var(--contrast-2);--wp--preset--color--contrast-3: var(--contrast-3);--wp--preset--color--contrast-4: var(--contrast-4);--wp--preset--color--base: var(--base);--wp--preset--color--base-2: var(--base-2);--wp--preset--color--accent: var(--accent);--wp--preset--color--accent-2: var(--accent-2);--wp--preset--color--global-color-9: var(--global-color-9);--wp--preset--color--global-color-10: var(--global-color-10);--wp--preset--color--yellow-ascent: var(--yellow-ascent);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link data-minify="1" rel="stylesheet" id="bodhi-svgs-attachment-css" href="//forrestpreschool.com/wp-content/cache/min/1/wp-content/plugins/svg-support/css/svgs-attachment.css?ver=1711079524" media="all">
+<link rel="stylesheet" id="generate-style-css" href="//forrestpreschool.com/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.4.0" media="all">
+<style id="generate-style-inline-css">
+body{background-color:var(--base-2);color:var(--contrast-3);}a{color:var(--contrast-4);}a:hover, a:focus, a:active{color:var(--global-color-9);}.wp-block-group__inner-container{max-width:1200px;margin-left:auto;margin-right:auto;}.site-header .header-image{width:180px;}:root{--contrast:#172021;--contrast-2:#273227;--contrast-3:#666666;--contrast-4:#DD441B;--base:#faa628;--base-2:#ffffff;--accent:#FFBD59;--accent-2:#70944E;--global-color-9:#75513F;--global-color-10:#97C769;--yellow-ascent:#FED702;}:root .has-contrast-color{color:var(--contrast);}:root .has-contrast-background-color{background-color:var(--contrast);}:root .has-contrast-2-color{color:var(--contrast-2);}:root .has-contrast-2-background-color{background-color:var(--contrast-2);}:root .has-contrast-3-color{color:var(--contrast-3);}:root .has-contrast-3-background-color{background-color:var(--contrast-3);}:root .has-contrast-4-color{color:var(--contrast-4);}:root .has-contrast-4-background-color{background-color:var(--contrast-4);}:root .has-base-color{color:var(--base);}:root .has-base-background-color{background-color:var(--base);}:root .has-base-2-color{color:var(--base-2);}:root .has-base-2-background-color{background-color:var(--base-2);}:root .has-accent-color{color:var(--accent);}:root .has-accent-background-color{background-color:var(--accent);}:root .has-accent-2-color{color:var(--accent-2);}:root .has-accent-2-background-color{background-color:var(--accent-2);}:root .has-global-color-9-color{color:var(--global-color-9);}:root .has-global-color-9-background-color{background-color:var(--global-color-9);}:root .has-global-color-10-color{color:var(--global-color-10);}:root .has-global-color-10-background-color{background-color:var(--global-color-10);}:root .has-yellow-ascent-color{color:var(--yellow-ascent);}:root .has-yellow-ascent-background-color{background-color:var(--yellow-ascent);}h1{font-family:Kust;font-weight:700;font-size:42px;}@media (max-width:768px){h1{font-size:35px;}}h2{font-family:Kust;font-weight:700;font-size:35px;}@media (max-width:768px){h2{font-size:30px;}}h3{font-family:Kust;font-weight:700;font-size:32px;margin-bottom:20px;}@media (max-width:768px){h3{font-size:24px;}}h4{font-family:Open Sans, sans-serif;font-weight:700;font-size:24px;}@media (max-width:768px){h4{font-size:22px;}}h5{font-family:Open Sans, sans-serif;font-weight:700;font-size:20px;}@media (max-width:768px){h5{font-size:19px;}}h6{font-family:Open Sans, sans-serif;font-weight:700;font-size:18px;}@media (max-width:768px){h6{font-size:17px;}}body, button, input, select, textarea{font-family:Source Sans Pro, sans-serif;font-size:17px;}h1.entry-title{font-family:Open Sans, sans-serif;font-weight:700;}h2.entry-title{font-family:Open Sans, sans-serif;font-weight:700;}.main-title{font-family:Kust;text-transform:uppercase;font-size:20px;}.main-navigation a, .main-navigation .menu-toggle, .main-navigation .menu-bar-items{font-family:Open Sans, sans-serif;font-weight:700;text-transform:uppercase;font-size:16px;}.top-bar{background-color:var(--contrast-3);color:var(--base-2);}.top-bar a{color:var(--base-2);}.top-bar a:hover{color:var(--global-color-9);}.site-header{background-color:var(--base-2);}.main-title a,.main-title a:hover{color:var(--contrast-2);}.site-description{color:var(--contrast-3);}.mobile-menu-control-wrapper .menu-toggle,.mobile-menu-control-wrapper .menu-toggle:hover,.mobile-menu-control-wrapper .menu-toggle:focus,.has-inline-mobile-toggle #site-navigation.toggled{background-color:rgba(0, 0, 0, 0.02);}.main-navigation,.main-navigation ul ul{background-color:var(--base-2);}.main-navigation .main-nav ul li a, .main-navigation .menu-toggle, .main-navigation .menu-bar-items{color:var(--base);}.main-navigation .main-nav ul li:not([class*="current-menu-"]):hover > a, .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus > a, .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"]) > a, .main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{color:var(--global-color-9);}button.menu-toggle:hover,button.menu-toggle:focus{color:var(--base);}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:var(--contrast-4);}.navigation-search input[type="search"],.navigation-search input[type="search"]:active, .navigation-search input[type="search"]:focus, .main-navigation .main-nav ul li.search-item.active > a, .main-navigation .menu-bar-items .search-item.active > a{color:var(--global-color-9);}.main-navigation ul ul{background-color:var(--base-2);}.main-navigation .main-nav ul ul li a{color:var(--base);}.main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover > a,.main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus > a, .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"]) > a{color:var(--global-color-9);}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:var(--contrast-4);}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{color:var(--contrast-3);background-color:var(--base-2);}.inside-article a,.paging-navigation a,.comments-area a,.page-header a{color:var(--contrast-4);}.inside-article a:hover,.paging-navigation a:hover,.comments-area a:hover,.page-header a:hover{color:var(--base);}.entry-title a{color:var(--contrast-2);}.entry-title a:hover{color:var(--accent-2);}.entry-meta{color:var(--contrast-2);}h1{color:var(--contrast);}h2{color:var(--contrast);}h3{color:var(--contrast);}h4{color:var(--contrast);}h5{color:var(--contrast);}h6{color:var(--contrast);}.sidebar .widget{background-color:var(--base-2);}.footer-widgets{background-color:var(--base-2);}.footer-widgets a{color:var(--contrast-4);}.footer-widgets a:hover{color:var(--base);}.footer-widgets .widget-title{color:var(--contrast);}.site-info{color:var(--base-2);background-color:var(--contrast-3);}.site-info a{color:var(--base-2);}.site-info a:hover{color:var(--base);}.footer-bar .widget_nav_menu .current-menu-item a{color:var(--base);}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:var(--contrast-3);background-color:#fafafa;border-color:var(--contrast-4);}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:var(--contrast-3);background-color:#ffffff;border-color:var(--contrast-4);}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.wp-block-button__link:not(.has-background){color:var(--base-2);background-color:var(--global-color-9);}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:var(--base-2);background-color:var(--accent);}a.generate-back-to-top{background-color:rgba( 0,0,0,0.4 );color:#ffffff;}a.generate-back-to-top:hover,a.generate-back-to-top:focus{background-color:rgba( 0,0,0,0.6 );color:#ffffff;}:root{--gp-search-modal-bg-color:var(--base-3);--gp-search-modal-text-color:var(--contrast);--gp-search-modal-overlay-bg-color:rgba(0,0,0,0.2);}@media (max-width: 980px){.main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{background:none;color:var(--base);}}.nav-below-header .main-navigation .inside-navigation.grid-container, .nav-above-header .main-navigation .inside-navigation.grid-container{padding:0px 20px 0px 20px;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:80px 40px 80px 40px;}.site-main .wp-block-group__inner-container{padding:80px 40px 80px 40px;}.separate-containers .paging-navigation{padding-top:20px;padding-bottom:20px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-40px;width:calc(100% + 80px);max-width:calc(100% + 80px);}.one-container.archive .post:not(:last-child):not(.is-loop-template-item), .one-container.blog .post:not(:last-child):not(.is-loop-template-item){padding-bottom:80px;}.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .menu-bar-item > a{line-height:30px;}.navigation-search input[type="search"]{height:30px;}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:20px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:20px;}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:60px 20px 60px 20px;}.site-main .wp-block-group__inner-container{padding:60px 20px 60px 20px;}.inside-top-bar{padding-right:30px;padding-left:30px;}.inside-header{padding-top:20px;padding-right:30px;padding-bottom:20px;padding-left:30px;}.widget-area .widget{padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;}.footer-widgets-container{padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;}.inside-site-info{padding-right:30px;padding-left:30px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-20px;width:calc(100% + 40px);max-width:calc(100% + 40px);}.one-container .site-main .paging-navigation{margin-bottom:20px;}}/* End cached CSS */.is-right-sidebar{width:30%;}.is-left-sidebar{width:30%;}.site-content .content-area{width:100%;}@media (max-width: 980px){.main-navigation .menu-toggle,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav,.main-navigation:not(.slideout-navigation):not(.toggled) .main-nav > ul,.has-inline-mobile-toggle #site-navigation .inside-navigation > *:not(.navigation-search):not(.main-nav){display:none;}.nav-align-right .inside-navigation,.nav-align-center .inside-navigation{justify-content:space-between;}.has-inline-mobile-toggle .mobile-menu-control-wrapper{display:flex;flex-wrap:wrap;}.has-inline-mobile-toggle .inside-header{flex-direction:row;text-align:left;flex-wrap:wrap;}.has-inline-mobile-toggle .header-widget,.has-inline-mobile-toggle #site-navigation{flex-basis:100%;}.nav-float-left .has-inline-mobile-toggle #site-navigation{order:10;}}
+.dynamic-author-image-rounded{border-radius:100%;}.dynamic-featured-image, .dynamic-author-image{vertical-align:middle;}.one-container.blog .dynamic-content-template:not(:last-child), .one-container.archive .dynamic-content-template:not(:last-child){padding-bottom:0px;}.dynamic-entry-excerpt > p:last-child{margin-bottom:0px;}
+.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .menu-bar-item > a{transition: line-height 300ms ease}.main-navigation.toggled .main-nav > ul{background-color: var(--base-2)}.sticky-enabled .gen-sidebar-nav.is_stuck .main-navigation {margin-bottom: 0px;}.sticky-enabled .gen-sidebar-nav.is_stuck {z-index: 500;}.sticky-enabled .main-navigation.is_stuck {box-shadow: 0 2px 2px -2px rgba(0, 0, 0, .2);}.navigation-stick:not(.gen-sidebar-nav) {left: 0;right: 0;width: 100% !important;}@media (max-width: 980px){#sticky-placeholder{height:0;overflow:hidden;}.has-inline-mobile-toggle #site-navigation.toggled{margin-top:0;}.has-inline-mobile-menu #site-navigation.toggled .main-nav > ul{top:1.5em;}}.nav-float-right .navigation-stick {width: 100% !important;left: 0;}.nav-float-right .navigation-stick .navigation-branding {margin-right: auto;}.main-navigation.has-sticky-branding:not(.grid-container) .inside-navigation:not(.grid-container) .navigation-branding{margin-left: 10px;}.main-navigation.navigation-stick.has-sticky-branding .inside-navigation.grid-container{padding-left:40px;padding-right:40px;}@media (max-width:768px){.main-navigation.navigation-stick.has-sticky-branding .inside-navigation.grid-container{padding-left:0;padding-right:0;}}
+@media (max-width: 980px){.main-navigation .main-nav ul li a,.main-navigation .menu-toggle,.main-navigation .mobile-bar-items a,.main-navigation .menu-bar-item > a{line-height:52px;}.main-navigation .site-logo.navigation-logo img, .mobile-header-navigation .site-logo.mobile-header-logo img, .navigation-search input[type="search"]{height:52px;}}@media (max-width: 1024px),(min-width:1025px){.main-navigation.sticky-navigation-transition .main-nav > ul > li > a,.sticky-navigation-transition .menu-toggle,.main-navigation.sticky-navigation-transition .menu-bar-item > a, .sticky-navigation-transition .navigation-branding .main-title{line-height:90px;}.main-navigation.sticky-navigation-transition .site-logo img, .main-navigation.sticky-navigation-transition .navigation-search input[type="search"], .main-navigation.sticky-navigation-transition .navigation-branding img{height:90px;}}
+</style>
+<link data-minify="1" rel="stylesheet" id="generate-child-css" href="//forrestpreschool.com/wp-content/cache/min/1/wp-content/themes/generatepress_child/style.css?ver=1711079524" media="all">
+
+<link data-minify="1" rel="stylesheet" id="dflip-style-css" href="//forrestpreschool.com/wp-content/cache/min/1/wp-content/plugins/3d-flipbook-dflip-lite/assets/css/dflip.min.css?ver=1711079524" media="all">
+<link data-minify="1" rel="stylesheet" id="qlwapp-css" href="//forrestpreschool.com/wp-content/cache/min/1/wp-content/plugins/wp-whatsapp-chat/build/frontend/css/style.css?ver=1711079524" media="all">
+<link data-minify="1" rel="stylesheet" id="generateblocks-css" href="//forrestpreschool.com/wp-content/cache/min/1/wp-content/uploads/generateblocks/style-157.css?ver=1711082248" media="all">
+<link rel="stylesheet" id="generate-offside-css" href="//forrestpreschool.com/wp-content/plugins/gp-premium/menu-plus/functions/css/offside.min.css?ver=2.4.0" media="all">
+<style id="generate-offside-inline-css">
+:root{--gp-slideout-width:265px;}.slideout-navigation.main-navigation{background-color:var(--base-2);}.slideout-navigation.main-navigation .main-nav ul li a{color:var(--base);}.slideout-navigation, .slideout-navigation a{color:var(--base);}.slideout-navigation button.slideout-exit{color:var(--base);padding-left:20px;padding-right:20px;}.slide-opened nav.toggled .menu-toggle:before{display:none;}@media (max-width: 980px){.menu-bar-item.slideout-toggle{display:none;}}
+</style>
+<link rel="stylesheet" id="generate-navigation-branding-css" href="//forrestpreschool.com/wp-content/plugins/gp-premium/menu-plus/functions/css/navigation-branding-flex.min.css?ver=2.4.0" media="all">
+<style id="generate-navigation-branding-inline-css">
+.main-navigation.has-branding .inside-navigation.grid-container, .main-navigation.has-branding.grid-container .inside-navigation:not(.grid-container){padding:0px 40px 0px 40px;}.main-navigation.has-branding:not(.grid-container) .inside-navigation:not(.grid-container) .navigation-branding{margin-left:10px;}.main-navigation .sticky-navigation-logo, .main-navigation.navigation-stick .site-logo:not(.mobile-header-logo){display:none;}.main-navigation.navigation-stick .sticky-navigation-logo{display:block;}.navigation-branding img, .site-logo.mobile-header-logo img{height:30px;width:auto;}.navigation-branding .main-title{line-height:30px;}@media (max-width: 980px){.main-navigation.has-branding.nav-align-center .menu-bar-items, .main-navigation.has-sticky-branding.navigation-stick.nav-align-center .menu-bar-items{margin-left:auto;}.navigation-branding{margin-right:auto;margin-left:10px;}.navigation-branding .main-title, .mobile-header-navigation .site-logo{margin-left:10px;}.main-navigation.has-branding .inside-navigation.grid-container{padding:0px;}.navigation-branding img, .site-logo.mobile-header-logo{height:52px;}.navigation-branding .main-title{line-height:52px;}}
+</style>
+<script type="rocketlazyloadscript" src="//forrestpreschool.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js" defer=""></script>
+<script type="rocketlazyloadscript" src="//forrestpreschool.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" defer=""></script>
+<script id="file_uploads_nfpluginsettings-js-extra">
+var params = {"clearLogRestUrl":"https:\/\/forrestpreschool.com\/wp-json\/nf-file-uploads\/debug-log\/delete-all","clearLogButtonId":"file_uploads_clear_debug_logger","downloadLogRestUrl":"https:\/\/forrestpreschool.com\/wp-json\/nf-file-uploads\/debug-log\/get-all","downloadLogButtonId":"file_uploads_download_debug_logger"};
+</script>
+<script type="rocketlazyloadscript" data-minify="1" src="//forrestpreschool.com/wp-content/cache/min/1/wp-content/plugins/ninja-forms-uploads/assets/js/nfpluginsettings.js?ver=1711079524" id="file_uploads_nfpluginsettings-js" defer=""></script>
+<link rel="https://api.w.org/" href="//forrestpreschool.com/wp-json/"><link rel="alternate" type="application/json" href="//forrestpreschool.com/wp-json/wp/v2/pages/157"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="//forrestpreschool.com/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.4.3">
+<link rel="shortlink" href="//forrestpreschool.com/?p=157">
+<link rel="alternate" type="application/json+oembed" href="//forrestpreschool.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fforrestpreschool.com%2Fabout-us%2F">
+<link rel="alternate" type="text/xml+oembed" href="//forrestpreschool.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fforrestpreschool.com%2Fabout-us%2F&amp;format=xml">
+<!-- Google Tag Manager -->
+<script type="rocketlazyloadscript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSRP92JZ');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google tag (gtag.js) -->
+<script type="rocketlazyloadscript" async="" src="//www.googletagmanager.com/gtag/js?id=G-KRLC5NYS8R">
+</script>
+<script type="rocketlazyloadscript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KRLC5NYS8R');
+</script><link rel="icon" href="//forrestpreschool.com/wp-content/uploads/2023/11/cropped-cropped-forrestpreschool-favicon-32x32.png" sizes="32x32">
+<link rel="icon" href="//forrestpreschool.com/wp-content/uploads/2023/11/cropped-cropped-forrestpreschool-favicon-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="//forrestpreschool.com/wp-content/uploads/2023/11/cropped-cropped-forrestpreschool-favicon-180x180.png">
+<meta name="msapplication-TileImage" content="https://forrestpreschool.com/wp-content/uploads/2023/11/cropped-cropped-forrestpreschool-favicon-270x270.png">
+		<style id="wp-custom-css">
+			/* GeneratePress Site CSS */  /* End GeneratePress Site CSS */		</style>
+					<style>
+				:root {
+				--qlwapp-scheme-font-family:inherit;--qlwapp-scheme-font-size:18px;--qlwapp-scheme-icon-size:60px;--qlwapp-scheme-icon-font-size:24px;				}
+			</style>
+			<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><link href="https://www.googletagmanager.com" rel="preconnect"></head>
+
+<body class="page-template-default page page-id-157 wp-custom-logo wp-embed-responsive post-image-aligned-center slideout-enabled slideout-mobile sticky-menu-fade sticky-enabled desktop-sticky-menu no-sidebar nav-float-right one-container header-aligned-left dropdown-hover full-width-content" itemtype="https://schema.org/WebPage" itemscope="">
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PSRP92JZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a><div class="gb-container gb-container-3ce1099e hide-on-mobile">
+<div class="gb-container gb-container-c71b2208">
+<div class="gb-container gb-container-b9159d9c">
+
+<p class="gb-headline gb-headline-168e67b8"><span class="gb-icon"><svg aria-hidden="true" role="img" height="1em" width="1em" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path></svg></span><span class="gb-headline-text"><a href="mailto:forrestpreschool.com">hello@forrestpreschool.com</a></span></p>
+
+</div>
+
+<div class="gb-container gb-container-a56ae29d">
+<div class="gb-container gb-container-0a9e5276">
+
+<a class="gb-button gb-button-5d6ff67c" href="https://facebook.com/forrestpreschool"><span class="gb-icon"><svg aria-hidden="true" role="img" height="1em" width="1em" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg></span></a>
+
+
+
+<a class="gb-button gb-button-6f43f147" href="https://instagram.com/forrestpreschoolsg"><span class="gb-icon"><svg aria-hidden="true" role="img" height="1em" width="1em" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></span></a>
+
+
+
+<a class="gb-button gb-button-53be0a3d" href="https://www.linkedin.com/in/forrest-preschool-Singapore/"><span class="gb-icon"><svg aria-hidden="true" role="img" height="1em" width="1em" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg></span></a>
+
+</div>
+</div>
+
+<div class="gb-container gb-container-2bd20fcb">
+
+<p class="gb-headline gb-headline-79c52807 gb-headline-text"><a href="tel: +65 8803 2526">+65 8803 2526</a></p>
+
+</div>
+</div>
+</div>		<header class="site-header has-inline-mobile-toggle" id="masthead" aria-label="Site" itemtype="https://schema.org/WPHeader" itemscope="">
+			<div class="inside-header grid-container">
+				<div class="site-logo">
+					<a href="https://forrestpreschool.com/" rel="home">
+						<img class="header-image is-logo-image" alt="Forrest Preschool" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20727%20280'%3E%3C/svg%3E" width="727" height="280" data-lazy-src="//forrestpreschool.com/wp-content/uploads/2023/11/cropped-FPS-logo-light-1.png"><noscript><img  class="header-image is-logo-image" alt="Forrest Preschool" src="//forrestpreschool.com/wp-content/uploads/2023/11/cropped-FPS-logo-light-1.png" width="727" height="280" /></noscript>
+					</a>
+				</div>	<nav class="main-navigation mobile-menu-control-wrapper" id="mobile-menu-control-wrapper" aria-label="Mobile Toggle">
+		<div class="menu-bar-items">
+<a class="gb-button gb-button-8a17cab7 gb-button-text hide-on-mobile sg-popup-id-2301" href="https://forrestpreschool.com/school-tour/">Schedule Tour</a>
+</div>		<button data-nav="site-navigation" class="menu-toggle" aria-controls="generate-slideout-menu" aria-expanded="false">
+			<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z"></path></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z"></path></svg></span><span class="screen-reader-text">Menu</span>		</button>
+	</nav>
+			<nav class="has-sticky-branding main-navigation has-menu-bar-items sub-menu-right" id="site-navigation" aria-label="Primary" itemtype="https://schema.org/SiteNavigationElement" itemscope="">
+			<div class="inside-navigation grid-container">
+				<div class="navigation-branding"><div class="sticky-navigation-logo">
+					<a href="https://forrestpreschool.com/" title="Forrest Preschool" rel="home">
+						<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20727%20287'%3E%3C/svg%3E" class="is-logo-image" alt="Forrest Preschool" width="727" height="287" data-lazy-src="//forrestpreschool.com/wp-content/uploads/2023/11/cropped-cropped-forrestpreschool-logo-ruggedv2-2.png"><noscript><img src="//forrestpreschool.com/wp-content/uploads/2023/11/cropped-cropped-forrestpreschool-logo-ruggedv2-2.png" class="is-logo-image" alt="Forrest Preschool" width="727" height="287" /></noscript>
+					</a>
+				</div></div>				<button class="menu-toggle" aria-controls="generate-slideout-menu" aria-expanded="false">
+					<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z"></path></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z"></path></svg></span><span class="screen-reader-text">Menu</span>				</button>
+				<div id="primary-menu" class="main-nav"><ul id="menu-main" class=" menu sf-menu"><li id="menu-item-383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-383"><a href="https://forrestpreschool.com/">Home</a></li>
+<li id="menu-item-384" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-157 current_page_item menu-item-has-children menu-item-384"><a href="https://forrestpreschool.com/about-us/" aria-current="page">About Us<span role="presentation" class="dropdown-menu-toggle"><span class="gp-icon icon-arrow"><svg viewBox="0 0 330 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M305.913 197.085c0 2.266-1.133 4.815-2.833 6.514L171.087 335.593c-1.7 1.7-4.249 2.832-6.515 2.832s-4.815-1.133-6.515-2.832L26.064 203.599c-1.7-1.7-2.832-4.248-2.832-6.514s1.132-4.816 2.832-6.515l14.162-14.163c1.7-1.699 3.966-2.832 6.515-2.832 2.266 0 4.815 1.133 6.515 2.832l111.316 111.317 111.316-111.317c1.7-1.699 4.249-2.832 6.515-2.832s4.815 1.133 6.515 2.832l14.162 14.163c1.7 1.7 2.833 4.249 2.833 6.515z"></path></svg></span></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-2645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2645"><a href="https://forrestpreschool.com/school-bus-service/">School Bus Service</a></li>
+	<li id="menu-item-2644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2644"><a href="https://forrestpreschool.com/preschool-excursions-in-sembawang-singapore/">Forrest Excursions</a></li>
+	<li id="menu-item-2688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2688"><a href="https://forrestpreschool.com/fees-and-subsidies/">Fees and Subsidies</a></li>
+</ul>
+</li>
+<li id="menu-item-386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-386"><a href="https://forrestpreschool.com/environment/">Environment</a></li>
+<li id="menu-item-2908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2908"><a href="https://forrestpreschool.com/blog/">Blog</a></li>
+<li id="menu-item-385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-385"><a href="https://forrestpreschool.com/contact/">Contact</a></li>
+</ul></div><div class="menu-bar-items">
+<a class="gb-button gb-button-8a17cab7 gb-button-text hide-on-mobile sg-popup-id-2301" href="https://forrestpreschool.com/school-tour/">Schedule Tour</a>
+</div>			</div>
+		</nav>
+					</div>
+		</header>
+		<div data-bg="https://forrestpreschool.com/wp-content/uploads/2023/01/preschool-education-singapore-scaled.jpg" class="gb-container gb-container-ef1aae2b rocket-lazyload" style="--">
+<div class="gb-container gb-container-956de9c7">
+
+<h1 class="gb-headline gb-headline-f80518be gb-headline-text">About Us</h1>
+
+</div>
+</div>
+	<div class="site grid-container container hfeed" id="page">
+				<div class="site-content" id="content">
+			
+	<div class="content-area" id="primary">
+		<main class="site-main" id="main">
+			
+<article id="post-157" class="post-157 page type-page status-publish" itemtype="https://schema.org/CreativeWork" itemscope="">
+	<div class="inside-article">
+		
+		<div class="entry-content" itemprop="text">
+			<section class="gb-container gb-container-25bc6b91">
+<div class="gb-container gb-container-25df8a5b">
+
+<h1 class="gb-headline gb-headline-b9c16ae3 gb-headline-text">forest meets reggio</h1>
+
+</div>
+</section>
+
+<div class="gb-container gb-container-26680979">
+<div class="gb-grid-wrapper gb-grid-wrapper-7c754cc3">
+<div class="gb-grid-column gb-grid-column-8fbbea03"><div class="gb-container gb-container-8fbbea03">
+
+<h3 class="gb-headline gb-headline-ca0c56a1 gb-headline-text">reggio emilia</h3>
+
+
+<div class="gb-container gb-container-1c4ebd5a">
+
+<p class="gb-headline gb-headline-50b9d9f0"><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" transform="rotate(270)" viewBox="0 0 512 512"><path d="M480.013 31.996c-133.453-70.359-271.75-15.094-360.016 73.172C39.606 185.574 10.044 341.339 56.278 419.37L-.003 475.651l36.359 36.344 56.281-56.266c78.031 46.219 233.797 16.672 314.188-63.718 88.281-88.265 143.547-226.578 73.188-360.015zm-58.328 195.421-107.656-2.516-81.641 81.641 123.031 3.984-1.234 38.063-158.719-5.109-64.188 64.172-26.922-26.922 64.172-64.188-5.109-158.719 38.063-1.234 3.969 123.031 81.641-81.641-2.5-107.656 38.078-.875 1.656 71.297 70.859-70.859 26.938 26.922-70.859 70.875 71.313 1.656-.892 38.078z"></path></svg></span><span class="gb-headline-text">Child as The Protagonist</span></p>
+
+
+
+<p class="gb-headline gb-headline-66b4df88"><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" transform="rotate(270)" viewBox="0 0 512 512"><path d="M480.013 31.996c-133.453-70.359-271.75-15.094-360.016 73.172C39.606 185.574 10.044 341.339 56.278 419.37L-.003 475.651l36.359 36.344 56.281-56.266c78.031 46.219 233.797 16.672 314.188-63.718 88.281-88.265 143.547-226.578 73.188-360.015zm-58.328 195.421-107.656-2.516-81.641 81.641 123.031 3.984-1.234 38.063-158.719-5.109-64.188 64.172-26.922-26.922 64.172-64.188-5.109-158.719 38.063-1.234 3.969 123.031 81.641-81.641-2.5-107.656 38.078-.875 1.656 71.297 70.859-70.859 26.938 26.922-70.859 70.875 71.313 1.656-.892 38.078z"></path></svg></span><span class="gb-headline-text">Environment as Third Teacher</span></p>
+
+
+
+<p class="gb-headline gb-headline-edd9e073"><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" transform="rotate(270)" viewBox="0 0 512 512"><path d="M480.013 31.996c-133.453-70.359-271.75-15.094-360.016 73.172C39.606 185.574 10.044 341.339 56.278 419.37L-.003 475.651l36.359 36.344 56.281-56.266c78.031 46.219 233.797 16.672 314.188-63.718 88.281-88.265 143.547-226.578 73.188-360.015zm-58.328 195.421-107.656-2.516-81.641 81.641 123.031 3.984-1.234 38.063-158.719-5.109-64.188 64.172-26.922-26.922 64.172-64.188-5.109-158.719 38.063-1.234 3.969 123.031 81.641-81.641-2.5-107.656 38.078-.875 1.656 71.297 70.859-70.859 26.938 26.922-70.859 70.875 71.313 1.656-.892 38.078z"></path></svg></span><span class="gb-headline-text">Learning Documentation</span></p>
+
+
+
+<p class="gb-headline gb-headline-282b68f5"><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" transform="rotate(270)" viewBox="0 0 512 512"><path d="M480.013 31.996c-133.453-70.359-271.75-15.094-360.016 73.172C39.606 185.574 10.044 341.339 56.278 419.37L-.003 475.651l36.359 36.344 56.281-56.266c78.031 46.219 233.797 16.672 314.188-63.718 88.281-88.265 143.547-226.578 73.188-360.015zm-58.328 195.421-107.656-2.516-81.641 81.641 123.031 3.984-1.234 38.063-158.719-5.109-64.188 64.172-26.922-26.922 64.172-64.188-5.109-158.719 38.063-1.234 3.969 123.031 81.641-81.641-2.5-107.656 38.078-.875 1.656 71.297 70.859-70.859 26.938 26.922-70.859 70.875 71.313 1.656-.892 38.078z"></path></svg></span><span class="gb-headline-text">Collaborative Learning</span></p>
+
+
+
+<p class="gb-headline gb-headline-929190bc"><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" transform="rotate(270)" viewBox="0 0 512 512"><path d="M480.013 31.996c-133.453-70.359-271.75-15.094-360.016 73.172C39.606 185.574 10.044 341.339 56.278 419.37L-.003 475.651l36.359 36.344 56.281-56.266c78.031 46.219 233.797 16.672 314.188-63.718 88.281-88.265 143.547-226.578 73.188-360.015zm-58.328 195.421-107.656-2.516-81.641 81.641 123.031 3.984-1.234 38.063-158.719-5.109-64.188 64.172-26.922-26.922 64.172-64.188-5.109-158.719 38.063-1.234 3.969 123.031 81.641-81.641-2.5-107.656 38.078-.875 1.656 71.297 70.859-70.859 26.938 26.922-70.859 70.875 71.313 1.656-.892 38.078z"></path></svg></span><span class="gb-headline-text">Nature as a Palette</span></p>
+
+</div>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-b59590ef"><div class="gb-container gb-container-b59590ef">
+
+<p class="gb-headline gb-headline-e08d3347 gb-headline-text">+</p>
+
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-3c4822b1"><div class="gb-container gb-container-3c4822b1">
+
+<h3 class="gb-headline gb-headline-90bacc69 gb-headline-text">Outdoor learning</h3>
+
+
+<div class="gb-container gb-container-1b3ba193">
+
+<p class="gb-headline gb-headline-b7df0445"><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" transform="rotate(270)" viewBox="0 0 512 512"><path d="M480.013 31.996c-133.453-70.359-271.75-15.094-360.016 73.172C39.606 185.574 10.044 341.339 56.278 419.37L-.003 475.651l36.359 36.344 56.281-56.266c78.031 46.219 233.797 16.672 314.188-63.718 88.281-88.265 143.547-226.578 73.188-360.015zm-58.328 195.421-107.656-2.516-81.641 81.641 123.031 3.984-1.234 38.063-158.719-5.109-64.188 64.172-26.922-26.922 64.172-64.188-5.109-158.719 38.063-1.234 3.969 123.031 81.641-81.641-2.5-107.656 38.078-.875 1.656 71.297 70.859-70.859 26.938 26.922-70.859 70.875 71.313 1.656-.892 38.078z"></path></svg></span><span class="gb-headline-text">Holistic Development</span></p>
+
+
+
+<p class="gb-headline gb-headline-3b449191"><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" transform="rotate(270)" viewBox="0 0 512 512"><path d="M480.013 31.996c-133.453-70.359-271.75-15.094-360.016 73.172C39.606 185.574 10.044 341.339 56.278 419.37L-.003 475.651l36.359 36.344 56.281-56.266c78.031 46.219 233.797 16.672 314.188-63.718 88.281-88.265 143.547-226.578 73.188-360.015zm-58.328 195.421-107.656-2.516-81.641 81.641 123.031 3.984-1.234 38.063-158.719-5.109-64.188 64.172-26.922-26.922 64.172-64.188-5.109-158.719 38.063-1.234 3.969 123.031 81.641-81.641-2.5-107.656 38.078-.875 1.656 71.297 70.859-70.859 26.938 26.922-70.859 70.875 71.313 1.656-.892 38.078z"></path></svg></span><span class="gb-headline-text">Nature as the Classroom</span></p>
+
+
+
+<p class="gb-headline gb-headline-d107714a"><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" transform="rotate(270)" viewBox="0 0 512 512"><path d="M480.013 31.996c-133.453-70.359-271.75-15.094-360.016 73.172C39.606 185.574 10.044 341.339 56.278 419.37L-.003 475.651l36.359 36.344 56.281-56.266c78.031 46.219 233.797 16.672 314.188-63.718 88.281-88.265 143.547-226.578 73.188-360.015zm-58.328 195.421-107.656-2.516-81.641 81.641 123.031 3.984-1.234 38.063-158.719-5.109-64.188 64.172-26.922-26.922 64.172-64.188-5.109-158.719 38.063-1.234 3.969 123.031 81.641-81.641-2.5-107.656 38.078-.875 1.656 71.297 70.859-70.859 26.938 26.922-70.859 70.875 71.313 1.656-.892 38.078z"></path></svg></span><span class="gb-headline-text">Connection With Environment</span></p>
+
+
+
+<p class="gb-headline gb-headline-e578e251"><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" transform="rotate(270)" viewBox="0 0 512 512"><path d="M480.013 31.996c-133.453-70.359-271.75-15.094-360.016 73.172C39.606 185.574 10.044 341.339 56.278 419.37L-.003 475.651l36.359 36.344 56.281-56.266c78.031 46.219 233.797 16.672 314.188-63.718 88.281-88.265 143.547-226.578 73.188-360.015zm-58.328 195.421-107.656-2.516-81.641 81.641 123.031 3.984-1.234 38.063-158.719-5.109-64.188 64.172-26.922-26.922 64.172-64.188-5.109-158.719 38.063-1.234 3.969 123.031 81.641-81.641-2.5-107.656 38.078-.875 1.656 71.297 70.859-70.859 26.938 26.922-70.859 70.875 71.313 1.656-.892 38.078z"></path></svg></span><span class="gb-headline-text">Exploration and Adaptation</span></p>
+
+
+
+<p class="gb-headline gb-headline-af2be84e"><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" transform="rotate(270)" viewBox="0 0 512 512"><path d="M480.013 31.996c-133.453-70.359-271.75-15.094-360.016 73.172C39.606 185.574 10.044 341.339 56.278 419.37L-.003 475.651l36.359 36.344 56.281-56.266c78.031 46.219 233.797 16.672 314.188-63.718 88.281-88.265 143.547-226.578 73.188-360.015zm-58.328 195.421-107.656-2.516-81.641 81.641 123.031 3.984-1.234 38.063-158.719-5.109-64.188 64.172-26.922-26.922 64.172-64.188-5.109-158.719 38.063-1.234 3.969 123.031 81.641-81.641-2.5-107.656 38.078-.875 1.656 71.297 70.859-70.859 26.938 26.922-70.859 70.875 71.313 1.656-.892 38.078z"></path></svg></span><span class="gb-headline-text">Social Harmony</span></p>
+
+</div>
+</div></div>
+</div>
+</div>
+
+<section class="gb-container gb-container-9b8166a1">
+<div class="gb-container gb-container-8cdeea46">
+
+<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="597" height="171" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20597%20171'%3E%3C/svg%3E" alt="" class="wp-image-1446" style="width:70px;height:auto" data-lazy-src="//forrestpreschool.com/wp-content/uploads/2023/11/wiggle-line2-icon.svg"><noscript><img fetchpriority="high" decoding="async" width="597" height="171" src="//forrestpreschool.com/wp-content/uploads/2023/11/wiggle-line2-icon.svg" alt="" class="wp-image-1446" style="width:70px;height:auto"/></noscript></figure>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="684" height="298" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20684%20298'%3E%3C/svg%3E" alt="" class="wp-image-1561" style="width:87px;height:auto" data-lazy-src="//forrestpreschool.com/wp-content/uploads/2023/11/bus-stickman-icon.svg"><noscript><img decoding="async" width="684" height="298" src="//forrestpreschool.com/wp-content/uploads/2023/11/bus-stickman-icon.svg" alt="" class="wp-image-1561" style="width:87px;height:auto"/></noscript></figure>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="751" height="182" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20751%20182'%3E%3C/svg%3E" alt="" class="wp-image-1445" style="width:83px;height:auto" data-lazy-src="//forrestpreschool.com/wp-content/uploads/2023/11/wiggle-line1-icon.svg"><noscript><img decoding="async" width="751" height="182" src="//forrestpreschool.com/wp-content/uploads/2023/11/wiggle-line1-icon.svg" alt="" class="wp-image-1445" style="width:83px;height:auto"/></noscript></figure>
+
+</div>
+
+<div class="gb-container gb-container-792d8ee5">
+
+<p class="gb-headline gb-headline-003713ce gb-headline-text"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-contrast-4-color">Our purpose</mark></p>
+
+
+
+<h3 class="gb-headline gb-headline-0d874eec gb-headline-text"><strong>magic in their hands</strong></h3>
+
+
+
+<p class="has-text-align-left">At Forrest Preschool, children discover magic as they explore their surroundings hands-on. Our outdoor area serves as a miniature nature classroom, inviting students to extend their learning beyond conventional boundaries. We’re confident that such a space fosters natural creativity, making their academic experiences more meaningful.</p>
+
+
+
+<p class="has-text-align-left"><strong><span style="text-decoration: underline;">What Drives Us</span></strong></p>
+
+
+
+<p class="has-text-align-left">Our goal? Our commitment is to steer your child towards growth, transforming them into proactive thinkers, doers, and observant explorers. The early years are crucial to your child’s development, and we aim to capitalize on every moment. We believe that increased outdoor learning allows them to fully enjoy this period without compromising essential education.</p>
+
+
+
+<p class="has-text-align-left"><strong><span style="text-decoration: underline;">Looking Ahead</span></strong></p>
+
+
+
+<p class="has-text-align-left">Our vision for Forrest Preschool is to create a unique haven in Singapore where children grow with dirt-streaked hands, joyous laughter, and profound respect for their surroundings. Our focus extends beyond academic preparation to life skills. If you’re a parent looking for a unique, closely-knitted, inclusive preschool experience, you will like it here in Forrest Preschool.</p>
+
+
+<div class="gb-container gb-container-ad03e433">
+
+<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="597" height="171" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20597%20171'%3E%3C/svg%3E" alt="" class="wp-image-1446" style="width:70px;height:auto" data-lazy-src="//forrestpreschool.com/wp-content/uploads/2023/11/wiggle-line2-icon.svg"><noscript><img fetchpriority="high" decoding="async" width="597" height="171" src="//forrestpreschool.com/wp-content/uploads/2023/11/wiggle-line2-icon.svg" alt="" class="wp-image-1446" style="width:70px;height:auto"/></noscript></figure>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="383" height="338" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20383%20338'%3E%3C/svg%3E" alt="" class="wp-image-1456" style="width:71px;height:auto" data-lazy-src="//forrestpreschool.com/wp-content/uploads/2023/11/chicken-icon.svg"><noscript><img decoding="async" width="383" height="338" src="//forrestpreschool.com/wp-content/uploads/2023/11/chicken-icon.svg" alt="" class="wp-image-1456" style="width:71px;height:auto"/></noscript></figure>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="751" height="182" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20751%20182'%3E%3C/svg%3E" alt="" class="wp-image-1445" style="width:83px;height:auto" data-lazy-src="//forrestpreschool.com/wp-content/uploads/2023/11/wiggle-line1-icon.svg"><noscript><img decoding="async" width="751" height="182" src="//forrestpreschool.com/wp-content/uploads/2023/11/wiggle-line1-icon.svg" alt="" class="wp-image-1445" style="width:83px;height:auto"/></noscript></figure>
+
+</div>
+</div>
+
+<section class="gb-container gb-container-d3c5dfdf">
+
+<p class="gb-headline gb-headline-7a2a9358 gb-headline-text"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-contrast-4-color">Our path</mark></p>
+
+
+
+<h3 class="gb-headline gb-headline-cc1718b9 gb-headline-text">why we started? </h3>
+
+
+<div class="gb-container gb-container-47c4bf84">
+<div class="gb-container gb-container-6453c58d">
+<div class="gb-grid-wrapper gb-grid-wrapper-f3281b31">
+<div class="gb-grid-column gb-grid-column-f4f95654"><div class="gb-container gb-container-f4f95654">
+
+<p class="has-text-align-left">We identified a gap in children’s learning experiences: the opportunity to explore and learn from the natural world. While many laud the benefits of outdoor play—how it ignites creativity, hones problem-solving skills, and boosts happiness—we’re committed to making it a reality. But we saw that actual, hands-on nature time was getting squeezed out of their busy schedules.</p>
+
+
+
+<p class="has-text-align-left">So, we took action and established an environment where outdoor learning isn’t an occasional luxury—it’s a daily experience. Here, muddy shoes are a symbol of exploration, and curiosity thrives on the authentic world surrounding us.</p>
+
+
+
+<p class="has-text-align-left"><strong><span style="text-decoration: underline;">Our Path</span></strong></p>
+
+
+
+<p class="has-text-align-left">From the start, our hearts have been set on blending the indoors and outdoors to create a learning environment that’s truly alive. <br><br>Our aim? To give kids the room they need to stretch, grow, and bloom right alongside the farms and ponds they play among.</p>
+
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-b26689cd"><div class="gb-container gb-container-b26689cd"></div></div>
+</div>
+</div>
+</div>
+</section>
+</section>
+
+<section class="gb-container gb-container-cce485b1">
+<div class="gb-container gb-container-23d07c0c">
+<div class="gb-container gb-container-18ba34b2">
+
+<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="597" height="171" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20597%20171'%3E%3C/svg%3E" alt="" class="wp-image-1446" style="width:70px;height:auto" data-lazy-src="//forrestpreschool.com/wp-content/uploads/2023/11/wiggle-line2-icon.svg"><noscript><img fetchpriority="high" decoding="async" width="597" height="171" src="//forrestpreschool.com/wp-content/uploads/2023/11/wiggle-line2-icon.svg" alt="" class="wp-image-1446" style="width:70px;height:auto"/></noscript></figure>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img decoding="async" width="274" height="238" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20274%20238'%3E%3C/svg%3E" alt="" class="wp-image-1455" style="width:74px;height:auto" data-lazy-src="//forrestpreschool.com/wp-content/uploads/2023/11/bee-stickman.svg"><noscript><img decoding="async" width="274" height="238" src="//forrestpreschool.com/wp-content/uploads/2023/11/bee-stickman.svg" alt="" class="wp-image-1455" style="width:74px;height:auto"/></noscript></figure>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" width="751" height="182" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20751%20182'%3E%3C/svg%3E" alt="" class="wp-image-1445" style="width:83px;height:auto" data-lazy-src="//forrestpreschool.com/wp-content/uploads/2023/11/wiggle-line1-icon.svg"><noscript><img decoding="async" width="751" height="182" src="//forrestpreschool.com/wp-content/uploads/2023/11/wiggle-line1-icon.svg" alt="" class="wp-image-1445" style="width:83px;height:auto"/></noscript></figure>
+
+</div>
+
+
+<p class="gb-headline gb-headline-4f6a1743 gb-headline-text"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-contrast-4-color">Our uniqueness</mark></p>
+
+
+
+<h3 class="gb-headline gb-headline-8122f581 gb-headline-text"><strong><strong>What sets us apart</strong></strong>?</h3>
+
+
+
+<p class="has-text-align-left">At Forrest Preschool, we harmonize the innovative, child-centered Reggio Emilia method with Singapore’s natural beauty. By fusing indoor and outdoor learning, we get to expose our kids to a very different preschool experience that works for and is tailored to children living in Singapore.</p>
+
+
+
+<p class="has-text-align-left">While every location has its own restrictions, we strive daily to broaden these confines to deliver a comprehensive education. We commit to understanding each child individually and adapting our methods to foster their unique growth and development.</p>
+
+
+
+<p class="has-text-align-left">We promise to keep our grounds a safe haven where curiosity leads the way to learning. Here, nature is a part-time teacher, and a capable one who gives children the freedom to express themselves and learn all they can absorb.</p>
+
+</div>
+</section>
+
+<section class="gb-container gb-container-5f8c95fd">
+<div class="gb-container gb-container-6bec2653">
+<div class="gb-container gb-container-9af82321">
+
+<p class="gb-headline gb-headline-3bc6c1a2 gb-headline-text">30+</p>
+
+
+
+<p class="gb-headline gb-headline-4e9e9a73 gb-headline-text"><strong>Trees planted</strong></p>
+
+</div>
+
+<div class="gb-container gb-container-3df45fd3">
+
+<p class="gb-headline gb-headline-e180e10d gb-headline-text">25+</p>
+
+
+
+<p class="gb-headline gb-headline-f3c8ada6 gb-headline-text"><strong>Animal Projects</strong></p>
+
+</div>
+
+<div class="gb-container gb-container-5e0b6b29">
+
+<p class="gb-headline gb-headline-69b8e88d gb-headline-text">15+</p>
+
+
+
+<p class="gb-headline gb-headline-909a7255 gb-headline-text"><strong>Environmental projects</strong></p>
+
+</div>
+
+<div class="gb-container gb-container-f9e14877">
+
+<p class="gb-headline gb-headline-b32e0556 gb-headline-text">5+</p>
+
+
+
+<p class="gb-headline gb-headline-5b03f804 gb-headline-text"><strong>Years of experience</strong></p>
+
+</div>
+</div>
+</section>		</div>
+
+			</div>
+</article>
+		</main>
+	</div>
+
+	
+	</div>
+</div>
+
+<section class="gb-container gb-container-828f2cb9">
+<div class="gb-container gb-container-a7651adb">
+<div class="gb-container gb-container-e6110553">
+
+<h3 class="gb-headline gb-headline-78359414 gb-headline-text"><strong>Schedule Your  Discovery Tour</strong></h3>
+
+
+
+<p class="gb-headline gb-headline-077460c8 gb-headline-text">Explore our lively outdoor learning environment and discover the opportunities awaiting your child at Forrest Preschool.</p>
+
+
+<div class="gb-container gb-container-50f0422c">
+
+<a class="gb-button gb-button-6983cfa1 gb-button-text sg-popup-id-2301" href="https://forrestpreschool.com/school-tour/">I'm Interested!</a>
+
+</div>
+</div>
+
+<div data-bg="https://forrestpreschool.com/wp-content/uploads/2023/11/fps-homepage-cta-image3-part2-scaled.jpg" class="gb-container gb-container-c17e907d rocket-lazyload" style="">
+<div data-bg="https://forrestpreschool.com/wp-content/uploads/2023/11/fps-homepage-cta-image3-part1-scaled.jpg" class="gb-container gb-container-73379da2 rocket-lazyload" style=""></div>
+</div>
+</div>
+</section>
+<div class="site-footer">
+	<footer class="gb-container gb-container-4bc5556e" style="--background-image: url(https://forrestpreschool.com/wp-content/uploads/2023/01/fps-footer-bg-scaled.jpg);">
+<div class="gb-container gb-container-bbab8404">
+<div class="gb-grid-wrapper gb-grid-wrapper-953a594b">
+<div class="gb-grid-column gb-grid-column-c3240eab"><div class="gb-container gb-container-c3240eab">
+
+<h2 class="gb-headline gb-headline-3f8ea196"><span class="gb-icon"><svg viewBox="0 0 150 150" height="150" width="150" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><image xlink:href="data:img/png;base64,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" height="141" width="130" y="9" x="10" id="logo"></image></svg></span><span class="gb-headline-text">forrest preschool</span></h2>
+
+
+
+<p class="gb-headline gb-headline-e347d72f gb-headline-text">Forrest Preschool: Nature-inspired, child-centered learning for a lifelong love of education and the environment.</p>
+
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-486ce914"><div class="gb-container gb-container-486ce914">
+
+<h3 class="gb-headline gb-headline-3306bf4d gb-headline-text">Information</h3>
+
+
+<div class="gb-container gb-container-86cd7059">
+<div class="gb-container gb-container-129d1250"></div>
+
+<div class="gb-container gb-container-397790d6"></div>
+</div>
+
+
+<p class="gb-headline gb-headline-80de0fc5"><span class="gb-icon"><svg viewBox="0 0 256 512" xmlns="http://www.w3.org/2000/svg"><path d="M246.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-9.2-9.2-22.9-11.9-34.9-6.9S63.9 115 63.9 128v256c0 12.9 7.8 24.6 19.8 29.6s25.7 2.2 34.9-6.9l128-128z"></path></svg></span><span class="gb-headline-text"><a href="https://forrestpreschool.com/environment/" data-type="page" data-id="161">environment</a></span></p>
+
+
+
+<p class="gb-headline gb-headline-60bdcf1e"><span class="gb-icon"><svg viewBox="0 0 256 512" xmlns="http://www.w3.org/2000/svg"><path d="M246.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-9.2-9.2-22.9-11.9-34.9-6.9S63.9 115 63.9 128v256c0 12.9 7.8 24.6 19.8 29.6s25.7 2.2 34.9-6.9l128-128z"></path></svg></span><span class="gb-headline-text"><a href="https://forrestpreschool.com/about-us/" data-type="page" data-id="157">About us</a></span></p>
+
+
+
+<p class="gb-headline gb-headline-d31d2197"><span class="gb-icon"><svg viewBox="0 0 256 512" xmlns="http://www.w3.org/2000/svg"><path d="M246.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-9.2-9.2-22.9-11.9-34.9-6.9S63.9 115 63.9 128v256c0 12.9 7.8 24.6 19.8 29.6s25.7 2.2 34.9-6.9l128-128z"></path></svg></span><span class="gb-headline-text"><a href="https://forrestpreschool.com/fees-and-subsidies/" data-type="page" data-id="2672">Fees &amp; Subsidies</a></span></p>
+
+
+
+<p class="gb-headline gb-headline-0ad1f754"><span class="gb-icon"><svg viewBox="0 0 256 512" xmlns="http://www.w3.org/2000/svg"><path d="M246.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-9.2-9.2-22.9-11.9-34.9-6.9S63.9 115 63.9 128v256c0 12.9 7.8 24.6 19.8 29.6s25.7 2.2 34.9-6.9l128-128z"></path></svg></span><span class="gb-headline-text"><a href="https://forrestpreschool.com/school-bus-service/" data-type="page" data-id="2638">School bus Service</a></span></p>
+
+
+
+<p class="gb-headline gb-headline-08dafe71"><span class="gb-icon"><svg viewBox="0 0 256 512" xmlns="http://www.w3.org/2000/svg"><path d="M246.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-9.2-9.2-22.9-11.9-34.9-6.9S63.9 115 63.9 128v256c0 12.9 7.8 24.6 19.8 29.6s25.7 2.2 34.9-6.9l128-128z"></path></svg></span><span class="gb-headline-text"><a href="https://forrestpreschool.com/blog/" data-type="page" data-id="23">blog</a></span></p>
+
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-28e7fea8"><div class="gb-container gb-container-28e7fea8">
+
+<h3 class="gb-headline gb-headline-27b67bc0 gb-headline-text">Contact us</h3>
+
+
+<div class="gb-container gb-container-bc4403f8">
+<div class="gb-container gb-container-e0907a11"></div>
+
+<div class="gb-container gb-container-28950d0c"></div>
+</div>
+
+
+<p class="gb-headline gb-headline-7db061ea gb-headline-text">Phone: <a href="tel: +65 8803 2526">+65 8803 2526</a></p>
+
+
+
+<p class="gb-headline gb-headline-5a2faae1 gb-headline-text">Email: <a href="mailto:hello@forrestpreschool.com">hello@forrestpreschool.com</a></p>
+
+
+
+<p class="gb-headline gb-headline-fcbdbd66 gb-headline-text">Address: 17 Jalan Cherpen Singapore 769923</p>
+
+
+<div class="gb-container gb-container-f6b51228">
+
+<a class="gb-button gb-button-8da177a5" href="https://facebook.com/forrestpreschool"><span class="gb-icon"><svg aria-hidden="true" role="img" height="1em" width="1em" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg></span></a>
+
+
+
+<a class="gb-button gb-button-05e2f524" href="https://instagram.com/forrestpreschoolsg"><span class="gb-icon"><svg aria-hidden="true" role="img" height="1em" width="1em" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></span></a>
+
+
+
+<a class="gb-button gb-button-9820982d" href="https://www.linkedin.com/in/forrest-preschool-Singapore/"><span class="gb-icon"><svg aria-hidden="true" role="img" height="1em" width="1em" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg></span></a>
+
+</div>
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-54058a0e"><div class="gb-container gb-container-54058a0e">
+
+<h3 class="gb-headline gb-headline-f68b1bce gb-headline-text">Schedule Tour</h3>
+
+
+<div class="gb-container gb-container-d4d96011">
+<div class="gb-container gb-container-e534137f"></div>
+
+<div class="gb-container gb-container-a6baf7a2"></div>
+</div>
+
+
+<p class="gb-headline gb-headline-fbf8bc1f"><span class="gb-icon"><svg viewBox="0 0 256 256" height="192" width="192" xmlns="http://www.w3.org/2000/svg"><path d="M0 0h256v256H0z" fill="none"></path><path d="M159.4 40A80.1 80.1 0 0 1 216 96.6M151.1 70.9a47.9 47.9 0 0 1 34 34M92.5 124.8a83.6 83.6 0 0 0 39 38.9 8 8 0 0 0 7.9-.6l25-16.7a7.9 7.9 0 0 1 7.6-.7l46.8 20.1a7.9 7.9 0 0 1 4.8 8.3A48 48 0 0 1 176 216 136 136 0 0 1 40 80a48 48 0 0 1 41.9-47.6 7.9 7.9 0 0 1 8.3 4.8l20.1 46.9a8 8 0 0 1-.6 7.5L93 117a8 8 0 0 0-.5 7.8Z" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"></path></svg></span><span class="gb-headline-text"><a href="tel:+6588032526">8803 2526</a></span></p>
+
+
+
+<p class="gb-headline gb-headline-ee39601c gb-headline-text">Get in touch by calling us or you can</p>
+
+
+<div class="gb-container gb-container-bda5cc91">
+
+<a class="gb-button gb-button-098bd5a8 gb-button-text sg-popup-id-2301" href="https://forrestpreschool.com/school-tour/">Schedule Tour</a>
+
+</div>
+</div></div>
+</div>
+</div>
+
+<div class="gb-container gb-container-589f6540">
+
+<p class="gb-headline gb-headline-5ad40171 gb-headline-text">2023 © Forrest Preschool Pte Ltd</p>
+
+
+<div class="gb-container gb-container-36412dcb">
+
+<p class="gb-headline gb-headline-33c832d3 gb-headline-text"><a href="#">Privacy policy</a></p>
+
+</div>
+</div>
+</footer></div>
+
+		<nav id="generate-slideout-menu" class="main-navigation slideout-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="">
+			<div class="inside-navigation grid-container grid-parent">
+				<button class="slideout-exit has-svg-icon"><span class="gp-icon pro-close">
+				<svg viewBox="0 0 512 512" aria-hidden="true" role="img" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1em" height="1em">
+					<path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z"></path>
+				</svg>
+			</span> <span class="screen-reader-text">Close</span></button><div class="main-nav"><ul id="menu-main-1" class=" slideout-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-383"><a href="https://forrestpreschool.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-157 current_page_item menu-item-has-children menu-item-384"><a href="https://forrestpreschool.com/about-us/" aria-current="page">About Us<span role="presentation" class="dropdown-menu-toggle"><span class="gp-icon icon-arrow"><svg viewBox="0 0 330 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M305.913 197.085c0 2.266-1.133 4.815-2.833 6.514L171.087 335.593c-1.7 1.7-4.249 2.832-6.515 2.832s-4.815-1.133-6.515-2.832L26.064 203.599c-1.7-1.7-2.832-4.248-2.832-6.514s1.132-4.816 2.832-6.515l14.162-14.163c1.7-1.699 3.966-2.832 6.515-2.832 2.266 0 4.815 1.133 6.515 2.832l111.316 111.317 111.316-111.317c1.7-1.699 4.249-2.832 6.515-2.832s4.815 1.133 6.515 2.832l14.162 14.163c1.7 1.7 2.833 4.249 2.833 6.515z"></path></svg></span></span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2645"><a href="https://forrestpreschool.com/school-bus-service/">School Bus Service</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2644"><a href="https://forrestpreschool.com/preschool-excursions-in-sembawang-singapore/">Forrest Excursions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2688"><a href="https://forrestpreschool.com/fees-and-subsidies/">Fees and Subsidies</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-386"><a href="https://forrestpreschool.com/environment/">Environment</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2908"><a href="https://forrestpreschool.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-385"><a href="https://forrestpreschool.com/contact/">Contact</a></li>
+</ul></div>
+<a class="gb-button gb-button-3e53fdf1 gb-button-text sg-popup-id-2301" href="https://forrestpreschool.com/school-tour/">Schedule Tour</a>
+			</div><!-- .inside-navigation -->
+		</nav><!-- #site-navigation -->
+
+					<div class="slideout-overlay">
+							</div>
+			<script type="rocketlazyloadscript" id="generate-a11y">!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("mousedown",function(){e.classList.add("using-mouse")}),e.addEventListener("keydown",function(){e.classList.remove("using-mouse")})}}();</script><div id="qlwapp" class="qlwapp qlwapp-free qlwapp-button qlwapp-bottom-right qlwapp-all qlwapp-rounded">
+	<div class="qlwapp-container">
+		
+		<a class="qlwapp-toggle" data-action="open" data-phone="6588032526" data-message="Hello Forrest Preschool! I'm reaching out in regards to" role="button" tabindex="0" target="_blank">
+							<i class="qlwapp-icon qlwapp-whatsapp-icon"></i>
+						<i class="qlwapp-close" data-action="close">×</i>
+							<span class="qlwapp-text">Whatsapp us!</span>
+					</a>
+	</div>
+</div>
+<script type="rocketlazyloadscript" src="//forrestpreschool.com/wp-content/plugins/gp-premium/menu-plus/functions/js/sticky.min.js?ver=2.4.0" id="generate-sticky-js" defer=""></script>
+<script id="generate-offside-js-extra">
+var offSide = {"side":"left"};
+</script>
+<script type="rocketlazyloadscript" src="//forrestpreschool.com/wp-content/plugins/gp-premium/menu-plus/functions/js/offside.min.js?ver=2.4.0" id="generate-offside-js" defer=""></script>
+<script type="rocketlazyloadscript" id="rocket-browser-checker-js-after">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script id="rocket-preload-links-js-extra">
+var RocketPreloadLinksConfig = {"excludeUris":"\/ebrochure\/|\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/forrestpreschool.com","onHoverDelay":"100","rateThrottle":"3"};
+</script>
+<script type="rocketlazyloadscript" id="rocket-preload-links-js-after">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<!--[if lte IE 11]>
+<script src="//forrestpreschool.com/wp-content/themes/generatepress/assets/js/classList.min.js?ver=3.4.0" id="generate-classlist-js"></script>
+<![endif]-->
+<script id="generate-menu-js-extra">
+var generatepressMenu = {"toggleOpenedSubMenus":"1","openSubMenuLabel":"Open Sub-Menu","closeSubMenuLabel":"Close Sub-Menu"};
+</script>
+<script type="rocketlazyloadscript" src="//forrestpreschool.com/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.4.0" id="generate-menu-js" defer=""></script>
+<script type="rocketlazyloadscript" src="//forrestpreschool.com/wp-content/plugins/3d-flipbook-dflip-lite/assets/js/dflip.min.js?ver=2.2.32" id="dflip-script-js" defer=""></script>
+<script type="rocketlazyloadscript" data-minify="1" src="//forrestpreschool.com/wp-content/cache/min/1/wp-content/plugins/wp-whatsapp-chat/build/frontend/js/index.js?ver=1711079524" id="qlwapp-js" defer=""></script>
+<script type="rocketlazyloadscript" data-cfasync="false"> var dFlipLocation = "https://forrestpreschool.com/wp-content/plugins/3d-flipbook-dflip-lite/assets/"; var dFlipWPGlobal = {"text":{"toggleSound":"Turn on\/off Sound","toggleThumbnails":"Toggle Thumbnails","toggleOutline":"Toggle Outline\/Bookmark","previousPage":"Previous Page","nextPage":"Next Page","toggleFullscreen":"Toggle Fullscreen","zoomIn":"Zoom In","zoomOut":"Zoom Out","toggleHelp":"Toggle Help","singlePageMode":"Single Page Mode","doublePageMode":"Double Page Mode","downloadPDFFile":"Download PDF File","gotoFirstPage":"Goto First Page","gotoLastPage":"Goto Last Page","share":"Share","mailSubject":"I wanted you to see this FlipBook","mailBody":"Check out this site {{url}}","loading":"DearFlip: Loading "},"moreControls":"download,pageMode,startPage,endPage,sound","hideControls":"","scrollWheel":"false","backgroundColor":"#777","backgroundImage":"","height":"auto","paddingLeft":"20","paddingRight":"20","controlsPosition":"bottom","duration":800,"soundEnable":"true","enableDownload":"true","showSearchControl":"false","showPrintControl":"false","enableAnnotation":false,"enableAnalytics":"false","webgl":"true","hard":"none","maxTextureSize":"1600","rangeChunkSize":"524288","zoomRatio":1.5,"stiffness":3,"pageMode":"0","singlePageMode":"0","pageSize":"0","autoPlay":"false","autoPlayDuration":5000,"autoPlayStart":"false","linkTarget":"2","sharePrefix":"flipbook-"};</script><script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script type="rocketlazyloadscript" data-no-minify="1" async="" src="//forrestpreschool.com/wp-content/plugins/wp-rocketdup/assets/js/lazyload/17.5/lazyload.min.js"></script>
+
+
+
+</body></html>
