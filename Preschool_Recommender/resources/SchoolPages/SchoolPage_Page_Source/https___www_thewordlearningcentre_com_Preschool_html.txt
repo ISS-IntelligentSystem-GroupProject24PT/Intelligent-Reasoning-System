@@ -306,17 +306,17 @@ body{overflow-y:scroll}.menu-content{cursor:pointer;position:relative}li{-webkit
 </div>
 </div>
 <div class="v1 ps237 s285 c3">
-<div class="anim js224 v1 ps6 s286 c309" style="visibility: hidden; animation-direction: normal; animation-duration: 1s; animation-delay: 0s; animation-iteration-count: 1; animation-name: none;">
+<div class="anim fadeInUp js224 v1 ps6 s286 c309" style="visibility: hidden; animation-direction: normal; animation-duration: 1s; animation-delay: 0s; animation-iteration-count: 1; animation-name: none;">
 <p class="p1 f1">PRESIDENT.</p>
 <p class="p1 f2">Tortor mauris tempor odio, sed pretium risus dui sit amet lectus.</p>
 </div>
-<div class="anim js225 v1 ps238 s286 c310" style="visibility: hidden; animation-direction: normal; animation-duration: 1s; animation-delay: 0s; animation-iteration-count: 1; animation-name: none;">
+<div class="anim fadeInUp js225 v1 ps238 s286 c310" style="visibility: hidden; animation-direction: normal; animation-duration: 1s; animation-delay: 0s; animation-iteration-count: 1; animation-name: none;">
 <p class="p1 f1">STRATEGIST.</p>
 <p class="p1 f2">Tortor mauris tempor odio, sed pretium risus dui sit amet lectus.</p>
 </div>
 </div>
 <div class="v1 ps239 s287 c3">
-<div class="anim js227 v1 ps6 s288 c22" style="visibility: hidden; animation-direction: normal; animation-duration: 1s; animation-delay: 0s; animation-iteration-count: 1; animation-name: none;">
+<div class="anim fadeInUp js227 v1 ps6 s288 c22" style="visibility: hidden; animation-direction: normal; animation-duration: 1s; animation-delay: 0s; animation-iteration-count: 1; animation-name: none;">
 <picture class="i2 js267">
 <source data-srcset="images/bb483dc89c3c-104.webp 1x, images/bb483dc89c3c-208.webp 2x" type="image/webp" media="(max-width:479px)" srcset="images/bb483dc89c3c-104.webp 1x, images/bb483dc89c3c-208.webp 2x">
 <source data-srcset="images/bb483dc89c3c-104.jpg 1x, images/bb483dc89c3c-208.jpg 2x" media="(max-width:479px)" srcset="images/bb483dc89c3c-104.jpg 1x, images/bb483dc89c3c-208.jpg 2x">
@@ -331,7 +331,7 @@ body{overflow-y:scroll}.menu-content{cursor:pointer;position:relative}li{-webkit
 <img data-src="images/bb483dc89c3c-104.jpg" class="js226 i46" src="images/bb483dc89c3c-104.jpg">
 </picture>
 </div>
-<div class="anim js229 v1 ps240 s289 c311" style="visibility: hidden; animation-direction: normal; animation-duration: 1s; animation-delay: 0s; animation-iteration-count: 1; animation-name: none;">
+<div class="anim fadeInUp js229 v1 ps240 s289 c311" style="visibility: hidden; animation-direction: normal; animation-duration: 1s; animation-delay: 0s; animation-iteration-count: 1; animation-name: none;">
 <picture class="i2 js268">
 <source data-srcset="images/bb4839ca9b2755-105.webp 1x, images/bb4839ca9b2755-210.webp 2x" type="image/webp" media="(max-width:479px)" srcset="images/bb4839ca9b2755-105.webp 1x, images/bb4839ca9b2755-210.webp 2x">
 <source data-srcset="images/bb4839ca9b2755-105.jpg 1x, images/bb4839ca9b2755-210.jpg 2x" media="(max-width:479px)" srcset="images/bb4839ca9b2755-105.jpg 1x, images/bb4839ca9b2755-210.jpg 2x">
@@ -347,7 +347,7 @@ body{overflow-y:scroll}.menu-content{cursor:pointer;position:relative}li{-webkit
 </picture>
 </div>
 </div>
-<div class="anim js230 v1 ps241 s286 c312" style="visibility: hidden; animation-direction: normal; animation-duration: 1s; animation-delay: 0s; animation-iteration-count: 1; animation-name: none;">
+<div class="anim fadeInUp js230 v1 ps241 s286 c312" style="visibility: hidden; animation-direction: normal; animation-duration: 1s; animation-delay: 0s; animation-iteration-count: 1; animation-name: none;">
 <p class="p1 f1">SALES.</p>
 <p class="p1 f2">Tortor mauris tempor odio, sed pretium risus dui sit amet lectus.</p>
 </div>

@@ -83,11 +83,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <style id="woocommerce-inline-inline-css" type="text/css">
 .woocommerce form .form-row .required { visibility: visible; }
 </style>
-<link rel="stylesheet" id="bootstrap-style-css" href="https://sunbird.com.sg/wp-content/themes/sunbird/assets/css/bootstrap.min.css?ver=671536770" type="text/css" media="all">
-<link rel="stylesheet" id="fancybox-style-css" href="https://sunbird.com.sg/wp-content/themes/sunbird/assets/fancybox/jquery.fancybox.min.css?ver=919166590" type="text/css" media="all">
-<link rel="stylesheet" id="swiper-style-css" href="https://sunbird.com.sg/wp-content/themes/sunbird/assets/swiper-741/swiper-bundle.min.css?ver=1457204171" type="text/css" media="all">
-<link rel="stylesheet" id="main-style-css" href="https://sunbird.com.sg/wp-content/themes/sunbird/assets/scss/main.css?ver=624364490" type="text/css" media="all">
-<link rel="stylesheet" id="custom-style-css" href="https://sunbird.com.sg/wp-content/themes/sunbird/style.css?ver=1331510940" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-style-css" href="https://sunbird.com.sg/wp-content/themes/sunbird/assets/css/bootstrap.min.css?ver=637693735" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-style-css" href="https://sunbird.com.sg/wp-content/themes/sunbird/assets/fancybox/jquery.fancybox.min.css?ver=980975067" type="text/css" media="all">
+<link rel="stylesheet" id="swiper-style-css" href="https://sunbird.com.sg/wp-content/themes/sunbird/assets/swiper-741/swiper-bundle.min.css?ver=60071504" type="text/css" media="all">
+<link rel="stylesheet" id="main-style-css" href="https://sunbird.com.sg/wp-content/themes/sunbird/assets/scss/main.css?ver=1145840355" type="text/css" media="all">
+<link rel="stylesheet" id="custom-style-css" href="https://sunbird.com.sg/wp-content/themes/sunbird/style.css?ver=355923798" type="text/css" media="all">
 <script type="text/javascript" src="https://sunbird.com.sg/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://sunbird.com.sg/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script type="text/javascript" id="WCPAY_ASSETS-js-extra">
@@ -153,7 +153,7 @@ fbq('track', 'PageView');
 src="https://www.facebook.com/tr?id=926898482068469&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Meta Pixel Code -->
-<script src="https://sunbird.com.sg/wp-includes/js/wp-emoji-release.min.js?ver=6.4.3" defer=""></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11121316929/?random=1711818309513&amp;cv=11&amp;fst=1711818309513&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0za200&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fsunbird.com.sg%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Sunbird&amp;npa=0&amp;pscdl=noapi&amp;auid=1828731670.1711818310&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B123.0.6312.86%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.86&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;fdr=QA&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+<meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11121316929/?random=1711896673574&amp;cv=11&amp;fst=1711896673574&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be43r0za200&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fsunbird.com.sg%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Sunbird&amp;npa=0&amp;pscdl=noapi&amp;auid=272862758.1711896650&amp;uaa=x86&amp;uab=64&amp;uafvl=HeadlessChrome%3B123.0.6312.86%7CNot%253AA-Brand%3B8.0.0.0%7CChromium%3B123.0.6312.86&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=15.0.0&amp;uaw=0&amp;fdr=QA&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://sunbird.com.sg/wp-includes/js/wp-emoji-release.min.js?ver=6.4.3" defer=""></script></head>
 
 <body data-rsssl="1" class="home page-template-default page page-id-5 theme-sunbird woocommerce-js rtwpvg">
 	<!-- Google Tag Manager (noscript) -->
@@ -243,7 +243,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <section class="slider-hero-banner">
     <div class="swiper-container swiper-initialized swiper-horizontal swiper-pointer-events">
-        <div class="swiper-wrapper" id="swiper-wrapper-d1f527451aa30a27" aria-live="off">
+        <div class="swiper-wrapper" id="swiper-wrapper-46db86100abcf47c5" aria-live="off">
             <!-- Slides -->
                                                 <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 1" style="width: 779px; margin-right: 30px;">
                         <div class="hero-banner desktop" style="background: url('https://sunbird.com.sg/wp-content/uploads/2023/01/home_topgraphic-scaled.jpg') no-repeat center; background-size: cover;">
@@ -281,11 +281,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                                     </div>
     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-    <div class="swiper-prev swiper-button-disabled swiper-button-lock" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-d1f527451aa30a27" aria-disabled="true">
+    <div class="swiper-prev swiper-button-disabled swiper-button-lock" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-46db86100abcf47c5" aria-disabled="true">
         <img alt="" class="w-img" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/images/1.0_Sunbird_Home/png/Group 13670.png">
         <img alt="" class="w-img" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/images/1.0_Sunbird_Home/png/Group 13669.png">
     </div>
-    <div class="swiper-next swiper-button-disabled swiper-button-lock" tabindex="-1" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-d1f527451aa30a27" aria-disabled="true">
+    <div class="swiper-next swiper-button-disabled swiper-button-lock" tabindex="-1" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-46db86100abcf47c5" aria-disabled="true">
         <img alt="" class="w-img" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/images/1.0_Sunbird_Home/png/Group 13670.png">
         <img alt="" class="w-img" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/images/1.0_Sunbird_Home/png/Group 13669.png">
     </div>
@@ -382,7 +382,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="col-md-10 mx-auto">
                 <div class="slider-programmes slider-has-cards">
                     <div class="swiper-container swiper-initialized swiper-horizontal swiper-pointer-events">
-                        <div class="swiper-wrapper" id="swiper-wrapper-5bf38dcc94811b5e" aria-live="off" style="transform: translate3d(0px, 0px, 0px);">
+                        <div class="swiper-wrapper" id="swiper-wrapper-3182f2312a44b342" aria-live="off" style="transform: translate3d(0px, 0px, 0px);">
                             <!-- Slides -->
                                                                 <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 5" style="width: 297.5px; margin-right: 30px;">
                                         <div class="card-wrap">
@@ -476,11 +476,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </div>
                                                         </div>
                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-                    <div class="swiper-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-5bf38dcc94811b5e" aria-disabled="true">
+                    <div class="swiper-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-3182f2312a44b342" aria-disabled="true">
                         <img alt="" class="w-img" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/images/1.0_Sunbird_Home/png/Group 13670.png">
                         <img alt="" class="w-img" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/images/1.0_Sunbird_Home/png/Group 13669.png">
                     </div>
-                    <div class="swiper-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-5bf38dcc94811b5e" aria-disabled="false">
+                    <div class="swiper-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-3182f2312a44b342" aria-disabled="false">
                         <img alt="" class="w-img" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/images/1.0_Sunbird_Home/png/Group 13670.png">
                         <img alt="" class="w-img" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/images/1.0_Sunbird_Home/png/Group 13669.png">
                     </div>
@@ -509,7 +509,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
         <div class="slider-testimonials">
             <div class="swiper-container swiper-initialized swiper-horizontal swiper-pointer-events">
-                <div class="swiper-wrapper" id="swiper-wrapper-6bf3f103dc820e354" aria-live="polite" style="transform: translate3d(-1356.53px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group" aria-label="1 / 2" style="margin-right: 30px;">
+                <div class="swiper-wrapper" id="swiper-wrapper-d3e2a531da67d3c5" aria-live="polite" style="transform: translate3d(-1356.53px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" role="group" aria-label="1 / 2" style="margin-right: 30px;">
                                 <div class="content-wrap">
                                     <div class="icon">
                                         <img alt="" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/images/1.0_Sunbird_Home/png/Frame-1.png">
@@ -623,7 +623,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                             </div></div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-            <div class="swiper-prev" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-6bf3f103dc820e354">
+            <div class="swiper-prev" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-d3e2a531da67d3c5">
                 <img alt="" class="w-img" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/images/1.0_Sunbird_Home/png/Group 13670.png">
                 <img alt="" class="w-img" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/images/1.0_Sunbird_Home/png/Group 13669.png">
             </div>
@@ -640,7 +640,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
         <div class="slider-new-events slider-has-cards">
             <div class="swiper-container swiper-initialized swiper-horizontal swiper-pointer-events">
-                <div class="swiper-wrapper" id="swiper-wrapper-6a6281e2f510ee419" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+                <div class="swiper-wrapper" id="swiper-wrapper-2727165585331e5b" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
                     <!-- Slides -->
                                                 <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 5" style="width: 362.5px; margin-right: 30px;">
                                 <div class="card-wrap">
@@ -719,11 +719,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                                         </div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-            <div class="swiper-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-6a6281e2f510ee419" aria-disabled="true">
+            <div class="swiper-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-2727165585331e5b" aria-disabled="true">
                 <img alt="" class="w-img" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/images/1.0_Sunbird_Home/png/Group 13670.png">
                 <img alt="" class="w-img" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/images/1.0_Sunbird_Home/png/Group 13669.png">
             </div>
-            <div class="swiper-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-6a6281e2f510ee419" aria-disabled="false">
+            <div class="swiper-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-2727165585331e5b" aria-disabled="false">
                 <img alt="" class="w-img" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/images/1.0_Sunbird_Home/png/Group 13670.png">
                 <img alt="" class="w-img" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/images/1.0_Sunbird_Home/png/Group 13669.png">
             </div>
@@ -881,10 +881,10 @@ var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://sunbird.com.sg/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.0.2" id="woocommerce-js"></script>
-<script type="text/javascript" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/js/bootstrap.min.js?ver=2116855776" id="bootstrap-scripts-js"></script>
-<script type="text/javascript" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/fancybox/jquery.fancybox.min.js?ver=1575838960" id="fancybox-scripts-js"></script>
-<script type="text/javascript" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/swiper-741/swiper-bundle.min.js?ver=372975492" id="swiper-scripts-js"></script>
-<script type="text/javascript" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/js/custom.js?ver=1725929544" id="main-scripts-js"></script>
+<script type="text/javascript" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/js/bootstrap.min.js?ver=1384161276" id="bootstrap-scripts-js"></script>
+<script type="text/javascript" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/fancybox/jquery.fancybox.min.js?ver=1796181785" id="fancybox-scripts-js"></script>
+<script type="text/javascript" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/swiper-741/swiper-bundle.min.js?ver=268855240" id="swiper-scripts-js"></script>
+<script type="text/javascript" src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/js/custom.js?ver=1124260742" id="main-scripts-js"></script>
 <script src="https://sunbird.com.sg/wp-content/themes/sunbird/assets/js/jquery.min.js"></script>
 
 
