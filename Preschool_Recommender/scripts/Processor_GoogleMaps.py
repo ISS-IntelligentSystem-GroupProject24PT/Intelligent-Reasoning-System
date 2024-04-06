@@ -1,8 +1,28 @@
+def convert_to_dict(schedule):
+    days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+    schedule_list = schedule.split(', ')
+    print(len(schedule_list))
+    schedule_dict = {}
+    for i in range(0, len(schedule_list), 2):
+        day = schedule_list[i]
+        if schedule_list[i+1] == 'Closed':
+            schedule_dict[day+'_Start'] = 'Closed'
+            schedule_dict[day+'_End'] = 'Closed'
+        else:
+            start_time, end_time = schedule_list[i+1].split(' to ')
+            schedule_dict[day+'_Start'] = start_time
+            schedule_dict[day+'_End'] = end_time
+    # Ensure all days are in the dictionary
+    for day in days:
+        if day+'_Start' not in schedule_dict:
+            schedule_dict[day+'_Start'] = 'Closed'
+            schedule_dict[day+'_End'] = 'Closed'
+    return schedule_dict
+
 import os
 from datetime import datetime
 import pandas as pd
-import numpy as np
-
+import re
 
 INPUT_FILE_EXCEL = 'Google_Reviews_Output.csv'
 INPUT_FILE_TXT = 'Google_Reviews_Output.txt'
@@ -82,20 +102,18 @@ df_opening_hours = pd.DataFrame(columns=[
     'Saturday_Start',
     'Saturday_End'
 ])
-
+# print(opening_hours.head())
 for opening_hour in opening_hours:
     print(opening_hour)
-    if isinstance(opening_hour, str) or np.isnan(opening_hours):
-        print('empty')
-    else:
-        opening_hour_token = opening_hour.split(',')
-        opening_hour_L1_dict = {opening_hour_token[i].strip(): opening_hour_token[i + 1].strip() for i in range(0, len(opening_hour_token), 2)}
-        opening_hour_L2_dict = {}
-        for day, hours in opening_hour_L1_dict.items():
-            if hours != 'Closed':
-                start, end = hours.split(' to ')
-                opening_hour_L2_dict[f'{day}_Start'] = start
-                opening_hour_L2_dict[f'{day}_End'] = end
+    if isinstance(opening_hour, str):
+        try:
+            opening_hour = re.sub('to (\d{1,2})pm, (\d{1,2}) to', 'to', opening_hour)
+            opening_hour = re.sub('to (\d{1,2})am, (\d{1,2}) to', 'to', opening_hour)
+        except:
+            print('Not in hours')
+        print(opening_hour)
+        opening_hour_L2_dict = convert_to_dict(opening_hour)
+
         opening_hour_row = pd.DataFrame({
             'Opening_Hours': [opening_hour],
             'Sunday_Start': [opening_hour_L2_dict.get('Sunday_Start', '')],
@@ -114,12 +132,14 @@ for opening_hour in opening_hours:
             'Saturday_End': [opening_hour_L2_dict.get('Saturday_End', '')]
         })
         df_opening_hours = pd.concat([df_opening_hours, opening_hour_row], ignore_index=True)
-        print(df_opening_hours.head())
+        print(opening_hour_row)
+    else:
+        print('empty')
 compiled_output_file = pd.merge(compiled_output_file, df_opening_hours, on='Opening_Hours', how='left', indicator=True).drop(columns=['_merge'])
 print(compiled_output_file.head())
 
 # Save output files
-# structured_input_file.to_csv(path_or_buf=input_file_excel_with_date, index=False)
-# unstructured_input_file.to_csv(path_or_buf=input_file_txt_with_date, index=False)
+# df_structured_input_file.to_csv(path_or_buf=input_file_excel_with_date, index=False)
+# df_unstructured_input_file.to_csv(path_or_buf=input_file_txt_with_date, index=False)
 # compiled_output_file.to_csv(path_or_buf=output_file, index=False)
 # compiled_output_file.to_csv(path_or_buf=output_file_with_date, index=False)
