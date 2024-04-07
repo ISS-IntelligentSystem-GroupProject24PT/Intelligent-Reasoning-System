@@ -329,7 +329,7 @@ def save_to_csv(df):
     else: # else it exists so append without writing the header
         df.to_csv('./resources/SchoolPages/SchoolPage_Website_Links/filled_combined_preschool_list.csv', mode='a', header=False, index=False)
 
-
+    
 # read excel file from here 
 # Load the Excel file with search terms
 excel_file = './resources/SchoolPages/SchoolPage_Website_Links/Preschool_List_Txt_File_Address_Full.csv'
