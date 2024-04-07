@@ -14,7 +14,7 @@ def convert_time(time_str):
                 hours = int(time_parts[0]) + 12
             else:
                 hours = int(time_parts[0])
-            minutes = int(time_parts[1])/60
+            minutes = int(time_parts[1]) / 60
         else:
             if '12pm' in time_str:
                 hours = int(time_str_no_am_no_pm)
@@ -43,7 +43,7 @@ OUTPUT_FILE_WITH_DATE = f"ProcessedGoogleMaps_Output_{datetime.now().date()}.csv
 INPUT_DIRECTORY_NAME = "..//resources//ProcessedGoogleMaps//ProcessedGoogleMaps_Input_Files"
 OUTPUT_DIRECTORY_NAME = "..//resources//ProcessedGoogleMaps//ProcessedGoogleMaps_Output_Files"
 ARCHIVES_DIRECTORY_NAME = "..//resources//ProcessedGoogleMaps//ProcessedGoogleMaps_Archives"
-COMPILED_DIRECTORY_NAME = "..//resources//Compiled"
+PROCESSED_DIRECTORY_NAME = "..//resources//BusinessRulesEngine//BusinessRulesEngine_Input_Files"
 
 # Set up directory
 if not os.path.exists(OUTPUT_DIRECTORY_NAME):
@@ -52,12 +52,10 @@ if not os.path.exists(OUTPUT_DIRECTORY_NAME):
 if not os.path.exists(ARCHIVES_DIRECTORY_NAME):
     os.mkdir(ARCHIVES_DIRECTORY_NAME)
 
-if not os.path.exists(COMPILED_DIRECTORY_NAME):
-    os.mkdir(COMPILED_DIRECTORY_NAME)
-
 input_file_excel = os.path.join(INPUT_DIRECTORY_NAME, INPUT_FILE_EXCEL)
 input_file_txt = os.path.join(INPUT_DIRECTORY_NAME, INPUT_FILE_TXT)
 output_file = os.path.join(OUTPUT_DIRECTORY_NAME, OUTPUT_FILE)
+processed_output_file = os.path.join(PROCESSED_DIRECTORY_NAME, OUTPUT_FILE)
 input_file_excel_with_date = os.path.join(ARCHIVES_DIRECTORY_NAME, INPUT_FILE_EXCEL_WITH_DATE)
 input_file_txt_with_date = os.path.join(ARCHIVES_DIRECTORY_NAME, INPUT_FILE_TXT_WITH_DATE)
 output_file_with_date = os.path.join(ARCHIVES_DIRECTORY_NAME, OUTPUT_FILE_WITH_DATE)
@@ -89,7 +87,7 @@ for index, row in google_websites.iterrows():
     })
     df_lat_long = pd.concat([df_lat_long, lat_long_row], ignore_index=True).drop_duplicates()
 
-# Processing for Opening Hours (7am = 7.0, 7pm = 19.0, 7:30am = 7.5, Sat)
+# Processing for Opening Hours (7am = 7.0, 7pm = 19.0, 7:30am = 7.5)
 opening_hours = df_structured_input_file[['Preschool_Name', 'Opening_Hours']]
 
 df_opening_hours = pd.DataFrame(columns=[
@@ -216,3 +214,4 @@ df_structured_input_file.to_csv(path_or_buf=input_file_excel_with_date, index=Fa
 df_unstructured_input_file.to_csv(path_or_buf=input_file_txt_with_date, index=False)
 compiled_output_file.to_csv(path_or_buf=output_file, index=False)
 compiled_output_file.to_csv(path_or_buf=output_file_with_date, index=False)
+compiled_output_file.to_csv(path_or_buf=processed_output_file, index=False)
