@@ -74,7 +74,7 @@ df_unstructured_input_file = pd.read_csv(input_file_txt)
 
 # Processing for Latitude & Longitude
 google_websites = df_structured_input_file[['Preschool_Name', 'Google_Website']]
-df_lat_long = pd.DataFrame(columns=['Preschool_Name', 'Latitude', 'Longitude'])
+df_lat_long = pd.DataFrame(columns=['Preschool_Name', 'Preschool_Latitude', 'Preschool_Longitude'])
 
 for index, row in google_websites.iterrows():
     preschool_name = row['Preschool_Name']
@@ -84,8 +84,8 @@ for index, row in google_websites.iterrows():
     longitude = geocoordinates.split(',')[1]
     lat_long_row = pd.DataFrame({
         'Preschool_Name': [preschool_name],
-        'Latitude': [latitude],
-        'Longitude': [longitude]
+        'Preschool_Latitude': [latitude],
+        'Preschool_Longitude': [longitude]
     })
     df_lat_long = pd.concat([df_lat_long, lat_long_row], ignore_index=True).drop_duplicates()
 
