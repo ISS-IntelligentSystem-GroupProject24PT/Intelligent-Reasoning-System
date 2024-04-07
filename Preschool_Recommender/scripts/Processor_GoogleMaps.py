@@ -193,21 +193,21 @@ for index, row in opening_hours.iterrows():
                 'Saturday_Start_Number': [convert_time(schedule_dict.get('Saturday_Start', 'null'))],
                 'Saturday_End_Number': [convert_time(schedule_dict.get('Saturday_End', 'null'))]
             })
-            df_opening_hours = pd.concat([df_opening_hours, opening_hour_row], ignore_index=True).drop_duplicates()
+            df_opening_hours = (pd.concat([df_opening_hours, opening_hour_row], ignore_index=True)
+                                .drop_duplicates(subset='Preschool_Name'))
         except Exception as e:
             print(f"Not in hours format - {e}")
             print(opening_hour)
     else:
         print('empty')
 
-# DO BUSINESS RULES (OPENING HOURS & DISTANCE)
 # REVIEWS IF GOT TIME
 compiled_output_file = (pd.merge(df_structured_input_file, df_lat_long,
                                  on='Preschool_Name', how='left', indicator=True)
-                        .drop(columns=['_merge'])).drop_duplicates()
+                        .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
 compiled_output_file = (pd.merge(compiled_output_file, df_opening_hours,
                                  on='Preschool_Name', how='left', indicator=True)
-                        .drop(columns=['_merge'])).drop_duplicates()
+                        .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
 
 # Save output files
 df_structured_input_file.to_csv(path_or_buf=input_file_excel_with_date, index=False)
