@@ -1,23 +1,32 @@
-def convert_to_dict(schedule):
-    days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
-    schedule_list = schedule.split(', ')
-    print(len(schedule_list))
-    schedule_dict = {}
-    for i in range(0, len(schedule_list), 2):
-        day = schedule_list[i]
-        if schedule_list[i+1] == 'Closed':
-            schedule_dict[day+'_Start'] = 'Closed'
-            schedule_dict[day+'_End'] = 'Closed'
+def convert_time(time_str):
+    if time_str == 'Closed':
+        hours = 'Closed'
+        minutes = ''
+    else:
+        time_str_no_am_no_pm = time_str.replace('am', '').replace('pm', '')
+        if ':' in time_str_no_am_no_pm:
+            time_parts = time_str_no_am_no_pm.split(":")
+            if 'pm' in time_str and int(time_parts[0]) == 12:
+                hours = int(time_parts[0])
+            elif 'am' in time_str and int(time_parts[0]) == 12:
+                hours = 0
+            elif 'pm' in time_str:
+                hours = int(time_parts[0]) + 12
+            else:
+                hours = int(time_parts[0])
+            minutes = int(time_parts[1])/60
         else:
-            start_time, end_time = schedule_list[i+1].split(' to ')
-            schedule_dict[day+'_Start'] = start_time
-            schedule_dict[day+'_End'] = end_time
-    # Ensure all days are in the dictionary
-    for day in days:
-        if day+'_Start' not in schedule_dict:
-            schedule_dict[day+'_Start'] = 'Closed'
-            schedule_dict[day+'_End'] = 'Closed'
-    return schedule_dict
+            if '12pm' in time_str:
+                hours = int(time_str_no_am_no_pm)
+            elif '12am' in time_str:
+                hours = 0
+            elif 'pm' in time_str:
+                hours = int(time_str_no_am_no_pm) + 12
+            else:
+                hours = int(time_str_no_am_no_pm)
+            minutes = 0
+    return hours + minutes
+
 
 import os
 from datetime import datetime
@@ -64,29 +73,27 @@ df_structured_input_file = pd.read_csv(input_file_excel)
 df_unstructured_input_file = pd.read_csv(input_file_txt)
 
 # Processing for Latitude & Longitude
-google_websites = df_structured_input_file['Google_Website']
+google_websites = df_structured_input_file[['Preschool_Name', 'Google_Website']]
+df_lat_long = pd.DataFrame(columns=['Preschool_Name', 'Latitude', 'Longitude'])
 
-df_lat_long = pd.DataFrame(columns=['Google_Website','Latitude','Longitude'])
-
-for google_website in google_websites:
+for index, row in google_websites.iterrows():
+    preschool_name = row['Preschool_Name']
+    google_website = row['Google_Website']
     geocoordinates = google_website.split('/')[6]
     latitude = geocoordinates.split(',')[0].replace("@", '')
     longitude = geocoordinates.split(',')[1]
     lat_long_row = pd.DataFrame({
-        'Google_Website': [google_website],
+        'Preschool_Name': [preschool_name],
         'Latitude': [latitude],
         'Longitude': [longitude]
     })
-    df_lat_long = pd.concat([df_lat_long, lat_long_row], ignore_index=True)
+    df_lat_long = pd.concat([df_lat_long, lat_long_row], ignore_index=True).drop_duplicates()
 
-compiled_output_file = pd.merge(df_structured_input_file, df_lat_long, on='Google_Website', how='left', indicator=True).drop(columns=['_merge'])
-# print(compiled_output_file.head())
-
-# Processing for Opening Hours
-opening_hours = df_structured_input_file['Opening_Hours']
+# Processing for Opening Hours (7am = 7.0, 7pm = 19.0, 7:30am = 7.5, Sat)
+opening_hours = df_structured_input_file[['Preschool_Name', 'Opening_Hours']]
 
 df_opening_hours = pd.DataFrame(columns=[
-    'Opening_Hours',
+    'Preschool_Name',
     'Sunday_Start',
     'Sunday_End',
     'Monday_Start',
@@ -100,46 +107,112 @@ df_opening_hours = pd.DataFrame(columns=[
     'Friday_Start',
     'Friday_End',
     'Saturday_Start',
-    'Saturday_End'
+    'Saturday_End',
+    'Sunday_Start_Number',
+    'Sunday_End_Number',
+    'Monday_Start_Number',
+    'Monday_End_Number',
+    'Tuesday_Start_Number',
+    'Tuesday_End_Number',
+    'Wednesday_Start_Number',
+    'Wednesday_End_Number',
+    'Thursday_Start_Number',
+    'Thursday_End_Number',
+    'Friday_Start_Number',
+    'Friday_End_Number',
+    'Saturday_Start_Number',
+    'Saturday_End_Number'
 ])
-# print(opening_hours.head())
-for opening_hour in opening_hours:
-    print(opening_hour)
+
+for index, row in opening_hours.iterrows():
+    preschool_name = row['Preschool_Name']
+    opening_hour = row['Opening_Hours']
     if isinstance(opening_hour, str):
         try:
             opening_hour = re.sub('to (\d{1,2})pm, (\d{1,2}) to', 'to', opening_hour)
             opening_hour = re.sub('to (\d{1,2})am, (\d{1,2}) to', 'to', opening_hour)
-        except:
-            print('Not in hours')
-        print(opening_hour)
-        opening_hour_L2_dict = convert_to_dict(opening_hour)
+            opening_hour = opening_hour.replace('Hours might differ,', '')
+            opening_hour = opening_hour.replace('(Good Friday)', '')
+            opening_hour = opening_hour.replace('Holiday hours,', '')
+            opening_hour = opening_hour.replace('Open 24 hours', 'Closed')
+            opening_hour = opening_hour.replace(' ', '')
+            # Putting into a dictionary of day and timing
+            days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+            schedule_list = opening_hour.split(',')
+            schedule_dict = {}
+            for i in range(0, len(schedule_list), 2):
+                day = schedule_list[i]
+                if schedule_list[i + 1] == 'Closed':
+                    schedule_dict[day + '_Start'] = 'Closed'
+                    schedule_dict[day + '_End'] = 'Closed'
+                else:
+                    start_time, end_time = schedule_list[i + 1].split('to')
+                    # Keep as AM, PM
+                    if 'am' in start_time or 'pm' in start_time:
+                        schedule_dict[day + '_Start'] = start_time
+                    else:
+                        if 'am' in end_time:
+                            schedule_dict[day + '_Start'] = start_time + 'am'
+                        elif 'pm' in end_time:
+                            schedule_dict[day + '_Start'] = start_time + 'pm'
+                        else:
+                            schedule_dict[day + '_Start'] = start_time
+                    schedule_dict[day + '_End'] = end_time
+            # Ensure all days are in the dictionary
+            for day in days:
+                if day + '_Start' not in schedule_dict:
+                    schedule_dict[day + '_Start'] = 'Closed'
+                    schedule_dict[day + '_End'] = 'Closed'
 
-        opening_hour_row = pd.DataFrame({
-            'Opening_Hours': [opening_hour],
-            'Sunday_Start': [opening_hour_L2_dict.get('Sunday_Start', '')],
-            'Sunday_End': [opening_hour_L2_dict.get('Sunday_End', '')],
-            'Monday_Start': [opening_hour_L2_dict.get('Monday_Start', '')],
-            'Monday_End': [opening_hour_L2_dict.get('Monday_End', '')],
-            'Tuesday_Start': [opening_hour_L2_dict.get('Tuesday_Start', '')],
-            'Tuesday_End': [opening_hour_L2_dict.get('Tuesday_End', '')],
-            'Wednesday_Start': [opening_hour_L2_dict.get('Wednesday_Start', '')],
-            'Wednesday_End': [opening_hour_L2_dict.get('Wednesday_End', '')],
-            'Thursday_Start': [opening_hour_L2_dict.get('Thursday_Start', '')],
-            'Thursday_End': [opening_hour_L2_dict.get('Thursday_End', '')],
-            'Friday_Start': [opening_hour_L2_dict.get('Friday_Start', '')],
-            'Friday_End': [opening_hour_L2_dict.get('Friday_End', '')],
-            'Saturday_Start': [opening_hour_L2_dict.get('Saturday_Start', '')],
-            'Saturday_End': [opening_hour_L2_dict.get('Saturday_End', '')]
-        })
-        df_opening_hours = pd.concat([df_opening_hours, opening_hour_row], ignore_index=True)
-        print(opening_hour_row)
+            opening_hour_row = pd.DataFrame({
+                'Preschool_Name': [preschool_name],
+                'Sunday_Start': [schedule_dict.get('Sunday_Start', 'null')],
+                'Sunday_End': [schedule_dict.get('Sunday_End', 'null')],
+                'Monday_Start': [schedule_dict.get('Monday_Start', 'null')],
+                'Monday_End': [schedule_dict.get('Monday_End', 'null')],
+                'Tuesday_Start': [schedule_dict.get('Tuesday_Start', 'null')],
+                'Tuesday_End': [schedule_dict.get('Tuesday_End', 'null')],
+                'Wednesday_Start': [schedule_dict.get('Wednesday_Start', 'null')],
+                'Wednesday_End': [schedule_dict.get('Wednesday_End', 'null')],
+                'Thursday_Start': [schedule_dict.get('Thursday_Start', 'null')],
+                'Thursday_End': [schedule_dict.get('Thursday_End', 'null')],
+                'Friday_Start': [schedule_dict.get('Friday_Start', 'null')],
+                'Friday_End': [schedule_dict.get('Friday_End', 'null')],
+                'Saturday_Start': [schedule_dict.get('Saturday_Start', 'null')],
+                'Saturday_End': [schedule_dict.get('Saturday_End', 'null')],
+                'Sunday_Start_Number': [convert_time(schedule_dict.get('Sunday_Start', 'null'))],
+                'Sunday_End_Number': [convert_time(schedule_dict.get('Sunday_End', 'null'))],
+                'Monday_Start_Number': [convert_time(schedule_dict.get('Monday_Start', 'null'))],
+                'Monday_End_Number': [convert_time(schedule_dict.get('Monday_End', 'null'))],
+                'Tuesday_Start_Number': [convert_time(schedule_dict.get('Tuesday_Start', 'null'))],
+                'Tuesday_End_Number': [convert_time(schedule_dict.get('Tuesday_End', 'null'))],
+                'Wednesday_Start_Number': [convert_time(schedule_dict.get('Wednesday_Start', 'null'))],
+                'Wednesday_End_Number': [convert_time(schedule_dict.get('Wednesday_End', 'null'))],
+                'Thursday_Start_Number': [convert_time(schedule_dict.get('Thursday_Start', 'null'))],
+                'Thursday_End_Number': [convert_time(schedule_dict.get('Thursday_End', 'null'))],
+                'Friday_Start_Number': [convert_time(schedule_dict.get('Friday_Start', 'null'))],
+                'Friday_End_Number': [convert_time(schedule_dict.get('Friday_End', 'null'))],
+                'Saturday_Start_Number': [convert_time(schedule_dict.get('Saturday_Start', 'null'))],
+                'Saturday_End_Number': [convert_time(schedule_dict.get('Saturday_End', 'null'))]
+            })
+            df_opening_hours = pd.concat([df_opening_hours, opening_hour_row], ignore_index=True).drop_duplicates()
+        except Exception as e:
+            print(f"Not in hours format - {e}")
+            print(opening_hour)
     else:
         print('empty')
-compiled_output_file = pd.merge(compiled_output_file, df_opening_hours, on='Opening_Hours', how='left', indicator=True).drop(columns=['_merge'])
-print(compiled_output_file.head())
+
+# DO BUSINESS RULES (OPENING HOURS & DISTANCE)
+# REVIEWS IF GOT TIME
+compiled_output_file = (pd.merge(df_structured_input_file, df_lat_long,
+                                 on='Preschool_Name', how='left', indicator=True)
+                        .drop(columns=['_merge'])).drop_duplicates()
+compiled_output_file = (pd.merge(compiled_output_file, df_opening_hours,
+                                 on='Preschool_Name', how='left', indicator=True)
+                        .drop(columns=['_merge'])).drop_duplicates()
 
 # Save output files
-# df_structured_input_file.to_csv(path_or_buf=input_file_excel_with_date, index=False)
-# df_unstructured_input_file.to_csv(path_or_buf=input_file_txt_with_date, index=False)
-# compiled_output_file.to_csv(path_or_buf=output_file, index=False)
-# compiled_output_file.to_csv(path_or_buf=output_file_with_date, index=False)
+df_structured_input_file.to_csv(path_or_buf=input_file_excel_with_date, index=False)
+df_unstructured_input_file.to_csv(path_or_buf=input_file_txt_with_date, index=False)
+compiled_output_file.to_csv(path_or_buf=output_file, index=False)
+compiled_output_file.to_csv(path_or_buf=output_file_with_date, index=False)
