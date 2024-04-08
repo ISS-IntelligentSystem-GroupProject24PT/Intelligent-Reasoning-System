@@ -115,7 +115,7 @@ for index, row in df_unstructured_input_file.iterrows():
                 'Preschool_Name': [preschool_name],
                 'Comment': [comment],
                 'Sentiment': [token_sentence._.polarity],
-                'Noun': [sorted_word_counts[0][0]]
+                'Word': [sorted_word_counts[0][0]]
             })
             df_comments = pd.concat([df_comments, comment_row], ignore_index=True)
 
@@ -125,7 +125,8 @@ df_word_counts_by_noun = pd.DataFrame(total_sorted_word_counts, columns=['Word',
 df_word_counts_by_noun = (pd.merge(df_word_counts_by_noun, df_word_categorisation, on='Word', how='left', indicator=True)
                         .drop(columns=['_merge'])).drop_duplicates(subset='Word')
 
-compiled_output_file = df_comments
+compiled_output_file = (pd.merge(df_comments, df_word_categorisation, on='Word', how='left', indicator=True)
+                        .drop(columns=['_merge'])).drop_duplicates(subset='Word')
 
 # Save output files
 df_unstructured_input_file.to_csv(path_or_buf=input_file_txt_with_date, index=False)
