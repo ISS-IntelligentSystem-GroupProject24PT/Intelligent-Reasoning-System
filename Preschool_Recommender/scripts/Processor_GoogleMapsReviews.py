@@ -129,16 +129,18 @@ df_word_counts_by_noun = (pd.merge(df_word_counts_by_noun, df_word_categorisatio
 # Sentiment by Category / Preschool
 df_sentiment_by_category = (pd.merge(df_comments, df_word_categorisation, on='Word', how='left', indicator=True)
                         .drop(columns=['_merge'])).drop_duplicates(subset='Word')
-df_sentiment_by_category_cleaned = df_sentiment_by_category.drop(columns=['Comment', 'Word'])
-df_average_sentiment_by_category = df_sentiment_by_category_cleaned.groupby(['Preschool_Name', 'Category']).mean()
-df_average_sentiment_by_preschool = df_sentiment_by_category_cleaned.groupby(['Preschool_Name']).mean()
-compiled_output_file = (pd.merge(df_average_sentiment_by_preschool, df_average_sentiment_by_category, on='Preschool_Name', how='left', indicator=True)
-                        .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
 
 # Save output files
 df_unstructured_input_file.to_csv(path_or_buf=input_file_txt_with_date, index=False)
-compiled_output_file.to_csv(path_or_buf=output_file, index=False)
-compiled_output_file.to_csv(path_or_buf=output_file_with_date, index=False)
 df_word_counts_by_noun.to_csv(path_or_buf=frequency_output_file, index=False)
 df_word_counts_by_noun.to_csv(path_or_buf=frequency_output_file_with_date, index=False)
 df_sentiment_by_category.to_csv(path_or_buf=temp_output_file, index=False)
+
+# GROUP BY ERROR
+df_sentiment_by_category_cleaned = df_sentiment_by_category.drop(columns=['Comment', 'Word'])
+df_average_sentiment_by_category = df_sentiment_by_category_cleaned.groupby(['Preschool_Name', 'Category'])['Sentiment'].mean()
+df_average_sentiment_by_preschool = df_sentiment_by_category_cleaned.groupby(['Preschool_Name'])['Sentiment'].mean()
+compiled_output_file = (pd.merge(df_average_sentiment_by_preschool, df_average_sentiment_by_category, on='Preschool_Name', how='left', indicator=True)
+                        .drop(columns=['_merge']))
+compiled_output_file.to_csv(path_or_buf=output_file, index=False)
+compiled_output_file.to_csv(path_or_buf=output_file_with_date, index=False)
