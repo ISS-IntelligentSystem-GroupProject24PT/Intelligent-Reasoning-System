@@ -28,6 +28,7 @@ import pandas as pd
 
 INPUT_FILE_EXCEL = 'ProcessedGoogleMaps_Output.csv'
 USER_INPUT_FILE = 'UserInput.csv'
+INPUT_FEES_EXCEL = 'filled_combined_preschool_list_with_fees.csv'
 OUTPUT_FILE = 'BusinessRuleEngine_Distance_OpeningHours.csv'
 INPUT_FILE_EXCEL_WITH_DATE = f"ProcessedGoogleMaps_Output_{datetime.now().date()}.csv"
 OUTPUT_FILE_WITH_DATE = f"BusinessRuleEngine_Distance_OpeningHours_{datetime.now().date()}.csv"
@@ -49,6 +50,7 @@ if not os.path.exists(ARCHIVES_DIRECTORY_NAME):
     os.mkdir(ARCHIVES_DIRECTORY_NAME)
 
 input_file_excel = os.path.join(INPUT_DIRECTORY_NAME, INPUT_FILE_EXCEL)
+input_fees_excel = os.path.join(INPUT_DIRECTORY_NAME, INPUT_FEES_EXCEL)
 input_file_excel_with_date = os.path.join(ARCHIVES_DIRECTORY_NAME, INPUT_FILE_EXCEL_WITH_DATE)
 user_input_file = os.path.join(INPUT_DIRECTORY_NAME, USER_INPUT_FILE)
 output_file = os.path.join(OUTPUT_DIRECTORY_NAME, OUTPUT_FILE)
@@ -64,6 +66,8 @@ pd.set_option('display.max_colwidth', None)
 
 # Read input files
 processed_googlemaps = pd.read_csv(input_file_excel)
+processed_schoolpages = pd.read_csv(input_fees_excel)
+processed_schoolpages.rename(columns={'preschool_name': 'Preschool_Name'}, inplace=True)
 # user_input = pd.read_csv(user_input_file)
 
 # Get preschool lat long
@@ -360,6 +364,8 @@ no_dup_processed_googlemaps = processed_googlemaps.drop(columns=[
     'Sunday_End_Number'
 ])
 compiled_output_file = (pd.merge(compiled_output_file, no_dup_processed_googlemaps, on='Preschool_Name', how='left', indicator=True)
+                        .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
+compiled_output_file = (pd.merge(compiled_output_file, processed_schoolpages, on='Preschool_Name', how='left', indicator=True)
                         .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
 
 # Filtered only those within

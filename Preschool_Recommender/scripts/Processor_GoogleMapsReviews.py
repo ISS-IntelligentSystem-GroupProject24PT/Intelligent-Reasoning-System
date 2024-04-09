@@ -49,6 +49,7 @@ def my_preprocessing(raw_sentence, nlp_tool):
 INPUT_FILE_TXT = 'Google_Reviews_Output.txt'
 INPUT_WORD_CATEGORISATION = 'Word_Categorisation.csv'
 OUTPUT_FILE = 'ProcessedGoogleMaps_Output_Reviews.csv'
+TEMP_OUTPUT_FILE = 'ProcessedGoogleMaps_Output_Reviews_Temp.csv'
 FREQUENCY_OUTPUT_FILE = 'ProcessedGoogleMaps_Output_Noun_Frequency.csv'
 INPUT_FILE_TXT_WITH_DATE = f"Google_Reviews_Output_{datetime.now().date()}.txt"
 OUTPUT_FILE_WITH_DATE = f"ProcessedGoogleMaps_Output_Reviews_{datetime.now().date()}.csv"
@@ -68,6 +69,7 @@ if not os.path.exists(ARCHIVES_DIRECTORY_NAME):
 input_file_txt = os.path.join(INPUT_DIRECTORY_NAME, INPUT_FILE_TXT)
 input_word_categorisation = os.path.join(INPUT_DIRECTORY_NAME, INPUT_WORD_CATEGORISATION)
 output_file = os.path.join(OUTPUT_DIRECTORY_NAME, OUTPUT_FILE)
+temp_output_file = os.path.join(OUTPUT_DIRECTORY_NAME, TEMP_OUTPUT_FILE)
 input_file_txt_with_date = os.path.join(ARCHIVES_DIRECTORY_NAME, INPUT_FILE_TXT_WITH_DATE)
 output_file_with_date = os.path.join(ARCHIVES_DIRECTORY_NAME, OUTPUT_FILE_WITH_DATE)
 frequency_output_file = os.path.join(OUTPUT_DIRECTORY_NAME, FREQUENCY_OUTPUT_FILE)
@@ -88,7 +90,7 @@ nlp = en_core_web_sm.load()
 nlp.add_pipe('spacytextblob')
 w2v_model = api.load("word2vec-google-news-300")
 
-df_comments = pd.DataFrame(columns=['Preschool_Name', 'Comment', 'Sentiment', 'Noun'])
+df_comments = pd.DataFrame(columns=['Preschool_Name', 'Comment', 'Sentiment', 'Word'])
 
 all_preprocessed_sentences = []
 
@@ -124,9 +126,14 @@ total_sorted_word_counts = sorted(Counter(all_preprocessed_sentences).items(), k
 df_word_counts_by_noun = pd.DataFrame(total_sorted_word_counts, columns=['Word', 'Frequency'])
 df_word_counts_by_noun = (pd.merge(df_word_counts_by_noun, df_word_categorisation, on='Word', how='left', indicator=True)
                         .drop(columns=['_merge'])).drop_duplicates(subset='Word')
-
-compiled_output_file = (pd.merge(df_comments, df_word_categorisation, on='Word', how='left', indicator=True)
+# Sentiment by Category / Preschool
+df_sentiment_by_category = (pd.merge(df_comments, df_word_categorisation, on='Word', how='left', indicator=True)
                         .drop(columns=['_merge'])).drop_duplicates(subset='Word')
+df_sentiment_by_category_cleaned = df_sentiment_by_category.drop(columns=['Comment', 'Word'])
+df_average_sentiment_by_category = df_sentiment_by_category_cleaned.groupby(['Preschool_Name', 'Category']).mean()
+df_average_sentiment_by_preschool = df_sentiment_by_category_cleaned.groupby(['Preschool_Name']).mean()
+compiled_output_file = (pd.merge(df_average_sentiment_by_preschool, df_average_sentiment_by_category, on='Preschool_Name', how='left', indicator=True)
+                        .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
 
 # Save output files
 df_unstructured_input_file.to_csv(path_or_buf=input_file_txt_with_date, index=False)
@@ -134,3 +141,4 @@ compiled_output_file.to_csv(path_or_buf=output_file, index=False)
 compiled_output_file.to_csv(path_or_buf=output_file_with_date, index=False)
 df_word_counts_by_noun.to_csv(path_or_buf=frequency_output_file, index=False)
 df_word_counts_by_noun.to_csv(path_or_buf=frequency_output_file_with_date, index=False)
+df_sentiment_by_category.to_csv(path_or_buf=temp_output_file, index=False)
