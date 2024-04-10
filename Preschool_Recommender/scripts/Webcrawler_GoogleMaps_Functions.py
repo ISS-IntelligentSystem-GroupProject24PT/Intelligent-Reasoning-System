@@ -155,7 +155,7 @@ def scrape_google_reviews(chromedriver, search_terms):
 
 
 def convert_list_to_string(dataframe):
-    dataframe = dataframe.map(lambda x: ', '.join(map(str, x)) if isinstance(x, list) else ('' if x is None else x))
+    dataframe = dataframe.map(lambda x: ',    '.join(map(str, x)) if isinstance(x, list) else ('' if x is None else x))
     return dataframe
 
 

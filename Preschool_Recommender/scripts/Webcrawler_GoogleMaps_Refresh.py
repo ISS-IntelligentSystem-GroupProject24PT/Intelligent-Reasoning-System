@@ -156,13 +156,16 @@ save_to_csv(df_link_results, output_file_=output_file_reviews_text_refresh_with_
 
 # Combine refresh & search results
 df_link_results_all = pd.concat([pd.read_csv(output_file_links_search), df_link_results], ignore_index=True).drop_duplicates()
-save_to_csv(df_link_results_all, output_file_=OUTPUT_FILE_LINKS)
+save_to_csv(df_link_results_all, output_file_=output_file_links)
+save_to_csv(df_link_results_all, output_file_=processed_input_file_links)
 
 df_review_all = pd.concat([pd.read_csv(output_file_reviews_search), df_review], ignore_index=True).drop_duplicates()
-save_to_csv(df_review_all, output_file_=OUTPUT_FILE_REVIEWS)
+save_to_csv(df_review_all , output_file_=output_file_reviews)
+save_to_csv(df_review_all , output_file_=processed_input_file_reviews)
 
 df_review_comments_all = pd.concat([pd.read_csv(output_file_reviews_text_search), df_review_comments], ignore_index=True).drop_duplicates()
-save_to_csv(df_review_comments_all, output_file_=OUTPUT_FILE_REVIEWS_TEXT)
+save_to_csv(df_review_comments_all, output_file_=output_file_reviews_text)
+save_to_csv(df_review_comments_all, output_file_=processed_input_file_reviews_text)
 
 # Close the browser
 driver.quit()

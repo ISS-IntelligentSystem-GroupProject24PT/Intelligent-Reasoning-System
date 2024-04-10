@@ -32,6 +32,7 @@ import os
 from datetime import datetime
 import pandas as pd
 import re
+import Processor_GoogleMapsReviews
 
 INPUT_FILE_EXCEL = 'Google_Reviews_Output.csv'
 INPUT_FILE_TXT = 'Google_Reviews_Output.txt'
@@ -39,6 +40,7 @@ OUTPUT_FILE = 'ProcessedGoogleMaps_Output.csv'
 INPUT_FILE_EXCEL_WITH_DATE = f"Google_Reviews_Output_{datetime.now().date()}.csv"
 INPUT_FILE_TXT_WITH_DATE = f"Google_Reviews_Output_{datetime.now().date()}.txt"
 OUTPUT_FILE_WITH_DATE = f"ProcessedGoogleMaps_Output_{datetime.now().date()}.csv"
+REVIEW_OUTPUT_FILE = 'ProcessedGoogleMaps_Output_Reviews.csv'
 
 INPUT_DIRECTORY_NAME = "..//resources//ProcessedGoogleMaps//ProcessedGoogleMaps_Input_Files"
 OUTPUT_DIRECTORY_NAME = "..//resources//ProcessedGoogleMaps//ProcessedGoogleMaps_Output_Files"
@@ -59,6 +61,8 @@ processed_output_file = os.path.join(PROCESSED_DIRECTORY_NAME, OUTPUT_FILE)
 input_file_excel_with_date = os.path.join(ARCHIVES_DIRECTORY_NAME, INPUT_FILE_EXCEL_WITH_DATE)
 input_file_txt_with_date = os.path.join(ARCHIVES_DIRECTORY_NAME, INPUT_FILE_TXT_WITH_DATE)
 output_file_with_date = os.path.join(ARCHIVES_DIRECTORY_NAME, OUTPUT_FILE_WITH_DATE)
+review_output_file = os.path.join(OUTPUT_DIRECTORY_NAME, REVIEW_OUTPUT_FILE)
+
 
 # Set the display options
 pd.set_option('display.max_rows', None)
@@ -69,6 +73,7 @@ pd.set_option('display.max_colwidth', None)
 # Read input files
 df_structured_input_file = pd.read_csv(input_file_excel)
 df_unstructured_input_file = pd.read_csv(input_file_txt)
+df_review_file = pd.read_csv(review_output_file)
 
 # Processing for Latitude & Longitude
 google_websites = df_structured_input_file[['Preschool_Name', 'Google_Website']]
@@ -201,11 +206,15 @@ for index, row in opening_hours.iterrows():
     else:
         print('empty')
 
-# REVIEWS IF GOT TIME
+
+# Combine Files
 compiled_output_file = (pd.merge(df_structured_input_file, df_lat_long,
                                  on='Preschool_Name', how='left', indicator=True)
                         .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
 compiled_output_file = (pd.merge(compiled_output_file, df_opening_hours,
+                                 on='Preschool_Name', how='left', indicator=True)
+                        .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
+compiled_output_file = (pd.merge(compiled_output_file, df_review_file,
                                  on='Preschool_Name', how='left', indicator=True)
                         .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
 

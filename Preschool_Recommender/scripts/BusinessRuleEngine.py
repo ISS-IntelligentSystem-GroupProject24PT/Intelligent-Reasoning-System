@@ -29,11 +29,11 @@ import pandas as pd
 INPUT_FILE_EXCEL = 'ProcessedGoogleMaps_Output.csv'
 USER_INPUT_FILE = 'UserInput.csv'
 INPUT_FEES_EXCEL = 'filled_combined_preschool_list_with_fees.csv'
-OUTPUT_FILE = 'BusinessRuleEngine_Distance_OpeningHours.csv'
+OUTPUT_FILE = 'BusinessRuleEngine_Distance_OpeningHours_Budget.csv'
 INPUT_FILE_EXCEL_WITH_DATE = f"ProcessedGoogleMaps_Output_{datetime.now().date()}.csv"
-OUTPUT_FILE_WITH_DATE = f"BusinessRuleEngine_Distance_OpeningHours_{datetime.now().date()}.csv"
-FILTERED_OUTPUT_FILE = 'BusinessRuleEngine_Distance_OpeningHours_Filtered.csv'
-FILTERED_OUTPUT_FILE_WITH_DATE = f"BusinessRuleEngine_Distance_OpeningHours_Filtered_{datetime.now().date()}.csv"
+OUTPUT_FILE_WITH_DATE = f"BusinessRuleEngine_Distance_OpeningHours_Budget_{datetime.now().date()}.csv"
+FILTERED_OUTPUT_FILE = 'BusinessRuleEngine_Distance_OpeningHours_Budget_Filtered.csv'
+FILTERED_OUTPUT_FILE_WITH_DATE = f"BusinessRuleEngine_Distance_OpeningHours_Budget_Filtered_{datetime.now().date()}.csv"
 
 INPUT_DIRECTORY_NAME = "..//resources//BusinessRulesEngine//BusinessRulesEngine_Input_Files"
 OUTPUT_DIRECTORY_NAME = "..//resources//BusinessRulesEngine//BusinessRulesEngine_Output_Files"
@@ -94,17 +94,17 @@ df_opening_hours = processed_googlemaps[
 # Get user input
 user_lat = 1.443452  # user_input['User_Latitude']
 user_long = 103.815545  # user_input['User_Longitude']
-user_distance_constraint = 5.0  # user_input['User_Preferred_Distance']
-user_monday_drop_off = 7    # user_input['user_monday_drop_off']
-user_monday_pick_up = 19.5  # user_input['user_monday_pick_up']
-user_tuesday_drop_off = 7   # user_input['user_tuesday_drop_off']
-user_tuesday_pick_up = 19.5 # user_input['user_tuesday_pick_up']
-user_wednesday_drop_off = 7 # user_input['user_wednesday_drop_off']
-user_wednesday_pick_up = 19.5   # user_input['user_wednesday_pick_up']
-user_thursday_drop_off = 7  # user_input['user_thursday_drop_off']
-user_thursday_pick_up = 19.5    # user_input['user_thursday_pick_up']
-user_friday_drop_off = 7    # user_input['user_friday_drop_off']
-user_friday_pick_up = 19.5  # user_input['user_friday_pick_up']
+user_distance_constraint = 10.0  # user_input['User_Preferred_Distance']
+user_monday_drop_off = 9    # user_input['user_monday_drop_off']
+user_monday_pick_up = 18  # user_input['user_monday_pick_up']
+user_tuesday_drop_off = 9   # user_input['user_tuesday_drop_off']
+user_tuesday_pick_up = 18 # user_input['user_tuesday_pick_up']
+user_wednesday_drop_off = '' # user_input['user_wednesday_drop_off']
+user_wednesday_pick_up = ''   # user_input['user_wednesday_pick_up']
+user_thursday_drop_off = 9  # user_input['user_thursday_drop_off']
+user_thursday_pick_up = 18    # user_input['user_thursday_pick_up']
+user_friday_drop_off = 9    # user_input['user_friday_drop_off']
+user_friday_pick_up = 18  # user_input['user_friday_pick_up']
 user_saturday_drop_off = '' # user_input['user_saturday_drop_off']
 user_saturday_pick_up = ''  # user_input['user_saturday_pick_up']
 user_sunday_drop_off = ''   # user_input['user_sunday_drop_off']
@@ -124,6 +124,17 @@ user_saturday_drop_off = if_empty(user_saturday_drop_off)
 user_saturday_pick_up = if_empty(user_saturday_pick_up)
 user_sunday_drop_off = if_empty(user_sunday_drop_off)
 user_sunday_pick_up = if_empty(user_sunday_pick_up)
+
+user_fees_sc_infant_care = 0 #user_fees_sc_infant_care = user_input['User_Preferred_Fees_SC_Infant_Care']
+user_fees_sc_playgroup = 0
+user_fees_sc_nursery = 1000
+user_fees_sc_kindergarten = 0
+user_fees_pr_infant_care = 0
+user_fees_pr_playgroup = 0
+user_fees_pr_nursery = 0
+user_fees_pr_kindergarten = 0
+user_level = 3 #user_level = user_input['User_Preferred_Levels'] # 1 - Infant Care, 2 - Playgroup, 3 - Nursery, 4 - Kindergarten
+
 
 # Distance Calculation
 df_distance = pd.DataFrame(
@@ -342,6 +353,45 @@ for index, row in df_opening_hours.iterrows():
     })
     df_open = pd.concat([df_open, open_row], ignore_index=True).drop_duplicates(subset='Preschool_Name')
 
+# Budget Calculation
+# setting Within_Fees_Constraint and Within_Levels_Constraint and save to a csv
+# List of all user_fees variables and corresponding column names
+user_fees_list = [('user_fees_sc_infant_care', 'fees_sc_infant_care'),
+                  ('user_fees_sc_playgroup', 'fees_sc_playgroup'),
+                  ('user_fees_sc_nursery', 'fees_sc_nursery'),
+                  ('user_fees_sc_kindergarten', 'fees_sc_kindergarten'),
+                  ('user_fees_pr_infant_care', 'fees_pr_infant_care'),
+                  ('user_fees_pr_playgroup', 'fees_pr_playgroup'),
+                  ('user_fees_pr_nursery', 'fees_pr_nursery'),
+                  ('user_fees_pr_kindergarten', 'fees_pr_kindergarten')]
+# Initialize the column
+processed_schoolpages['Within_Fees_Constraint'] = 0
+# Iterate over the user_fees variables
+for user_fee, column in user_fees_list:
+    if globals()[user_fee] != 0:  # Check if the user_fee is not 0
+        # Update 'Within_Fees_Constraint' based on the condition
+        processed_schoolpages.loc[processed_schoolpages[column] <= globals()[user_fee], 'Within_Fees_Constraint'] = 1
+        processed_schoolpages.loc[pd.isna(processed_schoolpages[column]), 'Within_Fees_Constraint'] = 0
+# User level mapping to DataFrame columns
+user_level_mapping = {1: 'levels_infant_care', 2: 'levels_playgroup', 3: 'levels_nursery', 4: 'levels_kindergarten'}
+# Corresponding column in the DataFrame
+level_column = user_level_mapping[user_level]
+# Update 'Within_Levels_Constraint' based on the condition
+processed_schoolpages['Within_Levels_Constraint'] = (processed_schoolpages[level_column] == 1).astype(int)
+# save to csv
+# Get a list of all the column names
+cols = list(processed_schoolpages.columns)
+# Rearrange the columns by inserting 'Within_Fees_Constraint' after 'fees_pr_kindergarten'
+cols.insert(cols.index('fees_pr_kindergarten') + 1, cols.pop(cols.index('Within_Fees_Constraint')))
+# Reindex the DataFrame with the new column order
+preschool_details = processed_schoolpages.reindex(columns=cols)
+# add Within_Levels_Constraint after levels_kindergarten
+cols = list(preschool_details.columns)
+# Rearrange the columns by inserting 'Within_Levels_Constraint' after 'levels_kindergarten'
+cols.insert(cols.index('levels_kindergarten') + 1, cols.pop(cols.index('Within_Levels_Constraint')))
+# Reindex the DataFrame with the new column order
+df_preschool_details = preschool_details.reindex(columns=cols)
+
 # Combine both files
 compiled_output_file = (pd.merge(df_distance, df_open, on='Preschool_Name', how='left', indicator=True)
                         .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
@@ -365,13 +415,15 @@ no_dup_processed_googlemaps = processed_googlemaps.drop(columns=[
 ])
 compiled_output_file = (pd.merge(compiled_output_file, no_dup_processed_googlemaps, on='Preschool_Name', how='left', indicator=True)
                         .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
-compiled_output_file = (pd.merge(compiled_output_file, processed_schoolpages, on='Preschool_Name', how='left', indicator=True)
+compiled_output_file = (pd.merge(compiled_output_file, df_preschool_details, on='Preschool_Name', how='left', indicator=True)
                         .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
 
 # Filtered only those within
 filtered_compiled_output_file = compiled_output_file[
     (compiled_output_file['Within_Distance_Constraint'] == 1) &
-    (compiled_output_file['Within_Opening_Hours_Constraint'] == 1)
+    (compiled_output_file['Within_Opening_Hours_Constraint'] == 1) &
+    (compiled_output_file['Within_Fees_Constraint'] == 1) &
+    (compiled_output_file['Within_Levels_Constraint'] == 1)
     ]
 
 # Save output files
