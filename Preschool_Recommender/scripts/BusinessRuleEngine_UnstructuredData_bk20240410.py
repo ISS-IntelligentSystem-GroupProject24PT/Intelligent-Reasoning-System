@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Define file paths and directories
-INPUT_FEES_EXCEL = 'filled_combined_preschool_list_with_fees.csv'
+INPUT_FILE = 'PreschoolDetails.csv'
 USER_INPUT_FILE = 'UserInput.csv'
 OUTPUT_FILE = 'FilteredPreschools.csv'
 INPUT_DIRECTORY = "..//resources//BusinessRulesEngine//Input_Files"
@@ -15,7 +15,7 @@ if not os.path.exists(OUTPUT_DIRECTORY):
     os.mkdir(OUTPUT_DIRECTORY)
 
 # Define full file paths
-input_file = os.path.join(INPUT_DIRECTORY, INPUT_FEES_EXCEL)
+input_file = os.path.join(INPUT_DIRECTORY, INPUT_FILE)
 user_input_file = os.path.join(INPUT_DIRECTORY, USER_INPUT_FILE)
 output_file = os.path.join(OUTPUT_DIRECTORY, OUTPUT_FILE)
 
@@ -26,9 +26,10 @@ user_input = pd.read_csv(user_input_file)
 #check how to read and also for multiple programme and curriculum 
 # as long as match one for whole row keep the row 
 # Get user input
-# filter only on fees and level 
 user_fees = 1500 #user_fees = user_input['User_Preferred_Fees'][0]
 user_level = 3 #user_level = user_input['User_Preferred_Levels'][0]
+user_programmes =  10, 11, 12  #user_programmes = user_input['User_Preferred_Programmes'][0]
+user_curriculum = 7,8,9 #user_curriculum = user_input['User_Preferred_Curriculum'][0]
 
 # Apply business rules
 preschool_details['Within_Fees_Constraint'] = (preschool_details['Fees'] <= user_fees).astype(int)

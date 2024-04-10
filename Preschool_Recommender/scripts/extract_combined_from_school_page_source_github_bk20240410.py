@@ -183,7 +183,6 @@ curriculum  = {
 "play_based_curriculum": ["play based", "play based curriculum", "play-based"],
 "project_based": ["project based", "practical life", "project-based"],
 "reggio_emilia_approach": ["reggio emilia"],
-"spark_certified_curriculum": ["spark","spark certified"],
 "thematic": ["thematic","theme"],
 "isteam": ["isteam", "s.t.r.e.a.m."]
 }
@@ -202,8 +201,8 @@ programme = {
         "chinese reading scheme"
     ],
     "digital skills": [
-        "computer","computer & it appreciation", "coding", "digital citizenship",
-        "digital literacy", "computer science", "information technology", "robotics",
+        "computer & it appreciation", "coding", "digital citizenship/ keeping safe curriculum",
+        "digital literacy", "computer science", "information technology", "it", "robotics",
         "technology"
     ],
     "discovery of the word": [
@@ -271,8 +270,9 @@ levels =  {
     "infant_care":[
         'baby', 'baby and child care',
         'caregiving', 'infant', 'infant and toddler care', 'infant class', 
-        'infant development', 'infant education', 
-        'maternal care',  
+        'infant development', 'infant education', 'infant growth', 'infant learning', 
+        'infant nurturing', 'infant school', 'infant teaching', 'infant_education', 
+        'maternal care', 'maternal and child health Care', 'maternal health', 
         ]
     ,
     "playgroup" :[
