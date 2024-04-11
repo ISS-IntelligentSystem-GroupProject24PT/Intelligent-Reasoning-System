@@ -12,8 +12,7 @@ from spacytextblob.spacytextblob import SpacyTextBlob
 class GoogleMapsReviews:
 
     # Define a function to replace abbreviations with their most similar words or their definitions
-    def replace_abbreviations(self, text):
-        w2v_model = api.load("word2vec-google-news-300")
+    def replace_abbreviations(self, text, w2v_model):
         # Load a spaCy model and create a Matcher object
         matcher = Matcher(self.nlp.vocab)
         # Define a pattern to match abbreviations
@@ -40,9 +39,9 @@ class GoogleMapsReviews:
         # Join the tokens back into a string
         return " ".join(altered_tokens)
 
-    def my_preprocessing(self, raw_sentence):
+    def my_preprocessing(self, raw_sentence, w2v_model):
         sentence = self.nlp(raw_sentence)
-        preprocessed_sentence = [self.replace_abbreviations(token.lemma_.lower()) for token in sentence if
+        preprocessed_sentence = [self.replace_abbreviations(token.lemma_.lower(), w2v_model) for token in sentence if
                                  not token.is_punct and not token.is_stop and token.is_alpha and token.pos_ == 'NOUN']
         return preprocessed_sentence
 
@@ -63,6 +62,7 @@ class GoogleMapsReviews:
         # Load NLP
         self.nlp = spacy.load('en_core_web_sm')
         self.nlp.add_pipe('spacytextblob')
+        w2v_model = api.load("word2vec-google-news-300")
 
         # Set up directory
         if not os.path.exists(self.OUTPUT_DIRECTORY_NAME):
@@ -97,18 +97,21 @@ class GoogleMapsReviews:
         for index, row in df_unstructured_input_file.iterrows():
             preschool_name = row['Preschool_Name']
             review_comments = str(row['Review_Comments'])
-            review_comments = review_comments.replace('.,', '.  ')
-            review_comments = review_comments.replace('!,', '!  ')
-            review_comments = review_comments.replace('),', ')  ')
-            review_comments = re.sub(r", ([A-Z])", r",  \1", review_comments)
-            review_comment = review_comments.split('    ')
+            # review_comments = review_comments.replace('.,', '.    ')
+            # review_comments = review_comments.replace('!,', '!    ')
+            # review_comments = review_comments.replace('),', ')    ')
+            # review_comments = re.sub(r", ([A-Z])", r",  \1", review_comments)
+            review_comment = review_comments.split('", "')
+            print(review_comments)
+            for i in range(0, len(review_comment)):
+                print(review_comment[i])
 
             for comment in review_comment:
                 token_sentence = self.nlp(comment.strip())
                 if comment == 'nan':
                     print(preschool_name)
                 else:
-                    preprocessed_sentences = self.my_preprocessing(token_sentence)
+                    preprocessed_sentences = self.my_preprocessing(token_sentence, w2v_model)
                     sorted_word_counts = sorted(Counter(preprocessed_sentences).items(), key=lambda item: item[1],
                                                 reverse=True)  # Sort the word counts by their occurrences
                     if not sorted_word_counts:

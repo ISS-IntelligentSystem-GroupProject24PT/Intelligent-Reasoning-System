@@ -127,8 +127,8 @@ def scrape_google_reviews(chromedriver, search_terms):
     # Extract review texts
     try:
         reviews = soup.find_all(name='div', class_='MyEned') or ''
-        review_comment_ = [review.find('span').text.replace("\n", ' ') for review in reviews if
-                           review.find('span')]
+        review_comment_ = [review.find('span').text.replace("\n", ' ').replace('  ', ' ').replace('…', '')
+                           for review in reviews if review.find('span')]
     except Exception as e:
         print(f"An error occurred for scrape_google_reviews (review comment): {e}")
     # Extract stars
@@ -155,7 +155,13 @@ def scrape_google_reviews(chromedriver, search_terms):
 
 
 def convert_list_to_string(dataframe):
-    dataframe = dataframe.map(lambda x: ',    '.join(map(str, x)) if isinstance(x, list) else ('' if x is None else x))
+    dataframe = dataframe.map(lambda x: ', '.join(map(str, x)) if isinstance(x, list) else ('' if x is None else x))
+    return dataframe
+
+
+def convert_list_to_string_with_quotes(dataframe):
+    dataframe = dataframe.map(
+        lambda x: ', '.join(f'"{i}"' for i in x) if isinstance(x, list) else ('' if x is None else x))
     return dataframe
 
 

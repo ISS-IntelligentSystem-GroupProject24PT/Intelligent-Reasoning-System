@@ -124,8 +124,9 @@ for index, preschool in df["Preschool_Name"].items():
             print(f"An error occurred for save_google_reviews: {e}")
         try:
             df_review_comments = pd.read_csv(output_file_reviews_text_refresh, sep=',')
-            df_review_comments = pd.concat(objs=[convert_list_to_string(google_reviews), df_review_comments], ignore_index=True).drop_duplicates()
+            df_review_comments = pd.concat(objs=[convert_list_to_string_with_quotes(google_reviews), df_review_comments], ignore_index=True).drop_duplicates()
             save_to_csv(dataframe=df_review_comments, output_file_=output_file_reviews_text_refresh)
+            print(df_review_comments)
         except Exception as e:
             print(f"An error occurred for google_reviews: {e}")
         try:
