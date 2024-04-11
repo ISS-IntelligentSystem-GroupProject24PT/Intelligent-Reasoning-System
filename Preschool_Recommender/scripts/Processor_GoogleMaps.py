@@ -1,3 +1,10 @@
+import os
+from datetime import datetime
+import pandas as pd
+import re
+import Processor_GoogleMapsReviews
+
+
 def convert_time(time_str):
     if time_str == 'Closed':
         hours = 'Closed'
@@ -28,12 +35,6 @@ def convert_time(time_str):
     return hours + minutes
 
 
-import os
-from datetime import datetime
-import pandas as pd
-import re
-import Processor_GoogleMapsReviews
-
 INPUT_FILE_EXCEL = 'Google_Reviews_Output.csv'
 INPUT_FILE_TXT = 'Google_Reviews_Output.txt'
 OUTPUT_FILE = 'ProcessedGoogleMaps_Output.csv'
@@ -63,7 +64,6 @@ input_file_txt_with_date = os.path.join(ARCHIVES_DIRECTORY_NAME, INPUT_FILE_TXT_
 output_file_with_date = os.path.join(ARCHIVES_DIRECTORY_NAME, OUTPUT_FILE_WITH_DATE)
 review_output_file = os.path.join(OUTPUT_DIRECTORY_NAME, REVIEW_OUTPUT_FILE)
 
-
 # Set the display options
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_columns', None)
@@ -73,7 +73,6 @@ pd.set_option('display.max_colwidth', None)
 # Read input files
 df_structured_input_file = pd.read_csv(input_file_excel)
 df_unstructured_input_file = pd.read_csv(input_file_txt)
-df_review_file = pd.read_csv(review_output_file)
 
 # Processing for Latitude & Longitude
 google_websites = df_structured_input_file[['Preschool_Name', 'Google_Website']]
@@ -206,7 +205,6 @@ for index, row in opening_hours.iterrows():
     else:
         print('empty')
 
-
 # Combine Files
 compiled_output_file = (pd.merge(df_structured_input_file, df_lat_long,
                                  on='Preschool_Name', how='left', indicator=True)
@@ -214,6 +212,17 @@ compiled_output_file = (pd.merge(df_structured_input_file, df_lat_long,
 compiled_output_file = (pd.merge(compiled_output_file, df_opening_hours,
                                  on='Preschool_Name', how='left', indicator=True)
                         .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
+
+# Save output files
+df_structured_input_file.to_csv(path_or_buf=input_file_excel_with_date, index=False)
+df_unstructured_input_file.to_csv(path_or_buf=input_file_txt_with_date, index=False)
+compiled_output_file.to_csv(path_or_buf=output_file, index=False)
+compiled_output_file.to_csv(path_or_buf=output_file_with_date, index=False)
+compiled_output_file.to_csv(path_or_buf=processed_output_file, index=False)
+
+# Review Processing
+df_review_file = pd.read_csv(review_output_file)
+google_maps_reviews_processing = Processor_GoogleMapsReviews.GoogleMapsReviews()
 compiled_output_file = (pd.merge(compiled_output_file, df_review_file,
                                  on='Preschool_Name', how='left', indicator=True)
                         .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
