@@ -7,7 +7,7 @@ def save_to_csv(df):
     
 # read excel file from here 
 # Load the Excel file with search terms
-excel_file = './resources/SchoolPages/SchoolPage_Website_Links/filled_combined_preschool_list_with_fees_bk20240410_02.csv'
+excel_file = './resources/SchoolPages/SchoolPage_Website_Links/filled_combined_preschool_list_with_fees.csv'
 # df = pd.read_csv(excel_file)
 df = pd.read_csv(excel_file, encoding='cp1252')
 #print(df.columns)
