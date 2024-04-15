@@ -2,7 +2,10 @@ import os
 from datetime import datetime
 import pandas as pd
 import re
-import Processor_GoogleMapsReviews
+
+
+def initialise_reviews():
+    from Processor_GoogleMapsReviews import GoogleMapsReviews
 
 
 def convert_time(time_str):
@@ -41,7 +44,7 @@ OUTPUT_FILE = 'ProcessedGoogleMaps_Output.csv'
 INPUT_FILE_EXCEL_WITH_DATE = f"Google_Reviews_Output_{datetime.now().date()}.csv"
 INPUT_FILE_TXT_WITH_DATE = f"Google_Reviews_Output_{datetime.now().date()}.txt"
 OUTPUT_FILE_WITH_DATE = f"ProcessedGoogleMaps_Output_{datetime.now().date()}.csv"
-REVIEW_OUTPUT_FILE = 'ProcessedGoogleMaps_Output_Reviews.csv'
+REVIEW_OUTPUT_FILE = '4_Topics_ProcessedGoogleMaps_Output_Reviews.csv'
 
 INPUT_DIRECTORY_NAME = "..//resources//ProcessedGoogleMaps//ProcessedGoogleMaps_Input_Files"
 OUTPUT_DIRECTORY_NAME = "..//resources//ProcessedGoogleMaps//ProcessedGoogleMaps_Output_Files"
@@ -219,10 +222,11 @@ df_unstructured_input_file.to_csv(path_or_buf=input_file_txt_with_date, index=Fa
 compiled_output_file.to_csv(path_or_buf=output_file, index=False)
 compiled_output_file.to_csv(path_or_buf=output_file_with_date, index=False)
 compiled_output_file.to_csv(path_or_buf=processed_output_file, index=False)
+print('Process 1 done!')
 
 # Review Processing
 df_review_file = pd.read_csv(review_output_file)
-google_maps_reviews_processing = Processor_GoogleMapsReviews.GoogleMapsReviews()
+initialise_reviews()
 compiled_output_file = (pd.merge(compiled_output_file, df_review_file,
                                  on='Preschool_Name', how='left', indicator=True)
                         .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')

@@ -1,12 +1,12 @@
 import os
 from datetime import datetime
 import pandas as pd
-import re
-from collections import Counter
 import spacy
 from spacy.matcher import Matcher
 import gensim.downloader as api
-from spacytextblob.spacytextblob import SpacyTextBlob
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.decomposition import LatentDirichletAllocation
+from textblob import TextBlob
 
 
 class GoogleMapsReviews:
@@ -42,26 +42,81 @@ class GoogleMapsReviews:
     def my_preprocessing(self, raw_sentence, w2v_model):
         sentence = self.nlp(raw_sentence)
         preprocessed_sentence = [self.replace_abbreviations(token.lemma_.lower(), w2v_model) for token in sentence if
-                                 not token.is_punct and not token.is_stop and token.is_alpha and token.pos_ == 'NOUN']
+                                 not token.is_punct and not token.is_stop and token.is_alpha
+                                 # and token.pos_ == 'NOUN'
+                                 ]
         return preprocessed_sentence
 
-    INPUT_FILE_TXT = 'Google_Reviews_Output.txt'
-    INPUT_WORD_CATEGORISATION = 'Word_Categorisation.csv'
-    OUTPUT_FILE = 'ProcessedGoogleMaps_Output_Reviews.csv'
-    TEMP_OUTPUT_FILE = 'ProcessedGoogleMaps_Output_Reviews_Temp.csv'
-    FREQUENCY_OUTPUT_FILE = 'ProcessedGoogleMaps_Output_Noun_Frequency.csv'
-    INPUT_FILE_TXT_WITH_DATE = f"Google_Reviews_Output_{datetime.now().date()}.txt"
-    OUTPUT_FILE_WITH_DATE = f"ProcessedGoogleMaps_Output_Reviews_{datetime.now().date()}.csv"
-    FREQUENCY_OUTPUT_FILE_WITH_DATE = f"ProcessedGoogleMaps_Output_Noun_Frequency_{datetime.now().date()}.csv"
+    @staticmethod
+    def get_sentiment(review_comment):
+        blob = TextBlob(review_comment)
+        return blob.sentiment.polarity
 
+    @staticmethod
+    def extract_topics(output_directory_name, num_topics):
+        df_density = pd.DataFrame()
+        for n_topics in range(2, num_topics + 1):
+            try:
+                OUTPUT_FILE = f"{n_topics}_Topics_ProcessedGoogleMaps_Output_Reviews.csv"
+                output_file = os.path.join(output_directory_name, OUTPUT_FILE)
+                topic_model_results = pd.read_csv(output_file)
+                topic_model_results['File'] = OUTPUT_FILE
+                topic_model_results['n_topics'] = n_topics
+                topic_model_results['Total'] = len(topic_model_results)
+                for n in range(0, n_topics):
+                    topic_model_results[f"Topic_{n}_Blank"] = topic_model_results[f"Topic {n}"].isnull().astype(int)
+                    topic_model_results[f"Topic_{n}_Filled"] = topic_model_results[f"Topic {n}"].notnull().astype(int)
+                    topic_model_results = topic_model_results.drop(columns=f"Topic {n}")
+                topic_model_results = topic_model_results.drop(columns='Preschool_Name')
+                topic_model_results = pd.pivot_table(
+                    topic_model_results,
+                    index=['File', 'n_topics', 'Total'],
+                    values=[(f"Topic_{n}_Blank") for n in range(0, n_topics)],
+                    aggfunc='sum'
+                )
+                topic_model_results.reset_index(inplace=True)
+                for n in range(0, n_topics):
+                    topic_model_results[f"Topic_{n}_Blank"] = topic_model_results[f"Topic_{n}_Blank"] / topic_model_results['Total']
+                df_density = df_density._append(topic_model_results, ignore_index=True)
+            except Exception as e:
+                print(f"{e}")
+
+        df_topics = pd.DataFrame()
+        for n_topics in range(2, num_topics + 1):
+            try:
+                OUTPUT_FILE = f"{n_topics}_Topics_ProcessedGoogleMaps_Output_Topic_Model.txt"
+                output_file = os.path.join(output_directory_name, OUTPUT_FILE)
+                topic_model_results = pd.read_csv(output_file)
+                topic_model_results = topic_model_results[['Topic_Number', 'Word']]
+                topic_model_results['File'] = OUTPUT_FILE
+                topic_model_results['n_topics'] = n_topics
+                topic_model_results.reset_index(drop=True, inplace=True)
+                topic_model_results = topic_model_results.drop_duplicates(subset='Word')
+                topic_model_results = topic_model_results.pivot(index=['File', 'n_topics'],
+                                                                columns='Topic_Number',
+                                                                values='Word')
+                topic_model_results.reset_index(inplace=True)
+                df_topics = df_topics._append(topic_model_results, ignore_index=True)
+            except Exception as e:
+                print(f"{e}")
+        # Combine
+        all_topics = (pd.merge(df_density, df_topics, on='n_topics', how='left', indicator=True).drop(columns=['_merge']))
+        # Store results
+        TOPIC_OUTPUT_FILE = f"Topics.csv"
+        topic_output_file = os.path.join(output_directory_name, TOPIC_OUTPUT_FILE)
+        all_topics.to_csv(path_or_buf=topic_output_file, index=False)
+
+    INPUT_FILE_TXT = 'Google_Reviews_Output.txt'
+    INPUT_WORD_CATEGORISATION = 'Topic_Modelling.csv'
+    INPUT_FILE_TXT_WITH_DATE = f"Google_Reviews_Output_{datetime.now().date()}.txt"
     INPUT_DIRECTORY_NAME = "..//resources//ProcessedGoogleMaps//ProcessedGoogleMaps_Input_Files"
     OUTPUT_DIRECTORY_NAME = "..//resources//ProcessedGoogleMaps//ProcessedGoogleMaps_Output_Files"
     ARCHIVES_DIRECTORY_NAME = "..//resources//ProcessedGoogleMaps//ProcessedGoogleMaps_Archives"
 
     def __init__(self):
+        print('Processor_GoogleMapsReviews Start!')
         # Load NLP
         self.nlp = spacy.load('en_core_web_sm')
-        self.nlp.add_pipe('spacytextblob')
         w2v_model = api.load("word2vec-google-news-300")
 
         # Set up directory
@@ -72,14 +127,7 @@ class GoogleMapsReviews:
             os.mkdir(self.ARCHIVES_DIRECTORY_NAME)
 
         input_file_txt = os.path.join(self.INPUT_DIRECTORY_NAME, self.INPUT_FILE_TXT)
-        input_word_categorisation = os.path.join(self.INPUT_DIRECTORY_NAME, self.INPUT_WORD_CATEGORISATION)
-        output_file = os.path.join(self.OUTPUT_DIRECTORY_NAME, self.OUTPUT_FILE)
-        temp_output_file = os.path.join(self.OUTPUT_DIRECTORY_NAME, self.TEMP_OUTPUT_FILE)
         input_file_txt_with_date = os.path.join(self.ARCHIVES_DIRECTORY_NAME, self.INPUT_FILE_TXT_WITH_DATE)
-        output_file_with_date = os.path.join(self.ARCHIVES_DIRECTORY_NAME, self.OUTPUT_FILE_WITH_DATE)
-        frequency_output_file = os.path.join(self.OUTPUT_DIRECTORY_NAME, self.FREQUENCY_OUTPUT_FILE)
-        frequency_output_file_with_date = os.path.join(self.ARCHIVES_DIRECTORY_NAME,
-                                                       self.FREQUENCY_OUTPUT_FILE_WITH_DATE)
 
         # Set the display options
         pd.set_option('display.max_rows', None)
@@ -89,74 +137,82 @@ class GoogleMapsReviews:
 
         # Read input files
         df_unstructured_input_file = pd.read_csv(input_file_txt)
-        df_word_categorisation = pd.read_csv(input_word_categorisation)
+        df_comments = pd.DataFrame(columns=['Comment', 'Sentiment', 'Topic_Number', 'Word', 'Preschool_Name'])
+        review_comments = df_unstructured_input_file.get('Review_Comments')
+        review_comments = review_comments.fillna('')
+        review_comment_splits = review_comments.str.split('", "')
 
-        df_comments = pd.DataFrame(columns=['Preschool_Name', 'Comment', 'Sentiment', 'Word'])
-        all_preprocessed_sentences = []
+        n_top_words = 20
 
-        for index, row in df_unstructured_input_file.iterrows():
-            preschool_name = row['Preschool_Name']
-            review_comments = str(row['Review_Comments'])
-            # review_comments = review_comments.replace('.,', '.    ')
-            # review_comments = review_comments.replace('!,', '!    ')
-            # review_comments = review_comments.replace('),', ')    ')
-            # review_comments = re.sub(r", ([A-Z])", r",  \1", review_comments)
-            review_comment = review_comments.split('", "')
-            print(review_comments)
-            for i in range(0, len(review_comment)):
-                print(review_comment[i])
+        for n_topics in range(2, 7):
+            print(f"n_topics: {n_topics}")
+            # Preprocess and vectorize all comments
+            all_comments = [' '.join(self.my_preprocessing(comment[0], w2v_model)) for comment in review_comment_splits]
+            sparse_vectorizer = CountVectorizer(strip_accents='unicode')
+            sparse_vectors = sparse_vectorizer.fit_transform(all_comments)
+            feature_names = sparse_vectorizer.get_feature_names_out()
+            # Train LDA model
+            lda = LatentDirichletAllocation(n_components=n_topics, max_iter=1000, learning_method='online', random_state=0)
+            lda.fit(sparse_vectors)
+            # Get top words for each topic
+            topic_top_words = {}
+            for topic_idx, topic in enumerate(lda.components_):
+                top_words_idx = topic.argsort()[:-n_top_words - 1:-1]
+                top_words = [feature_names[i] for i in top_words_idx]
+                topic_top_words[topic_idx] = top_words
 
-            for comment in review_comment:
-                token_sentence = self.nlp(comment.strip())
-                if comment == 'nan':
-                    print(preschool_name)
-                else:
-                    preprocessed_sentences = self.my_preprocessing(token_sentence, w2v_model)
-                    sorted_word_counts = sorted(Counter(preprocessed_sentences).items(), key=lambda item: item[1],
-                                                reverse=True)  # Sort the word counts by their occurrences
-                    if not sorted_word_counts:
-                        sorted_word_counts = [('-', 0)]
-                    all_preprocessed_sentences.extend(preprocessed_sentences)
-                    comment_row = pd.DataFrame({
-                        'Preschool_Name': [preschool_name],
-                        'Comment': [comment],
-                        'Sentiment': [token_sentence._.polarity],
-                        'Word': [sorted_word_counts[0][0]]
-                    })
-                    df_comments = pd.concat([df_comments, comment_row], ignore_index=True)
+            # Assign topics to comments
+            for idx, review_comment_split in enumerate(review_comment_splits):
+                for split_comment in review_comment_split:
+                    preprocessed_comment = ' '.join(self.my_preprocessing(split_comment, w2v_model))
+                    sentiment = self.get_sentiment(split_comment)
+                    try:
+                        if preprocessed_comment:
+                            sparse_vector = sparse_vectorizer.transform([preprocessed_comment])
+                            doc_topic_distribution = lda.transform(sparse_vector)
+                            dominant_topic = doc_topic_distribution.argmax(axis=1)[0]
+                            top_words = topic_top_words[dominant_topic]
+                            pre_school_name = df_unstructured_input_file.loc[idx, 'Preschool_Name']
+                            comment_row = pd.DataFrame({
+                                'Comment': [split_comment],
+                                'Sentiment': [sentiment],
+                                'Topic_Number': [f"Topic {dominant_topic}"],
+                                'Word': [top_words],
+                                'Preschool_Name': [pre_school_name]
+                            })
+                            df_comments = pd.concat([df_comments, comment_row], ignore_index=True)
+                        # Store results
+                        FREQUENCY_OUTPUT_FILE = f"{n_topics}_Topics_ProcessedGoogleMaps_Output_Topic_Model.txt"
+                        frequency_output_file = os.path.join(self.OUTPUT_DIRECTORY_NAME, FREQUENCY_OUTPUT_FILE)
+                        df_comments.to_csv(path_or_buf=frequency_output_file, index=False)
+                        # Store results in archives
+                        FREQUENCY_OUTPUT_FILE_WITH_DATE = f"{n_topics}_Topics_ProcessedGoogleMaps_Output_Topic_Model{datetime.now().date()}.csv"
+                        frequency_output_file_with_date = os.path.join(self.ARCHIVES_DIRECTORY_NAME, FREQUENCY_OUTPUT_FILE_WITH_DATE)
+                        df_comments.to_csv(path_or_buf=frequency_output_file_with_date, index=False)
 
-        # Noun Frequency Table
-        total_sorted_word_counts = sorted(Counter(all_preprocessed_sentences).items(), key=lambda item: item[1],
-                                          reverse=True)  # Sort the word counts by their occurrences
-        df_word_counts_by_noun = pd.DataFrame(total_sorted_word_counts, columns=['Word', 'Frequency'])
-        df_word_counts_by_noun = (
-            pd.merge(df_word_counts_by_noun, df_word_categorisation, on='Word', how='left', indicator=True)
-            .drop(columns=['_merge'])).drop_duplicates(subset='Word')
-        # Sentiment by Category / Preschool
-        df_sentiment_by_category = (pd.merge(df_comments, df_word_categorisation, on='Word', how='left', indicator=True)
-                                    .drop(columns=['_merge'])).drop_duplicates(subset='Word')
-        df_sentiment_by_category_cleaned = df_sentiment_by_category.drop(columns=['Comment', 'Word'])
-        df_average_sentiment_by_category = df_sentiment_by_category_cleaned.pivot_table(values='Sentiment',
-                                                                                        index=['Preschool_Name'],
-                                                                                        columns='Category')
-        df_average_sentiment_by_category.reset_index(inplace=True)
-        df_average_sentiment_by_preschool = df_sentiment_by_category_cleaned.pivot_table(values='Sentiment',
-                                                                                         index=['Preschool_Name'])
-        df_average_sentiment_by_preschool.reset_index(inplace=True)
-        compiled_output_file = (
-            pd.merge(df_average_sentiment_by_preschool, df_average_sentiment_by_category, on='Preschool_Name',
-                     how='left',
-                     indicator=True)
-            .drop(columns=['_merge']))
-        compiled_output_file.rename(columns={'Sentiment': 'Overall_Sentiment'}, inplace=True)
+                    except Exception as e:
+                        print(f"{preprocessed_comment}, {e}")
 
-        # Save output files
+            compiled_output_file = df_comments.pivot_table(
+                values='Sentiment',
+                index=['Preschool_Name'],
+                columns='Topic_Number'
+            )
+            compiled_output_file.reset_index(inplace=True)
+
+            # Save output files
+            OUTPUT_FILE = f"{n_topics}_Topics_ProcessedGoogleMaps_Output_Reviews.csv"
+            output_file = os.path.join(self.OUTPUT_DIRECTORY_NAME, OUTPUT_FILE)
+            compiled_output_file.to_csv(path_or_buf=output_file, index=False)
+
+            # Store result in archives
+            OUTPUT_FILE_WITH_DATE = f"{n_topics}_Topics_ProcessedGoogleMaps_Output_Reviews_{datetime.now().date()}.csv"
+            output_file_with_date = os.path.join(self.ARCHIVES_DIRECTORY_NAME, OUTPUT_FILE_WITH_DATE)
+            compiled_output_file.to_csv(path_or_buf=output_file_with_date, index=False)
         df_unstructured_input_file.to_csv(path_or_buf=input_file_txt_with_date, index=False)
-        df_word_counts_by_noun.to_csv(path_or_buf=frequency_output_file, index=False)
-        df_word_counts_by_noun.to_csv(path_or_buf=frequency_output_file_with_date, index=False)
-        df_sentiment_by_category.to_csv(path_or_buf=temp_output_file, index=False)
-        compiled_output_file.to_csv(path_or_buf=output_file, index=False)
-        compiled_output_file.to_csv(path_or_buf=output_file_with_date, index=False)
+
+        # Extract Topics
+        self.extract_topics(self.OUTPUT_DIRECTORY_NAME, num_topics=6)
 
 
 google_maps_reviews_processing = GoogleMapsReviews()
