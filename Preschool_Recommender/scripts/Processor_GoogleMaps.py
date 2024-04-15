@@ -44,7 +44,7 @@ OUTPUT_FILE = 'ProcessedGoogleMaps_Output.csv'
 INPUT_FILE_EXCEL_WITH_DATE = f"Google_Reviews_Output_{datetime.now().date()}.csv"
 INPUT_FILE_TXT_WITH_DATE = f"Google_Reviews_Output_{datetime.now().date()}.txt"
 OUTPUT_FILE_WITH_DATE = f"ProcessedGoogleMaps_Output_{datetime.now().date()}.csv"
-REVIEW_OUTPUT_FILE = '4_Topics_ProcessedGoogleMaps_Output_Reviews.csv'
+REVIEW_OUTPUT_FILE = '6_Topics_ProcessedGoogleMaps_Output_Reviews.csv'
 
 INPUT_DIRECTORY_NAME = "..//resources//ProcessedGoogleMaps//ProcessedGoogleMaps_Input_Files"
 OUTPUT_DIRECTORY_NAME = "..//resources//ProcessedGoogleMaps//ProcessedGoogleMaps_Output_Files"
