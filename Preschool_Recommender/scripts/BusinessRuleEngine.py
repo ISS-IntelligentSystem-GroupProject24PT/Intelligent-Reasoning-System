@@ -46,8 +46,16 @@ class BusinessRulesEngine:
     INPUT_DIRECTORY_NAME = "..//resources//BusinessRulesEngine//BusinessRulesEngine_Input_Files"
     OUTPUT_DIRECTORY_NAME = "..//resources//BusinessRulesEngine//BusinessRulesEngine_Output_Files"
     ARCHIVES_DIRECTORY_NAME = "..//resources//BusinessRulesEngine//BusinessRulesEngine_Archives"
+    MATCHING_ALGORITHM_DIRECTORY_NAME = "..//resources//MatchingAlgorithm//MatchingAlgorithm_Input_Files"
 
     def __init__(self):
+
+        # Set the display options
+        pd.set_option('display.max_rows', None)
+        pd.set_option('display.max_columns', None)
+        pd.set_option('display.width', None)
+        pd.set_option('display.max_colwidth', None)
+
         # Set up directory
         if not os.path.exists(self.INPUT_DIRECTORY_NAME):
             os.mkdir(self.INPUT_DIRECTORY_NAME)
@@ -66,12 +74,7 @@ class BusinessRulesEngine:
         output_file_with_date = os.path.join(self.ARCHIVES_DIRECTORY_NAME, self.OUTPUT_FILE_WITH_DATE)
         filtered_output_file = os.path.join(self.OUTPUT_DIRECTORY_NAME, self.FILTERED_OUTPUT_FILE)
         filtered_output_file_with_date = os.path.join(self.ARCHIVES_DIRECTORY_NAME, self.FILTERED_OUTPUT_FILE_WITH_DATE)
-
-        # Set the display options
-        pd.set_option('display.max_rows', None)
-        pd.set_option('display.max_columns', None)
-        pd.set_option('display.width', None)
-        pd.set_option('display.max_colwidth', None)
+        output_file_for_matching_algorithm = os.path.join(self.MATCHING_ALGORITHM_DIRECTORY_NAME, self.FILTERED_OUTPUT_FILE)
 
         # Read input files
         processed_googlemaps = pd.read_csv(input_file_excel)
@@ -434,6 +437,7 @@ class BusinessRulesEngine:
         compiled_output_file = (
             pd.merge(compiled_output_file, df_preschool_details, on='Preschool_Name', how='left', indicator=True)
             .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
+        compiled_output_file['user_level'] = user_level
 
         # Filtered only those within
         filtered_compiled_output_file = compiled_output_file[
@@ -449,6 +453,7 @@ class BusinessRulesEngine:
         compiled_output_file.to_csv(path_or_buf=output_file_with_date, index=False)
         filtered_compiled_output_file.to_csv(path_or_buf=filtered_output_file, index=False)
         filtered_compiled_output_file.to_csv(path_or_buf=filtered_output_file_with_date, index=False)
+        filtered_compiled_output_file.to_csv(path_or_buf=output_file_for_matching_algorithm, index=False)
 
 
 business_rules_engine = BusinessRulesEngine()
