@@ -92,6 +92,7 @@ class GoogleMapsReviews:
                 topic_model_results['n_topics'] = n_topics
                 topic_model_results.reset_index(drop=True, inplace=True)
                 topic_model_results = topic_model_results.drop_duplicates(subset='Word')
+                topic_model_results = topic_model_results.drop_duplicates(subset='Topic_Number')
                 topic_model_results = topic_model_results.pivot(index=['File', 'n_topics'],
                                                                 columns='Topic_Number',
                                                                 values='Word')
@@ -143,8 +144,8 @@ class GoogleMapsReviews:
         review_comment_splits = review_comments.str.split('", "')
 
         n_top_words = 20
-
-        for n_topics in range(2, 7):
+        max_num_of_topics = 10
+        for n_topics in range(2, max_num_of_topics+1):
             print(f"n_topics: {n_topics}")
             # Preprocess and vectorize all comments
             all_comments = [' '.join(self.my_preprocessing(comment[0], w2v_model)) for comment in review_comment_splits]
@@ -212,7 +213,7 @@ class GoogleMapsReviews:
         df_unstructured_input_file.to_csv(path_or_buf=input_file_txt_with_date, index=False)
 
         # Extract Topics
-        self.extract_topics(self.OUTPUT_DIRECTORY_NAME, num_topics=6)
+        self.extract_topics(self.OUTPUT_DIRECTORY_NAME, num_topics=max_num_of_topics)
 
 
 google_maps_reviews_processing = GoogleMapsReviews()
