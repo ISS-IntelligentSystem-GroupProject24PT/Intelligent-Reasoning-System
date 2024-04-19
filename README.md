@@ -1,11 +1,10 @@
 ## SECTION 1 : PRE-SCHOOL RECOMMENDER NAME 
 ## Early Childhood Education - Preschool Recommender System
 
-<div style="display: flex; justify-content: center;">
-    <img src="./Preschool_Recommender/documentations/Images/Logo_Project.jpeg"
+<img src="./Preschool_Recommender/documentations/Images/Logo_Project.jpeg"
          style="margin-right: 0px;"
-         height="600" />
-</div>
+         height="500" />
+
 
 ---
 
