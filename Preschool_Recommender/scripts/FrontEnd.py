@@ -5,6 +5,8 @@ import tkinter
 import tkinter.ttk
 from typing import Tuple
 import customtkinter
+import BusinessRuleEngine
+import MatchingAlgorithm
 
 # Import tkinter extension modules
 import tkintermapview
@@ -408,6 +410,9 @@ class QuestionsPage(customtkinter.CTkFrame):
         userInput.extend(QuestionsPage.getSelectedDayswithTiming(daysSentAns.get(), dropoffReg.get(), dropoffWkEnd.get(), pickupReg.get(), pickupWkEnd.get()))
         # print(userInput)
         QuestionsPage.generateFile(userInput)
+
+        business_rule = BusinessRuleEngine()
+        matching_algo = MatchingAlgorithm()
 
         controller.show_frame(Resultspage)
 
