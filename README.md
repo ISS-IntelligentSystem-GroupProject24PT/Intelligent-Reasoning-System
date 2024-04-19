@@ -4,7 +4,7 @@
 <img src="./Preschool_Recommender/documentations/Images/Logo_Project.jpeg"
      style="float: left; margin-right: 0px;"
      width="800"
-     height="800" />
+     height="600" />
 
 ---
 
