@@ -198,7 +198,7 @@ class MatchingAlgorithm:
                 feature_data,
                 on='Preschool_Name', how='left', indicator=True
             ).drop(columns=['_merge']))
-
+        business_rules_engine_output = business_rules_engine_output.sort_values(by='Cosine_Similarity', ascending=False)
         # Save output files
         business_rules_engine_output_raw.to_csv(path_or_buf=input_file_with_date, index=False)
         business_rules_engine_output.to_csv(path_or_buf=output_file, index=False)
