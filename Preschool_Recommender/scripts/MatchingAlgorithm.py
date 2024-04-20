@@ -13,11 +13,13 @@ class MatchingAlgorithm:
     INPUT_FILE_WITH_DATE = f"BusinessRuleEngine_Distance_OpeningHours_Budget_Filtered_{datetime.now().date()}.csv"
     OUTPUT_FILE_WITH_DATE = f"MatchingAlgorithm_Output_{datetime.now().date()}.csv"
     BUSIENSS_RULES_OUPUT_FILE = 'BusinessRuleEngine_Distance_OpeningHours_Budget.csv'
+    FRONTEND_RULE_ALGO_OUTPUT_FILE = 'Results.csv'
 
     INPUT_DIRECTORY_NAME = "..//resources//MatchingAlgorithm//MatchingAlgorithm_Input_Files"
     OUTPUT_DIRECTORY_NAME = "..//resources//MatchingAlgorithm//MatchingAlgorithm_Output_Files"
     ARCHIVES_DIRECTORY_NAME = "..//resources//MatchingAlgorithm//MatchingAlgorithm_Archives"
     BUSINESS_RULES_NON_FILTERED_FILE_DIRECTORY_NAME = "..//resources//BusinessRulesEngine//BusinessRulesEngine_Output_Files"
+    FRONTEND_RULE_ALGO_OUTPUT_DIRECTORY_NAME = "..//resources//FrontEnd//FrontEnd_RuleAlgo_Output"
 
     def __init__(self):
 
@@ -42,6 +44,7 @@ class MatchingAlgorithm:
         output_file = os.path.join(self.OUTPUT_DIRECTORY_NAME, self.OUTPUT_FILE)
         output_file_with_date = os.path.join(self.ARCHIVES_DIRECTORY_NAME, self.OUTPUT_FILE_WITH_DATE)
         business_rules_non_filtered_file = os.path.join(self.BUSINESS_RULES_NON_FILTERED_FILE_DIRECTORY_NAME, self.BUSIENSS_RULES_OUPUT_FILE)
+        frontEnd_rulealgo_output = os.path.join(self.FRONTEND_RULE_ALGO_OUTPUT_DIRECTORY_NAME, self.FRONTEND_RULE_ALGO_OUTPUT_FILE)
 
         # Read input files
         business_rules_engine_output_raw = pd.read_csv(input_file)
@@ -203,6 +206,7 @@ class MatchingAlgorithm:
         business_rules_engine_output_raw.to_csv(path_or_buf=input_file_with_date, index=False)
         business_rules_engine_output.to_csv(path_or_buf=output_file, index=False)
         business_rules_engine_output.to_csv(path_or_buf=output_file_with_date, index=False)
+        business_rules_engine_output.to_csv(path_or_buf=frontEnd_rulealgo_output, index=False)
 
 
 MatchingAlgorithm = MatchingAlgorithm()
