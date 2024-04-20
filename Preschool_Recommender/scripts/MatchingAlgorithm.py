@@ -12,10 +12,12 @@ class MatchingAlgorithm:
     OUTPUT_FILE = 'MatchingAlgorithm_Output.csv'
     INPUT_FILE_WITH_DATE = f"BusinessRuleEngine_Distance_OpeningHours_Budget_Filtered_{datetime.now().date()}.csv"
     OUTPUT_FILE_WITH_DATE = f"MatchingAlgorithm_Output_{datetime.now().date()}.csv"
+    BUSIENSS_RULES_OUPUT_FILE = 'BusinessRuleEngine_Distance_OpeningHours_Budget.csv'
 
     INPUT_DIRECTORY_NAME = "..//resources//MatchingAlgorithm//MatchingAlgorithm_Input_Files"
     OUTPUT_DIRECTORY_NAME = "..//resources//MatchingAlgorithm//MatchingAlgorithm_Output_Files"
     ARCHIVES_DIRECTORY_NAME = "..//resources//MatchingAlgorithm//MatchingAlgorithm_Archives"
+    BUSINESS_RULES_NON_FILTERED_FILE_DIRECTORY_NAME = "..//resources//BusinessRulesEngine//BusinessRulesEngine_Output_Files"
 
     def __init__(self):
 
@@ -39,6 +41,7 @@ class MatchingAlgorithm:
         input_file_with_date = os.path.join(self.ARCHIVES_DIRECTORY_NAME, self.INPUT_FILE_WITH_DATE)
         output_file = os.path.join(self.OUTPUT_DIRECTORY_NAME, self.OUTPUT_FILE)
         output_file_with_date = os.path.join(self.ARCHIVES_DIRECTORY_NAME, self.OUTPUT_FILE_WITH_DATE)
+        business_rules_non_filtered_file = os.path.join(self.BUSINESS_RULES_NON_FILTERED_FILE_DIRECTORY_NAME, self.BUSIENSS_RULES_OUPUT_FILE)
 
         # Read input files
         business_rules_engine_output_raw = pd.read_csv(input_file)
@@ -186,6 +189,15 @@ class MatchingAlgorithm:
         cityblock_dist = cityblock_dist.flatten()
         business_rules_engine_output['Manhattan_Distance'] = cityblock_dist
         print(business_rules_engine_output.head())
+
+        # Combine business rules output file
+        feature_data = pd.read_csv(business_rules_non_filtered_file)
+        business_rules_engine_output = (
+            pd.merge(
+                business_rules_engine_output,
+                feature_data,
+                on='Preschool_Name', how='left', indicator=True
+            ).drop(columns=['_merge']))
 
         # Save output files
         business_rules_engine_output_raw.to_csv(path_or_buf=input_file_with_date, index=False)
