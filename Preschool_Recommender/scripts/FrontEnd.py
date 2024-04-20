@@ -5,8 +5,8 @@ import tkinter
 import tkinter.ttk
 from typing import Tuple
 import customtkinter
-import BusinessRuleEngine
-import MatchingAlgorithm
+# import BusinessRuleEngine
+# import MatchingAlgorithm
 
 # Import tkinter extension modules
 import tkintermapview
@@ -35,6 +35,7 @@ class WINDOWS(customtkinter.CTk):
     MIN_HEIGHT = 800
     HEADING_FONT = None
     dataframe = pandas.DataFrame(columns=[
+            'Primary_key',
             'Latitude_Longitude', # Location
             'Distance_Constraint', # Location Distance Constraint
             'Infant_Care_Singaporean',  # Citizenship Status & Age
@@ -402,18 +403,18 @@ class QuestionsPage(customtkinter.CTkFrame):
                 progAns, currAns,
                 daysSentAns, dropoffReg, dropoffWkEnd, pickupReg, pickupWkEnd):
         userInput = []
-        # userInput.append(MapWindow.get_position(MapWindow))
+        userInput.append(str(datetime.datetime.now()))
         userInput.extend(QuestionsPage.getMarkerPos())
         userInput.append(distRangeAns.get().strip("KM"))
         userInput.extend(QuestionsPage.getEduLvlWithCitizenship(citizenStaAns.get(), calAgeAns, budgetAns.get()))
         userInput.extend(QuestionsPage.getSelectedProgrammes(progAns.get()))
         userInput.extend(QuestionsPage.getSelectedCurriculum(currAns.get()))
         userInput.extend(QuestionsPage.getSelectedDayswithTiming(daysSentAns.get(), dropoffReg.get(), dropoffWkEnd.get(), pickupReg.get(), pickupWkEnd.get()))
-        # print(userInput)
+        print(userInput)
         QuestionsPage.generateFile(userInput)
 
-        business_rule = BusinessRuleEngine()
-        matching_algo = MatchingAlgorithm()
+        # business_rule = BusinessRuleEngine()
+        # matching_algo = MatchingAlgorithm()
 
         controller.show_frame(Resultspage)
 
@@ -421,16 +422,18 @@ class QuestionsPage(customtkinter.CTkFrame):
         # WINDOWS.dataframe = pandas.DataFrame(userInput)
         WINDOWS.dataframe.loc[len(WINDOWS.dataframe)] = userInput
 
-        # print(len(userInput))
-        # print(WINDOWS.dataframe)
+        print(WINDOWS.dataframe)
         output_file = os.path.join(WINDOWS.USER_OUTPUT_DIR, WINDOWS.USER_OUTPUT_FILE)
+        # print(output_file)
+        # print(os.getcwd())
         WINDOWS.dataframe.to_csv(path_or_buf=output_file, index=False)
 
     def getMarkerPos():
         if (len(WINDOWS.MARKER_LIST) <= 0):
             return ['1.290270, 103.851959']
         else:
-            return [str(WINDOWS.MARKER_LIST[0].position)]
+            temp = str(WINDOWS.MARKER_LIST[0].position).strip("()")
+            return [temp]
 
     def getEduLvlWithCitizenship(Status, calDate, budget):
         eduLvlwithStatus = ['0', '0', '0', '0', '0', '0', '0', '0', '1']
