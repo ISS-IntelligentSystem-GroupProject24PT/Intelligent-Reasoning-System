@@ -5,6 +5,8 @@ import tkinter
 import tkinter.ttk
 from typing import Tuple
 import customtkinter
+import BusinessRuleEngine
+import MatchingAlgorithm
 
 # Import tkinter extension modules
 import tkintermapview
@@ -33,28 +35,30 @@ class WINDOWS(customtkinter.CTk):
     MIN_HEIGHT = 800
     HEADING_FONT = None
     dataframe = pandas.DataFrame(columns=[
-            'Latitude & Longitude', # Location
-            'Distance Constraint', # Location Distance Constraint
-            'Nursery_Singaporean', # Citizenship Status & Age
+            'Latitude_Longitude', # Location
+            'Distance_Constraint', # Location Distance Constraint
+            'Infant_Care_Singaporean',  # Citizenship Status & Age
             'Playgroup_Singaporean', 
+            'Nursery_Singaporean', 
             'Kindergarten_Singaporean',
-            'Nursery_PR',
+            'Infant_Care_PR',
             'Playgroup_PR', 
+            'Nursery_PR',
             'Kindergarten_PR', 
-            'Budget', # Budget
-            'Aesthetics & Creative Expression', # Programmes
+            'Education_Level', # Education Level
+            'Aesthetics_Creative_Expression', # Programmes
             'Chinese', 
-            'Digital Skills', 
-            'Discovery of the World',
+            'Digital_Skills', 
+            'Discovery_of_the_World',
             'English', 
-            'Language and Literacy', 
+            'Language_and_Literacy', 
             'Math', 
-            'Moral Education', 
-            'Motor Skill Development', 
+            'Moral_Education', 
+            'Motor_Skill_Development', 
             'Music', 
             'Nature',
             'Numeracy',
-            'Problem-solving Skills',
+            'Problem-solving_Skills',
             'Project Work',
             'Science',
             'Sensory Play',
@@ -237,7 +241,7 @@ class QuestionsPage(customtkinter.CTkFrame):
 
         qns2bLabel = customtkinter.CTkLabel(qns2bFrame, text=qnsQn2b)
         qns2bAnsLabel = customtkinter.CTkLabel(qns2bFrame, text="$")
-        budgetAns = customtkinter.CTkEntry(qns2bFrame, height = 1, width = 100, placeholder_text="0")
+        budgetAns = customtkinter.CTkEntry(qns2bFrame, height = 1, width = 120, placeholder_text="0")
         # TODO: add numbers constraint
 
         qns2bLabel.pack()
@@ -401,13 +405,15 @@ class QuestionsPage(customtkinter.CTkFrame):
         # userInput.append(MapWindow.get_position(MapWindow))
         userInput.extend(QuestionsPage.getMarkerPos())
         userInput.append(distRangeAns.get().strip("KM"))
-        userInput.extend(QuestionsPage.getEduLvlWithCitizenship(citizenStaAns.get(), calAgeAns))
-        userInput.append(budgetAns.get())
+        userInput.extend(QuestionsPage.getEduLvlWithCitizenship(citizenStaAns.get(), calAgeAns, budgetAns.get()))
         userInput.extend(QuestionsPage.getSelectedProgrammes(progAns.get()))
         userInput.extend(QuestionsPage.getSelectedCurriculum(currAns.get()))
         userInput.extend(QuestionsPage.getSelectedDayswithTiming(daysSentAns.get(), dropoffReg.get(), dropoffWkEnd.get(), pickupReg.get(), pickupWkEnd.get()))
         # print(userInput)
         QuestionsPage.generateFile(userInput)
+
+        business_rule = BusinessRuleEngine()
+        matching_algo = MatchingAlgorithm()
 
         controller.show_frame(Resultspage)
 
@@ -426,8 +432,8 @@ class QuestionsPage(customtkinter.CTkFrame):
         else:
             return [str(WINDOWS.MARKER_LIST[0].position)]
 
-    def getEduLvlWithCitizenship(Status, calDate):
-        eduLvlwithStatus = ['0', '0', '0', '0', '0', '0']
+    def getEduLvlWithCitizenship(Status, calDate, budget):
+        eduLvlwithStatus = ['0', '0', '0', '0', '0', '0', '0', '0', '1']
         # print(datetime.datetime.now().date())
         # print(calDate.get_date())
         date1 = datetime.datetime.strptime(str(datetime.datetime.now().date()), '%Y-%m-%d')
@@ -436,22 +442,29 @@ class QuestionsPage(customtkinter.CTkFrame):
         months = r.months +  12 * r.years
         if r.days > 0:
             months += 1
+
+        years = r.years
         # print(months)
+        # print(years)
 
         if Status == "Singaporean":
-            if months <= 36:
-                eduLvlwithStatus = ['1', '0', '0', '0', '0', '0']
-            elif months > 36 and months <= 60:
-                eduLvlwithStatus = ['0', '1', '0', '0', '0', '0']
-            else:
-                eduLvlwithStatus = ['0', '0', '1', '0', '0', '0']
+            if years >= 5: # Kindergarten_Singaporean
+                eduLvlwithStatus = ['0', '0', '0', budget, '0', '0', '0', '0', '3']
+            elif years >= 3 and years <= 4: # Nursery_Singaporean
+                eduLvlwithStatus = ['0', '0', budget, '0', '0', '0', '0', '0', '2']
+            elif months >= 18 and months <= 24:
+                eduLvlwithStatus = ['0', budget, '0', '0', '0', '0', '0', '0', '1']
+            elif months >= 2 and months <= 17:
+                eduLvlwithStatus = [budget, '0', '0', '0', '0', '0', '0', '0', '0']
         else:
-            if months <= 36:
-                eduLvlwithStatus = ['0', '0', '0', '1', '0', '0']
-            elif months > 36 and months <= 60:
-                eduLvlwithStatus = ['0', '0', '0', '0', '1', '0']
-            else:
-                eduLvlwithStatus = ['0', '0', '0', '0', '0', '1']
+            if years >= 5: # Kindergarten_Singaporean
+                eduLvlwithStatus = ['0', '0', '0', '0', '0', '0', '0', budget, '3']
+            elif years >= 3 and years <= 4: # Nursery_Singaporean
+                eduLvlwithStatus = ['0', '0', '0', '0', '0', '0', budget, '0', '2']
+            elif months >= 18 and months <= 24:
+                eduLvlwithStatus = ['0', '0', '0', '0', '0', budget, '0', '0', '1']
+            elif months >= 2 and months <= 17:
+                eduLvlwithStatus = ['0', '0', '0', '0', budget, '0', '0', '0', '0']
 
         return eduLvlwithStatus
     
@@ -511,7 +524,7 @@ class QuestionsPage(customtkinter.CTkFrame):
         return curriculumSelected
     
     def getSelectedDayswithTiming(daysSelected, dropoffReg, dropoffWkEnd, pickupReg, pickupWkEnd):
-        daysSelectedwithTiming = ['100', '100', '100', '100', '100', '100', '100', '100', '100', '100', '100', '100', '100', '100']
+        daysSelectedwithTiming = ['', '', '', '', '', '', '', '', '', '', '', '', '', '']
 
         dropoffReg = QuestionsPage.stripTiming(dropoffReg)
         pickupReg = QuestionsPage.stripTiming(pickupReg)
