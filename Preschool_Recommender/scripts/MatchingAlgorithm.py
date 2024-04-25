@@ -14,6 +14,7 @@ class MatchingAlgorithm:
     OUTPUT_FILE_WITH_DATE = f"MatchingAlgorithm_Output_{datetime.now().date()}.csv"
     BUSIENSS_RULES_OUPUT_FILE = 'BusinessRuleEngine_Distance_OpeningHours_Budget.csv'
     FRONTEND_RULE_ALGO_OUTPUT_FILE = 'Results.csv'
+    COMPILED_RESULTS_HISTORY = 'Results_History.csv'
 
     INPUT_DIRECTORY_NAME = "..//resources//MatchingAlgorithm//MatchingAlgorithm_Input_Files"
     OUTPUT_DIRECTORY_NAME = "..//resources//MatchingAlgorithm//MatchingAlgorithm_Output_Files"
@@ -45,6 +46,7 @@ class MatchingAlgorithm:
         output_file_with_date = os.path.join(self.ARCHIVES_DIRECTORY_NAME, self.OUTPUT_FILE_WITH_DATE)
         business_rules_non_filtered_file = os.path.join(self.BUSINESS_RULES_NON_FILTERED_FILE_DIRECTORY_NAME, self.BUSIENSS_RULES_OUPUT_FILE)
         frontEnd_rulealgo_output = os.path.join(self.FRONTEND_RULE_ALGO_OUTPUT_DIRECTORY_NAME, self.FRONTEND_RULE_ALGO_OUTPUT_FILE)
+        results_history = os.path.join(self.OUTPUT_DIRECTORY_NAME, self.COMPILED_RESULTS_HISTORY)
 
         # Read input files
         business_rules_engine_output_raw = pd.read_csv(input_file)
@@ -207,6 +209,15 @@ class MatchingAlgorithm:
         business_rules_engine_output.to_csv(path_or_buf=output_file, index=False)
         business_rules_engine_output.to_csv(path_or_buf=output_file_with_date, index=False)
         business_rules_engine_output.to_csv(path_or_buf=frontEnd_rulealgo_output, index=False)
+
+        # Add into results history
+        try:
+            current_results_history = pd.read_csv(results_history)
+            current_results_history = current_results_history.append(results_history, business_rules_engine_output)
+            current_results_history.to_csv(path_or_buf=results_history, index=False)
+        except Exception as e:
+            business_rules_engine_output.to_csv(path_or_buf=results_history, index=False)
+            print(f"{e}")
 
 
 MatchingAlgorithm = MatchingAlgorithm()
