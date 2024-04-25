@@ -2,6 +2,7 @@ import math
 import os
 from datetime import datetime
 import pandas as pd
+from MatchingAlgorithm import MatchingAlgorithm
 
 
 class BusinessRulesEngine:
@@ -53,10 +54,6 @@ class BusinessRulesEngine:
             x = 100
         return x
 
-    @staticmethod
-    def initialise_matching_algorithm():
-        from MatchingAlgorithm import MatchingAlgorithm
-
     def directory_setup(self):
         # Set up directory
         if not os.path.exists(self.INPUT_DIRECTORY_NAME):
@@ -68,7 +65,7 @@ class BusinessRulesEngine:
         if not os.path.exists(self.ARCHIVES_DIRECTORY_NAME):
             os.mkdir(self.ARCHIVES_DIRECTORY_NAME)
 
-    def __init__(self):
+    def trigger_business_rule(self):
         # Set the display options
         pd.set_option('display.max_rows', None)
         pd.set_option('display.max_columns', None)
@@ -88,7 +85,8 @@ class BusinessRulesEngine:
         filtered_output_file_with_date = os.path.join(self.ARCHIVES_DIRECTORY_NAME, self.FILTERED_OUTPUT_FILE_WITH_DATE)
         output_file_for_matching_algorithm = os.path.join(self.MATCHING_ALGORITHM_INPUT_DIRECTORY_NAME,
                                                           self.FILTERED_OUTPUT_FILE)
-        results_history_file = os.path.join(self.MATCHING_ALGORITHM_OUTPUT_DIRECTORY_NAME, self.COMPILED_RESULTS_HISTORY)
+        results_history_file = os.path.join(self.MATCHING_ALGORITHM_OUTPUT_DIRECTORY_NAME,
+                                            self.COMPILED_RESULTS_HISTORY)
         results = os.path.join(self.FRONTEND_RULE_ALGO_OUTPUT_DIRECTORY_NAME, self.FRONTEND_RULE_ALGO_OUTPUT_FILE)
 
         # Read input files
@@ -479,13 +477,15 @@ class BusinessRulesEngine:
                 'Sunday_End_Number'
             ])
             compiled_output_file = (
-                pd.merge(compiled_output_file, no_dup_processed_googlemaps, on='Preschool_Name', how='left', indicator=True)
+                pd.merge(compiled_output_file, no_dup_processed_googlemaps, on='Preschool_Name', how='left',
+                         indicator=True)
                 .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
             compiled_output_file = (
                 pd.merge(compiled_output_file, df_preschool_details, on='Preschool_Name', how='left', indicator=True)
                 .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
             compiled_output_file['user_level'] = user_level
-            compiled_output_file = pd.concat([user_input] * len(compiled_output_file), ignore_index=True).join(compiled_output_file)
+            compiled_output_file = pd.concat([user_input] * len(compiled_output_file), ignore_index=True).join(
+                compiled_output_file)
 
             # Filtered only those within
             filtered_compiled_output_file = compiled_output_file[
@@ -503,7 +503,7 @@ class BusinessRulesEngine:
             filtered_compiled_output_file.to_csv(path_or_buf=filtered_output_file_with_date, index=False)
             filtered_compiled_output_file.to_csv(path_or_buf=output_file_for_matching_algorithm, index=False)
 
-            self.initialise_matching_algorithm()
+            MatchingAlgorithm().trigger_match()
 
 
-business_rules_engine = BusinessRulesEngine()
+business_rules_engine = BusinessRulesEngine().trigger_business_rule

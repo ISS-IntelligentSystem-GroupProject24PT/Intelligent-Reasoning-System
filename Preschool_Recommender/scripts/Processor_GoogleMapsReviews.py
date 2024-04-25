@@ -114,7 +114,7 @@ class GoogleMapsReviews:
     OUTPUT_DIRECTORY_NAME = "..//resources//ProcessedGoogleMaps//ProcessedGoogleMaps_Output_Files"
     ARCHIVES_DIRECTORY_NAME = "..//resources//ProcessedGoogleMaps//ProcessedGoogleMaps_Archives"
 
-    def __init__(self):
+    def trigger_google_maps_reviews(self):
         print('Processor_GoogleMapsReviews Start!')
         # Load NLP
         self.nlp = spacy.load('en_core_web_sm')
@@ -216,4 +216,4 @@ class GoogleMapsReviews:
         self.extract_topics(self.OUTPUT_DIRECTORY_NAME, num_topics=max_num_of_topics)
 
 
-google_maps_reviews_processing = GoogleMapsReviews()
+GoogleMapsReviews().trigger_google_maps_reviews()

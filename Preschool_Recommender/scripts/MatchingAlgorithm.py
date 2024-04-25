@@ -24,7 +24,7 @@ class MatchingAlgorithm:
     FRONTEND_RULE_ALGO_OUTPUT_DIRECTORY_NAME = "..//resources//FrontEnd//FrontEnd_RuleAlgo_Output"
     FRONTEND_USER_INPUTS_DIRECTORY_NAME = "..//resources//FrontEnd//FrontEnd_UserInputs"
 
-    def __init__(self):
+    def trigger_match(self):
 
         # Set the display options
         pd.set_option('display.max_rows', None)
@@ -228,4 +228,4 @@ class MatchingAlgorithm:
             print(f"{e}")
 
 
-MatchingAlgorithm = MatchingAlgorithm()
+MatchingAlgorithm().trigger_match()

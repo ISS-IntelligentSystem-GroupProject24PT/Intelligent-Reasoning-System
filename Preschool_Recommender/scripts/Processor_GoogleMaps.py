@@ -2,10 +2,7 @@ import os
 from datetime import datetime
 import pandas as pd
 import re
-
-
-def initialise_reviews():
-    from Processor_GoogleMapsReviews import GoogleMapsReviews
+from Processor_GoogleMapsReviews import GoogleMapsReviews
 
 
 def convert_time(time_str):
@@ -226,7 +223,7 @@ print('Process 1 done!')
 
 # Review Processing
 df_review_file = pd.read_csv(review_output_file)
-initialise_reviews()
+GoogleMapsReviews().trigger_google_maps_reviews()
 compiled_output_file = (pd.merge(compiled_output_file, df_review_file,
                                  on='Preschool_Name', how='left', indicator=True)
                         .drop(columns=['_merge'])).drop_duplicates(subset='Preschool_Name')
