@@ -12,15 +12,17 @@ class MatchingAlgorithm:
     OUTPUT_FILE = 'MatchingAlgorithm_Output.csv'
     INPUT_FILE_WITH_DATE = f"BusinessRuleEngine_Distance_OpeningHours_Budget_Filtered_{datetime.now().date()}.csv"
     OUTPUT_FILE_WITH_DATE = f"MatchingAlgorithm_Output_{datetime.now().date()}.csv"
-    BUSIENSS_RULES_OUPUT_FILE = 'BusinessRuleEngine_Distance_OpeningHours_Budget.csv'
+    BUSINESS_RULES_OUTPUT_FILE = 'BusinessRuleEngine_Distance_OpeningHours_Budget.csv'
     FRONTEND_RULE_ALGO_OUTPUT_FILE = 'Results.csv'
     COMPILED_RESULTS_HISTORY = 'Results_History.csv'
+    USER_INPUT_FILE = 'FrontEnd_UserInput.csv'
 
     INPUT_DIRECTORY_NAME = "..//resources//MatchingAlgorithm//MatchingAlgorithm_Input_Files"
     OUTPUT_DIRECTORY_NAME = "..//resources//MatchingAlgorithm//MatchingAlgorithm_Output_Files"
     ARCHIVES_DIRECTORY_NAME = "..//resources//MatchingAlgorithm//MatchingAlgorithm_Archives"
     BUSINESS_RULES_NON_FILTERED_FILE_DIRECTORY_NAME = "..//resources//BusinessRulesEngine//BusinessRulesEngine_Output_Files"
     FRONTEND_RULE_ALGO_OUTPUT_DIRECTORY_NAME = "..//resources//FrontEnd//FrontEnd_RuleAlgo_Output"
+    FRONTEND_USER_INPUTS_DIRECTORY_NAME = "..//resources//FrontEnd//FrontEnd_UserInputs"
 
     def __init__(self):
 
@@ -44,11 +46,15 @@ class MatchingAlgorithm:
         input_file_with_date = os.path.join(self.ARCHIVES_DIRECTORY_NAME, self.INPUT_FILE_WITH_DATE)
         output_file = os.path.join(self.OUTPUT_DIRECTORY_NAME, self.OUTPUT_FILE)
         output_file_with_date = os.path.join(self.ARCHIVES_DIRECTORY_NAME, self.OUTPUT_FILE_WITH_DATE)
-        business_rules_non_filtered_file = os.path.join(self.BUSINESS_RULES_NON_FILTERED_FILE_DIRECTORY_NAME, self.BUSIENSS_RULES_OUPUT_FILE)
-        frontEnd_rulealgo_output = os.path.join(self.FRONTEND_RULE_ALGO_OUTPUT_DIRECTORY_NAME, self.FRONTEND_RULE_ALGO_OUTPUT_FILE)
+        business_rules_non_filtered_file = os.path.join(self.BUSINESS_RULES_NON_FILTERED_FILE_DIRECTORY_NAME,
+                                                        self.BUSINESS_RULES_OUTPUT_FILE)
+        frontEnd_rulealgo_output = os.path.join(self.FRONTEND_RULE_ALGO_OUTPUT_DIRECTORY_NAME,
+                                                self.FRONTEND_RULE_ALGO_OUTPUT_FILE)
         results_history = os.path.join(self.OUTPUT_DIRECTORY_NAME, self.COMPILED_RESULTS_HISTORY)
+        user_input_file = os.path.join(self.FRONTEND_USER_INPUTS_DIRECTORY_NAME, self.USER_INPUT_FILE)
 
         # Read input files
+        user_input = pd.read_csv(user_input_file)
         business_rules_engine_output_raw = pd.read_csv(input_file)
         business_rules_engine_output_raw.columns = business_rules_engine_output_raw.columns.str.replace(' ', '_')
         # Select relevant features
@@ -108,93 +114,94 @@ class MatchingAlgorithm:
                 "programme_social_&_emotional_development",
                 "programme_speech_and_drama",
                 "programme_sports",
-                "user_level"    # 1 - Infant Care, 2 - Playgroup, 3 - Nursery, 4 - Kindergarten
+                "user_level"  # 1 - Infant Care, 2 - Playgroup, 3 - Nursery, 4 - Kindergarten
             ]]
 
-        if business_rules_engine_output["user_level"].iloc[0] == 1:
-            business_rules_engine_output = business_rules_engine_output.drop(columns=[
-                'fees_sc_playgroup',
-                'fees_sc_nursery',
-                'fees_sc_kindergarten',
-                'fees_pr_playgroup',
-                'fees_pr_nursery',
-                'fees_pr_kindergarten',
-                'user_level'
-            ])
-        elif business_rules_engine_output["user_level"].iloc[0] == 2:
-            business_rules_engine_output = business_rules_engine_output.drop(columns=[
-                'fees_sc_infant_care',
-                'fees_sc_nursery',
-                'fees_sc_kindergarten',
-                'fees_pr_infant_care',
-                'fees_pr_nursery',
-                'fees_pr_kindergarten',
-                'user_level'
-            ])
-        elif business_rules_engine_output["user_level"].iloc[0] == 3:
-            business_rules_engine_output = business_rules_engine_output.drop(columns=[
-                'fees_sc_infant_care',
-                'fees_sc_playgroup',
-                'fees_sc_kindergarten',
-                'fees_pr_infant_care',
-                'fees_pr_playgroup',
-                'fees_pr_kindergarten',
-                'user_level'
-            ])
-        elif business_rules_engine_output["user_level"].iloc[0] == 4:
-            business_rules_engine_output = business_rules_engine_output.drop(columns=[
-                'fees_sc_infant_care',
-                'fees_sc_playgroup',
-                'fees_sc_nursery',
-                'fees_pr_infant_care',
-                'fees_pr_playgroup',
-                'fees_pr_nursery',
-                'user_level'
-            ])
+        try:
+            if business_rules_engine_output["user_level"].iloc[0] == 1:
+                business_rules_engine_output = business_rules_engine_output.drop(columns=[
+                    'fees_sc_playgroup',
+                    'fees_sc_nursery',
+                    'fees_sc_kindergarten',
+                    'fees_pr_playgroup',
+                    'fees_pr_nursery',
+                    'fees_pr_kindergarten',
+                    'user_level'
+                ])
+            elif business_rules_engine_output["user_level"].iloc[0] == 2:
+                business_rules_engine_output = business_rules_engine_output.drop(columns=[
+                    'fees_sc_infant_care',
+                    'fees_sc_nursery',
+                    'fees_sc_kindergarten',
+                    'fees_pr_infant_care',
+                    'fees_pr_nursery',
+                    'fees_pr_kindergarten',
+                    'user_level'
+                ])
+            elif business_rules_engine_output["user_level"].iloc[0] == 3:
+                business_rules_engine_output = business_rules_engine_output.drop(columns=[
+                    'fees_sc_infant_care',
+                    'fees_sc_playgroup',
+                    'fees_sc_kindergarten',
+                    'fees_pr_infant_care',
+                    'fees_pr_playgroup',
+                    'fees_pr_kindergarten',
+                    'user_level'
+                ])
+            elif business_rules_engine_output["user_level"].iloc[0] == 4:
+                business_rules_engine_output = business_rules_engine_output.drop(columns=[
+                    'fees_sc_infant_care',
+                    'fees_sc_playgroup',
+                    'fees_sc_nursery',
+                    'fees_pr_infant_care',
+                    'fees_pr_playgroup',
+                    'fees_pr_nursery',
+                    'user_level'
+                ])
 
-        # Normalise the data
-        columns_to_normalise = [
+            # Normalise the data
+            columns_to_normalise = [
                 'Distance_To_User_km',
                 'Average_Stars',
                 'fees_sc_nursery',
                 'fees_pr_nursery'
-        ]
-        scaler = MinMaxScaler()
-        business_rules_engine_output[columns_to_normalise] = scaler.fit_transform(
-            business_rules_engine_output[columns_to_normalise])
+            ]
+            scaler = MinMaxScaler()
+            business_rules_engine_output[columns_to_normalise] = scaler.fit_transform(
+                business_rules_engine_output[columns_to_normalise])
 
-        # Drop reference column
-        business_rules_engine_output_numeric = business_rules_engine_output.drop(columns=['Preschool_Name'])
-        # Handle null values
-        business_rules_engine_output_numeric = business_rules_engine_output_numeric.fillna(0)
+            # Drop reference column
+            business_rules_engine_output_numeric = business_rules_engine_output.drop(columns=['Preschool_Name'])
+            # Handle null values
+            business_rules_engine_output_numeric = business_rules_engine_output_numeric.fillna(0)
 
-        # Calculate cosine similarity
-        similarity_result = cosine_similarity(
-            business_rules_engine_output_numeric.values,
-            business_rules_engine_output_numeric.iloc[[0]] # To replace with user input
-        )
-        similarity_result = similarity_result.flatten()
-        business_rules_engine_output['Cosine_Similarity'] = similarity_result
+            # Calculate cosine similarity
+            similarity_result = cosine_similarity(
+                business_rules_engine_output_numeric.values,
+                business_rules_engine_output_numeric.iloc[[0]]  # To replace with user input
+            )
+            similarity_result = similarity_result.flatten()
+            business_rules_engine_output['Cosine_Similarity'] = similarity_result
 
-        # Calculate Euclidean Distance
-        euclidean_dist = distance.cdist(
-            business_rules_engine_output_numeric.values,
-            business_rules_engine_output_numeric.iloc[[0]],  # To replace with user input
-            'euclidean'
-        )
-        euclidean_dist = euclidean_dist.flatten()
-        business_rules_engine_output['Euclidean_Distance'] = euclidean_dist
+            # Calculate Euclidean Distance
+            euclidean_dist = distance.cdist(
+                business_rules_engine_output_numeric.values,
+                business_rules_engine_output_numeric.iloc[[0]],  # To replace with user input
+                'euclidean'
+            )
+            euclidean_dist = euclidean_dist.flatten()
+            business_rules_engine_output['Euclidean_Distance'] = euclidean_dist
 
-        # Calculate Manhattan Distance
-        cityblock_dist = distance.cdist(
-            business_rules_engine_output_numeric.values,
-            business_rules_engine_output_numeric.iloc[[0]],  # To replace with user input
-            'cityblock'
-        )
-        cityblock_dist = cityblock_dist.flatten()
-        business_rules_engine_output['Manhattan_Distance'] = cityblock_dist
-        print(business_rules_engine_output.head())
-
+            # Calculate Manhattan Distance
+            cityblock_dist = distance.cdist(
+                business_rules_engine_output_numeric.values,
+                business_rules_engine_output_numeric.iloc[[0]],  # To replace with user input
+                'cityblock'
+            )
+            cityblock_dist = cityblock_dist.flatten()
+            business_rules_engine_output['Manhattan_Distance'] = cityblock_dist
+        except Exception as e:
+            print(f"No business rules data: {e}")
         # Combine business rules output file
         feature_data = pd.read_csv(business_rules_non_filtered_file)
         business_rules_engine_output = (
@@ -203,17 +210,18 @@ class MatchingAlgorithm:
                 feature_data,
                 on='Preschool_Name', how='left', indicator=True
             ).drop(columns=['_merge']))
-        business_rules_engine_output = business_rules_engine_output.sort_values(by='Cosine_Similarity', ascending=False)
+
         # Save output files
         business_rules_engine_output_raw.to_csv(path_or_buf=input_file_with_date, index=False)
         business_rules_engine_output.to_csv(path_or_buf=output_file, index=False)
         business_rules_engine_output.to_csv(path_or_buf=output_file_with_date, index=False)
-        business_rules_engine_output.to_csv(path_or_buf=frontEnd_rulealgo_output, index=False)
+        business_rules_engine_output.drop(columns='Primary_key').to_csv(path_or_buf=frontEnd_rulealgo_output, index=False)
 
         # Add into results history
         try:
             current_results_history = pd.read_csv(results_history)
-            current_results_history = current_results_history.append(results_history, business_rules_engine_output)
+            current_results_history = pd.concat([current_results_history, business_rules_engine_output]).reset_index(
+                drop=True)
             current_results_history.to_csv(path_or_buf=results_history, index=False)
         except Exception as e:
             business_rules_engine_output.to_csv(path_or_buf=results_history, index=False)
@@ -221,6 +229,3 @@ class MatchingAlgorithm:
 
 
 MatchingAlgorithm = MatchingAlgorithm()
-
-
-
