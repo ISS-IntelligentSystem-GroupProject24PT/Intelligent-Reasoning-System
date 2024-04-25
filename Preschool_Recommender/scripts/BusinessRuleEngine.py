@@ -506,4 +506,4 @@ class BusinessRulesEngine:
             MatchingAlgorithm().trigger_match()
 
 
-business_rules_engine = BusinessRulesEngine().trigger_business_rule
+BusinessRulesEngine().trigger_business_rule()
