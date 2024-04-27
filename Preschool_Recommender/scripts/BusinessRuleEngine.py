@@ -17,13 +17,13 @@ class BusinessRulesEngine:
     FRONTEND_RULE_ALGO_OUTPUT_FILE = 'Results.csv'
     COMPILED_RESULTS_HISTORY = 'Results_History.csv'
 
-    INPUT_DIRECTORY_NAME = "..//resources//BusinessRulesEngine//BusinessRulesEngine_Input_Files"
-    OUTPUT_DIRECTORY_NAME = "..//resources//BusinessRulesEngine//BusinessRulesEngine_Output_Files"
-    ARCHIVES_DIRECTORY_NAME = "..//resources//BusinessRulesEngine//BusinessRulesEngine_Archives"
-    MATCHING_ALGORITHM_INPUT_DIRECTORY_NAME = "..//resources//MatchingAlgorithm//MatchingAlgorithm_Input_Files"
-    MATCHING_ALGORITHM_OUTPUT_DIRECTORY_NAME = "..//resources//MatchingAlgorithm//MatchingAlgorithm_Output_Files"
-    FRONTEND_RULE_ALGO_OUTPUT_DIRECTORY_NAME = "..//resources//FrontEnd//FrontEnd_RuleAlgo_Output"
-    FRONTEND_USER_INPUTS_DIRECTORY_NAME = "..//resources//FrontEnd//FrontEnd_UserInputs"
+    INPUT_DIRECTORY_NAME = "C://Preschool_Recommender//resources//BusinessRulesEngine//BusinessRulesEngine_Input_Files"
+    OUTPUT_DIRECTORY_NAME = "C://Preschool_Recommender//resources//BusinessRulesEngine//BusinessRulesEngine_Output_Files"
+    ARCHIVES_DIRECTORY_NAME = "C://Preschool_Recommender//resources//BusinessRulesEngine//BusinessRulesEngine_Archives"
+    MATCHING_ALGORITHM_INPUT_DIRECTORY_NAME = "C://Preschool_Recommender//resources//MatchingAlgorithm//MatchingAlgorithm_Input_Files"
+    MATCHING_ALGORITHM_OUTPUT_DIRECTORY_NAME = "C://Preschool_Recommender//resources//MatchingAlgorithm//MatchingAlgorithm_Output_Files"
+    FRONTEND_RULE_ALGO_OUTPUT_DIRECTORY_NAME = "C://Preschool_Recommender//resources//FrontEnd//FrontEnd_RuleAlgo_Output"
+    FRONTEND_USER_INPUTS_DIRECTORY_NAME = "C://Preschool_Recommender//resources//FrontEnd//FrontEnd_UserInputs"
 
     @staticmethod
     def haversine(lat1, lon1, lat2, lon2):

@@ -22,15 +22,13 @@ class WINDOWS(customtkinter.CTk):
     USER_RESULT_FILE = 'Results.csv'
 
     # File Directory
-    USER_OUTPUT_DIR = "..//resources//FrontEnd//FrontEnd_UserInputs"
-    USER_RESULT_DIR = "..//resources//FrontEnd//FrontEnd_RuleAlgo_Output"
+    USER_OUTPUT_DIR = "C://Preschool_Recommender//resources//FrontEnd//FrontEnd_UserInputs"
+    USER_RESULT_DIR = "C://Preschool_Recommender//resources//FrontEnd//FrontEnd_RuleAlgo_Output"
 
     # Set up directory
     working_dir = os.path.dirname(os.path.abspath(__file__))
     if not (os.getcwd() == working_dir):
         os.chdir(working_dir)
-    # print(os.path.dirname(os.path.abspath(__file__)))
-    print(os.getcwd())
     if not os.path.exists(USER_OUTPUT_DIR):
         os.makedirs(USER_OUTPUT_DIR)
 
