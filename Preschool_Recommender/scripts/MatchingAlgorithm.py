@@ -33,6 +33,9 @@ class MatchingAlgorithm:
         pd.set_option('display.max_colwidth', None)
 
         # Set up directory
+        working_dir = os.path.dirname(os.path.abspath(__file__))
+        if not (os.getcwd() == working_dir):
+            os.chdir(working_dir)
         if not os.path.exists(self.INPUT_DIRECTORY_NAME):
             os.mkdir(self.INPUT_DIRECTORY_NAME)
 
