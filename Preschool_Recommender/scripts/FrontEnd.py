@@ -163,6 +163,10 @@ class WINDOWS(customtkinter.CTk):
         location_list = result_df['Latitude_Longitude'].tolist()
         
         for top3 in range(3):
+            try:
+                preschool_name = str(preschool_names_list[top3])
+            except:
+                break
             preschool_name = str(preschool_names_list[top3])
             address = str(address_list[top3])
             weblink = str(weblink_list[top3])
@@ -878,7 +882,7 @@ class Resultspage(customtkinter.CTkFrame):
         Resultspage.tab1_map.pack()
         
         Resultspage.tab1_map.set_address("Singapore")
-        Resultspage.tab1_map.set_zoom(11)
+        Resultspage.tab1_map.set_zoom(10)
 
         # Buttons
         result_End_Frame = customtkinter.CTkFrame(self)
