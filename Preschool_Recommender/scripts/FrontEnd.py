@@ -3,10 +3,8 @@ import os
 import pandas
 import tkinter
 import tkinter.ttk
-from typing import Tuple
 import customtkinter
-# import BusinessRuleEngine
-# import MatchingAlgorithm
+import webbrowser
 
 # Import tkinter extension modules
 import tkintermapview
@@ -21,11 +19,18 @@ import tkinter.font
 class WINDOWS(customtkinter.CTk):
     # File name
     USER_OUTPUT_FILE = 'FrontEnd_UserInput.csv'
+    USER_RESULT_FILE = 'Results.csv'
 
     # File Directory
     USER_OUTPUT_DIR = "..//resources//FrontEnd//FrontEnd_UserInputs"
+    USER_RESULT_DIR = "..//resources//FrontEnd//FrontEnd_RuleAlgo_Output"
 
     # Set up directory
+    working_dir = os.path.dirname(os.path.abspath(__file__))
+    if not (os.getcwd() == working_dir):
+        os.chdir(working_dir)
+    # print(os.path.dirname(os.path.abspath(__file__)))
+    print(os.getcwd())
     if not os.path.exists(USER_OUTPUT_DIR):
         os.makedirs(USER_OUTPUT_DIR)
 
@@ -146,6 +151,77 @@ class WINDOWS(customtkinter.CTk):
         frame = self.frames[cont]
         frame.tkraise() # Raise the current frame to the top
 
+    def show_result_frame(self, cont):
+        frame = self.frames[cont]
+
+        result_dir = os.path.join(WINDOWS.USER_RESULT_DIR, WINDOWS.USER_RESULT_FILE)
+        result_df = pandas.read_csv(result_dir)
+
+        preschool_names_list = result_df['Preschool_Name'].tolist()
+        address_list = result_df['Address'].tolist()
+        weblink_list = result_df['Preschool_Website'].tolist()
+        location_list = result_df['Latitude_Longitude'].tolist()
+        
+        for top3 in range(3):
+            preschool_name = str(preschool_names_list[top3])
+            address = str(address_list[top3])
+            weblink = str(weblink_list[top3])
+            location = str(location_list[top3])
+            if top3 == 0:
+                Resultspage.tab_view._segmented_button._buttons_dict["Preschool 1"].configure(text=preschool_name)
+                Resultspage.tab1_sch_name.set(preschool_name)
+                Resultspage.tab1_address.set(address)
+                Resultspage.tab1_weblink.set(weblink)
+                Resultspage.tab1_button.configure(state='normal')
+                Resultspage.tab1_map.set_address(location, marker=True)
+                Resultspage.tab1_map.set_zoom(9)
+            else:
+                Resultspage.tab_view.add(preschool_name)
+                tab_Frame = customtkinter.CTkFrame(Resultspage.tab_view.tab(preschool_name))
+                tab_Frame.pack()
+                for i in range(2):
+                    for j in range(3):
+                        # Create Label.grids in all tabs
+                        if (i == 1 and j == 2):
+                            tab_button = customtkinter.CTkButton(
+                                tab_Frame, 
+                                command=lambda: Resultspage.openlink())
+                            tab_button.grid(row=i, column=j)
+                        else:
+                            tab_labels = customtkinter.CTkLabel(tab_Frame)
+                            tab_labels.grid(row=i, column=j)
+
+                        # Insert Headings
+                        if (i == 0):
+                            match j:
+                                case 0:
+                                    tab_labels.configure(text="Preschool Name")
+                                case 1:
+                                    tab_labels.configure(text="Address")
+                                case 2:
+                                    tab_labels.configure(text="Website Link")
+
+                        # Insert Default Values
+                        if (i == 1):
+                            match j:
+                                case 0:
+                                    tab_labels.configure(text=preschool_name)
+                                case 1:
+                                    tab_labels.configure(text=address)
+                                case 2:
+                                    tab_button.configure(text=weblink)
+                                    tab_button.configure(state='normal')
+
+                tab_map = tkintermapview.TkinterMapView(
+                    Resultspage.tab_view.tab(preschool_name), 
+                    corner_radius=0)
+                tab_map.pack()
+        
+                tab_map.set_address(location, marker=True)
+                tab_map.set_zoom(9)
+
+        frame.tkraise() # Raise the current frame to the top  
+
     def getHeadFont(self):
         return self.HEADING_FONT
 
@@ -209,8 +285,6 @@ class QuestionsPage(customtkinter.CTkFrame):
         qns1Button = customtkinter.CTkButton(qns1Frame,
                                     text="Open Maps View",
                                     command=lambda: MapWindow(controller))
-        # qns1Button.bind("<Button>", 
-        #          lambda e: MapWindow(controller))
         qns1Label.pack()
         qns1Label2.pack()
         qns1Button.pack()
@@ -410,22 +484,20 @@ class QuestionsPage(customtkinter.CTkFrame):
         userInput.extend(QuestionsPage.getSelectedProgrammes(progAns.get()))
         userInput.extend(QuestionsPage.getSelectedCurriculum(currAns.get()))
         userInput.extend(QuestionsPage.getSelectedDayswithTiming(daysSentAns.get(), dropoffReg.get(), dropoffWkEnd.get(), pickupReg.get(), pickupWkEnd.get()))
-        print(userInput)
+        # print(userInput)
         QuestionsPage.generateFile(userInput)
 
-        # business_rule = BusinessRuleEngine()
-        # matching_algo = MatchingAlgorithm()
+        import BusinessRuleEngine
+        BusinessRuleEngine.BusinessRulesEngine().trigger_business_rule()
 
-        controller.show_frame(Resultspage)
+        controller.show_result_frame(Resultspage)
 
     def generateFile(userInput):
-        # WINDOWS.dataframe = pandas.DataFrame(userInput)
+        WINDOWS.dataframe.drop(WINDOWS.dataframe.index,inplace=True)                                                              
         WINDOWS.dataframe.loc[len(WINDOWS.dataframe)] = userInput
+        # print(WINDOWS.dataframe)
 
-        print(WINDOWS.dataframe)
         output_file = os.path.join(WINDOWS.USER_OUTPUT_DIR, WINDOWS.USER_OUTPUT_FILE)
-        # print(output_file)
-        # print(os.getcwd())
         WINDOWS.dataframe.to_csv(path_or_buf=output_file, index=False)
 
     def getMarkerPos():
@@ -452,22 +524,22 @@ class QuestionsPage(customtkinter.CTkFrame):
 
         if Status == "Singaporean":
             if years >= 5: # Kindergarten_Singaporean
-                eduLvlwithStatus = ['0', '0', '0', budget, '0', '0', '0', '0', '3']
+                eduLvlwithStatus = ['0', '0', '0', budget, '0', '0', '0', '0', '4']
             elif years >= 3 and years <= 4: # Nursery_Singaporean
-                eduLvlwithStatus = ['0', '0', budget, '0', '0', '0', '0', '0', '2']
+                eduLvlwithStatus = ['0', '0', budget, '0', '0', '0', '0', '0', '3']
             elif months >= 18 and months <= 24:
-                eduLvlwithStatus = ['0', budget, '0', '0', '0', '0', '0', '0', '1']
+                eduLvlwithStatus = ['0', budget, '0', '0', '0', '0', '0', '0', '2']
             elif months >= 2 and months <= 17:
-                eduLvlwithStatus = [budget, '0', '0', '0', '0', '0', '0', '0', '0']
+                eduLvlwithStatus = [budget, '0', '0', '0', '0', '0', '0', '0', '1']
         else:
             if years >= 5: # Kindergarten_Singaporean
-                eduLvlwithStatus = ['0', '0', '0', '0', '0', '0', '0', budget, '3']
+                eduLvlwithStatus = ['0', '0', '0', '0', '0', '0', '0', budget, '4']
             elif years >= 3 and years <= 4: # Nursery_Singaporean
-                eduLvlwithStatus = ['0', '0', '0', '0', '0', '0', budget, '0', '2']
+                eduLvlwithStatus = ['0', '0', '0', '0', '0', '0', budget, '0', '3']
             elif months >= 18 and months <= 24:
-                eduLvlwithStatus = ['0', '0', '0', '0', '0', budget, '0', '0', '1']
+                eduLvlwithStatus = ['0', '0', '0', '0', '0', budget, '0', '0', '2']
             elif months >= 2 and months <= 17:
-                eduLvlwithStatus = ['0', '0', '0', '0', budget, '0', '0', '0', '0']
+                eduLvlwithStatus = ['0', '0', '0', '0', budget, '0', '0', '0', '1']
 
         return eduLvlwithStatus
     
@@ -570,35 +642,6 @@ class QuestionsPage(customtkinter.CTkFrame):
             else:
                 timing = str(int(timing) + 12)
                 return timing
-
-class Resultspage(customtkinter.CTkFrame):
-    def __init__(self, parent, controller):
-        customtkinter.CTkFrame.__init__(self, parent)
-        headingFont = tkinter.font.Font(family='Helvetica', size=15, weight='bold')
-
-        qns_Head1_Label = customtkinter.CTkLabel(
-            self, 
-            text="This is the results page!",
-            )
-        qns_Head1_Label.pack()
-
-        # Buttons
-        result_End_Frame = customtkinter.CTkFrame(self)
-        result_End_Frame.pack()
-        result_Quit_Frame = customtkinter.CTkFrame(self)
-        result_Quit_Frame.pack()
-        restart_window = customtkinter.CTkButton(
-            result_End_Frame, 
-            text="Restart Application", 
-            command=lambda: controller.show_frame(QuestionsPage)
-        )
-        quit_button = customtkinter.CTkButton(
-            result_Quit_Frame,
-            text="Quit",
-            command=lambda: controller.on_closing(),
-        )
-        restart_window.pack(side="left")
-        quit_button.pack()
 
 class MapWindow(tkinter.Toplevel):
 
@@ -731,6 +774,132 @@ class MapWindow(tkinter.Toplevel):
     def start(self):
         self.mainloop()
 
+class Resultspage(customtkinter.CTkFrame):
+    # Instantiate Result variables
+    tab_view = None
+    tab1_button= None
+
+    tab1_sch_name = None
+    tab2_sch_name = None
+    tab3_sch_name = None
+    tab1_address = None
+    tab2_address = None
+    tab3_address = None
+    tab1_weblink = None
+    tab2_weblink = None
+    tab3_weblink = None
+
+    tab1_map = None
+    tab2_map = None
+    tab3_map = None
+
+    def __init__(self, parent, controller):
+        customtkinter.CTkFrame.__init__(self, parent)
+
+        # ResultPage textvariables
+        Resultspage.tab1_sch_name = tkinter.StringVar()
+        Resultspage.tab2_sch_name = tkinter.StringVar()
+        Resultspage.tab3_sch_name = tkinter.StringVar()
+        Resultspage.tab1_address = tkinter.StringVar()
+        Resultspage.tab2_address = tkinter.StringVar()
+        Resultspage.tab3_address = tkinter.StringVar()
+        Resultspage.tab1_weblink = tkinter.StringVar()
+        Resultspage.tab2_weblink = tkinter.StringVar()
+        Resultspage.tab3_weblink = tkinter.StringVar()
+
+        # Set default value for empty results
+        Resultspage.tab1_sch_name.set("-")
+        Resultspage.tab2_sch_name.set("-")
+        Resultspage.tab3_sch_name.set("-")
+        Resultspage.tab1_address.set("-")
+        Resultspage.tab2_address.set("-")
+        Resultspage.tab3_address.set("-")
+        Resultspage.tab1_weblink.set("-")
+        Resultspage.tab2_weblink.set("-")
+        Resultspage.tab3_weblink.set("-")
+
+        resultHeading = customtkinter.CTkLabel(
+            self, 
+            text="Find your child's ideal Preschool")
+        resultHeading.pack()
+
+        resultHeading2 = customtkinter.CTkLabel(
+            self, 
+            text="The Top 3 School Brands with the closest match will be shown below.")
+        resultHeading2.pack()
+
+        Resultspage.tab_view = customtkinter.CTkTabview(self)
+        Resultspage.tab_view.pack(padx=20, pady=20)
+
+        # Add result tabs
+        Resultspage.tab_view.add("Preschool 1")
+
+        # Create Frames in all tabs
+        tab1_Frame = customtkinter.CTkFrame(Resultspage.tab_view.tab("Preschool 1"))
+        tab1_Frame.pack()
+
+        for i in range(2):
+            for j in range(3):
+                # Create Label.grids in all tabs
+                
+                if (i == 1 and j == 2):
+                    Resultspage.tab1_button = customtkinter.CTkButton(
+                        tab1_Frame, 
+                        command=lambda: Resultspage.openlink())
+                    Resultspage.tab1_button.configure(state='disabled')
+                    Resultspage.tab1_button.grid(row=i, column=j)
+                else:
+                    tab1_labels = customtkinter.CTkLabel(tab1_Frame)
+                    tab1_labels.grid(row=i, column=j)
+
+                # Insert Headings
+                if (i == 0):
+                    match j:
+                        case 0:
+                            tab1_labels.configure(text="Preschool Name")
+                        case 1:
+                            tab1_labels.configure(text="Address")
+                        case 2:
+                            tab1_labels.configure(text="Website Link")
+
+                # Insert Default Values
+                if (i == 1):
+                    match j:
+                        case 0:
+                            tab1_labels.configure(textvariable=Resultspage.tab1_sch_name)
+                        case 1:
+                            tab1_labels.configure(textvariable=Resultspage.tab1_address)
+                        case 2:
+                            Resultspage.tab1_button.configure(textvariable=Resultspage.tab1_weblink)
+
+        Resultspage.tab1_map = tkintermapview.TkinterMapView(
+            Resultspage.tab_view.tab("Preschool 1"), 
+            corner_radius=0)
+        Resultspage.tab1_map.pack()
+        
+        Resultspage.tab1_map.set_address("Singapore")
+        Resultspage.tab1_map.set_zoom(11)
+
+        # Buttons
+        result_End_Frame = customtkinter.CTkFrame(self)
+        result_End_Frame.pack()
+        result_Quit_Frame = customtkinter.CTkFrame(self)
+        result_Quit_Frame.pack()
+        restart_window = customtkinter.CTkButton(
+            result_End_Frame, 
+            text="Restart Application", 
+            command=lambda: controller.show_frame(QuestionsPage)
+        )
+        quit_button = customtkinter.CTkButton(
+            result_Quit_Frame,
+            text="Quit",
+            command=lambda: controller.on_closing(),
+        )
+        restart_window.pack(side="left")
+        quit_button.pack()
+
+    def openlink():
+        webbrowser.open_new_tab(Resultspage.tab1_weblink.get())
 
 if __name__ == "__main__":
     app = WINDOWS()
