@@ -176,11 +176,111 @@ class MatchingAlgorithm:
             business_rules_engine_output_numeric = business_rules_engine_output.drop(columns=['Preschool_Name'])
             # Handle null values
             business_rules_engine_output_numeric = business_rules_engine_output_numeric.fillna(0)
+        except Exception as e:
+            print(f"No business rules data: {e}")
+        try:
+            # User Input
+            user_input_values = pd.DataFrame({
+                'Distance_To_User_km': [0],
+                'Average_Stars': [0],
+                'Topic_0': [1],
+                'Topic_1': [1],
+                'Topic_2': [1],
+                'Topic_3': [1],
+                'Topic_4': [1],
+                'Topic_5': [1],
+                'fees_sc_infant_care': [0],
+                'fees_sc_playgroup': [0],
+                'fees_sc_nursery': [0],
+                'fees_sc_kindergarten': [0],
+                'fees_pr_infant_care': [0],
+                'fees_pr_playgroup': [0],
+                'fees_pr_nursery': [0],
+                'fees_pr_kindergarten': [0],
+                'curriculum_active_learning': [user_input['Active Learning Curriculum'].item()],
+                'curriculum_bilingual_curriculum': [user_input['Bilingual Curriculum'].item()],
+                'curriculum_child_directed': [user_input['Child Directed'].item()],
+                'curriculum_chinese_curriculum': [user_input['Chinese Curriculum'].item()],
+                'curriculum_early_years_development_framework': [
+                    user_input['Early Years Development Framework'].item()],
+                'curriculum_english_curriculum': [user_input['English Curriculum'].item()],
+                'curriculum_ib_pyp': [user_input['IB PYP'].item()],
+                'curriculum_inquiry_based': [user_input['Inquiry Based'].item()],
+                'curriculum_integrated_curriculum': [user_input['Integrated Curriculum'].item()],
+                'curriculum_montessori': [user_input['Montessori'].item()],
+                'curriculum_moe': [user_input['MOE'].item()],
+                'curriculum_nurturing_early_learners_curriculum': [
+                    user_input['Nurturning Early Learners Curriculum'].item()],
+                'curriculum_play_based_curriculum': [user_input['Play-based Curriculum'].item()],
+                'curriculum_project_based': [user_input['Project-based Curriculum'].item()],
+                'curriculum_reggio_emilia_approach': [user_input['Reggio Emilia approach'].item()],
+                'curriculum_spark_certified_curriculum': [user_input['SPARK certified Curriculum'].item()],
+                'curriculum_thematic': [user_input['Thematic'].item()],
+                'curriculum_isteam': [user_input['ISteam'].item()],
+                'programme_aesthetics_&_creative_expression': [user_input['Aesthetics_Creative_Expression'].item()],
+                'programme_chinese': [user_input['Chinese'].item()],
+                'programme_digital_skills': [user_input['Digital_Skills'].item()],
+                'programme_discovery_of_the_word': [user_input['Discovery_of_the_World'].item()],
+                'programme_english': [user_input['English'].item()],
+                'programme_language_and_literacy': [user_input['Language_and_Literacy'].item()],
+                'programme_math': [user_input['Math'].item()],
+                'programme_moral_education': [user_input['Moral_Education'].item()],
+                'programme_motor_skill_development': [user_input['Motor_Skill_Development'].item()],
+                'programme_music': [user_input['Music'].item()],
+                'programme_nature': [user_input['Nature'].item()],
+                'programme_numeracy': [user_input['Numeracy'].item()],
+                'programme_problem-solving_skills': [user_input['Problem-solving_Skills'].item()],
+                'programme_project_work': [user_input['Project Work'].item()],
+                'programme_science': [user_input['Science'].item()],
+                'programme_sensory_play': [user_input['Sensory Play'].item()],
+                'programme_social_&_emotional_development': [user_input['Social & Emotional Development'].item()],
+                'programme_speech_and_drama': [user_input['Speech and Drama'].item()],
+                'programme_sports': [user_input['Sports'].item()]
+            })
+            if business_rules_engine_output_raw["user_level"].iloc[0] == 1:
+                user_input_values = user_input_values.drop(columns=[
+                    'fees_sc_playgroup',
+                    'fees_sc_nursery',
+                    'fees_sc_kindergarten',
+                    'fees_pr_playgroup',
+                    'fees_pr_nursery',
+                    'fees_pr_kindergarten'
+                ])
+            elif business_rules_engine_output_raw["user_level"].iloc[0] == 2:
+                user_input_values = user_input_values.drop(columns=[
+                    'fees_sc_infant_care',
+                    'fees_sc_nursery',
+                    'fees_sc_kindergarten',
+                    'fees_pr_infant_care',
+                    'fees_pr_nursery',
+                    'fees_pr_kindergarten'
+                ])
+            elif business_rules_engine_output_raw["user_level"].iloc[0] == 3:
+                user_input_values = user_input_values.drop(columns=[
+                    'fees_sc_infant_care',
+                    'fees_sc_playgroup',
+                    'fees_sc_kindergarten',
+                    'fees_pr_infant_care',
+                    'fees_pr_playgroup',
+                    'fees_pr_kindergarten'
+                ])
+            elif business_rules_engine_output_raw["user_level"].iloc[0] == 4:
+                user_input_values = user_input_values.drop(columns=[
+                    'fees_sc_infant_care',
+                    'fees_sc_playgroup',
+                    'fees_sc_nursery',
+                    'fees_pr_infant_care',
+                    'fees_pr_playgroup',
+                    'fees_pr_nursery'
+                ])
+        except Exception as e:
+            print(f"No user input data: {e}")
 
+        try:
             # Calculate cosine similarity
             similarity_result = cosine_similarity(
                 business_rules_engine_output_numeric.values,
-                business_rules_engine_output_numeric.iloc[[0]]  # To replace with user input
+                user_input_values.iloc[[0]]  # To replace with user input
             )
             similarity_result = similarity_result.flatten()
             business_rules_engine_output['Cosine_Similarity'] = similarity_result
@@ -188,7 +288,7 @@ class MatchingAlgorithm:
             # Calculate Euclidean Distance
             euclidean_dist = distance.cdist(
                 business_rules_engine_output_numeric.values,
-                business_rules_engine_output_numeric.iloc[[0]],  # To replace with user input
+                user_input_values.iloc[[0]],  # To replace with user input
                 'euclidean'
             )
             euclidean_dist = euclidean_dist.flatten()
@@ -197,13 +297,14 @@ class MatchingAlgorithm:
             # Calculate Manhattan Distance
             cityblock_dist = distance.cdist(
                 business_rules_engine_output_numeric.values,
-                business_rules_engine_output_numeric.iloc[[0]],  # To replace with user input
+                user_input_values.iloc[[0]],  # To replace with user input
                 'cityblock'
             )
             cityblock_dist = cityblock_dist.flatten()
             business_rules_engine_output['Manhattan_Distance'] = cityblock_dist
         except Exception as e:
-            print(f"No business rules data: {e}")
+            print(f"No similarity: {e}")
+
         # Combine business rules output file
         feature_data = pd.read_csv(business_rules_non_filtered_file)
         business_rules_engine_output = (
@@ -217,7 +318,8 @@ class MatchingAlgorithm:
         business_rules_engine_output_raw.to_csv(path_or_buf=input_file_with_date, index=False)
         business_rules_engine_output.to_csv(path_or_buf=output_file, index=False)
         business_rules_engine_output.to_csv(path_or_buf=output_file_with_date, index=False)
-        business_rules_engine_output.drop(columns='Primary_key').to_csv(path_or_buf=frontEnd_rulealgo_output, index=False)
+        business_rules_engine_output.drop(columns='Primary_key').to_csv(path_or_buf=frontEnd_rulealgo_output,
+                                                                        index=False)
 
         # Add into results history
         try:
