@@ -4,7 +4,6 @@ from datetime import datetime
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics.pairwise import cosine_similarity
 from scipy.spatial import distance
-from scipy.stats import pearsonr
 
 
 class MatchingAlgorithm:
