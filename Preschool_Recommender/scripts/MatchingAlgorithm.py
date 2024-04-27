@@ -182,7 +182,7 @@ class MatchingAlgorithm:
             # User Input
             user_input_values = pd.DataFrame({
                 'Distance_To_User_km': [0],
-                'Average_Stars': [0],
+                'Average_Stars': [1],
                 'Topic_0': [1],
                 'Topic_1': [1],
                 'Topic_2': [1],
