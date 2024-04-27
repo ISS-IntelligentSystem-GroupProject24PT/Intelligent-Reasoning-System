@@ -4,6 +4,7 @@ from datetime import datetime
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics.pairwise import cosine_similarity
 from scipy.spatial import distance
+import numpy as np
 
 
 class MatchingAlgorithm:
@@ -59,6 +60,33 @@ class MatchingAlgorithm:
         user_input = pd.read_csv(user_input_file)
         business_rules_engine_output_raw = pd.read_csv(input_file)
         business_rules_engine_output_raw.columns = business_rules_engine_output_raw.columns.str.replace(' ', '_')
+
+        user_fees_sc_infant_care = user_input['Infant_Care_Singaporean'].item()
+        user_fees_sc_playgroup = user_input['Playgroup_Singaporean'].item()
+        user_fees_sc_nursery = user_input['Nursery_Singaporean'].item()
+        user_fees_sc_kindergarten = user_input['Kindergarten_Singaporean'].item()
+        user_fees_pr_infant_care = user_input['Infant_Care_PR'].item()
+        user_fees_pr_playgroup = user_input['Playgroup_PR'].item()
+        user_fees_pr_nursery = user_input['Nursery_PR'].item()
+        user_fees_pr_kindergarten = user_input['Kindergarten_PR'].item()
+
+        user_input_fees = {
+            'fees_sc_infant_care': [user_fees_sc_infant_care],
+            'fees_sc_playgroup': [user_fees_sc_playgroup],
+            'fees_sc_nursery': [user_fees_sc_nursery],
+            'fees_sc_kindergarten': [user_fees_sc_kindergarten],
+            'fees_pr_infant_care': [user_fees_pr_infant_care],
+            'fees_pr_playgroup': [user_fees_pr_playgroup],
+            'fees_pr_nursery': [user_fees_pr_nursery],
+            'fees_pr_kindergarten': [user_fees_pr_kindergarten]
+        }
+        # Convert the dictionary to a numpy array
+        user_fees = np.array(list(user_input_fees.values()))
+        # Find the indices of non-zero elements
+        non_zero_indices = np.nonzero(user_fees)
+        # Print the keys corresponding to non-zero values
+        for index in non_zero_indices[0]:
+            fee_qualifier = list(user_input_fees.keys())[index]
         # Select relevant features
         business_rules_engine_output = business_rules_engine_output_raw[
             [
@@ -118,10 +146,80 @@ class MatchingAlgorithm:
                 "programme_sports",
                 "user_level"  # 1 - Infant Care, 2 - Playgroup, 3 - Nursery, 4 - Kindergarten
             ]]
+        business_rules_engine_output.loc[:, 'fees_sc_infant_care'] = business_rules_engine_output['fees_sc_infant_care'].replace(',', '', regex=True).astype(float)
+        business_rules_engine_output.loc[:, 'fees_sc_playgroup'] = business_rules_engine_output['fees_sc_playgroup'].replace(',', '', regex=True).astype(float)
+        business_rules_engine_output.loc[:, 'fees_sc_nursery'] = business_rules_engine_output['fees_sc_nursery'].replace(',', '', regex=True).astype(float)
+        business_rules_engine_output.loc[:, 'fees_sc_kindergarten'] = business_rules_engine_output['fees_sc_kindergarten'].replace(',', '', regex=True).astype(float)
+        business_rules_engine_output.loc[:, 'fees_pr_infant_care'] = business_rules_engine_output['fees_pr_infant_care'].replace(',', '', regex=True).astype(float)
+        business_rules_engine_output.loc[:, 'fees_pr_playgroup'] = business_rules_engine_output['fees_pr_playgroup'].replace(',', '', regex=True).astype(float)
+        business_rules_engine_output.loc[:, 'fees_pr_nursery'] = business_rules_engine_output['fees_pr_nursery'].replace(',', '', regex=True).astype(float)
+        business_rules_engine_output.loc[:, 'fees_pr_kindergarten'] = business_rules_engine_output['fees_pr_kindergarten'].replace(',', '', regex=True).astype(float)
+
+        # Normalise the data
+        columns_to_normalise = [
+            'Distance_To_User_km',
+            'Average_Stars',
+            'fees_sc_infant_care',
+            'fees_sc_playgroup',
+            'fees_sc_nursery',
+            'fees_sc_kindergarten',
+            'fees_pr_infant_care',
+            'fees_pr_playgroup',
+            'fees_pr_nursery',
+            'fees_pr_kindergarten'
+        ]
+        scaler = MinMaxScaler()
+        business_rules_engine_output.loc[:, columns_to_normalise] = scaler.fit_transform(
+            business_rules_engine_output[columns_to_normalise])
 
         try:
-            if business_rules_engine_output["user_level"].iloc[0] == 1:
+            if fee_qualifier == 'fees_sc_infant_care':
                 business_rules_engine_output = business_rules_engine_output.drop(columns=[
+                    'fees_sc_playgroup',
+                    'fees_sc_nursery',
+                    'fees_sc_kindergarten',
+                    'fees_pr_infant_care',
+                    'fees_pr_playgroup',
+                    'fees_pr_nursery',
+                    'fees_pr_kindergarten',
+                    'user_level'
+                ])
+            elif fee_qualifier == 'fees_sc_playgroup':
+                business_rules_engine_output = business_rules_engine_output.drop(columns=[
+                    'fees_sc_infant_care',
+                    'fees_sc_nursery',
+                    'fees_sc_kindergarten',
+                    'fees_pr_infant_care',
+                    'fees_pr_playgroup',
+                    'fees_pr_nursery',
+                    'fees_pr_kindergarten',
+                    'user_level'
+                ])
+            elif fee_qualifier == 'fees_sc_nursery':
+                business_rules_engine_output = business_rules_engine_output.drop(columns=[
+                    'fees_sc_infant_care',
+                    'fees_sc_playgroup',
+                    'fees_sc_kindergarten',
+                    'fees_pr_infant_care',
+                    'fees_pr_playgroup',
+                    'fees_pr_nursery',
+                    'fees_pr_kindergarten',
+                    'user_level'
+                ])
+            elif fee_qualifier == 'fees_sc_kindergarten':
+                business_rules_engine_output = business_rules_engine_output.drop(columns=[
+                    'fees_sc_infant_care',
+                    'fees_sc_playgroup',
+                    'fees_sc_nursery',
+                    'fees_pr_infant_care',
+                    'fees_pr_playgroup',
+                    'fees_pr_nursery',
+                    'fees_pr_kindergarten',
+                    'user_level'
+                ])
+            elif fee_qualifier == 'fees_pr_infant_care':
+                business_rules_engine_output = business_rules_engine_output.drop(columns=[
+                    'fees_sc_infant_care',
                     'fees_sc_playgroup',
                     'fees_sc_nursery',
                     'fees_sc_kindergarten',
@@ -130,9 +228,10 @@ class MatchingAlgorithm:
                     'fees_pr_kindergarten',
                     'user_level'
                 ])
-            elif business_rules_engine_output["user_level"].iloc[0] == 2:
+            elif fee_qualifier == 'fees_pr_playgroup':
                 business_rules_engine_output = business_rules_engine_output.drop(columns=[
                     'fees_sc_infant_care',
+                    'fees_sc_playgroup',
                     'fees_sc_nursery',
                     'fees_sc_kindergarten',
                     'fees_pr_infant_care',
@@ -140,38 +239,28 @@ class MatchingAlgorithm:
                     'fees_pr_kindergarten',
                     'user_level'
                 ])
-            elif business_rules_engine_output["user_level"].iloc[0] == 3:
+            elif fee_qualifier == 'fees_pr_nursery':
                 business_rules_engine_output = business_rules_engine_output.drop(columns=[
                     'fees_sc_infant_care',
                     'fees_sc_playgroup',
+                    'fees_sc_nursery',
                     'fees_sc_kindergarten',
                     'fees_pr_infant_care',
                     'fees_pr_playgroup',
                     'fees_pr_kindergarten',
                     'user_level'
                 ])
-            elif business_rules_engine_output["user_level"].iloc[0] == 4:
+            elif fee_qualifier == 'fees_pr_kindergarten':
                 business_rules_engine_output = business_rules_engine_output.drop(columns=[
                     'fees_sc_infant_care',
                     'fees_sc_playgroup',
                     'fees_sc_nursery',
+                    'fees_sc_kindergarten',
                     'fees_pr_infant_care',
                     'fees_pr_playgroup',
                     'fees_pr_nursery',
                     'user_level'
                 ])
-
-            # Normalise the data
-            columns_to_normalise = [
-                'Distance_To_User_km',
-                'Average_Stars',
-                'fees_sc_nursery',
-                'fees_pr_nursery'
-            ]
-            scaler = MinMaxScaler()
-            business_rules_engine_output[columns_to_normalise] = scaler.fit_transform(
-                business_rules_engine_output[columns_to_normalise])
-
             # Drop reference column
             business_rules_engine_output_numeric = business_rules_engine_output.drop(columns=['Preschool_Name'])
             # Handle null values
@@ -237,41 +326,85 @@ class MatchingAlgorithm:
                 'programme_speech_and_drama': [user_input['Speech and Drama'].item()],
                 'programme_sports': [user_input['Sports'].item()]
             })
-            if business_rules_engine_output_raw["user_level"].iloc[0] == 1:
+            if fee_qualifier == 'fees_sc_infant_care':
                 user_input_values = user_input_values.drop(columns=[
+                    'fees_sc_playgroup',
+                    'fees_sc_nursery',
+                    'fees_sc_kindergarten',
+                    'fees_pr_infant_care',
+                    'fees_pr_playgroup',
+                    'fees_pr_nursery',
+                    'fees_pr_kindergarten',
+                ])
+            elif fee_qualifier == 'fees_sc_playgroup':
+                user_input_values = user_input_values.drop(columns=[
+                    'fees_sc_infant_care',
+                    'fees_sc_nursery',
+                    'fees_sc_kindergarten',
+                    'fees_pr_infant_care',
+                    'fees_pr_playgroup',
+                    'fees_pr_nursery',
+                    'fees_pr_kindergarten',
+                ])
+            elif fee_qualifier == 'fees_sc_nursery':
+                user_input_values = user_input_values.drop(columns=[
+                    'fees_sc_infant_care',
+                    'fees_sc_playgroup',
+                    'fees_sc_kindergarten',
+                    'fees_pr_infant_care',
+                    'fees_pr_playgroup',
+                    'fees_pr_nursery',
+                    'fees_pr_kindergarten',
+                ])
+            elif fee_qualifier == 'fees_sc_kindergarten':
+                user_input_values = user_input_values.drop(columns=[
+                    'fees_sc_infant_care',
+                    'fees_sc_playgroup',
+                    'fees_sc_nursery',
+                    'fees_pr_infant_care',
+                    'fees_pr_playgroup',
+                    'fees_pr_nursery',
+                    'fees_pr_kindergarten',
+                ])
+            elif fee_qualifier == 'fees_pr_infant_care':
+                user_input_values = user_input_values.drop(columns=[
+                    'fees_sc_infant_care',
                     'fees_sc_playgroup',
                     'fees_sc_nursery',
                     'fees_sc_kindergarten',
                     'fees_pr_playgroup',
                     'fees_pr_nursery',
-                    'fees_pr_kindergarten'
+                    'fees_pr_kindergarten',
                 ])
-            elif business_rules_engine_output_raw["user_level"].iloc[0] == 2:
+            elif fee_qualifier == 'fees_pr_playgroup':
                 user_input_values = user_input_values.drop(columns=[
                     'fees_sc_infant_care',
+                    'fees_sc_playgroup',
                     'fees_sc_nursery',
                     'fees_sc_kindergarten',
                     'fees_pr_infant_care',
                     'fees_pr_nursery',
-                    'fees_pr_kindergarten'
+                    'fees_pr_kindergarten',
                 ])
-            elif business_rules_engine_output_raw["user_level"].iloc[0] == 3:
-                user_input_values = user_input_values.drop(columns=[
-                    'fees_sc_infant_care',
-                    'fees_sc_playgroup',
-                    'fees_sc_kindergarten',
-                    'fees_pr_infant_care',
-                    'fees_pr_playgroup',
-                    'fees_pr_kindergarten'
-                ])
-            elif business_rules_engine_output_raw["user_level"].iloc[0] == 4:
+            elif fee_qualifier == 'fees_pr_nursery':
                 user_input_values = user_input_values.drop(columns=[
                     'fees_sc_infant_care',
                     'fees_sc_playgroup',
                     'fees_sc_nursery',
+                    'fees_sc_kindergarten',
                     'fees_pr_infant_care',
                     'fees_pr_playgroup',
-                    'fees_pr_nursery'
+                    'fees_pr_kindergarten',
+                ])
+            elif fee_qualifier == 'fees_pr_kindergarten':
+                user_input_values = user_input_values.drop(columns=[
+                    'fees_sc_infant_care',
+                    'fees_sc_playgroup',
+                    'fees_sc_nursery',
+                    'fees_sc_kindergarten',
+                    'fees_pr_infant_care',
+                    'fees_pr_playgroup',
+                    'fees_pr_nursery',
                 ])
         except Exception as e:
             print(f"No user input data: {e}")
