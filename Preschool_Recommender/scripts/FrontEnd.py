@@ -34,9 +34,12 @@ class WINDOWS(customtkinter.CTk):
 
     # Define DEFAULTS
     APP_NAME = "SG-Preschool Recommender"
-    MIN_WIDTH = 1200
-    MIN_HEIGHT = 800
-    HEADING_FONT = None
+    MIN_WIDTH = 1100
+    MIN_HEIGHT = 750
+    HEAD1_FONT = None
+    HEAD2_FONT = None
+    CUSTOM_FONT = None
+    CUSTOM_BOLDFONT = None
     dataframe = pandas.DataFrame(columns=[
             'Primary_key',
             'Latitude_Longitude', # Location
@@ -103,18 +106,24 @@ class WINDOWS(customtkinter.CTk):
             'user_sunday_pick_up'])
     
     MARKER_LIST = []
+    MAP_LOCATION = None
+    BRAND_LIST = []
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
         # Redefine DEFAULTS
-        WINDOWS.HEADING_FONT = tkinter.font.Font(family='Helvetica', size=30, weight='bold')
+        WINDOWS.HEAD1_FONT = customtkinter.CTkFont(family='Helvetica', size=30, weight='bold')
+        WINDOWS.HEAD2_FONT = customtkinter.CTkFont(family='Helvetica', size=20, weight='bold')
+        WINDOWS.CUSTOM_FONT = customtkinter.CTkFont(family='Roboto', size=24)
+        WINDOWS.CUSTOM_BOLDFONT = customtkinter.CTkFont(family='Roboto', size=14, weight='bold')
         # Define individual screen dimensions
         screenWidth = self.winfo_screenwidth()
         screenHeight = self.winfo_screenheight()
-        if ((screenWidth*0.7 > WINDOWS.MIN_WIDTH) and (screenHeight*0.7 > WINDOWS.MIN_HEIGHT)):
-            WINDOWS.MIN_WIDTH = screenWidth*0.7
-            WINDOWS.MIN_HEIGHT = screenHeight*0.7
+        if (screenWidth*0.7 > WINDOWS.MIN_WIDTH):
+            WINDOWS.MIN_WIDTH = int(screenWidth*0.65)
+        if (screenHeight*0.8 > WINDOWS.MIN_HEIGHT):
+            WINDOWS.MIN_HEIGHT = int(screenHeight*0.8)
 
         # Find screen center point
         center_x = int(screenWidth/2 - WINDOWS.MIN_WIDTH / 2)
@@ -122,8 +131,7 @@ class WINDOWS(customtkinter.CTk):
 
         # Main root window
         self.title(WINDOWS.APP_NAME)
-        # self.geometry(f'{WINDOWS.MIN_WIDTH}x{WINDOWS.MIN_HEIGHT}+{center_x}+{center_y}')
-        self.geometry(f'{WINDOWS.MIN_WIDTH}x{WINDOWS.MIN_HEIGHT}')
+        self.geometry(f'{WINDOWS.MIN_WIDTH}x{WINDOWS.MIN_HEIGHT}+{center_x}+{center_y}')
 
         # Create a frame and assign to 'container' in WINDOWS(root)
         container = customtkinter.CTkFrame(self, height=WINDOWS.MIN_HEIGHT, width=WINDOWS.MIN_WIDTH)
@@ -149,13 +157,36 @@ class WINDOWS(customtkinter.CTk):
         frame = self.frames[cont]
         frame.tkraise() # Raise the current frame to the top
 
+    def show_question_frame(self, cont):
+        frame = self.frames[cont]
+
+        for i in range(len(WINDOWS.BRAND_LIST)):
+            brand = str(WINDOWS.BRAND_LIST[i]).rstrip()
+            if i == 0:
+                Resultspage.tab_view._segmented_button._buttons_dict["Preschool 1"].configure(text="Preschool 1")
+                Resultspage.tab1_sch_name.set("-")
+                Resultspage.tab1_address.set("-")
+                Resultspage.tab1_weblink.set("-")
+                Resultspage.tab1_button.configure(state='disable')
+                Resultspage.tab1_map.set_address("Singapore", marker=False)
+            else:
+                Resultspage.tab_view.delete(brand)
+
+        WINDOWS.BRAND_LIST.clear()
+        frame.tkraise() # Raise the current frame to the top
+
     def show_result_frame(self, cont):
         frame = self.frames[cont]
 
         result_dir = os.path.join(WINDOWS.USER_RESULT_DIR, WINDOWS.USER_RESULT_FILE)
         result_df = pandas.read_csv(result_dir)
 
+        result_df = result_df.drop_duplicates(subset='preschool_brand', keep='first')
+        result_df = result_df.sort_values(by="Cosine_Similarity", ascending=False)
+        result_df.to_csv(path_or_buf="C://Temp//temp.csv", index=False)
+
         preschool_names_list = result_df['Preschool_Name'].tolist()
+        preschool_brand_list = result_df['preschool_brand'].tolist()
         address_list = result_df['Address'].tolist()
         weblink_list = result_df['Preschool_Website'].tolist()
         location_list = result_df['Latitude_Longitude'].tolist()
@@ -166,20 +197,22 @@ class WINDOWS(customtkinter.CTk):
             except:
                 break
             preschool_name = str(preschool_names_list[top3])
+            preschool_brand = str(preschool_brand_list[top3])
+            WINDOWS.BRAND_LIST.append(preschool_brand)
             address = str(address_list[top3])
             weblink = str(weblink_list[top3])
             location = str(location_list[top3])
             if top3 == 0:
-                Resultspage.tab_view._segmented_button._buttons_dict["Preschool 1"].configure(text=preschool_name)
+                Resultspage.tab_view._segmented_button._buttons_dict["Preschool 1"].configure(text=preschool_brand)
                 Resultspage.tab1_sch_name.set(preschool_name)
                 Resultspage.tab1_address.set(address)
                 Resultspage.tab1_weblink.set(weblink)
                 Resultspage.tab1_button.configure(state='normal')
                 Resultspage.tab1_map.set_address(location, marker=True)
-                Resultspage.tab1_map.set_zoom(9)
+                Resultspage.tab1_map.set_zoom(13)
             else:
-                Resultspage.tab_view.add(preschool_name)
-                tab_Frame = customtkinter.CTkFrame(Resultspage.tab_view.tab(preschool_name))
+                Resultspage.tab_view.add(preschool_brand)
+                tab_Frame = customtkinter.CTkFrame(Resultspage.tab_view.tab(preschool_brand))
                 tab_Frame.pack()
                 for i in range(2):
                     for j in range(3):
@@ -188,20 +221,21 @@ class WINDOWS(customtkinter.CTk):
                             tab_button = customtkinter.CTkButton(
                                 tab_Frame, 
                                 command=lambda: Resultspage.openlink())
-                            tab_button.grid(row=i, column=j)
+                            tab_button._text_label.configure(wraplength=300, justify='left')
+                            tab_button.grid(row=i, column=j, padx=15, pady=10)
                         else:
-                            tab_labels = customtkinter.CTkLabel(tab_Frame)
-                            tab_labels.grid(row=i, column=j)
+                            tab_labels = customtkinter.CTkLabel(tab_Frame, wraplength=300, justify='center')
+                            tab_labels.grid(row=i, column=j, padx=15, pady=10)
 
                         # Insert Headings
                         if (i == 0):
                             match j:
                                 case 0:
-                                    tab_labels.configure(text="Preschool Name")
+                                    tab_labels.configure(text="Preschool Name", font=WINDOWS.CUSTOM_BOLDFONT)
                                 case 1:
-                                    tab_labels.configure(text="Address")
+                                    tab_labels.configure(text="Address", font=WINDOWS.CUSTOM_BOLDFONT)
                                 case 2:
-                                    tab_labels.configure(text="Website Link")
+                                    tab_labels.configure(text="Website Link", font=WINDOWS.CUSTOM_BOLDFONT)
 
                         # Insert Default Values
                         if (i == 1):
@@ -215,17 +249,15 @@ class WINDOWS(customtkinter.CTk):
                                     tab_button.configure(state='normal')
 
                 tab_map = tkintermapview.TkinterMapView(
-                    Resultspage.tab_view.tab(preschool_name), 
+                    Resultspage.tab_view.tab(preschool_brand), 
+                    width=1100, height=500,
                     corner_radius=0)
                 tab_map.pack()
         
                 tab_map.set_address(location, marker=True)
-                tab_map.set_zoom(9)
+                tab_map.set_zoom(13)
 
         frame.tkraise() # Raise the current frame to the top  
-
-    def getHeadFont(self):
-        return self.HEADING_FONT
 
     def on_closing(self, event=0):
         self.destroy()
@@ -235,55 +267,67 @@ class WINDOWS(customtkinter.CTk):
 
 class QuestionsPage(customtkinter.CTkFrame):
     def __init__(self, parent, controller):
-        customtkinter.CTkFrame.__init__(self, parent)
-        # Set class defaults from DEFAULTS
-        headFont = controller.getHeadFont()
+        customtkinter.CTkFrame.__init__(self, parent, width=1000)
+
+        WINDOWS.MAP_LOCATION = tkinter.StringVar()
+        adr = tkintermapview.convert_coordinates_to_address(1.290270, 103.851959)
+        question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
+        WINDOWS.MAP_LOCATION.set(question_location)
 
         # Header Text
         qnsHeadText = "Find your child's ideal Preschool"
         qnsHeadText2 = "Answer the questionaire based on your preschool criterias."
         
         # Questionaire
-        qnsQn1a = "Indicate your preferred Pre-school location."
-        qnsQn1b = "Select a preferred distance range from the indicated location?"
-        qnsQn2a = "What is your citizenship status?"
-        qnsQn2b = "What is your available budget?"
-        qnsQn2c = "How old is your child?"
-        qnsQn3 = "Select the programmes you are interested to enroll your child in."
-        qnsQn4 = "Select the Pre-school Curriculum style you prefer."
-        qnsQn5 = "Select the days you would like to send your child to a Pre-school."
+        qnsQn1a = "Question 1: Indicate your preferred Preschool location."
+        qnsQn1b = "Question 2: Select a preferred distance range from the indicated location?"
+        qnsQn2a = "Question 3: What is your citizenship status?"
+        qnsQn2b = "Question 4: What is your available budget? ($)"
+        qnsQn2c = "Question 5: How old is your child?"
+        qnsQn3 = "Question 6: Select the programmes you are interested to enroll your child in."
+        qnsQn4 = "Question 7: Select the Pre-school Curriculum style you prefer."
+        qnsQn5 = "Question 8: Select the days you would like to send your child to a Pre-school."
         qnsQn6a = "Select your preferred drop-off timings. (Monday to Friday)"
         qnsQn6b = "Select your preferred drop-off timings. (Saturday & Sunday)"
         qnsQn7a = "Select your preferred pick-up timings."
         qnsQn7b = "Select your preferred pick-up timings."
-        qnsQn8 = "Overall rating of Pre-school"
+        qnsQn8 = "Question 11: Overall rating of Pre-school"
+
+        # ============ create 3 CTkFrames for QuestionPage() ============
+
+        self.frame_head = customtkinter.CTkFrame(master=self, corner_radius=1, width=1149, height=246)
+        self.frame_head.pack(fill='x', padx=0, pady=0)
+
+        self.frame_left = customtkinter.CTkFrame(master=self, corner_radius=0, fg_color=None)
+        self.frame_left.pack(side='left', padx=10, pady=25)
+
+        self.frame_right = customtkinter.CTkFrame(master=self, corner_radius=0, fg_color="transparent")
+        self.frame_right.pack(side='left', padx=0, pady=25)
+
+        # ============ frame_head ============
 
         qns_Head1_Label = customtkinter.CTkLabel(
-            self, 
-            text=qnsHeadText
+            self.frame_head, 
+            text=qnsHeadText,
+            font=WINDOWS.HEAD1_FONT
             )
         qns_Head2_Label = customtkinter.CTkLabel(
-            self,
-            text=qnsHeadText2
+            self.frame_head,
+            text=qnsHeadText2,
+            font=WINDOWS.HEAD2_FONT
         )
-        qns_Head1_Label.pack(padx=10, pady=10)
-        qns_Head2_Label.pack()
+        qns_Head1_Label.pack(padx=10, pady=20)
+        qns_Head2_Label.pack(padx=10, pady=10)
 
-        # Main Frame container
-        mainFrameWidth = int(WINDOWS.MIN_WIDTH)
-        mainFrameHeight = int(WINDOWS.MIN_HEIGHT)
-        mainFrame = customtkinter.CTkFrame(
-            self, 
-            width=mainFrameWidth, height=mainFrameHeight)
-        mainFrame.pack()
+        # ============ frame_left ============
 
     # Question Frame containers
       # Question 1a: Location
-        qns1Frame = customtkinter.CTkFrame(mainFrame)
-        qns1Frame.pack()
+        qns1Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
+        qns1Frame.pack(fill='x')
 
-        qns1Label = customtkinter.CTkLabel(qns1Frame, text=qnsQn1a)
-        qns1Label2 = customtkinter.CTkLabel(qns1Frame, text="placeholder_address")
+        qns1Label = customtkinter.CTkLabel(qns1Frame, text=qnsQn1a, font=WINDOWS.CUSTOM_BOLDFONT)
+        qns1Label2 = customtkinter.CTkLabel(qns1Frame, textvariable=WINDOWS.MAP_LOCATION)
         qns1Button = customtkinter.CTkButton(qns1Frame,
                                     text="Open Maps View",
                                     command=lambda: MapWindow(controller))
@@ -294,48 +338,50 @@ class QuestionsPage(customtkinter.CTkFrame):
       # Question 1b: Distance range
         qn1bChoices1 = ('1KM', '5KM', '10KM', '15KM')
 
-        qn1bFrame = customtkinter.CTkFrame(mainFrame)
-        qn1bFrame.pack()
-        qn1bLabel  = customtkinter.CTkLabel(qn1bFrame, text=qnsQn1b)
+        qn1bFrame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
+        qn1bFrame.pack(fill='x')
+        qn1bLabel  = customtkinter.CTkLabel(qn1bFrame, text=qnsQn1b, font=WINDOWS.CUSTOM_BOLDFONT)
         qn1bLabel.pack()
         distRangeAns = customtkinter.CTkComboBox(qn1bFrame, values=qn1bChoices1)
         distRangeAns.pack()
 
       # Question 2a: Citizenship
         qn2aChoices = ('Singaporean', 'Permanent Resident')
-        qn2aFrame = customtkinter.CTkFrame(mainFrame)
-        qn2aFrame.pack()
+        qn2aFrame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
+        qn2aFrame.pack(fill='x')
 
-        qn2aLabel = customtkinter.CTkLabel(qn2aFrame, text=qnsQn2a)
+        qn2aLabel = customtkinter.CTkLabel(qn2aFrame, text=qnsQn2a, font=WINDOWS.CUSTOM_BOLDFONT)
         citizenStaAns = customtkinter.CTkComboBox(qn2aFrame, values=qn2aChoices) 
 
         qn2aLabel.pack()
         citizenStaAns.pack()
 
       # Question 2b: Budget
-        qns2bFrame = customtkinter.CTkFrame(mainFrame)
-        qns2bFrame.pack()
+        qns2bFrame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
+        qns2bFrame.pack(fill='x')
 
-        qns2bLabel = customtkinter.CTkLabel(qns2bFrame, text=qnsQn2b)
-        qns2bAnsLabel = customtkinter.CTkLabel(qns2bFrame, text="$")
-        budgetAns = customtkinter.CTkEntry(qns2bFrame, height = 1, width = 120, placeholder_text="0")
+        qns2bLabel = customtkinter.CTkLabel(qns2bFrame, text=qnsQn2b, font=WINDOWS.CUSTOM_BOLDFONT)
+        budgetAns = customtkinter.CTkEntry(qns2bFrame, height = 1, width = 120, placeholder_text="e.g. 1000")
         # TODO: add numbers constraint
 
         qns2bLabel.pack()
-        qns2bAnsLabel.pack(side="left")
-        budgetAns.pack(side="right")
+        budgetAns.pack()
 
       # Question 2c: Child Age
         curDatetime = datetime.datetime.now() # get current datetime
-        qns2cFrame = customtkinter.CTkFrame(mainFrame)
-        qns2cFrame.pack()
+        eigthteen_month_earlier = curDatetime + relativedelta.relativedelta(months=-18)
+        qns2cFrame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
+        qns2cFrame.pack(fill='x')
 
-        qn2cLabel = customtkinter.CTkLabel(qns2cFrame, text=qnsQn2c)
-        calAgeAns = DateEntry(qns2cFrame, width=12, 
-                        year=curDatetime.year, month=curDatetime.month, day=curDatetime.day, 
-                        background='darkblue', 
-                        foreground='white', 
-                        orderwidth=2)
+        qn2cLabel = customtkinter.CTkLabel(qns2cFrame, text=qnsQn2c, font=WINDOWS.CUSTOM_BOLDFONT)
+        calAgeAns = DateEntry(
+            qns2cFrame, 
+            width=24, 
+            font=WINDOWS.CUSTOM_FONT,
+            year=eigthteen_month_earlier.year, month=eigthteen_month_earlier.month, day=eigthteen_month_earlier.day, 
+            background='darkblue', 
+            foreground='white', 
+            orderwidth=2)
         qn2cLabel.pack()
         calAgeAns.pack(padx=10, pady=10)
 
@@ -359,11 +405,15 @@ class QuestionsPage(customtkinter.CTkFrame):
                       'Social & Emotional Development',
                       'Speech and Drama',
                       'Sports')
-        qn3Frame = customtkinter.CTkFrame(mainFrame)
-        qn3Frame.pack()
+        qn3Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
+        qn3Frame.pack(fill='x')
 
-        qn3Label = customtkinter.CTkLabel(qn3Frame, text=qnsQn3)
-        progAns = checklistcombobox.ChecklistCombobox(qn3Frame, values=qn3Choices)
+        qn3Label = customtkinter.CTkLabel(qn3Frame, text=qnsQn3, font=WINDOWS.CUSTOM_BOLDFONT)
+        progAns = checklistcombobox.ChecklistCombobox(
+            qn3Frame, 
+            width=60,
+            font=WINDOWS.CUSTOM_FONT,
+            values=qn3Choices)
 
         qn3Label.pack()
         progAns.pack()
@@ -387,67 +437,79 @@ class QuestionsPage(customtkinter.CTkFrame):
                       'SPARK certified Curriculum',
                       'Thematic',
                       'ISteam')
-        qn4Frame = customtkinter.CTkFrame(mainFrame)
-        qn4Frame.pack()
+        qn4Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
+        qn4Frame.pack(fill='x')
 
-        qn4Label = customtkinter.CTkLabel(qn4Frame, text=qnsQn4)
-        currAns = checklistcombobox.ChecklistCombobox(qn4Frame, values=qn4Choices)
+        qn4Label = customtkinter.CTkLabel(qn4Frame, text=qnsQn4, font=WINDOWS.CUSTOM_BOLDFONT)
+        currAns = checklistcombobox.ChecklistCombobox(
+            qn4Frame, 
+            width=60,
+            font=WINDOWS.CUSTOM_FONT, 
+            values=qn4Choices)
 
         qn4Label.pack()
         currAns.pack()
 
       # Question 5: Days to send child (Mon to Sun)
         qn5Choices = ('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday')
-        qn5Frame = customtkinter.CTkFrame(mainFrame)
-        qn5Frame.pack()
+        qn5Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
+        qn5Frame.pack(fill='x')
 
-        qn5Label = customtkinter.CTkLabel(qn5Frame, text=qnsQn5)
-        daysSentAns = checklistcombobox.ChecklistCombobox(qn5Frame, values=qn5Choices)
-        daysSentAns.bind("<<ComboboxSelected>>", lambda e: QuestionsPage.refreshQuestion(daysSentAns, pickupWkEnd, dropoffWkEnd))
+        qn5Label = customtkinter.CTkLabel(qn5Frame, text=qnsQn5, font=WINDOWS.CUSTOM_BOLDFONT)
+        daysSentAns = checklistcombobox.ChecklistCombobox(
+            qn5Frame, 
+            width=48,
+            font=WINDOWS.CUSTOM_FONT, 
+            values=qn5Choices)
+        daysSentAns.bind("<<ComboboxSelected>>", lambda e: QuestionsPage.refreshQuestion(daysSentAns, dropoffWkEnd, pickupWkEnd))
 
         qn5Label.pack()
         daysSentAns.pack()
 
-      # Question 6 & 7: Pick Up and Drop off timing
+      # Question 9 Left & Right: Pick Up and Drop off timing
+        qn9Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
+        qn9Frame.pack(fill="x")
+        qn6QnLabel = customtkinter.CTkLabel(qn9Frame, text="Question 9:", font=WINDOWS.CUSTOM_BOLDFONT)
+        qn6QnLabel.pack()
+
         qn6Choices1 = ('7AM', '8AM', '9AM', '10AM', '11AM', '12PM')
         qn6Choices2 = ('7AM', '8AM', '9AM', '10AM')
 
-        qn6FrameText = customtkinter.CTkFrame(mainFrame)
-        qn6FrameText.pack()
-        qn6LabelA  = customtkinter.CTkLabel(qn6FrameText, text=qnsQn6a)
-        qn6LabelB  = customtkinter.CTkLabel(qn6FrameText, text=qnsQn6b)
-        qn6LabelA.pack(side='left')
-        qn6LabelB.pack(side='right')
+        qn6FrameLeft = customtkinter.CTkFrame(qn9Frame, corner_radius=0, fg_color="transparent")
+        qn6FrameLeft.pack(side="left")
+        qn7FrameRight = customtkinter.CTkFrame(qn9Frame, corner_radius=0, fg_color="transparent")
+        qn7FrameRight.pack(side="left")
+        
+        qn6LabelA  = customtkinter.CTkLabel(qn6FrameLeft, text=qnsQn6a, font=WINDOWS.CUSTOM_BOLDFONT)
+        qn6LabelB  = customtkinter.CTkLabel(qn7FrameRight, text=qnsQn6b, font=WINDOWS.CUSTOM_BOLDFONT)
+        
+        qn6LabelA.pack(padx=15, pady=0)
+        qn6LabelB.pack(padx=15, pady=0)
 
-        qn6FrameCombobox = customtkinter.CTkFrame(mainFrame)
-        qn6FrameCombobox.pack()
-        dropoffReg = customtkinter.CTkComboBox(qn6FrameCombobox, values=qn6Choices1)
-        dropoffWkEnd = customtkinter.CTkComboBox(qn6FrameCombobox, values=qn6Choices2)
-        dropoffReg.pack(side='left')
-        dropoffWkEnd.pack_forget()
+        dropoffReg = customtkinter.CTkComboBox(qn6FrameLeft, values=qn6Choices1)
+        dropoffWkEnd = customtkinter.CTkComboBox(qn7FrameRight, values=qn6Choices2)
+        dropoffReg.pack()
+        dropoffWkEnd.pack()
 
         qn7Choices1 = ('3PM', '4PM', '5PM', '6PM', '7PM')
         qn7Choices2 = ('12PM', '1PM', '2PM')
 
-        qn7FrameText = customtkinter.CTkFrame(mainFrame)
-        qn7FrameText.pack()
-        qn7LabelA  = customtkinter.CTkLabel(qn7FrameText, text=qnsQn7a)
-        qn7LabelB  = customtkinter.CTkLabel(qn7FrameText, text=qnsQn7b)
-        qn7LabelA.pack(side='left')
-        qn7LabelB.pack(side='right')
+        qn7LabelA  = customtkinter.CTkLabel(qn6FrameLeft, text=qnsQn7a, font=WINDOWS.CUSTOM_BOLDFONT)
+        qn7LabelB  = customtkinter.CTkLabel(qn7FrameRight, text=qnsQn7b, font=WINDOWS.CUSTOM_BOLDFONT)
+        qn7LabelA.pack(padx=15, pady=0)
+        qn7LabelB.pack(padx=15, pady=0)
 
-        qn7FrameCombobox = customtkinter.CTkFrame(mainFrame)
-        qn7FrameCombobox.pack()
-        pickupReg = customtkinter.CTkComboBox(qn7FrameCombobox, values=qn7Choices1)
-        pickupWkEnd = customtkinter.CTkComboBox(qn7FrameCombobox, values=qn7Choices2)
-        pickupReg.pack(side='left')
-        pickupWkEnd.pack_forget()
+        pickupReg = customtkinter.CTkComboBox(qn6FrameLeft, values=qn7Choices1)
+        pickupWkEnd = customtkinter.CTkComboBox(qn7FrameRight, values=qn7Choices2)
+        pickupReg.pack()
+        pickupWkEnd.pack()
+
+        dropoffWkEnd.configure(state='disable')
+        pickupWkEnd.configure(state='disable')
 
         # Buttons
-        qns_End_Frame = customtkinter.CTkFrame(self)
-        qns_End_Frame.pack()
         switch_window = customtkinter.CTkButton(
-            qns_End_Frame,
+            self.frame_right, 
             text="Generate Results",
             command=lambda: QuestionsPage.outputQuestionaire(
                 controller, distRangeAns, 
@@ -457,22 +519,22 @@ class QuestionsPage(customtkinter.CTkFrame):
                 )
         )
         quit_button = customtkinter.CTkButton(
-            qns_End_Frame,
+            self.frame_right,
             text="Quit",
             command=lambda: controller.on_closing(),
         )
-        switch_window.pack()
-        quit_button.pack()
+        switch_window.pack(padx=5, pady=5)
+        quit_button.pack(padx=5, pady=5)
 
-    def refreshQuestion(qn6Ans, qn7ComboB, qn8ComboB):
+    def refreshQuestion(qn6Ans, dropoffWkEnd, pickupWkEnd):
         selected = qn6Ans.selection_get()
         # print(selected)
         if "Saturday" in selected or "Sunday" in selected:
-            qn7ComboB.pack(side='right')
-            qn8ComboB.pack(side='right')
+            dropoffWkEnd.configure(state='normal')
+            pickupWkEnd.configure(state='normal')
         else:
-            qn7ComboB.pack_forget()
-            qn8ComboB.pack_forget()
+            dropoffWkEnd.configure(state='disable')
+            pickupWkEnd.configure(state='disable')
 
     def outputQuestionaire(controller, distRangeAns, 
                 citizenStaAns, budgetAns, calAgeAns, 
@@ -646,9 +708,6 @@ class QuestionsPage(customtkinter.CTkFrame):
                 return timing
 
 class MapWindow(tkinter.Toplevel):
-
-    MARKER_LIST = []
-
     def __init__(self, master = None):
          
         tkinter.Toplevel.__init__(self)
@@ -681,18 +740,6 @@ class MapWindow(tkinter.Toplevel):
                                                 command=self.clear_marker_event)
         self.button_2.grid(pady=(20, 0), padx=(20, 20), row=1, column=0)
 
-        self.map_label = customtkinter.CTkLabel(self.frame_left, text="Tile Server:", anchor="w")
-        self.map_label.grid(row=3, column=0, padx=(20, 20), pady=(20, 0))
-        # self.map_option_menu = customtkinter.CTkOptionMenu(self.frame_left, values=["OpenStreetMap", "Google normal", "Google satellite"],
-        #                                                                command=self.change_map)
-        # self.map_option_menu.grid(row=4, column=0, padx=(20, 20), pady=(10, 0))
-
-        self.appearance_mode_label = customtkinter.CTkLabel(self.frame_left, text="Appearance Mode:", anchor="w")
-        self.appearance_mode_label.grid(row=5, column=0, padx=(20, 20), pady=(20, 0))
-        self.appearance_mode_optionemenu = customtkinter.CTkOptionMenu(self.frame_left, values=["Light", "Dark", "System"],
-                                                                       command=self.change_appearance_mode)
-        self.appearance_mode_optionemenu.grid(row=6, column=0, padx=(20, 20), pady=(10, 20))
-
         # ============ frame_right ============
 
         self.frame_right.grid_rowconfigure(1, weight=1)
@@ -716,23 +763,30 @@ class MapWindow(tkinter.Toplevel):
         self.button_5.grid(row=0, column=1, sticky="w", padx=(12, 0), pady=12)
 
         # Set default values
-        self.map_widget.set_address("Singapore")
+        if len(WINDOWS.MARKER_LIST) >= 1:
+            address = str(WINDOWS.MARKER_LIST[0].position).strip("()")
+            WINDOWS.MARKER_LIST.clear()
+            self.map_widget.set_address(address)
+            WINDOWS.MARKER_LIST.append(self.map_widget.set_marker(float(address.split(',')[0]), float(address.split(',')[1])))
+        else:
+            self.map_widget.set_address("Singapore")
         self.map_widget.set_zoom(12)
         # self.map_option_menu.set("OpenStreetMap")
-        self.appearance_mode_optionemenu.set("Dark")
+        # self.appearance_mode_optionemenu.set("Dark")
 
         # Define right click events before using event commands
         def add_marker_event(coords):
             # print("Add marker:", coords)
             coordsText = str(coords[0]) + "," + str(coords[1])
-            if len(WINDOWS.MARKER_LIST) >= 1:
-                for marker in WINDOWS.MARKER_LIST:
-                    marker.delete()
+            self.map_widget.delete_all_marker()
             WINDOWS.MARKER_LIST.clear()
             WINDOWS.MARKER_LIST.append(self.map_widget.set_marker(
                 coords[0], coords[1], 
                 text=coordsText
             ))
+            adr = tkintermapview.convert_coordinates_to_address(coords[0], coords[1])
+            question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
+            WINDOWS.MAP_LOCATION.set(question_location)
 
         self.map_widget.add_right_click_menu_command(
             label="Add Marker",  
@@ -743,32 +797,29 @@ class MapWindow(tkinter.Toplevel):
     def search_event(self, event=None):
         self.map_widget.set_address(self.entry.get())
         current_position = self.map_widget.get_position()
-        if len(WINDOWS.MARKER_LIST) >= 1:
-            for marker in WINDOWS.MARKER_LIST:
-                marker.delete()
-            WINDOWS.MARKER_LIST.clear()
+        self.map_widget.delete_all_marker()
+        WINDOWS.MARKER_LIST.clear()
         WINDOWS.MARKER_LIST.append(self.map_widget.set_marker(current_position[0], current_position[1]))
+        adr = tkintermapview.convert_coordinates_to_address(current_position[0], current_position[1])
+        question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
+        WINDOWS.MAP_LOCATION.set(question_location)
 
     def set_marker_event(self):
         current_position = self.map_widget.get_position()
-        if len(WINDOWS.MARKER_LIST) >= 1:
-            for marker in WINDOWS.MARKER_LIST:
-                marker.delete()
-            WINDOWS.MARKER_LIST.clear()
+        self.map_widget.delete_all_marker()
+        WINDOWS.MARKER_LIST.clear()
         WINDOWS.MARKER_LIST.append(self.map_widget.set_marker(current_position[0], current_position[1]))
+        adr = tkintermapview.convert_coordinates_to_address(current_position[0], current_position[1])
+        question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
+        WINDOWS.MAP_LOCATION.set(question_location)
         # print(WINDOWS.MARKER_LIST[0].position)
 
     def clear_marker_event(self):
-        for marker in WINDOWS.MARKER_LIST:
-            marker.delete()
+        self.map_widget.delete_all_marker()
         WINDOWS.MARKER_LIST.clear()
 
-    def change_appearance_mode(self, new_appearance_mode: str):
-        customtkinter.set_appearance_mode(new_appearance_mode)
-
-    # def change_map(self, new_map: str):
-    #     if new_map == "OpenStreetMap":
-    #         self.map_widget.set_tile_server("https://a.tile.openstreetmap.org/{z}/{x}/{y}.png")
+    # def change_appearance_mode(self, new_appearance_mode: str):
+    #     customtkinter.set_appearance_mode(new_appearance_mode)
 
     def on_closing(self, event=0):
         self.destroy()
@@ -822,12 +873,14 @@ class Resultspage(customtkinter.CTkFrame):
 
         resultHeading = customtkinter.CTkLabel(
             self, 
-            text="Find your child's ideal Preschool")
+            text="Find your child's ideal Preschool",
+            font=WINDOWS.HEAD1_FONT)
         resultHeading.pack()
 
         resultHeading2 = customtkinter.CTkLabel(
             self, 
-            text="The Top 3 School Brands with the closest match will be shown below.")
+            text="The Top 3 School Brands with the closest match will be shown below.",
+            font=WINDOWS.HEAD2_FONT)
         resultHeading2.pack()
 
         Resultspage.tab_view = customtkinter.CTkTabview(self)
@@ -848,21 +901,22 @@ class Resultspage(customtkinter.CTkFrame):
                     Resultspage.tab1_button = customtkinter.CTkButton(
                         tab1_Frame, 
                         command=lambda: Resultspage.openlink())
+                    Resultspage.tab1_button._text_label.configure(wraplength=300, justify='left')
                     Resultspage.tab1_button.configure(state='disabled')
-                    Resultspage.tab1_button.grid(row=i, column=j)
+                    Resultspage.tab1_button.grid(row=i, column=j, padx=15, pady=10)
                 else:
-                    tab1_labels = customtkinter.CTkLabel(tab1_Frame)
-                    tab1_labels.grid(row=i, column=j)
+                    tab1_labels = customtkinter.CTkLabel(tab1_Frame, wraplength=300, justify='center')
+                    tab1_labels.grid(row=i, column=j, padx=15, pady=10)
 
                 # Insert Headings
                 if (i == 0):
                     match j:
                         case 0:
-                            tab1_labels.configure(text="Preschool Name")
+                            tab1_labels.configure(text="Preschool Name", font=WINDOWS.CUSTOM_BOLDFONT)
                         case 1:
-                            tab1_labels.configure(text="Address")
+                            tab1_labels.configure(text="Address", font=WINDOWS.CUSTOM_BOLDFONT)
                         case 2:
-                            tab1_labels.configure(text="Website Link")
+                            tab1_labels.configure(text="Website Link", font=WINDOWS.CUSTOM_BOLDFONT)
 
                 # Insert Default Values
                 if (i == 1):
@@ -876,11 +930,12 @@ class Resultspage(customtkinter.CTkFrame):
 
         Resultspage.tab1_map = tkintermapview.TkinterMapView(
             Resultspage.tab_view.tab("Preschool 1"), 
+            width=1100, height=500,
             corner_radius=0)
         Resultspage.tab1_map.pack()
         
         Resultspage.tab1_map.set_address("Singapore")
-        Resultspage.tab1_map.set_zoom(10)
+        Resultspage.tab1_map.set_zoom(13)
 
         # Buttons
         result_End_Frame = customtkinter.CTkFrame(self)
@@ -890,15 +945,15 @@ class Resultspage(customtkinter.CTkFrame):
         restart_window = customtkinter.CTkButton(
             result_End_Frame, 
             text="Restart Application", 
-            command=lambda: controller.show_frame(QuestionsPage)
+            command=lambda: controller.show_question_frame(QuestionsPage)
         )
         quit_button = customtkinter.CTkButton(
             result_Quit_Frame,
             text="Quit",
             command=lambda: controller.on_closing(),
         )
-        restart_window.pack(side="left")
-        quit_button.pack()
+        restart_window.pack(pady=10)
+        quit_button.pack(pady=10)
 
     def openlink():
         webbrowser.open_new_tab(Resultspage.tab1_weblink.get())
