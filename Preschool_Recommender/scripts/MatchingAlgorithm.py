@@ -465,4 +465,4 @@ class MatchingAlgorithm:
             print(f"{e}")
 
 
-MatchingAlgorithm().trigger_match()
+
