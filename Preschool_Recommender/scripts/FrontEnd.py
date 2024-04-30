@@ -183,7 +183,6 @@ class WINDOWS(customtkinter.CTk):
 
         result_df = result_df.drop_duplicates(subset='preschool_brand', keep='first')
         result_df = result_df.sort_values(by="Cosine_Similarity", ascending=False)
-        result_df.to_csv(path_or_buf="C://Temp//temp.csv", index=False)
 
         preschool_names_list = result_df['Preschool_Name'].tolist()
         preschool_brand_list = result_df['preschool_brand'].tolist()
@@ -548,7 +547,6 @@ class QuestionsPage(customtkinter.CTkFrame):
         userInput.extend(QuestionsPage.getSelectedProgrammes(progAns.get()))
         userInput.extend(QuestionsPage.getSelectedCurriculum(currAns.get()))
         userInput.extend(QuestionsPage.getSelectedDayswithTiming(daysSentAns.get(), dropoffReg.get(), dropoffWkEnd.get(), pickupReg.get(), pickupWkEnd.get()))
-        # print(userInput)
         QuestionsPage.generateFile(userInput)
 
         import BusinessRuleEngine
@@ -559,7 +557,6 @@ class QuestionsPage(customtkinter.CTkFrame):
     def generateFile(userInput):
         WINDOWS.dataframe.drop(WINDOWS.dataframe.index,inplace=True)                                                              
         WINDOWS.dataframe.loc[len(WINDOWS.dataframe)] = userInput
-        # print(WINDOWS.dataframe)
 
         output_file = os.path.join(WINDOWS.USER_OUTPUT_DIR, WINDOWS.USER_OUTPUT_FILE)
         WINDOWS.dataframe.to_csv(path_or_buf=output_file, index=False)
@@ -573,8 +570,6 @@ class QuestionsPage(customtkinter.CTkFrame):
 
     def getEduLvlWithCitizenship(Status, calDate, budget):
         eduLvlwithStatus = ['0', '0', '0', '0', '0', '0', '0', '0', '1']
-        # print(datetime.datetime.now().date())
-        # print(calDate.get_date())
         date1 = datetime.datetime.strptime(str(datetime.datetime.now().date()), '%Y-%m-%d')
         date2 = datetime.datetime.strptime(str(calDate.get_date()), '%Y-%m-%d')
         r = relativedelta.relativedelta(date1, date2)
@@ -583,8 +578,6 @@ class QuestionsPage(customtkinter.CTkFrame):
             months += 1
 
         years = r.years
-        # print(months)
-        # print(years)
 
         if Status == "Singaporean":
             if years >= 5: # Kindergarten_Singaporean
@@ -693,7 +686,6 @@ class QuestionsPage(customtkinter.CTkFrame):
                 case 'Sunday':
                     daysSelectedwithTiming[12] = dropoffWkEnd
                     daysSelectedwithTiming[13] = pickupWkEnd
-        # print(daysSelectedwithTiming)
         return daysSelectedwithTiming
 
     def stripTiming(timing):
@@ -771,12 +763,9 @@ class MapWindow(tkinter.Toplevel):
         else:
             self.map_widget.set_address("Singapore")
         self.map_widget.set_zoom(12)
-        # self.map_option_menu.set("OpenStreetMap")
-        # self.appearance_mode_optionemenu.set("Dark")
 
         # Define right click events before using event commands
         def add_marker_event(coords):
-            # print("Add marker:", coords)
             coordsText = str(coords[0]) + "," + str(coords[1])
             self.map_widget.delete_all_marker()
             WINDOWS.MARKER_LIST.clear()
@@ -812,14 +801,10 @@ class MapWindow(tkinter.Toplevel):
         adr = tkintermapview.convert_coordinates_to_address(current_position[0], current_position[1])
         question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
         WINDOWS.MAP_LOCATION.set(question_location)
-        # print(WINDOWS.MARKER_LIST[0].position)
 
     def clear_marker_event(self):
         self.map_widget.delete_all_marker()
         WINDOWS.MARKER_LIST.clear()
-
-    # def change_appearance_mode(self, new_appearance_mode: str):
-    #     customtkinter.set_appearance_mode(new_appearance_mode)
 
     def on_closing(self, event=0):
         self.destroy()
