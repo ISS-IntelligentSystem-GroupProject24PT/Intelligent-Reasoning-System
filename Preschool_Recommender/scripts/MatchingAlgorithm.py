@@ -155,22 +155,25 @@ class MatchingAlgorithm:
         business_rules_engine_output.loc[:, 'fees_pr_nursery'] = business_rules_engine_output['fees_pr_nursery'].replace(',', '', regex=True).astype(float)
         business_rules_engine_output.loc[:, 'fees_pr_kindergarten'] = business_rules_engine_output['fees_pr_kindergarten'].replace(',', '', regex=True).astype(float)
 
-        # Normalise the data
-        columns_to_normalise = [
-            'Distance_To_User_km',
-            'Average_Stars',
-            'fees_sc_infant_care',
-            'fees_sc_playgroup',
-            'fees_sc_nursery',
-            'fees_sc_kindergarten',
-            'fees_pr_infant_care',
-            'fees_pr_playgroup',
-            'fees_pr_nursery',
-            'fees_pr_kindergarten'
-        ]
-        scaler = MinMaxScaler()
-        business_rules_engine_output.loc[:, columns_to_normalise] = scaler.fit_transform(
-            business_rules_engine_output[columns_to_normalise])
+        try:
+            # Normalise the data
+            columns_to_normalise = [
+                'Distance_To_User_km',
+                'Average_Stars',
+                'fees_sc_infant_care',
+                'fees_sc_playgroup',
+                'fees_sc_nursery',
+                'fees_sc_kindergarten',
+                'fees_pr_infant_care',
+                'fees_pr_playgroup',
+                'fees_pr_nursery',
+                'fees_pr_kindergarten'
+            ]
+            scaler = MinMaxScaler()
+            business_rules_engine_output.loc[:, columns_to_normalise] = scaler.fit_transform(
+                business_rules_engine_output[columns_to_normalise])
+        except Exception as e:
+            print(f"{e}")
 
         try:
             if fee_qualifier == 'fees_sc_infant_care':
@@ -438,21 +441,24 @@ class MatchingAlgorithm:
         except Exception as e:
             print(f"No similarity: {e}")
 
-        # Combine business rules output file
-        feature_data = pd.read_csv(business_rules_non_filtered_file)
-        business_rules_engine_output = (
-            pd.merge(
-                business_rules_engine_output,
-                feature_data,
-                on='Preschool_Name', how='left', indicator=True
-            ).drop(columns=['_merge']))
+        try:
+            # Combine business rules output file
+            feature_data = pd.read_csv(business_rules_non_filtered_file)
+            business_rules_engine_output = (
+                pd.merge(
+                    business_rules_engine_output,
+                    feature_data,
+                    on='Preschool_Name', how='left', indicator=True
+                ).drop(columns=['_merge']))
 
-        # Save output files
-        business_rules_engine_output_raw.to_csv(path_or_buf=input_file_with_date, index=False)
-        business_rules_engine_output.to_csv(path_or_buf=output_file, index=False)
-        business_rules_engine_output.to_csv(path_or_buf=output_file_with_date, index=False)
-        business_rules_engine_output.drop(columns='Primary_key').to_csv(path_or_buf=frontEnd_rulealgo_output,
-                                                                        index=False)
+            # Save output files
+            business_rules_engine_output_raw.to_csv(path_or_buf=input_file_with_date, index=False)
+            business_rules_engine_output.to_csv(path_or_buf=output_file, index=False)
+            business_rules_engine_output.to_csv(path_or_buf=output_file_with_date, index=False)
+            business_rules_engine_output.drop(columns='Primary_key').to_csv(path_or_buf=frontEnd_rulealgo_output,
+                                                                            index=False)
+        except Exception as e:
+            print(f"{e}")
 
         # Add into results history
         try:
