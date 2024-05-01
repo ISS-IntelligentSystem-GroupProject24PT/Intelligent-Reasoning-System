@@ -34,7 +34,7 @@ class WINDOWS(customtkinter.CTk):
 
     # Define DEFAULTS
     APP_NAME = "SG-Preschool Recommender"
-    MIN_WIDTH = 1100
+    MIN_WIDTH = 1050
     MIN_HEIGHT = 750
     HEAD1_FONT = None
     HEAD2_FONT = None
@@ -294,7 +294,7 @@ class QuestionsPage(customtkinter.CTkFrame):
 
         # ============ create 3 CTkFrames for QuestionPage() ============
 
-        self.frame_head = customtkinter.CTkFrame(master=self, corner_radius=1, width=1149, height=246)
+        self.frame_head = customtkinter.CTkFrame(master=self, corner_radius=1, fg_color="#B1F1FF",)
         self.frame_head.pack(fill='x', padx=0, pady=0)
 
         self.frame_left = customtkinter.CTkFrame(master=self, corner_radius=0, fg_color=None)
