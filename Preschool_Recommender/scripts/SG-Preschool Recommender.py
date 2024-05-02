@@ -273,9 +273,9 @@ class QuestionsPage(customtkinter.CTkFrame):
         customtkinter.CTkFrame.__init__(self, parent, width=1000, fg_color="light yellow",)
 
         WINDOWS.MAP_LOCATION = tkinter.StringVar()
-        # adr = tkintermapview.convert_coordinates_to_address(1.4173, 103.8330)
-        # question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
-        # WINDOWS.MAP_LOCATION.set(question_location)
+        adr = tkintermapview.convert_coordinates_to_address(1.4173, 103.8330)
+        question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
+        WINDOWS.MAP_LOCATION.set(question_location)
 
         # Header Text
         qnsHeadText = "Find your child's ideal Preschool"
