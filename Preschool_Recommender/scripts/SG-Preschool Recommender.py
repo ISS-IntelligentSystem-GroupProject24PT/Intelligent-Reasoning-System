@@ -8,6 +8,7 @@ import webbrowser
 
 # Import tkinter extension modules
 import tkintermapview
+# import checklistcombobox
 from ChecklistCombobox import checklistcombobox
 from tkcalendar import DateEntry
 import datetime
@@ -120,10 +121,10 @@ class WINDOWS(customtkinter.CTk):
         # Define individual screen dimensions
         screenWidth = self.winfo_screenwidth()
         screenHeight = self.winfo_screenheight()
-        if (screenWidth*0.7 > WINDOWS.MIN_WIDTH):
-            WINDOWS.MIN_WIDTH = int(screenWidth*0.65)
-        if (screenHeight*0.8 > WINDOWS.MIN_HEIGHT):
-            WINDOWS.MIN_HEIGHT = int(screenHeight*0.8)
+        if (screenWidth*0.8 > WINDOWS.MIN_WIDTH):
+            WINDOWS.MIN_WIDTH = int(screenWidth*0.8)
+        if (screenHeight*0.9 > WINDOWS.MIN_HEIGHT):
+            WINDOWS.MIN_HEIGHT = int(screenHeight)
 
         # Find screen center point
         center_x = int(screenWidth/2 - WINDOWS.MIN_WIDTH / 2)
@@ -133,9 +134,12 @@ class WINDOWS(customtkinter.CTk):
         self.title(WINDOWS.APP_NAME)
         self.geometry(f'{WINDOWS.MIN_WIDTH}x{WINDOWS.MIN_HEIGHT}+{center_x}+{center_y}')
 
+        #Change listbox size
+        self.option_add("*Listbox*Font", "Helvetica 16")
+
         # Create a frame and assign to 'container' in WINDOWS(root)
         container = customtkinter.CTkFrame(self, height=WINDOWS.MIN_HEIGHT, width=WINDOWS.MIN_WIDTH)
-        container.pack(side="top", fill="both", expand=True)
+        container.pack(side="top", fill="both", expand=True, padx=50)
         # Configure the location of the container using grid
         container.grid_rowconfigure(0, weight=1)
         container.grid_columnconfigure(0, weight=1)
@@ -266,41 +270,40 @@ class WINDOWS(customtkinter.CTk):
 
 class QuestionsPage(customtkinter.CTkFrame):
     def __init__(self, parent, controller):
-        customtkinter.CTkFrame.__init__(self, parent, width=1000)
+        customtkinter.CTkFrame.__init__(self, parent, width=1000, fg_color="light yellow",)
 
         WINDOWS.MAP_LOCATION = tkinter.StringVar()
-        adr = tkintermapview.convert_coordinates_to_address(1.290270, 103.851959)
-        question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
-        WINDOWS.MAP_LOCATION.set(question_location)
+        # adr = tkintermapview.convert_coordinates_to_address(1.4173, 103.8330)
+        # question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
+        # WINDOWS.MAP_LOCATION.set(question_location)
 
         # Header Text
         qnsHeadText = "Find your child's ideal Preschool"
         qnsHeadText2 = "Answer the questionaire based on your preschool criterias."
         
         # Questionaire
-        qnsQn1a = "Question 1: Indicate your preferred Preschool location."
-        qnsQn1b = "Question 2: Select a preferred distance range from the indicated location?"
-        qnsQn2a = "Question 3: What is your citizenship status?"
-        qnsQn2b = "Question 4: What is your available budget? ($)"
-        qnsQn2c = "Question 5: How old is your child?"
+        qnsQn1a = "Question 1: Indicate your preferred Preschool location.*"
+        qnsQn1b = "Question 2: Select a preferred distance range from the indicated location?*"
+        qnsQn2a = "Question 3: What is your citizenship status?*"
+        qnsQn2b = "Question 4: What is your available budget? (SGD $)*"
+        qnsQn2c = "Question 5: What is your child's date of birth?*"
         qnsQn3 = "Question 6: Select the programmes you are interested to enroll your child in."
         qnsQn4 = "Question 7: Select the Pre-school Curriculum style you prefer."
-        qnsQn5 = "Question 8: Select the days you would like to send your child to a Pre-school."
+        qnsQn5 = "Question 8: Select the days you would like to send your child to a Pre-school.*"
         qnsQn6a = "Select your preferred drop-off timings. (Monday to Friday)"
         qnsQn6b = "Select your preferred drop-off timings. (Saturday & Sunday)"
         qnsQn7a = "Select your preferred pick-up timings."
         qnsQn7b = "Select your preferred pick-up timings."
-        qnsQn8 = "Question 11: Overall rating of Pre-school"
 
         # ============ create 3 CTkFrames for QuestionPage() ============
 
-        self.frame_head = customtkinter.CTkFrame(master=self, corner_radius=1, fg_color="#B1F1FF",)
+        self.frame_head = customtkinter.CTkFrame(master=self, corner_radius=1, fg_color="#393e41")
         self.frame_head.pack(fill='x', padx=0, pady=0)
 
-        self.frame_left = customtkinter.CTkFrame(master=self, corner_radius=0, fg_color=None)
+        self.frame_left = customtkinter.CTkFrame(master=self, corner_radius=0, fg_color="light yellow")
         self.frame_left.pack(side='left', padx=10, pady=25)
 
-        self.frame_right = customtkinter.CTkFrame(master=self, corner_radius=0, fg_color="transparent")
+        self.frame_right = customtkinter.CTkFrame(master=self, corner_radius=0, fg_color="light yellow")
         self.frame_right.pack(side='left', padx=0, pady=25)
 
         # ============ frame_head ============
@@ -322,67 +325,94 @@ class QuestionsPage(customtkinter.CTkFrame):
 
     # Question Frame containers
       # Question 1a: Location
-        qns1Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
-        qns1Frame.pack(fill='x')
+        qns1Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0, fg_color="light yellow")
+        qns1Frame.pack(fill='x', anchor='w')
 
-        qns1Label = customtkinter.CTkLabel(qns1Frame, text=qnsQn1a, font=WINDOWS.CUSTOM_BOLDFONT)
-        qns1Label2 = customtkinter.CTkLabel(qns1Frame, textvariable=WINDOWS.MAP_LOCATION)
+        qns1Label = customtkinter.CTkLabel(qns1Frame, text=qnsQn1a, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
+        qns1Label2 = customtkinter.CTkLabel(qns1Frame, textvariable=WINDOWS.MAP_LOCATION, text_color="black")
         qns1Button = customtkinter.CTkButton(qns1Frame,
                                     text="Open Maps View",
-                                    command=lambda: MapWindow(controller))
-        qns1Label.pack()
-        qns1Label2.pack()
-        qns1Button.pack()
+                                    command=lambda: MapWindow(controller), height=40, width=770,fg_color="#393e41")
+        qns1Label.pack(anchor='w')
+        qns1Label2.pack(anchor='w')
+        qns1Button.pack(anchor='w')
 
       # Question 1b: Distance range
-        qn1bChoices1 = ('1KM', '5KM', '10KM', '15KM')
+        qn1bChoices1 = ('1KM', '2KM', '3KM', '4KM', '5KM', '10KM', '15KM', '20KM', '25KM')
 
-        qn1bFrame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
-        qn1bFrame.pack(fill='x')
-        qn1bLabel  = customtkinter.CTkLabel(qn1bFrame, text=qnsQn1b, font=WINDOWS.CUSTOM_BOLDFONT)
-        qn1bLabel.pack()
-        distRangeAns = customtkinter.CTkComboBox(qn1bFrame, values=qn1bChoices1)
-        distRangeAns.pack()
+        qn1bFrame = customtkinter.CTkFrame(self.frame_left, corner_radius=0, fg_color="light yellow")
+        qn1bFrame.pack(fill='x', anchor='w')
+        qn1bLabel  = customtkinter.CTkLabel(qn1bFrame, text=qnsQn1b, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
+        qn1bLabel.pack(anchor='w')
+        distRangeAns = customtkinter.CTkComboBox(qn1bFrame, values=qn1bChoices1, height=40, width=770,
+                                                 font=(WINDOWS.CUSTOM_BOLDFONT, 16),
+                                                 dropdown_font=(WINDOWS.CUSTOM_BOLDFONT, 16),
+                                                 fg_color="white",
+                                                 text_color="black"
+                                                 )
+        distRangeAns.pack(anchor='w')
 
       # Question 2a: Citizenship
         qn2aChoices = ('Singaporean', 'Permanent Resident')
-        qn2aFrame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
-        qn2aFrame.pack(fill='x')
+        qn2aFrame = customtkinter.CTkFrame(self.frame_left, corner_radius=0, fg_color="light yellow")
+        qn2aFrame.pack(fill='x', anchor='w')
 
-        qn2aLabel = customtkinter.CTkLabel(qn2aFrame, text=qnsQn2a, font=WINDOWS.CUSTOM_BOLDFONT)
-        citizenStaAns = customtkinter.CTkComboBox(qn2aFrame, values=qn2aChoices) 
+        qn2aLabel = customtkinter.CTkLabel(qn2aFrame, text=qnsQn2a, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
+        citizenStaAns = customtkinter.CTkComboBox(qn2aFrame, values=qn2aChoices,
+                                                  height=40, width=770,
+                                                  font=(WINDOWS.CUSTOM_BOLDFONT, 16),
+                                                  dropdown_font=(WINDOWS.CUSTOM_BOLDFONT, 16),
+                                                  fg_color="white",
+                                                  text_color="black"
+                                                  )
 
-        qn2aLabel.pack()
-        citizenStaAns.pack()
+        qn2aLabel.pack(anchor='w')
+        citizenStaAns.pack(anchor='w')
 
       # Question 2b: Budget
-        qns2bFrame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
-        qns2bFrame.pack(fill='x')
+        qns2bFrame = customtkinter.CTkFrame(self.frame_left, corner_radius=0, fg_color="light yellow")
+        qns2bFrame.pack(fill='x', anchor='w')
 
-        qns2bLabel = customtkinter.CTkLabel(qns2bFrame, text=qnsQn2b, font=WINDOWS.CUSTOM_BOLDFONT)
-        budgetAns = customtkinter.CTkEntry(qns2bFrame, height = 1, width = 120, placeholder_text="e.g. 1000")
-        # TODO: add numbers constraint
-
-        qns2bLabel.pack()
-        budgetAns.pack()
+        qns2bLabel = customtkinter.CTkLabel(qns2bFrame, text=qnsQn2b,
+                                            font=WINDOWS.CUSTOM_BOLDFONT,
+                                            text_color="black"
+                                            )
+        def only_numbers(char):
+            return char.isdigit()
+        validation = self.register(only_numbers)
+        budgetAns = customtkinter.CTkEntry(
+            qns2bFrame,
+            height=40,
+            width=770,
+            placeholder_text="e.g. 1000",
+            font=(WINDOWS.CUSTOM_BOLDFONT, 16),
+            validate="key",
+            validatecommand=(validation, '%S'),
+            fg_color="white",
+            text_color="black"
+        )
+        qns2bLabel.pack(anchor='w')
+        budgetAns.pack(anchor='w')
 
       # Question 2c: Child Age
         curDatetime = datetime.datetime.now() # get current datetime
         eigthteen_month_earlier = curDatetime + relativedelta.relativedelta(months=-18)
-        qns2cFrame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
-        qns2cFrame.pack(fill='x')
+        qns2cFrame = customtkinter.CTkFrame(self.frame_left, corner_radius=0, fg_color="light yellow")
+        qns2cFrame.pack(fill='x', anchor='w')
 
-        qn2cLabel = customtkinter.CTkLabel(qns2cFrame, text=qnsQn2c, font=WINDOWS.CUSTOM_BOLDFONT)
+        qn2cLabel = customtkinter.CTkLabel(qns2cFrame, text=qnsQn2c, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
         calAgeAns = DateEntry(
-            qns2cFrame, 
-            width=24, 
+            qns2cFrame,
+            width=71,
             font=WINDOWS.CUSTOM_FONT,
             year=eigthteen_month_earlier.year, month=eigthteen_month_earlier.month, day=eigthteen_month_earlier.day, 
             background='darkblue', 
-            foreground='white', 
-            orderwidth=2)
-        qn2cLabel.pack()
-        calAgeAns.pack(padx=10, pady=10)
+            foreground='light yellow', 
+            orderwidth=2,
+            bg_color="#393e41"
+        )
+        qn2cLabel.pack(anchor='w')
+        calAgeAns.pack(anchor='w')
 
       # Question 3: School Programmes
         qn3Choices = ('Aesthetics & Creative Expression', 
@@ -404,18 +434,19 @@ class QuestionsPage(customtkinter.CTkFrame):
                       'Social & Emotional Development',
                       'Speech and Drama',
                       'Sports')
-        qn3Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
-        qn3Frame.pack(fill='x')
+        qn3Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0, fg_color="light yellow")
+        qn3Frame.pack(fill='x', anchor='w')
 
-        qn3Label = customtkinter.CTkLabel(qn3Frame, text=qnsQn3, font=WINDOWS.CUSTOM_BOLDFONT)
+        qn3Label = customtkinter.CTkLabel(qn3Frame, text=qnsQn3, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
         progAns = checklistcombobox.ChecklistCombobox(
-            qn3Frame, 
-            width=60,
+            qn3Frame,
+            width=71,
             font=WINDOWS.CUSTOM_FONT,
-            values=qn3Choices)
+            values=qn3Choices,
+        )
 
-        qn3Label.pack()
-        progAns.pack()
+        qn3Label.pack(anchor='w')
+        progAns.pack(anchor='w')
 
       # Question 4: Curriculum
         qn4Choices = ('Active Learning Curriculum', 
@@ -436,72 +467,86 @@ class QuestionsPage(customtkinter.CTkFrame):
                       'SPARK certified Curriculum',
                       'Thematic',
                       'ISteam')
-        qn4Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
-        qn4Frame.pack(fill='x')
+        qn4Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0, fg_color="light yellow")
+        qn4Frame.pack(fill='x', anchor='w')
 
-        qn4Label = customtkinter.CTkLabel(qn4Frame, text=qnsQn4, font=WINDOWS.CUSTOM_BOLDFONT)
+        qn4Label = customtkinter.CTkLabel(qn4Frame, text=qnsQn4, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
         currAns = checklistcombobox.ChecklistCombobox(
-            qn4Frame, 
-            width=60,
-            font=WINDOWS.CUSTOM_FONT, 
-            values=qn4Choices)
+            qn4Frame,
+            width=71,
+            font=WINDOWS.CUSTOM_FONT,
+            values=qn4Choices,
+        )
 
-        qn4Label.pack()
-        currAns.pack()
+        qn4Label.pack(anchor='w')
+        currAns.pack(anchor='w')
 
       # Question 5: Days to send child (Mon to Sun)
         qn5Choices = ('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday')
-        qn5Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
-        qn5Frame.pack(fill='x')
+        qn5Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0, fg_color="light yellow")
+        qn5Frame.pack(fill='x', anchor='w')
 
-        qn5Label = customtkinter.CTkLabel(qn5Frame, text=qnsQn5, font=WINDOWS.CUSTOM_BOLDFONT)
+        qn5Label = customtkinter.CTkLabel(qn5Frame, text=qnsQn5, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
         daysSentAns = checklistcombobox.ChecklistCombobox(
-            qn5Frame, 
-            width=48,
+            qn5Frame,
+            width=71,
             font=WINDOWS.CUSTOM_FONT, 
-            values=qn5Choices)
+            values=qn5Choices,
+        )
         daysSentAns.bind("<<ComboboxSelected>>", lambda e: QuestionsPage.refreshQuestion(daysSentAns, dropoffWkEnd, pickupWkEnd))
 
-        qn5Label.pack()
-        daysSentAns.pack()
+        qn5Label.pack(anchor='w')
+        daysSentAns.pack(anchor='w')
 
       # Question 9 Left & Right: Pick Up and Drop off timing
-        qn9Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0)
-        qn9Frame.pack(fill="x")
-        qn6QnLabel = customtkinter.CTkLabel(qn9Frame, text="Question 9:", font=WINDOWS.CUSTOM_BOLDFONT)
-        qn6QnLabel.pack()
+        qn9Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0, fg_color="light yellow")
+        qn9Frame.pack(fill="x", anchor='w')
+        qn6QnLabel = customtkinter.CTkLabel(qn9Frame, text="Question 9:", font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
+        qn6QnLabel.pack(anchor='w')
 
         qn6Choices1 = ('7AM', '8AM', '9AM', '10AM', '11AM', '12PM')
         qn6Choices2 = ('7AM', '8AM', '9AM', '10AM')
 
-        qn6FrameLeft = customtkinter.CTkFrame(qn9Frame, corner_radius=0, fg_color="transparent")
-        qn6FrameLeft.pack(side="left")
-        qn7FrameRight = customtkinter.CTkFrame(qn9Frame, corner_radius=0, fg_color="transparent")
-        qn7FrameRight.pack(side="left")
+        qn6FrameLeft = customtkinter.CTkFrame(qn9Frame, corner_radius=0, fg_color="light yellow")
+        qn6FrameLeft.pack(side="left", anchor='w')
+        qn7FrameRight = customtkinter.CTkFrame(qn9Frame, corner_radius=0, fg_color="light yellow")
+        qn7FrameRight.pack(side="left", anchor='w')
         
-        qn6LabelA  = customtkinter.CTkLabel(qn6FrameLeft, text=qnsQn6a, font=WINDOWS.CUSTOM_BOLDFONT)
-        qn6LabelB  = customtkinter.CTkLabel(qn7FrameRight, text=qnsQn6b, font=WINDOWS.CUSTOM_BOLDFONT)
+        qn6LabelA  = customtkinter.CTkLabel(qn6FrameLeft, text=qnsQn6a, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
+        qn6LabelB  = customtkinter.CTkLabel(qn7FrameRight, text=qnsQn6b, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
         
-        qn6LabelA.pack(padx=15, pady=0)
-        qn6LabelB.pack(padx=15, pady=0)
+        qn6LabelA.pack(padx=(0, 30), pady=0, anchor='w')
+        qn6LabelB.pack(padx=(0, 30),pady=0, anchor='w')
 
-        dropoffReg = customtkinter.CTkComboBox(qn6FrameLeft, values=qn6Choices1)
-        dropoffWkEnd = customtkinter.CTkComboBox(qn7FrameRight, values=qn6Choices2)
-        dropoffReg.pack()
-        dropoffWkEnd.pack()
+        dropoffReg = customtkinter.CTkComboBox(qn6FrameLeft, values=qn6Choices1, height=40, width=325,
+                                               fg_color="white",
+                                               text_color="black"
+                                               )
+        dropoffWkEnd = customtkinter.CTkComboBox(qn7FrameRight, values=qn6Choices2, height=40, width=325,
+                                                 fg_color="white",
+                                                 text_color="black"
+                                                 )
+        dropoffReg.pack(anchor='w')
+        dropoffWkEnd.pack(anchor='w')
 
         qn7Choices1 = ('3PM', '4PM', '5PM', '6PM', '7PM')
         qn7Choices2 = ('12PM', '1PM', '2PM')
 
-        qn7LabelA  = customtkinter.CTkLabel(qn6FrameLeft, text=qnsQn7a, font=WINDOWS.CUSTOM_BOLDFONT)
-        qn7LabelB  = customtkinter.CTkLabel(qn7FrameRight, text=qnsQn7b, font=WINDOWS.CUSTOM_BOLDFONT)
-        qn7LabelA.pack(padx=15, pady=0)
-        qn7LabelB.pack(padx=15, pady=0)
+        qn7LabelA  = customtkinter.CTkLabel(qn6FrameLeft, text=qnsQn7a, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
+        qn7LabelB  = customtkinter.CTkLabel(qn7FrameRight, text=qnsQn7b, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
+        qn7LabelA.pack(pady=0, anchor='w')
+        qn7LabelB.pack(pady=0, anchor='w')
 
-        pickupReg = customtkinter.CTkComboBox(qn6FrameLeft, values=qn7Choices1)
-        pickupWkEnd = customtkinter.CTkComboBox(qn7FrameRight, values=qn7Choices2)
-        pickupReg.pack()
-        pickupWkEnd.pack()
+        pickupReg = customtkinter.CTkComboBox(qn6FrameLeft, values=qn7Choices1, height=40, width=325,
+                                              fg_color="white",
+                                              text_color="black"
+                                              )
+        pickupWkEnd = customtkinter.CTkComboBox(qn7FrameRight, values=qn7Choices2, height=40, width=325,
+                                                fg_color="white",
+                                                text_color="black"
+                                                )
+        pickupReg.pack(anchor='w')
+        pickupWkEnd.pack(anchor='w')
 
         dropoffWkEnd.configure(state='disable')
         pickupWkEnd.configure(state='disable')
@@ -515,15 +560,18 @@ class QuestionsPage(customtkinter.CTkFrame):
                 citizenStaAns, budgetAns, calAgeAns, 
                 progAns, currAns,
                 daysSentAns, dropoffReg, dropoffWkEnd, pickupReg, pickupWkEnd
-                )
+                ), height=40, width=150, fg_color='#e94f37',
+            font=WINDOWS.CUSTOM_BOLDFONT
         )
         quit_button = customtkinter.CTkButton(
             self.frame_right,
             text="Quit",
             command=lambda: controller.on_closing(),
+            height=40, width=150, fg_color="#393e41",
+            font=WINDOWS.CUSTOM_BOLDFONT
         )
-        switch_window.pack(padx=5, pady=5)
-        quit_button.pack(padx=5, pady=5)
+        switch_window.pack(padx=5, pady=5, anchor='w')
+        quit_button.pack(padx=5, pady=5, anchor='w')
 
     def refreshQuestion(qn6Ans, dropoffWkEnd, pickupWkEnd):
         selected = qn6Ans.selection_get()
@@ -936,6 +984,7 @@ class Resultspage(customtkinter.CTkFrame):
             result_Quit_Frame,
             text="Quit",
             command=lambda: controller.on_closing(),
+            bg_color="#393e41"
         )
         restart_window.pack(pady=10)
         quit_button.pack(pady=10)
