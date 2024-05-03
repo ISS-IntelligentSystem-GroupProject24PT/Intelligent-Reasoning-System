@@ -883,9 +883,13 @@ class MapWindow(tkinter.Toplevel):
                 coords[0], coords[1],
                 text=coordsText
             ))
-            adr = tkintermapview.convert_coordinates_to_address(coords[0], coords[1])
-            question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
-            WINDOWS.MAP_LOCATION.set(question_location)
+
+            try:
+                adr = tkintermapview.convert_coordinates_to_address(coords[0], coords[1])
+                question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
+                WINDOWS.MAP_LOCATION.set(question_location)
+            except:
+                print("API call error. Current address is updated in the database. Please proceed with the Questionaire.")
 
         # self.map_widget.add_right_click_menu_command(
         #     label="Pick Location",
