@@ -17,6 +17,7 @@ from dateutil import relativedelta
 # Used for styling the GUI
 import tkinter.font
 
+
 class WINDOWS(customtkinter.CTk):
     # File name
     USER_OUTPUT_FILE = 'FrontEnd_UserInput.csv'
@@ -42,70 +43,70 @@ class WINDOWS(customtkinter.CTk):
     CUSTOM_FONT = None
     CUSTOM_BOLDFONT = None
     dataframe = pandas.DataFrame(columns=[
-            'Primary_key',
-            'Latitude_Longitude', # Location
-            'Distance_Constraint', # Location Distance Constraint
-            'Infant_Care_Singaporean',  # Citizenship Status & Age
-            'Playgroup_Singaporean', 
-            'Nursery_Singaporean', 
-            'Kindergarten_Singaporean',
-            'Infant_Care_PR',
-            'Playgroup_PR', 
-            'Nursery_PR',
-            'Kindergarten_PR', 
-            'Education_Level', # Education Level
-            'Aesthetics_Creative_Expression', # Programmes
-            'Chinese', 
-            'Digital_Skills', 
-            'Discovery_of_the_World',
-            'English', 
-            'Language_and_Literacy', 
-            'Math', 
-            'Moral_Education', 
-            'Motor_Skill_Development', 
-            'Music', 
-            'Nature',
-            'Numeracy',
-            'Problem-solving_Skills',
-            'Project Work',
-            'Science',
-            'Sensory Play',
-            'Social & Emotional Development', 
-            'Speech and Drama',
-            'Sports',
-            'Active Learning Curriculum', #Curriculum
-            'Bilingual Curriculum', 
-            'Child Directed',
-            'Chinese Curriculum',
-            'Early Years Development Framework',
-            'English Curriculum', 
-            'IB PYP',
-            'Inquiry Based',
-            'Integrated Curriculum',
-            'Montessori',
-            'MOE',
-            'Nurturning Early Learners Curriculum',
-            'Play-based Curriculum',
-            'Project-based Curriculum',
-            'Reggio Emilia approach', 
-            'SPARK certified Curriculum',
-            'Thematic',
-            'ISteam',
-            'user_monday_drop_off', # Drop off & Pick up Timings
-            'user_monday_pick_up',
-            'user_tuesday_drop_off',
-            'user_tuesday_pick_up',
-            'user_wednesday_drop_off',
-            'user_wednesday_pick_up',
-            'user_thursday_drop_off',
-            'user_thursday_pick_up',
-            'user_friday_drop_off',
-            'user_friday_pick_up',
-            'user_saturday_drop_off',
-            'user_saturday_pick_up',
-            'user_sunday_drop_off',
-            'user_sunday_pick_up'])
-    
+        'Primary_key',
+        'Latitude_Longitude',  # Location
+        'Distance_Constraint',  # Location Distance Constraint
+        'Infant_Care_Singaporean',  # Citizenship Status & Age
+        'Playgroup_Singaporean',
+        'Nursery_Singaporean',
+        'Kindergarten_Singaporean',
+        'Infant_Care_PR',
+        'Playgroup_PR',
+        'Nursery_PR',
+        'Kindergarten_PR',
+        'Education_Level',  # Education Level
+        'Aesthetics_Creative_Expression',  # Programmes
+        'Chinese',
+        'Digital_Skills',
+        'Discovery_of_the_World',
+        'English',
+        'Language_and_Literacy',
+        'Math',
+        'Moral_Education',
+        'Motor_Skill_Development',
+        'Music',
+        'Nature',
+        'Numeracy',
+        'Problem-solving_Skills',
+        'Project Work',
+        'Science',
+        'Sensory Play',
+        'Social & Emotional Development',
+        'Speech and Drama',
+        'Sports',
+        'Active Learning Curriculum',  # Curriculum
+        'Bilingual Curriculum',
+        'Child Directed',
+        'Chinese Curriculum',
+        'Early Years Development Framework',
+        'English Curriculum',
+        'IB PYP',
+        'Inquiry Based',
+        'Integrated Curriculum',
+        'Montessori',
+        'MOE',
+        'Nurturning Early Learners Curriculum',
+        'Play-based Curriculum',
+        'Project-based Curriculum',
+        'Reggio Emilia approach',
+        'SPARK certified Curriculum',
+        'Thematic',
+        'ISteam',
+        'user_monday_drop_off',  # Drop off & Pick up Timings
+        'user_monday_pick_up',
+        'user_tuesday_drop_off',
+        'user_tuesday_pick_up',
+        'user_wednesday_drop_off',
+        'user_wednesday_pick_up',
+        'user_thursday_drop_off',
+        'user_thursday_pick_up',
+        'user_friday_drop_off',
+        'user_friday_pick_up',
+        'user_saturday_drop_off',
+        'user_saturday_pick_up',
+        'user_sunday_drop_off',
+        'user_sunday_pick_up'])
+
     MARKER_LIST = []
     MAP_LOCATION = None
     BRAND_LIST = []
@@ -121,20 +122,20 @@ class WINDOWS(customtkinter.CTk):
         # Define individual screen dimensions
         screenWidth = self.winfo_screenwidth()
         screenHeight = self.winfo_screenheight()
-        if (screenWidth*0.8 > WINDOWS.MIN_WIDTH):
-            WINDOWS.MIN_WIDTH = int(screenWidth*0.8)
-        if (screenHeight*0.9 > WINDOWS.MIN_HEIGHT):
+        if (screenWidth * 0.8 > WINDOWS.MIN_WIDTH):
+            WINDOWS.MIN_WIDTH = int(screenWidth * 0.8)
+        if (screenHeight * 0.9 > WINDOWS.MIN_HEIGHT):
             WINDOWS.MIN_HEIGHT = int(screenHeight)
 
         # Find screen center point
-        center_x = int(screenWidth/2 - WINDOWS.MIN_WIDTH / 2)
-        center_y = int(screenHeight/2 - WINDOWS.MIN_HEIGHT / 2)
+        center_x = int(screenWidth / 2 - WINDOWS.MIN_WIDTH / 2)
+        center_y = int(screenHeight / 2 - WINDOWS.MIN_HEIGHT / 2)
 
         # Main root window
         self.title(WINDOWS.APP_NAME)
         self.geometry(f'{WINDOWS.MIN_WIDTH}x{WINDOWS.MIN_HEIGHT}+{center_x}+{center_y}')
 
-        #Change listbox size
+        # Change listbox size
         self.option_add("*Listbox*Font", "Helvetica 16")
 
         # Create a frame and assign to 'container' in WINDOWS(root)
@@ -159,7 +160,7 @@ class WINDOWS(customtkinter.CTk):
 
     def show_frame(self, cont):
         frame = self.frames[cont]
-        frame.tkraise() # Raise the current frame to the top
+        frame.tkraise()  # Raise the current frame to the top
 
     def show_question_frame(self, cont):
         frame = self.frames[cont]
@@ -177,7 +178,7 @@ class WINDOWS(customtkinter.CTk):
                 Resultspage.tab_view.delete(brand)
 
         WINDOWS.BRAND_LIST.clear()
-        frame.tkraise() # Raise the current frame to the top
+        frame.tkraise()  # Raise the current frame to the top
 
     def show_result_frame(self, cont):
         frame = self.frames[cont]
@@ -193,7 +194,7 @@ class WINDOWS(customtkinter.CTk):
         address_list = result_df['Address'].tolist()
         weblink_list = result_df['Preschool_Website'].tolist()
         location_list = result_df['Latitude_Longitude'].tolist()
-        
+
         for top3 in range(3):
             try:
                 preschool_name = str(preschool_names_list[top3])
@@ -222,7 +223,7 @@ class WINDOWS(customtkinter.CTk):
                         # Create Label.grids in all tabs
                         if (i == 1 and j == 2):
                             tab_button = customtkinter.CTkButton(
-                                tab_Frame, 
+                                tab_Frame,
                                 command=lambda: Resultspage.openlink())
                             tab_button._text_label.configure(wraplength=300, justify='left')
                             tab_button.grid(row=i, column=j, padx=15, pady=10)
@@ -252,15 +253,15 @@ class WINDOWS(customtkinter.CTk):
                                     tab_button.configure(state='normal')
 
                 tab_map = tkintermapview.TkinterMapView(
-                    Resultspage.tab_view.tab(preschool_brand), 
+                    Resultspage.tab_view.tab(preschool_brand),
                     width=1100, height=500,
                     corner_radius=0)
                 tab_map.pack()
-        
+
                 tab_map.set_address(location, marker=True)
                 tab_map.set_zoom(13)
 
-        frame.tkraise() # Raise the current frame to the top  
+        frame.tkraise()  # Raise the current frame to the top
 
     def on_closing(self, event=0):
         self.destroy()
@@ -268,19 +269,20 @@ class WINDOWS(customtkinter.CTk):
     def start(self):
         self.mainloop()
 
+
 class QuestionsPage(customtkinter.CTkFrame):
     def __init__(self, parent, controller):
-        customtkinter.CTkFrame.__init__(self, parent, width=1000, fg_color="light yellow",)
+        customtkinter.CTkFrame.__init__(self, parent, width=1000, fg_color="light yellow", )
 
         WINDOWS.MAP_LOCATION = tkinter.StringVar()
-        adr = tkintermapview.convert_coordinates_to_address(1.4173, 103.8330)
+        adr = tkintermapview.convert_coordinates_to_address(1.417300, 103.833000)
         question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
         WINDOWS.MAP_LOCATION.set(question_location)
 
         # Header Text
         qnsHeadText = "Find your child's ideal Preschool"
         qnsHeadText2 = "Answer the questionaire based on your preschool criterias."
-        
+
         # Questionaire
         qnsQn1a = "Question 1: Indicate your preferred Preschool location.*"
         qnsQn1b = "Question 2: Select a preferred distance range from the indicated location?*"
@@ -309,10 +311,10 @@ class QuestionsPage(customtkinter.CTkFrame):
         # ============ frame_head ============
 
         qns_Head1_Label = customtkinter.CTkLabel(
-            self.frame_head, 
+            self.frame_head,
             text=qnsHeadText,
             font=WINDOWS.HEAD1_FONT
-            )
+        )
         qns_Head2_Label = customtkinter.CTkLabel(
             self.frame_head,
             text=qnsHeadText2,
@@ -323,26 +325,27 @@ class QuestionsPage(customtkinter.CTkFrame):
 
         # ============ frame_left ============
 
-    # Question Frame containers
-      # Question 1a: Location
+        # Question Frame containers
+        # Question 1a: Location
         qns1Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0, fg_color="light yellow")
         qns1Frame.pack(fill='x', anchor='w')
 
         qns1Label = customtkinter.CTkLabel(qns1Frame, text=qnsQn1a, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
         qns1Label2 = customtkinter.CTkLabel(qns1Frame, textvariable=WINDOWS.MAP_LOCATION, text_color="black")
         qns1Button = customtkinter.CTkButton(qns1Frame,
-                                    text="Open Maps View",
-                                    command=lambda: MapWindow(controller), height=40, width=770,fg_color="#393e41")
+                                             text="Open Maps View",
+                                             command=lambda: MapWindow(controller), height=40, width=770,
+                                             fg_color="#393e41")
         qns1Label.pack(anchor='w')
         qns1Label2.pack(anchor='w')
         qns1Button.pack(anchor='w')
 
-      # Question 1b: Distance range
+        # Question 1b: Distance range
         qn1bChoices1 = ('1KM', '2KM', '3KM', '4KM', '5KM', '10KM', '15KM', '20KM', '25KM')
 
         qn1bFrame = customtkinter.CTkFrame(self.frame_left, corner_radius=0, fg_color="light yellow")
         qn1bFrame.pack(fill='x', anchor='w')
-        qn1bLabel  = customtkinter.CTkLabel(qn1bFrame, text=qnsQn1b, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
+        qn1bLabel = customtkinter.CTkLabel(qn1bFrame, text=qnsQn1b, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
         qn1bLabel.pack(anchor='w')
         distRangeAns = customtkinter.CTkComboBox(qn1bFrame, values=qn1bChoices1, height=40, width=770,
                                                  font=(WINDOWS.CUSTOM_BOLDFONT, 16),
@@ -352,7 +355,7 @@ class QuestionsPage(customtkinter.CTkFrame):
                                                  )
         distRangeAns.pack(anchor='w')
 
-      # Question 2a: Citizenship
+        # Question 2a: Citizenship
         qn2aChoices = ('Singaporean', 'Permanent Resident')
         qn2aFrame = customtkinter.CTkFrame(self.frame_left, corner_radius=0, fg_color="light yellow")
         qn2aFrame.pack(fill='x', anchor='w')
@@ -369,7 +372,7 @@ class QuestionsPage(customtkinter.CTkFrame):
         qn2aLabel.pack(anchor='w')
         citizenStaAns.pack(anchor='w')
 
-      # Question 2b: Budget
+        # Question 2b: Budget
         qns2bFrame = customtkinter.CTkFrame(self.frame_left, corner_radius=0, fg_color="light yellow")
         qns2bFrame.pack(fill='x', anchor='w')
 
@@ -377,8 +380,10 @@ class QuestionsPage(customtkinter.CTkFrame):
                                             font=WINDOWS.CUSTOM_BOLDFONT,
                                             text_color="black"
                                             )
+
         def only_numbers(char):
             return char.isdigit()
+
         validation = self.register(only_numbers)
         budgetAns = customtkinter.CTkEntry(
             qns2bFrame,
@@ -394,8 +399,8 @@ class QuestionsPage(customtkinter.CTkFrame):
         qns2bLabel.pack(anchor='w')
         budgetAns.pack(anchor='w')
 
-      # Question 2c: Child Age
-        curDatetime = datetime.datetime.now() # get current datetime
+        # Question 2c: Child Age
+        curDatetime = datetime.datetime.now()  # get current datetime
         eigthteen_month_earlier = curDatetime + relativedelta.relativedelta(months=-18)
         qns2cFrame = customtkinter.CTkFrame(self.frame_left, corner_radius=0, fg_color="light yellow")
         qns2cFrame.pack(fill='x', anchor='w')
@@ -405,26 +410,26 @@ class QuestionsPage(customtkinter.CTkFrame):
             qns2cFrame,
             width=71,
             font=WINDOWS.CUSTOM_FONT,
-            year=eigthteen_month_earlier.year, month=eigthteen_month_earlier.month, day=eigthteen_month_earlier.day, 
-            background='darkblue', 
-            foreground='light yellow', 
+            year=eigthteen_month_earlier.year, month=eigthteen_month_earlier.month, day=eigthteen_month_earlier.day,
+            background='darkblue',
+            foreground='light yellow',
             orderwidth=2,
             bg_color="#393e41"
         )
         qn2cLabel.pack(anchor='w')
         calAgeAns.pack(anchor='w')
 
-      # Question 3: School Programmes
-        qn3Choices = ('Aesthetics & Creative Expression', 
-                      'Chinese', 
-                      'Digital Skills', 
+        # Question 3: School Programmes
+        qn3Choices = ('Aesthetics & Creative Expression',
+                      'Chinese',
+                      'Digital Skills',
                       'Discovery of the World',
-                      'English', 
-                      'Language and Literacy', 
-                      'Math', 
-                      'Moral Education', 
-                      'Motor Skill Development', 
-                      'Music', 
+                      'English',
+                      'Language and Literacy',
+                      'Math',
+                      'Moral Education',
+                      'Motor Skill Development',
+                      'Music',
                       'Nature',
                       'Numeracy',
                       'Problem-solving Skills',
@@ -448,13 +453,13 @@ class QuestionsPage(customtkinter.CTkFrame):
         qn3Label.pack(anchor='w')
         progAns.pack(anchor='w')
 
-      # Question 4: Curriculum
-        qn4Choices = ('Active Learning Curriculum', 
-                      'Bilingual Curriculum', 
+        # Question 4: Curriculum
+        qn4Choices = ('Active Learning Curriculum',
+                      'Bilingual Curriculum',
                       'Child Directed',
                       'Chinese Curriculum',
                       'Early Years Development Framework',
-                      'English Curriculum', 
+                      'English Curriculum',
                       'IB PYP',
                       'Inquiry Based',
                       'Integrated Curriculum',
@@ -463,7 +468,7 @@ class QuestionsPage(customtkinter.CTkFrame):
                       'Nurturning Early Learners Curriculum',
                       'Play-based Curriculum',
                       'Project-based Curriculum',
-                      'Reggio Emilia approach', 
+                      'Reggio Emilia approach',
                       'SPARK certified Curriculum',
                       'Thematic',
                       'ISteam')
@@ -481,7 +486,7 @@ class QuestionsPage(customtkinter.CTkFrame):
         qn4Label.pack(anchor='w')
         currAns.pack(anchor='w')
 
-      # Question 5: Days to send child (Mon to Sun)
+        # Question 5: Days to send child (Mon to Sun)
         qn5Choices = ('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday')
         qn5Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0, fg_color="light yellow")
         qn5Frame.pack(fill='x', anchor='w')
@@ -490,18 +495,20 @@ class QuestionsPage(customtkinter.CTkFrame):
         daysSentAns = checklistcombobox.ChecklistCombobox(
             qn5Frame,
             width=71,
-            font=WINDOWS.CUSTOM_FONT, 
+            font=WINDOWS.CUSTOM_FONT,
             values=qn5Choices,
         )
-        daysSentAns.bind("<<ComboboxSelected>>", lambda e: QuestionsPage.refreshQuestion(daysSentAns, dropoffWkEnd, pickupWkEnd))
+        daysSentAns.bind("<<ComboboxSelected>>",
+                         lambda e: QuestionsPage.refreshQuestion(daysSentAns, dropoffWkEnd, pickupWkEnd))
 
         qn5Label.pack(anchor='w')
         daysSentAns.pack(anchor='w')
 
-      # Question 9 Left & Right: Pick Up and Drop off timing
+        # Question 9 Left & Right: Pick Up and Drop off timing
         qn9Frame = customtkinter.CTkFrame(self.frame_left, corner_radius=0, fg_color="light yellow")
         qn9Frame.pack(fill="x", anchor='w')
-        qn6QnLabel = customtkinter.CTkLabel(qn9Frame, text="Question 9:", font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
+        qn6QnLabel = customtkinter.CTkLabel(qn9Frame, text="Question 9:", font=WINDOWS.CUSTOM_BOLDFONT,
+                                            text_color="black")
         qn6QnLabel.pack(anchor='w')
 
         qn6Choices1 = ('7AM', '8AM', '9AM', '10AM', '11AM', '12PM')
@@ -511,12 +518,13 @@ class QuestionsPage(customtkinter.CTkFrame):
         qn6FrameLeft.pack(side="left", anchor='w')
         qn7FrameRight = customtkinter.CTkFrame(qn9Frame, corner_radius=0, fg_color="light yellow")
         qn7FrameRight.pack(side="left", anchor='w')
-        
-        qn6LabelA  = customtkinter.CTkLabel(qn6FrameLeft, text=qnsQn6a, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
-        qn6LabelB  = customtkinter.CTkLabel(qn7FrameRight, text=qnsQn6b, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
-        
+
+        qn6LabelA = customtkinter.CTkLabel(qn6FrameLeft, text=qnsQn6a, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
+        qn6LabelB = customtkinter.CTkLabel(qn7FrameRight, text=qnsQn6b, font=WINDOWS.CUSTOM_BOLDFONT,
+                                           text_color="black")
+
         qn6LabelA.pack(padx=(0, 30), pady=0, anchor='w')
-        qn6LabelB.pack(padx=(0, 30),pady=0, anchor='w')
+        qn6LabelB.pack(padx=(0, 30), pady=0, anchor='w')
 
         dropoffReg = customtkinter.CTkComboBox(qn6FrameLeft, values=qn6Choices1, height=40, width=325,
                                                fg_color="white",
@@ -532,8 +540,9 @@ class QuestionsPage(customtkinter.CTkFrame):
         qn7Choices1 = ('3PM', '4PM', '5PM', '6PM', '7PM')
         qn7Choices2 = ('12PM', '1PM', '2PM')
 
-        qn7LabelA  = customtkinter.CTkLabel(qn6FrameLeft, text=qnsQn7a, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
-        qn7LabelB  = customtkinter.CTkLabel(qn7FrameRight, text=qnsQn7b, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
+        qn7LabelA = customtkinter.CTkLabel(qn6FrameLeft, text=qnsQn7a, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
+        qn7LabelB = customtkinter.CTkLabel(qn7FrameRight, text=qnsQn7b, font=WINDOWS.CUSTOM_BOLDFONT,
+                                           text_color="black")
         qn7LabelA.pack(pady=0, anchor='w')
         qn7LabelB.pack(pady=0, anchor='w')
 
@@ -553,14 +562,14 @@ class QuestionsPage(customtkinter.CTkFrame):
 
         # Buttons
         switch_window = customtkinter.CTkButton(
-            self.frame_right, 
+            self.frame_right,
             text="Generate Results",
             command=lambda: QuestionsPage.outputQuestionaire(
-                controller, distRangeAns, 
-                citizenStaAns, budgetAns, calAgeAns, 
+                controller, distRangeAns,
+                citizenStaAns, budgetAns, calAgeAns,
                 progAns, currAns,
                 daysSentAns, dropoffReg, dropoffWkEnd, pickupReg, pickupWkEnd
-                ), height=40, width=150, fg_color='#e94f37',
+            ), height=40, width=150, fg_color='#e94f37',
             font=WINDOWS.CUSTOM_BOLDFONT
         )
         quit_button = customtkinter.CTkButton(
@@ -583,10 +592,10 @@ class QuestionsPage(customtkinter.CTkFrame):
             dropoffWkEnd.configure(state='disable')
             pickupWkEnd.configure(state='disable')
 
-    def outputQuestionaire(controller, distRangeAns, 
-                citizenStaAns, budgetAns, calAgeAns, 
-                progAns, currAns,
-                daysSentAns, dropoffReg, dropoffWkEnd, pickupReg, pickupWkEnd):
+    def outputQuestionaire(controller, distRangeAns,
+                           citizenStaAns, budgetAns, calAgeAns,
+                           progAns, currAns,
+                           daysSentAns, dropoffReg, dropoffWkEnd, pickupReg, pickupWkEnd):
         userInput = []
         userInput.append(str(datetime.datetime.now()))
         userInput.extend(QuestionsPage.getMarkerPos())
@@ -594,7 +603,9 @@ class QuestionsPage(customtkinter.CTkFrame):
         userInput.extend(QuestionsPage.getEduLvlWithCitizenship(citizenStaAns.get(), calAgeAns, budgetAns.get()))
         userInput.extend(QuestionsPage.getSelectedProgrammes(progAns.get()))
         userInput.extend(QuestionsPage.getSelectedCurriculum(currAns.get()))
-        userInput.extend(QuestionsPage.getSelectedDayswithTiming(daysSentAns.get(), dropoffReg.get(), dropoffWkEnd.get(), pickupReg.get(), pickupWkEnd.get()))
+        userInput.extend(
+            QuestionsPage.getSelectedDayswithTiming(daysSentAns.get(), dropoffReg.get(), dropoffWkEnd.get(),
+                                                    pickupReg.get(), pickupWkEnd.get()))
         QuestionsPage.generateFile(userInput)
 
         import BusinessRuleEngine
@@ -603,7 +614,7 @@ class QuestionsPage(customtkinter.CTkFrame):
         controller.show_result_frame(Resultspage)
 
     def generateFile(userInput):
-        WINDOWS.dataframe.drop(WINDOWS.dataframe.index,inplace=True)                                                              
+        WINDOWS.dataframe.drop(WINDOWS.dataframe.index, inplace=True)
         WINDOWS.dataframe.loc[len(WINDOWS.dataframe)] = userInput
 
         output_file = os.path.join(WINDOWS.USER_OUTPUT_DIR, WINDOWS.USER_OUTPUT_FILE)
@@ -621,25 +632,25 @@ class QuestionsPage(customtkinter.CTkFrame):
         date1 = datetime.datetime.strptime(str(datetime.datetime.now().date()), '%Y-%m-%d')
         date2 = datetime.datetime.strptime(str(calDate.get_date()), '%Y-%m-%d')
         r = relativedelta.relativedelta(date1, date2)
-        months = r.months +  12 * r.years
+        months = r.months + 12 * r.years
         if r.days > 0:
             months += 1
 
         years = r.years
 
         if Status == "Singaporean":
-            if years >= 5: # Kindergarten_Singaporean
+            if years >= 5:  # Kindergarten_Singaporean
                 eduLvlwithStatus = ['0', '0', '0', budget, '0', '0', '0', '0', '4']
-            elif years >= 3 and years <= 4: # Nursery_Singaporean
+            elif years >= 3 and years <= 4:  # Nursery_Singaporean
                 eduLvlwithStatus = ['0', '0', budget, '0', '0', '0', '0', '0', '3']
             elif months >= 18 and months <= 24:
                 eduLvlwithStatus = ['0', budget, '0', '0', '0', '0', '0', '0', '2']
             elif months >= 2 and months <= 17:
                 eduLvlwithStatus = [budget, '0', '0', '0', '0', '0', '0', '0', '1']
         else:
-            if years >= 5: # Kindergarten_Singaporean
+            if years >= 5:  # Kindergarten_Singaporean
                 eduLvlwithStatus = ['0', '0', '0', '0', '0', '0', '0', budget, '4']
-            elif years >= 3 and years <= 4: # Nursery_Singaporean
+            elif years >= 3 and years <= 4:  # Nursery_Singaporean
                 eduLvlwithStatus = ['0', '0', '0', '0', '0', '0', budget, '0', '3']
             elif months >= 18 and months <= 24:
                 eduLvlwithStatus = ['0', '0', '0', '0', '0', budget, '0', '0', '2']
@@ -647,19 +658,20 @@ class QuestionsPage(customtkinter.CTkFrame):
                 eduLvlwithStatus = ['0', '0', '0', '0', budget, '0', '0', '0', '1']
 
         return eduLvlwithStatus
-    
+
     def getSelectedProgrammes(programmes):
-        programmesSelected = ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-        qn3Choices = ['Aesthetics & Creative Expression', 
-                      'Chinese', 
-                      'Digital Skills', 
+        programmesSelected = ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0',
+                              '0']
+        qn3Choices = ['Aesthetics & Creative Expression',
+                      'Chinese',
+                      'Digital Skills',
                       'Discovery of the World',
-                      'English', 
-                      'Language and Literacy', 
-                      'Math', 
-                      'Moral Education', 
-                      'Motor Skill Development', 
-                      'Music', 
+                      'English',
+                      'Language and Literacy',
+                      'Math',
+                      'Moral Education',
+                      'Motor Skill Development',
+                      'Music',
                       'Nature',
                       'Numeracy',
                       'Problem-solving Skills',
@@ -675,15 +687,15 @@ class QuestionsPage(customtkinter.CTkFrame):
                 programmesSelected[prog_index] = '1'
 
         return programmesSelected
-    
+
     def getSelectedCurriculum(curriculums):
         curriculumSelected = ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
-        qn4Choices = ['Active Learning Curriculum', 
-                      'Bilingual Curriculum', 
+        qn4Choices = ['Active Learning Curriculum',
+                      'Bilingual Curriculum',
                       'Child Directed',
                       'Chinese Curriculum',
                       'Early Years Development Framework',
-                      'English Curriculum', 
+                      'English Curriculum',
                       'IB PYP',
                       'Inquiry Based',
                       'Integrated Curriculum',
@@ -692,7 +704,7 @@ class QuestionsPage(customtkinter.CTkFrame):
                       'Nurturning Early Learners Curriculum',
                       'Play-based Curriculum',
                       'Project-based Curriculum',
-                      'Reggio Emilia approach', 
+                      'Reggio Emilia approach',
                       'SPARK certified Curriculum',
                       'Thematic',
                       'ISteam']
@@ -702,7 +714,7 @@ class QuestionsPage(customtkinter.CTkFrame):
                 curriculumSelected[curr_index] = '1'
 
         return curriculumSelected
-    
+
     def getSelectedDayswithTiming(daysSelected, dropoffReg, dropoffWkEnd, pickupReg, pickupWkEnd):
         daysSelectedwithTiming = ['', '', '', '', '', '', '', '', '', '', '', '', '', '']
 
@@ -747,9 +759,10 @@ class QuestionsPage(customtkinter.CTkFrame):
                 timing = str(int(timing) + 12)
                 return timing
 
+
 class MapWindow(tkinter.Toplevel):
-    def __init__(self, master = None):
-         
+    def __init__(self, master=None):
+
         tkinter.Toplevel.__init__(self)
         self.title("Map")
         self.geometry("1400x900")
@@ -807,7 +820,8 @@ class MapWindow(tkinter.Toplevel):
             address = str(WINDOWS.MARKER_LIST[0].position).strip("()")
             WINDOWS.MARKER_LIST.clear()
             self.map_widget.set_address(address)
-            WINDOWS.MARKER_LIST.append(self.map_widget.set_marker(float(address.split(',')[0]), float(address.split(',')[1])))
+            WINDOWS.MARKER_LIST.append(
+                self.map_widget.set_marker(float(address.split(',')[0]), float(address.split(',')[1])))
         else:
             self.map_widget.set_address("Singapore")
         self.map_widget.set_zoom(12)
@@ -818,7 +832,7 @@ class MapWindow(tkinter.Toplevel):
             self.map_widget.delete_all_marker()
             WINDOWS.MARKER_LIST.clear()
             WINDOWS.MARKER_LIST.append(self.map_widget.set_marker(
-                coords[0], coords[1], 
+                coords[0], coords[1],
                 text=coordsText
             ))
             adr = tkintermapview.convert_coordinates_to_address(coords[0], coords[1])
@@ -826,8 +840,8 @@ class MapWindow(tkinter.Toplevel):
             WINDOWS.MAP_LOCATION.set(question_location)
 
         self.map_widget.add_right_click_menu_command(
-            label="Add Marker",  
-            command=add_marker_event, 
+            label="Add Marker",
+            command=add_marker_event,
             pass_coords=True
         )
 
@@ -860,10 +874,11 @@ class MapWindow(tkinter.Toplevel):
     def start(self):
         self.mainloop()
 
+
 class Resultspage(customtkinter.CTkFrame):
     # Instantiate Result variables
     tab_view = None
-    tab1_button= None
+    tab1_button = None
 
     tab1_sch_name = None
     tab2_sch_name = None
@@ -905,13 +920,13 @@ class Resultspage(customtkinter.CTkFrame):
         Resultspage.tab3_weblink.set("-")
 
         resultHeading = customtkinter.CTkLabel(
-            self, 
+            self,
             text="Find your child's ideal Preschool",
             font=WINDOWS.HEAD1_FONT)
         resultHeading.pack()
 
         resultHeading2 = customtkinter.CTkLabel(
-            self, 
+            self,
             text="The Top 3 School Brands with the closest match will be shown below.",
             font=WINDOWS.HEAD2_FONT)
         resultHeading2.pack()
@@ -929,10 +944,10 @@ class Resultspage(customtkinter.CTkFrame):
         for i in range(2):
             for j in range(3):
                 # Create Label.grids in all tabs
-                
+
                 if (i == 1 and j == 2):
                     Resultspage.tab1_button = customtkinter.CTkButton(
-                        tab1_Frame, 
+                        tab1_Frame,
                         command=lambda: Resultspage.openlink())
                     Resultspage.tab1_button._text_label.configure(wraplength=300, justify='left')
                     Resultspage.tab1_button.configure(state='disabled')
@@ -962,11 +977,11 @@ class Resultspage(customtkinter.CTkFrame):
                             Resultspage.tab1_button.configure(textvariable=Resultspage.tab1_weblink)
 
         Resultspage.tab1_map = tkintermapview.TkinterMapView(
-            Resultspage.tab_view.tab("Preschool 1"), 
+            Resultspage.tab_view.tab("Preschool 1"),
             width=1100, height=500,
             corner_radius=0)
         Resultspage.tab1_map.pack()
-        
+
         Resultspage.tab1_map.set_address("Singapore")
         Resultspage.tab1_map.set_zoom(13)
 
@@ -976,8 +991,8 @@ class Resultspage(customtkinter.CTkFrame):
         result_Quit_Frame = customtkinter.CTkFrame(self)
         result_Quit_Frame.pack()
         restart_window = customtkinter.CTkButton(
-            result_End_Frame, 
-            text="Restart Application", 
+            result_End_Frame,
+            text="Restart Application",
             command=lambda: controller.show_question_frame(QuestionsPage)
         )
         quit_button = customtkinter.CTkButton(
@@ -991,6 +1006,7 @@ class Resultspage(customtkinter.CTkFrame):
 
     def openlink():
         webbrowser.open_new_tab(Resultspage.tab1_weblink.get())
+
 
 if __name__ == "__main__":
     app = WINDOWS()
