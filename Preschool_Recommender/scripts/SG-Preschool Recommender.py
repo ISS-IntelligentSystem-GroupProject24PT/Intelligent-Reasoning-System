@@ -1,5 +1,7 @@
 # Import the tkinter module
 import os
+from tkinter import messagebox
+
 import pandas
 import tkinter
 import tkinter.ttk
@@ -164,9 +166,8 @@ class WINDOWS(customtkinter.CTk):
 
     def show_question_frame(self, cont):
         frame = self.frames[cont]
-
         for i in range(len(WINDOWS.BRAND_LIST)):
-            brand = str(WINDOWS.BRAND_LIST[i]).rstrip()
+            brand = str(WINDOWS.BRAND_LIST[i])
             if i == 0:
                 Resultspage.tab_view._segmented_button._buttons_dict["Preschool 1"].configure(text="Preschool 1")
                 Resultspage.tab1_sch_name.set("-")
@@ -280,18 +281,18 @@ class QuestionsPage(customtkinter.CTkFrame):
         WINDOWS.MAP_LOCATION.set(question_location)
 
         # Header Text
-        qnsHeadText = "Find your child's ideal Preschool"
-        qnsHeadText2 = "Answer the questionaire based on your preschool criterias."
+        qnsHeadText = "Find your child's ideal preschool"
+        qnsHeadText2 = "Answer the questionaire based on your preschool criteria."
 
         # Questionaire
-        qnsQn1a = "Question 1: Indicate your preferred Preschool location.*"
-        qnsQn1b = "Question 2: Select a preferred distance range from the indicated location?*"
-        qnsQn2a = "Question 3: What is your citizenship status?*"
-        qnsQn2b = "Question 4: What is your available budget? (SGD $)*"
-        qnsQn2c = "Question 5: What is your child's date of birth?*"
+        qnsQn1a = "Question 1: Indicate your preferred preschool location. *"
+        qnsQn1b = "Question 2: Select a preferred distance range from the indicated location? *"
+        qnsQn2a = "Question 3: What is your citizenship status? *"
+        qnsQn2b = "Question 4: What is your monthly budget? (SGD $) *"
+        qnsQn2c = "Question 5: What is your child's date of birth? *"
         qnsQn3 = "Question 6: Select the programmes you are interested to enroll your child in."
-        qnsQn4 = "Question 7: Select the Pre-school Curriculum style you prefer."
-        qnsQn5 = "Question 8: Select the days you would like to send your child to a Pre-school.*"
+        qnsQn4 = "Question 7: Select the preschool Curriculum style you prefer."
+        qnsQn5 = "Question 8: Select the days you would like to send your child to a preschool."
         qnsQn6a = "Select your preferred drop-off timings. (Monday to Friday)"
         qnsQn6b = "Select your preferred drop-off timings. (Saturday & Sunday)"
         qnsQn7a = "Select your preferred pick-up timings."
@@ -511,8 +512,8 @@ class QuestionsPage(customtkinter.CTkFrame):
                                             text_color="black")
         qn6QnLabel.pack(anchor='w')
 
-        qn6Choices1 = ('7AM', '8AM', '9AM', '10AM', '11AM', '12PM')
-        qn6Choices2 = ('7AM', '8AM', '9AM', '10AM')
+        qn6Choices1 = ('', '7AM', '8AM', '9AM', '10AM', '11AM', '12PM')
+        qn6Choices2 = ('', '7AM', '8AM', '9AM', '10AM')
 
         qn6FrameLeft = customtkinter.CTkFrame(qn9Frame, corner_radius=0, fg_color="light yellow")
         qn6FrameLeft.pack(side="left", anchor='w')
@@ -537,8 +538,8 @@ class QuestionsPage(customtkinter.CTkFrame):
         dropoffReg.pack(anchor='w')
         dropoffWkEnd.pack(anchor='w')
 
-        qn7Choices1 = ('3PM', '4PM', '5PM', '6PM', '7PM')
-        qn7Choices2 = ('12PM', '1PM', '2PM')
+        qn7Choices1 = ('', '1PM', '2PM', '3PM', '4PM', '5PM', '6PM', '7PM')
+        qn7Choices2 = ('', '12PM', '1PM', '2PM')
 
         qn7LabelA = customtkinter.CTkLabel(qn6FrameLeft, text=qnsQn7a, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
         qn7LabelB = customtkinter.CTkLabel(qn7FrameRight, text=qnsQn7b, font=WINDOWS.CUSTOM_BOLDFONT,
@@ -592,21 +593,27 @@ class QuestionsPage(customtkinter.CTkFrame):
             dropoffWkEnd.configure(state='disable')
             pickupWkEnd.configure(state='disable')
 
+
+
     def outputQuestionaire(controller, distRangeAns,
                            citizenStaAns, budgetAns, calAgeAns,
                            progAns, currAns,
                            daysSentAns, dropoffReg, dropoffWkEnd, pickupReg, pickupWkEnd):
-        userInput = []
-        userInput.append(str(datetime.datetime.now()))
-        userInput.extend(QuestionsPage.getMarkerPos())
-        userInput.append(distRangeAns.get().strip("KM"))
-        userInput.extend(QuestionsPage.getEduLvlWithCitizenship(citizenStaAns.get(), calAgeAns, budgetAns.get()))
-        userInput.extend(QuestionsPage.getSelectedProgrammes(progAns.get()))
-        userInput.extend(QuestionsPage.getSelectedCurriculum(currAns.get()))
-        userInput.extend(
-            QuestionsPage.getSelectedDayswithTiming(daysSentAns.get(), dropoffReg.get(), dropoffWkEnd.get(),
-                                                    pickupReg.get(), pickupWkEnd.get()))
-        QuestionsPage.generateFile(userInput)
+        if budgetAns.get() == "":
+            messagebox.showerror("Error", "Please input a monthly budget.")
+            return
+        else:
+            userInput = []
+            userInput.append(str(datetime.datetime.now()))
+            userInput.extend(QuestionsPage.getMarkerPos())
+            userInput.append(distRangeAns.get().strip("KM"))
+            userInput.extend(QuestionsPage.getEduLvlWithCitizenship(citizenStaAns.get(), calAgeAns, budgetAns.get()))
+            userInput.extend(QuestionsPage.getSelectedProgrammes(progAns.get()))
+            userInput.extend(QuestionsPage.getSelectedCurriculum(currAns.get()))
+            userInput.extend(
+                QuestionsPage.getSelectedDayswithTiming(daysSentAns.get(), dropoffReg.get(), dropoffWkEnd.get(),
+                                                        pickupReg.get(), pickupWkEnd.get()))
+            QuestionsPage.generateFile(userInput)
 
         import BusinessRuleEngine
         BusinessRuleEngine.BusinessRulesEngine().trigger_business_rule()
@@ -622,7 +629,7 @@ class QuestionsPage(customtkinter.CTkFrame):
 
     def getMarkerPos():
         if (len(WINDOWS.MARKER_LIST) <= 0):
-            return ['1.290270, 103.851959']
+            return ['1.417300, 103.833000']
         else:
             temp = str(WINDOWS.MARKER_LIST[0].position).strip("()")
             return [temp]
@@ -773,25 +780,23 @@ class MapWindow(tkinter.Toplevel):
         self.grid_columnconfigure(1, weight=1)
         self.grid_rowconfigure(0, weight=1)
 
-        self.frame_left = customtkinter.CTkFrame(master=self, width=150, corner_radius=0, fg_color=None)
-        self.frame_left.grid(row=0, column=0, padx=0, pady=0, sticky="nsew")
+        # Change listbox size
+        self.option_add("*Listbox*Font", "Helvetica 16")
+
+        # self.frame_left = customtkinter.CTkFrame(master=self, width=150, corner_radius=0, fg_color=None)
+        # self.frame_left.grid(row=0, column=0, padx=0, pady=0, sticky="nsew")
 
         self.frame_right = customtkinter.CTkFrame(master=self, corner_radius=0)
         self.frame_right.grid(row=0, column=1, rowspan=1, pady=0, padx=0, sticky="nsew")
 
         # ============ frame_left ============
-
-        self.frame_left.grid_rowconfigure(2, weight=1)
-
-        self.button_1 = customtkinter.CTkButton(master=self.frame_left,
-                                                text="Set Marker",
-                                                command=self.set_marker_event)
-        self.button_1.grid(pady=(20, 0), padx=(20, 20), row=0, column=0)
-
-        self.button_2 = customtkinter.CTkButton(master=self.frame_left,
-                                                text="Clear Markers",
-                                                command=self.clear_marker_event)
-        self.button_2.grid(pady=(20, 0), padx=(20, 20), row=1, column=0)
+        #
+        # self.frame_left.grid_rowconfigure(2, weight=1)
+        #
+        # self.button_1 = customtkinter.CTkButton(master=self.frame_left,
+        #                                         text="Pick Location",
+        #                                         command=self.set_marker_event)
+        # self.button_1.grid(pady=(20, 0), padx=(20, 20), row=0, column=0)
 
         # ============ frame_right ============
 
@@ -802,7 +807,7 @@ class MapWindow(tkinter.Toplevel):
         self.frame_right.grid_columnconfigure(2, weight=1)
 
         self.map_widget = tkintermapview.TkinterMapView(self.frame_right, corner_radius=0)
-        self.map_widget.grid(row=1, rowspan=1, column=0, columnspan=3, sticky="nswe", padx=(0, 0), pady=(0, 0))
+        self.map_widget.grid(row=1, rowspan=1, column=0, columnspan=4, sticky="nswe", padx=(0, 0), pady=(0, 0))
 
         self.entry = customtkinter.CTkEntry(master=self.frame_right,
                                             placeholder_text="type address")
@@ -814,6 +819,16 @@ class MapWindow(tkinter.Toplevel):
                                                 width=90,
                                                 command=self.search_event)
         self.button_5.grid(row=0, column=1, sticky="w", padx=(12, 0), pady=12)
+
+        self.button_2 = customtkinter.CTkButton(master=self.frame_right,
+                                                text="Clear",
+                                                command=self.clear_marker_event)
+        self.button_2.grid(row=0, column=2, sticky="w", padx=(5, 0), pady=12)
+
+        self.button_6 = customtkinter.CTkButton(master=self.frame_right,
+                                                text="Confirm",
+                                                command=self.on_closing)
+        self.button_6.grid(row=0, column=3, sticky="w", padx=(5, 0), pady=12)
 
         # Set default values
         if len(WINDOWS.MARKER_LIST) >= 1:
@@ -839,14 +854,18 @@ class MapWindow(tkinter.Toplevel):
             question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
             WINDOWS.MAP_LOCATION.set(question_location)
 
-        self.map_widget.add_right_click_menu_command(
-            label="Add Marker",
-            command=add_marker_event,
-            pass_coords=True
+        # self.map_widget.add_right_click_menu_command(
+        #     label="Pick Location",
+        #     command=add_marker_event,
+        #     pass_coords=True
+        # )
+
+        self.map_widget.add_left_click_map_command(
+            callback_function=add_marker_event
         )
 
     def search_event(self, event=None):
-        self.map_widget.set_address(self.entry.get())
+        self.map_widget.set_address(f"{self.entry.get()}, Singapore")
         current_position = self.map_widget.get_position()
         self.map_widget.delete_all_marker()
         WINDOWS.MARKER_LIST.clear()
@@ -855,14 +874,14 @@ class MapWindow(tkinter.Toplevel):
         question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
         WINDOWS.MAP_LOCATION.set(question_location)
 
-    def set_marker_event(self):
-        current_position = self.map_widget.get_position()
-        self.map_widget.delete_all_marker()
-        WINDOWS.MARKER_LIST.clear()
-        WINDOWS.MARKER_LIST.append(self.map_widget.set_marker(current_position[0], current_position[1]))
-        adr = tkintermapview.convert_coordinates_to_address(current_position[0], current_position[1])
-        question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
-        WINDOWS.MAP_LOCATION.set(question_location)
+    # def set_marker_event(self):
+    #     current_position = self.map_widget.get_position()
+    #     self.map_widget.delete_all_marker()
+    #     WINDOWS.MARKER_LIST.clear()
+    #     WINDOWS.MARKER_LIST.append(self.map_widget.set_marker(current_position[0], current_position[1]))
+    #     adr = tkintermapview.convert_coordinates_to_address(current_position[0], current_position[1])
+    #     question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
+    #     WINDOWS.MAP_LOCATION.set(question_location)
 
     def clear_marker_event(self):
         self.map_widget.delete_all_marker()
@@ -992,7 +1011,7 @@ class Resultspage(customtkinter.CTkFrame):
         result_Quit_Frame.pack()
         restart_window = customtkinter.CTkButton(
             result_End_Frame,
-            text="Restart Application",
+            text="Restart",
             command=lambda: controller.show_question_frame(QuestionsPage)
         )
         quit_button = customtkinter.CTkButton(
