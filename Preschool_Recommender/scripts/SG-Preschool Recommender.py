@@ -499,8 +499,11 @@ class QuestionsPage(customtkinter.CTkFrame):
             font=WINDOWS.CUSTOM_FONT,
             values=qn5Choices,
         )
+
         daysSentAns.bind("<<ComboboxSelected>>",
-                         lambda e: QuestionsPage.refreshQuestion(daysSentAns, dropoffWkEnd, pickupWkEnd))
+                         lambda e: QuestionsPage.refreshQuestion(
+                             daysSentAns, dropoffWkEnd, pickupWkEnd, qn7FrameRight, qn6FrameLeft, qn6QnLabel
+                         ))
 
         qn5Label.pack(anchor='w')
         daysSentAns.pack(anchor='w')
@@ -510,15 +513,15 @@ class QuestionsPage(customtkinter.CTkFrame):
         qn9Frame.pack(fill="x", anchor='w')
         qn6QnLabel = customtkinter.CTkLabel(qn9Frame, text="Question 9:", font=WINDOWS.CUSTOM_BOLDFONT,
                                             text_color="black")
-        qn6QnLabel.pack(anchor='w')
+        # qn6QnLabel.pack(anchor='w')
 
         qn6Choices1 = ('', '7AM', '8AM', '9AM', '10AM', '11AM', '12PM')
         qn6Choices2 = ('', '7AM', '8AM', '9AM', '10AM')
 
         qn6FrameLeft = customtkinter.CTkFrame(qn9Frame, corner_radius=0, fg_color="light yellow")
-        qn6FrameLeft.pack(side="left", anchor='w')
+        # qn6FrameLeft.pack(side="left", anchor='w')
         qn7FrameRight = customtkinter.CTkFrame(qn9Frame, corner_radius=0, fg_color="light yellow")
-        qn7FrameRight.pack(side="left", anchor='w')
+        # qn7FrameRight.pack(side="left", anchor='w')
 
         qn6LabelA = customtkinter.CTkLabel(qn6FrameLeft, text=qnsQn6a, font=WINDOWS.CUSTOM_BOLDFONT, text_color="black")
         qn6LabelB = customtkinter.CTkLabel(qn7FrameRight, text=qnsQn6b, font=WINDOWS.CUSTOM_BOLDFONT,
@@ -583,17 +586,30 @@ class QuestionsPage(customtkinter.CTkFrame):
         switch_window.pack(padx=5, pady=5, anchor='w')
         quit_button.pack(padx=5, pady=5, anchor='w')
 
-    def refreshQuestion(qn6Ans, dropoffWkEnd, pickupWkEnd):
+
+    def refreshQuestion(qn6Ans, dropoffWkEnd, pickupWkEnd, qn7FrameRight, qn6FrameLeft, qn6QnLabel):
         selected = qn6Ans.selection_get()
-        # print(selected)
         if "Saturday" in selected or "Sunday" in selected:
             dropoffWkEnd.configure(state='normal')
             pickupWkEnd.configure(state='normal')
-        else:
+            qn6QnLabel.pack(anchor='w')
+            qn7FrameRight.pack(side="left", anchor='w')
+        elif "Saturday" not in selected and "Sunday" not in selected:
             dropoffWkEnd.configure(state='disable')
             pickupWkEnd.configure(state='disable')
+            qn7FrameRight.pack_forget()
+        else:
+            qn6QnLabel.pack(anchor='w')
+            qn7FrameRight.pack(side="left", anchor='w')
 
-
+        if "Monday" in selected or "Tuesday" in selected or "Wednesday" in selected or "Thursday" in selected or "Friday" in selected:
+            qn6QnLabel.pack(anchor='w')
+            qn6FrameLeft.pack(side="left", anchor='w')
+        elif "Monday" not in selected and "Tuesday" not in selected and "Wednesday" not in selected and "Thursday" not in selected and "Friday" not in selected:
+            qn6FrameLeft.pack_forget()
+        else:
+            qn6QnLabel.pack(anchor='w')
+            qn6FrameLeft.pack(side="left", anchor='w')
 
     def outputQuestionaire(controller, distRangeAns,
                            citizenStaAns, budgetAns, calAgeAns,
