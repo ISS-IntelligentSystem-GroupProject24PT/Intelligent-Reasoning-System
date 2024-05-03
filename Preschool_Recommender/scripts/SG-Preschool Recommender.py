@@ -38,8 +38,8 @@ class WINDOWS(customtkinter.CTk):
 
     # Define DEFAULTS
     APP_NAME = "SG-Preschool Recommender"
-    MIN_WIDTH = 1050
-    MIN_HEIGHT = 750
+    MIN_WIDTH = 1150
+    MIN_HEIGHT = 850
     HEAD1_FONT = None
     HEAD2_FONT = None
     CUSTOM_FONT = None
@@ -124,10 +124,10 @@ class WINDOWS(customtkinter.CTk):
         # Define individual screen dimensions
         screenWidth = self.winfo_screenwidth()
         screenHeight = self.winfo_screenheight()
-        if (screenWidth * 0.8 > WINDOWS.MIN_WIDTH):
-            WINDOWS.MIN_WIDTH = int(screenWidth * 0.8)
-        if (screenHeight * 0.9 > WINDOWS.MIN_HEIGHT):
-            WINDOWS.MIN_HEIGHT = int(screenHeight)
+        # if (screenWidth * 0.8 > WINDOWS.MIN_WIDTH):
+        #     WINDOWS.MIN_WIDTH = int(screenWidth * 0.8)
+        # if (screenHeight * 0.9 > WINDOWS.MIN_HEIGHT):
+        #     WINDOWS.MIN_HEIGHT = int(screenHeight)
 
         # Find screen center point
         center_x = int(screenWidth / 2 - WINDOWS.MIN_WIDTH / 2)
@@ -187,6 +187,11 @@ class WINDOWS(customtkinter.CTk):
         result_dir = os.path.join(WINDOWS.USER_RESULT_DIR, WINDOWS.USER_RESULT_FILE)
         result_df = pandas.read_csv(result_dir)
 
+        if len(result_df.index) == 0:
+            Resultspage.no_result.pack(pady=15)
+            frame.tkraise()
+            return
+
         result_df = result_df.drop_duplicates(subset='preschool_brand', keep='first')
         result_df = result_df.sort_values(by="Cosine_Similarity", ascending=False)
 
@@ -195,7 +200,7 @@ class WINDOWS(customtkinter.CTk):
         address_list = result_df['Address'].tolist()
         weblink_list = result_df['Preschool_Website'].tolist()
         location_list = result_df['Latitude_Longitude'].tolist()
-
+        
         for top3 in range(3):
             try:
                 preschool_name = str(preschool_names_list[top3])
@@ -224,12 +229,21 @@ class WINDOWS(customtkinter.CTk):
                         # Create Label.grids in all tabs
                         if (i == 1 and j == 2):
                             tab_button = customtkinter.CTkButton(
-                                tab_Frame,
+                                tab_Frame, 
+                                width=250,
                                 command=lambda: Resultspage.openlink())
                             tab_button._text_label.configure(wraplength=300, justify='left')
                             tab_button.grid(row=i, column=j, padx=15, pady=10)
+                        elif i == 0:
+                            tab_labels = customtkinter.CTkLabel(
+                                tab_Frame, 
+                                width=300, 
+                                bg_color='light blue',
+                                wraplength=250, 
+                                justify='center')
+                            tab_labels.grid(row=i, column=j, padx=1, pady=10)
                         else:
-                            tab_labels = customtkinter.CTkLabel(tab_Frame, wraplength=300, justify='center')
+                            tab_labels = customtkinter.CTkLabel(tab_Frame, wraplength=250, justify='center')
                             tab_labels.grid(row=i, column=j, padx=15, pady=10)
 
                         # Insert Headings
@@ -254,15 +268,15 @@ class WINDOWS(customtkinter.CTk):
                                     tab_button.configure(state='normal')
 
                 tab_map = tkintermapview.TkinterMapView(
-                    Resultspage.tab_view.tab(preschool_brand),
-                    width=1100, height=500,
+                    Resultspage.tab_view.tab(preschool_brand), 
+                    width=1400, height=700,
                     corner_radius=0)
-                tab_map.pack()
-
+                tab_map.pack(pady=10)
+        
                 tab_map.set_address(location, marker=True)
                 tab_map.set_zoom(13)
 
-        frame.tkraise()  # Raise the current frame to the top
+        frame.tkraise() # Raise the current frame to the top
 
     def on_closing(self, event=0):
         self.destroy()
@@ -276,9 +290,9 @@ class QuestionsPage(customtkinter.CTkFrame):
         customtkinter.CTkFrame.__init__(self, parent, width=1000, fg_color="light yellow", )
 
         WINDOWS.MAP_LOCATION = tkinter.StringVar()
-        adr = tkintermapview.convert_coordinates_to_address(1.417300, 103.833000)
-        question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
-        WINDOWS.MAP_LOCATION.set(question_location)
+        # adr = tkintermapview.convert_coordinates_to_address(1.417300, 103.833000)
+        # question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
+        WINDOWS.MAP_LOCATION.set("Current address: Yishun Ave 2, Singapore 769092")
 
         # Header Text
         qnsHeadText = "Find your child's ideal preschool"
@@ -854,7 +868,10 @@ class MapWindow(tkinter.Toplevel):
             WINDOWS.MARKER_LIST.append(
                 self.map_widget.set_marker(float(address.split(',')[0]), float(address.split(',')[1])))
         else:
-            self.map_widget.set_address("Singapore")
+            # self.map_widget.set_address(1.4173, 103.8330)
+            self.map_widget.set_position(1.417300, 103.833000)
+            WINDOWS.MARKER_LIST.append(
+                self.map_widget.set_marker(1.417300, 103.833000))
         self.map_widget.set_zoom(12)
 
         # Define right click events before using event commands
@@ -913,58 +930,45 @@ class MapWindow(tkinter.Toplevel):
 class Resultspage(customtkinter.CTkFrame):
     # Instantiate Result variables
     tab_view = None
-    tab1_button = None
+    tab1_button= None
 
     tab1_sch_name = None
-    tab2_sch_name = None
-    tab3_sch_name = None
     tab1_address = None
-    tab2_address = None
-    tab3_address = None
     tab1_weblink = None
-    tab2_weblink = None
-    tab3_weblink = None
-
     tab1_map = None
-    tab2_map = None
-    tab3_map = None
+
+    no_result = None
 
     def __init__(self, parent, controller):
-        customtkinter.CTkFrame.__init__(self, parent)
+        customtkinter.CTkFrame.__init__(self, parent, fg_color="light yellow")
 
         # ResultPage textvariables
         Resultspage.tab1_sch_name = tkinter.StringVar()
-        Resultspage.tab2_sch_name = tkinter.StringVar()
-        Resultspage.tab3_sch_name = tkinter.StringVar()
         Resultspage.tab1_address = tkinter.StringVar()
-        Resultspage.tab2_address = tkinter.StringVar()
-        Resultspage.tab3_address = tkinter.StringVar()
         Resultspage.tab1_weblink = tkinter.StringVar()
-        Resultspage.tab2_weblink = tkinter.StringVar()
-        Resultspage.tab3_weblink = tkinter.StringVar()
 
         # Set default value for empty results
         Resultspage.tab1_sch_name.set("-")
-        Resultspage.tab2_sch_name.set("-")
-        Resultspage.tab3_sch_name.set("-")
         Resultspage.tab1_address.set("-")
-        Resultspage.tab2_address.set("-")
-        Resultspage.tab3_address.set("-")
         Resultspage.tab1_weblink.set("-")
-        Resultspage.tab2_weblink.set("-")
-        Resultspage.tab3_weblink.set("-")
 
         resultHeading = customtkinter.CTkLabel(
-            self,
+            self, 
             text="Find your child's ideal Preschool",
             font=WINDOWS.HEAD1_FONT)
-        resultHeading.pack()
+        resultHeading.pack(pady=15)
 
         resultHeading2 = customtkinter.CTkLabel(
-            self,
+            self, 
             text="The Top 3 School Brands with the closest match will be shown below.",
             font=WINDOWS.HEAD2_FONT)
         resultHeading2.pack()
+
+        Resultspage.no_result = customtkinter.CTkLabel(
+            self, 
+            text="No results found! Please click \"Redo\".",
+            font=WINDOWS.HEAD2_FONT)
+        Resultspage.no_result.pack_forget()
 
         Resultspage.tab_view = customtkinter.CTkTabview(self)
         Resultspage.tab_view.pack(padx=20, pady=20)
@@ -972,24 +976,32 @@ class Resultspage(customtkinter.CTkFrame):
         # Add result tabs
         Resultspage.tab_view.add("Preschool 1")
 
-        # Create Frames in all tabs
         tab1_Frame = customtkinter.CTkFrame(Resultspage.tab_view.tab("Preschool 1"))
         tab1_Frame.pack()
 
         for i in range(2):
             for j in range(3):
                 # Create Label.grids in all tabs
-
+                
                 if (i == 1 and j == 2):
                     Resultspage.tab1_button = customtkinter.CTkButton(
-                        tab1_Frame,
+                        tab1_Frame, 
+                        width=250,
                         command=lambda: Resultspage.openlink())
-                    Resultspage.tab1_button._text_label.configure(wraplength=300, justify='left')
+                    Resultspage.tab1_button._text_label.configure(wraplength=250, justify='left')
                     Resultspage.tab1_button.configure(state='disabled')
-                    Resultspage.tab1_button.grid(row=i, column=j, padx=15, pady=10)
+                    Resultspage.tab1_button.grid(row=i, column=j, padx=1, pady=10)
+                elif i == 0:
+                    tab1_labels = customtkinter.CTkLabel(
+                        tab1_Frame, 
+                        width=300, 
+                        bg_color='light blue',
+                        wraplength=250, 
+                        justify='center')
+                    tab1_labels.grid(row=i, column=j, padx=1, pady=10)
                 else:
-                    tab1_labels = customtkinter.CTkLabel(tab1_Frame, wraplength=300, justify='center')
-                    tab1_labels.grid(row=i, column=j, padx=15, pady=10)
+                    tab1_labels = customtkinter.CTkLabel(tab1_Frame, wraplength=250, justify='center')
+                    tab1_labels.grid(row=i, column=j, padx=1, pady=10)
 
                 # Insert Headings
                 if (i == 0):
@@ -1012,29 +1024,28 @@ class Resultspage(customtkinter.CTkFrame):
                             Resultspage.tab1_button.configure(textvariable=Resultspage.tab1_weblink)
 
         Resultspage.tab1_map = tkintermapview.TkinterMapView(
-            Resultspage.tab_view.tab("Preschool 1"),
-            width=1100, height=500,
+            Resultspage.tab_view.tab("Preschool 1"), 
+            width=1400, height=700,
             corner_radius=0)
-        Resultspage.tab1_map.pack()
-
+        Resultspage.tab1_map.pack(pady=10)
+        
         Resultspage.tab1_map.set_address("Singapore")
         Resultspage.tab1_map.set_zoom(13)
 
         # Buttons
-        result_End_Frame = customtkinter.CTkFrame(self)
+        result_End_Frame = customtkinter.CTkFrame(self, fg_color='light yellow')
         result_End_Frame.pack()
-        result_Quit_Frame = customtkinter.CTkFrame(self)
-        result_Quit_Frame.pack()
         restart_window = customtkinter.CTkButton(
-            result_End_Frame,
-            text="Restart",
+            result_End_Frame, 
+            text="Redo", 
+            bg_color='transparent',
             command=lambda: controller.show_question_frame(QuestionsPage)
         )
         quit_button = customtkinter.CTkButton(
-            result_Quit_Frame,
+            result_End_Frame,
             text="Quit",
-            command=lambda: controller.on_closing(),
-            bg_color="#393e41"
+            bg_color='transparent',
+            command=lambda: controller.on_closing()
         )
         restart_window.pack(pady=10)
         quit_button.pack(pady=10)
