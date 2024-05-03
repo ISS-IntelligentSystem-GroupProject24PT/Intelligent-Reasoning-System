@@ -1,0 +1,14 @@
+beautifulsoup4==4.12.3
+ChecklistCombobox==1.1
+customtkinter==5.2.2
+gensim==4.3.2
+numpy==1.26.4
+pandas==2.2.2
+python_dateutil==2.8.2
+scikit_learn==1.4.0rc1
+scipy==1.13.0
+selenium==4.20.0
+spacy==3.7.4
+textblob==0.15.3
+tkcalendar==1.6.1
+tkintermapview==1.29
