@@ -328,12 +328,14 @@ class QuestionsPage(customtkinter.CTkFrame):
         qns_Head1_Label = customtkinter.CTkLabel(
             self.frame_head,
             text=qnsHeadText,
-            font=WINDOWS.HEAD1_FONT
+            font=WINDOWS.HEAD1_FONT,
+            text_color='white'
         )
         qns_Head2_Label = customtkinter.CTkLabel(
             self.frame_head,
             text=qnsHeadText2,
-            font=WINDOWS.HEAD2_FONT
+            font=WINDOWS.HEAD2_FONT,
+            text_color='white'
         )
         qns_Head1_Label.pack(padx=10, pady=20)
         qns_Head2_Label.pack(padx=10, pady=10)
