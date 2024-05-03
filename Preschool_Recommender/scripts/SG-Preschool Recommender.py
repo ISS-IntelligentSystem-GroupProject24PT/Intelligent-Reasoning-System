@@ -864,7 +864,7 @@ class MapWindow(tkinter.Toplevel):
         if len(WINDOWS.MARKER_LIST) >= 1:
             address = str(WINDOWS.MARKER_LIST[0].position).strip("()")
             WINDOWS.MARKER_LIST.clear()
-            self.map_widget.set_address(address)
+            self.map_widget.set_position(float(address.split(',')[0]), float(address.split(',')[1]))
             WINDOWS.MARKER_LIST.append(
                 self.map_widget.set_marker(float(address.split(',')[0]), float(address.split(',')[1])))
         else:
