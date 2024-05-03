@@ -909,9 +909,12 @@ class MapWindow(tkinter.Toplevel):
         self.map_widget.delete_all_marker()
         WINDOWS.MARKER_LIST.clear()
         WINDOWS.MARKER_LIST.append(self.map_widget.set_marker(current_position[0], current_position[1]))
-        adr = tkintermapview.convert_coordinates_to_address(current_position[0], current_position[1])
-        question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
-        WINDOWS.MAP_LOCATION.set(question_location)
+        try:
+            adr = tkintermapview.convert_coordinates_to_address(current_position[0], current_position[1])
+            question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
+            WINDOWS.MAP_LOCATION.set(question_location)
+        except:
+            print("API call error. Current address is updated in the database. Please proceed with the Questionaire.")
 
     # def set_marker_event(self):
     #     current_position = self.map_widget.get_position()
