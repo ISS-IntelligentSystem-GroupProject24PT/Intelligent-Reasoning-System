@@ -23,10 +23,10 @@ The project team experience on the task was fulfilling. Everybody learnt a lot i
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| Hu Lei            | A0120681N | Concept generation, Similarity Algorithm |  |
-| Ho Zi Hao Timothy | A0150123B | Concept generation, Data extraction, Business Rule Generation, Group Reports |  |
-| Tan Jinn Yeu      | A0067140N | Concept generation, Data webscraping, Data extraction,  Data Processing, Business Rule Generation, Similarity Algorithm, Group Reports | email? |
-| Pan Lifan         | A0291192A | Concept generation, Front End Integration |  |
+| Hu Lei            | A0120681N | Concept generation, Similarity Algorithm Research |  |
+| Ho Zi Hao Timothy | A0150123B | Concept generation, Data extraction, Business Rule Generation, Group Reports, Business video |  |
+| Tan Jinn Yeu      | A0067140N | Concept generation, Data webscraping, Data extraction,  Data Processing, Business Rule Generation, Similarity Algorithm, Group Reports, Technical video | |
+| Pan Lifan         | A0291192A | Concept generation, Front End Integration, Application packaging, Installation & User Guides |  |
 
 ---
 
@@ -52,7 +52,7 @@ The project team experience on the task was fulfilling. Everybody learnt a lot i
 
 `Refer to project report at Github Folder: documentations/ProjectReport`
 
-**Recommended Sections for Project Report / Paper:**
+**Sections for Project Report / Paper:**
 - Introduction 
 - Business Context
 - System Design / Model 
