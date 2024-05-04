@@ -105,5 +105,6 @@ The project team experience on the task was fulfilling. Everybody learnt a lot i
 `7.3.3.2 Inputting user filter preferences`
 `7.3.3.3 User access options (computer etc).`
 `7.3.3.4 Frequently Asked Questions (FAQs)`
+`7.4 Individual Project Report`
 
 ---
