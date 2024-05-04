@@ -1050,7 +1050,7 @@ class Resultspage(customtkinter.CTkFrame):
 
         Resultspage.tab1_map = tkintermapview.TkinterMapView(
             Resultspage.tab_view.tab("Preschool 1"), 
-            width=1200, height=600,
+            width=1100, height=550,
             corner_radius=0)
         Resultspage.tab1_map.pack(pady=10)
         
@@ -1072,8 +1072,8 @@ class Resultspage(customtkinter.CTkFrame):
             bg_color='transparent',
             command=lambda: controller.on_closing()
         )
-        restart_window.pack(pady=10)
-        quit_button.pack(pady=10)
+        restart_window.pack(side='left', padx=10)
+        quit_button.pack(side='left', padx=10)
 
     def openlink():
         webbrowser.open_new_tab(Resultspage.tab1_weblink.get())
