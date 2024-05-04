@@ -174,7 +174,7 @@ class WINDOWS(customtkinter.CTk):
                 Resultspage.tab1_address.set("-")
                 Resultspage.tab1_weblink.set("-")
                 Resultspage.tab1_button.configure(state='disable')
-                Resultspage.tab1_map.set_address("1.417300, 103.833000", marker=False)
+                Resultspage.tab1_map.set_position(1.417300, 103.833000, marker=False)
             else:
                 Resultspage.tab_view.delete(brand)
 
@@ -1039,11 +1039,11 @@ class Resultspage(customtkinter.CTkFrame):
 
         Resultspage.tab1_map = tkintermapview.TkinterMapView(
             Resultspage.tab_view.tab("Preschool 1"), 
-            width=1400, height=700,
+            width=1200, height=600,
             corner_radius=0)
         Resultspage.tab1_map.pack(pady=10)
         
-        Resultspage.tab1_map.set_address("1.417300, 103.833000")
+        Resultspage.tab1_map.set_position(1.417300, 103.833000)
         Resultspage.tab1_map.set_zoom(13)
 
         # Buttons
