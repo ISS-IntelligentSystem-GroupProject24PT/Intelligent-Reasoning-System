@@ -25,7 +25,7 @@ The project team experience on the task was fulfilling. Everybody learnt a lot i
 | :------------ |:---------------:| :-----|
 | Hu Lei            | A0120681N | Concept generation, Matching Algorithm Research |
 | Ho Zi Hao Timothy | A0150123B | Concept generation, Data extraction, Business Rule Generation, Group Reports, Business video |
-| Tan Jinn Yeu      | A0067140N | Concept generation, Data webscraping, Data extraction,  Data Processing, Business Rule Generation, Matching Algorithm, Group Reports, Technical video |
+| Tan Jinn Yeu      | A0067140N | Concept generation, Data webscraping, Data extraction,  Data Processing, Business Rule Generation, Matching Algorithm, Front End Refinement, Group Reports, Technical video |
 | Pan Lifan         | A0291192A | Concept generation, Front End Integration, Application packaging, Installation & User Guides |
 
 ---
