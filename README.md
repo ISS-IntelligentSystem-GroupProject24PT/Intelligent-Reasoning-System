@@ -47,14 +47,14 @@ The project team experience on the task was fulfilling. Everybody learnt a lot i
 
 **Sections for Project Report / Paper:**
 # 1 Introduction
-## 1.1 Project Introduction
+`1.1 Project Introduction`
 # 2 Business Case
-## 2.1 Macroeconomic Trends
-## 2.2 Market Landscape
-### 2.2.1.1 Industry Analysis (Porter's Five Forces Analysis)
-### 2.2.1.2 Competitor Analysis
-## 2.3 Market Positioning
-## 2.4 Product Analysis (SWOT Analysis)
+`2.1 Macroeconomic Trends`
+`2.2 Market Landscape`
+`2.2.1.1 Industry Analysis (Porter's Five Forces Analysis)`
+`2.2.1.2 Competitor Analysis`
+`2.3 Market Positioning`
+`2.4 Product Analysis (SWOT Analysis)`
 # 3 System Development & Implementation
 ## 3.1 Project Scope
 ## 3.2 System Design
