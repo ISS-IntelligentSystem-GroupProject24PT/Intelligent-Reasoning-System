@@ -56,55 +56,55 @@ The project team experience on the task was fulfilling. Everybody learnt a lot i
 `2.3 Market Positioning`
 `2.4 Product Analysis (SWOT Analysis)`
 # 3 System Development & Implementation
-## 3.1 Project Scope
-## 3.2 System Design
-### 3.2.1 Dataflow Diagram
-### 3.2.2 Tools & Technologies Used
-### 3.2.3 Software Architecture Design
-## 3.3 Data Collection
-### 3.3.1 Data Sources
-### 3.3.2 Google Maps & Reviews
-### 3.3.3 Preschool Websites
-## 3.4 Data Processing
-### 3.4.1 Google Maps
-### 3.4.2 Google Reviews
-### 3.4.3 Preschool Websites
-## 3.5 Business Rules Engine
-### 3.5.1 Case-based Reasoning
-### 3.5.2 Distance Calculation
-### 3.5.3 Constraint Filtering
-#### 3.5.3.1 Distance Filtering
-#### 3.5.3.2 Budget Filtering
-#### 3.5.3.3 Operating Hours Filtering
-## 3.6 Matching Algorithm
-### 3.6.1 Model Data
-### 3.6.2 Considerations in Shortlisting Similarity Metrics
-#### 3.6.2.1 Suitability
-#### 3.6.2.2 Serendipity, Diversity & Performance
-### 3.6.3 Cosine Similarity as the Chosen Similarity Metric
-## 3.7 Front-End Application
+3.1 Project Scope
+3.2 System Design
+3.2.1 Dataflow Diagram
+3.2.2 Tools & Technologies Used
+3.2.3 Software Architecture Design
+3.3 Data Collection
+3.3.1 Data Sources
+3.3.2 Google Maps & Reviews
+3.3.3 Preschool Websites
+3.4 Data Processing
+3.4.1 Google Maps
+3.4.2 Google Reviews
+3.4.3 Preschool Websites
+3.5 Business Rules Engine
+3.5.1 Case-based Reasoning
+3.5.2 Distance Calculation
+3.5.3 Constraint Filtering
+3.5.3.1 Distance Filtering
+3.5.3.2 Budget Filtering
+3.5.3.3 Operating Hours Filtering
+3.6 Matching Algorithm
+3.6.1 Model Data
+3.6.2 Considerations in Shortlisting Similarity Metrics
+3.6.2.1 Suitability
+3.6.2.2 Serendipity, Diversity & Performance
+3.6.3 Cosine Similarity as the Chosen Similarity Metric
+3.7 Front-End Application
 # 4 Future Improvements
-## 4.1 System Features Improvement
-## 4.2 Data Availability, Accuracy and Timeliness Improvement	
-## 4.3 Model Improvement
+4.1 System Features Improvement
+4.2 Data Availability, Accuracy and Timeliness Improvement	
+4.3 Model Improvement
 # 5 Conclusion
 # 6 References
-## 6.1 Citations
+6.1 Citations
 # 7 Appendix
-## 7.1 System Functionalities Against Course Content
-## 7.2 Installation Guide
-### 7.2.1 System Requirements
-### 7.2.2 Installation Instructions
-## 7.3 User Guide
-### 7.3.1 Introduction
-### 7.3.2 Getting Started
-#### 7.3.2.1 Accessing the Preschool Recommender
-#### 7.3.2.2 Front Starting Page
-### 7.3.3 Exploring Preschool Options
-#### 7.3.3.1 Searching in a different area
-#### 7.3.3.2 Inputting user filter preferences
-#### 7.3.3.3 User access options (computer etc).
-#### 7.3.3.4 Frequently Asked Questions (FAQs)
+7.1 System Functionalities Against Course Content
+7.2 Installation Guide
+7.2.1 System Requirements
+7.2.2 Installation Instructions
+7.3 User Guide
+7.3.1 Introduction
+7.3.2 Getting Started
+7.3.2.1 Accessing the Preschool Recommender
+7.3.2.2 Front Starting Page
+7.3.3 Exploring Preschool Options
+7.3.3.1 Searching in a different area
+7.3.3.2 Inputting user filter preferences
+7.3.3.3 User access options (computer etc).
+7.3.3.4 Frequently Asked Questions (FAQs)
 
 ---
 ## SECTION 7 : MISCELLANEOUS
