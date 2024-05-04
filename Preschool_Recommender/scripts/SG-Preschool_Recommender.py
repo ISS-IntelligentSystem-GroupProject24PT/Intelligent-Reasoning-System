@@ -277,6 +277,7 @@ class WINDOWS(customtkinter.CTk):
                 tab_map.set_address(location, marker=True)
                 tab_map.set_zoom(13)
 
+        Resultspage.no_result.pack_forget()
         frame.tkraise() # Raise the current frame to the top
 
     def on_closing(self, event=0):
@@ -293,7 +294,7 @@ class QuestionsPage(customtkinter.CTkFrame):
         WINDOWS.MAP_LOCATION = tkinter.StringVar()
         # adr = tkintermapview.convert_coordinates_to_address(1.417300, 103.833000)
         # question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
-        WINDOWS.MAP_LOCATION.set("Current address: Yishun Ave 2, Singapore 769092")
+        WINDOWS.MAP_LOCATION.set("Current address: Yishun Ave 2, Singapore 769092, Latitude")
 
         # Header Text
         qnsHeadText = "Find your child's ideal preschool"
