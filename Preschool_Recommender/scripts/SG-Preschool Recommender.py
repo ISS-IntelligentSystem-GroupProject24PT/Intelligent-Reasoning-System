@@ -239,6 +239,7 @@ class WINDOWS(customtkinter.CTk):
                                 tab_Frame, 
                                 width=300, 
                                 bg_color='light blue',
+                                text_color='black',
                                 wraplength=250, 
                                 justify='center')
                             tab_labels.grid(row=i, column=j, padx=1, pady=10)
@@ -964,19 +965,22 @@ class Resultspage(customtkinter.CTkFrame):
         resultHeading = customtkinter.CTkLabel(
             self, 
             text="Find your child's ideal Preschool",
-            font=WINDOWS.HEAD1_FONT)
+            font=WINDOWS.HEAD1_FONT,
+            text_color='black')
         resultHeading.pack(pady=15)
 
         resultHeading2 = customtkinter.CTkLabel(
             self, 
             text="The Top 3 School Brands with the closest match will be shown below.",
-            font=WINDOWS.HEAD2_FONT)
+            font=WINDOWS.HEAD2_FONT,
+            text_color='black')
         resultHeading2.pack()
 
         Resultspage.no_result = customtkinter.CTkLabel(
             self, 
             text="No results found! Please click \"Redo\".",
-            font=WINDOWS.HEAD2_FONT)
+            font=WINDOWS.HEAD2_FONT,
+            text_color='black')
         Resultspage.no_result.pack_forget()
 
         Resultspage.tab_view = customtkinter.CTkTabview(self)
@@ -1005,6 +1009,7 @@ class Resultspage(customtkinter.CTkFrame):
                         tab1_Frame, 
                         width=300, 
                         bg_color='light blue',
+                        text_color='black',
                         wraplength=250, 
                         justify='center')
                     tab1_labels.grid(row=i, column=j, padx=1, pady=10)
