@@ -48,7 +48,6 @@ The project team experience on the task was fulfilling. Everybody learnt a lot i
 **Sections for Project Report / Paper:**
 # 1 Introduction
 ## 1.1 Project Introduction
-
 # 2 Business Case
 ## 2.1 Macroeconomic Trends
 ## 2.2 Market Landscape
@@ -56,7 +55,6 @@ The project team experience on the task was fulfilling. Everybody learnt a lot i
 ### 2.2.1.2 Competitor Analysis
 ## 2.3 Market Positioning
 ## 2.4 Product Analysis (SWOT Analysis)
-
 # 3 System Development & Implementation
 ## 3.1 Project Scope
 ## 3.2 System Design
@@ -85,17 +83,13 @@ The project team experience on the task was fulfilling. Everybody learnt a lot i
 #### 3.6.2.2 Serendipity, Diversity & Performance
 ### 3.6.3 Cosine Similarity as the Chosen Similarity Metric
 ## 3.7 Front-End Application
-
 # 4 Future Improvements
 ## 4.1 System Features Improvement
 ## 4.2 Data Availability, Accuracy and Timeliness Improvement	
 ## 4.3 Model Improvement
-
 # 5 Conclusion
-
 # 6 References
 ## 6.1 Citations
-
 # 7 Appendix
 ## 7.1 System Functionalities Against Course Content
 ## 7.2 Installation Guide
