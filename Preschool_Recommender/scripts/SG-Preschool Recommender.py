@@ -174,7 +174,7 @@ class WINDOWS(customtkinter.CTk):
                 Resultspage.tab1_address.set("-")
                 Resultspage.tab1_weblink.set("-")
                 Resultspage.tab1_button.configure(state='disable')
-                Resultspage.tab1_map.set_address("Singapore", marker=False)
+                Resultspage.tab1_map.set_address("1.417300, 103.833000", marker=False)
             else:
                 Resultspage.tab_view.delete(brand)
 
@@ -1043,7 +1043,7 @@ class Resultspage(customtkinter.CTkFrame):
             corner_radius=0)
         Resultspage.tab1_map.pack(pady=10)
         
-        Resultspage.tab1_map.set_address("Singapore")
+        Resultspage.tab1_map.set_address("1.417300, 103.833000")
         Resultspage.tab1_map.set_zoom(13)
 
         # Buttons
