@@ -641,12 +641,14 @@ class QuestionsPage(customtkinter.CTkFrame):
             userInput.extend(QuestionsPage.getMarkerPos())
             userInput.append(distRangeAns.get().strip("KM"))
             userInput.extend(QuestionsPage.getEduLvlWithCitizenship(citizenStaAns.get(), calAgeAns, budgetAns.get()))
+            print(budgetAns.get())
             userInput.extend(QuestionsPage.getSelectedProgrammes(progAns.get()))
             userInput.extend(QuestionsPage.getSelectedCurriculum(currAns.get()))
             userInput.extend(
                 QuestionsPage.getSelectedDayswithTiming(daysSentAns.get(), dropoffReg.get(), dropoffWkEnd.get(),
                                                         pickupReg.get(), pickupWkEnd.get()))
             QuestionsPage.generateFile(userInput)
+            print(userInput)
 
         import BusinessRuleEngine
         BusinessRuleEngine.BusinessRulesEngine().trigger_business_rule()
@@ -677,13 +679,16 @@ class QuestionsPage(customtkinter.CTkFrame):
             months += 1
 
         years = r.years
+        print(r)
+        print(months)
+        print(years)
 
         if Status == "Singaporean":
             if years >= 5:  # Kindergarten_Singaporean
                 eduLvlwithStatus = ['0', '0', '0', budget, '0', '0', '0', '0', '4']
             elif years >= 3 and years <= 4:  # Nursery_Singaporean
                 eduLvlwithStatus = ['0', '0', budget, '0', '0', '0', '0', '0', '3']
-            elif months >= 18 and months <= 24:
+            elif months >= 18 and months <= 36:
                 eduLvlwithStatus = ['0', budget, '0', '0', '0', '0', '0', '0', '2']
             elif months >= 2 and months <= 17:
                 eduLvlwithStatus = [budget, '0', '0', '0', '0', '0', '0', '0', '1']
@@ -692,7 +697,7 @@ class QuestionsPage(customtkinter.CTkFrame):
                 eduLvlwithStatus = ['0', '0', '0', '0', '0', '0', '0', budget, '4']
             elif years >= 3 and years <= 4:  # Nursery_Singaporean
                 eduLvlwithStatus = ['0', '0', '0', '0', '0', '0', budget, '0', '3']
-            elif months >= 18 and months <= 24:
+            elif months >= 18 and months <= 36:
                 eduLvlwithStatus = ['0', '0', '0', '0', '0', budget, '0', '0', '2']
             elif months >= 2 and months <= 17:
                 eduLvlwithStatus = ['0', '0', '0', '0', budget, '0', '0', '0', '1']
