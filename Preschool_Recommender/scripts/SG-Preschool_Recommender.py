@@ -294,7 +294,7 @@ class QuestionsPage(customtkinter.CTkFrame):
         WINDOWS.MAP_LOCATION = tkinter.StringVar()
         # adr = tkintermapview.convert_coordinates_to_address(1.417300, 103.833000)
         # question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
-        WINDOWS.MAP_LOCATION.set("Current address: Yishun Ave 2, Singapore 769092, Latitude")
+        WINDOWS.MAP_LOCATION.set("Current address: Yishun Ave 2, Singapore 769092, Latitude, Longitude: 1.417300, 103.833000")
 
         # Header Text
         qnsHeadText = "Find your child's ideal preschool"
@@ -896,9 +896,12 @@ class MapWindow(tkinter.Toplevel):
             try:
                 adr = tkintermapview.convert_coordinates_to_address(coords[0], coords[1])
                 question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
-                WINDOWS.MAP_LOCATION.set(question_location)
+                WINDOWS.MAP_LOCATION.set(question_location + ", Latitude, Longitude: " + coordsText)
             except:
+                WINDOWS.MAP_LOCATION.set("Latitude, Longitude: " + coordsText)
+                messagebox.showerror("Error", "API call error. Current address is updated in the database. Please proceed with the Questionaire.")
                 print("API call error. Current address is updated in the database. Please proceed with the Questionaire.")
+                return
 
         # self.map_widget.add_right_click_menu_command(
         #     label="Pick Location",
@@ -918,10 +921,12 @@ class MapWindow(tkinter.Toplevel):
         WINDOWS.MARKER_LIST.append(self.map_widget.set_marker(current_position[0], current_position[1]))
         try:
             adr = tkintermapview.convert_coordinates_to_address(current_position[0], current_position[1])
-            question_location = "Current address: " + adr.street + ", Singapore " + adr.postal
+            question_location = "Current address: " + adr.street + ", Singapore " + adr.postal + ", Latitude, Longitude: " + current_position[0] + ", " + current_position[1]
             WINDOWS.MAP_LOCATION.set(question_location)
         except:
+            messagebox.showerror("Error", "API call error. Please click directly on the map to select a location.")
             print("API call error. Current address is updated in the database. Please proceed with the Questionaire.")
+            return
 
     # def set_marker_event(self):
     #     current_position = self.map_widget.get_position()
