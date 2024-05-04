@@ -107,10 +107,3 @@ The project team experience on the task was fulfilling. Everybody learnt a lot i
 `7.3.3.4 Frequently Asked Questions (FAQs)`
 
 ---
-## SECTION 7 : MISCELLANEOUS
-
-`Refer to Github Folder: documentations/Miscellaneous`
-
-any etc information
----
-
