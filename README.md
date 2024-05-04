@@ -23,7 +23,7 @@ The project team experience on the task was fulfilling. Everybody learnt a lot i
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) |
 | :------------ |:---------------:| :-----|
-| Hu Lei            | A0120681N | Concept generation, Matching Algorithm Research |
+| Hu Lei            | A0120681N | Concept generation, Matching Algorithm Research | User Guides
 | Ho Zi Hao Timothy | A0150123B | Concept generation, Data extraction, Business Rule Generation, Group Reports, Business video |
 | Tan Jinn Yeu      | A0067140N | Concept generation, Data webscraping, Data extraction,  Data Processing, Business Rule Generation, Matching Algorithm, Front End Refinement, Group Reports, Technical video |
 | Pan Lifan         | A0291192A | Concept generation, Front End Integration, Application packaging, Installation & User Guides |
